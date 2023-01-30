@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/openpeep/valido/blob/main/.github/logo.png" width="90px"><br>
+  <img src="https://github.com/openpeep/valido/blob/main/.github/logo.png" width="64px"><br>
   A library of string validators and sanitizers. 👑 Written in Nim language
 </p>
 
