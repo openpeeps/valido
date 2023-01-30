@@ -17,7 +17,7 @@ jobs:
       - uses: jiro4989/setup-nim-action@v1
         with:
           nim-version: ${{ env.nim-version }}
-      - run: nim doc --index:on --project --out:${{ env.deploy-dir }} ${{ env.nim-src }}
+      - run: nim doc --index:on --project --path:. --out:${{ env.deploy-dir }} ${{ env.nim-src }}
       
       - name: "Rename to index.html"
         run: mv ${{ env.deploy-dir }}/${{ github.event.repository.name }}.html ${{ env.deploy-dir }}/index.html 
