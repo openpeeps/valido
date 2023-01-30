@@ -1,1 +1,0 @@
-isEmail	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/email.html#isEmail,string	email: isEmail(input: string; allowSpecialChars = false): bool	

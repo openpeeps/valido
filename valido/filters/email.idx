@@ -1,0 +1,1 @@
+isEmail	valido/filters/email.html#isEmail,string	email: isEmail(input: string; allowSpecialChars = false): bool	

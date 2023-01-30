@@ -1,0 +1,7 @@
+Any	valido/filters/uuid.html#Any	UUIDVersion.Any	
+V1	valido/filters/uuid.html#V1	UUIDVersion.V1	
+V3	valido/filters/uuid.html#V3	UUIDVersion.V3	
+V4	valido/filters/uuid.html#V4	UUIDVersion.V4	
+V5	valido/filters/uuid.html#V5	UUIDVersion.V5	
+UUIDVersion	valido/filters/uuid.html#UUIDVersion	uuid: UUIDVersion	
+isUUID	valido/filters/uuid.html#isUUID,string,UUIDVersion	uuid: isUUID(input: string; version: UUIDVersion = Any): bool	

@@ -1,0 +1,5 @@
+isLowercase	valido/filters/str.html#isLowercase,string	str: isLowercase(input: string): bool	
+isUppercase	valido/filters/str.html#isUppercase,string	str: isUppercase(input: string): bool	
+isAlpha	valido/filters/str.html#isAlpha,string	str: isAlpha(input: string): bool	
+isAlphanumerical	valido/filters/str.html#isAlphanumerical,string	str: isAlphanumerical(input: string): bool	
+isDigits	valido/filters/str.html#isDigits,string	str: isDigits(input: string): bool	
