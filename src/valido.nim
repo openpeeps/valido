@@ -26,11 +26,3 @@ macro importFilters() =
   )
 
 importFilters()
-
-proc validate*(i: string): string {.inline.} =
-  result = i
-
-when isMainModule:
-  # echo validate("ąćęłńóśżź").isPassword()
-  let mypass = "21$)($_@S}{a2aXa"
-  echo mypass.validate.isPassword

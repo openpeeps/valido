@@ -1,3 +1,4 @@
+## TODO handle ccTLDs
 const GetTLDs* = [
     "AAA",
     "AARP",

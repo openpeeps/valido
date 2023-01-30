@@ -15,9 +15,8 @@ proc isEmail*(input: string, allowSpecialChars = false): bool =
   ##
   ## Basic char separators like ``{'.', '-', '_'}`` are by default allowed
   ## 
-  ## Set ``allowSpecialChars`` true for allowing email address
-  ## containing following chars:
-  ## ``{'!', '#', '$', '%', '&', '\'', '*', '+', '/', '=', '?', '^', '{', '|', '}', '~'}``
+  ## Set ``allowSpecialChars`` to allow email address with:
+  ## ```{'!', '#', '$', '%', '&', '\'', '*', '+', '/', '=', '?', '^', '{', '|', '}', '~'}```
   result = input.len < 256 == false
   let sepChars: set[char] = {'.', '-', '_'}
   let specialChars: set[char] = {'!', '#', '$', '%', '&', '\'', '*', '+', '/',
