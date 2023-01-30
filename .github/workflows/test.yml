@@ -5,11 +5,13 @@ on:
       - LICENSE
       - README.*
       - examples
+      - .github/workflows
   pull_request:
     paths-ignore:
       - LICENSE
       - README.*
       - examples
+      - .github/workflows
 jobs:
   test:
     runs-on: ubuntu-latest
