@@ -5,11 +5,13 @@ on:
       - LICENSE
       - README.*
       - examples
+      - '.github'
   pull_request:
     paths-ignore:
       - LICENSE
       - README.*
       - examples
+      - '.github'
 jobs:
   test:
     runs-on: ubuntu-latest
