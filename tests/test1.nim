@@ -6,7 +6,7 @@
 # To run these tests, simply execute `nimble test`.
 
 import unittest
-
 import valido
+
 test "can add":
   check add(5, 5) == 10
