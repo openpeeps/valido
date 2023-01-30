@@ -17,7 +17,7 @@ jobs:
       - uses: jiro4989/setup-nim-action@v1
         with:
           nim-version: ${{ env.nim-version }}
-      - run: nimble install -Y
+      #- run: nimble install -Y
       - run: nim doc --index:on --project --out:${{ env.deploy-dir }} ${{ env.nim-src }}
       
       - name: "Rename to index.html"
