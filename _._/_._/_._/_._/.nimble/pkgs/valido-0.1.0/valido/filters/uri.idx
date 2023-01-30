@@ -1,0 +1,21 @@
+Invalid	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Invalid	SchemeURI.Invalid	
+Android	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Android	SchemeURI.Android	
+Bitcoin	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Bitcoin	SchemeURI.Bitcoin	
+BitcoinCash	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#BitcoinCash	SchemeURI.BitcoinCash	
+Chrome	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Chrome	SchemeURI.Chrome	
+ChromeExtension	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#ChromeExtension	SchemeURI.ChromeExtension	
+FaceTime	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#FaceTime	SchemeURI.FaceTime	
+Feed	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Feed	SchemeURI.Feed	
+Ftp	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Ftp	SchemeURI.Ftp	
+Git	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Git	SchemeURI.Git	
+Irc	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Irc	SchemeURI.Irc	
+Irc6	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Irc6	SchemeURI.Irc6	
+Ircs	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Ircs	SchemeURI.Ircs	
+Ldaps	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Ldaps	SchemeURI.Ldaps	
+MongoDB	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#MongoDB	SchemeURI.MongoDB	
+Market	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Market	SchemeURI.Market	
+Message	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Message	SchemeURI.Message	
+Sftp	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Sftp	SchemeURI.Sftp	
+Ssh	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#Ssh	SchemeURI.Ssh	
+SchemeURI	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#SchemeURI	uri: SchemeURI	
+getScheme	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uri.html#getScheme,string	uri: getScheme(input: string)	

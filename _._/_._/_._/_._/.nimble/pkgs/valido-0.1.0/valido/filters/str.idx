@@ -1,0 +1,5 @@
+isLowercase	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/str.html#isLowercase,string	str: isLowercase(input: string): bool	
+isUppercase	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/str.html#isUppercase,string	str: isUppercase(input: string): bool	
+isAlpha	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/str.html#isAlpha,string	str: isAlpha(input: string): bool	
+isAlphanumerical	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/str.html#isAlphanumerical,string	str: isAlphanumerical(input: string): bool	
+isDigits	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/str.html#isDigits,string	str: isDigits(input: string): bool	

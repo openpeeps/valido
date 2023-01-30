@@ -1,0 +1,7 @@
+Any	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uuid.html#Any	UUIDVersion.Any	
+V1	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uuid.html#V1	UUIDVersion.V1	
+V3	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uuid.html#V3	UUIDVersion.V3	
+V4	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uuid.html#V4	UUIDVersion.V4	
+V5	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uuid.html#V5	UUIDVersion.V5	
+UUIDVersion	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uuid.html#UUIDVersion	uuid: UUIDVersion	
+isUUID	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/uuid.html#isUUID,string,UUIDVersion	uuid: isUUID(input: string; version: UUIDVersion = Any): bool	

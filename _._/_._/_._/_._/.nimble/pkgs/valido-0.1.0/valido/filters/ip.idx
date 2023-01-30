@@ -1,0 +1,1 @@
+isIP4	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/ip.html#isIP4,string	ip: isIP4(input: string): bool	

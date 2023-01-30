@@ -1,0 +1,1 @@
+isIBAN	_._/_._/_._/_._/.nimble/pkgs/valido-0.1.0/valido/filters/iban.html#isIBAN,string	iban: isIBAN(iban: string): bool	
