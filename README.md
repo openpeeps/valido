@@ -13,6 +13,8 @@
 </p>
 
 ## 😍 Key Features
+- [ ] Framework agnostic
+- [ ] Zero RegExp
 - [x] Open Source | `MIT` License
 - [x] Written in Nim language
 
