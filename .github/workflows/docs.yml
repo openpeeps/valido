@@ -35,9 +35,5 @@ jobs:
       - name: Deploy documents
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.DEPLOY_KEY }}
-          external_repository: openpeep/openpeep.github.io
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ${{ env.deploy-dir }}
-          destination_dir: ./find
-          publish_branch: main
-          enable_jekyll: true
