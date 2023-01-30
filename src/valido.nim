@@ -1,5 +1,8 @@
 import std/[macros, os, strutils]
 
+dumpAstGen:
+  import ./valido/filters/[a, b, c]
+
 macro importFilters() =
   let filtersPath = currentSourcePath().parentDir / "valido" / "filters"
   var filters = newTree(nnkBracket)
@@ -13,11 +16,14 @@ macro importFilters() =
   result.add(
     nnkImportStmt.newTree(
       nnkInfix.newTree(
-        newIdentNode("/"),
+        ident "/",
         nnkInfix.newTree(
-          newIdentNode("/"),
-          newIdentNode("valido"),
-          newIdentNode("filters")
+          ident "/",
+          nnkPrefix.newTree(
+            ident "./",
+            ident  "valido",
+          ),
+          ident "filters"
         ),
         filters
       )
