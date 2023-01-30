@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/openpeep/valido/blob/main/.github/logo.png" width="64px"><br>
-  A library of string validators and sanitizers. 👑 Written in Nim language
+  A library of string validators and sanitizers.<br>👑 Written in Nim language
 </p>
 
 <p align="center">
