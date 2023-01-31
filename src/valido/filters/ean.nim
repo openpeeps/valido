@@ -1,5 +1,4 @@
-import std/[strutils, math]
-from std/algorithm import reverse
+import std/strutils
 
 type
   EANType* = enum
@@ -13,27 +12,11 @@ type
   EANStatus* = tuple[status: bool, eanType: EANType] 
 
 proc isEAN13*(ea: string): bool =
-  var t: int
-  try:
-    let checkdigit = parseInt(ea[0..0])
-    for pos, i in ea[1 .. ^1]:
-      if pos mod 2 == 0:
-        t += parseInt($i) * 3
-      else:
-        t += parseInt($i)
-    let res = t mod 10
-    result = ((10 - res) mod 10) == checkdigit
-  except ValueError:
-    result = false
-
-proc isEAN8*(ea: string): bool =
-  if ea.len == 8:
+  if ea.len == 13:
     try:
-      var i = ea
-      reverse(i) # The digit are used from right to left
       var t: int
-      let checkdigit = parseInt(i[0..0])
-      for pos, i in i[1 .. ^1]:
+      let checkdigit = parseInt(ea[0..0])
+      for pos, i in ea[1 .. ^1]:
         if pos mod 2 == 0:
           t += parseInt($i) * 3
         else:
@@ -43,10 +26,25 @@ proc isEAN8*(ea: string): bool =
     except ValueError:
       result = false
 
+proc isEAN8*(ea: string): bool =
+  if ea.len == 8:
+    try:
+      var t: int
+      let checkdigit = parseInt(ea[^1..^1])
+      for i in countdown(ea.high - 1, 0):
+        if i mod 2 == 0:
+          t += parseInt($ea[i]) * 3
+        else:
+          t += parseInt($ea[i])
+      let res = t mod 10
+      result = ((10 - res) mod 10) == checkdigit
+    except ValueError:
+      result = false
+
 proc isEAN*(ea: string): EANStatus =
   let bclen = len(ea)
   if bclen == 8:
-    result.status = isEAN8 ea
+    result.status = isEAN8(ea)
     if result.status:
       result.eanType = EAN8
   elif bclen == 13:

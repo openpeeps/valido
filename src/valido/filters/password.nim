@@ -56,7 +56,7 @@ proc isPassword*(input: string, req: PasswordRequirements = (8, true, true, true
         inc countUppers
       try:
         if input[i] == input[i + 1]: inc countRepeats
-      except IndexError: discard
+      except Defect: discard
       inc i
     if req.incUppers and countUppers == 0:     stop passMinUppers
     if req.incLowers and countLowers == 0:     stop passMinLowers

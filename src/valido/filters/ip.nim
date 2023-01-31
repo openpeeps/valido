@@ -5,7 +5,6 @@
 #          https://github.com/openpeep/valido
 
 import std/re
-import std/strformat
 
 proc isIP4*(input: string): bool =
   let v4Segment = "(?:[0-9]|[1-9][0-9]|1[0-9][0-9]|2[0-4][0-9]|25[0-5])"
