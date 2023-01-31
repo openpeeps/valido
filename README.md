@@ -8,11 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/">API reference</a><br>
+  <a href="https://openpeep.github.io/valido/">API reference</a><br>
   <img src="https://github.com/openpeep/valido/workflows/test/badge.svg" alt="Github Actions"> <img src="https://github.com/openpeep/valido/workflows/docs/badge.svg" alt="Github Actions">
 </p>
 
 ## 😍 Key Features
+- [ ] Framework agnostic
+- [ ] Zero RegExp
 - [x] Open Source | `MIT` License
 - [x] Written in Nim language
 
