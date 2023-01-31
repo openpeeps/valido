@@ -96,3 +96,21 @@ test "isJSON (valid)":
 
 test "isJSON (invalid)":
   check isJSON("[true, {}") == false
+
+test "isBase32 (valid)":
+  check isBase32("JBSWY3DPEBLW64TMMQQQ====") == true
+  check isBase32("NZUW2IDJOMQGC53FONXW2ZI=") == true
+  check isBase32("NB2HI4DTHIXS6Z3JORUHKYROMNXW2L3POBSW44DFMVYA====") == true
+
+test "isBase32 (invalid)":
+  check isBase32("MRI=") == false
+  check isBase32("2NEpo7TZRRrLZSi2U") == false
+
+test "isBase58 (valid)":
+  check isBase58("2NEpo7TZRRrLZSi2U") == true
+
+test "isBase58 (invalid)":
+  check isBase58("NZUW2IDJOMQGC53FONXW2ZI=") == false
+
+test "isBase64 (valid)":
+  check isBase64("SGVsbG8gV29ybGQhIE5pbSBpcyBBd2Vzb21lIQ==") == true
