@@ -14,4 +14,4 @@ requires "bigints"
 
 task dev, "dev":
   echo "\n✨ Compiling..." & "\n"
-  exec "nim c --gc:arc --out:bin/valido src/valido.nim"
+  exec "nim c --gc:arc --path:. --out:bin/valido src/valido.nim"
