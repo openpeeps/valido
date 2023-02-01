@@ -4,7 +4,7 @@
 #          Made by Humans from OpenPeep
 #          https://github.com/openpeep/valido
 
-import ../utils/tlds
+import ./utils/tlds
 from std/strutils import toUpperAscii, split, count
 
 const validTLDs = GetTLDs

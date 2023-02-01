@@ -36,6 +36,3 @@ proc isIBAN*(iban: string): bool =
       of 'A'..'Z': digits.add($(ch.ord - 'A'.ord + 10))
       else: discard
   result = initBigInt(digits) mod initBigInt(97) == initBigInt(1)
- 
-# for account in ["GB82 WEST 1234 5698 7654 32", "GB82 TEST 1234 5698 7654 32"]:
-#     echo account, " validation is: ", validIban account

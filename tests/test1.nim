@@ -193,3 +193,6 @@ test "isDigits / isFloat / isBoolean / isRegex (invalid)":
   check isFloat("20,99") == false
   check isHexStr("48656c6c6 f20576f726c64") == false
   check isRegex("*") == false
+
+test "isIBAN":
+  check isIBAN("BE71096123456769")
