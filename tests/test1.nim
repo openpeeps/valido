@@ -144,3 +144,52 @@ test "isIP6 (valid)":
 
 test "isIP6Reachable (invalid)":
   check isIP6Reachable("2605:2700:0:3::4713:93e3") == false
+
+test "isLowercase / isUppercase (valid)":
+  check isLowercase("lorem", true) == true
+  check isLowercase("lorem ipsum dolor sit amet", true) == true
+  check isLowercase("lorem ipsum dolor sit amet 2023", true, true) == true
+  
+  check isUppercase("LOREM IPSUM DOLOR SIT AMET", true) == true
+  check isUppercase("LOREM IPSUM DOLOR SIT AMET 2023", true, true) == true
+
+test "isLowercase / isUppercase (invalid)":
+  check isLowercase("lo rem") == false
+  check isLowercase("lorem123") == false
+  check isLowercase("lorem IPSUM DOLOR SIT AMET", true) == false
+  check isUppercase("LOREM ipsum dolor sit amet", true) == false
+  check isUppercase("LO REM") == false
+  check isLowercase("bro stop with latin") == false
+
+test "isDigits (valid)":
+  check isDigits("1234554321") == true
+  check isDigits("1234-554-321", '-') == true
+
+test "isDigits (invalid)":
+  check isDigits("12345 54321") == false
+  check isDigits("1234-554-321") == false
+  check isDigits("1234_554", '-') == false
+
+test "isAlpha / isAlphaNumeric (valid)":
+  check isAlpha("abcdefgh") == true
+  check isAlpha("no more lorem ipsum", true) == true
+  check isAlphaNumeric("mystuff2") == true
+  check isAlphaNumeric("one 2 3", true) == true
+
+test "isAlpha / isAlphaNumeric (invalid)":
+  check isAlpha("123") == false
+  check isAlpha("no more spaces") == false
+  check isAlphaNumeric("mystuff@example", true) == false
+  check isAlphaNumeric("one 2 3") == false
+
+test "isDigits / isFloat / isBoolean / isRegex (valid)":
+  check isBoolean("true") == true
+  check isFloat("20.99") == true
+  check isHexStr("48656c6c6f20576f726c64") == true
+  check isRegex("(\\w+)=(\\w+)") == true
+
+test "isDigits / isFloat / isBoolean / isRegex (invalid)":
+  check isBoolean("yeah") == false
+  check isFloat("20,99") == false
+  check isHexStr("48656c6c6 f20576f726c64") == false
+  check isRegex("*") == false
