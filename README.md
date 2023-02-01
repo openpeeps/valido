@@ -13,8 +13,17 @@
 </p>
 
 ## 😍 Key Features
-- [ ] Framework agnostic
+- [x] Framework agnostic
 - [ ] Zero RegExp
+- [x] is `Base32`, `Base58`, `Base64`
+- [x] is `Email`
+- [x] is `IP4`, `IP6`
+- [x] is `IBAN`
+- [x] is Strong `Password`
+- [x] is `Port`
+- [x] is `URI`
+- [x] is `UUID`
+- [x] is `JSON`
 - [x] Open Source | `MIT` License
 - [x] Written in Nim language
 
