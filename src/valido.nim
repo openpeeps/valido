@@ -1,11 +1,14 @@
 import std/[macros, os, strutils]
 
 macro importFilters() =
-  let filtersPath = currentSourcePath().parentDir / "valido" / "filters"
-  var filters = newTree(nnkBracket)
-  var procs = newTree(nnkStmtList)
-  var exports = newTree(nnkExportStmt)
+  let filtersPath = currentSourcePath().parentDir / "valido"
+  var
+    filters = newTree(nnkBracket)
+    procs = newTree(nnkStmtList)
+    exports = newTree(nnkExportStmt)
   for filter in walkDir(filtersPath):
+    if not filter.path.endsWith(".nim"):
+      continue
     let filterName = filter.path.extractFilename()[0 .. ^5]
     filters.add ident filterName
     exports.add ident filterName
@@ -14,11 +17,7 @@ macro importFilters() =
     nnkImportStmt.newTree(
       nnkInfix.newTree(
         ident "/",
-        nnkInfix.newTree(
-          ident "/",
-          ident  "valido",
-          ident "filters"
-        ),
+        ident  "valido",
         filters
       )
     ),
