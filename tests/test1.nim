@@ -124,3 +124,23 @@ test "isPort (valid)":
 test "isPort (invalid)":
   check isPort("244011") == false
   check isPort(1000, true) == false
+
+test "isIP4 (valid)":
+  check isIP4("127.0.0.1", allowLoopback = true) == true
+  check isIP4("142.251.32.174") == true
+  check isIP4("8.8.8.8") == true
+  check isIP4("17.253.144.10") == true
+
+test "isIP4 (invalid)":
+  check isIP4("2605:2700:0:3::4713:93e3") == false
+  check isIP4("127.0.0.1") == false
+
+test "isIP4Reachable (valid)":
+  check isIP4Reachable("38.123.217.25") == false
+
+test "isIP6 (valid)":
+  check isIP6("2605:2700:0:3::4713:93e3") == true
+  check isIP6("2a00:1450:400d:80c::200e") == true
+
+test "isIP6Reachable (invalid)":
+  check isIP6Reachable("2605:2700:0:3::4713:93e3") == false
