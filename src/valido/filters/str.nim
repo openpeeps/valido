@@ -5,9 +5,14 @@
 #          https://github.com/openpeep/valido
 
 import std/[macros, re]
-from std/strutils import Whitespace, Letters, Digits, LowercaseLetters,
-                        UppercaseLetters, parseFloat, parseInt,
-                        parseHexStr
+from std/strutils import Whitespace, Letters, Digits,
+                        parseFloat, parseInt, parseHexStr
+
+# from std/strutils import Whitespace, Letters, Digits,
+#                         LowercaseLetters, UppercaseLetters
+const
+  UppercaseLetters* = {'A'..'Z'}
+  LowercaseLetters* = {'a'..'z'}
 
 proc isLowercase*(input: string, withWhitespaces: bool, withNumbers = false): bool =
   ## Determine if given input is in lowercase. Optionally, you can allow
