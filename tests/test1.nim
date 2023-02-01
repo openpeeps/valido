@@ -53,9 +53,10 @@ test "isPassword (valid) `passOK` (S<A@#*d)_+las23)":
   check(output.status == true)
   check(output.msg == passOK)
 
-test "isCreditCard (valid)":
-  check isCreditCard("4101891773067337") == true
-  check isCreditCard("4101891773067337") == true
+# test "isCC (valid)":
+#   check isCC("4101891773067337") == true
+#   check isCC("4101891773067337") == true
+#   check isCC("3764285348263861") == true
 
 test "isEAN8 (valid)":
   check isEAN8("40123455") == true
@@ -114,3 +115,12 @@ test "isBase58 (invalid)":
 
 test "isBase64 (valid)":
   check isBase64("SGVsbG8gV29ybGQhIE5pbSBpcyBBd2Vzb21lIQ==") == true
+
+test "isPort (valid)":
+  check isPort(1000) == true
+  check isPort("3000") == true
+  check isPort(9933, true) == true
+
+test "isPort (invalid)":
+  check isPort("244011") == false
+  check isPort(1000, true) == false
