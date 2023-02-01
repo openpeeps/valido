@@ -31,7 +31,7 @@ proc checkIsReachable(ip: string, port: Port, timeout: int): bool =
   try:
     socket.connect(ip, port, timeout)
     result = true
-  except OSError: discard
+  except OSError, TimeoutError: discard
 
 proc isIP4*(input: string, allowLoopback = false): bool =
   ## Check if given input is a valid IPv4. Optionally,
