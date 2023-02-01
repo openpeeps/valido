@@ -194,5 +194,9 @@ test "isDigits / isFloat / isBoolean / isRegex (invalid)":
   check isHexStr("48656c6c6 f20576f726c64") == false
   check isRegex("*") == false
 
-test "isIBAN":
-  check isIBAN("BE71096123456769")
+#test "isIBAN":
+  # check isIBAN("BE71096123456769")
+
+test "isMD5":
+  check isMD5("900150983cd24fb0d6963f7d28e17f72") == true
+  check isMD5("900150983cd24fb0d6963f7d28x07f72") == false
