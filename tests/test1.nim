@@ -136,7 +136,7 @@ test "isIP4 (invalid)":
   check isIP4("127.0.0.1") == false
 
 test "isIP4Reachable (valid)":
-  check isIP4Reachable("38.123.217.25") == false
+  check isIP4Reachable("38.123.217.25", timeout = 10000) == false
 
 test "isIP6 (valid)":
   check isIP6("2605:2700:0:3::4713:93e3") == true
