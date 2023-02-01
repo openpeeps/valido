@@ -1,1 +1,0 @@
-isBase32	valido/filters/base32.html#isBase32,string	base32: isBase32(input: string): bool	

@@ -1,0 +1,21 @@
+Invalid	valido/uri.html#Invalid	SchemeURI.Invalid	
+Android	valido/uri.html#Android	SchemeURI.Android	
+Bitcoin	valido/uri.html#Bitcoin	SchemeURI.Bitcoin	
+BitcoinCash	valido/uri.html#BitcoinCash	SchemeURI.BitcoinCash	
+Chrome	valido/uri.html#Chrome	SchemeURI.Chrome	
+ChromeExtension	valido/uri.html#ChromeExtension	SchemeURI.ChromeExtension	
+FaceTime	valido/uri.html#FaceTime	SchemeURI.FaceTime	
+Feed	valido/uri.html#Feed	SchemeURI.Feed	
+Ftp	valido/uri.html#Ftp	SchemeURI.Ftp	
+Git	valido/uri.html#Git	SchemeURI.Git	
+Irc	valido/uri.html#Irc	SchemeURI.Irc	
+Irc6	valido/uri.html#Irc6	SchemeURI.Irc6	
+Ircs	valido/uri.html#Ircs	SchemeURI.Ircs	
+Ldaps	valido/uri.html#Ldaps	SchemeURI.Ldaps	
+MongoDB	valido/uri.html#MongoDB	SchemeURI.MongoDB	
+Market	valido/uri.html#Market	SchemeURI.Market	
+Message	valido/uri.html#Message	SchemeURI.Message	
+Sftp	valido/uri.html#Sftp	SchemeURI.Sftp	
+Ssh	valido/uri.html#Ssh	SchemeURI.Ssh	
+SchemeURI	valido/uri.html#SchemeURI	uri: SchemeURI	
+getScheme	valido/uri.html#getScheme,string	uri: getScheme(input: string)	

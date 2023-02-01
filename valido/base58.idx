@@ -1,0 +1,1 @@
+isBase58	valido/base58.html#isBase58,string	base58: isBase58(input: string): bool	

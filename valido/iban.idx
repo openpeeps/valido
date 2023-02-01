@@ -1,0 +1,1 @@
+isIBAN	valido/iban.html#isIBAN,string	iban: isIBAN(iban: string): bool	

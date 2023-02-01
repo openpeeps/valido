@@ -1,0 +1,13 @@
+UppercaseLetters	valido/str.html#UppercaseLetters	str: UppercaseLetters	
+LowercaseLetters	valido/str.html#LowercaseLetters	str: LowercaseLetters	
+isLowercase	valido/str.html#isLowercase,string,bool	str: isLowercase(input: string; withWhitespaces: bool; withNumbers = false): bool	
+isLowercase	valido/str.html#isLowercase,string	str: isLowercase(input: string): bool	
+isUppercase	valido/str.html#isUppercase,string	str: isUppercase(input: string; withWhitespaces, withNumbers = false): bool	
+isDigits	valido/str.html#isDigits,string	str: isDigits(input: string): bool	
+isDigits	valido/str.html#isDigits,string,char	str: isDigits(input: string; sep: char): bool	
+isAlpha	valido/str.html#isAlpha,string	str: isAlpha(input: string; withWhitespaces = false; ws = Whitespace): bool	
+isAlphaNumeric	valido/str.html#isAlphaNumeric,string	str: isAlphaNumeric(input: string; withWhitespaces = false; ws = Whitespace): bool	
+isBoolean	valido/str.html#isBoolean,string	str: isBoolean(input: string): bool	
+isFloat	valido/str.html#isFloat,string	str: isFloat(input: string): bool	
+isHexStr	valido/str.html#isHexStr,string	str: isHexStr(input: string): bool	
+isRegex	valido/str.html#isRegex,string	str: isRegex(input: string): bool	

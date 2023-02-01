@@ -1,0 +1,1 @@
+isBase64	valido/base64.html#isBase64,string	base64: isBase64(i: string; urlSafe = false): bool	

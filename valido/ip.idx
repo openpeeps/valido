@@ -1,0 +1,4 @@
+isIP4	valido/ip.html#isIP4,string	ip: isIP4(input: string; allowLoopback = false): bool	
+isIP4Reachable	valido/ip.html#isIP4Reachable,string,Port,int	ip: isIP4Reachable(input: string; port: Port = Port(80); timeout = 5000): bool	
+isIP6	valido/ip.html#isIP6,string	ip: isIP6(input: string; allowLoopback = false): bool	
+isIP6Reachable	valido/ip.html#isIP6Reachable,string,Port,int	ip: isIP6Reachable(input: string; port: Port = Port(80); timeout = 5000): bool	

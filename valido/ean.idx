@@ -1,0 +1,11 @@
+InvalidEAN	valido/ean.html#InvalidEAN	EANType.InvalidEAN	
+EAN8	valido/ean.html#EAN8	EANType.EAN8	
+EAN12	valido/ean.html#EAN12	EANType.EAN12	
+EAN13	valido/ean.html#EAN13	EANType.EAN13	
+EAN14	valido/ean.html#EAN14	EANType.EAN14	
+EAN18	valido/ean.html#EAN18	EANType.EAN18	
+EANType	valido/ean.html#EANType	ean: EANType	
+EANStatus	valido/ean.html#EANStatus	ean: EANStatus	
+isEAN13	valido/ean.html#isEAN13,string	ean: isEAN13(ea: string): bool	
+isEAN8	valido/ean.html#isEAN8,string	ean: isEAN8(ea: string): bool	
+isEAN	valido/ean.html#isEAN,string	ean: isEAN(ea: string): EANStatus	

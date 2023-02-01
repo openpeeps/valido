@@ -1,0 +1,2 @@
+isPort	valido/port.html#isPort,int	port: isPort(input: int; strict = false): bool	
+isPort	valido/port.html#isPort,string	port: isPort(input: string; strict = false): bool	
