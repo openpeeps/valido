@@ -1,0 +1,630 @@
+- name: "AL BARAKA BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: ALCVLBBE
+    
+- name: "AL BILAD ISLAMIC BANK FOR INVESTMENT AND FINANCE PSC"
+  city: "BEIRUT"
+  branch: null
+  swift: AIIFLBBE
+    
+- name: "AL MAWARID BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: MABALBBE
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "BEIRUT"
+  branch: null
+  swift: ARAILBBE
+    
+- name: "ARAB BANK PLC"
+  city: "BEIRUT"
+  branch: BEIRUT BRANCH
+  swift: ARABLBB10B6
+    
+- name: "ARAB BANK PLC"
+  city: "BEIRUT"
+  branch: DORA BRANCH
+  swift: ARABLBB10B2
+    
+- name: "ARAB BANK PLC"
+  city: "BEIRUT"
+  branch: HAZMIEH
+  swift: ARABLBBX0B9
+    
+- name: "ARAB BANK PLC"
+  city: "BEIRUT"
+  branch: LEBANON BRANCHES CENTRE
+  swift: ARABLBBX
+    
+- name: "ARAB BANK PLC"
+  city: "BEIRUT"
+  branch: MAZRA'A BRANCH
+  swift: ARABLBB10B3
+    
+- name: "ARAB BANK PLC"
+  city: "BEIRUT"
+  branch: RAS BEIRUT BRANCH
+  swift: ARABLBB10B4
+    
+- name: "ARAB BANK PLC"
+  city: "BEIRUT"
+  branch: TREASURY BACKOFFICE
+  swift: ARABLBBXTBO
+    
+- name: "ARAB BANK PLC"
+  city: "BEIRUT"
+  branch: VERDUN BRANCH
+  swift: ARABLBB10B5
+    
+- name: "ARAB BANK PLC"
+  city: "CHTOURA"
+  branch: CHTOURA BRANCH
+  swift: ARABLBB1024
+    
+- name: "ARAB BANK PLC"
+  city: "JBEIL"
+  branch: MINA BRANCH
+  swift: ARABLBB1026
+    
+- name: "ARAB BANK PLC"
+  city: "JBEIL"
+  branch: TAL BRANCH
+  swift: ARABLBB1022
+    
+- name: "ARAB BANK PLC"
+  city: "JBEIL"
+  branch: ZAHREIH BRANCH
+  swift: ARABLBB1025
+    
+- name: "ARAB BANK PLC"
+  city: "SAIDA"
+  branch: null
+  swift: ARABLBB1023
+    
+- name: "ARAB BANK PLC"
+  city: "SHYAH"
+  branch: SHYAH BRANCH
+  swift: ARABLBBX0B7
+    
+- name: "ARAB BANK PLC"
+  city: "SIN EL-FIL"
+  branch: SIN EL-FIL BRANCH
+  swift: ARABLBBX0B8
+    
+- name: "ARAB FINANCE CORPORATION SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: AFCOLBBE
+    
+- name: "ARAB FINANCE HOUSE SAL (ISLAMIC BANK)"
+  city: "BEIRUT"
+  branch: null
+  swift: AFHOLBBE
+    
+- name: "ARAB INVESTMENT BANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: ARBVLBBE
+    
+- name: "AUDI INVESTMENT BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: AUSILBBE
+    
+- name: "AUDI INVESTMENT BANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: INFSLBB1
+    
+- name: "AUDI PRIVATE BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: BSARLBBX
+    
+- name: "B.L.C. BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: LICOLBBX
+    
+- name: "BANK AL MADINA SAL."
+  city: "BEIRUT"
+  branch: null
+  swift: MADILBL1
+    
+- name: "BANK AUDI S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: AUDBLBBX
+    
+- name: "BANK OF BAGHDAD"
+  city: "BEIRUT"
+  branch: null
+  swift: BABILBBE
+    
+- name: "BANK OF BEIRUT INVEST S.A.L"
+  city: "BEIRUT"
+  branch: null
+  swift: BOBPLBBE
+    
+- name: "BANK OF BEIRUT S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: BABELBBE
+    
+- name: "BANKMED,SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: MEDLLBBX
+    
+- name: "BANQUE BEMO SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: EUMOLBBE
+    
+- name: "BANQUE DE CREDIT NATIONAL S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: BCNBLBBE
+    
+- name: "BANQUE DE L'HABITAT S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: LHBALBBX
+    
+- name: "BANQUE DU CREDIT POPULAIRE S A L"
+  city: "BEIRUT"
+  branch: null
+  swift: NUDTLBB1
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: ACCOUNTING DEPARTMENT
+  swift: BDLCLBBXACD
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: CURRENT OPERATIONS DEPARTMENT
+  swift: BDLCLBBXCOD
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: FINANCIAL OPERATIONS DEPARTMENT
+  swift: BDLCLBBXFOD
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: FOREIGN EXCHANGE DEPARTMENT
+  swift: BDLCLBBXFXD
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: MINISTRY OF FINANCE - TREASURY AND PUBLIC DEBT DIRECTORATE
+  swift: BDLCLBBXMOF
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: null
+  swift: BDLCLBBA
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: null
+  swift: BDLCLBBC
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: null
+  swift: BDLCLBBF
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: null
+  swift: BDLCLBBG
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: null
+  swift: BDLCLBBX
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: null
+  swift: BDLCLBBXASA
+    
+- name: "BANQUE DU LIBAN"
+  city: "BEIRUT"
+  branch: null
+  swift: BDLCLBBXTIA
+    
+- name: "BANQUE JOSEPH GEAGEA S A L"
+  city: "BEIRUT"
+  branch: null
+  swift: BJGELBB1
+    
+- name: "BANQUE LIBANO FRANCAISE"
+  city: "BEIRUT"
+  branch: null
+  swift: BLFSLBBX
+    
+- name: "BANQUE MISR LIBAN S.A.L."
+  city: "BEIRUT"
+  branch: MAR ELIAS STREET BRANCH
+  swift: BMISLBB10B2
+    
+- name: "BANQUE MISR LIBAN S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: BMISLBBE
+    
+- name: "BANQUE MISR LIBAN S.A.L."
+  city: "CHTOURA"
+  branch: null
+  swift: BMISLBB1025
+    
+- name: "BANQUE MISR LIBAN S.A.L."
+  city: "JOUNIEH"
+  branch: null
+  swift: BMISLBB1026
+    
+- name: "BANQUE MISR LIBAN S.A.L."
+  city: "SAIDA"
+  branch: null
+  swift: BMISLBB1023
+    
+- name: "BANQUE MISR LIBAN S.A.L."
+  city: "TRIPOLI"
+  branch: null
+  swift: BMISLBB1022
+    
+- name: "BANQUE MISR LIBAN S.A.L."
+  city: "ZAHLE"
+  branch: null
+  swift: BMISLBB1024
+    
+- name: "BBAC SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: BBACLBBX
+    
+- name: "BEIRUT STOCK EXCHANGE"
+  city: "BEIRUT"
+  branch: null
+  swift: XBEYLBB1
+    
+- name: "BEMO SECURITISATION SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: BEMSLBB1
+    
+- name: "BLOM BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: BLOMLBBX
+    
+- name: "BLOM DEVELOPMENT BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: BDBLLBBE
+    
+- name: "BLOMINVEST BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: BLINLBBE
+    
+- name: "BSL BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: SONBLBBE
+    
+- name: "BYBLOS BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: BYBALBBX
+    
+- name: "BYBLOS INVEST BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: BYBILBBX
+    
+- name: "CEDRUS BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: CEDXLBBE
+    
+- name: "CEDRUS INVEST BANK S.A.L"
+  city: "ACHRAFIEH"
+  branch: null
+  swift: CIBXLBB2
+    
+- name: "CEDRUS INVEST BANK S.A.L"
+  city: "BEIRUT"
+  branch: null
+  swift: CIBXLBBE
+    
+- name: "CITIBANK NA-BEIRUT BRANCH"
+  city: "BEIRUT"
+  branch: null
+  swift: CITILBBE
+    
+- name: "COUNCIL FOR DEVELOPMENT AND RECONSTRUCTION"
+  city: "BEIRUT"
+  branch: null
+  swift: CDRALBB1
+    
+- name: "CREDIT COMMERCIAL ET FONCIER SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: CCFXLBBE
+    
+- name: "CREDIT FINANCIER INVEST S.A.L"
+  city: "BEIRUT"
+  branch: null
+  swift: CEFVLBB1
+    
+- name: "CREDIT FINANCIER SAL."
+  city: "BEIRUT"
+  branch: null
+  swift: CRFCLBBE
+    
+- name: "CREDIT LIBANAIS INVESTMENT BANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: LIBNLBBE
+    
+- name: "CREDIT LIBANAIS S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: CLIBLBBX
+    
+- name: "CREDITBANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: CBCBLBBE
+    
+- name: "CSCBANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: CCSCLBBE
+    
+- name: "EMIRATES LEBANON BANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: ELBKLBBX
+    
+- name: "FEDERAL BANK OF LEBANON S A L"
+  city: "BEIRUT"
+  branch: null
+  swift: FBLELBBX
+    
+- name: "FENICIA BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: BKAWLBBE
+    
+- name: "FFA PRIVATE BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: FFAILBBE
+    
+- name: "FIDUS SAL GROUPE SOCIETE GENERALE DE BANQUE AU LIBAN"
+  city: "BEIRUT"
+  branch: null
+  swift: FIDRLBB1
+    
+- name: "FIDUS SAL GROUPE SOCIETE GENERALE DE BANQUE AU LIBAN"
+  city: "BEIRUT"
+  branch: null
+  swift: FIDRLBBX
+    
+- name: "FINANCE BANK"
+  city: "BEIRUT"
+  branch: null
+  swift: FBLBLBBX
+    
+- name: "FIRST NATIONAL BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: FINKLBBE
+    
+- name: "FRANSA INVEST BANK"
+  city: "BEIRUT"
+  branch: null
+  swift: FRAILBBE
+    
+- name: "FRANSABANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: FSABLBBX
+    
+- name: "HABIB BANK LIMITED"
+  city: "BEIRUT"
+  branch: null
+  swift: HABBLBBE
+    
+- name: "IBL BANK S.A.L.(FORMERLY INTERCONTINENTAL BANK OF LEBANON S.A.L.)"
+  city: "BEIRUT"
+  branch: null
+  swift: INLELBBE
+    
+- name: "IBL INVESTMENT BANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: IBLVLBBE
+    
+- name: "INVEST BANK (P.S.C.)"
+  city: "BEIRUT"
+  branch: null
+  swift: IBTFLBBE
+    
+- name: "JAMMAL TRUST BANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: JTBKLBBE
+    
+- name: "KAFALAT S.A.L. GUARANTEES FOR SMALL AND MEDIUM ENTERPRISES"
+  city: "BEIRUT"
+  branch: null
+  swift: KAFALBBE
+    
+- name: "LEBANESE ISLAMIC BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: LIBBLBBE
+    
+- name: "LEBANESE SWISS BANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: LEBSLBBX
+    
+- name: "LEBANON AND GULF BANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: LGBALBBE
+    
+- name: "LEBANON INVEST S.A.L"
+  city: "BEIRUT"
+  branch: null
+  swift: LINVLBB1
+    
+- name: "LIBANK S.A.L. (LEVANT INVESTMENT BANK)"
+  city: "BEIRUT"
+  branch: null
+  swift: LIBKLBBE
+    
+- name: "LITEX BANK S A L"
+  city: "BEIRUT"
+  branch: null
+  swift: LITELBB1
+    
+- name: "LUCID INVESTMENT BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: LUCILBBX
+    
+- name: "MEAB SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: BAMOLBBE
+    
+- name: "MECATTAF S.A.L"
+  city: "AWKAR EL METN"
+  branch: null
+  swift: MECALBBE
+    
+- name: "MEDINVESTMENT BANK SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: MIBLLBBX
+    
+- name: "MEDSECURITIES INVESTMENT SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: MENVLBB1
+    
+- name: "MERRILL LYNCH PIERCE FENNER AND SMITH (ME) S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: MPFSLBB1
+    
+- name: "MIDCLEAR S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: MIDRLBBE
+    
+- name: "MIDCLEAR S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: MIDRLBBEASA
+    
+- name: "MIDDLE EAST AIRLINES-AIRLIBAN"
+  city: "BEIRUT"
+  branch: null
+  swift: MEALLBBE
+    
+- name: "MIDDLE EAST CAPITAL GROUP"
+  city: "BEIRUT"
+  branch: null
+  swift: MECXLBBE
+    
+- name: "MIDDLE EAST CAPITAL GROUP S.A.L"
+  city: "BEIRUT"
+  branch: null
+  swift: MIDDLBB1
+    
+- name: "MINISTRY OF FINANCE"
+  city: "BEIRUT"
+  branch: null
+  swift: MINFLBBE
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "BEIRUT"
+  branch: null
+  swift: NBADLBB1
+    
+- name: "NATIONAL BANK OF KUWAIT (LEBANON) SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: NBOKLBBE
+    
+- name: "NORTH AFRICA COMMERCIAL BANK S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: NACBLBBE
+    
+- name: "OPTIMUM INVEST SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: OPTILBBE
+    
+- name: "PARIBAS"
+  city: "BEIRUT"
+  branch: null
+  swift: PARBLBB1
+    
+- name: "QATAR NATIONAL BANK"
+  city: "BEIRUT"
+  branch: null
+  swift: QNBALBBE
+    
+- name: "RAFIDAIN BANK"
+  city: "BEIRUT"
+  branch: null
+  swift: RAFBLBBE
+    
+- name: "SARADAR BANK S.A.L."
+  city: "ACHRAFIEH"
+  branch: null
+  swift: BTLVLBBE
+    
+- name: "SAUDI LEBANESE BANK SAL."
+  city: "BEIRUT"
+  branch: HEAD OFFICE
+  swift: SLBLLBBX
+    
+- name: "SOCIETE D'INVESTISSEMENTS FINANCIER S SAL"
+  city: "SIN EL-FIL"
+  branch: null
+  swift: SODALBB1
+    
+- name: "SOCIETE FINANCIERE DU LIBAN SAL"
+  city: "BEIRUT"
+  branch: null
+  swift: LISFLBBE
+    
+- name: "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L."
+  city: "BEIRUT"
+  branch: null
+  swift: SGLILBBX
+    
+- name: "SYRIAN LEBANESE COMMERCIAL BANK SAL."
+  city: "BEIRUT"
+  branch: null
+  swift: SYLCLBBE
+    
+- name: "UNITED BANK OF SAUDI AND LEBANON"
+  city: "BEIRUT"
+  branch: null
+  swift: UBSLLBB1
+    

@@ -1,0 +1,920 @@
+- name: "ABACO CIA. FINANCIERA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: ACIAARB1
+    
+- name: "AMERICAN EXPRESS BANK LTD."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: AEIBARB1
+    
+- name: "BALANZ CAPITAL VALORES SA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BAZVARBA
+    
+- name: "BANCO BICA  S.A."
+  city: "SANTA FE"
+  branch: null
+  swift: BICAARBS
+    
+- name: "BANCO BRADESCO ARGENTINA S/A"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BBDEARBA
+    
+- name: "BANCO CENTRAL DE LA REPUBLICA ARGENTINA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BCRAARBA
+    
+- name: "BANCO CMF S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CMFBARBA
+    
+- name: "BANCO COLUMBIA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CLLUARB1
+    
+- name: "BANCO COLUMBIA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CLLUARBA
+    
+- name: "BANCO COMAFI S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: QUILARBA
+    
+- name: "BANCO COOPERATIVO DEL ESTE ARGENTINO LTDO."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CESTARB1
+    
+- name: "BANCO CREDICOOP COOPERATIVO LIMITADO"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BCOOARBA
+    
+- name: "BANCO DE COMERCIO S.A. (FORMERLY METROPOLIS COMPANIA FINANCIERA S.A.)"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: MCFAARBA
+    
+- name: "BANCO DE CORRIENTES S.A."
+  city: "CORRIENTES"
+  branch: null
+  swift: BCORARBC
+    
+- name: "BANCO DE FORMOSA S.A."
+  city: "FORMOSA"
+  branch: null
+  swift: BFSAARBF
+    
+- name: "BANCO DE GALICIA Y BUENOS AIRES"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: GABAARBA
+    
+- name: "BANCO DE INVERSION Y COMERCIO EXTERIOR S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BICXARBA
+    
+- name: "BANCO DE LA CIUDAD DE BUENOS AIRES"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BACIARBA
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "BAHIA BLANCA"
+  branch: BAHIA BLANCA BRANCH
+  swift: NACNARBABAH
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "BUENOS AIRES"
+  branch: CASA CENTRAL
+  swift: NACNARBACCL
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: NACNARBA
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "CONCORDIA"
+  branch: CONCORDIA BRANCH
+  swift: NACNARBACON
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "CORDOBA"
+  branch: CORDOBA BRANCH
+  swift: NACNARBACOR
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "CORRIENTES"
+  branch: CORRIENTES BRANCH
+  swift: NACNARBACTS
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "MAR DEL PLATA"
+  branch: MAR DEL PLATA BRANCH
+  swift: NACNARBAMPL
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "MENDOZA"
+  branch: MENDOZA BRANCH
+  swift: NACNARBAMEN
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "NEUQUEN"
+  branch: NEUQUEN BRANCH
+  swift: NACNARBANEU
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "PERGAMINO"
+  branch: PERGAMINO BRANCH
+  swift: NACNARBAPER
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "POSADAS"
+  branch: POSADAS BRANCH
+  swift: NACNARBAPOS
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "RAFAELA"
+  branch: RAFAELA BRANCH
+  swift: NACNARBARAF
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "RECONQUISTA"
+  branch: RECONQUISTA BRANCH
+  swift: NACNARBAREC
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "RIO CUARTO"
+  branch: RIO CUARTO BRANCH
+  swift: NACNARBARCU
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "ROSARIO"
+  branch: ROSARIO BRANCH
+  swift: NACNARBAROS
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "SALTA"
+  branch: SALTA BRANCH
+  swift: NACNARBASAL
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "SAN JUAN"
+  branch: SAN JUAN BRANCH
+  swift: NACNARBASJU
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "SAN MIGUEL DE TUCUMAN"
+  branch: SAN MIGUEL DE TUCUMAN BRANCH
+  swift: NACNARBASMT
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "SAN RAFAEL"
+  branch: SAN RAFAEL BRANCH
+  swift: NACNARBASRA
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "SANTA FE"
+  branch: SANTA FE BRANCH
+  swift: NACNARBASFE
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "VILLA MARIA"
+  branch: VILLA MARIA BRANCH
+  swift: NACNARBAVMA
+    
+- name: "BANCO DE LA PAMPA S.E.M."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: PAMPARBA
+    
+- name: "BANCO DE LA PAMPA S.E.M."
+  city: "GENERAL PICO"
+  branch: null
+  swift: PAMPARBA200
+    
+- name: "BANCO DE LA PAMPA S.E.M."
+  city: "SANTA ROSA"
+  branch: null
+  swift: PAMPARBA001
+    
+- name: "BANCO DE LA PROVINCIA DE BUENOS AIRES"
+  city: "BAHIA BLANCA"
+  branch: BAHIA BLANCA BRANCH
+  swift: PRBAARBABAH
+    
+- name: "BANCO DE LA PROVINCIA DE BUENOS AIRES"
+  city: "BUENOS AIRES"
+  branch: DEPARTAMENTO DE CONTABILIDAD INTERNATIONAL BRANCH
+  swift: PRBAARBADIV
+    
+- name: "BANCO DE LA PROVINCIA DE BUENOS AIRES"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: PRBAARBA
+    
+- name: "BANCO DE LA PROVINCIA DE BUENOS AIRES"
+  city: "LA PLATA"
+  branch: LA PLATA HOUSE
+  swift: PRBAARBALPT
+    
+- name: "BANCO DE LA PROVINCIA DE BUENOS AIRES"
+  city: "MAR DEL PLATA"
+  branch: null
+  swift: PRBAARBAMP1
+    
+- name: "BANCO DE LA PROVINCIA DE CORDOBA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CORDARBA
+    
+- name: "BANCO DE LA PROVINCIA DE CORDOBA"
+  city: "CORDOBA"
+  branch: GERENCIA DE COMERCIO EXTERIOR
+  swift: CORDARBACOR
+    
+- name: "BANCO DE LA PROVINCIA DEL NEUQUEN S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BPNEARBA
+    
+- name: "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BROUARBA
+    
+- name: "BANCO DE SAN JUAN SA"
+  city: "SAN JUAN"
+  branch: null
+  swift: BSJUARBJ
+    
+- name: "BANCO DE SANTA CRUZ S A"
+  city: "RIO GALLEGOS"
+  branch: null
+  swift: BPSCARBA
+    
+- name: "BANCO DE SERVICIOS Y TRANSACCIONES SA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BSTIARBA
+    
+- name: "BANCO DE VALORES"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BAVAARBA
+    
+- name: "BANCO DEL CHUBUT S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BPCHARBA
+    
+- name: "BANCO DEL TUCUMAN S.A."
+  city: "SAN MIGUEL DE TUCUMAN"
+  branch: null
+  swift: BDTUARBM
+    
+- name: "BANCO FINANSUR S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BFSUARBA
+    
+- name: "BANCO HIPOTECARIO S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BHIPARBA
+    
+- name: "BANCO INDUSTRIAL S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: NBIAARBA
+    
+- name: "BANCO INTERAMERICANO DE DESARROLLO"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: IDESARB1
+    
+- name: "BANCO INTERFINANZAS S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BIINARBA
+    
+- name: "BANCO ITAU ARGENTINA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: ITAUARBA
+    
+- name: "BANCO JULIO SOCIEDAD ANONIMA"
+  city: "CORDOBA"
+  branch: null
+  swift: BJULARBC
+    
+- name: "BANCO MACRO S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BOSUARBA
+    
+- name: "BANCO MARIVA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: MARIARBA
+    
+- name: "BANCO MERCURIO S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CMERARB1
+    
+- name: "BANCO MERIDIAN S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BMRDARBA
+    
+- name: "BANCO MUNICIPAL DE ROSARIO"
+  city: "ROSARIO"
+  branch: null
+  swift: MUNRARBR
+    
+- name: "BANCO PATAGONIA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BSUDARBA
+    
+- name: "BANCO PIANO S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BAPIARBA
+    
+- name: "BANCO PROVINCIA DE TIERRA DEL FUEGO"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: TTFAARBA
+    
+- name: "BANCO ROELA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: ROEBARB10BA
+    
+- name: "BANCO ROELA S.A."
+  city: "CORDOBA"
+  branch: SUCURSAL ALEM
+  swift: ROEBARB10B2
+    
+- name: "BANCO ROELA S.A."
+  city: "CORDOBA"
+  branch: SUCURSAL JUSTO
+  swift: ROEBARB10B3
+    
+- name: "BANCO ROELA S.A."
+  city: "CORDOBA"
+  branch: SUCURSAL SAN MARTIN
+  swift: ROEBARB10B4
+    
+- name: "BANCO ROELA S.A."
+  city: "CORDOBA"
+  branch: null
+  swift: ROEBARB1
+    
+- name: "BANCO SAENZ S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BSAEARBA
+    
+- name: "BANCO SANTANDER RIO S.A."
+  city: "BUENOS AIRES"
+  branch: SECURITIES SERVICES SYSTEM
+  swift: BSCHARBASSS
+    
+- name: "BANCO SANTANDER RIO S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BSCHARBA
+    
+- name: "BANCO SUPERVIELLE"
+  city: "BUENOS AIRES"
+  branch: DTO. COMERCIO EXTERIOR
+  swift: BSUPARBAEXT
+    
+- name: "BANCO SUPERVIELLE"
+  city: "BUENOS AIRES"
+  branch: DTO. OPERACIONES DE MERCADO
+  swift: BSUPARBAFIN
+    
+- name: "BANCO SUPERVIELLE"
+  city: "BUENOS AIRES"
+  branch: DTO. OPERACIONES DE TITULOS
+  swift: BSUPARBATIT
+    
+- name: "BANCO SUPERVIELLE"
+  city: "BUENOS AIRES"
+  branch: OPERACIONES CENTRALIZADAS
+  swift: BSUPARBADOC
+    
+- name: "BANCO SUPERVIELLE"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BSUPARBA
+    
+- name: "BANCO VOII S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: VOIBARBA
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "BUENOS AIRES"
+  branch: BUENOS AIRES BRANCH
+  swift: BOTKARBA
+    
+- name: "BANKERS TRUST ARGENTINA S.A., SOCIEDAD DE BOLSA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BTABARB1
+    
+- name: "BANKERS TRUST RIO DE LA PLATA SACF"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BKTRARB1
+    
+- name: "BBVA - BANCO FRANCES S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BFRPARBA
+    
+- name: "BBVA - BANCO FRANCES S.A."
+  city: "CORDOBA"
+  branch: null
+  swift: BFRPARB10BC
+    
+- name: "BBVA - BANCO FRANCES S.A."
+  city: "MAR DEL PLATA"
+  branch: null
+  swift: BFRPARB10B6
+    
+- name: "BBVA - BANCO FRANCES S.A."
+  city: "PASO DE LOS LIBRES"
+  branch: null
+  swift: BFRPARB10B7
+    
+- name: "BBVA - BANCO FRANCES S.A."
+  city: "ROSARIO"
+  branch: null
+  swift: BFRPARB10BR
+    
+- name: "BELL INVESTMENTS S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BENNARB1
+    
+- name: "BNP PARIBAS - SUCCURSALE DE BUENOS AIRES"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BNPAARBA
+    
+- name: "BOLSA DE COMERCIO ROSARIO"
+  city: "ROSARIO"
+  branch: null
+  swift: XROSARB1
+    
+- name: "BOSTON INVERSORA DE VALORES S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BOIVARB1
+    
+- name: "CAJA DE VALORES S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CAVLARBA
+    
+- name: "CAMBIO ALPE S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CALPARB1
+    
+- name: "CAMBIO EXCURSIONES TURISMO COLUMBUS S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: COLUARBA
+    
+- name: "CAMBIO GARCIA NAVARRO, RAMAGLIO Y CIA. S.A."
+  city: "MAR DEL PLATA"
+  branch: null
+  swift: CGNRARBA
+    
+- name: "CAPITAL MARKETS"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CAKRARB1
+    
+- name: "CASA LERCHUNDI SACIF"
+  city: "CORDOBA"
+  branch: null
+  swift: CALSARB1
+    
+- name: "CITIBANK N.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CITIARBA
+    
+- name: "CORPORACION DE SERVICIOS FINANCIEROS S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: FSERARB1
+    
+- name: "FINANCIERA BUENOS AIRES S.A.L. Y C."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BUEAARB1
+    
+- name: "FITCH ARGENTINA CALIFICADORA DE RIESGO S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: FRIPARB1
+    
+- name: "GARCIA NAVARROY CIA. S.A."
+  city: "BAHIA BLANCA"
+  branch: null
+  swift: GANCARB1
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "AVELLANEDA"
+  branch: AVELLANEDA BRANCH
+  swift: BACOARB10B7
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BOULOGNE-SUR-MER"
+  branch: SHOPPING SOLEIL BRANCH
+  swift: BACOARB10BV
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: ALTO PALERMO BRANCH
+  swift: BACOARB10B8
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: AVENIDA DE MAYO BRANCH
+  swift: BACOARB10BB
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: BELGRANO BRANCH
+  swift: BACOARB10BD
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: CABILDO BRANCH
+  swift: BACOARB10BE
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: CAPITAL MARKETS DEPARTMENT
+  swift: BACOARBARCM
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: CENTRO BRANCH
+  swift: BACOARB10BF
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: CONSTITUCION BRANCH
+  swift: BACOARB10BG
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: LAS HERAS BRANCH
+  swift: BACOARB10BJ
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: LINIERS BRANCH
+  swift: BACOARB10BK
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: NUNEZ BRANCH
+  swift: BACOARB10BM
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: ONCE BRANCH
+  swift: BACOARB10BP
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: PALERMO BRANCH
+  swift: BACOARB10BQ
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: SAAVEDRA BRANCH
+  swift: BACOARB10BR
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: TRIBUNALES BRANCH
+  swift: BACOARB10BW
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: VILLA CRESPO BRANCH
+  swift: BACOARB10BZ
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BACOARBA
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "CONCEPCION DEL URUGUAY"
+  branch: CONCEPCION BRANCH
+  swift: BACOARB10B6
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "CORDOBA"
+  branch: null
+  swift: BACOARB10BC
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "FLORIDA"
+  branch: FLORIDA BRANCH
+  swift: BACOARB10BH
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "LA PLATA"
+  branch: LA PLATA BRANCH
+  swift: BACOARB10BI
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "LOMAS DE ZAMORA"
+  branch: null
+  swift: BACOARB1023
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "MAR DEL PLATA"
+  branch: MAR DEL PLATA BRANCH
+  swift: BACOARB10BL
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "MENDOZA"
+  branch: null
+  swift: BACOARB10B2
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "OLIVOS"
+  branch: OLIVOS BRANCH
+  swift: BACOARB10BN
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "RESISTENCIA"
+  branch: RESISTENCIA BRANCH
+  swift: BACOARB1024
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "ROSARIO"
+  branch: null
+  swift: BACOARB10B3
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "SALTA"
+  branch: null
+  swift: BACOARB10B4
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "SAN FERNANDO"
+  branch: SAN FERNANDO BRANCH
+  swift: BACOARB10BS
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "SAN ISIDRO"
+  branch: SAN ISIDRO BRANCH
+  swift: BACOARB10BT
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "SAN MARTIN"
+  branch: SAN MARTIN BRANCH
+  swift: BACOARB10BU
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "SAN MIGUEL DE TUCUMAN"
+  branch: null
+  swift: BACOARB10B5
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "SANTA FE"
+  branch: null
+  swift: BACOARB1022
+    
+- name: "HSBC BANK ARGENTINA SA"
+  city: "VICENTE LOPEZ"
+  branch: VICENTE LOPEZ BRANCH
+  swift: BACOARB10BY
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA)S.A."
+  city: "BUENOS AIRES"
+  branch: CASH MANAGEMENT
+  swift: ICBKARBAGCM
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA)S.A."
+  city: "BUENOS AIRES"
+  branch: CLEARING OFFICE
+  swift: ICBKARBACLR
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA)S.A."
+  city: "BUENOS AIRES"
+  branch: GLOBAL CUSTODY DEPARTMENT
+  swift: ICBKARBAGCD
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA)S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: ICBKARBA
+    
+- name: "INVERSIONARIA ARGENTINA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: IANAARB1
+    
+- name: "INVERSIONES UNIDAS S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: INUNARB1
+    
+- name: "INVERSORA S.A. COMPANIA FINANCIERA"
+  city: "LA PLATA"
+  branch: null
+  swift: CFINARB1
+    
+- name: "INVERSUR S.R.L."
+  city: "SANTO TOME"
+  branch: null
+  swift: INVEARB1
+    
+- name: "JPMORGAN CHASE BANK, N.A., BUENOS AIRES BRANCH"
+  city: "BUENOS AIRES"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASARBAKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., BUENOS AIRES BRANCH"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: CHASARBA
+    
+- name: "MBA BANCO DE INVERSIONES SA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: MBINARB1
+    
+- name: "MERCADO ABIERTO ELECTRONICO"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: MABTARBA
+    
+- name: "MERCADO DE VALORES DE BUENOS AIRES S.A. - MERVAL"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: XMEVARB1
+    
+- name: "MERCADO DE VALORES DE BUENOS AIRES SA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: XBUEARB1
+    
+- name: "MERCHANT BANK ARGENTINA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: MEARARB1
+    
+- name: "MONTEMAR COMPANIA FINANCIERA S.A."
+  city: "MENDOZA"
+  branch: null
+  swift: MCFIARB1
+    
+- name: "MONTEMAR COMPANIA FINANCIERA S.A."
+  city: "MENDOZA"
+  branch: null
+  swift: MCFIARBM
+    
+- name: "MONTEMAR COMPANIA FINANCIERA S.A."
+  city: "SAN JUAN"
+  branch: null
+  swift: MCFIARB10B3
+    
+- name: "MONTEMAR COMPANIA FINANCIERA S.A."
+  city: "SAN RAFAEL"
+  branch: null
+  swift: MCFIARB10BS
+    
+- name: "MOODY'S LATIN AMERICA, CALIFICADORA DE RIESGO S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: MLACARB1
+    
+- name: "MULTIFINANZAS COMPANIA FINANCIERA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: MFCFARBA
+    
+- name: "NOBLEZA-PICCARDO S.A.I.C.Y F."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BATSARB1
+    
+- name: "NUEVO BANCO DE ENTRE RIOS S.A."
+  city: "PARANA (ENTRE RIOS)"
+  branch: null
+  swift: BERAARBA
+    
+- name: "NUEVO BANCO DE SANTA FE S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BPSFARBA
+    
+- name: "NUEVO BANCO DE SANTA FE S.A."
+  city: "RIO GALLEGOS"
+  branch: null
+  swift: BPSFARBAA86
+    
+- name: "NUEVO BANCO DE SANTA FE S.A."
+  city: "ROSARIO"
+  branch: null
+  swift: BPSFARBA000
+    
+- name: "NUEVO BANCO DE SANTA FE S.A."
+  city: "SAN JUAN"
+  branch: null
+  swift: BPSFARBAA45
+    
+- name: "NUEVO BANCO DE SANTA FE S.A."
+  city: "SANTA FE"
+  branch: null
+  swift: BPSFARBA500
+    
+- name: "NUEVO BANCO DEL CHACO S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: BACHARBA
+    
+- name: "RABELLO Y CIA S.A. SOCIEDAD DE BOLSA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: RABCARB1
+    
+- name: "RAYMOND JAMES ARGENTINA SOCIEDAD DE BOLSA SOCIEDADANONIMA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: RAJRARB1
+    
+- name: "REPUBBLICA ARGENTINA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: REAGARB1
+    
+- name: "SAMSUNG ELECTRONICS ARGENTINA S.A."
+  city: "BUENOS AIRES"
+  branch: SEASA
+  swift: SECTARB1830
+    
+- name: "SAMSUNG ELECTRONICS ARGENTINA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: SECTARB1
+    
+- name: "SBS SOCIEDAD DE BOLSA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: SBSOARB1
+    
+- name: "T.P.C.G. CAPITAL S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: TPCGARB1
+    
+- name: "TAVELLI Y CIA.S.A.SOCIEDAD DE BOLSA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: TAVEARB1
+    
+- name: "TUTELAR COMPANIA FINANCIERA S.A."
+  city: "BUENOS AIRES"
+  branch: null
+  swift: TUCFARB1
+    
+- name: "VANEXVA BURSATIL SA"
+  city: "BUENOS AIRES"
+  branch: null
+  swift: VNXBARB1
+    
+- name: "VW ARGENTINA S.A."
+  city: "GENERAL PACHECO"
+  branch: null
+  swift: ARGNARB1
+    

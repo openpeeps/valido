@@ -1,0 +1,85 @@
+- name: "ACCESSBANK LIBERIA"
+  city: "MONROVIA"
+  branch: null
+  swift: ACLILRLM
+    
+- name: "AFRILAND FIRST BANK LIBERIA LIMITED"
+  city: "MONROVIA"
+  branch: null
+  swift: CCEILRLM
+    
+- name: "AGRICULTURAL AND COOPERATIVE DEVELOMENT BANK"
+  city: "MONROVIA"
+  branch: null
+  swift: AGRCLRL1
+    
+- name: "CENTRAL BANK OF LIBERIA"
+  city: "MONROVIA"
+  branch: null
+  swift: CBLRLRLA
+    
+- name: "CENTRAL BANK OF LIBERIA"
+  city: "MONROVIA"
+  branch: null
+  swift: CBLRLRLM
+    
+- name: "CITIBANK N.A."
+  city: "MONROVIA"
+  branch: null
+  swift: CITILRL1
+    
+- name: "ECOBANK LIBERIA LIMITED"
+  city: "MONROVIA"
+  branch: null
+  swift: ECOCLRLM
+    
+- name: "GLOBAL BANK LIBERIA LIMITED (MEMBER BANKPHB GROUP)"
+  city: "MONROVIA"
+  branch: null
+  swift: PHBXLRLM
+    
+- name: "GN BANK LIBERIA LIMITED"
+  city: "MONROVIA"
+  branch: null
+  swift: GNERLRLM
+    
+- name: "GUARANTY TRUST BANK (LIBERIA) LIMITED"
+  city: "MONROVIA"
+  branch: null
+  swift: GTBILRLM
+    
+- name: "INTERNATIONAL BANK (LIBERIA) LIMITED"
+  city: "MONROVIA"
+  branch: null
+  swift: IBLRLRLM
+    
+- name: "LIBERIAN BANK FOR DEVELOPMENT AND INVESTMENT, THE"
+  city: "MONROVIA"
+  branch: null
+  swift: LBDELRLM
+    
+- name: "LIBERIAN TRADING AND DEVELOPMENT BANK, THE"
+  city: "MONROVIA"
+  branch: null
+  swift: TLTRLRL1
+    
+- name: "MERIDIEN BIAO BANK LIBERIA LTD"
+  city: "MONROVIA"
+  branch: null
+  swift: LIMELRL1
+    
+- name: "NATIONAL BANK OF LIBERIA"
+  city: "MONROVIA"
+  branch: null
+  swift: NBLILRL1
+    
+- name: "UNITED BANK FOR AFRICA (LIBERIA) LIMITED"
+  city: "MONROVIA"
+  branch: null
+  swift: UNAFLRLM
+    
+- name: "WEST BANK4U"
+  city: "MONROVIA"
+  branch: null
+  swift: WETTLRL1
+    

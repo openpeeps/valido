@@ -1,0 +1,135 @@
+- name: "ABAY BANK S.C."
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: ABAYETAA
+    
+- name: "ADDIS INTERNATIONAL BANK S.C."
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: ABSCETAA
+    
+- name: "AWASH INTERNATIONAL BANK S.C."
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: AWINETAA
+    
+- name: "BANK OF ABYSSINIA"
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: ABYSETAA
+    
+- name: "BERHAN INTERNATIONAL BANK"
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: BERHETAA
+    
+- name: "BUNNA INTERNATIONAL BANK S.C"
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: BUNAETAA
+    
+- name: "COMMERCIAL BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: ARADA GIORGIS BRANCH
+  swift: CBETETAAARA
+    
+- name: "COMMERCIAL BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: DIRE DAWA MAIN BRANCH
+  swift: CBETETAADIR
+    
+- name: "COMMERCIAL BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: FINFINE BRANCH
+  swift: CBETETAAFIN
+    
+- name: "COMMERCIAL BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: INTERNATIONAL BANKING DEPARTMENT
+  swift: CBETETAAIBD
+    
+- name: "COMMERCIAL BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: MEHAL GEBEYA BRANCH
+  swift: CBETETAAMEH
+    
+- name: "COMMERCIAL BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: TEMENJA YAJ BRANCH
+  swift: CBETETAATEM
+    
+- name: "COMMERCIAL BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: TRADE SERVICE CENTER
+  swift: CBETETAADOC
+    
+- name: "COMMERCIAL BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: TREASURY DEPARTMENT
+  swift: CBETETAATRY
+    
+- name: "COMMERCIAL BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: CBETETAA
+    
+- name: "COOPERATIVE BANK OF OROMIA S.C."
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: CBORETAA
+    
+- name: "DASHEN BANK S.C."
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: DASHETAA
+    
+- name: "DEBUB GLOBAL BANK S.C"
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: DEGAETAA
+    
+- name: "DEVELOPMENT BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: DEETETAA
+    
+- name: "ENAT BANK S.C"
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: ENATETAA
+    
+- name: "LION INTERNATIONAL BANK S.C."
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: LIBSETAA
+    
+- name: "NATIONAL BANK OF ETHIOPIA"
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: NBETETAA
+    
+- name: "NIB INTERNATIONAL BANK S.C."
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: NIBIETAA
+    
+- name: "OROMIA INTERNATIONAL BANK S.C."
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: ORIRETAA
+    
+- name: "UNITED BANK SHARE COMPANY"
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: UNTDETAA
+    
+- name: "WEGAGEN BANK S.C."
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: WEGAETAA
+    
+- name: "ZEMEN BANK S.C."
+  city: "ADDIS ABEBA"
+  branch: null
+  swift: ZEMEETAA
+    

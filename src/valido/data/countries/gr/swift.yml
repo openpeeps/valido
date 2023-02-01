@@ -1,0 +1,1105 @@
+- name: "A. SARRIS SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: SAUEGRA1
+    
+- name: "ABAX SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ABXEGRA1
+    
+- name: "ACCESS PAYMENT SERVICES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ACPEGRA1
+    
+- name: "AEGEAN BALTIC BANK S.A."
+  city: "MAROUSI"
+  branch: null
+  swift: AEBAGRAA
+    
+- name: "AEOLIAN INVESTMENT FUND S.A."
+  city: "ATHENS"
+  branch: null
+  swift: AEIFGRA1
+    
+- name: "AGRICULTURAL BANK OF GREECE SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: AGGEGRA1
+    
+- name: "ALICO EUROBANK"
+  city: "ATHENS"
+  branch: null
+  swift: ALEEGRA1
+    
+- name: "ALKE STOCKBROKERS S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ALKEGRA1
+    
+- name: "ALPHA BANK AE"
+  city: "ATHENS"
+  branch: null
+  swift: CRBAGRAA
+    
+- name: "ALPHA FINANCE BROKERAGE INVESTMENT SERVICES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ALPRGRA1
+    
+- name: "ALPHA PRIVATE INVESTMENT SERVICES"
+  city: "ATHENS"
+  branch: null
+  swift: APISGRA1
+    
+- name: "ALPHA TRUST INVESTMENT SERVICES S.A"
+  city: "KIFISIA"
+  branch: null
+  swift: ATIEGR21
+    
+- name: "ARGOCHANGE S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ARGHGRA1
+    
+- name: "ARTION SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ARSIGRA1
+    
+- name: "ATHENS DERIVATIVES EXCHANGE S.A. (ADEX), THE"
+  city: "ATHENS"
+  branch: null
+  swift: XADEGRA1
+    
+- name: "ATHENS STOCK EXCHANGE"
+  city: "ATHENS"
+  branch: null
+  swift: XATHGRA1
+    
+- name: "ATHENS URBAN TRANSPORT ORGANISATION S.A. (O.A.S.A.)"
+  city: "ATHENS"
+  branch: null
+  swift: AUTIGRA1
+    
+- name: "ATHEXCLEAR"
+  city: "ATHENS"
+  branch: null
+  swift: ATHCGRA1
+    
+- name: "ATHINAIKI SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ATSUGRA1
+    
+- name: "ATLAS SECURITIES SA"
+  city: "ATHENS"
+  branch: null
+  swift: ATSRGRA1
+    
+- name: "ATTICA BANK SA"
+  city: "ATHENS"
+  branch: null
+  swift: ATTIGRAA
+    
+- name: "AXON SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: AXSEGRA1
+    
+- name: "B AND N BANK GREEK BRANCH"
+  city: "ATHENS"
+  branch: null
+  swift: KEDRGRAA
+    
+- name: "BANK OF AMERICA, N.A. ATHENS"
+  city: "ATHENS"
+  branch: null
+  swift: BOFAGR2X
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: ACCOUNTING CONTROL SECTION
+  swift: BNGRGRAA030
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: ATHENS CLEARING OFFICE
+  swift: BNGRGRAAACO
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: BOOK ENTRY SECURITIES MANAGEMENT SECTION
+  swift: BNGRGRAASSS
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: BOOK ENTRY SECURITIES MANAGEMT SECTION-CORR.CENTRAL BK MODEL SYST
+  swift: BNGRGRAACCB
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: CASH PROCESSING SECTION
+  swift: BNGRGRAA053
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: CBF
+  swift: BNGRGRA1CBF
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: CUSTOMERS PORTFOLIO
+  swift: BNGRGRA1CUS
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: DATA CONTROL SECTION
+  swift: BNGRGRAA059
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: DEPOSIT ACCOUNTS SECTION
+  swift: BNGRGRAA042
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: DIAS-CH
+  swift: BNGRGRAADIA
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: DOCUMENTARY CREDITS SECTION
+  swift: BNGRGRAA017
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: ECB ACCOUNT FOR BANK OF GREECE
+  swift: BNGRGRAAEUX
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: EXCHANGE OF ISIN
+  swift: BNGRGRA1APR
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: FOREIGN EXCHANGE TRANSCACTIONS SECTION
+  swift: BNGRGRAA013
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: GOVERNMENT SECURITIES CUSTODY AND MANAGEMENT SECTION
+  swift: BNGRGRAA027
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: HERMES RTGS SYSTEM
+  swift: BNGRGRAAHRM
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: ISSUER EFSF
+  swift: BNGRGRA1EFS
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: ISSUER OASA
+  swift: BNGRGRA1OAS
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: ISSUER
+  swift: BNGRGRA1ISS
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: LARGE-VALUE PAYMENTS SYSTEM MANAGEMENT SECTION
+  swift: BNGRGRAACON
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: MONETARY POLICY IMPLEMENTATION SUPPORT SECTION
+  swift: BNGRGRAA072
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: MONEY MARKETS SECTION
+  swift: BNGRGRAA094
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: MONTE TITOLI
+  swift: BNGRGRA1MTI
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: PAYMENTS OF BOOK ENTRY SECURITIES SECTION
+  swift: BNGRGRAAPBS
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: PUBLIC INSTITUTIONS AND INSURANCE FUNDS
+  swift: BNGRGRA1PII
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: RESERVES MANAGEMENT BACKUP SECTION
+  swift: BNGRGRAA012
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: SEPA CREDIT TRANSFER
+  swift: BNGRGRAASCT
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: STRIPPING A
+  swift: BNGRGRA1STA
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: STRIPPING B
+  swift: BNGRGRA1STB
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: STRIPPING C
+  swift: BNGRGRA1STC
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: SYSTEM MIRROR
+  swift: BNGRGRA1SYS
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: TGT2 ACCOUNT27, INDIRECT MEMBER)
+  swift: BNGRGRAABR8
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: TGT2 SAD.BANK (INDIRECT MEMBER)
+  swift: BNGRGRAABR4
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: TREASURY OPERATIONS SUPPORT SECTION
+  swift: BNGRGRAAFXD
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: null
+  swift: BNGRGRA1BDF
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: null
+  swift: BNGRGRAA
+    
+- name: "BANK OF GREECE"
+  city: "ATHENS"
+  branch: null
+  swift: BNGRGRAAST2
+    
+- name: "BANK OF GREECE"
+  city: "THESSALONIKI"
+  branch: THESSALONIKI BRANCH
+  swift: BNGRGRAA121
+    
+- name: "BANK OF GREECE ON BEHALF OF THE HELLENIC REPUBLIC"
+  city: "ATHENS"
+  branch: null
+  swift: GBHRGRA1
+    
+- name: "BANK SADERAT IRAN"
+  city: "ATHENS"
+  branch: null
+  swift: SDRRGRA1
+    
+- name: "BETA CHRIMATISTIRIAKI ANONYMI ETAIRIA PAROCHIS EPENDYTIKON YPIRESION"
+  city: "ATHENS"
+  branch: null
+  swift: BETEGRA1
+    
+- name: "BLACK SEA TRADE AND DEVELOPMENT BANK"
+  city: "THESSALONIKI"
+  branch: null
+  swift: BSTDGR2T
+    
+- name: "BMW AUSTRIA BANK GMBH"
+  city: "ATHENS"
+  branch: null
+  swift: BMASGRA1
+    
+- name: "BNP PARIBAS GRECE"
+  city: "ATHENS"
+  branch: ATHENS BRANCH
+  swift: BNPAGRA1
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, GREECE"
+  city: "ATHENS"
+  branch: null
+  swift: PARBGRAX
+    
+- name: "BNPPARIBAS PRIVATE BANK-GREEK BRANCH"
+  city: "ATHENS"
+  branch: null
+  swift: BPPBGRA1
+    
+- name: "CAPITAL SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: CSEUGRA1
+    
+- name: "CETELEM SA CETELEM BANK"
+  city: "KALLITHEA"
+  branch: null
+  swift: CETEGRA1
+    
+- name: "CFS SECURITIES AND INVESTMENT SERVICES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: CSIEGRA1
+    
+- name: "CITIBANK EUROPE PLC GREECE BRANCH"
+  city: "ATHENS"
+  branch: RESTRICTED USE CITIBANK ATHENS TARGET 2
+  swift: CITIGRAASEC
+    
+- name: "CITIBANK EUROPE PLC GREECE BRANCH"
+  city: "ATHENS"
+  branch: null
+  swift: CITIGRAA
+    
+- name: "CITIBANK EUROPE PLC GREECE BRANCH"
+  city: "ATHENS"
+  branch: null
+  swift: CITIGRAA731
+    
+- name: "CITIBANK EUROPE PLC GREECE BRANCH"
+  city: "PIRAEUS"
+  branch: null
+  swift: CITIGRAA732
+    
+- name: "CITIBANK EUROPE PLC GREECE BRANCH"
+  city: "THESSALONIKI"
+  branch: null
+  swift: CITIGRAA733
+    
+- name: "CITIBANK N.A."
+  city: "GLYFADA"
+  branch: null
+  swift: CITIGR210AG
+    
+- name: "CITIBANK N.A."
+  city: "KASTORIA"
+  branch: null
+  swift: CITIGR21022
+    
+- name: "CITIBANK N.A."
+  city: "LARISSA"
+  branch: null
+  swift: CITIGR21
+    
+- name: "COMPAGNIE FINANCIERE EUROPEENNE S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ECFIGRA1
+    
+- name: "CONSIGNMENT DEPOSITS AND LOANS FUND"
+  city: "ATHENS"
+  branch: null
+  swift: CDLFGRA1
+    
+- name: "COOPERATIVE BANK OF ACHAIA"
+  city: "PATRA"
+  branch: null
+  swift: STAXGRA1
+    
+- name: "COOPERATIVE BANK OF CHANIA COOP. L.L."
+  city: "CHANIA"
+  branch: null
+  swift: STXAGRA1
+    
+- name: "COOPERATIVE BANK OF CORINTHIA COOP. L.L."
+  city: "KORINTHOS"
+  branch: null
+  swift: STKPGRA1
+    
+- name: "COOPERATIVE BANK OF DODECANESE"
+  city: "RHODOS"
+  branch: null
+  swift: STDOGRA1
+    
+- name: "CO-OPERATIVE BANK OF DRAMA, L.L.C."
+  city: "DRAMA"
+  branch: null
+  swift: STDRGR21
+    
+- name: "COOPERATIVE BANK OF EPIRUS L.T.D."
+  city: "IOANNINA"
+  branch: null
+  swift: STIOGR21
+    
+- name: "CO-OPERATIVE BANK OF EVIA, L.L.C."
+  city: "CHALKIDA"
+  branch: null
+  swift: STEBGRA1
+    
+- name: "CO-OPERATIVE BANK OF EVROS, L.L.C."
+  city: "ALEXANDROUPOLI"
+  branch: null
+  swift: STEOGR21
+    
+- name: "CO-OPERATIVE BANK OF KARDITSA, L.L.C."
+  city: "KARDITSA"
+  branch: null
+  swift: STKAGRA1
+    
+- name: "CO-OPERATIVE BANK OF LAMIA, L.L.C."
+  city: "LAMIA"
+  branch: null
+  swift: STLMGRA1
+    
+- name: "COOPERATIVE BANK OF LESVOS - LIMNOS"
+  city: "MYTILINI"
+  branch: null
+  swift: STMIGR21
+    
+- name: "CO-OPERATIVE BANK OF PIERIA, L.L.C."
+  city: "KATERINI"
+  branch: null
+  swift: STPIGR21
+    
+- name: "COOPERATIVE BANK OF SERRES"
+  city: "SERRES"
+  branch: null
+  swift: COESGR21
+    
+- name: "COOPERATIVE BANK OF THESSALIA"
+  city: "TRIKALA"
+  branch: null
+  swift: STTKGR21
+    
+- name: "CO-OPERATIVE BANK OF WESTERN MACEDONIA"
+  city: "KOZANI"
+  branch: null
+  swift: STKZGR21
+    
+- name: "CREDICOM CONSUMER FINANCE BANK S.A."
+  city: "ATHENS"
+  branch: null
+  swift: EMCRGRA1
+    
+- name: "CYCLOS SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: CYSEGRA1
+    
+- name: "D.A. TSEKOURAS SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: TSSCGRA1
+    
+- name: "DAIMLERCHRYSLER BANK POLSKA SA"
+  city: "ATHENS"
+  branch: null
+  swift: DAPLGRA1
+    
+- name: "DIETHNIS CHRIMATISTIRIAKI-INTERSEC"
+  city: "ATHENS"
+  branch: null
+  swift: DICHGRA1
+    
+- name: "DIOLKOS ASSET MANAGEMENT S.A."
+  city: "ATHENS"
+  branch: null
+  swift: DIAAGRA1
+    
+- name: "DRAX INVESTMENT SERVICES S.A"
+  city: "ATHENS"
+  branch: null
+  swift: DSISGRA1
+    
+- name: "DYNAMIC SECURITIES S A"
+  city: "ATHENS"
+  branch: null
+  swift: DYCUGRA1
+    
+- name: "EFFECT S.A."
+  city: "ATHENS"
+  branch: null
+  swift: EFFTGRA1
+    
+- name: "EFG EUROBANK ASSET MANAGEMENT ANONYMI ETAIREIA PAROCHIS EPENDYTIKON YPIRESION"
+  city: "ATHENS"
+  branch: null
+  swift: EEAMGRA1
+    
+- name: "EFG TELESIS FINANCE S A"
+  city: "ATHENS"
+  branch: null
+  swift: EFTFGRA1
+    
+- name: "EGNATIA SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: EGNTGRA1
+    
+- name: "ELIAS A. PETROPOULAKIS SECURITIES AND INVESTMENT SERVICES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: EPSIGRA1
+    
+- name: "EMPORIKI ASSET MANAGEMENT MFMC"
+  city: "ATHENS"
+  branch: null
+  swift: EAMMGRA1
+    
+- name: "ENERGON CAPITAL FINANCE INVESTMENT SERVICES S.A."
+  city: "THESSALONIKI"
+  branch: null
+  swift: ECFNGR21
+    
+- name: "EPIC ANONYMI ETAIREIA PAROCHIS EPENDYTIKON YPIRESION"
+  city: "ATHENS"
+  branch: null
+  swift: EPISGRA1
+    
+- name: "ERGO SECURITIES"
+  city: "ATHENS"
+  branch: null
+  swift: ERGRGRA1
+    
+- name: "ETAIREIA DIACHEIRISIS EIDIKOU KEFALAIOU T.A.P.-O.T.E. ANONYMI ETAIREIA PAROCHIS EPENDYTIKON YPIRESION"
+  city: "ATHENS"
+  branch: null
+  swift: EDETGRA1
+    
+- name: "EUROBANK EQUITIES INVESTMENT FIRM S.A."
+  city: "ATHENS"
+  branch: null
+  swift: EFESGRA1
+    
+- name: "EUROBANK ERGASIAS S.A."
+  city: "ATHENS"
+  branch: CUSTODY FOREIGN INSTITUTIONAL INVESTORS DEPT.
+  swift: ERBKGRAASEC
+    
+- name: "EUROBANK ERGASIAS S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ERBKGRAA
+    
+- name: "EUROCORP S.A."
+  city: "ATHENS"
+  branch: null
+  swift: EUORGRA1
+    
+- name: "EUROCORP SECURITIES SA"
+  city: "ATHENS"
+  branch: null
+  swift: EUEEGRA1
+    
+- name: "EUROPEAN RELIANCE FINANCE S.A."
+  city: "KHALANDRI"
+  branch: null
+  swift: EURNGR21
+    
+- name: "EUROTRUST SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: EUECGRA1
+    
+- name: "EUROXX SECURITIES SA"
+  city: "ATHENS"
+  branch: null
+  swift: EUSSGRA1
+    
+- name: "FALCON FINANCE S.A."
+  city: "ATHENS"
+  branch: null
+  swift: FAFNGRA1
+    
+- name: "FCA BANK G.M.B.H HELLENIC BRANCH"
+  city: "ATHENS"
+  branch: null
+  swift: FIATGRA1
+    
+- name: "FCE BANK PLC"
+  city: "PERISTERI"
+  branch: null
+  swift: FOGRGRA1
+    
+- name: "FORTIUS FINANCE SECURITIES"
+  city: "ATHENS"
+  branch: null
+  swift: FFISGRA1
+    
+- name: "G.A. PERVANAS SECURITIES AND INVESTMENT SERVICES COMPANY S.A."
+  city: "ATHENS"
+  branch: null
+  swift: PSIEGRA1
+    
+- name: "GKLOMPAL CHRIMATODOTISEIS EPENDYSEON ANONYMI ETAIREIA SA"
+  city: "ATHENS"
+  branch: null
+  swift: GLOFGRA1
+    
+- name: "GLOBAL DIACHEIRISI KEFALAION ANONYMI ETAIREIA PAROCHIS EPENDYTIKON YPIRESION SA"
+  city: "ATHENS"
+  branch: null
+  swift: GFMAGRA1
+    
+- name: "GMAC BANK GMBH"
+  city: "MAROUSI"
+  branch: null
+  swift: OPELGRA1
+    
+- name: "GREEK GREENHOUSE GAS EMISSIONS REGISTRY"
+  city: "KIFISIA"
+  branch: null
+  swift: GGGEGR21
+    
+- name: "GUARDIAN TRUST CHRIMATISTIRIAKI ANONYMI ETAIREIA PAROCHIS EPENDYTIKON YPIRESION SA"
+  city: "ATHENS"
+  branch: null
+  swift: GUTUGRA1
+    
+- name: "HELLASFIN INVESTMENT SERVICES S.A."
+  city: "THESSALONIKI"
+  branch: null
+  swift: HEIEGR21
+    
+- name: "HELLENIC EXCHANGES S.A."
+  city: "ATHENS"
+  branch: HELEX ANCILLARY SYSTEM
+  swift: HCSDGRAAASI
+    
+- name: "HELLENIC EXCHANGES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: HCSDGRAA
+    
+- name: "HELLENIC POST OFFICE S A ELTA"
+  city: "ATHENS"
+  branch: null
+  swift: HEPOGR21
+    
+- name: "HELLENIC RAILWAYS"
+  city: "ATHENS"
+  branch: null
+  swift: HRAIGRA1
+    
+- name: "HELLENIC SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: HLSEGRA1
+    
+- name: "HELLENICAMERICAN SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: HESUGRA1
+    
+- name: "HERMES SECURITIES S.A.."
+  city: "ATHENS"
+  branch: null
+  swift: HERMGRA1
+    
+- name: "HSBC BANK PLC"
+  city: "ATHENS"
+  branch: ALL GREEK BRANCHES
+  swift: MIDLGRAA
+    
+- name: "HSBC BANK PLC"
+  city: "ATHENS"
+  branch: SEPA DIRECT DEBITS
+  swift: MIDLGRAASDD
+    
+- name: "HSBC BANK PLC"
+  city: "PIRAEUS"
+  branch: SECURITIES SERVICES
+  swift: MIDLGRAAGSS
+    
+- name: "HSBC PANTELAKIS SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: MDPSGRA1
+    
+- name: "ICAP GROUP"
+  city: "ATHENS"
+  branch: null
+  swift: ICGOGRA1
+    
+- name: "INDEX SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: IDXEGRA1
+    
+- name: "INTERAC SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ITSEGRA1
+    
+- name: "INTERBANKING SYSTEMS S.A"
+  city: "ATHENS"
+  branch: TECHNICAL ACCOUNT FOR MODEL 6
+  swift: DIASGRA1MD6
+    
+- name: "INTERBANKING SYSTEMS S.A"
+  city: "ATHENS"
+  branch: null
+  swift: DIASGRA1
+    
+- name: "INTERNATIONAL SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: INUEGRA1
+    
+- name: "INTERSEC S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ITSCGRA1
+    
+- name: "INVESTMENT ANALYSIS FINANCIAL SERVICES S.A."
+  city: "THESSALONIKI"
+  branch: null
+  swift: INLSGR21
+    
+- name: "INVESTMENT BANK OF GREECE S.A."
+  city: "MAROUSI"
+  branch: null
+  swift: IBOGGRAA
+    
+- name: "JOHN CHR. MAVRIKIS SECURITIES COMPANY S.A."
+  city: "ATHENS"
+  branch: null
+  swift: JCMSGRA1
+    
+- name: "KAPPA BROKERAGE S.A."
+  city: "ATHENS"
+  branch: null
+  swift: KPABGRA1
+    
+- name: "KARAMANOF SECURITIES AND INVESTMENT SERVICES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: KASNGRA1
+    
+- name: "KMT PAYMENT SERVICES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: KMPSGRA1
+    
+- name: "KYPROU SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: KYSEGRA1
+    
+- name: "LAIKI ATTALOS SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: LAAEGRA1
+    
+- name: "LAMBRAKIS PRESS SA"
+  city: "ATHENS"
+  branch: null
+  swift: DOLDGRA1
+    
+- name: "LAVRENTAKIS STAVROS EMM. SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: SELCGRA1
+    
+- name: "LEON DEPOLAS SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: LEDEGRA1
+    
+- name: "MAGNA TRUST SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: MATCGRA1
+    
+- name: "MARKET SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: MAUIGRA1
+    
+- name: "MEGATRUST OLYMPIAKI CHRIMATISTIRIAKI ANONYMI ETAIRIA PAROCHIS EPENDYTIKON YPIRESION"
+  city: "ATHENS"
+  branch: null
+  swift: MEBVGRA1
+    
+- name: "MERIT ANONYMI CHRIMATISTIRIAKI ETAIREIA PAROCHIS EPENDYTIKON YPIRESION"
+  city: "ATHENS"
+  branch: null
+  swift: MEUEGRA1
+    
+- name: "METOCHIKI SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: MEETGRA1
+    
+- name: "MIDAS FINANCIAL SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: MIFUGRA1
+    
+- name: "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE"
+  city: "ATHENS"
+  branch: PUBLIC DEBT ISSUANCE
+  swift: MFGAGRAAPDI
+    
+- name: "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE"
+  city: "ATHENS"
+  branch: PUBLIC DEBT MANAGEMENT
+  swift: MFGAGRAAPDM
+    
+- name: "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE"
+  city: "ATHENS"
+  branch: SECRETARIAT OF PUBLIC PROPERTY
+  swift: MFGAGRAASPP
+    
+- name: "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE"
+  city: "ATHENS"
+  branch: null
+  swift: MFGAGRAA
+    
+- name: "N.CHRYSSOCHOIDIS S.B.S.A"
+  city: "ATHENS"
+  branch: null
+  swift: CHSKGRA1
+    
+- name: "NATIONAL BANK OF GREECE S.A."
+  city: "ATHENS"
+  branch: CUSTODIAN FOR FOREIGN INST. INVESTORS
+  swift: ETHNGRAACUS
+    
+- name: "NATIONAL BANK OF GREECE S.A."
+  city: "ATHENS"
+  branch: CUSTODIAN FOR GREEK INST. INVESTORS
+  swift: ETHNGRAAGRI
+    
+- name: "NATIONAL BANK OF GREECE S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ETHNGRAA
+    
+- name: "NATIONAL INVESTMENT BANK FOR INDUSTRIAL DEVELOPMENT S.A."
+  city: "THESSALONIKI"
+  branch: null
+  swift: INIDGR21
+    
+- name: "NATIONAL SECURITIES CO S.A."
+  city: "ATHENS"
+  branch: null
+  swift: NASOGRA1
+    
+- name: "NEUROSOFT SA"
+  city: "ATHENS"
+  branch: null
+  swift: NEUOGRA1
+    
+- name: "NEW MELLON ASSET AND WEALTH MANAGEMENT SA"
+  city: "ATHENS"
+  branch: null
+  swift: NMAWGR21
+    
+- name: "NIKOS KOMNINOS SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: NIKCGRA1
+    
+- name: "NORTHERN GREECE SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: NOGSGRA1
+    
+- name: "NORTHERN HELLENIC INVESTMENT SERVICES S.A."
+  city: "THESSALONIKI"
+  branch: null
+  swift: NHISGR21
+    
+- name: "NUNTIUS HELLENIC SECURITIES S A"
+  city: "ATHENS"
+  branch: null
+  swift: NUNTGRA1
+    
+- name: "OLAYAN INVESTMENTS COMPANY ESTABLISHMENT"
+  city: "GLYFADA"
+  branch: null
+  swift: OLAYGR22
+    
+- name: "OLYMPIA SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: OLSCGRA1
+    
+- name: "P K SECURITIES AE"
+  city: "ATHENS"
+  branch: null
+  swift: PKSEGRA1
+    
+- name: "PAN. VL. TZEMOS SECURITIES COMPANY S.A."
+  city: "ATHENS"
+  branch: null
+  swift: PTECGRA1
+    
+- name: "PANCRETAN COOPERATIVE BANK LTD"
+  city: "HERAKLION"
+  branch: null
+  swift: STPGGRA1
+    
+- name: "PANDK S.A."
+  city: "ATHENS"
+  branch: null
+  swift: PADDGRA1
+    
+- name: "PANDK SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: PAECGRA1
+    
+- name: "PEGASUS SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: PESUGRA1
+    
+- name: "PENTEDEKAS SECURITIES SA"
+  city: "ATHENS"
+  branch: null
+  swift: PESRGRA1
+    
+- name: "PINNACLE FINANCIAL"
+  city: "ATHENS"
+  branch: null
+  swift: PFEAGRA1
+    
+- name: "PIRAEUS BANK SA"
+  city: "ATHENS"
+  branch: SECURITIES SERVICES
+  swift: PIRBGRAASEC
+    
+- name: "PIRAEUS BANK SA"
+  city: "ATHENS"
+  branch: SECURITIES SETTLEMENT
+  swift: PIRBGRAACBS
+    
+- name: "PIRAEUS BANK SA"
+  city: "ATHENS"
+  branch: null
+  swift: PIRBGRAA
+    
+- name: "PIRAEUS SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: SIGSGRA1
+    
+- name: "PRAXIS INTERNATIONAL SECURITIES AND INVESTMENT SERVICES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: PISNGRA1
+    
+- name: "PRELIUM SECURITIES AND INVESTMENT SERVICES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: PSISGRA1
+    
+- name: "PROCREDIT BANK (BULGARIA) EAD THESSALONIKI BRANCH"
+  city: "THESSALONIKI"
+  branch: null
+  swift: PRCBGRAA
+    
+- name: "SAMSUNG ELECTRONICS GREECE S"
+  city: "CHALANDRI"
+  branch: null
+  swift: SECTGR21
+    
+- name: "SAMSUNG ELECTRONICS GREECE S"
+  city: "CHALANDRI"
+  branch: null
+  swift: SECTGR214N2
+    
+- name: "SARROS SECURITIES SA"
+  city: "ATHENS"
+  branch: null
+  swift: SARRGRA1
+    
+- name: "SOCIAL INSURANCE INSTITUTE UNIFIED INSURANCE FUND FOR EMPLOYEES"
+  city: "ATHENS"
+  branch: null
+  swift: SIIUGRA1
+    
+- name: "SOCIETE GENERALE BANK AND TRUST (HELLAS)"
+  city: "ATHENS"
+  branch: null
+  swift: SGBTGRA1
+    
+- name: "SOCIETE GENERALE GREECE"
+  city: "ATHENS"
+  branch: null
+  swift: SGGRGRA1
+    
+- name: "SOLIDUS SECURITIES ANONYMOS CHRIMATISTIRIAKI ETAIREIA PAROCHIS EPENDYTIKON YPIRESION"
+  city: "ATHENS"
+  branch: null
+  swift: SOSXGRA1
+    
+- name: "T.C. ZIRAAT BANKASI ATHENS CENTRAL BRANCH"
+  city: "ATHENS"
+  branch: null
+  swift: TCZBGRAT
+    
+- name: "TELESIS SECURITIES SA"
+  city: "ATHENS"
+  branch: null
+  swift: TESCGRA1
+    
+- name: "THEMIST. SOT. SOTIRIADIS CHRIMATISTIRIAKI ANONYMOS ETAIREIA"
+  city: "ATHENS"
+  branch: null
+  swift: THSTGRA1
+    
+- name: "UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS"
+  city: "ATHENS"
+  branch: TARGET2
+  swift: HYVEGRAATRS
+    
+- name: "UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS"
+  city: "ATHENS"
+  branch: null
+  swift: HYVEGRAA
+    
+- name: "UNION DE CREDITOS INMOBILIARIOS S.A. ESTABLECIMIENTO FINANCIERO DE CREDITO"
+  city: "ATHENS"
+  branch: null
+  swift: UCISGRA1
+    
+- name: "VIVA PAYMENT SERVICES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: VPAYGRAA
+    
+- name: "VOLKSWAGEN BANK GMBH"
+  city: "ATHENS"
+  branch: null
+  swift: VOWAGRA1
+    
+- name: "WORLDBRIDGE-PAYMENT INSTITUTION S.A"
+  city: "ATHENS"
+  branch: null
+  swift: WOIIGRA1
+    
+- name: "ZACHARIAS G. PORTALAKIS S.A. BROKERAGE FIRM"
+  city: "ATHENS"
+  branch: null
+  swift: ZPBFGRA1
+    
+- name: "ZEUS SECURITIES S.A."
+  city: "ATHENS"
+  branch: null
+  swift: ZESEGRA1
+    

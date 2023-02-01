@@ -1,0 +1,840 @@
+- name: "ABC INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: ABCVJOA1
+    
+- name: "ABUSHEIKHA EXCHANGE LLC"
+  city: "AMMAN"
+  branch: null
+  swift: ABXLJOA1
+    
+- name: "AGRICULTURAL CREDIT CORPORATION"
+  city: "AMMAN"
+  branch: null
+  swift: ACRCJOA1
+    
+- name: "AHLI BROKERAGE COMPANY"
+  city: "AMMAN"
+  branch: null
+  swift: AHBOJOA1
+    
+- name: "AJIAD FOR SECURITIES"
+  city: "AMMAN"
+  branch: null
+  swift: AJSEJOA1
+    
+- name: "AL - NAKHEEL EXCHANGE"
+  city: "AMMAN"
+  branch: null
+  swift: NAKHJOAM
+    
+- name: "AL ALAMI EXCHANGE COMPANY"
+  city: "AMMAN"
+  branch: null
+  swift: ALEYJOAM
+    
+- name: "AL AMAL FINANCIAL INVESMENTS CO. LTD"
+  city: "AMMAN"
+  branch: null
+  swift: AMFNJOA1
+    
+- name: "AL ARABI INVESTMENT GROUP CO."
+  city: "AMMAN"
+  branch: null
+  swift: ATIGJOA1
+    
+- name: "AL ARABI INVESTMENT GROUP COMPANY"
+  city: "AMMAN"
+  branch: null
+  swift: AIGMJOA1
+    
+- name: "AL AWAEL INTERNATIONAL"
+  city: "AMMAN"
+  branch: null
+  swift: AWAIJOA1
+    
+- name: "AL FARES FOR FINANCIAL INVEST CO"
+  city: "IRBID"
+  branch: null
+  swift: FRRSJOA1
+    
+- name: "AL MAWARED FOR BROKERAGE COMPANY"
+  city: "AMMAN"
+  branch: null
+  swift: MBRCJOA1
+    
+- name: "AL RAJHI BANK , JORDAN BRANCH"
+  city: "AMMAN"
+  branch: null
+  swift: RJHIJOAM
+    
+- name: "AL WAMEEDH FOR FINANCIAL SERVICES AND INVESTMENT"
+  city: "AMMAN"
+  branch: null
+  swift: WFSIJOA1
+    
+- name: "AL-AULA FINANCIAL INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: ALNTJOA1
+    
+- name: "ALAWNEH EXCHANGE L.L.C"
+  city: "AMMAN"
+  branch: null
+  swift: ALELJOAM
+    
+- name: "AL-BILAD FOR SECURITIES AND INVESTMENT"
+  city: "AMMAN"
+  branch: null
+  swift: ALSVJOA1
+    
+- name: "ALEMAN FINANCIAL INVESTMENT"
+  city: "AMMAN"
+  branch: null
+  swift: ALNVJOA1
+    
+- name: "AL-HEKMA FINANCIAL SERVICES"
+  city: "AMMAN"
+  branch: null
+  swift: ALLEJOA1
+    
+- name: "ALNOUR FOR FINANCIAL INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: ANFNJOA1
+    
+- name: "AL-OMANA'A PORTFOLIO AND INVESTMENT"
+  city: "AMMAN"
+  branch: null
+  swift: ALPMJOA1
+    
+- name: "ALSAFWA FININCIAL INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: ASFVJOA1
+    
+- name: "AL-SAHM INTERNATIONAL FOR INVESTMENT AND BROKERAGE"
+  city: "AMMAN"
+  branch: null
+  swift: AIIRJOA1
+    
+- name: "AL-SALAM FOR FINANCIAL INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: ASFTJOA1
+    
+- name: "AL-SHOROUQ FINANCIAL BROKERS"
+  city: "AMMAN"
+  branch: null
+  swift: ALNBJOA1
+    
+- name: "AL-WATANIEH FOR FINANCIAL SERVICES CO."
+  city: "AMMAN"
+  branch: null
+  swift: ALNEJOA1
+    
+- name: "AMAN FOR SECURITIES"
+  city: "AMMAN"
+  branch: null
+  swift: AMSIJOA1
+    
+- name: "AMMAN BANK FOR INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: AMBIJOM1
+    
+- name: "AMMAN STOCK EXCHANGE"
+  city: "AMMAN"
+  branch: null
+  swift: XAMMJOA1
+    
+- name: "AMWAL BROKERAGE"
+  city: "AMMAN"
+  branch: null
+  swift: AMWBJOA1
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: (ABDOUN BRANCH
+  swift: ARABJOAX133
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: ABDALI BRANCH
+  swift: ARABJOAX119
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: ABU ALANDA
+  swift: ARABJOAX131
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: AL-JUBEIHA BRANCH
+  swift: ARABJOAX126
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: CENTRAL OPERATIONS UNIT-TRADE FINANCE SERVICES
+  swift: ARABJOAX501
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: CENTRALIZED INWARD TRANSFERS DEPT.
+  swift: ARABJOAXCUT
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: CENTRALIZED OUTWARD TRANSFERS DEPT.
+  swift: ARABJOAXTRF
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: CENTRALIZED SALARIES UNIT
+  swift: ARABJOAXSLR
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: FIFTH CIRCLE BRANCH
+  swift: ARABJOAX134
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: GARDENS BRANCH
+  swift: ARABJOAX128
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: GENERAL SECRETARIAT DEPARTMENT
+  swift: ARABJOAXSEC
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: HEAD OFFICE
+  swift: ARABJOAX
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: INTERNATIONAL BANKING DIVISION
+  swift: ARABJOAXINT
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: JABAL AMMAN BRANCH
+  swift: ARABJOAX115
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: JABAL HUSSEIN BRANCH
+  swift: ARABJOAX116
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: JABAL LUWEIBDEH BRANCH
+  swift: ARABJOAX113
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: JORDAN BRANCHES CENTRE
+  swift: ARABJOAX100
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: KING FAISAL STREET
+  swift: ARABJOAX111
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: MAHATIA STREET BRANCH
+  swift: ARABJOAX112
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: MECCA STREET BRANCH
+  swift: ARABJOAX139
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: OPERATIONS DIVISION
+  swift: ARABJOAXOPS
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: PRIVATE BANKING DEPARTMENT 6
+  swift: ARABJOAXPBD
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: QURAYSH STREET BRANCH
+  swift: ARABJOAX108
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: RABIA BRANCH
+  swift: ARABJOAX138
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: SHMEISANI BRANCH
+  swift: ARABJOAX118
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: SUWAIFEYYA BRANCH
+  swift: ARABJOAX130
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: SUWEILEH BRANCH
+  swift: ARABJOAX110
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: TEST KEY DEPARTMENT
+  swift: ARABJOAXTKD
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: UNIVERSITY STREET
+  swift: ARABJOAX125
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: WADI SEER BRANCH
+  swift: ARABJOAX162
+    
+- name: "ARAB BANK PLC"
+  city: "AMMAN"
+  branch: WAHDAT BRANCH
+  swift: ARABJOAX114
+    
+- name: "ARAB BANK PLC"
+  city: "AQABA"
+  branch: AQABA BRANCH
+  swift: ARABJOAX122
+    
+- name: "ARAB BANK PLC"
+  city: "IRBID"
+  branch: IRBID BRANCH
+  swift: ARABJOAX120
+    
+- name: "ARAB BANK PLC"
+  city: "JERASH"
+  branch: JERASH BRANCH
+  swift: ARABJOAX107
+    
+- name: "ARAB BANK PLC"
+  city: "KARAK"
+  branch: KARAK BRANCH
+  swift: ARABJOAX102
+    
+- name: "ARAB BANK PLC"
+  city: "MA'AN"
+  branch: MA'AN BRANCH
+  swift: ARABJOA102M
+    
+- name: "ARAB BANK PLC"
+  city: "MADABA"
+  branch: MADABA BRANCH
+  swift: ARABJOA1023
+    
+- name: "ARAB BANK PLC"
+  city: "MAFRAQ"
+  branch: MAFRAQ BRANCH
+  swift: ARABJOAX104
+    
+- name: "ARAB BANK PLC"
+  city: "MARQA"
+  branch: MARQA BRANCH
+  swift: ARABJOAX117
+    
+- name: "ARAB BANK PLC"
+  city: "RUSSEIFA"
+  branch: RUSSEIFA BRANCH
+  swift: ARABJOAX105
+    
+- name: "ARAB BANK PLC"
+  city: "SAHAB"
+  branch: SAHAB INDUSTRIAL CITY
+  swift: ARABJOAX161
+    
+- name: "ARAB BANK PLC"
+  city: "SALT"
+  branch: SALT BRANCH
+  swift: ARABJOA1026
+    
+- name: "ARAB BANK PLC"
+  city: "SHMEISANI"
+  branch: DEALING ROOM
+  swift: ARABJOAXDLR
+    
+- name: "ARAB BANK PLC"
+  city: "ZERKA"
+  branch: ZERQA BRANCH
+  swift: ARABJOAX121
+    
+- name: "ARAB BANKING CORPORATION (JORDAN)"
+  city: "AMMAN"
+  branch: null
+  swift: ABCJJOAM
+    
+- name: "ARAB FALCON FOR SELLING AND BUYING SECURITIES"
+  city: "AMMAN"
+  branch: null
+  swift: AFSUJOA1
+    
+- name: "ARAB JORDAN INVESTMENT BANK"
+  city: "AMMAN"
+  branch: null
+  swift: AJIBJOAX
+    
+- name: "ARAB JORDAN INVESTMENT BANK"
+  city: "AMMAN"
+  branch: null
+  swift: AJIBJOAX600
+    
+- name: "ASIA STOCK BROKERS"
+  city: "AMMAN"
+  branch: null
+  swift: ASSKJOA1
+    
+- name: "AWRAQ INVESTMENT"
+  city: "AMMAN"
+  branch: null
+  swift: AWRIJOA1
+    
+- name: "BANK ALETIHAD"
+  city: "AMMAN"
+  branch: null
+  swift: UBSIJOAX
+    
+- name: "BANK AUDI S.A.L. JORDAN BRANCHES"
+  city: "AMMAN"
+  branch: null
+  swift: AUDBJOAM
+    
+- name: "BANK OF JORDAN PLC"
+  city: "AMMAN"
+  branch: null
+  swift: BJORJOAX
+    
+- name: "BANK OF JORDAN PLC"
+  city: "AMMAN"
+  branch: null
+  swift: BJORJOAXCNC
+    
+- name: "BLOM BANK S.A.L."
+  city: "AMMAN"
+  branch: null
+  swift: BLOMJOAM
+    
+- name: "BUSINESS WOMEN TRADING SECURITIES"
+  city: "AMMAN"
+  branch: null
+  swift: BWTSJOA1
+    
+- name: "CAIRO AMMAN BANK"
+  city: "AMMAN"
+  branch: null
+  swift: CAABJOAM
+    
+- name: "CAPITAL BANK OF JORDAN"
+  city: "AMMAN"
+  branch: null
+  swift: EFBKJOAM
+    
+- name: "CAPITAL INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: CPIVJOA1
+    
+- name: "CENTRAL BANK OF JORDAN"
+  city: "AMMAN"
+  branch: null
+  swift: CBJOJOAX
+    
+- name: "CENTRAL BANK OF JORDAN"
+  city: "AQABA"
+  branch: AQABA BRANCH
+  swift: CBJOJOAX02A
+    
+- name: "CENTRAL BANK OF JORDAN"
+  city: "IRBID"
+  branch: IRBID BRANCH
+  swift: CBJOJOAX021
+    
+- name: "CITIBANK N.A."
+  city: "AMMAN"
+  branch: null
+  swift: CITIJOAX
+    
+- name: "CITIES AND VILLAGES DEVELOPMENT BANK"
+  city: "AMMAN"
+  branch: null
+  swift: CVDBJOA1
+    
+- name: "CITIES AND VILLAGES DEVELOPMENT BANK"
+  city: "IRBID"
+  branch: null
+  swift: CVDBJOA102I
+    
+- name: "CITIES AND VILLAGES DEVELOPMENT BANK"
+  city: "KARAK"
+  branch: null
+  swift: CVDBJOA102K
+    
+- name: "DELTA FINANCIAL INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: DEFVJOA1
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "AMMAN"
+  branch: null
+  swift: ARLBJOAM
+    
+- name: "ELITE FINANCIAL SERVICES"
+  city: "AMMAN"
+  branch: null
+  swift: ELFEJOA1
+    
+- name: "EXPERTS FINANCIAL SERVICES"
+  city: "AMMAN"
+  branch: null
+  swift: EXFSJOA1
+    
+- name: "FRIENDS FINANCIAL INVESTMENT AND BROKERAGE"
+  city: "AMMAN"
+  branch: null
+  swift: FFIBJOA1
+    
+- name: "FUTURE EXCHANGE CO., LTD."
+  city: "AMMAN"
+  branch: null
+  swift: FUEXJOAM
+    
+- name: "GLOBAL INVESTMENT HOUSE JORDAN"
+  city: "AMMAN"
+  branch: null
+  swift: GIHJJOA1
+    
+- name: "HOUSING BANK FOR TRADE AND FINANCE, THE"
+  city: "AMMAN"
+  branch: null
+  swift: HBHOJOAX
+    
+- name: "IMCAN FOR FINANCIAL SERVICES"
+  city: "AMMAN"
+  branch: null
+  swift: IMFSJOA1
+    
+- name: "INDUSTRIAL DEVELOPMENT BANK"
+  city: "AMMAN"
+  branch: null
+  swift: IDEVJOA1
+    
+- name: "INTERNATIONAL FINANCIAL ADVISORS"
+  city: "AMMAN"
+  branch: null
+  swift: IFAVJOA1
+    
+- name: "INTERNATIONAL FINANCIAL CENTER"
+  city: "AMMAN"
+  branch: null
+  swift: ITFEJOA1
+    
+- name: "INVESTBANK"
+  city: "AMMAN"
+  branch: null
+  swift: JIFBJOAM
+    
+- name: "INVESTMENT AND SECURITIES"
+  city: "AMMAN"
+  branch: null
+  swift: ISEUJOA1
+    
+- name: "INVESTMENT HOUSE FOR FINANCIAL SERVICES"
+  city: "AMMAN"
+  branch: null
+  swift: IHFSJOA1
+    
+- name: "ISLAMIC INTERNATIONAL ARAB BANK"
+  city: "AMMAN"
+  branch: CENTRAL OPERATIONS DEPARTMENT/ BACK OFFICE
+  swift: IIBAJOAMJBC
+    
+- name: "ISLAMIC INTERNATIONAL ARAB BANK"
+  city: "AMMAN"
+  branch: CENTRAL OPERATIONS DEPARTMENT/ LCS
+  swift: IIBAJOAM100
+    
+- name: "ISLAMIC INTERNATIONAL ARAB BANK"
+  city: "AMMAN"
+  branch: CENTRAL OPERATIONS DEPARTMENT/ LGS AND BCS
+  swift: IIBAJOAM300
+    
+- name: "ISLAMIC INTERNATIONAL ARAB BANK"
+  city: "AMMAN"
+  branch: CENTRAL OPERATIONS DEPARTMENT/ TRANSFERS
+  swift: IIBAJOAM200
+    
+- name: "ISLAMIC INTERNATIONAL ARAB BANK"
+  city: "AMMAN"
+  branch: null
+  swift: IIBAJOAM
+    
+- name: "JORDAN AHLI BANK PLC"
+  city: "AMMAN"
+  branch: JORDAN BRANCHES MANAGEMENT
+  swift: JONBJOAX
+    
+- name: "JORDAN AND GULF INVESTMENT INDUSTRIAL"
+  city: "AMMAN"
+  branch: null
+  swift: JGIIJOA1
+    
+- name: "JORDAN COMMERCIAL BANK"
+  city: "AMMAN"
+  branch: null
+  swift: JGBAJOAM
+    
+- name: "JORDAN ISLAMIC BANK"
+  city: "AMMAN"
+  branch: AL-HUSSEIN BRANCH
+  swift: JIBAJOAM111
+    
+- name: "JORDAN ISLAMIC BANK"
+  city: "AMMAN"
+  branch: AL-YARMOUK STREET BRANCH
+  swift: JIBAJOAM113
+    
+- name: "JORDAN ISLAMIC BANK"
+  city: "AMMAN"
+  branch: AMMAN BRANCH
+  swift: JIBAJOAM110
+    
+- name: "JORDAN ISLAMIC BANK"
+  city: "AMMAN"
+  branch: H.O.
+  swift: JIBAJOAM115
+    
+- name: "JORDAN ISLAMIC BANK"
+  city: "AMMAN"
+  branch: SAQF EL-SAIL BRANCH
+  swift: JIBAJOAM112
+    
+- name: "JORDAN ISLAMIC BANK"
+  city: "AMMAN"
+  branch: WASFI-AL-TEL STREET BRANCH
+  swift: JIBAJOAM114
+    
+- name: "JORDAN ISLAMIC BANK"
+  city: "AMMAN"
+  branch: null
+  swift: JIBAJOAM
+    
+- name: "JORDAN KUWAIT BANK"
+  city: "AMMAN"
+  branch: null
+  swift: JKBAJOAM
+    
+- name: "JORDAN RIVER FINANCIAL INVESTMENT"
+  city: "AMMAN"
+  branch: null
+  swift: JRFIJOA1
+    
+- name: "KAMAL EXCHANGE CO L.L.C"
+  city: "AMMAN"
+  branch: null
+  swift: MAKSJOAX
+    
+- name: "KAMIRAN ALI AND PARTNER EXCHANGE CO"
+  city: "AMMAN"
+  branch: null
+  swift: HUDAJOAM
+    
+- name: "KHALED HASAN, HADI WASHAKA, AND MUWAFFAQ ABDEL JALEEL EXCHANGE CO."
+  city: "AMMAN"
+  branch: null
+  swift: KHHWJOA1
+    
+- name: "LBDA' FOR FINANCIAL INVESTMENT"
+  city: "AMMAN"
+  branch: null
+  swift: LBDAJOA1
+    
+- name: "MOH'D FAWAS ABU ENNASER AND PARTNERS EXCHANGE COMPANY"
+  city: "AMMAN"
+  branch: null
+  swift: ABOXJOA1
+    
+- name: "MUBADALA FINANCIAL INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: MUFNJOA1
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "AMMAN"
+  branch: TRADE FINANCE DEPARTMENT
+  swift: NBADJOAMTFO
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "AMMAN"
+  branch: null
+  swift: NBADJOAM
+    
+- name: "NATIONAL BANK OF KUWAIT"
+  city: "AMMAN"
+  branch: null
+  swift: NBOKJOAM
+    
+- name: "NATIONAL PORTFOLIO SECURITIES"
+  city: "AMMAN"
+  branch: null
+  swift: NAPSJOA1
+    
+- name: "NATIONAL SECURITIES COMPANY"
+  city: "AMMAN"
+  branch: null
+  swift: NSECJOA1
+    
+- name: "OSOOL INV AND FIN SRV CO"
+  city: "AMMAN"
+  branch: null
+  swift: OIFSJOA1
+    
+- name: "PALESTINE ESTABLISHMENT FOR EXCHANGE"
+  city: "AMMAN"
+  branch: null
+  swift: NADIJOA1
+    
+- name: "RAFIDAIN BANK"
+  city: "AMMAN"
+  branch: null
+  swift: RAFBJOAM
+    
+- name: "SABAEK FOR FINANCIAL SERVICES"
+  city: "AMMAN"
+  branch: null
+  swift: SALEJOA1
+    
+- name: "SAFWA ISLAMIC BANK"
+  city: "AMMAN"
+  branch: null
+  swift: JDIBJOAM
+    
+- name: "SAMIR AND SAMEH BROS. FOR INVESTMENT"
+  city: "AMMAN"
+  branch: null
+  swift: SSBNJOA1
+    
+- name: "SAMSUNG ELECTRONICS LEVANT LTD."
+  city: "AMMAN"
+  branch: null
+  swift: SECTJOA1
+    
+- name: "SAMSUNG ELECTRONICS LEVANT LTD."
+  city: "AMMAN"
+  branch: null
+  swift: SECTJOA1770
+    
+- name: "SANABEL ALKHAIR FOR FINANCIAL INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: SAFTJOA1
+    
+- name: "SECURITIES DEPOSITORY CENTER"
+  city: "AMMAN"
+  branch: null
+  swift: SEDCJOAX
+    
+- name: "SELWAN FINANCIAL BROKERS"
+  city: "AMMAN"
+  branch: null
+  swift: SEFRJOA1
+    
+- name: "SHARECO BROKERAGE CO."
+  city: "AMMAN"
+  branch: null
+  swift: SHBRJOA1
+    
+- name: "SHUA'A FOR SECURITIES TRADING AND INVESTMENTS"
+  city: "AMMAN"
+  branch: null
+  swift: SSTIJOA1
+    
+- name: "SOCIETE GENERALE DE BANQUE - JORDANIE"
+  city: "AMMAN"
+  branch: null
+  swift: SGMEJOAM
+    
+- name: "SOCIETE GENERALE JORDAN - BROKERAGE"
+  city: "AMMAN"
+  branch: null
+  swift: SGJBJOA1
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "AMMAN"
+  branch: null
+  swift: SCBLJOAX
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "AQABA"
+  branch: null
+  swift: SCBLJOA102A
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "IRBID"
+  branch: null
+  swift: SCBLJOA102I
+    
+- name: "SUKOOK INVESTMENT AND BROKERAGE"
+  city: "AMMAN"
+  branch: null
+  swift: SUIOJOA1
+    
+- name: "TADAWOL"
+  city: "AMMAN"
+  branch: null
+  swift: TADAJOA1
+    
+- name: "TANMIA SECURITIES INC."
+  city: "AMMAN"
+  branch: null
+  swift: TAERJOA1
+    
+- name: "THE ARAB FINANCIAL INVESTMENT"
+  city: "AMMAN"
+  branch: null
+  swift: ARFVJOA1
+    
+- name: "THE BANKERS FOR BROKERAGE AND FINANCIAL INVEST"
+  city: "AMMAN"
+  branch: null
+  swift: BRFIJOA1
+    
+- name: "THE FINANCIAL INVESTMENT COMPANY FOR SHARES AND BONDS"
+  city: "AMMAN"
+  branch: null
+  swift: FIOHJOA1
+    
+- name: "UNION FINANCIAL BROKERAGE"
+  city: "AMMAN"
+  branch: null
+  swift: UNFBJOA1
+    
+- name: "UNITED ARABIAN JORDANIAN FOR INVESTMENT AND BROKERAGE SERVICES"
+  city: "AMMAN"
+  branch: null
+  swift: UAJIJOA1
+    
+- name: "UNITED CO. FOR INVESTMENT AND SECURITIES"
+  city: "AMMAN"
+  branch: null
+  swift: UNNCJOA1
+    
+- name: "UNITED FINANCIAL INVESTMENTS PLC"
+  city: "AMMAN"
+  branch: null
+  swift: UNFNJOA1
+    

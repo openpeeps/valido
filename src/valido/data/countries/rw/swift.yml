@@ -1,0 +1,120 @@
+- name: "AB BANK RWANDA LTD."
+  city: "KIGALI"
+  branch: null
+  swift: ABBRRWRW
+    
+- name: "ACCESS BANK (RWANDA) SA"
+  city: "KIGALI"
+  branch: null
+  swift: BKORRWRW
+    
+- name: "BANK OF AFRICA RWANDA LTD"
+  city: "KIGALI"
+  branch: null
+  swift: AFRWRWRW
+    
+- name: "BANK OF KIGALI LIMITED"
+  city: "KIGALI"
+  branch: null
+  swift: BKIGRWRW
+    
+- name: "BANQUE DE L'HABITAT DU RWANDA"
+  city: "KIGALI"
+  branch: null
+  swift: LHRWRWR1
+    
+- name: "BANQUE NATIONALE DU RWANDA (BNR)"
+  city: "KIGALI"
+  branch: null
+  swift: BNRWRWRP
+    
+- name: "BANQUE NATIONALE DU RWANDA (BNR)"
+  city: "KIGALI"
+  branch: null
+  swift: BNRWRWRW
+    
+- name: "BANQUE POPULAIRE DU RWANDA LTD"
+  city: "KIGALI"
+  branch: null
+  swift: BPRWRWRW
+    
+- name: "COMPAGNIE GENERALE DE BANQUE/COGEBANQUE"
+  city: "KIGALI"
+  branch: null
+  swift: CGBKRWRW
+    
+- name: "CRANE BANK RWANDA LTD"
+  city: "KIGALI"
+  branch: null
+  swift: CRRWRWRW
+    
+- name: "DEVELOPMENT BANK OF RWANDA"
+  city: "KIGALI"
+  branch: null
+  swift: BRDRRWRW
+    
+- name: "ECOBANK RWANDA"
+  city: "KIGALI"
+  branch: null
+  swift: ECOCRWRW
+    
+- name: "EQUITY BANK RWANDA LIMITED"
+  city: "KIGALI"
+  branch: null
+  swift: EQBLRWRW
+    
+- name: "GUARANTY TRUST BANK (RWANDA) LTD"
+  city: "KIGALI"
+  branch: null
+  swift: GTBIRWRK
+    
+- name: "I AND M BANK (RWANDA) LIMITED"
+  city: "KIGALI"
+  branch: null
+  swift: IMRWRWRW
+    
+- name: "KCB BANK RWANDA LTD"
+  city: "HUYE"
+  branch: KCB RWANDA - HUYE BRANCH
+  swift: KCBLRWRW163
+    
+- name: "KCB BANK RWANDA LTD"
+  city: "KIGALI"
+  branch: CENTRAL CLEARING CENTRE - HEAD OFFICE
+  swift: KCBLRWRW161
+    
+- name: "KCB BANK RWANDA LTD"
+  city: "KIGALI"
+  branch: null
+  swift: KCBLRWRW
+    
+- name: "KCB BANK RWANDA LTD"
+  city: "KIGALI"
+  branch: null
+  swift: KCBLRWRWCUS
+    
+- name: "KCB BANK RWANDA LTD"
+  city: "MUSANZE"
+  branch: KCB RWANDA - MUSANZE BRANCH
+  swift: KCBLRWRW165
+    
+- name: "KCB BANK RWANDA LTD"
+  city: "RUBAVU"
+  branch: KCB RWANDA - RUBAVU
+  swift: KCBLRWRW162
+    
+- name: "KCB BANK RWANDA LTD"
+  city: "RUSIZI"
+  branch: KCB RWANDA - RUSIZI BRANCH
+  swift: KCBLRWRW164
+    
+- name: "NATIONAL BANK OF RWANDA"
+  city: "KIGALI"
+  branch: null
+  swift: CBRWRWR1
+    
+- name: "URWEGO OPPORTUNITY BANK LIMITED"
+  city: "KIGALI"
+  branch: null
+  swift: UOBRRWRW
+    

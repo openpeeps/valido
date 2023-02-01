@@ -1,0 +1,800 @@
+- name: "ACCESS INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: AIFMHUH1
+    
+- name: "AEGON HUNGARY INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: AHIFHUH1
+    
+- name: "AEGON MAGYARORSZAG BEFEKTETESI JEGY FORGALMAZO ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: AMBJHUH1
+    
+- name: "AGRIBROKER KFT."
+  city: "BUDAPEST"
+  branch: HEAD OFFICE
+  swift: AGRFHUH1AAA
+    
+- name: "AGRIBROKER KFT."
+  city: "BUDAPEST"
+  branch: null
+  swift: AGRFHUH1
+    
+- name: "AGRIMPEX KFT."
+  city: "BUDAPEST"
+  branch: null
+  swift: AGKFHUH1
+    
+- name: "AGROKONT ZRT."
+  city: "BUDAPEST"
+  branch: MANAGEMENT
+  swift: AGZRHUH1MMD
+    
+- name: "AGROKONT ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: AGZRHUH1
+    
+- name: "ALAPFORGALMAZO ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: ALZRHUH1
+    
+- name: "ALLAMADOSSAG KEZELO KOZPONT RT."
+  city: "BUDAPEST"
+  branch: null
+  swift: AKKHHUHB
+    
+- name: "AXA MAGYARORORSZAG BEFEKTETESI ALAPKEZELO ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: AMBLHUH1
+    
+- name: "BANK OF CHINA (HUNGARY) LTD"
+  city: "BUDAPEST"
+  branch: null
+  swift: BKCHHUHB
+    
+- name: "BANK OF CHINA LIMITED HUNGARIAN BRANCH"
+  city: "BUDAPEST"
+  branch: null
+  swift: BKCHHUHH
+    
+- name: "BANKAR BEFEKTETESI RT"
+  city: "BUDAPEST"
+  branch: null
+  swift: BABFHUH1
+    
+- name: "BIZTONSAG INVEST SECURITIES INC."
+  city: "BUDAPEST"
+  branch: null
+  swift: BISIHUH1
+    
+- name: "BNP DRESDNER ERTEKPAPIR RT"
+  city: "BUDAPEST"
+  branch: null
+  swift: BDEKHUH1
+    
+- name: "BNP PARIBAS SECURITIES HUNGARY BRANCH"
+  city: "BUDAPEST"
+  branch: null
+  swift: PARBHUHX
+    
+- name: "BNP PARIBAS, HUNGARY BRANCH"
+  city: "BUDAPEST"
+  branch: null
+  swift: BNPAHUHX
+    
+- name: "BUDA-CASH BROKERHAZ ZARTKORUEN MUKODO RESZVENYTARSASAG"
+  city: "BUDAPEST"
+  branch: null
+  swift: BBZMHUH1
+    
+- name: "BUDAPEST ALAPKEZELO ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: BUAZHUH1
+    
+- name: "BUDAPEST BANK RT."
+  city: "BUDAPEST"
+  branch: null
+  swift: BUDAHUHB
+    
+- name: "BUDAPEST COMMODITY EXCHANGE"
+  city: "BUDAPEST"
+  branch: null
+  swift: XBCEHUH1
+    
+- name: "BUDAPEST INVESTMENT MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: BIMCHUH1
+    
+- name: "BUDAPESTI ERTEKT ZSDE ZARTKOER EN M KOED RESZVENYTARSASAG"
+  city: "BUDAPEST"
+  branch: null
+  swift: XBUDHUH1
+    
+- name: "CA IB INVESTMENT FUND MANAGEMENT LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: IFMAHUH1
+    
+- name: "CASHLINE ERTEKPAPIR ZARTKOER EN M KOED RESZVENYTARSASAG"
+  city: "BUDAPEST"
+  branch: null
+  swift: CLINHUH1
+    
+- name: "CE CENTRAL EUROPEAN BROKER LTD."
+  city: "BUDAPEST"
+  branch: HEAD OFFICE
+  swift: CEBRHUH1001
+    
+- name: "CE CENTRAL EUROPEAN BROKER LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: CEBRHUH1
+    
+- name: "CEE ACTIVE ASSET MANAGEMENT ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: CCSNHUH1
+    
+- name: "CIB BANK LTD. (FORMERLY CENTRAL-EUROPEAN INT.BANK LTD.)"
+  city: "BUDAPEST"
+  branch: null
+  swift: CIBHHUHB
+    
+- name: "CIB INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: CINNHUH1
+    
+- name: "CITIBANK EUROPE PLC HUNGARIAN BRANCH"
+  city: "BUDAPEST"
+  branch: CUSTODY DEPARTMENT
+  swift: CITIHUHXCUS
+    
+- name: "CITIBANK EUROPE PLC HUNGARIAN BRANCH"
+  city: "BUDAPEST"
+  branch: TRADE SERVICES DEPT.
+  swift: CITIHUHXTRD
+    
+- name: "CITIBANK EUROPE PLC HUNGARIAN BRANCH"
+  city: "BUDAPEST"
+  branch: null
+  swift: CITIHUHX
+    
+- name: "CODEX ERTEKTAR ES ERTEKPAPIR ZRT."
+  city: "BUDAPEST"
+  branch: SECURITIES MARKETS
+  swift: CEEZHUH1SMK
+    
+- name: "CODEX ERTEKTAR ES ERTEKPAPIR ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: CEEZHUH1
+    
+- name: "COMMERZBANK (BUDAPEST) RT."
+  city: "BUDAPEST"
+  branch: null
+  swift: COBAHUHX
+    
+- name: "CONCORDE ERTEKPAPIR UGYNOKSEG RT"
+  city: "BUDAPEST"
+  branch: null
+  swift: COEGHUH1
+    
+- name: "CONCORDE INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: CIUAHUH1
+    
+- name: "CREDIT SUISSE - BUDAPEST"
+  city: "BUDAPEST"
+  branch: null
+  swift: CSBUHUH1
+    
+- name: "CREDIT SUISSE ASSET MANAGEMENT HUNGARY INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: CSAGHUH1
+    
+- name: "DEUTSCHE BANK AG HUNGARY BRANCH"
+  city: "BUDAPEST"
+  branch: null
+  swift: DEUTHU2B
+    
+- name: "DIOFA ALAPKEZELO ZRT."
+  city: "BUDAPEST"
+  branch: BACK OFFICE
+  swift: DIATHUH1BKO
+    
+- name: "DIOFA ALAPKEZELO ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: DIATHUH1
+    
+- name: "DUNA TAKAREK BANK ZRT."
+  city: "GYOR"
+  branch: null
+  swift: DTBAHUHB
+    
+- name: "DUNAKANYAR TAKAREKSZOVETKEZET"
+  city: "DUNABOGDANY"
+  branch: null
+  swift: DUNAHUH1
+    
+- name: "EASTBROKERS"
+  city: "BUDAPEST"
+  branch: null
+  swift: EASBHUH1
+    
+- name: "EBROKERHAZ ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: HAMZHUH1
+    
+- name: "EQUILOR INVESTMENT PLC."
+  city: "BUDAPEST"
+  branch: null
+  swift: EQIEHUH1
+    
+- name: "ERSTE BANK HUNGARY ZRT"
+  city: "BUDAPEST"
+  branch: CUSTODY DEPARTMENT
+  swift: GIBAHUH1CUS
+    
+- name: "ERSTE BANK HUNGARY ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: GIBAHUHB
+    
+- name: "ERSTE BEFEKTETESI ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: ERSKHUH1
+    
+- name: "ERSTE INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: EIFMHUH1
+    
+- name: "'EUROPA' INVESTMENT FUND MANAGEMENT COMPANY LIMITED"
+  city: "BUDAPEST"
+  branch: null
+  swift: EIFAHUH1
+    
+- name: "FHB KERESKEDELMI BANK ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: FHKBHUHB
+    
+- name: "FOLDHITEL ES JELZALOGBANK RT"
+  city: "BUDAPEST"
+  branch: null
+  swift: FHJBHUHB
+    
+- name: "FUEZES TAKAREK SZOVETKEZETI HITELINTEZET"
+  city: "FUZESABONY"
+  branch: null
+  swift: FUVTHUH1
+    
+- name: "FUNDAMENTA-LAKASKASSZA LAKASTAKAREKPENZTAR RT"
+  city: "BUDAPEST"
+  branch: null
+  swift: FLTPHUHB
+    
+- name: "FUTUREAL INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: FIFMHUH1
+    
+- name: "GENERALI ALAPKEZELO ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: GEAZHUH1
+    
+- name: "GENERALI INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: ALL BRANCHES
+  swift: GIFGHUH1ALL
+    
+- name: "GENERALI INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: GIFGHUH1
+    
+- name: "GIRO ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: GHUNHUHB
+    
+- name: "GIRO ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: GHUNHUHBGIR
+    
+- name: "GLENCORE GRAIN HUNGARY KFT."
+  city: "BUDAPEST"
+  branch: null
+  swift: GGHKHUH1
+    
+- name: "GOG SECURITIES LIMITED"
+  city: "BUDAPEST"
+  branch: null
+  swift: GOSCHUH1
+    
+- name: "GRANIT BANK ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: GNBAHUHB
+    
+- name: "HAJDUDOROG ES VIDEKE TAKAREKSZOEVETKEZET"
+  city: "HAJDUDOROG"
+  branch: null
+  swift: HAVTHUH1
+    
+- name: "HATARIDOS TOZSDEIPAR KFT."
+  city: "BEKESCSABA"
+  branch: MONEY MARKETS AND DERIVATIVES
+  swift: HATKHUH1MMD
+    
+- name: "HATARIDOS TOZSDEIPAR KFT."
+  city: "BEKESCSABA"
+  branch: null
+  swift: HATKHUH1
+    
+- name: "HATARIDOS TOZSDEIPAR KFT."
+  city: "BEKESCSABA"
+  branch: null
+  swift: HATKHUH1HA1
+    
+- name: "HUNGARIA ORDER KFT"
+  city: "BUDAPEST"
+  branch: COMMODITIES
+  swift: HUOKHUH1MMD
+    
+- name: "HUNGARIA ORDER KFT"
+  city: "BUDAPEST"
+  branch: null
+  swift: HUOKHUH1
+    
+- name: "HUNGARIAN DEVELOPMENT BANK PLC"
+  city: "BUDAPEST"
+  branch: null
+  swift: HBIDHUHB
+    
+- name: "HUNGARIAN REGISTRY"
+  city: "BUDAPEST"
+  branch: null
+  swift: HRNWHUH1
+    
+- name: "HUNGARIAN STATE TREASURY"
+  city: "BUDAPEST"
+  branch: null
+  swift: HUSTHUHB
+    
+- name: "HUNGAROGRAIN ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: HUZRHUH1
+    
+- name: "IE INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: IFMCHUH1
+    
+- name: "IE-NEW YORK BROKER BEFEKTETES ES PENZUEGYI KOEZVETIT ZARKOER EN M KOED RESZVENTYTARSASAG"
+  city: "BUDAPEST"
+  branch: null
+  swift: NYBBHUH1
+    
+- name: "IKR-BROKER TOZSDEUGYNOKI KFT."
+  city: "BABOLNA"
+  branch: BACK OFFICE
+  swift: IKTKHUH1BKO
+    
+- name: "IKR-BROKER TOZSDEUGYNOKI KFT."
+  city: "BABOLNA"
+  branch: null
+  swift: IKTKHUH1
+    
+- name: "ING BANK N.V. HUNGARY BRANCH"
+  city: "BUDAPEST"
+  branch: null
+  swift: INGBHUHB
+    
+- name: "ING BARING ERTEKPAPIR RT"
+  city: "BUDAPEST"
+  branch: null
+  swift: IBARHUH1
+    
+- name: "ING INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: IIFMHUH1
+    
+- name: "K AND H BANK ZRT.(FORMERLY KERESKEDELMI ES HITELBANK RT)"
+  city: "BUDAPEST"
+  branch: null
+  swift: OKHBHUHB
+    
+- name: "K AND H EQUITIES TANACSADO ZARTKOER EN M KOED RESZVENYTARSASAG"
+  city: "BUDAPEST"
+  branch: null
+  swift: AAHTHUH1
+    
+- name: "K AND H SECURITIES INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: SIFNHUH1
+    
+- name: "KBC EQUITAS ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: KBEQHUH1
+    
+- name: "KBC SECURITIES N.V. HUNGARIAN BRANCH OFFICE"
+  city: "BUDAPEST"
+  branch: null
+  swift: KBSEHUH1
+    
+- name: "KDB BANK EUROPE LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: KODBHUHB
+    
+- name: "KELER KOZPONTI ERTEKTAR ZARTKORUEN MUKODO RESZVENYTARSASAG"
+  city: "BUDAPEST"
+  branch: null
+  swift: KELRHUHA
+    
+- name: "KELER LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: KELEHUH1
+    
+- name: "KORMEND ES VIDEKE TAKAREKSZOVETKEZET"
+  city: "KORMEND"
+  branch: null
+  swift: KOVTHUH1
+    
+- name: "KOZPONTI ELSZAMOLOHAZ ES ERTEKTAR (BUDAPEST), ZRT."
+  city: "BUDAPEST"
+  branch: COMMUNICATION SERVICES FOR CCP
+  swift: KELRHUHBCOM
+    
+- name: "KOZPONTI ELSZAMOLOHAZ ES ERTEKTAR (BUDAPEST), ZRT."
+  city: "BUDAPEST"
+  branch: VIBER DEPARTMENT
+  swift: KELRHUHBABC
+    
+- name: "KOZPONTI ELSZAMOLOHAZ ES ERTEKTAR (BUDAPEST), ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: KELRHUHB
+    
+- name: "MAGNET BANK ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: HBWEHUHB
+    
+- name: "MAGYAR CETELEM BANK ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: MCBHHUHB
+    
+- name: "MAGYAR EXPORT IMPORT BANK ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: HEXIHUHB
+    
+- name: "MAGYAR NEMZETI BANK"
+  city: "BUDAPEST"
+  branch: DOMESTIC PAYMENT SYSTEM
+  swift: MANEHUHH
+    
+- name: "MAGYAR NEMZETI BANK"
+  city: "BUDAPEST"
+  branch: null
+  swift: MANEHUHB
+    
+- name: "MAGYAR PARIBAS S.A."
+  city: "BUDAPEST"
+  branch: null
+  swift: PARBHUH1
+    
+- name: "MAGYAR POSTA ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: HUPOHUHB
+    
+- name: "MAGYAR TAKAREKSZOVETKEZETI BANK RT."
+  city: "BUDAPEST"
+  branch: null
+  swift: TAKBHUHB
+    
+- name: "MECSEKKORNYEK HITELSZOVETKEZET"
+  city: "PECS"
+  branch: null
+  swift: MEHIHUH1
+    
+- name: "MECSEKVIDEKE TAKAREKSZOEVETKEZET MECSEKNADASD"
+  city: "MECSEKNADASD"
+  branch: null
+  swift: MEVIHUH1
+    
+- name: "MERKANTIL VALTO ES VAGYONBEFEKTETO BANK RT."
+  city: "BUDAPEST"
+  branch: null
+  swift: MRKBHUHB
+    
+- name: "MERLITO ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: MRZRHUH1
+    
+- name: "MKB BANK ZRT (FORMERLY MAGYAR KULKERESKEDELMI BANK RT.)"
+  city: "BUDAPEST"
+  branch: null
+  swift: MKKBHUHB
+    
+- name: "MKB INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: MIFNHUH1
+    
+- name: "MOL HUNGARIAN OIL AND GAS PLC"
+  city: "BUDAPEST"
+  branch: null
+  swift: MOLHHUHB
+    
+- name: "NHB GROWTH CREDIT BANK PLC."
+  city: "BUDAPEST"
+  branch: null
+  swift: KULBHUHB
+    
+- name: "NOMURA SECURITIES HUNGARY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: NOMSHUH1
+    
+- name: "O.F.SZ. ORSZAGOS FIZETESI SZOLGALTATO ZARTKORUEN  MUKODO RESZVENYTARSASAG"
+  city: "BUDAPEST"
+  branch: null
+  swift: OFSZHUHB
+    
+- name: "OBERBANK AG"
+  city: "BUDAPEST"
+  branch: null
+  swift: OBKLHUHB
+    
+- name: "OERKENYI TAKAREKSZOEVETKEZET"
+  city: "ORKENY"
+  branch: null
+  swift: ORTAHUH1
+    
+- name: "OTP BANK PLC."
+  city: "BUDAPEST"
+  branch: null
+  swift: OTPVHUHB
+    
+- name: "OTP ERTEKPAPIR RT"
+  city: "BUDAPEST"
+  branch: null
+  swift: OTPEHUH1
+    
+- name: "OTP INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: OIFMHUH1
+    
+- name: "OTP MORTGAGEBANK LTD"
+  city: "BUDAPEST"
+  branch: null
+  swift: OTPJHUHB
+    
+- name: "OTP REAL ESTATE INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: OREIHUH1
+    
+- name: "PILISVOEROESVAR ES VIDEKE TAKAREKSZOEVETKEZET"
+  city: "PILISVOROSVAR"
+  branch: null
+  swift: PVVTHUH1
+    
+- name: "PLANINVEST BROKER ZRT."
+  city: "KESZTHELY"
+  branch: null
+  swift: PLBZHU21
+    
+- name: "POLGARI BANK ZRT"
+  city: "POLGAR"
+  branch: null
+  swift: POLBHU22
+    
+- name: "PORSCHE BANK HUNGARIA ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: POHZHUHB
+    
+- name: "PRUDENT-INVEST INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: PIFMHUH1
+    
+- name: "QUAESTOR ERTEKPAPIR NYRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: QUENHUH1
+    
+- name: "QUAESTOR ERTEKPAPIR NYRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: QUENHUH1STY
+    
+- name: "QUAESTOR INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: QIFMHUH1
+    
+- name: "QUAESTOR PENZUEGYI TANACSADO ZARTKOER EN M KOED RESZVENYTARSASAG"
+  city: "BUDAPEST"
+  branch: null
+  swift: WEIVHUH1
+    
+- name: "QUANTIS ALPHA BEFEKTETESI ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: QAWMHUH1
+    
+- name: "QUOTE MTF LTD."
+  city: "BUDAORS"
+  branch: null
+  swift: QUMTHUH1
+    
+- name: "RAIFFEISEN BANK ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: UBRTHUHB
+    
+- name: "RAIFFEISEN GAZDASAGI SZOLGALTATO ZARTKOER EN M KOED RESZVENTYTARSASAG"
+  city: "BUDAPEST"
+  branch: null
+  swift: REBKHUH1
+    
+- name: "RAIFFEISEN INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: RIFMHUH1
+    
+- name: "RANDOM CAPITAL ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: RACZHUH1
+    
+- name: "REALSZISZTEMA INVESTMENT FUND MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: RIFNHUH1
+    
+- name: "REALSZISZTEMA SECURITIES TRADING AND INVESTMENTS LTD"
+  city: "BUDAPEST"
+  branch: null
+  swift: RSTIHUH1
+    
+- name: "SAMSUNG ELECTRONICS HUNGRIAN"
+  city: "JASZFENYSZARU"
+  branch: SEH
+  swift: SECTHUH1490
+    
+- name: "SAMSUNG ELECTRONICS HUNGRIAN"
+  city: "JASZFENYSZARU"
+  branch: null
+  swift: SECTHUH1
+    
+- name: "SBERBANK MAGYARORSZAG ZRT"
+  city: "BUDAPEST"
+  branch: null
+  swift: MAVOHUHB
+    
+- name: "SOLAR CAPITA MARKETS ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: SCAZHUH1
+    
+- name: "SOPRON BANK BURGENLAND ZRT."
+  city: "SOPRON"
+  branch: null
+  swift: EHBBHUHS
+    
+- name: "SPB BEFEKTETESI ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: SPBZHUH1
+    
+- name: "STRATEGON SECURITIES CO."
+  city: "BUDAPEST"
+  branch: null
+  swift: STEEHUH1
+    
+- name: "SWAP ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: SWZRHUH1
+    
+- name: "SZARVAS ES VIDEKE KOERZETI TAKAREKSZOEVETKEZET"
+  city: "SZARVAS"
+  branch: null
+  swift: SZTAHUH1
+    
+- name: "SZECHENYI ISTVAN HITELSZOVETKEZET"
+  city: "ZALAEGERSZEG"
+  branch: null
+  swift: SZIHHUH1
+    
+- name: "SZEGVAR ES VIDEKE TAKAREKSZOVETKEZET"
+  city: "SZEGVAR"
+  branch: null
+  swift: SZGTHUH1
+    
+- name: "TAKAREK BROKER RT"
+  city: "BUDAPEST"
+  branch: null
+  swift: TAKRHUH1
+    
+- name: "TAKAREK FUND MANAGEMENT PLC."
+  city: "BUDAPEST"
+  branch: null
+  swift: TAFMHUH1
+    
+- name: "TESZT BROKER"
+  city: "BUDAPEST"
+  branch: null
+  swift: TEBRHUH1
+    
+- name: "TISZAFOELDVAR ES VIDEKE TAKAREKSZOEVETKEZET"
+  city: "TISZAFOLDVAR"
+  branch: null
+  swift: TISZHUH1
+    
+- name: "TISZANTULI ELSOE HITELSZOEVETKEZET"
+  city: "DEBRECEN"
+  branch: null
+  swift: TEHDHUH1
+    
+- name: "UNICREDIT BANK HUNGARY ZRT."
+  city: "BUDAPEST"
+  branch: CUSTODIAN SERVICES
+  swift: BACXHUHBCUS
+    
+- name: "UNICREDIT BANK HUNGARY ZRT."
+  city: "BUDAPEST"
+  branch: SECURITIES SETTLEMENT
+  swift: BACXHUHBINM
+    
+- name: "UNICREDIT BANK HUNGARY ZRT."
+  city: "BUDAPEST"
+  branch: null
+  swift: BACXHUHB
+    
+- name: "UNIQA ASSET MANAGEMENT COMPANY LTD."
+  city: "BUDAPEST"
+  branch: null
+  swift: UAMCHUH1
+    
+- name: "VIRPAY PAYMENT SERVICE PROVIDER KFT"
+  city: "BUDAPEST"
+  branch: null
+  swift: VIRPHUHB
+    
+- name: "WOOD AND COMPANY TANACSADO RT."
+  city: "BUDAPEST"
+  branch: null
+  swift: WOODHUH1
+    

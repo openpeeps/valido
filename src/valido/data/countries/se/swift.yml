@@ -1,0 +1,2615 @@
+- name: "24MONEY PAYMENTS AB (PUBL)"
+  city: "UPPSALA"
+  branch: null
+  swift: MPABSE21
+    
+- name: "AARHUSKARLSHAMN FINANCE AB"
+  city: "MALMO"
+  branch: null
+  swift: AAKFSEM1
+    
+- name: "AB INVESTOR GROUP FINANCE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: INUFSES1
+    
+- name: "AB STENA FINANS"
+  city: "GOTEBORG"
+  branch: null
+  swift: SEFSSEG1
+    
+- name: "AB VOLVO"
+  city: "GOTHENBURG"
+  branch: null
+  swift: ABVOSEGG
+    
+- name: "ABB AROS FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ABBFSES1
+    
+- name: "ABERDEEN PROPERTY FUND MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: APFASES1
+    
+- name: "ABERDEEN PROPERTY INVESTORS INDIRECT"
+  city: "STOCKHOLM"
+  branch: null
+  swift: APIISES1
+    
+- name: "ABG SECURITIES AS (NORGE), FILIAL STOCKHOLM"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ASNFSES1
+    
+- name: "ABG SUNDAL COLLIER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ABUCSES1
+    
+- name: "ABILITY ASSET MANAGEMENT SCANDINAVIA"
+  city: "GOTEBORG"
+  branch: null
+  swift: AAMISEG1
+    
+- name: "A-BROKERS AB."
+  city: "STOCKHOLM"
+  branch: null
+  swift: ABROSES1
+    
+- name: "ACCUMULATE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ACCMSES1
+    
+- name: "ACTA KAPITALFORVALTNING, FILIAL TILL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AKFTSES1
+    
+- name: "ADAPTO ADVISORS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ADADSES1
+    
+- name: "ADVICE KAPITALFORVALTNING AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ADKASES1
+    
+- name: "ADVISOR KAPITALFORVALTNING I STOCKHOLM"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ADKTSES1
+    
+- name: "AFA INSURANCE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AFAISES1
+    
+- name: "AGENTA"
+  city: "UDDEVALLA"
+  branch: null
+  swift: AGETSE21
+    
+- name: "AIG GLOBAL INVESTMENT (EUROPE) LTD UK"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AGIESES1
+    
+- name: "AKTIEBOLAGET ELECTROLUX"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ELETSES1
+    
+- name: "AKTIEBOLAGET NAVIGARE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AKNVSES1
+    
+- name: "AKTIEBOLAGET SEK SECURITIES"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AKSSSES1
+    
+- name: "AKTIEINVEST FK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AIVESES1
+    
+- name: "AKTIETORGET"
+  city: "STOCKHOLM"
+  branch: SB MM AKTIETORGET
+  swift: XSATSES1EMA
+    
+- name: "AKTIETORGET"
+  city: "STOCKHOLM"
+  branch: SB MM AKTIETORGET-COTR
+  swift: XSATSES1CNV
+    
+- name: "AKTIETORGET"
+  city: "STOCKHOLM"
+  branch: null
+  swift: XSATSES1
+    
+- name: "ALANDSBANKEN ABP (FINLAND),SVENSK FILIAL"
+  city: "STOCKHOLM"
+  branch: TREASURY DEPARTMENT
+  swift: AABASESSTMS
+    
+- name: "ALANDSBANKEN ABP (FINLAND),SVENSK FILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AABASESS
+    
+- name: "ALECTA PENSIONSFORSAKRING OMSESIDIGT"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ALTASESS
+    
+- name: "ALFA KRAFT AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ALKKSES1
+    
+- name: "ALFA KRAFT FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ALKFSES1
+    
+- name: "ALFRED BERG FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ALEDSES1
+    
+- name: "ALM AND PARTNERS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ALPNSES1
+    
+- name: "ALNAIR AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ANNISES1
+    
+- name: "ALPEN RESSOURCEN SPARKASSA"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ALRPSES1
+    
+- name: "ALSBACK FORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ALORSES1
+    
+- name: "ALTERNATIVA AKTIEMARKNADEN I SVERIGE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ALKSSES1
+    
+- name: "AMF FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AMFDSES1
+    
+- name: "AMF FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AMFDSES1AIM
+    
+- name: "AMF PENSIONSFORSAKRINGS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AMPNSES1
+    
+- name: "AMF PENSIONSFORSAKRINGS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AMPNSES1AIM
+    
+- name: "AMPLION STRUKTURKAPITAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AMSRSES1
+    
+- name: "ANDRA AP-FONDEN"
+  city: "GOTEBORG"
+  branch: null
+  swift: ANAFSEG1
+    
+- name: "APS CAPITAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: APSCSES1
+    
+- name: "AQURAT FONDKOMMISION AB"
+  city: "DANDERYD"
+  branch: null
+  swift: AQFOSE21
+    
+- name: "ARAGON SECURITIES AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ARSBSES1
+    
+- name: "ARCHIPEL ASSET MANAGEMENT AB FOR THE FUND ARCHIPEL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AAMFSES1
+    
+- name: "ARCTIC SECURITIES AS, FILIAL SVERIGE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ASFGSES1
+    
+- name: "AROS SECURITIES AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ARSCSES1
+    
+- name: "AS PAREX BANKA, LETTLAND FILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: PALISES1
+    
+- name: "A-SEC OUTSOURCING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ASOUSES1
+    
+- name: "ASIA GROWTH INVESTORS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ASGISES1
+    
+- name: "ATINE GROUP AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: ATGRSEG1
+    
+- name: "ATLANT FONDER AB"
+  city: "YSTAD"
+  branch: null
+  swift: ATFDSE21
+    
+- name: "ATLAS COPCO AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ATLPSES2
+    
+- name: "ATLAS COPCO AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ATLPSESS
+    
+- name: "ATS FINANS AB"
+  city: "ANGELHOLM"
+  branch: null
+  swift: ATIISE21
+    
+- name: "AVANZA BANK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AVANSES1
+    
+- name: "AVANZA BANK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AVANSESX
+    
+- name: "AVANZA BANK HOLDING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AVZASES1
+    
+- name: "B AND P FUND SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FUSASES1
+    
+- name: "B AND P FUND SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FUSASESE
+    
+- name: "BAB BANKERNAS AUTOMATBOLAG AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BAUBSES1
+    
+- name: "BANCLEAR TRUST KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BTRSSES1
+    
+- name: "BANCTEC AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BNNTSES1
+    
+- name: "BANK OF CHINA (LUXEMBOURG) S.A. STOCKHOLM BRANCH"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BKCHSESS
+    
+- name: "BANK2 BANKAKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ANKASES1
+    
+- name: "BANKAKTIEBOLAGET AVANZA"
+  city: "STOCKHOLM"
+  branch: null
+  swift: AVASSES1
+    
+- name: "BANKGIROCENTRALEN BGC AB"
+  city: "STOCKHOLM"
+  branch: MULTILATERAL SETTLEMENT
+  swift: BGABSESSMUL
+    
+- name: "BANKGIROCENTRALEN BGC AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BGABSESG
+    
+- name: "BANKGIROCENTRALEN BGC AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BGABSESS
+    
+- name: "BANQUE INVIK LUXEMBOURG FILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: INLASES1
+    
+- name: "BIGBANK AS SWEDEN BRANCH"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BIGKSES1
+    
+- name: "BILLERUDKORSNAS AB"
+  city: "SOLNA"
+  branch: null
+  swift: BKABSE22
+    
+- name: "BLACKROCK INVESTMENT MANAGEMENT (UK)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BLIGSES1
+    
+- name: "BLUESTEP FINANS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BSTPSESS
+    
+- name: "BNP PARIBAS S.A., BANKFILIAL SVERIGE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FTSBSESS
+    
+- name: "BODENHOLM CAPITAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BOCTSES1
+    
+- name: "BREVIK KAPITALFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BRKISES1
+    
+- name: "BRUMMER AND PARTNERS"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BRPSSES1
+    
+- name: "BRUMMER MULTI-STRATEGY AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BRMUSES1
+    
+- name: "BRUMMER MULTI-STRATEGY AB FOR THE FUND BMS EURO"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BRMUSE21
+    
+- name: "BRUMMER MULTI-STRATEGY AB FOR THE FUND BMS NOK"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BRMUSE31
+    
+- name: "BURGUNDY AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BURDSES1
+    
+- name: "CANDM FUNDS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CAUUSES1
+    
+- name: "CANOSA CAPITAL LLP FOR THE FUND CANOSA"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CCLDSES1
+    
+- name: "CAPITAL C AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CPTLSES1
+    
+- name: "CAPITAL TRUST COMPANY SCANDINAVIA KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CTCSSES1
+    
+- name: "CARLSON NOREN MACRO FUND"
+  city: "HOVAS"
+  branch: null
+  swift: CNMUSE21
+    
+- name: "CARNEGIE ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S DANMARK FILIAL SVERIGE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CAGKSES1
+    
+- name: "CARNEGIE INVESTMENT BANK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CARNSES1
+    
+- name: "CARNEGIE INVESTMENT BANK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: DSETSES1
+    
+- name: "CARNEGIE INVESTMENT BANK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HQFKSESS
+    
+- name: "CARVE CAPITAL AB FOR THE FUND CARVE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CCDASES1
+    
+- name: "CASE ASSET MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CSAESES1
+    
+- name: "CATELLA CORPORATE FINANCE AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CCFASES1
+    
+- name: "CATELLA FONDFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CAFDSES1
+    
+- name: "CATELLA KAPITALFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CAKASES1
+    
+- name: "CB ASSET MANAGEMENT AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ASMKSES1
+    
+- name: "CELEBI KAPITALFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CEKASES1
+    
+- name: "CENTUM KAPITALFA-RVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CEKPSES1
+    
+- name: "CERBERUS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CEBSSES1
+    
+- name: "CERDO BANKPARTNER AB"
+  city: "HELSINGBORG"
+  branch: null
+  swift: CERDSE21
+    
+- name: "CITIBANK EUROPE PLC SWEDEN BRANCH"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CITISESX
+    
+- name: "CMC MARKETS UK PLC, SVENSK FILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CMSFSES1
+    
+- name: "COELI FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: COONSES1
+    
+- name: "COELI WEALTH MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CWMNSES1
+    
+- name: "COMPARE KAPITALFORVALTNING AB"
+  city: "ORNSKOLDSVIK"
+  branch: null
+  swift: COKPSE21
+    
+- name: "CONCENSUS FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: COFOSES1
+    
+- name: "CONSORTUM CAPITAL INVESTMENTS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: COTVSES1
+    
+- name: "CONTENDER KAPITAL AND FORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: COKFSES1
+    
+- name: "CONTINETAL SAVINGS AND LOAN EF."
+  city: "STOCKHOLM"
+  branch: null
+  swift: CSLASES1
+    
+- name: "CREDIT AGRICOLE CHEUVREUX NORDIC AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CINSSES1
+    
+- name: "CREDIT AGRICOLE CIB SWEDEN BRANCH"
+  city: "STOCKHOLM"
+  branch: null
+  swift: BSUISESS
+    
+- name: "DANSKE BANK"
+  city: "GOTEBORG"
+  branch: TRADE FINANCE, GOTHENBURG
+  swift: DABASESXGBG
+    
+- name: "DANSKE BANK"
+  city: "STOCKHOLM"
+  branch: CLS SERVICES
+  swift: DABASESXCLS
+    
+- name: "DANSKE BANK"
+  city: "STOCKHOLM"
+  branch: DANSKE CONCENSUS
+  swift: DABASESXCON
+    
+- name: "DANSKE BANK"
+  city: "STOCKHOLM"
+  branch: TRADE FINANCE, STOCKHOLM
+  swift: DABASESXSTO
+    
+- name: "DANSKE BANK"
+  city: "STOCKHOLM"
+  branch: null
+  swift: DABASESX
+    
+- name: "DANSKE HYPOTEK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: DAHLSES1
+    
+- name: "DEUTSCHE RESERVE KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: DEURSES1
+    
+- name: "DGIC TRUST KOMMANDITBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: DGTNSES1
+    
+- name: "DLP CAPITAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: DLCASES1
+    
+- name: "DNB ASSET MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: DNBASE21
+    
+- name: "DNB BANK ASA, FILIAL SVERIGE"
+  city: "STOCKHOLM"
+  branch: CLS NOSTRO AGENT CONTROL BRANCH
+  swift: DNBASESXCLS
+    
+- name: "DNB BANK ASA, FILIAL SVERIGE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: DNBASESX
+    
+- name: "DNB NOR ASSET MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: DNAASES1
+    
+- name: "DUNOVA KAPITALFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: DUKASES1
+    
+- name: "E TRADE BANK A/S,DANMARK,SVERIGE FILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TRDSSES1
+    
+- name: "E TRADE SVERIGE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EXTASES1
+    
+- name: "E. OEHMAN J:OR FONDKOMMISSION AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EOJFSES1
+    
+- name: "E. OHMAN J OR CAPITAL AB"
+  city: "STOCKHOLM"
+  branch: EXCHANGE TRADED INVESTMENT PRODUCTS
+  swift: OHCASES1SMK
+    
+- name: "E. OHMAN J OR CAPITAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OHCASES1
+    
+- name: "E. OHMAN J OR FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OHFOSES1
+    
+- name: "E. OHMAN J OR KAPITALFORVALTNING"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OHJKSES1
+    
+- name: "E.ON TRADING NORDIC AB"
+  city: "MALMO"
+  branch: null
+  swift: EOTNSEM1
+    
+- name: "EAST CAPITAL AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EACASES1
+    
+- name: "EGL SVERIGE AB"
+  city: "MALMO"
+  branch: null
+  swift: EGSVSEM1
+    
+- name: "EKF ENSKILD KAPITALFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EKFSSES1
+    
+- name: "EKOBANKEN MEDLEMSBANK"
+  city: "JARNA"
+  branch: null
+  swift: EKMLSE21
+    
+- name: "EKOBANKEN MEDLEMSBANK"
+  city: "JARNA"
+  branch: null
+  swift: EKMMSE21
+    
+- name: "ELEMENTA MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ELMASES1
+    
+- name: "EMINOVA FK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EMIOSES1
+    
+- name: "ENTER KAPITALFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ENKASES1
+    
+- name: "EQT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EQTSSESS
+    
+- name: "ERICSSON MONEY SERVICES AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ERICSES1
+    
+- name: "ERIK PENSER BANKAKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ERPFSES1
+    
+- name: "ETURN CAPITAL MANAGEMENT AB"
+  city: "VALLINGBY"
+  branch: null
+  swift: ETCASE21
+    
+- name: "EUROCLEAR SWEDEN AB"
+  city: "STOCKHOLM"
+  branch: VPC AB'S ACCOUNT OPERATOR
+  swift: VPCSSESSVKI
+    
+- name: "EUROCLEAR SWEDEN AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: VPCSSESS
+    
+- name: "EUROCLEAR SWEDEN AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: VPCSSESSCLP
+    
+- name: "EUROLINE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EUOLSES1
+    
+- name: "EUROPEAN FINANCIAL TRUST COMPANY KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EFTCSES1
+    
+- name: "EUROPEAN PRIVATE TRUST KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EUPTSES1
+    
+- name: "EUROPEAN TRUSTEES AND FIDUCIARIES ASSOCIATION (ETFA)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ETFASES1
+    
+- name: "EVLI BANK ABP, STOCKHOLMSFILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EVATSES1
+    
+- name: "EXCHANGE FINANS EUROPE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: EXFESES1
+    
+- name: "EYER FONDKOMMISSION AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: EYFOSEG1
+    
+- name: "FAIR INVESTMENTS SWEDEN AB"
+  city: "DJURSHOLM"
+  branch: null
+  swift: FIEWSE21
+    
+- name: "FESTIVAL INTERNATIONAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FEIRSES1
+    
+- name: "FIM KAPITALFORVALTNING AB FINLAND"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FIKFSES1
+    
+- name: "FINANCIAL PPC GROUP SWEDEN AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FPGSSES1
+    
+- name: "FISHER AND PARTNERS"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FIPRSES1
+    
+- name: "FITCH NORDIC REGION (FRL BRANCH)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FRIPSES1
+    
+- name: "FM FONDMARKNADEN AB UAT FONDAB AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FOUFSES1
+    
+- name: "FOERSAEKRINGS  AB AGRIA"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FOIRSES1
+    
+- name: "FOLKIA AS NORGE, FILIAL SVERIGE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FNFVSES1
+    
+- name: "FOLKSAM SPAR AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FOLKSES1
+    
+- name: "FONDKOMPASSEN AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FONNSES1
+    
+- name: "FOREIGN FINANCE TRUST SWEDEN KB"
+  city: "GRANINGE"
+  branch: null
+  swift: FFTSSE21
+    
+- name: "FOREX BANK AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FORXSES1
+    
+- name: "FOREX BANK AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FORXSESA
+    
+- name: "FORSAKRINGSAKTIEBOLAGET SKANDIA PUBL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SDIASES1
+    
+- name: "FORSTA AP-FONDEN"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FOAPSES1
+    
+- name: "FORTUM PORTFOLIO SERVICES AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FOPSSES1
+    
+- name: "FORTUM PORTFOLIO SERVICES OY FINLAND FILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FPSFSES1
+    
+- name: "FOURTH SWEDISH NATIONAL PENSION FUND"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FAPFSES1
+    
+- name: "FRANKLIN TEMPLETON MANAGEMENT LIMITED"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FRTMSES1
+    
+- name: "FREELANCE ALLIANCE TRUST SWEDEN KB"
+  city: "GRANINGE"
+  branch: null
+  swift: FRALSE21
+    
+- name: "FT ASSET MANAGEMENT KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ASGASES1
+    
+- name: "FUND MANAGEMENT GROUP ASA NORGE FILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: FMGASES1
+    
+- name: "GADD AND CO AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: GADDSES1
+    
+- name: "GARANTUM FONDKOMMISSION AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: GAFKSES1
+    
+- name: "GBTD AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: GBTDSES1
+    
+- name: "GE MONEY BANK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MONYSES1
+    
+- name: "GLOBAL INVEST FINANSFORMEDLING SVERIGE"
+  city: "LINKOPING"
+  branch: null
+  swift: GIFVSE21
+    
+- name: "GLOBAL TRUST AND CAPITAL MANAGEMENT EUROPE KOMMANDITBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: GTCASES1
+    
+- name: "GLUE FINANCE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: GLUESES1
+    
+- name: "GOTEBORGS STAD"
+  city: "GOTHENBURG"
+  branch: null
+  swift: GSTASEG1
+    
+- name: "GOTTEX SECURITIES AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: GOEESES1
+    
+- name: "GUNTHER AND WIKBERG KAPITALFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: GUWKSES1
+    
+- name: "H AND M HENNES AND MAURITZ AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HEMASES1
+    
+- name: "H AND M HENNES AND MAURITZ GBC AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HMHMSESS
+    
+- name: "H AND M HENNES AND MAURITZ GBC AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HMHMSESSGOE
+    
+- name: "H AND M HENNES AND MAURITZ INTERNATIONAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HEMISES1
+    
+- name: "H AND M HENNES AND MAURITZ SVERIGE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HEMVSES1
+    
+- name: "H. LUNDEN KAPITALFORVALTNING AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LFKBSES1
+    
+- name: "HAGBERG AND ANEBORN FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HAAFSES1
+    
+- name: "HEWLETT-PACKARD, SVERIGE, AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HESRSES1
+    
+- name: "HINC ASSET MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HIAASES1
+    
+- name: "HSB BANK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HSBBSES1
+    
+- name: "HSBC SECURITIES"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HSBSSE21
+    
+- name: "HUMLE KAPITALFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HUKASES1
+    
+- name: "HYSCOBANX TRUST COMPANY KB"
+  city: "STOCKHOLM"
+  branch: HYSCOBANX FIRST BRANCH
+  swift: HYTCSES1HYS
+    
+- name: "HYSCOBANX TRUST COMPANY KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HYTCSES1
+    
+- name: "IAM STRATEGIC S.A., LUXEMBOURG, FILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ISLFSES1
+    
+- name: "ICA BANKEN AB"
+  city: "SOLNA"
+  branch: null
+  swift: IBCASES1
+    
+- name: "IDEVALL AND PARTNERS FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: IDPFSES1
+    
+- name: "IF LIVFORSAKRING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: IFLFSES1
+    
+- name: "IF SKADEFOERSAKRING AB (PUBL)"
+  city: "BERGSHAMRA"
+  branch: null
+  swift: IFPCSES1
+    
+- name: "IF SKADEFORSAKRING HOLDING AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: IFHLSES1
+    
+- name: "IKANO BANKEN AB (PUBL)"
+  city: "ALMHULT"
+  branch: null
+  swift: IKANSE21
+    
+- name: "IKC CAPITAL AB"
+  city: "MALMO"
+  branch: null
+  swift: IKCPSEM1
+    
+- name: "INDECAP AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: INPPSES1
+    
+- name: "INDEPENDENT INVESTMENT GROUP SWEDEN"
+  city: "UMEA"
+  branch: null
+  swift: IIGSSE21
+    
+- name: "ING ASSET MANAGEMENT B.V."
+  city: "STOCKHOLM"
+  branch: null
+  swift: INGVSES1
+    
+- name: "INI PRIVATE EKONOMISK FOERENING"
+  city: "STOCKHOLM"
+  branch: null
+  swift: IPEFSES1
+    
+- name: "INOBIZ AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: INOZSES1
+    
+- name: "INVERNESS BOSTADSFOND AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: INODSES1
+    
+- name: "INVESTERUM AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: IVVRSES1
+    
+- name: "IPM INFORMED PORTFOLIO MANAGEMENT"
+  city: "STOCKHOLM"
+  branch: null
+  swift: IIPMSES1
+    
+- name: "IRICO WORLD TRUST KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: IRWTSES1
+    
+- name: "ISEC SERVICES AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ISESSES1
+    
+- name: "J.P. MORGAN EUROPE LIMITED (UK), STOCKHOLM BANKFILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: CHASSESS
+    
+- name: "JAK MEDLEMSBANK"
+  city: "SKOVDE"
+  branch: null
+  swift: JAKMSE22
+    
+- name: "JR SOEDERBERG ASSET MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SOAGSES1
+    
+- name: "JRS ASSET MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: JRAMSES1
+    
+- name: "JULIUS BAER NORDIC"
+  city: "STOCKHOLM"
+  branch: null
+  swift: JBNOSES1
+    
+- name: "KEPLER CAPITAL MARKETS"
+  city: "STOCKHOLM"
+  branch: null
+  swift: KELASES1
+    
+- name: "KINADEN SPARKASSA EK FOR"
+  city: "STOCKHOLM"
+  branch: null
+  swift: KISPSES1
+    
+- name: "KOMMUNINVEST I SVERIGE AB"
+  city: "OREBRO"
+  branch: null
+  swift: KIABSE22
+    
+- name: "LAENSFOERSAEKRINGAR FONDFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: PENSION 2010
+  swift: LAFOSES1010
+    
+- name: "LAENSFOERSAEKRINGAR FONDFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: PENSION 2015
+  swift: LAFOSES1015
+    
+- name: "LAENSFOERSAEKRINGAR FONDFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: PENSION 2020
+  swift: LAFOSES1020
+    
+- name: "LAENSFOERSAEKRINGAR FONDFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: PENSION 2025
+  swift: LAFOSES1025
+    
+- name: "LAENSFOERSAEKRINGAR FONDFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: PENSION 2030
+  swift: LAFOSES1030
+    
+- name: "LAENSFOERSAEKRINGAR FONDFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: PENSION 2035
+  swift: LAFOSES1035
+    
+- name: "LAENSFOERSAEKRINGAR FONDFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: PENSION 2040
+  swift: LAFOSES1040
+    
+- name: "LAENSFOERSAEKRINGAR FONDFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: PENSION 2045
+  swift: LAFOSES1045
+    
+- name: "LAENSFOERSAEKRINGAR FONDFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LAFOSES1
+    
+- name: "LAENSFOERSAEKRINGAR SAK FOERSAEKRINGS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LASFSES1
+    
+- name: "LAENSFOERSAERINGAR LIV FOERSAEKRING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LALFSES1
+    
+- name: "LAGE JONASON AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LAJOSES1
+    
+- name: "LANCELOT ASSET MANAGEMENT AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LAMKSES1
+    
+- name: "LANDES AND COMPAGNIE TRUST PRIVE KOMMANDITBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LCTPSES1
+    
+- name: "LANDSHYPOTEK BANK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LAHYSESS
+    
+- name: "LANSFOERSAKRINGAR BANK AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LANFSES1
+    
+- name: "LANSFORSAKRINGAR AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LANASES1
+    
+- name: "LANSFORSAKRINGAR BANK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ELLFSESS
+    
+- name: "LANSFORSAKRINGAR FONDLIV GARANTI"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LAOGSES1
+    
+- name: "LANSFORSAKRINGAR GRUPPLIVFORSAKRINGSAKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LAGUSES1
+    
+- name: "LANSFORSAKRINGAR LIV NYA TRAD"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LLNTSES1
+    
+- name: "LANTMANNEN EK"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LANTSESS
+    
+- name: "LARSSON AND NORDQVIST ASSET MANAGEMENT AB"
+  city: "MALMO"
+  branch: null
+  swift: LNAMSEM1
+    
+- name: "LCL ASSET MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LCAMSES1
+    
+- name: "LCM SWEDEN AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LCSWSES1
+    
+- name: "LEHMAN BROTHERS INTERNATIONAL (EUROPE)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LBIESES1
+    
+- name: "LENDTECH AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LENTSES1
+    
+- name: "LIFE FUNDS EMEA AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LIFASES1
+    
+- name: "LIV NYA VAERLDEN"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LINESES1
+    
+- name: "LKAB"
+  city: "LULEA"
+  branch: null
+  swift: LKABSE21
+    
+- name: "LUNDMARK AND CO FONDFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LUFOSES1
+    
+- name: "LYNX ASSET MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: LYAASES1
+    
+- name: "MALARENERGI FORSALJNING AB"
+  city: "VASTERAS"
+  branch: null
+  swift: MAFJSE21
+    
+- name: "MALARNAS KAPITALFOND FOR AVKASTNING"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MAKVSES1
+    
+- name: "MANGOLD FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MAFDSES1
+    
+- name: "MARGINALEN BANK BANKAKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MARGSES1
+    
+- name: "MARGINALEN BANK BANKAKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MARGSESS
+    
+- name: "MARKEDSKRAFT SVERIGE, FILIAL TILL MARKEDSKRAFT ASA NORGE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MSFISES1
+    
+- name: "MATTEUS FONDKOMMISSION"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MAFOSES1
+    
+- name: "MAX MATTHIESSEN VARDEPAPPER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MAMVSES1
+    
+- name: "MEDMERA BANK AB"
+  city: "SOLNA"
+  branch: null
+  swift: MEMMSE21
+    
+- name: "MEETOO AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MEEOSES1
+    
+- name: "MFEX MUTUAL FUNDS EXCHANGE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MFEXSESS
+    
+- name: "MICHAEL OSTLUND AND COMPAY FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MOFKSES1
+    
+- name: "MIND BANK AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: MNNDSEG1
+    
+- name: "MOBILIS KAPITALFORVALTNING AB"
+  city: "HELSINGBORG"
+  branch: null
+  swift: MOKASE21
+    
+- name: "MONETAR PENSIONSFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MOPNSES1
+    
+- name: "MONYX ASSET MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MNYXSESS
+    
+- name: "MP INVESTMENT BANK"
+  city: "STOCKHOLM"
+  branch: null
+  swift: IVVMSES1
+    
+- name: "MYRBERG AND WIKLUND FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: MYWOSES1
+    
+- name: "NASDAQ CLEARING AB"
+  city: "STOCKHOLM"
+  branch: CLEARING
+  swift: OMECSESSNOC
+    
+- name: "NASDAQ CLEARING AB"
+  city: "STOCKHOLM"
+  branch: DERIVATIVES
+  swift: OMECSESSDVP
+    
+- name: "NASDAQ CLEARING AB"
+  city: "STOCKHOLM"
+  branch: EXTERNAL
+  swift: OMECSESSEXT
+    
+- name: "NASDAQ CLEARING AB"
+  city: "STOCKHOLM"
+  branch: TREASURY
+  swift: OMECSESSTRE
+    
+- name: "NASDAQ CLEARING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMECSESS
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: BPF
+  swift: OMBSSESSBPF
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: GTM
+  swift: OMBSSESSGTM
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: HUM
+  swift: OMBSSESSHUM
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: LFB
+  swift: OMBSSESSLFB
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: WEA
+  swift: OMBSSESSWEA
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESS
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSABR
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSAOI
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSAZA
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSCDV
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSCSS
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSDEU
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSEKF
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSEVI
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSHQB
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSJBN
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSKAS
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSKBC
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSMCO
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSNET
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSNFM
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSNNS
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSNOB
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSSBA
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSSOT
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSSPF
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSSPG
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSSPP
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSSUN
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSTTR
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSUBS
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSVDM
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSWDR
+    
+- name: "NASDAQ OMX BROKER SERVICES AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OMBSSESSWFL
+    
+- name: "NAVENTI KAPITALFORVALTNING AB"
+  city: "UPPSALA"
+  branch: null
+  swift: NAKASE21
+    
+- name: "NAVIGERA AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NAVESES1
+    
+- name: "NEKTAR ASSET MANAGEMENT AB FOR THE FUND NEKTAR"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NAMFSES1
+    
+- name: "NEONET SECURITIES AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NEFOSESS
+    
+- name: "NEWSEC CORPORATE FINANCE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NECFSES1
+    
+- name: "NORDAX FINANS AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOFBSES1
+    
+- name: "NORDEA BANK AB (PUBL)"
+  city: "GOTEBORG"
+  branch: null
+  swift: NDEASEGG
+    
+- name: "NORDEA BANK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: NORDEA BANK MARKETS
+  swift: NDEASESSNBM
+    
+- name: "NORDEA BANK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: PLUSGIROT
+  swift: NDEASESSPGI
+    
+- name: "NORDEA BANK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NDEASESS
+    
+- name: "NORDEA BANK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NDEASESSFDS
+    
+- name: "NORDEA BANK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NDEASESSNCL
+    
+- name: "NORDEA BANK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NDEASESSRCC
+    
+- name: "NORDEA BANK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NDEASESSTRI
+    
+- name: "NORDEA GENERATIONSFOND 1945-49"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOGASES1
+    
+- name: "NORDEA GENERATIONSFOND 1950-54"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOGNSES1
+    
+- name: "NORDEA GENERATIONSFOND 1960-64"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOGDSES1
+    
+- name: "NORDEA GENERATIONSFOND 1970-74"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOGOSES1
+    
+- name: "NORDEA GENERATIONSFOND 1980-84"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NONRSES1
+    
+- name: "NORDEA INVESTMENT MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOIESES1
+    
+- name: "NORDEA STABIL SVERIGE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOSVSES1
+    
+- name: "NORDEA STRATEGA 100"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOTESES1
+    
+- name: "NORDEA STRATEGA 30"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOTGSES1
+    
+- name: "NORDEA STRATEGA 50"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOGTSES1
+    
+- name: "NORDEA STRATEGA 70"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOERSES1
+    
+- name: "NORDIC EQUITES FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOEOSES1
+    
+- name: "NORDIC EQUITIES FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOEDSES1
+    
+- name: "NORDIC FINANCIAL TRUST KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOFTSES1
+    
+- name: "NORDIC FIXED INCOME"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NFIXSES1
+    
+- name: "NORDIC GROWTH MARKET NGM AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NGMNSES1
+    
+- name: "NORDIC HERITAGE TRUST KB"
+  city: "GRANINGE"
+  branch: null
+  swift: NOHRSES1
+    
+- name: "NORDIC SAVINGS AND TRUST CREDIT UNION EKONOMISK FORENING"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NSTRSES1
+    
+- name: "NORDISK FONDSERVICE AB"
+  city: "UMEA"
+  branch: null
+  swift: NOFDSE21
+    
+- name: "NORDISKA FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOFNSES1
+    
+- name: "NORDNET BANK AB"
+  city: "BROMMA"
+  branch: null
+  swift: NNSESE22
+    
+- name: "NORDNET BANK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NNSESES1
+    
+- name: "NORTHERN SPIRIT CAPITAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: NOPCSES1
+    
+- name: "NYA MARKNADEN"
+  city: "STOCKHOLM"
+  branch: SB MM NEW MARKET CONVERTIBLES
+  swift: XSNMSES1CNV
+    
+- name: "NYA MARKNADEN"
+  city: "STOCKHOLM"
+  branch: null
+  swift: XSNMSES1
+    
+- name: "OAK CAPITAL GROUP AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OACGSES1
+    
+- name: "OOF AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OOFFSES1
+    
+- name: "OPFUTRADE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OPFUSES1
+    
+- name: "OPTIMIZED PORTFOLIO MANAGAMENT STOCKHOLM AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OPMSSES1
+    
+- name: "ORESUNDSKRAFT ENERGY TRADING AB"
+  city: "HELSINGBORG"
+  branch: null
+  swift: ORETSE21
+    
+- name: "ORKLA SECURITIES AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ORKESES1
+    
+- name: "ORZA TRUST KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ORTRSES1
+    
+- name: "OSTGOTA BRANDSTODSBOLAG"
+  city: "LINKOPING"
+  branch: null
+  swift: OSBRSE21
+    
+- name: "OSTKRAFT ENERGIHANDEL AB"
+  city: "VAXJO"
+  branch: null
+  swift: OSENSE21
+    
+- name: "OVERSEAS CREDIT UNION SCANDINAVIA EKONOMISKA FOERENING"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OCUSSES1
+    
+- name: "OVERSEAS TRUST SCANDINAVIA KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OVTCSES1
+    
+- name: "PACIFIC ASIAN ATLANTIC CAPITAL TRUST KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: PALPSES1
+    
+- name: "PAN CAPITAL AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: PAATSES1
+    
+- name: "PARETO SECURITIES AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: OHMJSESS
+    
+- name: "PEAK PARTNERS KAPITALFOERVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: PEPPSES1
+    
+- name: "PLAIN CAPITAL ASSET MANAGEMENT AB"
+  city: "KALMAR"
+  branch: null
+  swift: PCAASE21
+    
+- name: "POSTEN FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: PFKOSES1
+    
+- name: "PRI STIFTELSETJNST AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: PRSFSEG1
+    
+- name: "PRIOR AND NILSSON FOND- OCH"
+  city: "STOCKHOLM"
+  branch: null
+  swift: PNFOSES1
+    
+- name: "PROVIDENCE CUSTODIANS KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: PCUSSES1
+    
+- name: "QUESADA KAPITALFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: QUKASES1
+    
+- name: "REDEYE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: REEESES1
+    
+- name: "REMIUM AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: REMISES1
+    
+- name: "RESURS BANK AKTIEBOLAG"
+  city: "HELSINGBORG"
+  branch: null
+  swift: RESUSE21
+    
+- name: "RETURNPLUS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: RETUSES1
+    
+- name: "ROYAL SAVINGS AND LOAN EKONOMISK FORENING"
+  city: "STOCKHOLM"
+  branch: null
+  swift: RSLESES1
+    
+- name: "RP MARTIN STOCKHOLM AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: UBFASES1
+    
+- name: "RPM RISK AND PORTFOLIO MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: RRPMSES1
+    
+- name: "RUDIUS CAPITAL AND TRUST KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: RUCTSES1
+    
+- name: "SALUSANSVAR BANK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SALUSES1
+    
+- name: "SAMSUNG ELECTRONICS NORDIC AB"
+  city: "STOCKHOLM"
+  branch: SENA
+  swift: SECTSES14F0
+    
+- name: "SAMSUNG ELECTRONICS NORDIC AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SECTSES1
+    
+- name: "SAMSUNG ELECTRONICS NORDIC AB"
+  city: "UPPLANDS VAESBY"
+  branch: SSSA
+  swift: SECTSES1453
+    
+- name: "SANDVIK IT SERVICES AB"
+  city: "SANDVIKEN"
+  branch: null
+  swift: SNDVSE22
+    
+- name: "SANDVIK TREASURY AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SVTRSESS
+    
+- name: "SANTANDER CONSUMER BANK AS NORGE"
+  city: "SOLNA"
+  branch: null
+  swift: SAONSE21
+    
+- name: "SANTANDER CONSUMER BANK AS NORGE, SVERIGE FILIAL"
+  city: "SOLNA"
+  branch: null
+  swift: SCNSSE21
+    
+- name: "SBAB"
+  city: "SOLNA"
+  branch: null
+  swift: SBAVSESS
+    
+- name: "SCANDEM AB"
+  city: "OREBRO"
+  branch: null
+  swift: SCADSE21
+    
+- name: "SCANDINAVIAN BROKERS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SCRKSES1
+    
+- name: "SCANDINAVIAN HERITAGE TRUST KB"
+  city: "GRANINGE"
+  branch: null
+  swift: SCEUSE21
+    
+- name: "SCANIA CV AB"
+  city: "SODERTALJE"
+  branch: null
+  swift: SCNNSE21
+    
+- name: "SCHOTT AND TOUR CAPITAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SCTPSES1
+    
+- name: "SCHRODERINVESTMENT MANAGEMENT"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SCNASES1
+    
+- name: "SEB TRYGG LIV PENSIONSTJANST AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: STLPSEG1
+    
+- name: "SEB WEALTH MANAGEMENT"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SEWMSES1
+    
+- name: "SEDERMERA FONDKOMMISSION AB"
+  city: "ANGELHOLM"
+  branch: null
+  swift: SEFDSE21
+    
+- name: "SEMPRA METALS LIMITED, U.K., FILIAL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SEMFSES1
+    
+- name: "SENSOR FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SEONSES1
+    
+- name: "SENTAT ASSET MANAGEMENT AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SNAASES1
+    
+- name: "SEQR PAYMENTS AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SEPYSES1
+    
+- name: "SERVISEN FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SERVSES1
+    
+- name: "SFK SVENSK FORVALTNINGSKONSULT AB"
+  city: "JONKOPING"
+  branch: null
+  swift: SFSFSE21
+    
+- name: "SGP-SVENSKA GARANTIPRODUKTER AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: SGSGSEG1
+    
+- name: "SHEPHERD ENERGY AB"
+  city: "NACKA"
+  branch: null
+  swift: SHEGSE21
+    
+- name: "SHFM OVERSEAS SWEDEN FILIAL"
+  city: "MALMO"
+  branch: null
+  swift: SOWFSEM1
+    
+- name: "SIEMENS FINANCIAL SERVICES AB, SIVULIIKE SUOMESSA"
+  city: "UMEA"
+  branch: null
+  swift: SFSUSE21
+    
+- name: "SIP NORDIC AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SINRSES1
+    
+- name: "SJUNDE AP-FONDEN"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SJAPSES1
+    
+- name: "SKANDIA CAPITAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SKCPSES1
+    
+- name: "SKANDIA INSURANCE COMPANY LTD"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SKICSES1
+    
+- name: "SKANDIA INVESTMENT MANAGEMENT"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SKIMSE31
+    
+- name: "SKANDIA INVESTMENT MANAGEMENT"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SKIMSES1
+    
+- name: "SKANDIABANKEN"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SKIASESS
+    
+- name: "SKANDIABANKEN AKTIEBOLAG (PUBL)."
+  city: "STOCKHOLM"
+  branch: null
+  swift: SKIASET1
+    
+- name: "SKANDIABANKEN FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SKBFSES1
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN"
+  city: "GOTEBORG"
+  branch: null
+  swift: ESSESESG
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN"
+  city: "MALMO"
+  branch: null
+  swift: ESSESESM
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB"
+  city: "STOCKHOLM"
+  branch: CALYPSO BRANCH CODE
+  swift: ESSESESSCAL
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB"
+  city: "STOCKHOLM"
+  branch: COLLATERAL
+  swift: ESSESESSPCS
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB"
+  city: "STOCKHOLM"
+  branch: ENSKILDA SECURITIES
+  swift: ESSESESSENS
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB"
+  city: "STOCKHOLM"
+  branch: INVESTMENT OPERATIONS
+  swift: ESSESESSIOS
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ESSESESS
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ESSESESSCLS
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB GLOBAL CUSTODY"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ESSESEGC
+    
+- name: "SKANSKA FINANCIAL SERVICES AB"
+  city: "SOLNA"
+  branch: null
+  swift: SKFSSES1
+    
+- name: "SKELLEFTEA KRAFT ENERGIHANDEL AB"
+  city: "SKELLEFTEA"
+  branch: null
+  swift: SKKESE21
+    
+- name: "SKF INTERNATIONAL AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: SKFISEG1
+    
+- name: "SKF INTERNATIONAL AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: SKFISEGA
+    
+- name: "SODERBERG AND PARTNERS PLACERINGSRADGIVNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SOPDSES1
+    
+- name: "SOLIDAR FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SFONSES1
+    
+- name: "SOLIDAR FONDSERVICE I SVERIGE AB"
+  city: "UMEA"
+  branch: null
+  swift: SOFVSE21
+    
+- name: "SPARBANKEN ORESUND AB"
+  city: "MALMO"
+  branch: null
+  swift: FINNSES1
+    
+- name: "SPARBANKEN ORESUND AB(PUBL)"
+  city: "MALMO"
+  branch: null
+  swift: GRIPSES1
+    
+- name: "SPARBANKEN SYD"
+  city: "YSTAD"
+  branch: null
+  swift: SPSDSE21
+    
+- name: "SPARBANKEN SYD"
+  city: "YSTAD"
+  branch: null
+  swift: SPSDSE23
+    
+- name: "SPILTAN FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SPFDSES1
+    
+- name: "SPONSOR STIFTELSEFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SPSESES1
+    
+- name: "SPOTIFY AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SPOTSESS
+    
+- name: "SPP SPAR AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: PPSPSES1
+    
+- name: "SSAB AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ASABSESS
+    
+- name: "STADSHYPOTEK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: STAYSES1
+    
+- name: "STADSHYPOTEK BANK"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SHYBSES1
+    
+- name: "STATKRAFT FINANCIAL ENERGY AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: STFGSES1
+    
+- name: "STATOIL ENERGI FORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: STEFSES1
+    
+- name: "STELLA ASSET MANAGEMENT AB"
+  city: "MALMO"
+  branch: null
+  swift: STTGSEM1
+    
+- name: "STOCKHOLM CORPORATE FINANCE AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: STTFSES1
+    
+- name: "STRAND KAPITALFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: STKISES1
+    
+- name: "STRATEGIQ FONDKOMMISSIN AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: STFMSEG1
+    
+- name: "STRUKTURINVEST FONDKOMMISSION (FK) AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: STFDSEG1
+    
+- name: "SUPERFUND ASSET MANAGEMENT GMBH"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SAMHSES1
+    
+- name: "SVEA BANK AB"
+  city: "SOLNA"
+  branch: null
+  swift: SVEASES1
+    
+- name: "SVENSK KRAFTMAKLING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SVKRSES1
+    
+- name: "SVENSKA FINANSMAKLARNA AB"
+  city: "UPPSALA"
+  branch: null
+  swift: SVFNSE21
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "GOTEBORG"
+  branch: TRADE AND EXPORT FINANCE
+  swift: HANDSESSGBG
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "MALMO"
+  branch: TRADE AND EXPORT FINANCE
+  swift: HANDSESSMLM
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "STOCKHOLM"
+  branch: AKTIESPAR
+  swift: HANDSESSSHY
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "STOCKHOLM"
+  branch: DMA TRADING
+  swift: HANDSESSSHD
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "STOCKHOLM"
+  branch: NORDIC CUSTODY SERVICES
+  swift: HANDSESSCUS
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HANDSESS
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HANDSESSCLS
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HANDSESSFIC
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HANDSESSSH1
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "STOCKHOLM"
+  branch: null
+  swift: HANDSESSSHP
+    
+- name: "SVERIGES RIKSBANK"
+  city: "STOCKHOLM"
+  branch: null
+  swift: RIKSSESS
+    
+- name: "SWEDBANK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: SECURITIES SERVICES
+  swift: SWEDSESSCUS
+    
+- name: "SWEDBANK AB (PUBL)"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SWEDSESSCLS
+    
+- name: "SWEDBANK AB (PUBL)"
+  city: "SUNDBYBERG"
+  branch: null
+  swift: SWEDSESS
+    
+- name: "SWEDBANK AB (PUBL)"
+  city: "SUNDBYBERG"
+  branch: null
+  swift: SWEDSESSROB
+    
+- name: "SWEDBANK HYPOTEK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SPIBSES1
+    
+- name: "SWEDBANK ROBUR AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ROBRSES1
+    
+- name: "SWEDBANK ROBUR KAPITALFORVALTNING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SWRKSES1
+    
+- name: "SWEDISH ASSET AND TRUST MANAGERS KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SSTASES1
+    
+- name: "SWEDISH BANKERS' ASSOCIATION"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SWAISES1
+    
+- name: "SWEDISH CAPITAL TRUST AND CREDIT UNION EF"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SCTRSES1
+    
+- name: "SWEDISH CAPITAL TRUST KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SWCTSES1
+    
+- name: "SWEDISH EMISSIONS TRADING REGISTRY"
+  city: "ESKILSTUNA"
+  branch: null
+  swift: SETGSE21
+    
+- name: "SWEDISH EXPORT CREDIT CORP."
+  city: "STOCKHOLM"
+  branch: null
+  swift: SEKXSESS
+    
+- name: "SWEDISH NATIONAL DEBT OFFICE"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SNDOSESS
+    
+- name: "SYSTEMATIC CAPITAL NORDIC AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: SYCNSES1
+    
+- name: "T.ROWE PRICE GLOBAL INVESTMENT"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TPGISES1
+    
+- name: "TAMM AND PARTNERS FONDKOMMISSION AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TAPFSES1
+    
+- name: "TD TECH DATA AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TEDTSES1
+    
+- name: "TELEFONAKTIEBOLAGET LM ERICSSON"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TEERSES1
+    
+- name: "TELGE KRAFTHANDEL AB"
+  city: "SODERTALJE"
+  branch: null
+  swift: TEKASE21
+    
+- name: "TELIA COMPANY AB (PUBL)"
+  city: "SOLNA"
+  branch: null
+  swift: TLSNSESS
+    
+- name: "TELIASONERA FINANCE AB, LITHUANIAN BRANCH"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TFLBSES1
+    
+- name: "THENBERG AND KINDE FONDKOMMISSION AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: THKFSEG1
+    
+- name: "TJANSTEMANNARORELSENS FORV FOND"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TJFFSES1
+    
+- name: "TRADE AND TRUST CLEARING SWEDEN KOMMANDITBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TTCWSES1
+    
+- name: "TRADER FONDKOMMISSION TFK AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TRFTSES1
+    
+- name: "TREVISE PRIVATE BANKING AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TPBSSES1
+    
+- name: "TRIENTAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TRNLSES1
+    
+- name: "TRIOPTIMA AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TRIISES1
+    
+- name: "TRUSTLY GROUP AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TRLYSESS
+    
+- name: "TUNDRA FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: TUFNSES1
+    
+- name: "UBS AG SWITZERLAND STOCKHOLM BANKFILIAL"
+  city: "STOCKHOLM"
+  branch: BANKFILIAL
+  swift: UBSWSES1
+    
+- name: "UNITFOND AB"
+  city: "HELSINGBORG"
+  branch: null
+  swift: UNTTSE21
+    
+- name: "VALBAY INTL"
+  city: "STOCKHOLM"
+  branch: null
+  swift: VAILSES1
+    
+- name: "VALEADO AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: VAEASES1
+    
+- name: "VASTRA GOTALANDS LAN"
+  city: "KUNGSHAMN"
+  branch: null
+  swift: VAGLSE21
+    
+- name: "VATTENFALL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: VATFSES1
+    
+- name: "VATTENFALL POWER MANAGEMENT AKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: VPMASES1
+    
+- name: "VIKNUM AB"
+  city: "GOTEBORG"
+  branch: null
+  swift: VIKNSEG1
+    
+- name: "VILLEROY AND BOCH GUSTAVSBERG AB"
+  city: "GUSTAVSBERG"
+  branch: null
+  swift: VIBGSE21
+    
+- name: "VOLVO CAR CORPORATION"
+  city: "GOTEBORG"
+  branch: null
+  swift: VCARSEGG
+    
+- name: "VOLVO TREASURY AB"
+  city: "GOTHENBURG"
+  branch: null
+  swift: VOTRSEG2
+    
+- name: "VOLVO TREASURY AKTIEBOLAG"
+  city: "GOTEBORG"
+  branch: null
+  swift: VOTRSEG1
+    
+- name: "WASSUM VARDEPAPPERSAKTIEBOLAG"
+  city: "STOCKHOLM"
+  branch: null
+  swift: WAVASES1
+    
+- name: "WEAVERING CAPITAL AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: WECPSES1
+    
+- name: "WICTOR FONDER AB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: WIFOSES1
+    
+- name: "WSB SECURITIES CAPITAL TRUST KB"
+  city: "STOCKHOLM"
+  branch: null
+  swift: WSCTSES1
+    
+- name: "ZENIT ASSET MANAGEMENT AB FOR THE FUND ZENIT"
+  city: "STOCKHOLM"
+  branch: null
+  swift: ZAMFSES1
+    

@@ -1,0 +1,9520 @@
+- name: "1875 FINANCE"
+  city: "GENEVA"
+  branch: null
+  swift: FNECCHG1
+    
+- name: "2XIDEAS AG"
+  city: "KUSNACHT"
+  branch: null
+  swift: XIDECHZ1
+    
+- name: "AARGAUISCHE KANTONALBANK"
+  city: "AARAU"
+  branch: null
+  swift: KBAGCH22
+    
+- name: "ABANCA CORPORACION BANCARIA S.A., BETANZOS, SUCCURSALE DE GENEVE"
+  city: "GENEVA"
+  branch: null
+  swift: CAGLCHGG
+    
+- name: "ABB CAPITAL B.V., ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: ABBCCHZA
+    
+- name: "ABB CAPITAL B.V., ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: ABBCCHZZ
+    
+- name: "ABSOLUTE CAPITAL GROUP AG"
+  city: "ZUG"
+  branch: null
+  swift: ABPGCH21
+    
+- name: "ACREVIS BANK AG"
+  city: "ST. GALLEN"
+  branch: null
+  swift: ACRGCH22
+    
+- name: "ACTELION LTD"
+  city: "ALLSCHWIL"
+  branch: null
+  swift: ACLNCH22
+    
+- name: "ACUMEN ASSETS MANAGEMENT S.A."
+  city: "CHIASSO"
+  branch: null
+  swift: ACANCH21
+    
+- name: "ADDAX ENERGY SA"
+  city: "GENEVA"
+  branch: null
+  swift: ADDACHG1
+    
+- name: "ADECCO GROUP AG"
+  city: "GLATTBRUGG"
+  branch: null
+  swift: ADECCH2G
+    
+- name: "AEK BANK 1826 GENOSSENSCHAFT"
+  city: "THUN"
+  branch: null
+  swift: AEKTCH22
+    
+- name: "AGILITY MANAGEMENT AG"
+  city: "BASLE"
+  branch: null
+  swift: AGLYCHBB
+    
+- name: "ALCIFINANCE SA"
+  city: "GENEVA"
+  branch: null
+  swift: ALCECHG1
+    
+- name: "ALCOM SECURITIES AG"
+  city: "ZURICH"
+  branch: null
+  swift: ALCSCH21
+    
+- name: "ALCON PHARMACEUTICALS LIMITED"
+  city: "FRIBOURG"
+  branch: null
+  swift: APHACH22
+    
+- name: "ALL OPTIONS HELVETIA AG"
+  city: "ZUG"
+  branch: null
+  swift: AOHECH21
+    
+- name: "ALP TRADING SA"
+  city: "LAUSANNE"
+  branch: null
+  swift: ALTDCH21
+    
+- name: "ALPEN ASSET MANAGEMENT TRUST SARL"
+  city: "GENEVA"
+  branch: null
+  swift: AAMUCHG1
+    
+- name: "ALPHA RHEINTAL BANK AG"
+  city: "HEERBRUGG"
+  branch: null
+  swift: ARBHCH22
+    
+- name: "ALPHABAN"
+  city: "ZURICH"
+  branch: null
+  swift: ALHACHZ1
+    
+- name: "ALTERNATIVE BANK SCHWEIZ AG"
+  city: "OLTEN"
+  branch: null
+  swift: ABSOCH22
+    
+- name: "ALTERNATIVE GESTION SA"
+  city: "GENEVA"
+  branch: null
+  swift: ALEOCHG1
+    
+- name: "AMARIS GROUP S.A."
+  city: "VERNIER"
+  branch: null
+  swift: AMISCH22
+    
+- name: "AMICORP SHARED SERVICE CENTRE GMBH (SWITZERLAND)"
+  city: "ZUG"
+  branch: null
+  swift: AMIBCH21
+    
+- name: "ANLAGESTIFTUNG DER MIGROS-PENSIONSKASSE"
+  city: "SCHLIEREN"
+  branch: null
+  swift: ANMICH21
+    
+- name: "AP ANLAGE UND PRIVATBANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: ANPRCH22
+    
+- name: "APPENZELLER KANTONALBANK"
+  city: "APPENZELL"
+  branch: null
+  swift: AIKACH22
+    
+- name: "AQUILA UND CO. AG"
+  city: "ZURICH"
+  branch: null
+  swift: AQULCHZZ
+    
+- name: "ARAB BANK (SWITZERLAND) LTD"
+  city: "ZURICH"
+  branch: null
+  swift: ARBSCHZZ
+    
+- name: "ARBUTHNOT BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: ARBUCHZ1
+    
+- name: "ARCHELON SUISSE GMBH"
+  city: "ZUG"
+  branch: null
+  swift: ARSGCH21
+    
+- name: "ARCUS FINANCE"
+  city: "GENEVA"
+  branch: null
+  swift: ARFECHG1
+    
+- name: "ARGENTIERE CAPITAL AG"
+  city: "ZURICH"
+  branch: null
+  swift: ARPICHZ1
+    
+- name: "ARVEST PRIVATBANK AG"
+  city: "PFAEFFIKON"
+  branch: null
+  swift: PVERCH21
+    
+- name: "ARZI BANK A G"
+  city: "ZURICH"
+  branch: null
+  swift: ARZBCHZ1
+    
+- name: "ASCENSIA DIABETES CARE HOLDING AG"
+  city: "BASLE"
+  branch: null
+  swift: ADCOCHBB
+    
+- name: "ASPIAG FINANCE AND SERVICES AG"
+  city: "WIDNAU"
+  branch: null
+  swift: ASFSCH2W
+    
+- name: "ATLANTIC FORFAITIERUNGS AG"
+  city: "ZURICH"
+  branch: null
+  swift: AFCLCHZZ
+    
+- name: "AUTHENTIC CAPITAL SA"
+  city: "GENEVA"
+  branch: null
+  swift: AUCPCHG1
+    
+- name: "AUTONEUM HOLDING AG"
+  city: "WINTERTHUR"
+  branch: null
+  swift: AUTNCH22
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: AXA RECHTSSCHUTZVERSICHERUNG
+  swift: AXIPCHZZARS
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: CRI
+  swift: AXIPCHZZCRI
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: RENDITA2
+  swift: AXIPCHZZRE2
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: RENDITA3
+  swift: AXIPCHZZRE3
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: WLE - AXA INDIVIDUAL LIFE ALLOCATED ASSETS
+  swift: AXIPCHZZWLE
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: WLE - AXA INDIVIDUAL LIFE FREE ASSETS
+  swift: AXIPCHZZWET
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: WLK - AXA GROUP LIFE ALLOCATED ASSETS
+  swift: AXIPCHZZWLK
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: WLK - AXA GROUP LIFE FREE ASSETS
+  swift: AXIPCHZZWKT
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: WV - AXA INSURANCE ALLOCATED ASSETS
+  swift: AXIPCHZZWIN
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: WV - AXA INSURANCE FREE ASSETS
+  swift: AXIPCHZZWVT
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "WINTERTHUR"
+  branch: null
+  swift: AXIPCHZZ
+    
+- name: "AXA VERSICHERUNGEN AG"
+  city: "ZURICH"
+  branch: null
+  swift: AXIPCHZZARG
+    
+- name: "AXION SWISS BANK SA"
+  city: "LUGANO"
+  branch: null
+  swift: UNCECH22
+    
+- name: "AXPO HOLDING AG"
+  city: "BADEN"
+  branch: null
+  swift: AXPOCH22
+    
+- name: "AXPO HOLDING AG"
+  city: "BADEN"
+  branch: null
+  swift: AXPOCH22HOL
+    
+- name: "AXPO HOLDING AG"
+  city: "DIETIKON"
+  branch: null
+  swift: AXPOCH22TRA
+    
+- name: "BALBOA FINANCE S.A."
+  city: "GENEVA"
+  branch: null
+  swift: BALFCHG1
+    
+- name: "BALOISE ASSET MANAGEMENT SCHWEIZ AG"
+  city: "BASLE"
+  branch: EINZELLEBEN
+  swift: BAAMCHBBBEL
+    
+- name: "BALOISE ASSET MANAGEMENT SCHWEIZ AG"
+  city: "BASLE"
+  branch: KOLLEKTIVLEBEN
+  swift: BAAMCHBBBKL
+    
+- name: "BALOISE ASSET MANAGEMENT SCHWEIZ AG"
+  city: "BASLE"
+  branch: null
+  swift: BAAMCHBB
+    
+- name: "BALOISE ASSET MANAGEMENT SCHWEIZ AG"
+  city: "BASLE"
+  branch: null
+  swift: BAAMCHBBBBE
+    
+- name: "BALOISE ASSET MANAGEMENT SCHWEIZ AG"
+  city: "BASLE"
+  branch: null
+  swift: BAAMCHBBBDE
+    
+- name: "BALOISE ASSET MANAGEMENT SCHWEIZ AG"
+  city: "BASLE"
+  branch: null
+  swift: BAAMCHBBBVF
+    
+- name: "BALOISE ASSET MANAGEMENT SCHWEIZ AG"
+  city: "BASLE"
+  branch: null
+  swift: BAAMCHBBBVG
+    
+- name: "BALOISE ASSET MANAGEMENT SCHWEIZ AG"
+  city: "BASLE"
+  branch: null
+  swift: BAAMCHBBLUX
+    
+- name: "BALOISE ASSET MANAGEMENT SCHWEIZ AG"
+  city: "BASLE"
+  branch: null
+  swift: BAAMCHBBVST
+    
+- name: "BALOISE BANK SOBA"
+  city: "GRENCHEN"
+  branch: null
+  swift: KBSOCH2225G
+    
+- name: "BALOISE BANK SOBA"
+  city: "OLTEN"
+  branch: null
+  swift: KBSOCH2246A
+    
+- name: "BALOISE BANK SOBA"
+  city: "SOLOTHURN"
+  branch: HEAD OFFICE
+  swift: KBSOCH22
+    
+- name: "BALOISE BANK SOBA"
+  city: "SOLOTHURN"
+  branch: HEAD OFFICE
+  swift: KBSOCH2245A
+    
+- name: "BANCA ALETTI E C. (SUISSE) SA (BANCO POPOLARE GROUP)"
+  city: "LUGANO"
+  branch: null
+  swift: VRBPCH22
+    
+- name: "BANCA ARNER S.A."
+  city: "LUGANO"
+  branch: null
+  swift: ARNECH22
+    
+- name: "BANCA COOP SA"
+  city: "LUGANO"
+  branch: null
+  swift: COOPCHBB69A
+    
+- name: "BANCA CREDINVEST SA"
+  city: "LUGANO"
+  branch: null
+  swift: BCRECH22
+    
+- name: "BANCA DEL CERESIO SA"
+  city: "LUGANO"
+  branch: null
+  swift: BACECH22
+    
+- name: "BANCA DEL SEMPIONE SA"
+  city: "BELLINZONA"
+  branch: null
+  swift: BASECH2265A
+    
+- name: "BANCA DEL SEMPIONE SA"
+  city: "CHIASSO"
+  branch: null
+  swift: BASECH2268B
+    
+- name: "BANCA DEL SEMPIONE SA"
+  city: "LOCARNO"
+  branch: null
+  swift: BASECH2266A
+    
+- name: "BANCA DEL SEMPIONE SA"
+  city: "LUGANO"
+  branch: null
+  swift: BASECH22
+    
+- name: "BANCA DEL SEMPIONE SA"
+  city: "LUGANO"
+  branch: null
+  swift: BASECH23
+    
+- name: "BANCA DELLO STATO DEL CANTONE TICINO"
+  city: "BELLINZONA"
+  branch: null
+  swift: BSCTCH22
+    
+- name: "BANCA DELLO STATO DEL CANTONE TICINO"
+  city: "CHIASSO"
+  branch: null
+  swift: BSCTCH22CHI
+    
+- name: "BANCA DELLO STATO DEL CANTONE TICINO"
+  city: "LOCARNO"
+  branch: null
+  swift: BSCTCH22LOC
+    
+- name: "BANCA DELLO STATO DEL CANTONE TICINO"
+  city: "LUGANO"
+  branch: null
+  swift: BSCTCH22LUG
+    
+- name: "BANCA POPOLARE DI SONDRIO (SUISSE)"
+  city: "LUGANO"
+  branch: null
+  swift: POSOCH22
+    
+- name: "BANCA ZARATTINI AND CO SA"
+  city: "LUGANO"
+  branch: null
+  swift: EUBACH22
+    
+- name: "BANCA ZARATTINI AND CO. SA"
+  city: "LUGANO"
+  branch: null
+  swift: BAZZCH21
+    
+- name: "BANCO ITAU (SUISSE) SA"
+  city: "ZURICH"
+  branch: null
+  swift: ITAUCHZZ
+    
+- name: "BANCO SANTANDER (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: BSCHCHGG
+    
+- name: "BANK AM BELLEVUE"
+  city: "KUESNACHT (ZH)"
+  branch: null
+  swift: BELLCHZ1
+    
+- name: "BANK BSU GENOSSENSCHAFT"
+  city: "USTER"
+  branch: null
+  swift: RBABCH22888
+    
+- name: "BANK CIC (SWITZERLAND) LTD."
+  city: "BASLE"
+  branch: null
+  swift: CIALCHBB
+    
+- name: "BANK CLER AG"
+  city: "BASLE"
+  branch: null
+  swift: BCLRCHBB
+    
+- name: "BANK CLER AG, BASEL"
+  city: "BASLE"
+  branch: null
+  swift: COOPCHBB
+    
+- name: "BANK CLER AG, BASEL"
+  city: "BERNE"
+  branch: null
+  swift: COOPCHBB30A
+    
+- name: "BANK CLER AG, BASEL"
+  city: "BIEL (BIENNE)"
+  branch: null
+  swift: COOPCHBB25A
+    
+- name: "BANK CLER AG, BASEL"
+  city: "BRUGG"
+  branch: null
+  swift: COOPCHBB52A
+    
+- name: "BANK CLER AG, BASEL"
+  city: "LUCERNE"
+  branch: null
+  swift: COOPCHBB60A
+    
+- name: "BANK CLER AG, BASEL"
+  city: "OLTEN"
+  branch: null
+  swift: COOPCHBB46A
+    
+- name: "BANK CLER AG, BASEL"
+  city: "SCHAFFHAUSEN"
+  branch: null
+  swift: COOPCHBB82A
+    
+- name: "BANK CLER AG, BASEL"
+  city: "ST. GALLEN"
+  branch: null
+  swift: COOPCHBB90A
+    
+- name: "BANK CLER AG, BASEL"
+  city: "ZURICH"
+  branch: null
+  swift: COOPCHBB80A
+    
+- name: "BANK EEK"
+  city: "BERNE"
+  branch: null
+  swift: EEKBCH22
+    
+- name: "BANK EKI GENOSSENSCHAFT"
+  city: "INTERLAKEN"
+  branch: null
+  swift: EKIICH22
+    
+- name: "BANK FOR INTERNATIONAL SETTLEMENTS"
+  city: "BASLE"
+  branch: null
+  swift: BISBCHBB
+    
+- name: "BANK FUER TIROL UND VORARLBERG AG, INNSBRUCK, ZWEIGNIEDERLASSUNG STAAD"
+  city: "STAAD"
+  branch: null
+  swift: BTVACH22
+    
+- name: "BANK GANTRISCH GENOSSENSCHAFT"
+  city: "SCHWARZENBURG"
+  branch: null
+  swift: BGAGCH22
+    
+- name: "BANK HAPOALIM (SWITZERLAND) LTD"
+  city: "GENEVA"
+  branch: BRANCH GENEVA
+  swift: POALCHZZGVA
+    
+- name: "BANK HAPOALIM (SWITZERLAND) LTD"
+  city: "ZURICH"
+  branch: null
+  swift: POALCHZZ
+    
+- name: "BANK HUGO KAHN AND CO AG"
+  city: "ZURICH"
+  branch: null
+  swift: HKABCHZ1
+    
+- name: "BANK IN NIEDERUZWIL"
+  city: "NIEDERUZWIL"
+  branch: null
+  swift: BNIECH21
+    
+- name: "BANK IN ZUZWIL AG"
+  city: "ZUZWILL"
+  branch: null
+  swift: RBABCH22964
+    
+- name: "BANK J. SAFRA SARASIN LTD"
+  city: "BASLE"
+  branch: null
+  swift: SARACHBB
+    
+- name: "BANK J. SAFRA SARASIN LTD"
+  city: "GENEVA"
+  branch: null
+  swift: BJSBCHGG
+    
+- name: "BANK J. SAFRA SARASIN LTD"
+  city: "ZURICH"
+  branch: null
+  swift: SARACHBBZRH
+    
+- name: "BANK JULIUS BAER AND CO.LTD., ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: BAERCHZZ
+    
+- name: "BANK JULIUS BAER AND CO.LTD.,ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: BAERCHZA
+    
+- name: "BANK LEERAU GENOSSENSCHAFT"
+  city: "KIRCHLEERAU"
+  branch: null
+  swift: RBABCH22588
+    
+- name: "BANK LEUMI LE ISRAEL"
+  city: "ZURICH"
+  branch: null
+  swift: LEIRCHZ1
+    
+- name: "BANK LINTH LLB AG"
+  city: "UZNACH"
+  branch: null
+  swift: LINSCH23
+    
+- name: "BANK MORGAN STANLEY AG"
+  city: "ZURICH"
+  branch: GLOBAL PAYROLL
+  swift: MSSACHZXGPR
+    
+- name: "BANK MORGAN STANLEY AG"
+  city: "ZURICH"
+  branch: null
+  swift: MSSACHZX
+    
+- name: "BANK MORGAN STANLEY AG"
+  city: "ZURICH"
+  branch: null
+  swift: MSSACHZXFXO
+    
+- name: "BANK MORGAN STANLEY AG"
+  city: "ZURICH"
+  branch: null
+  swift: MSSACHZXLMT
+    
+- name: "BANK MORGAN STANLEY AG"
+  city: "ZURICH"
+  branch: null
+  swift: MSSACHZXMIS
+    
+- name: "BANK MORGAN STANLEY AG"
+  city: "ZURICH"
+  branch: null
+  swift: MSSACHZXSWI
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: BOFACH2X
+    
+- name: "BANK OF TOKYO-MITSUBISHI (SWITZERLAND)"
+  city: "ZURICH"
+  branch: null
+  swift: BTSWCHZ1
+    
+- name: "BANK RINDERKNECHT AG"
+  city: "ZURICH"
+  branch: null
+  swift: BRNKCHZ1
+    
+- name: "BANK SLM AG"
+  city: "MUENSINGEN"
+  branch: null
+  swift: RBABCH22363
+    
+- name: "BANK SPARHAFEN ZUERICH AG"
+  city: "ZURICH"
+  branch: null
+  swift: BSZHCHZZ
+    
+- name: "BANK THALWIL GENOSSENSCHAFT"
+  city: "THALWIL"
+  branch: null
+  swift: BKTHCH22
+    
+- name: "BANK VON ROLL AG"
+  city: "ZURICH"
+  branch: null
+  swift: VRLLCHZZ
+    
+- name: "BANK VONTOBEL AG"
+  city: "ZURICH"
+  branch: ASSET MANAGEMENT DEPARTMENT
+  swift: VONTCHZZVAM
+    
+- name: "BANK VONTOBEL AG"
+  city: "ZURICH"
+  branch: null
+  swift: VONTCHZU
+    
+- name: "BANK VONTOBEL AG"
+  city: "ZURICH"
+  branch: null
+  swift: VONTCHZZ
+    
+- name: "BANK ZIMMERBERG AG FORMERLY SPARKASSE HORGEN AG"
+  city: "HORGEN"
+  branch: null
+  swift: RBABCH22824
+    
+- name: "BANK ZWEIPLUS AG"
+  city: "ZURICH"
+  branch: null
+  swift: BZPLCHZZ
+    
+- name: "BANKHAUS JUNGHOLZ"
+  city: "ST. GALLEN"
+  branch: null
+  swift: BJAGCH2G
+    
+- name: "BANKMED (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: MEDSCHGG
+    
+- name: "BANQUE ALGERIENNE DU COMMERCE EXTERIEUR S.A."
+  city: "ZURICH"
+  branch: null
+  swift: AEXTCHZZ
+    
+- name: "BANQUE AUDI (SUISSE) SA"
+  city: "GENEVA"
+  branch: null
+  swift: AUDSCHGG
+    
+- name: "BANQUE BONHOTE ET CIE SA"
+  city: "NEUCHATEL"
+  branch: null
+  swift: BONHCH22
+    
+- name: "BANQUE CANTONALE DE FRIBOURG"
+  city: "FRIBOURG"
+  branch: null
+  swift: BEFRCH22
+    
+- name: "BANQUE CANTONALE DE GENEVE"
+  city: "GENEVA"
+  branch: null
+  swift: BCGECHGG
+    
+- name: "BANQUE CANTONALE DU JURA SA"
+  city: "PORRENTRUY"
+  branch: null
+  swift: BCJUCH22
+    
+- name: "BANQUE CANTONALE DU VALAIS"
+  city: "SION/SITTEN"
+  branch: null
+  swift: BCVSCH2L
+    
+- name: "BANQUE CANTONALE NEUCHATELOISE"
+  city: "NEUCHATEL"
+  branch: null
+  swift: BCNNCH22
+    
+- name: "BANQUE CANTONALE VAUDOISE"
+  city: "LAUSANNE"
+  branch: null
+  swift: BCVLCH2L
+    
+- name: "BANQUE COOP, SA"
+  city: "GENEVA"
+  branch: null
+  swift: COOPCHBB12A
+    
+- name: "BANQUE COOP, SA"
+  city: "LAUSANNE"
+  branch: null
+  swift: COOPCHBB10A
+    
+- name: "BANQUE COOP, SA"
+  city: "NEUCHATEL"
+  branch: null
+  swift: COOPCHBB20A
+    
+- name: "BANQUE CRAMER ET CIE SA"
+  city: "GENEVA"
+  branch: null
+  swift: CRAMCHGG
+    
+- name: "BANQUE DE COMMERCE ET DE PLACEMENTS S.A."
+  city: "GENEVA"
+  branch: null
+  swift: BPCPCHGG
+    
+- name: "BANQUE DEGROOF PETERCAM (SUISSE) SA"
+  city: "GENEVA"
+  branch: null
+  swift: PEPSCHGG
+    
+- name: "BANQUE DEGROOF PETERCAM (SUISSE) SA"
+  city: "GENEVA"
+  branch: null
+  swift: PEPSCHGGNDP
+    
+- name: "BANQUE DU LEMAN SA"
+  city: "GENEVA"
+  branch: null
+  swift: BLEMCHGG
+    
+- name: "BANQUE ERIC STURDZA S.A."
+  city: "GENEVA"
+  branch: null
+  swift: BABRCHGG
+    
+- name: "BANQUE GENEVOISE DE GESTION SA"
+  city: "GENEVA"
+  branch: null
+  swift: BGGECHGG
+    
+- name: "BANQUE HAVILLAND (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: BPGECHGG
+    
+- name: "BANQUE HERITAGE"
+  city: "GENEVA"
+  branch: null
+  swift: HFTCCHGG
+    
+- name: "BANQUE HOTTINGER ET CIE SA"
+  city: "ZURICH"
+  branch: null
+  swift: HOTTCHZZ
+    
+- name: "BANQUE HUNZIKER S.A."
+  city: "GENEVA"
+  branch: null
+  swift: BHUNCHG1
+    
+- name: "BANQUE INTERCOMMERCIALE DE GESTION"
+  city: "LAUSANNE"
+  branch: null
+  swift: INTGCH21
+    
+- name: "BANQUE INTERNATIONALE A LUXEMBOURG (SUISSE) SA"
+  city: "ZURICH"
+  branch: null
+  swift: BILSCHZZ
+    
+- name: "BANQUE INTERNATIONALE DE COMMERCE - BRED"
+  city: "GENEVA"
+  branch: null
+  swift: BICFCHGG
+    
+- name: "BANQUE LOMBARD ODIER ET CIE SA"
+  city: "GENEVA"
+  branch: CUS DEPT
+  swift: LOCYCHGGCUS
+    
+- name: "BANQUE LOMBARD ODIER ET CIE SA"
+  city: "GENEVA"
+  branch: NDP DEPT
+  swift: LOCYCHGGNDP
+    
+- name: "BANQUE LOMBARD ODIER ET CIE SA"
+  city: "GENEVA"
+  branch: WND DEPT
+  swift: LOCYCHGGWND
+    
+- name: "BANQUE LOMBARD ODIER ET CIE SA"
+  city: "GENEVA"
+  branch: null
+  swift: LOCYCHGG
+    
+- name: "BANQUE MORVAL"
+  city: "GENEVA"
+  branch: null
+  swift: MORVCH22GEN
+    
+- name: "BANQUE MORVAL"
+  city: "LUGANO"
+  branch: null
+  swift: MORVCH22
+    
+- name: "BANQUE PARIS BERTRAND STURDZA SA"
+  city: "GENEVA"
+  branch: null
+  swift: BKPBCHGG
+    
+- name: "BANQUE PICCIOTTO SETTON AND ASSOCIES"
+  city: "GENEVA"
+  branch: null
+  swift: PSAACHG1
+    
+- name: "BANQUE PICTET ET CIE SA"
+  city: "GENEVA"
+  branch: INVESTMENT FUNDS
+  swift: PICTCHGGFND
+    
+- name: "BANQUE PICTET ET CIE SA"
+  city: "GENEVA"
+  branch: null
+  swift: PICTCHGG
+    
+- name: "BANQUE PRIVEE BCP (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: MILBCHGG
+    
+- name: "BANQUE PROFIL DE GESTION S.A."
+  city: "GENEVA"
+  branch: null
+  swift: BPDGCHGG
+    
+- name: "BANQUE SYZ ET CO SA"
+  city: "GENEVA"
+  branch: null
+  swift: SYCOCHGB
+    
+- name: "BANQUE SYZ SA"
+  city: "GENEVA"
+  branch: FUNDS DEALING
+  swift: SYCOCHGGFDS
+    
+- name: "BANQUE SYZ SA"
+  city: "GENEVA"
+  branch: null
+  swift: SYCOCHGG
+    
+- name: "BANQUE SYZ SA"
+  city: "GENEVA"
+  branch: null
+  swift: SYCOCHGG00Z
+    
+- name: "BANQUE SYZ SA"
+  city: "GENEVA"
+  branch: null
+  swift: SYCOCHGGSAM
+    
+- name: "BANQUE THALER S.A."
+  city: "GENEVA"
+  branch: null
+  swift: THALCHGG
+    
+- name: "BANQUE VONTOBEL GENEVE SA."
+  city: "GENEVA"
+  branch: null
+  swift: VTGECHG1
+    
+- name: "BANTLEON BANK AG"
+  city: "ZUG"
+  branch: null
+  swift: BANTCH22
+    
+- name: "BARCLAYS BANK (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: BARCCHGG
+    
+- name: "BARONS FINANCIAL SERVICES SA"
+  city: "GENEVA"
+  branch: null
+  swift: BAFVCHG1
+    
+- name: "BARRY CALLEBAUT SOURCING AG"
+  city: "ZURICH"
+  branch: null
+  swift: BAULCHZ1
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "ALLSCHWIL"
+  branch: null
+  swift: BLKBCH2241D
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "ARLESHEIM"
+  branch: null
+  swift: BLKBCH2241N
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "BINNINGEN"
+  branch: null
+  swift: BLKBCH2241A
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "BIRSFELDEN"
+  branch: null
+  swift: BLKBCH2241F
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "GELTERKINDEN"
+  branch: null
+  swift: BLKBCH2244F
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "LAUFEN"
+  branch: null
+  swift: BLKBCH2242C
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "LIESTAL"
+  branch: HEAD OFFICE
+  swift: BLKBCH22
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "MUTTENZ"
+  branch: null
+  swift: BLKBCH2241G
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "OBERDORF"
+  branch: null
+  swift: BLKBCH2244D
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "PRATTELN"
+  branch: null
+  swift: BLKBCH2241H
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "REINACH (BL)"
+  branch: null
+  swift: BLKBCH2241Q
+    
+- name: "BASELLANDSCHAFTLICHE KANTONALBANK"
+  city: "SISSACH"
+  branch: null
+  swift: BLKBCH2244E
+    
+- name: "BASLER KANTONALBANK"
+  city: "BASLE"
+  branch: null
+  swift: BKBBCHBB
+    
+- name: "BASLER KANTONALBANK"
+  city: "RIEHEN"
+  branch: null
+  swift: BKBBCHBB41E
+    
+- name: "BAUMANN ET CIE"
+  city: "BASLE"
+  branch: null
+  swift: BAUMCHBB
+    
+- name: "BAUMHAUS CAPITAL"
+  city: "ZURICH"
+  branch: null
+  swift: BUUUCHZZ
+    
+- name: "BBO BANK BRIENZ OBERHASLI AG"
+  city: "BRIENZ"
+  branch: null
+  swift: BBOBCH22
+    
+- name: "BBVA SUIZA SA"
+  city: "ZURICH"
+  branch: null
+  swift: BBVACHZZ
+    
+- name: "BEARBULL GESTION INSTITUTIONNELLE (BBGI)"
+  city: "GENEVA"
+  branch: null
+  swift: BGIGCHG1
+    
+- name: "BERENBERG BANK (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: BERGOS
+  swift: BEGOCHZ1BG1
+    
+- name: "BERENBERG BANK (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: BEGOCHZZ
+    
+- name: "BERGER VAN BERCHEM ET CIE"
+  city: "GENEVA"
+  branch: null
+  swift: BEBCCHG1
+    
+- name: "BERNE STOCK EXCHANGE"
+  city: "BERNE"
+  branch: null
+  swift: XBRNCH21
+    
+- name: "BERNER KANTONALBANK AG"
+  city: "BERNE"
+  branch: null
+  swift: KBBECH22
+    
+- name: "BERNERLAND BANK AG"
+  city: "SUMISWALD"
+  branch: null
+  swift: RBABCH22313
+    
+- name: "BEZIRKS-SPARKASSE DIELSDORF GENOSSENSCHAFT"
+  city: "DIELSDORF"
+  branch: null
+  swift: BZSDCH22
+    
+- name: "BHB BETEILIGUNGS- UND FINANZGESELLSCHAFT"
+  city: "BASLE"
+  branch: null
+  swift: HANBCHB1
+    
+- name: "BHF BANK (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: BHFBCHZZ
+    
+- name: "BIENE BANK IM RHEINTAL GENOSSENSCHAFT"
+  city: "ALTSTAETTEN (SG)"
+  branch: null
+  swift: RBABCH22980
+    
+- name: "BIM (SUISSE) S.A."
+  city: "LUGANO"
+  branch: null
+  swift: BIMLCH22
+    
+- name: "BIPIELLE BANK (SUISSE), (IN LIQUIDATION)"
+  city: "LUGANO"
+  branch: HEAD OFFICE
+  swift: BPLSCH22
+    
+- name: "BLOM BANK (SWITZERLAND) SA"
+  city: "GENEVA"
+  branch: null
+  swift: BLOMCHGG
+    
+- name: "BMT FINANZ SA"
+  city: "GLAND"
+  branch: null
+  swift: BMFACHG1
+    
+- name: "BNP PARIBAS (SUISSE) SA"
+  city: "GENEVA"
+  branch: null
+  swift: BPPBCHGG
+    
+- name: "BNP PARIBAS (SUISSE) SA"
+  city: "GENEVA"
+  branch: null
+  swift: BPPBCHGG12A
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21000
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21001
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21002
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21003
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21004
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21005
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21006
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21007
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21008
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21009
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21010
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21011
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21012
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21013
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21014
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21015
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE"
+  city: "ZURICH"
+  branch: ZURICH
+  swift: PARBCH21016
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE DE ZURICH"
+  city: "ZURICH"
+  branch: GLOBAL CUSTODY
+  swift: PARBCHZZISI
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE DE ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: PARBCH21
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE DE ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: PARBCHZZ
+    
+- name: "BOFIS AG"
+  city: "SIEBNEN"
+  branch: null
+  swift: BFFICH21
+    
+- name: "BONDPARTNERS S.A."
+  city: "LAUSANNE"
+  branch: null
+  swift: BONDCH21
+    
+- name: "BORDIER ET CIE"
+  city: "GENEVA"
+  branch: null
+  swift: BORDCHGG
+    
+- name: "BPI SUISSE SA"
+  city: "GENEVA"
+  branch: null
+  swift: BPUUCHG1
+    
+- name: "BRIDPORT ET CIE S.A."
+  city: "GENEVA"
+  branch: null
+  swift: BIRCCHGG
+    
+- name: "BROCKHOUSE COOPER"
+  city: "BASLE"
+  branch: null
+  swift: BRCPCHB1
+    
+- name: "BROWN BROTHERS HARRIMAN SERVICES AG"
+  city: "ZURICH"
+  branch: null
+  swift: BBHCCHZZ
+    
+- name: "BSI AG"
+  city: "ST. MORITZ"
+  branch: null
+  swift: BSILCH2275A
+    
+- name: "BSI AG"
+  city: "ZURICH"
+  branch: null
+  swift: BSILCH2280A
+    
+- name: "BUEHLER AG"
+  city: "UZWIL"
+  branch: null
+  swift: BUHRCH22
+    
+- name: "BUNGE S.A."
+  city: "GENEVA"
+  branch: BAM-SERVICE
+  swift: BLTDCHGGBAM
+    
+- name: "BUNGE S.A."
+  city: "GENEVA"
+  branch: BAS-SERVICE
+  swift: BLTDCHGGBAS
+    
+- name: "BUNGE S.A."
+  city: "GENEVA"
+  branch: BEU-SERVICE
+  swift: BLTDCHGGBEU
+    
+- name: "BUNGE S.A."
+  city: "GENEVA"
+  branch: null
+  swift: BLTDCHGG
+    
+- name: "BURGERGEMEINDE BERN, DC BANK DEPOSITO-CASSA DER STADT BERN"
+  city: "BERNE"
+  branch: null
+  swift: DCBECH22
+    
+- name: "BURGERLICHE ERSPARNISKASSE BERN GENOSSENSCHAFT"
+  city: "BERNE"
+  branch: null
+  swift: RBABCH22382
+    
+- name: "BZ BANK AKTIENGESELLSCHAFT"
+  city: "WILEN BEI WOLLERAU"
+  branch: null
+  swift: BZBKCH2W
+    
+- name: "BZ TRUST AKTIENGESELLSCHAFT"
+  city: "WILEN BEI WOLLERAU"
+  branch: null
+  swift: TRTRCHZ1
+    
+- name: "C.I.M. BANQUE"
+  city: "GENEVA"
+  branch: null
+  swift: CIMMCHGG
+    
+- name: "CA INDOSUEZ (SWITZERLAND) SA"
+  city: "GENEVA"
+  branch: ALL SWISS OFFICES
+  swift: AGRICHGG
+    
+- name: "CACEIS BANK, SWITZERLAND BRANCH"
+  city: "NYON"
+  branch: TA ACTIVITY
+  swift: ISAECH2NCOR
+    
+- name: "CACEIS BANK, SWITZERLAND BRANCH"
+  city: "NYON"
+  branch: null
+  swift: ISAECH2N
+    
+- name: "CAISSE DEP. DAUBONNE SOCIETE COOP"
+  city: "AUBONNE"
+  branch: null
+  swift: RBABCH22CEA
+    
+- name: "CAISSE D'EPARGNE DE COSSONAY SOCIETE COOPERATIVE"
+  city: "COSSONAY"
+  branch: null
+  swift: RBABCH22182
+    
+- name: "CAISSE D'EPARGNE DE NYON"
+  city: "NYON"
+  branch: null
+  swift: CAGYCH21
+    
+- name: "CAISSE D'EPARGNE RIVIERA, SOCIETE COOPERATIVE"
+  city: "VEVEY"
+  branch: null
+  swift: CDDVCH21
+    
+- name: "CAPE CAPITAL AG"
+  city: "ZURICH"
+  branch: null
+  swift: CPCACHZ1
+    
+- name: "CAPITAL INTERNATIONAL SARL"
+  city: "GENEVA"
+  branch: null
+  swift: CGIICHGG
+    
+- name: "CARGILL FINANCIAL SERVICES INTERNATIONAL, INC."
+  city: "GENEVA"
+  branch: null
+  swift: CFSICHG1
+    
+- name: "CBH COMPAGNIE BANCAIRE HELVETIQUE SA"
+  city: "GENEVA"
+  branch: null
+  swift: BSSACHGG
+    
+- name: "CBH COMPAGNIE BANCAIRE HELVETIQUE SA"
+  city: "LAUSANNE"
+  branch: null
+  swift: BSSACHG1022
+    
+- name: "CC HOLDINGS GMBH"
+  city: "LUZERN"
+  branch: null
+  swift: HOGMCH21
+    
+- name: "CEMBRA MONEY BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: CMBNCHZH
+    
+- name: "CERN - EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH"
+  city: "MEYRIN"
+  branch: null
+  swift: CEGNCH22
+    
+- name: "CERN-EUROPEAN ORGANIZATION FOR NU"
+  city: "GENEVA"
+  branch: null
+  swift: CEGNCHGG
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION, BEIJING, SWISS BRANCH ZURICH"
+  city: "ZURICH"
+  branch: SWISS RMB CLEARING CENTER
+  swift: PCBCCHZZCLR
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION, BEIJING, SWISS BRANCH ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: PCBCCHZZ
+    
+- name: "CITE GESTION SA"
+  city: "GENEVA"
+  branch: NDP DEPT
+  swift: CITECHGGNDP
+    
+- name: "CITE GESTION SA"
+  city: "GENEVA"
+  branch: null
+  swift: CITECHGG
+    
+- name: "CITIBANK (SWITZERLAND) AG"
+  city: "ZURICH"
+  branch: null
+  swift: CBSWCHZZ
+    
+- name: "CITIBANK N.A."
+  city: "ZURICH"
+  branch: null
+  swift: CITICHZZ
+    
+- name: "CITY TRADE AND INVESTMENT SA"
+  city: "GENEVA"
+  branch: null
+  swift: CIRVCHG1
+    
+- name: "CLARIANT AG"
+  city: "MUTTENZ"
+  branch: null
+  swift: CLNACHBL
+    
+- name: "CLIENTIS AG"
+  city: "BERNE"
+  branch: null
+  swift: RBABCH22CLI
+    
+- name: "CLIENTIS BANK IM THAL AG"
+  city: "BALSTHAL"
+  branch: null
+  swift: RBABCH22434
+    
+- name: "CLIENTIS BANK KUETTIGEN-ERLINSBACH AG"
+  city: "KUETTIGEN"
+  branch: null
+  swift: RBABCH22575
+    
+- name: "CLIENTIS BANK OBERAARGAU AG (FORMERLY CLIENTIS BANK HUTTWIL AG)"
+  city: "HUTTWIL"
+  branch: null
+  swift: RBABCH22450
+    
+- name: "CLIENTIS BANK OBERUZWIL AG"
+  city: "OBERUZWIL"
+  branch: null
+  swift: RBABCH22935
+    
+- name: "CLIENTIS BANK THUR GENOSSENSCHAFT"
+  city: "EBNAT-KAPPEL"
+  branch: null
+  swift: RBABCH22977
+    
+- name: "CLIENTIS BANK TOGGENBURG AG"
+  city: "KIRCHBERG"
+  branch: null
+  swift: RBABCH22955
+    
+- name: "CLIENTIS BS BANK SCHAFFHAUSEN AG"
+  city: "HALLAU"
+  branch: null
+  swift: RBABCH22858
+    
+- name: "CLIENTIS CAISSE D'EPARGNE DE CEC SA"
+  city: "COURTELARY"
+  branch: null
+  swift: RBABCH22240
+    
+- name: "CLIENTIS EB ENTLEBUCHER BANK AG"
+  city: "SCHUEPFHEIM"
+  branch: null
+  swift: RBABCH22670
+    
+- name: "CLIENTIS SPAR- UND LEIHKASSE THAYNGEN"
+  city: "THAYNGEN"
+  branch: null
+  swift: RBABCH22866
+    
+- name: "CLIENTIS SPARCASSA 1816 GENOSSENSCHAFT"
+  city: "WAEDENSWIL"
+  branch: null
+  swift: RBABCH22814
+    
+- name: "CLIENTIS SPARKASSE OFTRINGEN GENOSSENSCHAFT"
+  city: "OFTRINGEN"
+  branch: null
+  swift: RBABCH22428
+    
+- name: "CLIENTIS SPARKASSE SENSE"
+  city: "TAFERS"
+  branch: null
+  swift: RBABCH22186
+    
+- name: "CLIENTIS ZUERCHER REGIONALBANK GENOSSENSCHAFT (FORMERLY SPARKASSE ZURCHER OBERLAND)"
+  city: "WETZIKON"
+  branch: null
+  swift: RBABCH22850
+    
+- name: "CMA CAPITAL MARKET ADVISORS AG"
+  city: "ZURICH"
+  branch: null
+  swift: CCMDCHZ1
+    
+- name: "COFRA HOLDING AG"
+  city: "ZUG"
+  branch: null
+  swift: CFRACH22
+    
+- name: "COFRA HOLDING AG"
+  city: "ZUG"
+  branch: null
+  swift: CFRACH22COF
+    
+- name: "COMMERCIAL METALS INTERNATIONAL AG"
+  city: "BAAR"
+  branch: null
+  swift: CMFICH21
+    
+- name: "COMMERZBANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: COBACHZH
+    
+- name: "COMPAGNIE FINANCIERE AVAL"
+  city: "GENEVA"
+  branch: null
+  swift: CMFACHG1
+    
+- name: "COMPAGNIE FINANCIERE MEDITERRANEE COFIMED SA"
+  city: "GENEVA"
+  branch: null
+  swift: CFMCCHG1
+    
+- name: "COMPAGNIE FINANCIERE MICHELIN"
+  city: "GRANGES-PACCOT"
+  branch: null
+  swift: BIBMCH22
+    
+- name: "COMPAGNIE PRIVEE DE CONSEILS ET D'INVESTISSEMENTS S.A."
+  city: "GENEVA"
+  branch: null
+  swift: CPCICHGG
+    
+- name: "COMPASS ASSET MANAGEMENT SA"
+  city: "PARADISO"
+  branch: null
+  swift: CMAECH21
+    
+- name: "CORNER BANCA S.A."
+  city: "CHIASSO"
+  branch: null
+  swift: CBLUCH2268B
+    
+- name: "CORNER BANCA S.A."
+  city: "GENEVA"
+  branch: null
+  swift: CBLUCH2212A
+    
+- name: "CORNER BANCA S.A."
+  city: "LOCARNO"
+  branch: null
+  swift: CBLUCH2266A
+    
+- name: "CORNER BANCA S.A."
+  city: "LUGANO"
+  branch: HEAD OFFICE
+  swift: CBLUCH22
+    
+- name: "CORNER BANCA S.A."
+  city: "LUGANO"
+  branch: null
+  swift: CBLUCH22NRA
+    
+- name: "CORNER BANCA S.A."
+  city: "ZURICH"
+  branch: CORNER BANK AG
+  swift: CBLUCH2280A
+    
+- name: "COSMOREX S.A. GENEVE"
+  city: "GENEVA"
+  branch: null
+  swift: COGECHG1
+    
+- name: "COUTTS AND CO LTD"
+  city: "ZURICH"
+  branch: null
+  swift: COUTCHZZ
+    
+- name: "COVIDIEN AG"
+  city: "NEUHAUSEN A. RHF."
+  branch: null
+  swift: CVAGCHZZ
+    
+- name: "CREDIT AGRICOLE CHEUVREUX ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: CACHCHZ1
+    
+- name: "CREDIT AGRICOLE NEXT BANK (SUISSE) SA"
+  city: "GENEVA"
+  branch: null
+  swift: AGRICHGX
+    
+- name: "CREDIT D'INVESTISSEMENT"
+  city: "LUGANO"
+  branch: null
+  swift: CRDNCHG1
+    
+- name: "CREDIT EUROPE BANK (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: FSUICHGG
+    
+- name: "CREDIT MERCANTILE S.A."
+  city: "ZURICH"
+  branch: null
+  swift: CRMECHZ1
+    
+- name: "CREDIT MUTUEL DE LA VALLEE SA"
+  city: "LE SENTIER"
+  branch: null
+  swift: RBABCH22180
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "AARAU"
+  branch: null
+  swift: CRESCHZZ50A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "AFFOLTERN AM ALBIS"
+  branch: null
+  swift: CRESCHZZ89A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ALLSCHWIL"
+  branch: null
+  swift: CRESCHZZ41D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ALTDORF"
+  branch: LOHNPLATZ
+  swift: CRESCHZZ64S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ALTDORF"
+  branch: null
+  swift: CRESCHZZ64K
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ALTSTAETTEN (SG)"
+  branch: null
+  swift: CRESCHZZ94N
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ANDELFINGEN"
+  branch: null
+  swift: CRESCHZZ84G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "AROSA"
+  branch: null
+  swift: CRESCHZZ70E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ASCONA"
+  branch: VIALE B. PAPIO
+  swift: CRESCHZZ66S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ASCONA"
+  branch: null
+  swift: CRESCHZZ66C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BAAR"
+  branch: DORFSTRASSE 13
+  swift: CRESCHZZ63S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BAAR"
+  branch: null
+  swift: CRESCHZZ63K
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BADEN"
+  branch: null
+  swift: CRESCHZZ54A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BAD-RAGAZ"
+  branch: null
+  swift: CRESCHZZ73C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BALERNA"
+  branch: null
+  swift: CRESCHZZ68F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BASLE"
+  branch: BRAUSEBAD
+  swift: CRESCHZZ40D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BASLE"
+  branch: CLARAPLATZ
+  swift: CRESCHZZ40B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BASLE"
+  branch: CLARAPLATZ/REDGASSE
+  swift: CRESCHZZ40S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BASLE"
+  branch: GERBERGASSE
+  swift: CRESCHZZ40R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BASLE"
+  branch: GUNDELDINGEN
+  swift: CRESCHZZ40E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BASLE"
+  branch: SPALENBERG
+  swift: CRESCHZZ40C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BASLE"
+  branch: null
+  swift: CRESCHZZ40A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BELLINZONA"
+  branch: VIALE STAZIONE 26
+  swift: CRESCHZZ65R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BELLINZONA"
+  branch: null
+  swift: CRESCHZZ65A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BERNE"
+  branch: BUEMPLIZ
+  swift: CRESCHZZ30B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BERNE"
+  branch: BUNDESGASSE
+  swift: CRESCHZZ30R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BERNE"
+  branch: FREUDENBERGERPLATZ
+  swift: CRESCHZZ30S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BERNE"
+  branch: null
+  swift: CRESCHZZ30A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BEVILARD"
+  branch: null
+  swift: CRESCHZZ27I
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BIASCA"
+  branch: null
+  swift: CRESCHZZ67A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BIEL (BIENNE)"
+  branch: METT
+  swift: CRESCHZZ25C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BIEL (BIENNE)"
+  branch: NIDAUGASSE
+  swift: CRESCHZZ25R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BIEL (BIENNE)"
+  branch: null
+  swift: CRESCHZZ25A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BINNINGEN"
+  branch: null
+  swift: CRESCHZZ41A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BRIG (BRIGUE)"
+  branch: BAHNHOFSTRASSE 12
+  swift: CRESCHZZ39R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BRIG (BRIGUE)"
+  branch: null
+  swift: CRESCHZZ39A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BRISSAGO"
+  branch: null
+  swift: CRESCHZZ66F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BUCHS (SG)"
+  branch: GALLERSTRASSE
+  swift: CRESCHZZ94R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BUCHS (SG)"
+  branch: null
+  swift: CRESCHZZ94P
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BUELACH"
+  branch: WINTERTHURERSTRASSE
+  swift: CRESCHZZ81R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BUELACH"
+  branch: null
+  swift: CRESCHZZ81M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BULLE"
+  branch: PLACE DU TILLEUL
+  swift: CRESCHZZ16R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BULLE"
+  branch: null
+  swift: CRESCHZZ16C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BURGDORF"
+  branch: BAHNHOFSTRASSE
+  swift: CRESCHZZ34R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "BURGDORF"
+  branch: null
+  swift: CRESCHZZ34A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CANOBBIO"
+  branch: null
+  swift: CRESCHZZ69M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CAROUGE"
+  branch: PLACE DU MARCHE
+  swift: CRESCHZZ12N
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CAROUGE"
+  branch: null
+  swift: CRESCHZZ12S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHAM"
+  branch: GST CHAM/ZG
+  swift: CRESCHZZ64C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHATEL-ST.DENIS"
+  branch: null
+  swift: CRESCHZZ16A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHAUX-DE-FONDS, LA"
+  branch: AVENUE LEOPOLD-ROBERT 76
+  swift: CRESCHZZ23R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHAUX-DE-FONDS, LA"
+  branch: null
+  swift: CRESCHZZ23A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHAVANNES-ECUBLENS"
+  branch: null
+  swift: CRESCHZZ10H
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHIASSO"
+  branch: COLDRERIO
+  swift: CRESCHZZ68D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHIASSO"
+  branch: CORSO S. GOTTARDO
+  swift: CRESCHZZ68R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHIASSO"
+  branch: null
+  swift: CRESCHZZ68B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHUR"
+  branch: NEUSTADT
+  swift: CRESCHZZ70S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHUR"
+  branch: POSTSTRASSE
+  swift: CRESCHZZ70R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CHUR"
+  branch: null
+  swift: CRESCHZZ70A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CRANS SUR SIERRE"
+  branch: LE CONTINENTAL
+  swift: CRESCHZZ39T
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "CRANS SUR SIERRE"
+  branch: MONTANA
+  swift: CRESCHZZ39N
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "DAVOS"
+  branch: PLATZ
+  swift: CRESCHZZ72D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "DELEMONT"
+  branch: RUE PIERRE-PEQUIGNAT
+  swift: CRESCHZZ28R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "DELEMONT"
+  branch: null
+  swift: CRESCHZZ28A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "DIELSDORF"
+  branch: null
+  swift: CRESCHZZ81B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "DIETIKON"
+  branch: KIRCHSTRASSE
+  swift: CRESCHZZ89R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "DIETIKON"
+  branch: null
+  swift: CRESCHZZ89E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "DIETLIKON"
+  branch: null
+  swift: CRESCHZZ83M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "DUEBENDORF"
+  branch: BAHNHOFSTRASSE
+  swift: CRESCHZZ86R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "DUEBENDORF"
+  branch: null
+  swift: CRESCHZZ86A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "DUEDINGEN"
+  branch: null
+  swift: CRESCHZZ31A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "EBIKON"
+  branch: ZENTRALSTRASSE
+  swift: CRESCHZZ60T
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "EBIKON"
+  branch: null
+  swift: CRESCHZZ60K
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "EFFRETIKON"
+  branch: null
+  swift: CRESCHZZ83D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "EINSIEDELN"
+  branch: null
+  swift: CRESCHZZ88L
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "EMMENBRUECKE"
+  branch: GERLISWILSTRASSE 71
+  swift: CRESCHZZ60S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "EMMENBRUECKE"
+  branch: null
+  swift: CRESCHZZ60G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ENGELBERG"
+  branch: null
+  swift: CRESCHZZ63P
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "FAIDO"
+  branch: null
+  swift: CRESCHZZ67B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "FLIMS"
+  branch: null
+  swift: CRESCHZZ70C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "FRAUENFELD"
+  branch: ZUERCHERSTRASSE
+  swift: CRESCHZZ85R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "FRAUENFELD"
+  branch: null
+  swift: CRESCHZZ85A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "FRIBOURG"
+  branch: AVENUE DE LA GARE
+  swift: CRESCHZZ17R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "FRIBOURG"
+  branch: null
+  swift: CRESCHZZ17A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GELTERKINDEN"
+  branch: null
+  swift: CRESCHZZ44F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: ACACIAS 24/RT D'ACACIAS 2
+  swift: CRESCHZZ12M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: BERNEX
+  swift: CRESCHZZ12Q
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: CHAMPEL
+  swift: CRESCHZZ12D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: CHARMILLES
+  swift: CRESCHZZ12H
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: CHENE-BOURG
+  swift: CRESCHZZ12R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: EAUX-VIVES
+  swift: CRESCHZZ12E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: GARE-CORNAVIN
+  swift: CRESCHZZ12G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: GRAND-CASINO
+  swift: CRESCHZZ12K
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: ICC GENEVE-COINTRIN
+  swift: CRESCHZZ12C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: LE LIGNON
+  swift: CRESCHZZ12X
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: ONEX
+  swift: CRESCHZZ12Y
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: PETIT-LANCY
+  swift: CRESCHZZ12I
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: PETIT-SACONNEX
+  swift: CRESCHZZ12Z
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: PLACE ST-GERVAIS
+  swift: CRESCHZZ12L
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: PRAILLE-ACACIAS
+  swift: CRESCHZZ12B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: RIVE
+  swift: CRESCHZZ13A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: null
+  swift: CRESCHZZ12A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: null
+  swift: CRESCHZZ12F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GENEVA"
+  branch: null
+  swift: CRESCHZZ12J
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GIUBIASCO"
+  branch: null
+  swift: CRESCHZZ65B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GLARUS"
+  branch: BURGSTRASSE
+  swift: CRESCHZZ87S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GLARUS"
+  branch: null
+  swift: CRESCHZZ87L
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GORDOLA"
+  branch: null
+  swift: CRESCHZZ65E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GRENCHEN"
+  branch: AM MARKTPLATZ
+  swift: CRESCHZZ25S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GRENCHEN"
+  branch: null
+  swift: CRESCHZZ25G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "GSTAAD"
+  branch: null
+  swift: CRESCHZZ37L
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "HEERBRUGG"
+  branch: null
+  swift: CRESCHZZ94G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "HERGISWIL"
+  branch: null
+  swift: CRESCHZZ61A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "HOCHDORF"
+  branch: null
+  swift: CRESCHZZ62L
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "HORGEN"
+  branch: SEESTRASSE
+  swift: CRESCHZZ88S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "HORGEN"
+  branch: null
+  swift: CRESCHZZ88G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "HORW"
+  branch: null
+  swift: CRESCHZZ60M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ILANZ"
+  branch: null
+  swift: CRESCHZZ71A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "INTERLAKEN"
+  branch: null
+  swift: CRESCHZZ38A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "JONA"
+  branch: null
+  swift: CRESCHZZ86N
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "KLOSTERS"
+  branch: null
+  swift: CRESCHZZ72B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "KLOTEN"
+  branch: SCHAFFHAUSERSTRASSE 151
+  swift: CRESCHZZ83R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "KLOTEN"
+  branch: null
+  swift: CRESCHZZ83A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "KOENIZ"
+  branch: null
+  swift: CRESCHZZ30E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "KREUZLINGEN"
+  branch: HAUPTSTRASSE 53
+  swift: CRESCHZZ82S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "KREUZLINGEN"
+  branch: null
+  swift: CRESCHZZ82P
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "KRIENS"
+  branch: null
+  swift: CRESCHZZ60F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "KUESNACHT (ZH)"
+  branch: null
+  swift: CRESCHZZ87A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "KUESSNACHT AM RIGI"
+  branch: null
+  swift: CRESCHZZ64A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LACHEN"
+  branch: null
+  swift: CRESCHZZ88M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LAMONE"
+  branch: VIA VEDECCIO
+  swift: CRESCHZZ68T
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LAMONE"
+  branch: null
+  swift: CRESCHZZ68E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LANGENTHAL"
+  branch: MARKTGASSE 29
+  swift: CRESCHZZ49R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LANGENTHAL"
+  branch: null
+  swift: CRESCHZZ49A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LAUFEN"
+  branch: null
+  swift: CRESCHZZ42A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LAUSANNE"
+  branch: AVENUE D'OUCHY 14
+  swift: CRESCHZZ10F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LAUSANNE"
+  branch: AVENUE D'OUCHY 52
+  swift: CRESCHZZ10R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LAUSANNE"
+  branch: BOULEVARD DE GRANCY
+  swift: CRESCHZZ10E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LAUSANNE"
+  branch: LA-SALLAZ
+  swift: CRESCHZZ10C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LAUSANNE"
+  branch: MADELEINE
+  swift: CRESCHZZ10D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LAUSANNE"
+  branch: null
+  swift: CRESCHZZ10A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LIESTAL"
+  branch: BAHNHOFSTRASSE
+  swift: CRESCHZZ44R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LIESTAL"
+  branch: null
+  swift: CRESCHZZ44A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LOCARNO"
+  branch: VIA A. CISERI
+  swift: CRESCHZZ66R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LOCARNO"
+  branch: null
+  swift: CRESCHZZ66A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LOSONE"
+  branch: null
+  swift: CRESCHZZ66D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LUCERNE"
+  branch: BAHNHOFSTRASSE
+  swift: CRESCHZZ60R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LUCERNE"
+  branch: null
+  swift: CRESCHZZ60A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LUGANO"
+  branch: LUGANO-UC
+  swift: CRESCHZZ69N
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LUGANO"
+  branch: PIAZZALE P.PELLI
+  swift: CRESCHZZ69B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LUGANO"
+  branch: PIAZZA-RIFORMA
+  swift: CRESCHZZ69E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LUGANO"
+  branch: VIA G. VEGEZZI
+  swift: CRESCHZZ69R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LUGANO"
+  branch: null
+  swift: CRESCHZZ69A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LUGANO"
+  branch: null
+  swift: CRESCHZZ69C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "LYSS"
+  branch: null
+  swift: CRESCHZZ32A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MARTIGNY"
+  branch: AVENUE DE LA GARE
+  swift: CRESCHZZ19R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MARTIGNY"
+  branch: null
+  swift: CRESCHZZ19B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MEILEN"
+  branch: DORFSTRASSE 126
+  swift: CRESCHZZ87R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MEILEN"
+  branch: null
+  swift: CRESCHZZ87D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MENDRISIO"
+  branch: VIA LAVIZZARI 19A
+  swift: CRESCHZZ68S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MENDRISIO"
+  branch: null
+  swift: CRESCHZZ68C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MINUSIO"
+  branch: null
+  swift: CRESCHZZ66E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MONTHEY"
+  branch: null
+  swift: CRESCHZZ18L
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MONTREUX"
+  branch: PLACE DE LA PAIX 1
+  swift: CRESCHZZ18S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MONTREUX"
+  branch: null
+  swift: CRESCHZZ18D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MORGES"
+  branch: GRAND-RUE
+  swift: CRESCHZZ11R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MORGES"
+  branch: null
+  swift: CRESCHZZ11A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MOUTIER"
+  branch: null
+  swift: CRESCHZZ27F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MURI BEI BERN"
+  branch: null
+  swift: CRESCHZZ30N
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MURTEN/MORAT"
+  branch: null
+  swift: CRESCHZZ32B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "MUTTENZ"
+  branch: null
+  swift: CRESCHZZ41G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "NAEFELS"
+  branch: null
+  swift: CRESCHZZ87M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "NEUCHATEL"
+  branch: RUE DU SEYON
+  swift: CRESCHZZ20R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "NEUCHATEL"
+  branch: null
+  swift: CRESCHZZ20A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "NEUHAUSEN A. RHF."
+  branch: null
+  swift: CRESCHZZ82F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "NEUVEVILLE, LA"
+  branch: null
+  swift: CRESCHZZ25F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "NYON"
+  branch: GRAND-RUE
+  swift: CRESCHZZ12O
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "NYON"
+  branch: null
+  swift: CRESCHZZ12T
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "OBERENGSTRINGEN"
+  branch: null
+  swift: CRESCHZZ81E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "OENSINGEN"
+  branch: null
+  swift: CRESCHZZ47A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "OLTEN"
+  branch: FROHBURGSTRASSE 15
+  swift: CRESCHZZ46R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "OLTEN"
+  branch: null
+  swift: CRESCHZZ46A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "OPFIKON-GLATTBRUGG"
+  branch: null
+  swift: CRESCHZZ81G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "OSTERMUNDIGEN"
+  branch: BERNSTRASSE 31
+  swift: CRESCHZZ30T
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "OSTERMUNDIGEN"
+  branch: null
+  swift: CRESCHZZ30M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PARADISO"
+  branch: null
+  swift: CRESCHZZ69G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PAYERNE"
+  branch: null
+  swift: CRESCHZZ15C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PFAEFFIKON"
+  branch: null
+  swift: CRESCHZZ88F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PONTE TRESA"
+  branch: VIA LUGANO
+  swift: CRESCHZZ69S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PONTE TRESA"
+  branch: null
+  swift: CRESCHZZ69L
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PONTRESINA"
+  branch: null
+  swift: CRESCHZZ75C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PORRENTRUY"
+  branch: null
+  swift: CRESCHZZ29A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PRATTELN"
+  branch: BAHNHOFSTRASSE 1
+  swift: CRESCHZZ41R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PRATTELN"
+  branch: null
+  swift: CRESCHZZ41H
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PULLY"
+  branch: PLACE DE LA GARE
+  swift: CRESCHZZ10S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "PULLY"
+  branch: null
+  swift: CRESCHZZ10N
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "RAPPERSWIL"
+  branch: null
+  swift: CRESCHZZ86M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "REGENSDORF"
+  branch: null
+  swift: CRESCHZZ81A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "REINACH (BL)"
+  branch: HAUPTSTRASSE
+  swift: CRESCHZZ41S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "REINACH (BL)"
+  branch: null
+  swift: CRESCHZZ41Q
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "RENENS"
+  branch: null
+  swift: CRESCHZZ10P
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "RHEINFELDEN"
+  branch: null
+  swift: CRESCHZZ43A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "RIEHEN"
+  branch: null
+  swift: CRESCHZZ41E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ROMANSHORN"
+  branch: null
+  swift: CRESCHZZ85F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ROMONT"
+  branch: null
+  swift: CRESCHZZ16B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ROVEREDO (GR)"
+  branch: null
+  swift: CRESCHZZ65C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SAIGNELEGIER"
+  branch: null
+  swift: CRESCHZZ27M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SAMEDAN"
+  branch: null
+  swift: CRESCHZZ75B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SAMNAUN"
+  branch: null
+  swift: CRESCHZZ75L
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SARNEN"
+  branch: BAHNHOFPLATZ
+  swift: CRESCHZZ60U
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SARNEN"
+  branch: null
+  swift: CRESCHZZ60P
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SAXON"
+  branch: null
+  swift: CRESCHZZ19A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SCHAFFHAUSEN"
+  branch: BAHNHOFSTRASSE
+  swift: CRESCHZZ82R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SCHAFFHAUSEN"
+  branch: null
+  swift: CRESCHZZ82A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SCHLIEREN"
+  branch: null
+  swift: CRESCHZZ89D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SCHONENWERD"
+  branch: null
+  swift: CRESCHZZ50B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SCHWERZENBACH"
+  branch: null
+  swift: CRESCHZZ86B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SCHWYZ"
+  branch: HERRENGASSE
+  swift: CRESCHZZ64R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SCHWYZ"
+  branch: null
+  swift: CRESCHZZ64E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SCUOL"
+  branch: null
+  swift: CRESCHZZ75H
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SIERRE/SIDERS"
+  branch: ROUTE DE SION
+  swift: CRESCHZZ39S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SIERRE/SIDERS"
+  branch: null
+  swift: CRESCHZZ39L
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SION/SITTEN"
+  branch: AVENUE DU MIDI
+  swift: CRESCHZZ19S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SION/SITTEN"
+  branch: null
+  swift: CRESCHZZ19E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SOLOTHURN"
+  branch: WENGISTRASSE
+  swift: CRESCHZZ45R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SOLOTHURN"
+  branch: null
+  swift: CRESCHZZ45A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ST. GALLEN"
+  branch: AFG ARENA
+  swift: CRESCHZZAFG
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ST. GALLEN"
+  branch: GROSSACKER
+  swift: CRESCHZZ90C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ST. GALLEN"
+  branch: ST. LEONARD-STRASSE 33
+  swift: CRESCHZZ90R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ST. GALLEN"
+  branch: null
+  swift: CRESCHZZ90A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ST. IMIER"
+  branch: null
+  swift: CRESCHZZ26B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ST. MARGRETHEN"
+  branch: GRENZSTRASSE 11
+  swift: CRESCHZZ94S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ST. MARGRETHEN"
+  branch: null
+  swift: CRESCHZZ94F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ST. MORITZ"
+  branch: VIA MAISTRA 9
+  swift: CRESCHZZ75R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ST. MORITZ"
+  branch: null
+  swift: CRESCHZZ75A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "STAEFA"
+  branch: null
+  swift: CRESCHZZ87F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "STANS"
+  branch: null
+  swift: CRESCHZZ63N
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "STEIN AM RHEIN"
+  branch: null
+  swift: CRESCHZZ82D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SURSEE"
+  branch: BAHNHOFSTRASSE 20
+  swift: CRESCHZZ62R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "SURSEE"
+  branch: null
+  swift: CRESCHZZ62C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "TAVANNES"
+  branch: null
+  swift: CRESCHZZ27N
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "TENERO"
+  branch: null
+  swift: CRESCHZZ65G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "THALWIL"
+  branch: GOTTHARDSTRASSE 21
+  swift: CRESCHZZ88R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "THALWIL"
+  branch: null
+  swift: CRESCHZZ88A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "THONEX"
+  branch: null
+  swift: CRESCHZZ12V
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "THUN"
+  branch: BAELLIZ
+  swift: CRESCHZZ36R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "THUN"
+  branch: null
+  swift: CRESCHZZ36A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "TRAMELAN"
+  branch: null
+  swift: CRESCHZZ27O
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "TRIMBACH"
+  branch: null
+  swift: CRESCHZZ46T
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "USTER"
+  branch: null
+  swift: CRESCHZZ86E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "UZWIL"
+  branch: null
+  swift: CRESCHZZ92D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "VERBIER"
+  branch: null
+  swift: CRESCHZZ19D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "VERSOIX"
+  branch: null
+  swift: CRESCHZZ12U
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "VESENAZ"
+  branch: null
+  swift: CRESCHZZ12P
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "VEVEY"
+  branch: RUE LAUSANNE
+  swift: CRESCHZZ18R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "VEVEY"
+  branch: null
+  swift: CRESCHZZ18A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "VILLARS SUR GLANE"
+  branch: null
+  swift: CRESCHZZ18P
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "VILLARS-SUR-OLLON"
+  branch: null
+  swift: CRESCHZZ18B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "VIRA (GAMBAROGNO)"
+  branch: null
+  swift: CRESCHZZ65V
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "VISP"
+  branch: null
+  swift: CRESCHZZ39G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WAEDENSWIL"
+  branch: ZUGERSTRASSE
+  swift: CRESCHZZ88T
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WAEDENSWIL"
+  branch: null
+  swift: CRESCHZZ88H
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WALD"
+  branch: null
+  swift: CRESCHZZ86D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WALLISELLEN"
+  branch: null
+  swift: CRESCHZZ83C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WEINFELDEN"
+  branch: BAHNHOFPLATZ
+  swift: CRESCHZZ85S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WEINFELDEN"
+  branch: null
+  swift: CRESCHZZ85C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WETZIKON"
+  branch: BAHNHOFSTRASSE 3
+  swift: CRESCHZZ86S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WETZIKON"
+  branch: WETZIKON/ZH
+  swift: CRESCHZZ86F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WIL (SG)"
+  branch: ODERE BAHNHOFSTRASSE 33
+  swift: CRESCHZZ95R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WIL (SG)"
+  branch: null
+  swift: CRESCHZZ95A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WINTERTHUR"
+  branch: BAHNHOF
+  swift: CRESCHZZ84C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WINTERTHUR"
+  branch: STADTHAUSSTRASSE
+  swift: CRESCHZZ84R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WINTERTHUR"
+  branch: null
+  swift: CRESCHZZ84A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "WORB"
+  branch: null
+  swift: CRESCHZZ30F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "YVERDON-LES-BAINS"
+  branch: RUE DU COLLEGE
+  swift: CRESCHZZ14R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "YVERDON-LES-BAINS"
+  branch: null
+  swift: CRESCHZZ14A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZERMATT"
+  branch: null
+  swift: CRESCHZZ39E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZOFINGEN"
+  branch: null
+  swift: CRESCHZZ48A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZOLLIKON"
+  branch: null
+  swift: CRESCHZZ87B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZUG"
+  branch: NEUGASSE
+  swift: CRESCHZZ63R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZUG"
+  branch: null
+  swift: CRESCHZZ63A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: AFFOLTERN
+  swift: CRESCHZZ80M
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: AIRPORT
+  swift: CRESCHZZ80V
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: ALSTETTEN/BADENERSTRASSE 697
+  swift: CRESCHZZ80S
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: ALTSTETTEN
+  swift: CRESCHZZ80E
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: AUSSERSIHL
+  swift: CRESCHZZ80B
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: BAHNHOF
+  swift: CRESCHZZ80W
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: BAHNHOFSTRASSE
+  swift: CRESCHZZ80Q
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: CENTER OF EXCELLENCE
+  swift: CRESCHZZWRO
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: ENGE
+  swift: CRESCHZZ80C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: GALLERIA
+  swift: CRESCHZZ80O
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: GLOBAL TREASURY PROCESSING
+  swift: CRESCHZZGTP
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: HEAD OFFICE
+  swift: CRESCHZZ80A
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: HEAD OFFICE/ADMINISTRATION
+  swift: CRESCHZZ
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: HELVETIAPLATZ
+  swift: CRESCHZZ80I
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: HOENGG
+  swift: CRESCHZZ80P
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: HOTTINGEN
+  swift: CRESCHZZ80J
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: IKS
+  swift: CRESCHZZIKS
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: LEUENHOF
+  swift: CRESCHZZ81Z
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: OERLIKON
+  swift: CRESCHZZ80F
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: OERLIKON/QUERSTRASSE
+  swift: CRESCHZZ80U
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: PAYMENT EXPERT SERVICE
+  swift: CRESCHZZPAY
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: RATHAUSPLATZ
+  swift: CRESCHZZ80D
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: RIGIPLATZ
+  swift: CRESCHZZ80G
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: SCHAFFHAUSERPLATZ
+  swift: CRESCHZZ80X
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: SECURITIES ACCOUNTING
+  swift: CRESCHZZEEO
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: SEEFELD
+  swift: CRESCHZZ80H
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: SEEFELD/SEEFELDSTRASSE 83
+  swift: CRESCHZZ80Y
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: STRAIGHT THROUGH PROCESSING
+  swift: CRESCHZZSTP
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: UETLIHOF
+  swift: CRESCHZZ80N
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: UNTERSTRASS
+  swift: CRESCHZZ80K
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: WERDMUEHLEPLATZ
+  swift: CRESCHZZ80L
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: WIEDIKON
+  swift: CRESCHZZ80Z
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: WITIKON
+  swift: CRESCHZZ80R
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: WOLLISHOFEN
+  swift: CRESCHZZ80T
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: CRESCHZZ81C
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: ADD-SERVICE
+  swift: CRESCHZFADD
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: ANG-SERVICE
+  swift: CRESCHZFANG
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: BPP-SERVICE
+  swift: CRESCHZFBPP
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: C88-SERVICE
+  swift: CRESCHZFC88
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: CZA-SERVICES
+  swift: CRESCHZFCZA
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: DUF-SERVICE
+  swift: CRESCHZFDUF
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: E44-SERVICE
+  swift: CRESCHZFE44
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: EC2-SERVICE
+  swift: CRESCHZFEC2
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: EEX-SERVICE
+  swift: CRESCHZFEEX
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: EFY-SERVICE
+  swift: CRESCHZFEFY
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: EFZ SERVICE
+  swift: CRESCHZFEFZ
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: EH3-SERVICES
+  swift: CRESCHZFEH3
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: EL1-SERVICE
+  swift: CRESCHZFEL1
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: ELC-SERVICE
+  swift: CRESCHZFELC
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: ES4-SERVICES
+  swift: CRESCHZFES4
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: ESH-SERVICE
+  swift: CRESCHZFESH
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: ESS-SERVICES
+  swift: CRESCHZFESS
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: ESZ-SERVICE
+  swift: CRESCHZFESZ
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: ETT-SERVICE
+  swift: CRESCHZFETT
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: GCM-SERVICE
+  swift: CRESCHZFGCM
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: GLL-SERVICE
+  swift: CRESCHZFGLL
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: GUG-SERVICE
+  swift: CRESCHZFGUG
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: GUS-SERVICE
+  swift: CRESCHZFGUS
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: GVR-SERVICE
+  swift: CRESCHZFGVR
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: KMR-SERVICE
+  swift: CRESCHZFKMR
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: L36-SERVICE
+  swift: CRESCHZFL36
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: LDH-SERVICE
+  swift: CRESCHZFLDH
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: LTS-SERVICE
+  swift: CRESCHZFLTS
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: M33-SERVICE
+  swift: CRESCHZFM33
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: MER-SERVICE
+  swift: CRESCHZFMER
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: MET-SERVICE
+  swift: CRESCHZFMET
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: NDR-SERVICE
+  swift: CRESCHZFNDR
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: NRL-SERVICE
+  swift: CRESCHZFNRL
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: PAYMENT MULTIBANKING PROVIDED THROUGH FIDES TREASURY SERVICES
+  swift: CRESCHZFEFT
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: PET-SERVICE
+  swift: CRESCHZFPET
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: SHL-SERVICE
+  swift: CRESCHZFSHL
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: STA-SERVICE
+  swift: CRESCHZFSTA
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: STATEMENT MULTIBANKING PROVIDED THROUGH FIDES TREASURY SERVICES
+  swift: CRESCHZFARS
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: STATEMENT STRAIGHT THROUGH SERVICE
+  swift: CRESCHZFSST
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: TFL-SERVICE
+  swift: CRESCHZFTFL
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: TFS-SERVICE
+  swift: CRESCHZFTFS
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: TLX SERVICE
+  swift: CRESCHZFTLX
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: TRE-SERVICE
+  swift: CRESCHZFTRE
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: VTL-SERVICE
+  swift: CRESCHZFVTL
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: VTR-SERVICE
+  swift: CRESCHZFVTR
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: VTS-SERVICE
+  swift: CRESCHZFVTS
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: XXX-SERVICE
+  swift: CRESCHZFADG
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: XXX-SERVICE
+  swift: CRESCHZFADU
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: XXX-SERVICE
+  swift: CRESCHZFB77
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: XXX-SERVICE
+  swift: CRESCHZFBAM
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: XXX-SERVICE
+  swift: CRESCHZFBAS
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: XXX-SERVICE
+  swift: CRESCHZFBEU
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: XXX-SERVICE
+  swift: CRESCHZFDEN
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: XXX-SERVICE
+  swift: CRESCHZFTGA
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: XXX-SERVICE
+  swift: CRESCHZFTGP
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: XXX-SERVICE
+  swift: CRESCHZFVTU
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: null
+  swift: CRESCHZF
+    
+- name: "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)"
+  city: "ZURICH"
+  branch: null
+  swift: CRESCHZFFOX
+    
+- name: "CREDIT SUISSE AG"
+  city: "ZURICH"
+  branch: null
+  swift: CRESCHZH
+    
+- name: "CREDIT SUISSE ASSET MANAGEMENT"
+  city: "ZURICH"
+  branch: null
+  swift: CSSGCHZ1
+    
+- name: "CREDIT SUISSE ASSET MANAGEMENT (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: CSAMCHZH
+    
+- name: "CREDIT SUISSE TRUST"
+  city: "ZURICH"
+  branch: null
+  swift: CSTSCHZ1
+    
+- name: "CRESVALE (SWITZERLAND) LTD."
+  city: "ZURICH"
+  branch: null
+  swift: CRSWCHZ1
+    
+- name: "CSAM"
+  city: "ZURICH"
+  branch: null
+  swift: SMMMCHZ1
+    
+- name: "DCI SA"
+  city: "CHENE-BOURG"
+  branch: null
+  swift: CINQCH22
+    
+- name: "DE PURY PICTET TURRETTINI CIE"
+  city: "GENEVA"
+  branch: null
+  swift: DPPTCHG1
+    
+- name: "DEKA(SWISS) PRIVATBANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: DEKACHZ1
+    
+- name: "DEUTSCHE BANK (SCHWEIZ) AG (FORMERLY DEUTSCHE ASSET MANAGEMENT SCHWEIZ)"
+  city: "ZURICH"
+  branch: null
+  swift: DEAMCHZZ
+    
+- name: "DEUTSCHE BANK (SCHWEIZ) AG ZURICH - PRIVATE BANKING -"
+  city: "ZURICH"
+  branch: null
+  swift: DEUTCHG180A
+    
+- name: "DEUTSCHE BANK (SUISSE) SA - PRIVATE BANKING -"
+  city: "GENEVA"
+  branch: null
+  swift: DEUTCHGG
+    
+- name: "DEUTSCHE BANK (SUISSE) SA FORMERLY RUED, BLASS AND CIE AG"
+  city: "GENEVA"
+  branch: null
+  swift: RUBLCHZ1
+    
+- name: "DEUTSCHE BANK (SVIZZERA) SA LUGANO - PRIVATE BANKING -"
+  city: "LUGANO"
+  branch: null
+  swift: DEUTCHGGLUG
+    
+- name: "DEUTSCHE BANK AG ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: DEUTCHZZ
+    
+- name: "DIE SCHWEIZERISCHE POST AG"
+  city: "BERNE"
+  branch: null
+  swift: POCHCH2B
+    
+- name: "DILIGENT INVESTMENTS ET TRUST SA"
+  city: "GENEVA"
+  branch: null
+  swift: DIITCHG1
+    
+- name: "DJE FINANZ AG"
+  city: "ZURICH"
+  branch: null
+  swift: DJFICHZ1
+    
+- name: "DOMINICK COMPANY AG"
+  city: "ZURICH"
+  branch: null
+  swift: DOMICHZZ
+    
+- name: "DONALDSON LUFKIN AND JENRETTE INTERNATIONAL"
+  city: "GENEVA"
+  branch: null
+  swift: DLJICHG1
+    
+- name: "DOW FINANCIAL SERVICES INC."
+  city: "HORGEN"
+  branch: null
+  swift: DFSBCHZ1
+    
+- name: "DRYDEN BANK SA"
+  city: "GENEVA"
+  branch: null
+  swift: PPBKCHG1
+    
+- name: "DU BOIS CAPITAL AG (FORMERLY BANQUE DU BOIS AG)"
+  city: "ZURICH"
+  branch: null
+  swift: SNETCHZ1
+    
+- name: "DUFRY MANAGEMENT AG"
+  city: "BASLE"
+  branch: null
+  swift: DUFRCHBB
+    
+- name: "DUKASCOPY BANK SA"
+  city: "GENEVA"
+  branch: null
+  swift: DUBACHGG
+    
+- name: "DZ PRIVATBANK (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: GENOCHZZ
+    
+- name: "E.G.O. ELEKTRO-GERATE AG"
+  city: "ZUG"
+  branch: null
+  swift: EGOECH22
+    
+- name: "E.I.M. SA"
+  city: "NYON"
+  branch: null
+  swift: EIMECH21
+    
+- name: "EBC ZURICH AG"
+  city: "ZURICH"
+  branch: null
+  swift: EBZUCHZ1
+    
+- name: "ECOM AGROINDUSTRIAL CORP. LTD"
+  city: "PULLY"
+  branch: null
+  swift: EATLCH22
+    
+- name: "EDITIONS ATLAS"
+  city: "CHESEAUX-SUR-LAUSANNE"
+  branch: null
+  swift: ATPRCH22
+    
+- name: "EDMOND DE ROTHSCHILD (SUISSE) S.A."
+  city: "FRIBOURG"
+  branch: null
+  swift: PRIBCHG1022
+    
+- name: "EDMOND DE ROTHSCHILD (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: PRIBCHGG
+    
+- name: "EDMOND DE ROTHSCHILD (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: PRIBCHGGCBR
+    
+- name: "EDMOND DE ROTHSCHILD (SUISSE) S.A."
+  city: "LAUSANNE"
+  branch: null
+  swift: PRIBCHG1021
+    
+- name: "EDMOND DE ROTHSCHILD (SUISSE) S.A. - SUCCURSALE DI LUGANO"
+  city: "LUGANO"
+  branch: null
+  swift: SOLBCH22
+    
+- name: "EFG BANK AG"
+  city: "LUGANO"
+  branch: PATRIMONY 1873
+  swift: EFGBCHZZPAT
+    
+- name: "EFG BANK AG"
+  city: "ZURICH"
+  branch: LTQ ISSUANCE ACCOUNT
+  swift: EFGBCHZZLTQ
+    
+- name: "EFG BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: EFGBCHZZ
+    
+- name: "EFG BANK EUROPEAN FINANCIAL GROUP SA"
+  city: "GENEVA"
+  branch: null
+  swift: EFGBCHGG
+    
+- name: "EFG BANK SA, LUGANO BRANCH"
+  city: "BELLINZONA"
+  branch: null
+  swift: BSILCH2265A
+    
+- name: "EFG BANK SA, LUGANO BRANCH"
+  city: "CHIASSO"
+  branch: null
+  swift: BSILCH2268B
+    
+- name: "EFG BANK SA, LUGANO BRANCH"
+  city: "GENEVA"
+  branch: null
+  swift: BSILCH2212A
+    
+- name: "EFG BANK SA, LUGANO BRANCH"
+  city: "LAUSANNE"
+  branch: null
+  swift: BSILCH2210A
+    
+- name: "EFG BANK SA, LUGANO BRANCH"
+  city: "LOCARNO"
+  branch: null
+  swift: BSILCH2266A
+    
+- name: "EFG BANK SA, LUGANO BRANCH"
+  city: "LUGANO"
+  branch: HEAD OFFICE
+  swift: BSILCH22
+    
+- name: "EFG BANK SA, LUGANO BRANCH"
+  city: "LUGANO"
+  branch: PATRIMONY
+  swift: BSILCH22PMY
+    
+- name: "E-GTSA SA"
+  city: "GENEVA"
+  branch: null
+  swift: EGTACHG1
+    
+- name: "EIDGENOESSISCHE FINANZVERWALTUNG"
+  city: "BERNE"
+  branch: PAYMENT DEPARTMENT
+  swift: EFVBCH22ZVB
+    
+- name: "EIDGENOESSISCHE FINANZVERWALTUNG"
+  city: "BERNE"
+  branch: PAYMENTS BVPLUS
+  swift: EFVBCH22BVP
+    
+- name: "EIDGENOESSISCHE FINANZVERWALTUNG"
+  city: "BERNE"
+  branch: null
+  swift: EFVBCH22
+    
+- name: "EMS-CHEMIE HOLDING AG"
+  city: "DOMAT EMS"
+  branch: null
+  swift: EMSHCH22
+    
+- name: "ENTRIS BANKING AG"
+  city: "GUEMLIGEN"
+  branch: null
+  swift: RBABCH22
+    
+- name: "ERSPARNISKASSE AFFOLTERN I.E. AG"
+  city: "WEIER IM EMMENTAL"
+  branch: null
+  swift: RBABCH22387
+    
+- name: "ERSPARNISKASSE RUEEGGISBERG"
+  city: "RUEGGISBERG"
+  branch: null
+  swift: EKRUCH21
+    
+- name: "ERSPARNISKASSE SCHAFFHAUSEN"
+  city: "SCHAFFHAUSEN"
+  branch: null
+  swift: RBABCH22835
+    
+- name: "ERSPARNISKASSE SPEICHER"
+  city: "SPEICHER"
+  branch: null
+  swift: ERSCCH21
+    
+- name: "EUREX REPO ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: XERZCHZ1
+    
+- name: "EUREX ZURICH AG"
+  city: "ZURICH"
+  branch: null
+  swift: XEURCHZ1
+    
+- name: "EUROFIMA EUROPEAN COMPANY FOR THE FINANCING OF RAILRAOAD ROLLING STOCK"
+  city: "BASLE"
+  branch: null
+  swift: EURACHBB
+    
+- name: "EUROPEAN REINSURANCE COMPANY OF ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: ERRECHZ1
+    
+- name: "EXPERSOFT SYSTEMS AG"
+  city: "CHAM"
+  branch: null
+  swift: EXSSCH21
+    
+- name: "F. VAN LANSCHOT BANKIERS (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: FVLBCHZZ
+    
+- name: "FALCON PRIVATE BANK LTD."
+  city: "GENEVA"
+  branch: null
+  swift: UEBECHZZ12A
+    
+- name: "FALCON PRIVATE BANK LTD."
+  city: "ZURICH"
+  branch: null
+  swift: UEBECHZZ
+    
+- name: "FCS TRUST CORP AG"
+  city: "ZUG"
+  branch: null
+  swift: FCTUCH21
+    
+- name: "FFSA FONDS ET FINANCES S.A."
+  city: "GENEVA"
+  branch: null
+  swift: FFFFCHG1
+    
+- name: "FIBI BANK (SWITZERLAND) LTD."
+  city: "ZURICH"
+  branch: null
+  swift: FIRBCHZZ
+    
+- name: "FIDEURAM BANK (SUISSE) S.A."
+  city: "ZURICH"
+  branch: null
+  swift: TURICHZ1
+    
+- name: "FIDURHONE S.A."
+  city: "GENEVA"
+  branch: null
+  swift: FIDHCHGG
+    
+- name: "FINANCIERE SBA"
+  city: "GENEVA"
+  branch: null
+  swift: FNSACHG1
+    
+- name: "FINANZGESELLSCHAFT MIT B-LIZENZ"
+  city: "ZURICH"
+  branch: null
+  swift: FLDECHZ1
+    
+- name: "FINANZHAUS BUERKLE AND CO, NACHFOLGER DR. G. HORCAND CO"
+  city: "ZURICH"
+  branch: null
+  swift: FIBUCHZ1
+    
+- name: "FINANZIERUNGSGESELLSCHAFT VIKING"
+  city: "ZURICH"
+  branch: null
+  swift: FIVICHZ1
+    
+- name: "FINARBIT AG"
+  city: "KUSNACHT"
+  branch: null
+  swift: FIITCHZ1
+    
+- name: "FINGROUP FINANCIAL MANAGEMENT AND CONSULTING SA"
+  city: "LUGANO"
+  branch: null
+  swift: FFMOCH21
+    
+- name: "FININFOR ET ASSOCIES"
+  city: "GENEVA"
+  branch: null
+  swift: FNASCHG1
+    
+- name: "FIRST SECURITIES AND TRUST OF SWITZERLAND AG"
+  city: "ZURICH"
+  branch: null
+  swift: FSTSCHZ1
+    
+- name: "FISCH ASSET MANAGEMENT"
+  city: "ZURICH"
+  branch: null
+  swift: FSAACHZ1
+    
+- name: "FISCH ASSET MANAGEMENT AG"
+  city: "ZURICH"
+  branch: null
+  swift: FSAACHZZ
+    
+- name: "FONDATION INTERPROFESSIONNELLE SANITAIRE DE PREVOYANCE"
+  city: "PRILLY"
+  branch: null
+  swift: FISYCH21
+    
+- name: "FONDS DE COMPENSATION AVS/AI/APG"
+  city: "GENEVA"
+  branch: CLS
+  swift: FAVSCHGGCLS
+    
+- name: "FONDS DE COMPENSATION AVS/AI/APG"
+  city: "GENEVA"
+  branch: FEX
+  swift: FAVSCHGGFEX
+    
+- name: "FONDS DE COMPENSATION AVS/AI/APG"
+  city: "GENEVA"
+  branch: HEDGING EMERGING CURRENCIES
+  swift: FAVSCHGGHEM
+    
+- name: "FONDS DE COMPENSATION AVS/AI/APG"
+  city: "GENEVA"
+  branch: TMK
+  swift: FAVSCHGGTMK
+    
+- name: "FONDS DE COMPENSATION AVS/AI/APG"
+  city: "GENEVA"
+  branch: null
+  swift: FAVSCHGG
+    
+- name: "FONDS DE PENSIONS NESTLE"
+  city: "VEVEY"
+  branch: null
+  swift: FPNECH22
+    
+- name: "FORTRESS FINANCE AG"
+  city: "ZURICH"
+  branch: null
+  swift: FOFICHZ1
+    
+- name: "FRANKFURTER BANKGESELLSCHAFT (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: FBGSCHZZ
+    
+- name: "FRANSAD GESTION SA"
+  city: "GENEVA"
+  branch: null
+  swift: FRGTCHG1
+    
+- name: "FREEMONT MANAGEMENT S.A."
+  city: "LUTRY"
+  branch: null
+  swift: TETRCH22
+    
+- name: "FREIE GEMEINSCHAFTSBANK GENOSSENSCHAFT"
+  city: "BASLE"
+  branch: null
+  swift: FRGGCHB1
+    
+- name: "GALDERMA SA"
+  city: "LAUSANNE"
+  branch: null
+  swift: GALDCH2L
+    
+- name: "GALENA ASSET MANAGEMENT B.V. AMSTERDAM, GENEVA BRANCH"
+  city: "GENEVA"
+  branch: null
+  swift: GAMSCHG1
+    
+- name: "GAM (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: GAM INVESTMENT MANAGEMENT (SWITZERLAND) LTD. PROCESSING
+  swift: GLAMCHZHAMF
+    
+- name: "GAM (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: SWISS AND GLOBAL
+  swift: GLAMCHZHCAY
+    
+- name: "GAM (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: GLAMCHZH
+    
+- name: "GAM (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: GLAMCHZHAMR
+    
+- name: "GARDA CAPITAL PARTNERS SARL"
+  city: "GENEVA"
+  branch: null
+  swift: GCPSCHG1
+    
+- name: "GAZPROMBANK (SWITZERLAND) LTD"
+  city: "ZURICH"
+  branch: null
+  swift: RKBZCHZZ
+    
+- name: "GEBERIT HOLDING AG"
+  city: "RAPPERSWIL-JONA"
+  branch: null
+  swift: GBRICH22
+    
+- name: "GEFINOR FINANCE S.A"
+  city: "GENEVA"
+  branch: null
+  swift: GEFICHG1
+    
+- name: "GENEVA PARTNERS"
+  city: "GENEVA"
+  branch: null
+  swift: GEPTCHG1
+    
+- name: "GENIN ET CIE"
+  city: "VOUVRY"
+  branch: null
+  swift: GEIICH21
+    
+- name: "GERALD METALS SA"
+  city: "MORGES"
+  branch: null
+  swift: GMSACH21
+    
+- name: "GEREMANT SA"
+  city: "GENEVA"
+  branch: null
+  swift: GERNCHG1
+    
+- name: "GESTION DE PORTEFEUILLES MODULEE SA"
+  city: "LAUSANNE"
+  branch: null
+  swift: GEPDCH21
+    
+- name: "GHAZAL GENEVE SA"
+  city: "GENEVA"
+  branch: null
+  swift: GHGNCHG1
+    
+- name: "GIS ADVISERS"
+  city: "GENEVA"
+  branch: null
+  swift: GIADCHG1
+    
+- name: "GLARNER KANTONALBANK"
+  city: "GLARUS"
+  branch: null
+  swift: GLKBCH22
+    
+- name: "GLARNER KANTONALBANK"
+  city: "GLARUS"
+  branch: null
+  swift: GLKBCH2287L
+    
+- name: "GLARNER KANTONALBANK"
+  city: "NAEFELS"
+  branch: null
+  swift: GLKBCH2287M
+    
+- name: "GLARNER KANTONALBANK"
+  city: "NIEDER-URNEN"
+  branch: null
+  swift: GLKBCH2288P
+    
+- name: "GLENCORE (FAR EAST) AG"
+  city: "BAAR"
+  branch: null
+  swift: GLFECH21
+    
+- name: "GLENCORE AG"
+  city: "BAAR"
+  branch: null
+  swift: GAGZCH21
+    
+- name: "GLENCORE FINANCE AG"
+  city: "BAAR"
+  branch: null
+  swift: GFAGCH21
+    
+- name: "GLENCORE INTERNATIONAL AG"
+  city: "BAAR"
+  branch: null
+  swift: GLENCH2Z
+    
+- name: "GLOBAL EQUITY AG"
+  city: "BAAR"
+  branch: null
+  swift: LOOMCHG1
+    
+- name: "GLOBALANCE BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: GLBNCHZZ
+    
+- name: "GLOBALVIEW INVESTMENTS SA"
+  city: "GENEVA"
+  branch: null
+  swift: GLNNCHG1
+    
+- name: "GOLDMAN SACHS BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: GOLDCHZZ
+    
+- name: "GONET ET CIE"
+  city: "GENEVA"
+  branch: null
+  swift: GONECHGG
+    
+- name: "GOTTEX BROKERS S.A."
+  city: "LAUSANNE"
+  branch: null
+  swift: GOBOCH21
+    
+- name: "GOY-HAUVETTE S.A."
+  city: "GENEVA"
+  branch: null
+  swift: GOYECHG1
+    
+- name: "GRAUBUENDNER KANTONALBANK"
+  city: "CHUR"
+  branch: null
+  swift: GRKBCH22
+    
+- name: "GRAUBUENDNER KANTONALBANK"
+  city: "CHUR"
+  branch: null
+  swift: GRKBCH2270A
+    
+- name: "GRAUBUENDNER KANTONALBANK"
+  city: "DAVOS"
+  branch: PLATZ
+  swift: GRKBCH2272D
+    
+- name: "GRAUBUENDNER KANTONALBANK"
+  city: "ST. MORITZ"
+  branch: null
+  swift: GRKBCH2275A
+    
+- name: "GRB GLARNER REGIONALBANK GENOSSENSCHAFT"
+  city: "SCHWANDEN GL"
+  branch: null
+  swift: RBABCH22807
+    
+- name: "GROUND ZERO CAPITAL AG"
+  city: "ZUG"
+  branch: null
+  swift: GRZCCH21
+    
+- name: "GS BANQUE SA"
+  city: "GENEVA"
+  branch: null
+  swift: BQBHCHGG
+    
+- name: "GUESS EUROPE SAGL"
+  city: "BIOGGIO"
+  branch: null
+  swift: GUESCH22
+    
+- name: "GUNVOR SA"
+  city: "GENEVA"
+  branch: null
+  swift: GUNVCHGG
+    
+- name: "GUTZWILLER E. ET CIE BANQUIERS"
+  city: "BASLE"
+  branch: SECURITY DEPARTMENT/NRA
+  swift: GUTZCHBBNRA
+    
+- name: "GUTZWILLER E. ET CIE BANQUIERS"
+  city: "BASLE"
+  branch: null
+  swift: GUTZCHBB
+    
+- name: "HABIB BANK AG ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: HBZUCHZZ
+    
+- name: "HABIBSONS BANK LIMITED"
+  city: "ZURICH"
+  branch: null
+  swift: HBNSCHZ1
+    
+- name: "HABIBSONS BANK LIMITED, LONDON, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: HSBLCHZZ
+    
+- name: "HARDCASTLE TRADING AG"
+  city: "RAPPERSWIL"
+  branch: null
+  swift: HDCTCHZ1
+    
+- name: "HELIOS CAPITAL SA"
+  city: "GENEVA"
+  branch: null
+  swift: HECICHG1
+    
+- name: "HELITING SA"
+  city: "AGNO"
+  branch: null
+  swift: HELTCH22
+    
+- name: "HELVEA SA"
+  city: "GENEVA"
+  branch: null
+  swift: HELECHG1
+    
+- name: "HELVETIA SCHWEIZERISCHE VERSICHERUNGSGESELLSCHAFT AG"
+  city: "ST. GALLEN"
+  branch: null
+  swift: HELNCH22
+    
+- name: "HERCULIS PARTNERS SA"
+  city: "PORRENTRUY"
+  branch: null
+  swift: HERCCH22
+    
+- name: "HEWLETT-PACKARD (SCHWEIZ) GMBH"
+  city: "ZURICH"
+  branch: null
+  swift: HESGCHZ1
+    
+- name: "HEWLETT-PACKARD EUROPE BV"
+  city: "MEYRIN"
+  branch: null
+  swift: HEMBCHG1
+    
+- name: "HEWLETT-PACKARD INTERNATIONAL SARL"
+  city: "MEYRIN"
+  branch: null
+  swift: HEILCHZ1
+    
+- name: "HINDUJA BANK (SWITZERLAND) LTD"
+  city: "GENEVA"
+  branch: null
+  swift: ABSGCHGG
+    
+- name: "HINDUJA BANK (SWITZERLAND) LTD"
+  city: "LUCERNE"
+  branch: LUZERN BRANCH
+  swift: ABSGCHGGLUZ
+    
+- name: "HORNBLOWER FISCHER ZURICH AG"
+  city: "ZURICH"
+  branch: null
+  swift: HOFZCHZ1
+    
+- name: "HOTTINGER AG"
+  city: "ZURICH"
+  branch: null
+  swift: JHOTCHZZ
+    
+- name: "HSBC BANK PLC"
+  city: "ZURICH"
+  branch: null
+  swift: HSBCCHZZ
+    
+- name: "HSBC PRIVATE BANK (SUISSE) SA"
+  city: "GENEVA"
+  branch: CONTINUOUS LINKED SETTLEMENT
+  swift: BLICCHGGCLS
+    
+- name: "HSBC PRIVATE BANK (SUISSE) SA"
+  city: "GENEVA"
+  branch: GENEVA
+  swift: GUYECHZ1GVA
+    
+- name: "HSBC PRIVATE BANK (SUISSE) SA"
+  city: "GENEVA"
+  branch: null
+  swift: BLICCHGG
+    
+- name: "HSBC PRIVATE BANK (SUISSE) SA"
+  city: "LUGANO"
+  branch: LUGANO BRANCH
+  swift: BLICCHGGLUG
+    
+- name: "HSBC PRIVATE BANK (SUISSE) SA"
+  city: "LUGANO"
+  branch: LUGANO
+  swift: GUYECHZ1LUG
+    
+- name: "HSBC PRIVATE BANK (SUISSE) SA"
+  city: "ZURICH"
+  branch: ZURICH BRANCH
+  swift: BLICCHGGZUR
+    
+- name: "HSBC PRIVATE BANK (SUISSE) SA"
+  city: "ZURICH"
+  branch: null
+  swift: GUYECHZ1
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "ST. GALLEN"
+  branch: null
+  swift: RBABCH22VLH
+    
+- name: "HYPOSWISS PRIVATE BANK GENEVE SA"
+  city: "GENEVA"
+  branch: null
+  swift: CCIECHGG
+    
+- name: "HYPOTHEKARBANK LENZBURG AG"
+  city: "DOTTIKON"
+  branch: null
+  swift: HYPLCH2256A
+    
+- name: "HYPOTHEKARBANK LENZBURG AG"
+  city: "LENZBURG"
+  branch: HEAD OFFICE
+  swift: HYPLCH22
+    
+- name: "HYPOTHEKARBANK LENZBURG AG"
+  city: "MEISTERSCHWANDEN"
+  branch: null
+  swift: HYPLCH2256B
+    
+- name: "HYPOTHEKARBANK LENZBURG AG"
+  city: "MELLINGEN"
+  branch: null
+  swift: HYPLCH2255A
+    
+- name: "HYPOTHEKARBANK LENZBURG AG"
+  city: "NIEDERLENZ"
+  branch: null
+  swift: HYPLCH2257A
+    
+- name: "HYPOTHEKARBANK LENZBURG AG"
+  city: "OBERROHRDORF"
+  branch: null
+  swift: HYPLCH2254A
+    
+- name: "HYPOTHEKARBANK LENZBURG AG"
+  city: "RUPPERSWIL"
+  branch: null
+  swift: HYPLCH2251A
+    
+- name: "HYPOTHEKARBANK LENZBURG AG"
+  city: "SEON"
+  branch: null
+  swift: HYPLCH2257B
+    
+- name: "HYPOTHEKARBANK LENZBURG AG"
+  city: "WILDEGG"
+  branch: null
+  swift: HYPLCH2251B
+    
+- name: "IFIT INSTITUTE FOR INNOVATIVE TRADING AG"
+  city: "ZURICH"
+  branch: null
+  swift: IFITCHZ1
+    
+- name: "IFP INTERMONEY FINANCIAL PRODUCTS SA"
+  city: "PULLY"
+  branch: null
+  swift: IIFPCH21
+    
+- name: "IFP INTERMONEY FINANCIAL PRODUCTS SA"
+  city: "PULLY"
+  branch: null
+  swift: IIFPCH21TG2
+    
+- name: "IG BANK S.A."
+  city: "GENEVA"
+  branch: null
+  swift: IGBKCHGG
+    
+- name: "IKEA SUPPLY AG"
+  city: "PRATTELN"
+  branch: null
+  swift: IKESCH2P
+    
+- name: "IMAC SA"
+  city: "FRIBOURG"
+  branch: null
+  swift: IACCCH21
+    
+- name: "IMC TRADING BV"
+  city: "ZUG"
+  branch: ATG DESK ZUG
+  swift: IMCBCH21ATG
+    
+- name: "IMC TRADING BV"
+  city: "ZUG"
+  branch: SWISS BRANCH
+  swift: IMCBCH21SAG
+    
+- name: "IMC TRADING BV"
+  city: "ZUG"
+  branch: null
+  swift: IMCBCH21
+    
+- name: "INCORE BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: INCOCHZZ
+    
+- name: "INDEX FINANCIAL SERVICES AG"
+  city: "ZURICH"
+  branch: null
+  swift: IFGECHZ1
+    
+- name: "INDUSTRIAL AND COMMERCIAL TRUST AG"
+  city: "ALPNACH"
+  branch: null
+  swift: IDCTCH21
+    
+- name: "INFRONT SPORTS AND MEDIA AG"
+  city: "ZUG"
+  branch: null
+  swift: INFTCH22
+    
+- name: "ING BELGIUM, BRUSSELS, GENEVA BRANCH"
+  city: "GENEVA"
+  branch: null
+  swift: BBRUCHGT
+    
+- name: "INSTINET (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: ISNTCHZ1
+    
+- name: "INTERCAPITAL CMS (SWITZERLAND) LTD."
+  city: "ZURICH"
+  branch: null
+  swift: ASPECHZ1
+    
+- name: "INTERHOERBIGER FINANZ AG"
+  city: "ZUG"
+  branch: null
+  swift: INFZCH22
+    
+- name: "INTERNATIONAL ORGANIZATION FOR MIGRATION"
+  city: "GENEVA"
+  branch: null
+  swift: IOMICHGG
+    
+- name: "INTEROGO HOLDING AG"
+  city: "PFAEFFIKON"
+  branch: null
+  swift: INHICH21
+    
+- name: "INTESA SANPAOLO PRIVATE BANK (SUISSE) S.A."
+  city: "LUGANO"
+  branch: null
+  swift: SPCHCHGG
+    
+- name: "INVESTAS AG"
+  city: "BERNE"
+  branch: null
+  swift: IVTACH22
+    
+- name: "INVESTEC BANK (SWITZERLAND) AG"
+  city: "ZURICH"
+  branch: null
+  swift: IVESCHZZ
+    
+- name: "INVESTOR GESTION SA"
+  city: "GENEVA"
+  branch: null
+  swift: IVGECH21
+    
+- name: "INVESTOR GESTION SA"
+  city: "GENEVA"
+  branch: null
+  swift: IVGECHG1
+    
+- name: "IPCO TRADING SA"
+  city: "GENEVA"
+  branch: null
+  swift: IPTRCHG1
+    
+- name: "ISKANDIA SERVICES SA"
+  city: "GENEVA"
+  branch: null
+  swift: ISSRCHG1
+    
+- name: "ISP SECURITIES AG"
+  city: "ZURICH"
+  branch: null
+  swift: PLESCHZZ
+    
+- name: "ITF INTERNATIONAL TRANSPORT FINANCE SUISSE AG"
+  city: "ZURICH"
+  branch: null
+  swift: DVKBCHZ1
+    
+- name: "J.P. MORGAN (SUISSE) S.A"
+  city: "GENEVA"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: MGTCCHZZENQ
+    
+- name: "J.P. MORGAN (SUISSE) S.A"
+  city: "GENEVA"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: MGTCCHZZKEY
+    
+- name: "J.P. MORGAN (SUISSE) S.A"
+  city: "ZURICH"
+  branch: null
+  swift: MGTCCHZZ
+    
+- name: "J.P. MORGAN (SUISSE) S.A."
+  city: "GENEVA"
+  branch: MOM DEPARTMENT
+  swift: MGTCCHGGMOM
+    
+- name: "J.P. MORGAN (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: MGTCCHGG
+    
+- name: "J.P. MORGAN COMMODITIES SARL"
+  city: "GENEVA"
+  branch: null
+  swift: CHASCH21
+    
+- name: "JACQUES UFFER GESTION FORTUNE SA"
+  city: "ZURICH"
+  branch: null
+  swift: JUGFCHZ1
+    
+- name: "JL SECURITIES SA"
+  city: "GENEVA"
+  branch: null
+  swift: JLSECHGG
+    
+- name: "JPMORGAN CHASE BANK, N.A."
+  city: "ZURICH"
+  branch: null
+  swift: CHASCHGX
+    
+- name: "KABA MANAGEMENT AG"
+  city: "ZURICH"
+  branch: null
+  swift: KAMTCHZZ
+    
+- name: "KEANE MATHEZ AND CIE"
+  city: "GENEVA"
+  branch: null
+  swift: KEMACHG1
+    
+- name: "KEPLER EQUITIES, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: JBBRCHZ1
+    
+- name: "KEPLER SERVICES SA"
+  city: "EYSINS"
+  branch: null
+  swift: KECHCH22
+    
+- name: "KHB FINANZ AG"
+  city: "LUCERNE"
+  branch: null
+  swift: KHZUCHZ1
+    
+- name: "KHD HOLDING AG"
+  city: "ZUG"
+  branch: null
+  swift: ROBBCHZ1
+    
+- name: "KOCE INTERNATIONAL"
+  city: "FREIBURG"
+  branch: null
+  swift: KOCECH21
+    
+- name: "KREDITANSTALT GRABS"
+  city: "GRABS"
+  branch: null
+  swift: KGRACH21
+    
+- name: "KUDELSKI SA"
+  city: "CHESEAUX-SUR-LAUSANNE"
+  branch: null
+  swift: KUDLCH22
+    
+- name: "KUHNE + NAGEL MANAGEMENT AG"
+  city: "SCHINDELLEGI"
+  branch: null
+  swift: KUNACH22
+    
+- name: "LA COMPAGNIE BENJAMIN DE ROTHSCHILD SA"
+  city: "GENEVA"
+  branch: null
+  swift: CTBRCHG1
+    
+- name: "LA COMPAGNIE BENJAMIN DE ROTHSCHILD SA"
+  city: "GENEVA"
+  branch: null
+  swift: CTBRCHGA
+    
+- name: "LAKEFIELD PARTNERS AG"
+  city: "ZURICH"
+  branch: null
+  swift: LAARCHZ1
+    
+- name: "LAMBDA CAPITAL GROUP"
+  city: "ZURICH"
+  branch: null
+  swift: LACGCHZ1
+    
+- name: "LANDOLT ET CIE SA"
+  city: "LAUSANNE"
+  branch: null
+  swift: LANBCH2L
+    
+- name: "LBBW (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: LBSHCHZ1
+    
+- name: "LEIHKASSE STAMMHEIM AG"
+  city: "OBERSTAMMHEIM"
+  branch: null
+  swift: RBABCH22875
+    
+- name: "LEMANIK S.A."
+  city: "LUGANO"
+  branch: null
+  swift: LEMACH22
+    
+- name: "LEMANIK S.A."
+  city: "LUGANO"
+  branch: null
+  swift: LEMACHA1
+    
+- name: "LEONTEQ SECURITIES AG"
+  city: "ZURICH"
+  branch: null
+  swift: EFGFCHZZ
+    
+- name: "LEONTEQ SECURITIES AG"
+  city: "ZURICH"
+  branch: null
+  swift: EFGFCHZZGUN
+    
+- name: "LES FILS DREYFUS ET CIE SA, BANQUIERS"
+  city: "BASLE"
+  branch: null
+  swift: DREYCHBB
+    
+- name: "LEVEL 2 TRADING LTD."
+  city: "BAAR"
+  branch: null
+  swift: LETRCH21
+    
+- name: "LF FINANCE (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: LFFSCHGG
+    
+- name: "LGT BANK (SCHWEIZ) AG"
+  city: "BASLE"
+  branch: null
+  swift: BLFLCHBB
+    
+- name: "LIA OIL SA"
+  city: "GENEVA"
+  branch: null
+  swift: LIAOCHG1
+    
+- name: "LIENHARDT AND PARTNER PRIVATBANK ZURICH AG"
+  city: "ZURICH"
+  branch: null
+  swift: RBABCH22830
+    
+- name: "LIFEWARE SA"
+  city: "BIOGGIO"
+  branch: null
+  swift: LFWRCH22
+    
+- name: "LITASCO SA"
+  city: "GENEVA"
+  branch: null
+  swift: LITICHG1
+    
+- name: "L'OCCITANE INTERNATIONAL SA,LUXEMBOURG, SUCCURSALE DE PLAN-LES-OUATES"
+  city: "PLAN-LES-OUATES"
+  branch: null
+  swift: LOCCCHGG
+    
+- name: "LOGITECH EUROPE SA"
+  city: "MORGES"
+  branch: null
+  swift: LOGNCH2B
+    
+- name: "LOMBARD ODIER ASSET MANAGEMENT (SWITZERLAND) SA"
+  city: "PETIT-LANCY"
+  branch: null
+  swift: LOAMCHGG
+    
+- name: "LONGBOW FINANCE SA"
+  city: "LUTRY"
+  branch: null
+  swift: LGBWCH22
+    
+- name: "LONGBOW FINANCE SA"
+  city: "LUTRY"
+  branch: null
+  swift: LGBWCH22JFK
+    
+- name: "LOOMIS INTERNATIONAL CORPORATE AG"
+  city: "KLOTEN"
+  branch: null
+  swift: VIMMCHZZ
+    
+- name: "LOUIS DREYFUS COMPANY SUISSE S.A."
+  city: "GENEVA"
+  branch: null
+  swift: LDRCCHGE
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "BEROMUENSTER"
+  branch: null
+  swift: LUKBCH2262D
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "EBIKON"
+  branch: null
+  swift: LUKBCH2260K
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "EMMENBRUECKE"
+  branch: null
+  swift: LUKBCH2260G
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "ESCHENBACH"
+  branch: null
+  swift: LUKBCH2262K
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "HITZKIRCH"
+  branch: null
+  swift: LUKBCH2262M
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "HOCHDORF"
+  branch: null
+  swift: LUKBCH2262L
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "HORW"
+  branch: null
+  swift: LUKBCH2260M
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "KRIENS"
+  branch: null
+  swift: LUKBCH2260F
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "LITTAU"
+  branch: null
+  swift: LUKBCH2260S
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "LUCERNE"
+  branch: BRANCH
+  swift: LUKBCH2260B
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "LUCERNE"
+  branch: HEAD OFFICE
+  swift: LUKBCH2260A
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "LUCERNE"
+  branch: LUZERN BRANCH
+  swift: LUKBCH22
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "MEGGEN"
+  branch: null
+  swift: LUKBCH2260L
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "REIDEN"
+  branch: null
+  swift: LUKBCH2262H
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "ROOT"
+  branch: null
+  swift: LUKBCH2260T
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "ROTHENBURG"
+  branch: null
+  swift: LUKBCH2260U
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "RUSWIL"
+  branch: null
+  swift: LUKBCH2260V
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "SCHUEPFHEIM"
+  branch: null
+  swift: LUKBCH2261F
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "SEMPACH"
+  branch: null
+  swift: LUKBCH2262A
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "SOERENBERG"
+  branch: null
+  swift: LUKBCH2261H
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "SURSEE"
+  branch: null
+  swift: LUKBCH2262C
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "WEGGIS"
+  branch: null
+  swift: LUKBCH2263W
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "WILLISAU"
+  branch: null
+  swift: LUKBCH2261C
+    
+- name: "LUZERNER KANTONALBANK"
+  city: "WOLHUSEN"
+  branch: null
+  swift: LUKBCH2261B
+    
+- name: "M.M. WARBURG BANK (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: WBWCCHZZ
+    
+- name: "MAERKI BAUMANN UND CO. AG"
+  city: "ZURICH"
+  branch: null
+  swift: MAEBCHZZ
+    
+- name: "MAG ASSET MANAGEMENT SA"
+  city: "GENEVA"
+  branch: null
+  swift: MGANCHG1
+    
+- name: "MAGNATE PREMIER SWISS TRUST AND DEPOSITORY AG"
+  city: "ZURICH"
+  branch: null
+  swift: MPSTCHZ1
+    
+- name: "MARCH RICH AND CO."
+  city: "ZURICH"
+  branch: null
+  swift: MARRCHZ1
+    
+- name: "MARIAUX CHEVRE DE RAEMY ET CIE"
+  city: "GENEVA"
+  branch: null
+  swift: MAHMCHG1
+    
+- name: "MARKANT FINANZ AG"
+  city: "BASLE"
+  branch: null
+  swift: LEFICHB1
+    
+- name: "MAZAL SA"
+  city: "GENEVA"
+  branch: null
+  swift: MAZACHG1
+    
+- name: "MBS CAPITAL ADVICE SA"
+  city: "GENEVA"
+  branch: null
+  swift: MBSCCHG1
+    
+- name: "MECHEL CARBON AG"
+  city: "BAAR"
+  branch: null
+  swift: MEBRCH21
+    
+- name: "MEDIBANK"
+  city: "ZUG"
+  branch: null
+  swift: MEDKCH21
+    
+- name: "MEDIGEST SA"
+  city: "LUGANO"
+  branch: null
+  swift: MEGGCH21
+    
+- name: "MERCANTIL BANK (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: BAMRCHZZ
+    
+- name: "MERCURIA ENERGY TRADING SA"
+  city: "GENEVA"
+  branch: null
+  swift: MERCCHGG
+    
+- name: "MERRILL LYNCH CAPITAL MARKETS AG"
+  city: "ZURICH"
+  branch: null
+  swift: MLCMCHZH
+    
+- name: "METALOR TECHNOLOGIES SA"
+  city: "NEUCHATEL"
+  branch: null
+  swift: METACH22
+    
+- name: "METINVEST INTERNATIONAL S.A."
+  city: "GENEVA"
+  branch: null
+  swift: METVCHG1
+    
+- name: "MIAG C.V. AMSTERDAM NL, BRANCH BAAR"
+  city: "BAAR"
+  branch: null
+  swift: MIAGCH22
+    
+- name: "MIGROS BANK"
+  city: "AARAU"
+  branch: null
+  swift: MIGRCHZZ50A
+    
+- name: "MIGROS BANK"
+  city: "BASLE"
+  branch: null
+  swift: MIGRCHZZ40A
+    
+- name: "MIGROS BANK"
+  city: "BERNE"
+  branch: null
+  swift: MIGRCHZZ30A
+    
+- name: "MIGROS BANK"
+  city: "FRIBOURG"
+  branch: null
+  swift: MIGRCHZZ17A
+    
+- name: "MIGROS BANK"
+  city: "GENEVA"
+  branch: null
+  swift: MIGRCHZZ12A
+    
+- name: "MIGROS BANK"
+  city: "LAUSANNE"
+  branch: null
+  swift: MIGRCHZZ10A
+    
+- name: "MIGROS BANK"
+  city: "LUCERNE"
+  branch: null
+  swift: MIGRCHZZ60A
+    
+- name: "MIGROS BANK"
+  city: "LUGANO"
+  branch: null
+  swift: MIGRCHZZ69A
+    
+- name: "MIGROS BANK"
+  city: "SION/SITTEN"
+  branch: null
+  swift: MIGRCHZZ19A
+    
+- name: "MIGROS BANK"
+  city: "ST. GALLEN"
+  branch: null
+  swift: MIGRCHZZ90A
+    
+- name: "MIGROS BANK"
+  city: "WALLISELLEN"
+  branch: S.W.I.F.T. ADMINISTRATION
+  swift: MIGRCHZZKEY
+    
+- name: "MIGROS BANK"
+  city: "WINTERTHUR"
+  branch: null
+  swift: MIGRCHZZ84A
+    
+- name: "MIGROS BANK"
+  city: "ZURICH"
+  branch: BACK OFFICE
+  swift: MIGRCHZZ80A
+    
+- name: "MIGROS BANK"
+  city: "ZURICH"
+  branch: null
+  swift: MIGRCHZZ
+    
+- name: "MIGROS-GENOSSENSCHAFTS-BUND"
+  city: "ZURICH"
+  branch: null
+  swift: MGBZCHZ1
+    
+- name: "MIRABAUD AND CIE SA"
+  city: "GENEVA"
+  branch: INSTITUTIONNELLE
+  swift: MIRACHGGINS
+    
+- name: "MIRABAUD AND CIE SA"
+  city: "GENEVA"
+  branch: null
+  swift: MIRACHGG
+    
+- name: "MIRABAUD ASSET MANAGEMENT (SUISSE) SA"
+  city: "GENEVA"
+  branch: null
+  swift: MIRMCHGG
+    
+- name: "MIRELIS INVESTRUST SA"
+  city: "GENEVA"
+  branch: null
+  swift: MIIUCHG1
+    
+- name: "MITSUBISHI UFJ WEALTH MANAGEMENT BANK (SWITZERLAND)"
+  city: "GENEVA"
+  branch: null
+  swift: MUWMCHGG
+    
+- name: "MIZUHO BANK (SWITZERLAND) LTD."
+  city: "ZURICH"
+  branch: null
+  swift: MHSCCHZZ
+    
+- name: "MKS (SWITZERLAND) SA"
+  city: "GENEVA"
+  branch: null
+  swift: MKSGCHGG
+    
+- name: "MOMENTUM ALTERNATIVE INVESTMENTS SA"
+  city: "MASSAGNO"
+  branch: null
+  swift: MOMTCH22
+    
+- name: "MONAVAL FINANZ AG"
+  city: "ZURICH"
+  branch: null
+  swift: MONFCHZ1
+    
+- name: "MONDO TV SUISSE SA"
+  city: "LUGANO"
+  branch: null
+  swift: MOUICH21
+    
+- name: "MONT-BLANC P.B. SA"
+  city: "GENEVA"
+  branch: null
+  swift: MBPBCHG1
+    
+- name: "MOURGUE D'ALGUE ET CIE"
+  city: "GENEVA"
+  branch: null
+  swift: MOALCHGG
+    
+- name: "MOVE WEALTH MANAGEMENT AG"
+  city: "BAAR"
+  branch: null
+  swift: MOWACH21
+    
+- name: "MULTI TRADING (IRELAND) LIMITED"
+  city: "GENEVA"
+  branch: null
+  swift: MUTRCHG1
+    
+- name: "MULTIPLUS FINANCE SA"
+  city: "GENEVA"
+  branch: null
+  swift: MUFECHG1
+    
+- name: "MULTIVAC EXPORT AG"
+  city: "HUENENBERG"
+  branch: null
+  swift: MUEPCH22
+    
+- name: "NADRO INVESTMENTS SA"
+  city: "GENEVA"
+  branch: null
+  swift: MAIVCHG1
+    
+- name: "NAFTIRAN INTERTRADE CO. (NICO) SARL"
+  city: "PULLY"
+  branch: null
+  swift: NICOCH21
+    
+- name: "NBAD PRIVATE BANK (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: NBPSCHGG
+    
+- name: "NBK BANQUE PRIVEE (SUISSE) S.A."
+  city: "GENEVA"
+  branch: null
+  swift: NBOKCHGG
+    
+- name: "NESBITT BURNS INC."
+  city: "GENEVA"
+  branch: null
+  swift: BUFLCHG1
+    
+- name: "NESTLE S.A."
+  city: "VEVEY"
+  branch: null
+  swift: NESNCH22
+    
+- name: "NEUE AARGAUER BANK AG"
+  city: "AARAU"
+  branch: null
+  swift: AHHBCH22
+    
+- name: "NEUE AARGAUER BANK AG"
+  city: "LENZBURG"
+  branch: BAHNHOFPLATZ
+  swift: AHHBCH2256A
+    
+- name: "NEUE AARGAUER BANK AG"
+  city: "SPREITENBACH"
+  branch: SHOPPING CENTER
+  swift: AHHBCH2289F
+    
+- name: "NEUE AARGAUER BANK AG"
+  city: "WETTINGEN"
+  branch: LANDSTRASSE
+  swift: AHHBCH2254C
+    
+- name: "NEUE HELVETISCHE BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: SFBFCH22
+    
+- name: "NEUE PRIVAT BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: NEPICHZ1
+    
+- name: "NEUE PRIVAT BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: NEPICHZZ
+    
+- name: "NEWEDGE GROUP (ZURICH ERP OFFICE)"
+  city: "ZURICH"
+  branch: null
+  swift: NEWGCHZ1
+    
+- name: "NIDWALDNER KANTONALBANK"
+  city: "STANS"
+  branch: null
+  swift: NIKACH22
+    
+- name: "NOKIA CORPORATION"
+  city: "GENEVA"
+  branch: null
+  swift: NOKFCHGG
+    
+- name: "NOKIA SIEMENS NETWORKS FINANCE B.V. SUCCURSALE DE LANCY"
+  city: "PETIT-LANCY"
+  branch: null
+  swift: NSNFCHG1
+    
+- name: "NOMURA BANK (SWITZERLAND) LTD."
+  city: "ZURICH"
+  branch: null
+  swift: NBSZCHZZ
+    
+- name: "NORDEA BANK S.A., LUXEMBURG, ZWEIGNIEDERLASSUNG, ZUERICH."
+  city: "ZURICH"
+  branch: null
+  swift: NDEACHZZ
+    
+- name: "NORDOSTSCHWEIZERISCHE KRAFTWERKE AG"
+  city: "BADEN"
+  branch: null
+  swift: NOKRCH21
+    
+- name: "NORTHERN TRUST SWITZERLAND AG"
+  city: "BASLE"
+  branch: null
+  swift: UBSFCHBS
+    
+- name: "NOTENSTEIN LA ROCHE PRIVATBANK AG"
+  city: "ST. GALLEN"
+  branch: null
+  swift: WEGECH2G
+    
+- name: "NOVA MARINE CARRIERS S.A."
+  city: "LUGANO"
+  branch: null
+  swift: NOVACH2L
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: APICA STIFTUNG
+  swift: NOVRCHBS164
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: EDUARD SANDOZ STIFTUNG
+  swift: NOVRCHBS17B
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: GADIENT ENGI STIFTUNG
+  swift: NOVRCHBS165
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: NOVARTIS BIOVENTURES AG
+  swift: NOVRCHBS246
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: NOVARTIS INTERNATIONAL AG
+  swift: NOVRCHBS010
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: NOVARTIS INTL PHARMACEUTICAL INVESTMENT AG
+  swift: NOVRCHBS247
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: NOVARTIS STIFTUNG
+  swift: NOVRCHBS171
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: OVERSEAS INVESTMENTS
+  swift: NOVRCHBS077
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: SANIERUNGSSTIFTUNG
+  swift: NOVRCHBSSAN
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: STIFTUNG FUR ERZIEHUNG, AUSBILDUNG UND BILDUNG
+  swift: NOVRCHBS174
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: STIFTUNG FUR MENSCH UND UMWELT
+  swift: NOVRCHBSMUU
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: STIFTUNG NACHHALTIGE ENTWICKLUNG
+  swift: NOVRCHBS169
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS009
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS024
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS028
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS071
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS078
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS080
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS093
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS097
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS099
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS162
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS175
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBS243
+    
+- name: "NOVARTIS AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBSWFS
+    
+- name: "NOVARTIS AG"
+  city: "BERNE"
+  branch: null
+  swift: NOVRCHBS018
+    
+- name: "NOVARTIS AG"
+  city: "CHAM"
+  branch: null
+  swift: NOVRCHBS115
+    
+- name: "NOVARTIS AG"
+  city: "EMBRACH"
+  branch: null
+  swift: NOVRCHBS106
+    
+- name: "NOVARTIS AG"
+  city: "EMBRACH"
+  branch: null
+  swift: NOVRCHBS108
+    
+- name: "NOVARTIS AG"
+  city: "FRIBOURG"
+  branch: null
+  swift: NOVRCHBS220
+    
+- name: "NOVARTIS AG"
+  city: "LIESTAL"
+  branch: null
+  swift: NOVRCHBS056
+    
+- name: "NOVARTIS AG"
+  city: "LOCARNO"
+  branch: null
+  swift: NOVRCHBS017
+    
+- name: "NOVARTIS AG"
+  city: "MEYRIN"
+  branch: null
+  swift: NOVRCHBS222
+    
+- name: "NOVARTIS AG"
+  city: "MUTTENZ"
+  branch: null
+  swift: NOVRCHBS049
+    
+- name: "NOVARTIS AG"
+  city: "ROTKREUZ"
+  branch: null
+  swift: NOVRCHBS191
+    
+- name: "NOVARTIS AG"
+  city: "ROTKREUZ"
+  branch: null
+  swift: NOVRCHBS192
+    
+- name: "NOVARTIS AG"
+  city: "ROTKREUZ"
+  branch: null
+  swift: NOVRCHBS224
+    
+- name: "NOVARTIS AG"
+  city: "SCHAFFHAUSEN"
+  branch: null
+  swift: NOVRCHBS223
+    
+- name: "NOVARTIS AG"
+  city: "SCHLIEREN"
+  branch: ESBATECH
+  swift: NOVRCHBS128
+    
+- name: "NOVARTIS AG"
+  city: "SCHWEIZERHALLE"
+  branch: null
+  swift: NOVRCHBS069
+    
+- name: "NOVARTIS AG"
+  city: "STEIN (AG)"
+  branch: null
+  swift: NOVRCHBS046
+    
+- name: "NOVARTIS AG"
+  city: "ZUG"
+  branch: EIOLA AG
+  swift: NOVRCHBS218
+    
+- name: "NOVARTIS HOLDING AG"
+  city: "BASLE"
+  branch: null
+  swift: NOVRCHBH
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "BASLE"
+  branch: CALLINVEST B
+  swift: PKNOCHBSKYB
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "BASLE"
+  branch: CALLINVEST SPC
+  swift: PKNOCHBSKYX
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "BASLE"
+  branch: null
+  swift: PKNOCHBS
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "BASLE"
+  branch: null
+  swift: PKNOCHBSKNX
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "BASLE"
+  branch: null
+  swift: PKNOCHBSWFX
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "ZURICH"
+  branch: NOVARTIS POOLING FUND BONDS CHF
+  swift: PKNOCHBSBCH
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "ZURICH"
+  branch: NOVARTIS POOLING FUND BONDS WORLD
+  swift: PKNOCHBSBFW
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "ZURICH"
+  branch: NOVARTIS POOLING FUND EQUITIES EMERGING MARKETS
+  swift: PKNOCHBSEEM
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "ZURICH"
+  branch: null
+  swift: PKNOCHBSEFW
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "ZURICH"
+  branch: null
+  swift: PKNOCHBSEUP
+    
+- name: "NOVARTIS PENSIONSKASSE"
+  city: "ZURICH"
+  branch: null
+  swift: PKNOCHBSEUS
+    
+- name: "NYRSTAR FINANCE INTERNATIONAL AG"
+  city: "ZURICH"
+  branch: null
+  swift: NYRSCHZZ
+    
+- name: "OBWALDNER KANTONALBANK"
+  city: "SARNEN"
+  branch: null
+  swift: OBWKCH22
+    
+- name: "OC OERLIKON CORPORATION AG, PFAEFFIKON"
+  city: "PFAEFFIKON"
+  branch: null
+  swift: OERLCH2P
+    
+- name: "OCTOGONE GESTION SA"
+  city: "GENEVA"
+  branch: null
+  swift: OCGECHG1
+    
+- name: "OLZ PARTNERS ASSET AND LIABILITY MGT"
+  city: "BERNE"
+  branch: null
+  swift: OPALCH21
+    
+- name: "OMYA SCHWEIZ AG"
+  city: "OFTRINGEN"
+  branch: null
+  swift: OMYACH22
+    
+- name: "OPTIMA ENERGY SA"
+  city: "GENEVA"
+  branch: null
+  swift: OPERCHG1
+    
+- name: "PABA FINANCE LTD"
+  city: "ZURICH"
+  branch: null
+  swift: PABFCHZ1
+    
+- name: "PADELLA AG"
+  city: "SAMEDAN"
+  branch: null
+  swift: OERICHB1
+    
+- name: "PANALPINA WELTTRANSPORT (HOLDING) AG"
+  city: "BASLE"
+  branch: null
+  swift: PANPCHBS
+    
+- name: "PARSUMO CAPITAL AG"
+  city: "ZURICH"
+  branch: null
+  swift: PARPCHZ1
+    
+- name: "PARTNERS GROUP AG"
+  city: "BAAR"
+  branch: CORPORATE FINANCE
+  swift: PGHNCH2BGRP
+    
+- name: "PARTNERS GROUP AG"
+  city: "BAAR"
+  branch: null
+  swift: PGHNCH2B
+    
+- name: "PBZ PRIVATBANK ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: PRVECHZ1
+    
+- name: "PENTAGRAM SA"
+  city: "LUGANO PAZZALLO"
+  branch: null
+  swift: PENACH21
+    
+- name: "PHILIP MORRIS FINANCE SA"
+  city: "LAUSANNE"
+  branch: null
+  swift: PMIFCH2L
+    
+- name: "PICTET ASSET MANAGEMENT"
+  city: "GENEVA"
+  branch: null
+  swift: PIAACHG1
+    
+- name: "PICTET SECURITIES AG"
+  city: "ZURICH"
+  branch: null
+  swift: PICTCHZ1
+    
+- name: "PIGUET GALLAND ET CIE SA (EX BANQUE PIGUET ET CIE SA)"
+  city: "YVERDON-LES-BAINS"
+  branch: null
+  swift: PIGUCH22
+    
+- name: "PKB PRIVATBANK AG"
+  city: "GENEVA"
+  branch: null
+  swift: PKBSCH2212A
+    
+- name: "PKB PRIVATBANK AG"
+  city: "LUGANO"
+  branch: KEY OFFICE
+  swift: PKBSCH22KEY
+    
+- name: "PKB PRIVATBANK AG"
+  city: "LUGANO"
+  branch: LUGANO BRANCH
+  swift: PKBSCH2269A
+    
+- name: "PKB PRIVATBANK AG"
+  city: "LUGANO"
+  branch: null
+  swift: PKBSCH22
+    
+- name: "PKB PRIVATBANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: PKBSCH2280A
+    
+- name: "PLATE-FORME SODI ALBERT GOS"
+  city: "GENEVA"
+  branch: null
+  swift: PSAOCHG1
+    
+- name: "PLATFORM SALES SUISSE GMBH"
+  city: "LUZERN"
+  branch: null
+  swift: PLSGCH22
+    
+- name: "POSTFINANCE AG"
+  city: "BERNE"
+  branch: null
+  swift: POFICHBE
+    
+- name: "PREMIERE SWISS TRUST AG"
+  city: "ZURICH"
+  branch: null
+  swift: PSTUCHZ1
+    
+- name: "PRIVATBANK BELLERIVE AG"
+  city: "ZURICH"
+  branch: null
+  swift: PRBECHZZ
+    
+- name: "PRIVATBANK IHAG ZUERICH"
+  city: "ZURICH"
+  branch: null
+  swift: IHZUCHZZ
+    
+- name: "PRIVATBANK VON GRAFFENRIED AG"
+  city: "BERNE"
+  branch: null
+  swift: GRAFCH22
+    
+- name: "PRIVATE FINANCIAL MANAGEMENT"
+  city: "GENEVA"
+  branch: null
+  swift: PRFGCHG1
+    
+- name: "PSA INTERNATIONAL S.A."
+  city: "GENEVA"
+  branch: null
+  swift: PSAICHGG
+    
+- name: "PSA INTERNATIONAL S.A."
+  city: "GENEVA"
+  branch: null
+  swift: PSAICHGGPCA
+    
+- name: "QNB BANQUE PRIVEE (SUISSE) SA"
+  city: "GENEVA"
+  branch: null
+  swift: QNBACHGG
+    
+- name: "QUEST INTERNATIONAL TRADING SA"
+  city: "GENEVA"
+  branch: null
+  swift: QUIDCHG1
+    
+- name: "QUESTES"
+  city: "GENEVA"
+  branch: null
+  swift: QUESCHG1
+    
+- name: "QUILVEST SWITZERLAND LTD."
+  city: "ZURICH"
+  branch: null
+  swift: QVCHCHZH
+    
+- name: "RAHN+BODMER CO."
+  city: "ZURICH"
+  branch: null
+  swift: RAHNCHZZ
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "AADORF"
+  branch: null
+  swift: RAIFCH22D77
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "AARAU"
+  branch: null
+  swift: RAIFCH22698
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ABTWIL AG"
+  branch: null
+  swift: RAIFCH22670
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ABTWIL SG"
+  branch: null
+  swift: RAIFCH22C41
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ADLIGENSWIL"
+  branch: null
+  swift: RAIFCH22B68
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "AESCH"
+  branch: null
+  swift: RAIFCH22779
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "AESCHI"
+  branch: null
+  swift: RAIFCH22928
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "AIGLE"
+  branch: null
+  swift: RAIFCH22447
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ALLSCHWIL"
+  branch: null
+  swift: RAIFCH22775
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ALTDORF"
+  branch: null
+  swift: RAIFCH22E31
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ALTNAU"
+  branch: null
+  swift: RAIFCH22D71
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ALTSTAETTEN (SG)"
+  branch: null
+  swift: RAIFCH22C97
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "AMRISWIL"
+  branch: null
+  swift: RAIFCH22D73
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ANDWIL"
+  branch: null
+  swift: RAIFCH22C53
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "APPENZELL"
+  branch: null
+  swift: RAIFCH22A23
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ARLESHEIM"
+  branch: null
+  swift: RAIFCH22776
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ASSENS"
+  branch: null
+  swift: RAIFCH22414
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "AUW"
+  branch: null
+  swift: RAIFCH22651
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BAAR"
+  branch: null
+  swift: RAIFCH22E54
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BALSTHAL"
+  branch: null
+  swift: RAIFCH22930
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BASLE"
+  branch: null
+  swift: RAIFCH22E86
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BASSE-NENDAZ"
+  branch: null
+  swift: RAIFCH22577
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BEINWIL"
+  branch: null
+  swift: RAIFCH22669
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BELFAUX"
+  branch: null
+  swift: RAIFCH22102
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BELLINZONA"
+  branch: null
+  swift: RAIFCH22387
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BELP"
+  branch: null
+  swift: RAIFCH22098
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BENKEN"
+  branch: null
+  swift: RAIFCH22C56
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BERNE"
+  branch: null
+  swift: RAIFCH22E88
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BERNECK"
+  branch: null
+  swift: RAIFCH22C58
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BERNEX"
+  branch: null
+  swift: RAIFCH22181
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BERNHARDZELL"
+  branch: null
+  swift: RAIFCH22C59
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BEROMUENSTER"
+  branch: null
+  swift: RAIFCH22B70
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BEVILARD"
+  branch: null
+  swift: RAIFCH22051
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BEVILARD"
+  branch: null
+  swift: RAIFCH22093
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BIASCA"
+  branch: null
+  swift: RAIFCH22350
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BIASCA"
+  branch: null
+  swift: RAIFCH22382
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BIBERIST"
+  branch: null
+  swift: RAIFCH22933
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BICHELSEE"
+  branch: null
+  swift: RAIFCH22D78
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BIEL (BIENNE)"
+  branch: null
+  swift: RAIFCH22833
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BIGLEN"
+  branch: null
+  swift: RAIFCH22094
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BIOGGIO"
+  branch: null
+  swift: RAIFCH22307
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BITSCH"
+  branch: null
+  swift: RAIFCH22492
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BONCOURT"
+  branch: null
+  swift: RAIFCH22015
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BOSWIL"
+  branch: null
+  swift: RAIFCH22675
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BOWIL"
+  branch: null
+  swift: RAIFCH22811
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BREGANZONA"
+  branch: null
+  swift: RAIFCH22384
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BREIL"
+  branch: null
+  swift: RAIFCH22B37
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BRUNNEN"
+  branch: null
+  swift: RAIFCH22D58
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BUCHS SG"
+  branch: null
+  swift: RAIFCH22C51
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BUELACH"
+  branch: null
+  swift: RAIFCH22E75
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BUERCHEN"
+  branch: null
+  swift: RAIFCH22493
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BUERGLEN"
+  branch: null
+  swift: RAIFCH22E32
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BUETSCHWIL"
+  branch: null
+  swift: RAIFCH22C61
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BUOCHS"
+  branch: null
+  swift: RAIFCH22C22
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BURGDORF"
+  branch: null
+  swift: RAIFCH22888
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "BUTTISHOLZ"
+  branch: null
+  swift: RAIFCH22B72
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CAMORINO"
+  branch: null
+  swift: RAIFCH22313
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CANOBBIO"
+  branch: null
+  swift: RAIFCH22315
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CASLANO"
+  branch: null
+  swift: RAIFCH22317
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CAZIS"
+  branch: null
+  swift: RAIFCH22A63
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CHALAIS"
+  branch: null
+  swift: RAIFCH22584
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CHAM"
+  branch: null
+  swift: RAIFCH22E55
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CHARMEY"
+  branch: null
+  swift: RAIFCH22117
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CHATEAU-D OEX"
+  branch: null
+  swift: RAIFCH22428
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CHENE-BOURG"
+  branch: null
+  swift: RAIFCH22188
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CHERMIGNON"
+  branch: null
+  swift: RAIFCH22615
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CHIASSO"
+  branch: null
+  swift: RAIFCH22272
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "COFFRANE"
+  branch: null
+  swift: RAIFCH22251
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "COLDRERIO"
+  branch: null
+  swift: RAIFCH22322
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CONTHEY"
+  branch: null
+  swift: RAIFCH22589
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CONTONE"
+  branch: null
+  swift: RAIFCH22324
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CORSIER-SUR-VEVEY"
+  branch: null
+  swift: RAIFCH22430
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "COURFAIVRE"
+  branch: null
+  swift: RAIFCH22004
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "CUGNASCO"
+  branch: null
+  swift: RAIFCH22280
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DANIKEN"
+  branch: null
+  swift: RAIFCH22936
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DAVOS PLATZ"
+  branch: null
+  swift: RAIFCH22A84
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DEGERSHEIM"
+  branch: null
+  swift: RAIFCH22C80
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DELEMONT"
+  branch: null
+  swift: RAIFCH22002
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DERENDINGEN"
+  branch: null
+  swift: RAIFCH22938
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DIEPOLDSAU"
+  branch: null
+  swift: RAIFCH22C62
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DIETIKON"
+  branch: null
+  swift: RAIFCH22666
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DISENTIS-MUNSTER"
+  branch: null
+  swift: RAIFCH22A72
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DOMDIDIER"
+  branch: null
+  swift: RAIFCH22123
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DORNACH"
+  branch: null
+  swift: RAIFCH22939
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DUEDINGEN"
+  branch: null
+  swift: RAIFCH22894
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DULLIKEN"
+  branch: null
+  swift: RAIFCH22911
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "DUSSNANG"
+  branch: null
+  swift: RAIFCH22D81
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "EBNAT-KAPPEL"
+  branch: null
+  swift: RAIFCH22C63
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ECHALLENS"
+  branch: null
+  swift: RAIFCH22434
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "EGERKINGEN"
+  branch: null
+  swift: RAIFCH22912
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "EGGERSRIET"
+  branch: null
+  swift: RAIFCH22C44
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "EIKEN"
+  branch: null
+  swift: RAIFCH22683
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "EINSIEDELN"
+  branch: null
+  swift: RAIFCH22D61
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "EMMENBRUECKE"
+  branch: null
+  swift: RAIFCH22B77
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ENGELBERG"
+  branch: null
+  swift: RAIFCH22C65
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ERLENBACH IM SIMMENTAL"
+  branch: null
+  swift: RAIFCH22816
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ERLINSBACH"
+  branch: null
+  swift: RAIFCH22940
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ERSTFELD"
+  branch: null
+  swift: RAIFCH22E33
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ESCHENBACH"
+  branch: null
+  swift: RAIFCH22B87
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ESCHENBACH"
+  branch: null
+  swift: RAIFCH22C98
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ESCHENZ"
+  branch: null
+  swift: RAIFCH22D82
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ESCHOLZMATT"
+  branch: null
+  swift: RAIFCH22B79
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ESTAVAYER-LE-LAC"
+  branch: null
+  swift: RAIFCH22139
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ETTINGEN"
+  branch: null
+  swift: RAIFCH22777
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ETTISWIL"
+  branch: null
+  swift: RAIFCH22C12
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FAIDO"
+  branch: null
+  swift: RAIFCH22374
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FIESCH"
+  branch: null
+  swift: RAIFCH22520
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FLAWIL"
+  branch: null
+  swift: RAIFCH22D25
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FLEURIER"
+  branch: null
+  swift: RAIFCH22261
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FLUMS"
+  branch: null
+  swift: RAIFCH22C67
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FONTAINEMELON"
+  branch: null
+  swift: RAIFCH22257
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FRAUENFELD"
+  branch: null
+  swift: RAIFCH22D84
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FRICK"
+  branch: null
+  swift: RAIFCH22691
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FRUTIGEN"
+  branch: null
+  swift: RAIFCH22820
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FULENBACH"
+  branch: null
+  swift: RAIFCH22914
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "FULLY"
+  branch: null
+  swift: RAIFCH22595
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GAMPEL"
+  branch: null
+  swift: RAIFCH22521
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GANSINGEN"
+  branch: null
+  swift: RAIFCH22689
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GEBENSTORF"
+  branch: null
+  swift: RAIFCH22690
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GELTERKINDEN"
+  branch: null
+  swift: RAIFCH22771
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GIFFERS"
+  branch: null
+  swift: RAIFCH22895
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GIMEL"
+  branch: null
+  swift: RAIFCH22485
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GIUBIASCO"
+  branch: null
+  swift: RAIFCH22344
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GOLDACH"
+  branch: null
+  swift: RAIFCH22C69
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GOLDINGEN"
+  branch: null
+  swift: RAIFCH22C45
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GORGIER"
+  branch: null
+  swift: RAIFCH22241
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GOSSAU"
+  branch: null
+  swift: RAIFCH22C71
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GOUMOENS-LA-VILLE"
+  branch: null
+  swift: RAIFCH22403
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GSTAAD"
+  branch: null
+  swift: RAIFCH22823
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GUNTALINGEN"
+  branch: null
+  swift: RAIFCH22E72
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "GURMELS"
+  branch: null
+  swift: RAIFCH22896
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HAGENDORF"
+  branch: null
+  swift: RAIFCH22947
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HASLE"
+  branch: null
+  swift: RAIFCH22B83
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HEIDEN"
+  branch: null
+  swift: RAIFCH22A12
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HEREMENCE"
+  branch: null
+  swift: RAIFCH22599
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HERGISWIL"
+  branch: null
+  swift: RAIFCH22B84
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HERISAU"
+  branch: null
+  swift: RAIFCH22A11
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HILDISRIEDEN"
+  branch: null
+  swift: RAIFCH22B64
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HITZKIRCH"
+  branch: null
+  swift: RAIFCH22B69
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HOFSTATT"
+  branch: null
+  swift: RAIFCH22B91
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HOFSTETTEN"
+  branch: null
+  swift: RAIFCH22954
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HORW"
+  branch: null
+  swift: RAIFCH22B86
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "HUENENBERG"
+  branch: null
+  swift: RAIFCH22E56
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ILANZ"
+  branch: null
+  swift: RAIFCH22A73
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ILLGAU"
+  branch: null
+  swift: RAIFCH22D57
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "IMMENSEE"
+  branch: null
+  swift: RAIFCH22D51
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "INTERLAKEN"
+  branch: null
+  swift: RAIFCH22842
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "JONA"
+  branch: null
+  swift: RAIFCH22C74
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "KAISTEN"
+  branch: null
+  swift: RAIFCH22696
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "KESTENHOLZ"
+  branch: null
+  swift: RAIFCH22955
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "KLEINDOETTINGEN"
+  branch: null
+  swift: RAIFCH22652
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "KLOTEN"
+  branch: null
+  swift: RAIFCH22E74
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "KRIENS"
+  branch: null
+  swift: RAIFCH22B65
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "KRIESSERN"
+  branch: null
+  swift: RAIFCH22C75
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LA ROCHE"
+  branch: null
+  swift: RAIFCH22150
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LA TOUR-DE-TREME"
+  branch: null
+  swift: RAIFCH22129
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LAMONE"
+  branch: null
+  swift: RAIFCH22283
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LANDQUART"
+  branch: null
+  swift: RAIFCH22A45
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LAUFEN"
+  branch: null
+  swift: RAIFCH22097
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LAUSANNE"
+  branch: null
+  swift: RAIFCH22451
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LAUTERBRUNNEN"
+  branch: null
+  swift: RAIFCH22837
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LE CHABLE"
+  branch: null
+  swift: RAIFCH22581
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LE LOCLE"
+  branch: null
+  swift: RAIFCH22237
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LENGNAU"
+  branch: null
+  swift: RAIFCH22700
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LEUGGERN"
+  branch: null
+  swift: RAIFCH22701
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LEYSIN"
+  branch: null
+  swift: RAIFCH22400
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LEYTRON"
+  branch: null
+  swift: RAIFCH22602
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LI CURT"
+  branch: null
+  swift: RAIFCH22B03
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LIESTAL"
+  branch: null
+  swift: RAIFCH22773
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LIGORNETTO"
+  branch: null
+  swift: RAIFCH22332
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LOCARNO"
+  branch: null
+  swift: RAIFCH22379
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LOSONE"
+  branch: null
+  swift: RAIFCH22333
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LOSTORF"
+  branch: null
+  swift: RAIFCH22918
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LUETZELFLUEH-GOLDBACH"
+  branch: null
+  swift: RAIFCH22875
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LUGANO"
+  branch: null
+  swift: RAIFCH22375
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LUTRY"
+  branch: null
+  swift: RAIFCH22454
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LUZERN"
+  branch: null
+  swift: RAIFCH22B90
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "LUZERN"
+  branch: null
+  swift: RAIFCH22C03
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MAGGIA"
+  branch: null
+  swift: RAIFCH22335
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MALTERS"
+  branch: null
+  swift: RAIFCH22B92
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MANNEDORF"
+  branch: null
+  swift: RAIFCH22E81
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MARBACH"
+  branch: null
+  swift: RAIFCH22D24
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MARLY"
+  branch: null
+  swift: RAIFCH22105
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MASSONGEX"
+  branch: null
+  swift: RAIFCH22606
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MATTWIL"
+  branch: null
+  swift: RAIFCH22D79
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MEIRINGEN"
+  branch: null
+  swift: RAIFCH22843
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MELANO"
+  branch: null
+  swift: RAIFCH22287
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MELLINGEN"
+  branch: null
+  swift: RAIFCH22704
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MELS"
+  branch: null
+  swift: RAIFCH22C81
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MENDRISIO"
+  branch: null
+  swift: RAIFCH22340
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MENZINGEN"
+  branch: null
+  swift: RAIFCH22E57
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MENZNAU"
+  branch: null
+  swift: RAIFCH22B94
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MERENSCHWAND"
+  branch: null
+  swift: RAIFCH22705
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MEYRIN"
+  branch: null
+  swift: RAIFCH22206
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MIEGE"
+  branch: null
+  swift: RAIFCH22608
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MOHLIN"
+  branch: null
+  swift: RAIFCH22706
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MONTAGNY-PRES-YVERDON"
+  branch: null
+  swift: RAIFCH22401
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MONTHEY"
+  branch: null
+  swift: RAIFCH22611
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MONTRICHER"
+  branch: null
+  swift: RAIFCH22445
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MORBIO INFERIORE"
+  branch: null
+  swift: RAIFCH22290
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MORGES"
+  branch: null
+  swift: RAIFCH22460
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MORSCHWIL"
+  branch: null
+  swift: RAIFCH22C84
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MOUDON"
+  branch: null
+  swift: RAIFCH22482
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MUESTAIR"
+  branch: null
+  swift: RAIFCH22B44
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MUMLISWIL"
+  branch: null
+  swift: RAIFCH22962
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "MUOTATHAL"
+  branch: null
+  swift: RAIFCH22D60
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NAEFELS"
+  branch: null
+  swift: RAIFCH22A31
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NATERS"
+  branch: null
+  swift: RAIFCH22532
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NEU ST.JOHANN"
+  branch: null
+  swift: RAIFCH22C87
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NEUKIRCH (EGNACH)"
+  branch: null
+  swift: RAIFCH22D98
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NIEDERBUCHSITEN"
+  branch: null
+  swift: RAIFCH22964
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NIEDERGOSGEN"
+  branch: null
+  swift: RAIFCH22965
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NIEDERHELFENSCHWIL"
+  branch: null
+  swift: RAIFCH22C89
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NIEDERROHRDORF"
+  branch: null
+  swift: RAIFCH22719
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NOTTWIL"
+  branch: null
+  swift: RAIFCH22B96
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NOVAGGIO"
+  branch: null
+  swift: RAIFCH22348
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NUNNINGEN"
+  branch: null
+  swift: RAIFCH22924
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "NYON"
+  branch: null
+  swift: RAIFCH22442
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "OBERAGERI"
+  branch: null
+  swift: RAIFCH22E59
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "OBERBUREN"
+  branch: null
+  swift: RAIFCH22C91
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "OBERDORF"
+  branch: null
+  swift: RAIFCH22968
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "OBEREMBRACH"
+  branch: null
+  swift: RAIFCH22E77
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "OBERIBERG"
+  branch: null
+  swift: RAIFCH22D64
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "OBERLUNKHOFEN"
+  branch: null
+  swift: RAIFCH22702
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "OBERWIL"
+  branch: null
+  swift: RAIFCH22774
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "OEY"
+  branch: null
+  swift: RAIFCH22794
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "OLTEN"
+  branch: null
+  swift: RAIFCH22970
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ORBE"
+  branch: null
+  swift: RAIFCH22480
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ORSIERES"
+  branch: null
+  swift: RAIFCH22613
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "PAYERNE"
+  branch: null
+  swift: RAIFCH22479
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "PFAFFNAU"
+  branch: null
+  swift: RAIFCH22B97
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "PFYN"
+  branch: null
+  swift: RAIFCH22E01
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "PLAFFEIEN"
+  branch: null
+  swift: RAIFCH22899
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "PORRENTRUY"
+  branch: null
+  swift: RAIFCH22027
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "PUIDOUX"
+  branch: null
+  swift: RAIFCH22453
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RARON"
+  branch: null
+  swift: RAIFCH22538
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RECHERSWIL"
+  branch: null
+  swift: RAIFCH22971
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RECKINGEN"
+  branch: null
+  swift: RAIFCH22539
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "REINACH (BL)"
+  branch: null
+  swift: RAIFCH22780
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RHEINAU"
+  branch: null
+  swift: RAIFCH22E79
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RHEINECK"
+  branch: null
+  swift: RAIFCH22C95
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RICKENBACH B. WIL"
+  branch: null
+  swift: RAIFCH22E02
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RIDDES"
+  branch: null
+  swift: RAIFCH22571
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RINGGENBERG"
+  branch: null
+  swift: RAIFCH22853
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RIVA SAN VITALE"
+  branch: null
+  swift: RAIFCH22296
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ROGGWIL"
+  branch: null
+  swift: RAIFCH22E03
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ROMONT"
+  branch: null
+  swift: RAIFCH22108
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RORSCHACHERBERG"
+  branch: null
+  swift: RAIFCH22C96
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ROTHENBACH IM EMMENTAL"
+  branch: null
+  swift: RAIFCH22873
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ROTHENBURG"
+  branch: null
+  swift: RAIFCH22C04
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ROTKREUZ"
+  branch: null
+  swift: RAIFCH22E60
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ROVEREDO (GR)"
+  branch: null
+  swift: RAIFCH22A54
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "RUDOLFSTETTEN"
+  branch: null
+  swift: RAIFCH22673
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SACHSELN"
+  branch: null
+  swift: RAIFCH22C31
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SACHSELN"
+  branch: null
+  swift: RAIFCH22C32
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SAIGNELEGIER"
+  branch: null
+  swift: RAIFCH22059
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SALES (GRUYERE)"
+  branch: null
+  swift: RAIFCH22107
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SARGANS"
+  branch: null
+  swift: RAIFCH22D01
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SATIGNY"
+  branch: null
+  swift: RAIFCH22210
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SAVOSA"
+  branch: null
+  swift: RAIFCH22362
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SCHAENIS"
+  branch: null
+  swift: RAIFCH22D02
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SCHIERS"
+  branch: null
+  swift: RAIFCH22A47
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SCHLEITHEIM"
+  branch: null
+  swift: RAIFCH22D44
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SCHLOSSRUED"
+  branch: null
+  swift: RAIFCH22723
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SCHONENGRUND"
+  branch: null
+  swift: RAIFCH22D00
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SCHOTZ"
+  branch: null
+  swift: RAIFCH22C14
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SCHWARZENBACH"
+  branch: null
+  swift: RAIFCH22D03
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SCHWARZENBURG"
+  branch: null
+  swift: RAIFCH22860
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SELZACH"
+  branch: null
+  swift: RAIFCH22976
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SENNWALD"
+  branch: null
+  swift: RAIFCH22D04
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SIERRE/SIDERS"
+  branch: null
+  swift: RAIFCH22598
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SIGNAU"
+  branch: null
+  swift: RAIFCH22882
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SINS"
+  branch: null
+  swift: RAIFCH22728
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SION/SITTEN"
+  branch: null
+  swift: RAIFCH22572
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SIRNACH"
+  branch: null
+  swift: RAIFCH22E09
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SOLOTHURN"
+  branch: null
+  swift: RAIFCH22977
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SONVICO"
+  branch: null
+  swift: RAIFCH22364
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SORENS"
+  branch: null
+  swift: RAIFCH22155
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SPIEZ"
+  branch: null
+  swift: RAIFCH22838
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST. ANTONI"
+  branch: null
+  swift: RAIFCH22901
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST. GALLEN"
+  branch: TRADING CENTRAL BANK DEPARTMENT
+  swift: RAIFCH21001
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST. GALLEN"
+  branch: null
+  swift: RAIFCH22
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST. GALLEN"
+  branch: null
+  swift: RAIFCH22005
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST. GALLEN"
+  branch: null
+  swift: RAIFCH22CBX
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST. GALLEN"
+  branch: null
+  swift: RAIFCH22D22
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST. GALLEN"
+  branch: null
+  swift: RAIFCH22E91
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST. GALLEN"
+  branch: null
+  swift: RAIFCH22INV
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST. GALLEN"
+  branch: null
+  swift: RAIFCH22RNL
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST. GALLEN"
+  branch: null
+  swift: RAIFCH22STR
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST.NIKLAUS"
+  branch: null
+  swift: RAIFCH22496
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ST.URSANNE"
+  branch: null
+  swift: RAIFCH22037
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "STABIO"
+  branch: null
+  swift: RAIFCH22365
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "STANS"
+  branch: null
+  swift: RAIFCH22C23
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "STEFFISBURG"
+  branch: null
+  swift: RAIFCH22817
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "STEINACH"
+  branch: null
+  swift: RAIFCH22D07
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "STEINHAUSEN"
+  branch: null
+  swift: RAIFCH22E52
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "STUDEN"
+  branch: null
+  swift: RAIFCH22862
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SULGEN"
+  branch: null
+  swift: RAIFCH22E11
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "SUSTEN"
+  branch: null
+  swift: RAIFCH22527
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "TAEGERWILEN"
+  branch: null
+  swift: RAIFCH22E12
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "TESSERETE"
+  branch: null
+  swift: RAIFCH22366
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "THALWIL"
+  branch: null
+  swift: RAIFCH22E90
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "THERWIL"
+  branch: null
+  swift: RAIFCH22784
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "THIERRENS"
+  branch: null
+  swift: RAIFCH22465
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "TOBEL"
+  branch: null
+  swift: RAIFCH22E14
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "TROISTORRENTS"
+  branch: null
+  swift: RAIFCH22626
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "TUGGEN"
+  branch: null
+  swift: RAIFCH22D63
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "UEBERSTORF"
+  branch: null
+  swift: RAIFCH22904
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "UETENDORF"
+  branch: null
+  swift: RAIFCH22867
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "UNTERAEGERI"
+  branch: null
+  swift: RAIFCH22E61
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "UNTERTERZEN"
+  branch: null
+  swift: RAIFCH22C94
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "URTENEN-SCHONBUEHL"
+  branch: null
+  swift: RAIFCH22819
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "USTER"
+  branch: null
+  swift: RAIFCH22E71
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VAL-D ILLIEZ"
+  branch: null
+  swift: RAIFCH22627
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VERSCIO"
+  branch: null
+  swift: RAIFCH22281
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VERSOIX"
+  branch: null
+  swift: RAIFCH22215
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VETROZ"
+  branch: null
+  swift: RAIFCH22585
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VEYRIER"
+  branch: null
+  swift: RAIFCH22187
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VICQUES"
+  branch: null
+  swift: RAIFCH22073
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VILLARS SUR GLANE"
+  branch: null
+  swift: RAIFCH22159
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VILLMERGEN"
+  branch: null
+  swift: RAIFCH22736
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VIONNAZ"
+  branch: null
+  swift: RAIFCH22588
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VISP"
+  branch: null
+  swift: RAIFCH22553
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "VISPERTERMINEN"
+  branch: null
+  swift: RAIFCH22499
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WAENGI"
+  branch: null
+  swift: RAIFCH22E16
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WALDKIRCH"
+  branch: null
+  swift: RAIFCH22D13
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WALENSTADT"
+  branch: null
+  swift: RAIFCH22D14
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WATTWIL"
+  branch: null
+  swift: RAIFCH22D17
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WEINFELDEN"
+  branch: null
+  swift: RAIFCH22D80
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WELSCHENROHR"
+  branch: null
+  swift: RAIFCH22982
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WETTINGEN"
+  branch: null
+  swift: RAIFCH22740
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WIDNAU"
+  branch: null
+  swift: RAIFCH22D19
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WIL (SG)"
+  branch: null
+  swift: RAIFCH22D20
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WILLISAU"
+  branch: null
+  swift: RAIFCH22C11
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WINTERTHUR"
+  branch: null
+  swift: RAIFCH22E85
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WITTENBACH"
+  branch: null
+  swift: RAIFCH22D23
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WITTERSWIL"
+  branch: null
+  swift: RAIFCH22926
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WOHLEN"
+  branch: null
+  swift: RAIFCH22744
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WOLFWIL"
+  branch: null
+  swift: RAIFCH22985
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WOLLERAU"
+  branch: null
+  swift: RAIFCH22D56
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WUENNEWIL-FLAMATT"
+  branch: null
+  swift: RAIFCH22905
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WUERENLINGEN"
+  branch: null
+  swift: RAIFCH22746
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "WUERENLOS"
+  branch: null
+  swift: RAIFCH22747
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "YVERDON-LES-BAINS"
+  branch: null
+  swift: RAIFCH22472
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ZEININGEN"
+  branch: null
+  swift: RAIFCH22748
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ZIHLSCHLACHT"
+  branch: null
+  swift: RAIFCH22E17
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ZIZERS"
+  branch: null
+  swift: RAIFCH22A48
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ZOFINGEN"
+  branch: null
+  swift: RAIFCH22721
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ZUCHWIL"
+  branch: null
+  swift: RAIFCH22986
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ZUFIKON"
+  branch: null
+  swift: RAIFCH22749
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ZURICH"
+  branch: null
+  swift: RAIFCH22E87
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ZURICH"
+  branch: null
+  swift: RAIFCH22ZBX
+    
+- name: "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT"
+  city: "ZWEISIMMEN"
+  branch: null
+  swift: RAIFCH22856
+    
+- name: "RAYMOND JAMES AND ASSOCIATES, INC."
+  city: "GENEVA"
+  branch: null
+  swift: RJAACHG1
+    
+- name: "RBC DOMINION SECURITIES INC."
+  city: "LAUSANNE"
+  branch: null
+  swift: RBDSCH21
+    
+- name: "RBC INVESTOR SERVICES BANK S.A. ESCH-SUR-ALZETTE ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: FETACHZZ
+    
+- name: "RBC INVESTOR SERVICES BANK S.A. ESCH-SUR-ALZETTE ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: FETACHZZISV
+    
+- name: "RBC INVESTOR SERVICES BANK S.A. ESCH-SUR-ALZETTE ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: FETACHZZSHS
+    
+- name: "RBS SERVICES (SWITZERLAND) AG"
+  city: "ZURICH"
+  branch: null
+  swift: RBOSCHZH
+    
+- name: "REGIOBANK MAENNEDORF AG"
+  city: "MANNEDORF"
+  branch: null
+  swift: RBABCH22828
+    
+- name: "REGIOBANK SOLOTHURN AG"
+  city: "SOLOTHURN"
+  branch: null
+  swift: RSOSCH22
+    
+- name: "REICHMUTH AND CO"
+  city: "LUZERN"
+  branch: null
+  swift: REICCH22
+    
+- name: "REMACO WEALTH MANAGEMENT AG"
+  city: "BASLE"
+  branch: null
+  swift: RMCOCHBB
+    
+- name: "RENALCO SA"
+  city: "GENEVA"
+  branch: null
+  swift: RENLCHG1
+    
+- name: "RENAULT FINANCE S.A."
+  city: "LAUSANNE"
+  branch: null
+  swift: RENOCH22
+    
+- name: "REPOWER AG"
+  city: "POSCHIAVO"
+  branch: null
+  swift: REPWCH23
+    
+- name: "RESPONSABILITY INVESTMENTS AG"
+  city: "ZURICH"
+  branch: null
+  swift: REISCHZ1
+    
+- name: "REYL ET CIE S.A."
+  city: "GENEVA"
+  branch: null
+  swift: REYLCHGG
+    
+- name: "RICHARDSON GREENSHIELDS OF CANADA LTD."
+  city: "GENEVA"
+  branch: null
+  swift: RIGCCHG1
+    
+- name: "RICHEMONT INTERNATIONAL SA"
+  city: "VILLARS SUR GLANE"
+  branch: null
+  swift: RISACH22
+    
+- name: "RMF INVESTMENT MANAGEMENT"
+  city: "PFAEFFIKON"
+  branch: null
+  swift: RMAMCHZ1
+    
+- name: "ROCHE FINANZ LTD"
+  city: "BASLE"
+  branch: null
+  swift: ROCHCHBB
+    
+- name: "ROCHE HOLDING AG"
+  city: "BASLE"
+  branch: null
+  swift: ROCHCHBH
+    
+- name: "ROCHE LONG TERM FOUNDATION"
+  city: "BASLE"
+  branch: null
+  swift: ROCHCHBL
+    
+- name: "ROSSIER, MARI ET ASSOCIATES LTD"
+  city: "ZURICH"
+  branch: null
+  swift: ROMSCHZ1
+    
+- name: "ROTHSCHILD BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: ROTACHZZ
+    
+- name: "RSI SECURITIES SA"
+  city: "GENEVA"
+  branch: null
+  swift: RSSECHG1
+    
+- name: "S C U SWISS CREDIT UNION SA"
+  city: "GENEVA"
+  branch: null
+  swift: SWCNCHG1
+    
+- name: "S.G. WARBURG SECURITIES SA"
+  city: "OPFIKON-GLATTBRUGG"
+  branch: null
+  swift: WARBCHG1
+    
+- name: "SALLFORT PRIVATBANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: BGFBCHZZ
+    
+- name: "SALOMON BROTHERS FINANZ AG"
+  city: "ZURICH"
+  branch: null
+  swift: SABFCHZ1
+    
+- name: "SAM SUSTAINABLE ASSET MANAGEMENT AG"
+  city: "ZURICH"
+  branch: null
+  swift: SSAACHZ1
+    
+- name: "SAMBA FINANCE S.A."
+  city: "GENEVA"
+  branch: null
+  swift: SAFICHG1
+    
+- name: "SAMSUNG ELECTRONICS SWITZERLAND GMBH"
+  city: "ZURICH"
+  branch: null
+  swift: SECTCHZ1
+    
+- name: "SAMSUNG ELECTRONICS SWITZERLAND GMBH"
+  city: "ZURICH"
+  branch: null
+  swift: SECTCHZ14L2
+    
+- name: "SARD INVESTMENT GENEVA S.A."
+  city: "GENEVA"
+  branch: null
+  swift: SAIGCHG1
+    
+- name: "SAXO BANK (SWITZERLAND) SA"
+  city: "ZURICH"
+  branch: null
+  swift: SAXOCHZH
+    
+- name: "SB SAANEN BANK AG"
+  city: "SAANEN"
+  branch: null
+  swift: RBABCH22342
+    
+- name: "SBERBANK (SWITZERLAND) AG"
+  city: "ZURICH"
+  branch: null
+  swift: SLBZCHZZ
+    
+- name: "SCHAFFHAUSER KANTONALBANK"
+  city: "SCHAFFHAUSEN"
+  branch: null
+  swift: SHKBCH2S
+    
+- name: "SCHINAC VERWALTUNGS AG, WIEN ZWEIGNIEDERLASSUNG HERGISWIL"
+  city: "HERGISWIL"
+  branch: null
+  swift: SVWZCH21
+    
+- name: "SCHLUTER SA"
+  city: "NYON"
+  branch: null
+  swift: SCLTCH21
+    
+- name: "SCHRODER ADVEQ MANAGEMENT AG"
+  city: "ZURICH"
+  branch: null
+  swift: ADMGCHZZ
+    
+- name: "SCHRODER AND CO BANK AG"
+  city: "GENEVA"
+  branch: null
+  swift: BJHSCHZZGVA
+    
+- name: "SCHRODER AND CO BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: BJHSCHZZ
+    
+- name: "SCHWEIZERISCHE BUNDESBAHNEN SBB"
+  city: "BERNE"
+  branch: null
+  swift: SBBSCH22
+    
+- name: "SCHWEIZERISCHE MOBILIAR ASSET MANAGEMENT AG"
+  city: "BERNE"
+  branch: null
+  swift: SMSACH22
+    
+- name: "SCHWEIZERISCHE NATIONALBANK"
+  city: "BERNE"
+  branch: KORRESPONDENZ
+  swift: SNBZCHZZ30A
+    
+- name: "SCHWEIZERISCHE NATIONALBANK"
+  city: "ZURICH"
+  branch: KORRESPONDENZ A
+  swift: SNBZCHZZ80A
+    
+- name: "SCHWEIZERISCHE NATIONALBANK"
+  city: "ZURICH"
+  branch: KORRESPONDENZ B
+  swift: SNBZCHZZ80B
+    
+- name: "SCHWEIZERISCHE NATIONALBANK"
+  city: "ZURICH"
+  branch: null
+  swift: SNBZCHZZ
+    
+- name: "SCHWYZER KANTONALBANK (SKB)"
+  city: "SCHWYZ"
+  branch: null
+  swift: KBSZCH22
+    
+- name: "SCOBAG PRIVATBANK AG"
+  city: "BASLE"
+  branch: null
+  swift: SCOPCHBB
+    
+- name: "SECTRAM PARTNERS SA"
+  city: "LUGANO"
+  branch: null
+  swift: SETSCHG1
+    
+- name: "SECUREPOST AG"
+  city: "OENSINGEN"
+  branch: null
+  swift: SEPOCH22
+    
+- name: "SELVI AND CIE SA"
+  city: "GENEVA"
+  branch: null
+  swift: SELVCHGG
+    
+- name: "SEMPER GESTION"
+  city: "GENEVA"
+  branch: null
+  swift: SEGECHG1
+    
+- name: "SEQUOIA SCA"
+  city: "LUGANO"
+  branch: SUCCURSALE DI LUGANO
+  swift: SQSCCH21
+    
+- name: "SET AG"
+  city: "ZUZWILL"
+  branch: null
+  swift: SESWCH21
+    
+- name: "SG PRIVATE BANKING (LUGANO-SVIZZERA) SA"
+  city: "LUGANO"
+  branch: null
+  swift: CANTCH21
+    
+- name: "SIGLA ASSET MANAGEMENT TRUST SARL"
+  city: "GENEVA"
+  branch: null
+  swift: SAGTCHG1
+    
+- name: "SIGNAL IDUNA REASSURANCES SA"
+  city: "ZUG"
+  branch: null
+  swift: SIRUCH21
+    
+- name: "SIGNINA CAPITAL AG"
+  city: "ZURICH"
+  branch: null
+  swift: SIPTCHZ1
+    
+- name: "SINERGIA WEALTH MANAGEMENT SA"
+  city: "LUGANO"
+  branch: null
+  swift: SIWMCH21
+    
+- name: "SIS X-CLEAR LTD."
+  city: "ZURICH"
+  branch: INTERMEDIARY AT CREST
+  swift: CLRXCHZZCRI
+    
+- name: "SIS X-CLEAR LTD."
+  city: "ZURICH"
+  branch: null
+  swift: CLRXCHZZ
+    
+- name: "SIX INTERBANK CLEARING AG"
+  city: "ZURICH"
+  branch: null
+  swift: TKZHCHZZ
+    
+- name: "SIX SIS AG"
+  city: "OLTEN"
+  branch: SIX SIS LTD, FOR INTERNAL T2S BP
+  swift: INSECHZZTST
+    
+- name: "SIX SIS AG"
+  city: "ZURICH"
+  branch: CROSSBORDER SETTLEMENT SEGA
+  swift: INSECHZZSGA
+    
+- name: "SIX SIS AG"
+  city: "ZURICH"
+  branch: MPA RELATIONSHIPS
+  swift: INSECHZZCNT
+    
+- name: "SIX SIS AG"
+  city: "ZURICH"
+  branch: SIS FUND TRANSFER AGENT RELATIONSHIPS
+  swift: INSECHZZBRO
+    
+- name: "SIX SIS AG"
+  city: "ZURICH"
+  branch: SIX SIS POSITION MANAGEMENT
+  swift: INSECHZZRLG
+    
+- name: "SIX SIS AG"
+  city: "ZURICH"
+  branch: SIX SIS T2S INTERNATIONAL
+  swift: INSECHZZTRA
+    
+- name: "SIX SIS AG"
+  city: "ZURICH"
+  branch: SIX SIS T2S POSITION MANAGEMENT
+  swift: INSECHZZREA
+    
+- name: "SIX SIS AG"
+  city: "ZURICH"
+  branch: SIX SIS T2S SETTLEMENTS
+  swift: INSECHZZT2S
+    
+- name: "SIX SIS AG"
+  city: "ZURICH"
+  branch: null
+  swift: INSECHZZ
+    
+- name: "SKANDIFINANZ BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: SKANCHZ1
+    
+- name: "SMITH BARNEY, HARRIS UPHAM AND CO."
+  city: "GENEVA"
+  branch: null
+  swift: SMBHCHG1
+    
+- name: "SMITH NEW COURT SECURITIES PLC"
+  city: "GENEVA"
+  branch: null
+  swift: NCOSCHG1
+    
+- name: "SOCAR TRADING SA"
+  city: "GENEVA"
+  branch: null
+  swift: SOTDCHG1
+    
+- name: "SOCIETA BANCARIA TICINESE SA"
+  city: "BELLINZONA"
+  branch: null
+  swift: SBTICH22
+    
+- name: "SOCIETE FINANCIERE ET FONCIERE"
+  city: "GENEVA"
+  branch: null
+  swift: SOFFCHG1
+    
+- name: "SOCIETE FINANCIERE MIRELIS SA"
+  city: "GENEVA"
+  branch: null
+  swift: MISFCHG1
+    
+- name: "SOCIETE GENERALE PRIVATE BANKING (SUISSE) SA"
+  city: "GENEVA"
+  branch: null
+  swift: RUEGCHZZ
+    
+- name: "SOCIETE GENERALE, PARIS, ZURICH BRANCH"
+  city: "GENEVA"
+  branch: TRADE COMMODITY FINANCE - GENEVA
+  swift: SGABCHZZTCF
+    
+- name: "SOCIETE GENERALE, PARIS, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: CLEARING AND CUSTODY
+  swift: SGABCHZZACC
+    
+- name: "SOCIETE GENERALE, PARIS, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: SOCIETE GENERALE, ZURICH BRANCH (4336)
+  swift: SGABCHZZTSF
+    
+- name: "SOCIETE GENERALE, PARIS, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: SOCIETE GENERALE, ZURICH BRANCH (7019)
+  swift: SGABCHZZ019
+    
+- name: "SOCIETE GENERALE, PARIS, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: SOCIETE GENERALE, ZURICH BRANCH (8448)
+  swift: SGABCHZZ448
+    
+- name: "SOCIETE GENERALE, PARIS, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: SOCIETE GENERALE, ZURICH BRANCH (OCSD2064)
+  swift: SGABCHZZTSA
+    
+- name: "SOCIETE GENERALE, PARIS, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: SOCIETE GENERALE, ZURICH BRANCH (OCSD2131)
+  swift: SGABCHZZSGZ
+    
+- name: "SOCIETE GENERALE, PARIS, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: SGABCHZZ
+    
+- name: "SOCIETE GENERALE, PARIS, ZURICH BRANCH"
+  city: "ZURICH"
+  branch: null
+  swift: SGABCHZZTRA
+    
+- name: "SOCIETE PRIVEE DE GESTION DE PATRIMOINE (SUISSE)"
+  city: "GENEVA"
+  branch: null
+  swift: SPGPCHG1
+    
+- name: "SOCIETE ROMANDE DE GESTION DE PATRIMOINE (SRGP)"
+  city: "GENEVA"
+  branch: null
+  swift: SRGPCHG1
+    
+- name: "SODIPRIVES SOCIETE ETUDES ET INVESTISSEMENTS PRIVES SA"
+  city: "GENEVA"
+  branch: null
+  swift: SSENCHG1
+    
+- name: "SOLEN VERSICHERUNGEN AG"
+  city: "BAAR"
+  branch: null
+  swift: SOVRCH21
+    
+- name: "SONOVA AG"
+  city: "STAEFA"
+  branch: null
+  swift: SONOCHZZ
+    
+- name: "SOS SURVEILLANCE GLASSEY SA"
+  city: "MARTIGNY"
+  branch: null
+  swift: SOSSCH22
+    
+- name: "SPAR- UND LEIHKASSE BUCHEGGBERG AG"
+  city: "LUETERSWIL"
+  branch: null
+  swift: SLBUCH22
+    
+- name: "SPAR- UND LEIHKASSE FRUTIGEN"
+  city: "FRUTIGEN"
+  branch: null
+  swift: SLFFCH22
+    
+- name: "SPAR UND LEIHKASSE GUERBETAL AG"
+  city: "MUEHLETHURNEN"
+  branch: null
+  swift: SLGUCH2M
+    
+- name: "SPAR- UND LEIHKASSE LEUK UND UMGEBUNG GENOSSENSCHAFT"
+  city: "LEUK-STADT"
+  branch: null
+  swift: SLLMCH21
+    
+- name: "SPAR UND LEIHKASSE RIGGISBERG AG"
+  city: "RIGGISBERG"
+  branch: null
+  swift: RBABCH22374
+    
+- name: "SPAR- UND LEIHKASSE WYNIGEN"
+  city: "WYNIGEN"
+  branch: null
+  swift: SLWYCH21
+    
+- name: "SPARKASSE BUNDESPERSONAL SKB, EFV"
+  city: "BERNE"
+  branch: null
+  swift: SKBPCH22
+    
+- name: "SPARKASSE SCHWYZ AG"
+  city: "SCHWYZ"
+  branch: null
+  swift: RBABCH22633
+    
+- name: "ST.GALLER KANTONALBANK"
+  city: "ST. GALLEN"
+  branch: HEAD OFFICE AND ALL BRANCHES
+  swift: KBSGCH22
+    
+- name: "STADLER RAIL AG"
+  city: "BUSSNANG"
+  branch: null
+  swift: SRAICH22
+    
+- name: "STANHOPE CAPITAL (SWITZERLAND) SA"
+  city: "GENEVA"
+  branch: null
+  swift: STCWCHG1
+    
+- name: "STATE STREET BANK INTERNATIONAL GMBH, MUNICH, ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: SSBECHZZ
+    
+- name: "STRAUMANN HOLDING AG"
+  city: "BASLE"
+  branch: null
+  swift: STHOCHBB
+    
+- name: "SUBSTANTIA INVEST AG"
+  city: "ZURICH"
+  branch: null
+  swift: SUBICHZ1
+    
+- name: "SULZER AG"
+  city: "WINTERTHUR"
+  branch: null
+  swift: SULZCHZZ
+    
+- name: "SUVA"
+  city: "LUCERNE"
+  branch: null
+  swift: SUAACH22
+    
+- name: "SUVA ROESSLIMATT (FA)"
+  city: "LUZERN"
+  branch: null
+  swift: SUAACH2A
+    
+- name: "SWISS BANKERS PREPAID SERVICES LTD"
+  city: "GROSSHOECHSTETTEN"
+  branch: null
+  swift: SWBTCH21
+    
+- name: "SWISS FEDERAL OFFICE FOR THE ENVIRONMENT (FOEN)"
+  city: "BERNE"
+  branch: null
+  swift: SFOECH21
+    
+- name: "SWISS FIDELITY INVESTMENT AG"
+  city: "GENEVA"
+  branch: null
+  swift: SFITCHG1
+    
+- name: "SWISS FIDUCIARY AND TRUST COMPANY AG"
+  city: "ZUG"
+  branch: null
+  swift: SFTCCH21
+    
+- name: "SWISS FINANCIAL CAPITAL TRUST AG"
+  city: "ZURICH"
+  branch: null
+  swift: SFCTCHZ1
+    
+- name: "SWISS GLOBAL INVESTMENT TRUST AG"
+  city: "ZURICH"
+  branch: null
+  swift: SGITCHZ1
+    
+- name: "SWISS INTERNATIONAL HOLDINGS TRUST"
+  city: "ZURICH"
+  branch: null
+  swift: SIHTCHZ1
+    
+- name: "SWISS LIFE ASSET MANAGEMENT AG"
+  city: "ZURICH"
+  branch: null
+  swift: SLAMCHZZ
+    
+- name: "SWISS PB AG"
+  city: "ZURICH"
+  branch: null
+  swift: WWISCHZ1
+    
+- name: "SWISS REINSURANCE COMPANY"
+  city: "ZURICH"
+  branch: COLLATERAL MANAGEMENT
+  swift: SWRECHZHCMN
+    
+- name: "SWISS REINSURANCE COMPANY"
+  city: "ZURICH"
+  branch: SWISS RE ASSET MANAGEMENT
+  swift: SWRECHZHSWR
+    
+- name: "SWISS REINSURANCE COMPANY"
+  city: "ZURICH"
+  branch: SWISS RE FINANCIAL MARKETS
+  swift: SWRECHZHINV
+    
+- name: "SWISS REINSURANCE COMPANY"
+  city: "ZURICH"
+  branch: TRAX
+  swift: SWRECHZHTRX
+    
+- name: "SWISS REINSURANCE COMPANY"
+  city: "ZURICH"
+  branch: null
+  swift: SWRECHZH
+    
+- name: "SWISS SECURITIES AND TRUST AG"
+  city: "ZURICH"
+  branch: null
+  swift: SWSTCHZ1
+    
+- name: "SWISSCANTO FONDSLEITUNG AG"
+  city: "ZURICH"
+  branch: null
+  swift: SWIPCHZH
+    
+- name: "SWISSCOM AG"
+  city: "BERNE"
+  branch: null
+  swift: SWCOCH21
+    
+- name: "SWISS-KUWAITI BANK"
+  city: "GENEVA"
+  branch: null
+  swift: SWKBCHG1
+    
+- name: "SWISSPARTNERS INVESTMENT AG"
+  city: "ZURICH"
+  branch: null
+  swift: SWIECHZ1
+    
+- name: "SWISSQUOTE BANK"
+  city: "GLAND"
+  branch: null
+  swift: SWQBCHZZ
+    
+- name: "SWX SWISS EXCHANGE AG"
+  city: "ZURICH"
+  branch: null
+  swift: XSWXCHZ1
+    
+- name: "SYNGENTA CROP PROTECTION AG"
+  city: "BASLE"
+  branch: null
+  swift: SYNGCHBB
+    
+- name: "SYNTRON INFORMATIK AG"
+  city: "EFFRETIKON"
+  branch: null
+  swift: SYINCH21
+    
+- name: "TAURIS SA"
+  city: "GENEVA"
+  branch: null
+  swift: TAUICHG1
+    
+- name: "TAURUS PETROLEUM"
+  city: "GENEVA"
+  branch: null
+  swift: TPETCHG1
+    
+- name: "TECAN TRADING AG"
+  city: "MANNEDORF"
+  branch: null
+  swift: TEANCH2M
+    
+- name: "TECH DATA INTERNATIONAL SARL"
+  city: "GLAND"
+  branch: null
+  swift: TDISCH21
+    
+- name: "TELL AG"
+  city: "ZURICH"
+  branch: null
+  swift: SWHCCHB1
+    
+- name: "TELL AG"
+  city: "ZURICH"
+  branch: null
+  swift: SWHCCHZ1
+    
+- name: "TELLCO VORSORGE AG"
+  city: "SCHWYZ"
+  branch: null
+  swift: TESNCH21
+    
+- name: "TETRA LAVAL FINANCE AND TREASURY B.V, PULLY BRANCH"
+  city: "PULLY"
+  branch: null
+  swift: TLFTCH21
+    
+- name: "TETRA LAVAL FINANCE AND TREASURY LTD, PULLY BRANCH"
+  city: "PULLY"
+  branch: null
+  swift: TELACH21
+    
+- name: "TETRA PAK INTERNATIONAL S.A."
+  city: "PULLY"
+  branch: null
+  swift: TEPACH22
+    
+- name: "THE FORUM FINANCE GROUP SA"
+  city: "GENEVA"
+  branch: null
+  swift: FOFGCHG1
+    
+- name: "THE GLOBAL FUND TO FIGHT AIDS, TUBERCULOSIS AND MALARIA"
+  city: "VERNIER"
+  branch: null
+  swift: TGFSCH22
+    
+- name: "THE SWATCH GROUP LTD."
+  city: "BIEL (BIENNE)"
+  branch: null
+  swift: SWGOCH21
+    
+- name: "THE TACHIBANA SECURITIES CO.,LTD"
+  city: "GENEVA"
+  branch: null
+  swift: TASECHG1
+    
+- name: "THURGAUER KANTONALBANK"
+  city: "AMRISWIL"
+  branch: null
+  swift: KBTGCH2285D
+    
+- name: "THURGAUER KANTONALBANK"
+  city: "ARBON"
+  branch: null
+  swift: KBTGCH2293B
+    
+- name: "THURGAUER KANTONALBANK"
+  city: "BISCHOFSZELL"
+  branch: null
+  swift: KBTGCH2292B
+    
+- name: "THURGAUER KANTONALBANK"
+  city: "FRAUENFELD"
+  branch: null
+  swift: KBTGCH2285A
+    
+- name: "THURGAUER KANTONALBANK"
+  city: "KREUZLINGEN"
+  branch: null
+  swift: KBTGCH2282P
+    
+- name: "THURGAUER KANTONALBANK"
+  city: "ROMANSHORN"
+  branch: null
+  swift: KBTGCH2285F
+    
+- name: "THURGAUER KANTONALBANK"
+  city: "SIRNACH"
+  branch: null
+  swift: KBTGCH2283L
+    
+- name: "THURGAUER KANTONALBANK"
+  city: "STECKBORN"
+  branch: null
+  swift: KBTGCH2282M
+    
+- name: "THURGAUER KANTONALBANK"
+  city: "WEINFELDEN"
+  branch: HEAD OFFICE
+  swift: KBTGCH22
+    
+- name: "TIBERIUS GROUP"
+  city: "ZUG"
+  branch: null
+  swift: TIGRCH21
+    
+- name: "TIMBER HILL (EUROPE) AG"
+  city: "ZUG"
+  branch: IBUK
+  swift: TMBECH22IBK
+    
+- name: "TIMBER HILL (EUROPE) AG"
+  city: "ZUG"
+  branch: THUK
+  swift: TMBECH22THK
+    
+- name: "TIMBER HILL (EUROPE) AG"
+  city: "ZUG"
+  branch: null
+  swift: TMBECH22
+    
+- name: "TIMBER HILL (EUROPE) AG"
+  city: "ZUG"
+  branch: null
+  swift: TMBECH22IBC
+    
+- name: "TIMBER HILL (EUROPE) AG"
+  city: "ZUG"
+  branch: null
+  swift: TMBECH22IBG
+    
+- name: "TIMBER HILL (EUROPE) AG"
+  city: "ZUG"
+  branch: null
+  swift: TMBECH22IBL
+    
+- name: "TIMBER HILL (EUROPE) AG"
+  city: "ZUG"
+  branch: null
+  swift: TMBECH22THA
+    
+- name: "TIMBER HILL (EUROPE) AG"
+  city: "ZUG"
+  branch: null
+  swift: TMBECH22THC
+    
+- name: "TIMBER HILL (EUROPE) AG"
+  city: "ZUG"
+  branch: null
+  swift: TMBECH22THE
+    
+- name: "TIMBER HILL (EUROPE) AG"
+  city: "ZUG"
+  branch: null
+  swift: TMBECH22THL
+    
+- name: "TOKAI FINANZ (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: TOFSCHZ1
+    
+- name: "TOTSA TOTAL OIL TRADING SA"
+  city: "GENEVA"
+  branch: null
+  swift: TTOTCHG1
+    
+- name: "TOWNSLEY AND CO"
+  city: "GENEVA"
+  branch: null
+  swift: TOWYCHG1
+    
+- name: "TRADECONSULT SA"
+  city: "GENEVA"
+  branch: null
+  swift: TRATCHG1
+    
+- name: "TRAFINA PRIVATBANK AG"
+  city: "BASLE"
+  branch: null
+  swift: TRAPCHBB
+    
+- name: "TRANSAMINE TRADING SA"
+  city: "GENEVA"
+  branch: null
+  swift: TTSACHG1
+    
+- name: "TRIBA PARTNER BANK AG"
+  city: "TRIENGEN"
+  branch: null
+  swift: RBABCH22690
+    
+- name: "TRIGONE CAPITAL FINANCE SA"
+  city: "GENEVA"
+  branch: null
+  swift: TRCFCHG1
+    
+- name: "TTMI SARL"
+  city: "GENEVA"
+  branch: null
+  swift: CHASCHG1
+    
+- name: "TURICAM FUND MANAGEMENT"
+  city: "ZURICH"
+  branch: null
+  swift: TUFMCHZ1
+    
+- name: "TWELVE CAPITAL AG"
+  city: "ZURICH"
+  branch: null
+  swift: TWCACHZ1
+    
+- name: "TYROLIT FINANZ AG"
+  city: "MANNEDORF"
+  branch: null
+  swift: TYFICH22
+    
+- name: "UBL (SWITZERLAND) AG"
+  city: "ZURICH"
+  branch: null
+  swift: UNILCHZZ
+    
+- name: "UBS AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSBCHZZ
+    
+- name: "UBS AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSBCHZZCLS
+    
+- name: "UBS AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSBCHZZETD
+    
+- name: "UBS AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSBCHZZPBR
+    
+- name: "UBS AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSBCHZZSCI
+    
+- name: "UBS ASSET MANAGEMENT AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSACHZZ
+    
+- name: "UBS CARD CENTER AG"
+  city: "GLATTBRUGG"
+  branch: null
+  swift: AAGOCHZ1
+    
+- name: "UBS CARD CENTER AG"
+  city: "GLATTBRUGG"
+  branch: null
+  swift: UBCCCHZZ
+    
+- name: "UBS GROUP AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSGCHZH
+    
+- name: "UBS SWISS FINANCIAL ADVISERS AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSSCHZH
+    
+- name: "UBS SWISS FINANCIAL ADVISERS AG"
+  city: "ZURICH"
+  branch: null
+  swift: USFACHZ1
+    
+- name: "UBS SWITZERLAND AG"
+  city: "AARAU"
+  branch: null
+  swift: UBSWCHZH50A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "AFFOLTERN AM ALBIS"
+  branch: null
+  swift: UBSWCHZH89E
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ALTSTAETTEN (SG)"
+  branch: null
+  swift: UBSWCHZH94N
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ARBON"
+  branch: null
+  swift: UBSWCHZH93A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "AROSA"
+  branch: null
+  swift: UBSWCHZH70E
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BADEN"
+  branch: null
+  swift: UBSWCHZH54A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BASLE"
+  branch: AESCHENVORSTADT
+  swift: UBSWCHZH40M
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BASLE"
+  branch: null
+  swift: UBSWCHZH40A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BELLINZONA"
+  branch: null
+  swift: UBSWCHZH65A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BERNE"
+  branch: null
+  swift: UBSWCHZH30A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BIEL (BIENNE)"
+  branch: null
+  swift: UBSWCHZH25A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BRIG (BRIGUE)"
+  branch: null
+  swift: UBSWCHZH39A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BRUGG"
+  branch: null
+  swift: UBSWCHZH52A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BUCHS (SG)"
+  branch: null
+  swift: UBSWCHZH94P
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BUELACH"
+  branch: null
+  swift: UBSWCHZH81M
+    
+- name: "UBS SWITZERLAND AG"
+  city: "BULLE"
+  branch: null
+  swift: UBSWCHZH16C
+    
+- name: "UBS SWITZERLAND AG"
+  city: "CHAUX-DE-FONDS, LA"
+  branch: null
+  swift: UBSWCHZH23A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "CHIASSO"
+  branch: null
+  swift: UBSWCHZH68B
+    
+- name: "UBS SWITZERLAND AG"
+  city: "CHUR"
+  branch: null
+  swift: UBSWCHZH70A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "DAVOS"
+  branch: null
+  swift: UBSWCHZH72D
+    
+- name: "UBS SWITZERLAND AG"
+  city: "DIETIKON"
+  branch: null
+  swift: UBSWCHZH89D
+    
+- name: "UBS SWITZERLAND AG"
+  city: "DUEDINGEN"
+  branch: null
+  swift: UBSWCHZH31A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "EMMENBRUECKE"
+  branch: null
+  swift: UBSWCHZH60G
+    
+- name: "UBS SWITZERLAND AG"
+  city: "FRAUENFELD"
+  branch: null
+  swift: UBSWCHZH85A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "FRIBOURG"
+  branch: null
+  swift: UBSWCHZH17A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "GENEVA"
+  branch: CORRATERIE
+  swift: UBSWCHZH12B
+    
+- name: "UBS SWITZERLAND AG"
+  city: "GENEVA"
+  branch: null
+  swift: UBSWCHZH12A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "GLARUS"
+  branch: null
+  swift: UBSWCHZH87D
+    
+- name: "UBS SWITZERLAND AG"
+  city: "GLATTBRUGG"
+  branch: null
+  swift: UBSWCHZH81H
+    
+- name: "UBS SWITZERLAND AG"
+  city: "HORGEN"
+  branch: null
+  swift: UBSWCHZH88A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "INTERLAKEN"
+  branch: null
+  swift: UBSWCHZH38A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "KLOTEN"
+  branch: null
+  swift: UBSWCHZH83A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "KREUZLINGEN"
+  branch: null
+  swift: UBSWCHZH82P
+    
+- name: "UBS SWITZERLAND AG"
+  city: "LACHEN"
+  branch: null
+  swift: UBSWCHZH88B
+    
+- name: "UBS SWITZERLAND AG"
+  city: "LAUSANNE"
+  branch: null
+  swift: UBSWCHZH10A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "LICHTENSTEIG"
+  branch: null
+  swift: UBSWCHZH96C
+    
+- name: "UBS SWITZERLAND AG"
+  city: "LIESTAL"
+  branch: null
+  swift: UBSWCHZH44A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "LOCARNO"
+  branch: null
+  swift: UBSWCHZH66A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "LUCERNE"
+  branch: null
+  swift: UBSWCHZH60A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "LUGANO"
+  branch: null
+  swift: UBSWCHZH69A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "MARTIGNY"
+  branch: null
+  swift: UBSWCHZH19B
+    
+- name: "UBS SWITZERLAND AG"
+  city: "MEILEN"
+  branch: null
+  swift: UBSWCHZH87C
+    
+- name: "UBS SWITZERLAND AG"
+  city: "MONTHEY"
+  branch: null
+  swift: UBSWCHZH18L
+    
+- name: "UBS SWITZERLAND AG"
+  city: "MONTREUX"
+  branch: null
+  swift: UBSWCHZH18D
+    
+- name: "UBS SWITZERLAND AG"
+  city: "NEUCHATEL"
+  branch: null
+  swift: UBSWCHZH20A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "NYON"
+  branch: null
+  swift: UBSWCHZH12T
+    
+- name: "UBS SWITZERLAND AG"
+  city: "OLTEN"
+  branch: null
+  swift: UBSWCHZH46A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "PORRENTRUY"
+  branch: null
+  swift: UBSWCHZH29A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "RAPPERSWIL"
+  branch: null
+  swift: UBSWCHZH86M
+    
+- name: "UBS SWITZERLAND AG"
+  city: "REGENSDORF"
+  branch: null
+  swift: UBSWCHZH81A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "RORSCHACH"
+  branch: null
+  swift: UBSWCHZH94A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "RUESCHLIKON"
+  branch: null
+  swift: UBSWCHZH88C
+    
+- name: "UBS SWITZERLAND AG"
+  city: "RUETI (ZH)"
+  branch: null
+  swift: UBSWCHZH86P
+    
+- name: "UBS SWITZERLAND AG"
+  city: "SCHAFFHAUSEN"
+  branch: null
+  swift: UBSWCHZH82A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "SIERRE/SIDERS"
+  branch: null
+  swift: UBSWCHZH39L
+    
+- name: "UBS SWITZERLAND AG"
+  city: "SION/SITTEN"
+  branch: null
+  swift: UBSWCHZH19E
+    
+- name: "UBS SWITZERLAND AG"
+  city: "SOLOTHURN"
+  branch: null
+  swift: UBSWCHZH45A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ST. GALLEN"
+  branch: null
+  swift: UBSWCHZH90A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ST. MARGRETHEN"
+  branch: null
+  swift: UBSWCHZH94F
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ST. MORITZ"
+  branch: null
+  swift: UBSWCHZH75A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "THUN"
+  branch: null
+  swift: UBSWCHZH36A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "USTER"
+  branch: null
+  swift: UBSWCHZH86N
+    
+- name: "UBS SWITZERLAND AG"
+  city: "VEVEY"
+  branch: null
+  swift: UBSWCHZH18A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "VISP"
+  branch: null
+  swift: UBSWCHZH39G
+    
+- name: "UBS SWITZERLAND AG"
+  city: "WALLISELLEN"
+  branch: null
+  swift: UBSWCHZH83B
+    
+- name: "UBS SWITZERLAND AG"
+  city: "WEINFELDEN"
+  branch: null
+  swift: UBSWCHZH85B
+    
+- name: "UBS SWITZERLAND AG"
+  city: "WETZIKON"
+  branch: null
+  swift: UBSWCHZH86Q
+    
+- name: "UBS SWITZERLAND AG"
+  city: "WIL (SG)"
+  branch: null
+  swift: UBSWCHZH95A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "WINTERTHUR"
+  branch: null
+  swift: UBSWCHZH84A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "WOHLEN"
+  branch: null
+  swift: UBSWCHZH56B
+    
+- name: "UBS SWITZERLAND AG"
+  city: "YVERDON-LES-BAINS"
+  branch: null
+  swift: UBSWCHZH14A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZOLLIKON"
+  branch: null
+  swift: UBSWCHZH87B
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZUG"
+  branch: null
+  swift: UBSWCHZH63A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: ALBISRIEDERPLATZ
+  swift: UBSWCHZH80K
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: ALTSTETTEN
+  swift: UBSWCHZH80P
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: BLEICHERWEG
+  swift: UBSWCHZH80Q
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: CLS BUSINESS ONLY
+  swift: UBSWCHZHCLS
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: FX CCT OPERATIONS
+  swift: UBSWCHZHPBR
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: HEAD OFFICE
+  swift: UBSWCHZH80A
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: HEAD OFFICE/ADMINISTRATION
+  swift: UBSWCHZH
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: HOENGG
+  swift: UBSWCHZH80R
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: KEYLEND
+  swift: UBSWCHZHPNX
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: OERLIKON
+  swift: UBSWCHZH80M
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: OPS SIS ISSUANCE
+  swift: UBSWCHZHOSI
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: PARADEPLATZ
+  swift: UBSWCHZH80V
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: ROEMERHOF
+  swift: UBSWCHZH80H
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: SEEFELD
+  swift: UBSWCHZH80G
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: WIEDIKON
+  swift: UBSWCHZH80N
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSWCHZH147
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSWCHZH437
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSWCHZH889
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSWCHZH911
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSWCHZH947
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSWCHZH976
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSWCHZH995
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSWCHZHCOL
+    
+- name: "UBS SWITZERLAND AG"
+  city: "ZURICH"
+  branch: null
+  swift: UBSWCHZHT2S
+    
+- name: "UFJ BANK (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: SANWCHZ1
+    
+- name: "UNICREDIT BANK AG (HYPOVEREINSBANK)"
+  city: "ZURICH"
+  branch: null
+  swift: HYVECHZU
+    
+- name: "UNIGESTION S.A."
+  city: "GENEVA"
+  branch: EQUITIES
+  swift: UNIGCHGGEQT
+    
+- name: "UNIGESTION S.A."
+  city: "GENEVA"
+  branch: FAMILY OFFICE GENEVA
+  swift: UNIGCHGGFOG
+    
+- name: "UNIGESTION S.A."
+  city: "GENEVA"
+  branch: FAMILY OFFICE LONDON
+  swift: UNIGCHGGFOL
+    
+- name: "UNIGESTION S.A."
+  city: "GENEVA"
+  branch: FAMILY OFFICE PARIS
+  swift: UNIGCHGGFOP
+    
+- name: "UNIGESTION S.A."
+  city: "GENEVA"
+  branch: FINANCE AND PRODUCTS
+  swift: UNIGCHGGFIN
+    
+- name: "UNIGESTION S.A."
+  city: "GENEVA"
+  branch: HEDGE FUNDS
+  swift: UNIGCHGGHFD
+    
+- name: "UNIGESTION S.A."
+  city: "GENEVA"
+  branch: PRIVATE EQUITY
+  swift: UNIGCHGGPED
+    
+- name: "UNIGESTION S.A."
+  city: "GENEVA"
+  branch: null
+  swift: UNIGCHGG
+    
+- name: "UNILEVER FINANCE INTERNATIONAL AG"
+  city: "CHAM"
+  branch: null
+  swift: SULICH22
+    
+- name: "UNION BANCAIRE PRIVEE, GENEVA"
+  city: "BASLE"
+  branch: null
+  swift: UBPGCHGGBSL
+    
+- name: "UNION BANCAIRE PRIVEE, GENEVA"
+  city: "GENEVA"
+  branch: MIDDLE OFFICE ASSET MANAGEMENT
+  swift: UBPGCHGGMAM
+    
+- name: "UNION BANCAIRE PRIVEE, GENEVA"
+  city: "GENEVA"
+  branch: MIDDLE OFFICE
+  swift: UBPGCHG1MID
+    
+- name: "UNION BANCAIRE PRIVEE, GENEVA"
+  city: "GENEVA"
+  branch: null
+  swift: UBPGCHGG
+    
+- name: "UNION BANCAIRE PRIVEE, GENEVA"
+  city: "LUGANO"
+  branch: null
+  swift: UBPGCHGGLUG
+    
+- name: "UNION BANCAIRE PRIVEE, ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: UBPGCHZZ
+    
+- name: "UNITED MIZRAHI BANK (SWITZERLAND) LTD"
+  city: "ZURICH"
+  branch: null
+  swift: UMBLCHZZ
+    
+- name: "UNITED NATIONS TREASURY"
+  city: "GENEVA"
+  branch: null
+  swift: UNATCHG1
+    
+- name: "UNITED SECURITIES AND TRUST OF SWITZERLAND AG"
+  city: "ZUG"
+  branch: null
+  swift: USTSCH21
+    
+- name: "URNER KANTONALBANK"
+  city: "ALTDORF"
+  branch: null
+  swift: URKNCH22
+    
+- name: "VALCOURT SA"
+  city: "GENEVA"
+  branch: null
+  swift: VACCCHG1
+    
+- name: "VALECO FINANCE SA"
+  city: "GENEVA"
+  branch: null
+  swift: VAFICHG1
+    
+- name: "VALIANT BANK AG"
+  city: "BELP"
+  branch: FORMERLY BB BANK BELP
+  swift: VABECH22BBB
+    
+- name: "VALIANT BANK AG"
+  city: "BERNE"
+  branch: FORMERLY GEWERBEKASSE IN BERN
+  swift: VABECH22GKB
+    
+- name: "VALIANT BANK AG"
+  city: "BERNE"
+  branch: null
+  swift: VABECH22
+    
+- name: "VALIANT BANK AG"
+  city: "DELEMONT"
+  branch: null
+  swift: VABECH22BRV
+    
+- name: "VALIANT BANK AG"
+  city: "HEITENRIED"
+  branch: FORMERLY KGS SENSEBANK
+  swift: VABECH22KGS
+    
+- name: "VALIANT BANK AG"
+  city: "LANGNAU IM EMMENTAL"
+  branch: FORMERLY BANK IN LANGNAU
+  swift: VABECH22BIL
+    
+- name: "VALIANT BANK AG"
+  city: "LUCERNE"
+  branch: FORMERLY LUZERNER REGIOBANK
+  swift: VABECH22LRB
+    
+- name: "VALIANT BANK AG"
+  city: "MURTEN/MORAT"
+  branch: FORMERLY ERSPARNISKASSE MURTEN AG
+  swift: VABECH22EKM
+    
+- name: "VALIANT BANK AG"
+  city: "REINACH (AG)"
+  branch: FORMERLY IRB INTERREGIO BANK
+  swift: VABECH22IRB
+    
+- name: "VALIANT BANK AG"
+  city: "STEFFISBURG"
+  branch: VALIANT BANK AG (FORMERLY SPAR + LEIHKASSE STEFFISBURG)
+  swift: VABECH22STE
+    
+- name: "VALIANT BANK AG, PRIVATE BANKING (FORMERLY VALIANT PRIVATBANK AG)"
+  city: "BERNE"
+  branch: null
+  swift: VBBECH22
+    
+- name: "VAN DAALEN ET CIE SA"
+  city: "GENEVA"
+  branch: null
+  swift: DAALCHG1
+    
+- name: "VAN DER MOOLEN EFFECTEN SPECIALIST B.V., AMSTERDAM, SWISS BRANCH, ZUG"
+  city: "ZUG"
+  branch: null
+  swift: MESACH21
+    
+- name: "VARO ENERGY MARKETING AG"
+  city: "CHAM"
+  branch: null
+  swift: VAROCH2C
+    
+- name: "VAUDOISE GENERALE, COMPAGNIE D'ASSURANCES SA"
+  city: "LAUSANNE"
+  branch: null
+  swift: VGCDCH21
+    
+- name: "VAUDOISE VIE, COMPAGNIE D'ASSURANCES SA"
+  city: "LAUSANNE"
+  branch: null
+  swift: CNVACH21
+    
+- name: "VECTOR ENERGY SA"
+  city: "BAAR"
+  branch: null
+  swift: VECNCH21
+    
+- name: "VELCOR S.A."
+  city: "LANGNAU IM EMMENTAL"
+  branch: null
+  swift: VELCCHG1
+    
+- name: "VERSICHERUNGSKASSE FUR DAS STAATSPERSONAL"
+  city: "ZURICH"
+  branch: null
+  swift: VEDSCHZ1
+    
+- name: "VESCORE SOLUTIONS AG"
+  city: "ZURICH"
+  branch: null
+  swift: VESOCHZ1
+    
+- name: "VILMA OIL S.L. LAS ROZAS DE MADRID ZUG BRANCH"
+  city: "ZUG"
+  branch: null
+  swift: VILMCH21
+    
+- name: "VITOL SA"
+  city: "GENEVA"
+  branch: null
+  swift: VITOCHGG
+    
+- name: "VOLCAFE LTD"
+  city: "WINTERTHUR"
+  branch: null
+  swift: VOCCCH21
+    
+- name: "VOLKSBANK AG"
+  city: "ST. MARGRETHEN"
+  branch: null
+  swift: RBABCH22VVB
+    
+- name: "VONTOBEL SECURITIES AG"
+  city: "ZURICH"
+  branch: null
+  swift: VNTSCHZ1
+    
+- name: "VORSORGE-EINRICHTUNG DER SUVA"
+  city: "LUCERNE"
+  branch: null
+  swift: SUVECH22
+    
+- name: "VP BANK (SCHWEIZ) AG"
+  city: "ZURICH"
+  branch: null
+  swift: VPBVCHZH
+    
+- name: "VZ DEPOTBANK AG"
+  city: "ZUG"
+  branch: null
+  swift: VZDBCHZZ
+    
+- name: "W.I. CARR, BANQUE INDOSUEZ GROUP, ZURICH"
+  city: "ZURICH"
+  branch: null
+  swift: WICACHZ1
+    
+- name: "WAKE ASSET MANAGEMENT S.A."
+  city: "GENEVA"
+  branch: null
+  swift: WASGCHG1
+    
+- name: "WAKO BANK (SWITZERLAND) LTD."
+  city: "ZURICH"
+  branch: null
+  swift: WASCCHZ1
+    
+- name: "WALMART BANK AG"
+  city: "ZURICH"
+  branch: INTERNATIONAL TRADING
+  swift: WALRCHZ1INT
+    
+- name: "WALMART BANK AG"
+  city: "ZURICH"
+  branch: OPERATIONS
+  swift: WALRCHZ1OPR
+    
+- name: "WALMART BANK AG"
+  city: "ZURICH"
+  branch: ZURICH HEAD OFFICE
+  swift: WALRCHZ1ZUR
+    
+- name: "WALMART BANK AG"
+  city: "ZURICH"
+  branch: null
+  swift: WALRCHZ1
+    
+- name: "WIR BANK GENOSSENSCHAFT"
+  city: "BASLE"
+  branch: null
+  swift: WIRBCHBB
+    
+- name: "WM PARTNERS"
+  city: "ZURICH"
+  branch: null
+  swift: PANRCHZ1
+    
+- name: "WUERTH FINANCE INTERNATIONAL B.V."
+  city: "RORSCHACH"
+  branch: null
+  swift: WUFICHZZ
+    
+- name: "WULLSCHLEGER MARTINENCHI MANZI"
+  city: "LUGANO"
+  branch: null
+  swift: WUMMCH21
+    
+- name: "WYCOMBE FINANCIAL SERVICES"
+  city: "GENEVA"
+  branch: null
+  swift: WYFSCHG1
+    
+- name: "XY SA"
+  city: "CHIASSO"
+  branch: null
+  swift: SAXYCH22
+    
+- name: "XYLEM EUROPE GMBH"
+  city: "SCHAFFHAUSEN"
+  branch: null
+  swift: YLEMCH2S
+    
+- name: "ZAHRINGER PRIVATBANK AG"
+  city: "BERNE"
+  branch: null
+  swift: ZAPRCH22
+    
+- name: "ZUERCHER KANTONALBANK"
+  city: "ZURICH"
+  branch: CLS-DEPARTEMENT
+  swift: ZKBKCHZZCLS
+    
+- name: "ZUERCHER KANTONALBANK"
+  city: "ZURICH"
+  branch: null
+  swift: ZKBKCHZZ
+    
+- name: "ZUERCHER KANTONALBANK"
+  city: "ZURICH"
+  branch: null
+  swift: ZKBKCHZZ80A
+    
+- name: "ZUERCHER LANDBANK AG"
+  city: "ELGG"
+  branch: null
+  swift: RBABCH22877
+    
+- name: "ZUGER KANTONALBANK"
+  city: "ZUG"
+  branch: null
+  swift: KBZGCH22
+    
+- name: "ZUGERBERG FINANZ AG"
+  city: "ZUG"
+  branch: null
+  swift: ZUFICH21
+    
+- name: "ZURICH COMPAGNIE D'ASSURANCES SUR LA VIE"
+  city: "ZURICH"
+  branch: null
+  swift: ZCDSCHZ1
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ASS
+  swift: ZURICHZFASS
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: AVA
+  swift: ZURICHZFAVA
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: BGI
+  swift: ZURICHZFBGI
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: CAB
+  swift: ZURICHZFCAB
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: CEU
+  swift: ZURICHZFCEU
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: GAV
+  swift: ZURICHZFGAV
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: GLV
+  swift: ZURICHZFGLV
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ITH
+  swift: ZURICHZFITH
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ITI
+  swift: ZURICHZFITI
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: KVS
+  swift: ZURICHZFKVS
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ORV
+  swift: ZURICHZFORV
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: PFA
+  swift: ZURICHZFPFA
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: PFZ
+  swift: ZURICHZFPFZ
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: STC
+  swift: ZURICHZFSTC
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: TUI
+  swift: ZURICHZFTUI
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: TUR
+  swift: ZURICHZFTUR
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: VLV
+  swift: ZURICHZFVLV
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZBR
+  swift: ZURICHZFZBR
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZCS
+  swift: ZURICHZFZCS
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZFB
+  swift: ZURICHZFZFB
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZFG
+  swift: ZURICHZFZFG
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZFJ
+  swift: ZURICHZFZFJ
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZFP
+  swift: ZURICHZFZFP
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZFS
+  swift: ZURICHZFZFS
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZG1
+  swift: ZURICHZFZG1
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZG2
+  swift: ZURICHZFZG2
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZG3
+  swift: ZURICHZFZG3
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZG4
+  swift: ZURICHZFZG4
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZGH
+  swift: ZURICHZFZGH
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZIB
+  swift: ZURICHZFZIB
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZIC
+  swift: ZURICHZFZIC
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZIJ
+  swift: ZURICHZFZIJ
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZIM
+  swift: ZURICHZFZIM
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZIN
+  swift: ZURICHZFZIN
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZLV
+  swift: ZURICHZFZLV
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZPI
+  swift: ZURICHZFZPI
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZR1
+  swift: ZURICHZFZR1
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZR2
+  swift: ZURICHZFZR2
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZR3
+  swift: ZURICHZFZR3
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZR4
+  swift: ZURICHZFZR4
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZR5
+  swift: ZURICHZFZR5
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZR6
+  swift: ZURICHZFZR6
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZRV
+  swift: ZURICHZFZRV
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZURICH GLOBAL FUNDING
+  swift: ZURICHZFZGF
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZURICH LIFE UMBRELLA FUND GEBUNDENES VERMOEGEN ALLGEMEIN AKTIEN
+  swift: ZURICHZFZLS
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZURICH LIFE UMBRELLA FUND GEBUNDENES VERMOEGEN ALLGEMEIN
+  swift: ZURICHZFZLF
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZURICH LIFE UMBRELLA FUND GEBUNDENES VERMOEGEN KOLLEKTIV AKTIEN
+  swift: ZURICHZFZKS
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZURICH LIFE UMBRELLA FUND GEBUNDENES VERMOEGEN KOLLEKTIV
+  swift: ZURICHZFZKF
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: ZVG
+  swift: ZURICHZFZVG
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: null
+  swift: ZURICHZB
+    
+- name: "ZURICH INSURANCE COMPANY"
+  city: "ZURICH"
+  branch: null
+  swift: ZURICHZF
+    

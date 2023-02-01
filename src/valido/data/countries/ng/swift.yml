@@ -1,0 +1,980 @@
+- name: "ACCESS BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: ABNGNGLA
+    
+- name: "AFRICAN EXPORT-IMPORT BANK"
+  city: "ABUJA"
+  branch: null
+  swift: AFXMNGLA
+    
+- name: "ASSET MANAGEMENT CORPORATION OF NIGERIA"
+  city: "ABUJA"
+  branch: null
+  swift: AMNGNGLA
+    
+- name: "B2BSOLUTINS LTD"
+  city: "LAGOS"
+  branch: null
+  swift: BBSONGL1
+    
+- name: "BANK OF INDUSTRY FINANCIAL DEPARTMENT"
+  city: "LAGOS"
+  branch: null
+  swift: BOIYNGLA
+    
+- name: "BRITISH AMERICAN TOBACCO (NIGERIA) LTD"
+  city: "LAGOS"
+  branch: null
+  swift: BATSNG21
+    
+- name: "BRITISH AMERICAN TOBACCO MARKETING NIGERIA LTD"
+  city: "ABUJA"
+  branch: null
+  swift: BATSNGL1
+    
+- name: "BT INTERNATIONAL (NIGERIA) LTD."
+  city: "LAGOS"
+  branch: null
+  swift: NIGINGL1
+    
+- name: "BZX INVESTMENTS LTD"
+  city: "ILESHA"
+  branch: null
+  swift: BZINNGL1
+    
+- name: "CENTRAL BANK OF NIGERIA"
+  city: "LAGOS"
+  branch: null
+  swift: CBNINGLA
+    
+- name: "CENTRAL SECURITIES CLEARING SYSTEM PLC"
+  city: "LAGOS"
+  branch: null
+  swift: CSCYNGLA
+    
+- name: "CHAPEL HILL DENHAM SECURITIES LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: CHDENGL1
+    
+- name: "CITIBANK NIGERIA LIMITED"
+  city: "LAGOS"
+  branch: TRADE SERVICES DEPARTMENT
+  swift: CITINGLATRD
+    
+- name: "CITIBANK NIGERIA LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: CITINGLA
+    
+- name: "CITY EXPRESS BANK LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: CIEHNGL1
+    
+- name: "CORONATION MERCHANT BANK LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: ADHLNGLA
+    
+- name: "CORONATION MERCHANT BANK LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: CMBBNGLA
+    
+- name: "CSL STOCKBROKERS LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: CSSKNGL1
+    
+- name: "DEVCOM BANK LTD"
+  city: "LAGOS"
+  branch: null
+  swift: DEVCNGL1
+    
+- name: "DEVCOM MERCHANT BANK LTD."
+  city: "LAGOS"
+  branch: null
+  swift: DEMBNGL1
+    
+- name: "DIAMOND BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: DBLNNGLA
+    
+- name: "ECOBANK NIGERIA LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: ECOCNGLA
+    
+- name: "FBN MERCHANT BANK LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: KDHLNGLA
+    
+- name: "FIDELITY BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: FIDTNGLA
+    
+- name: "FIDELITY BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: FUMRNGL1
+    
+- name: "FIRST BANK OF NIGERIA LTD"
+  city: "LAGOS"
+  branch: CUSTODIAN SERVICES
+  swift: FBNINGLAGCS
+    
+- name: "FIRST BANK OF NIGERIA LTD"
+  city: "LAGOS"
+  branch: null
+  swift: FBNINGLA
+    
+- name: "FIRST CITY MONUMENT BANK LIMITED"
+  city: "LAGOS"
+  branch: ELECTRONIC BANKING
+  swift: FCMBNGLAWEB
+    
+- name: "FIRST CITY MONUMENT BANK LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: FCMBNGLA
+    
+- name: "FIRST INTERSTATE MERCHANT BANK (NIGERIA) LTD."
+  city: "LAGOS"
+  branch: null
+  swift: FIMNNGL1
+    
+- name: "FORTUNE INTERNATIONAL BANC PLC"
+  city: "LAGOS"
+  branch: null
+  swift: FOIBNGL1
+    
+- name: "FSDH MERCHANT BANK LTD"
+  city: "LAGOS"
+  branch: null
+  swift: FSDHNGLA
+    
+- name: "GUARANTY TRUST BANK PLC"
+  city: "LAGOS"
+  branch: INFO POOL
+  swift: GTBINGLAIFP
+    
+- name: "GUARANTY TRUST BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: GTBINGLA
+    
+- name: "GULF BANK OF NIGERIA PLC"
+  city: "LAGOS"
+  branch: null
+  swift: GBNPNGL1
+    
+- name: "HALLMARK BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: HALMNGL1
+    
+- name: "HERITAGE BANKING COMPANY LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: HBCLNGLA
+    
+- name: "IKON CAPITAL AFRICA LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: IKONNGL1
+    
+- name: "INDORAMA ELEME FERTILIZER AND CHEMICALS LIMITED"
+  city: "PORT HARCOURT"
+  branch: null
+  swift: IEFCNGL1
+    
+- name: "INDORAMA ELEME PETROCHEMICALS LIMITED"
+  city: "PORT HARCOURT"
+  branch: null
+  swift: INLHNGL1
+    
+- name: "JAIZ BANK PLC"
+  city: "ABUJA"
+  branch: null
+  swift: JAIZNGLA
+    
+- name: "KEYSTONE BANK LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: PLNINGLA
+    
+- name: "LOBE BANK OF NIGERIA"
+  city: "LAGOS"
+  branch: null
+  swift: LBNINGL1
+    
+- name: "MANNY BANK LTD."
+  city: "LAGOS"
+  branch: null
+  swift: MAMBNGL1
+    
+- name: "METROPOLITAN BANK LTD"
+  city: "LAGOS"
+  branch: null
+  swift: METMNGL1
+    
+- name: "MOBIL OIL NIGERIA PLC"
+  city: "LAGOS"
+  branch: null
+  swift: MOOGNGL1
+    
+- name: "NIGERIA UNIVERSAL BANK LIMITED"
+  city: "KADUNA"
+  branch: null
+  swift: KACBNG21
+    
+- name: "NIGERIA UNIVERSAL BANK LTD."
+  city: "KATSINA"
+  branch: null
+  swift: KNUBNGL1022
+    
+- name: "NIGERIA UNIVERSAL BANK LTD."
+  city: "LAGOS"
+  branch: null
+  swift: KNUBNGL1
+    
+- name: "NIGERIAN EXPORT IMPORT BANK"
+  city: "ABUJA"
+  branch: null
+  swift: NEXMNGLA
+    
+- name: "NIGERIAN INDUSTRIAL DEVELOPMENT BANK LTD"
+  city: "LAGOS"
+  branch: null
+  swift: NIDBNGL1
+    
+- name: "NIGERIAN STOCK EXCHANGE, THE"
+  city: "LAGOS"
+  branch: null
+  swift: XNSANGL1
+    
+- name: "PROVIDUSBANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: UMPLNGLA
+    
+- name: "RAND MERCHANT BANK NIGERIA LIMITED"
+  city: "LAGOS"
+  branch: RMB NIGERIA STOCKBROKERS LIMITED
+  swift: FIRNNGLARMS
+    
+- name: "RAND MERCHANT BANK NIGERIA LIMITED"
+  city: "VICTORIA ISLAND"
+  branch: null
+  swift: FIRNNGLA
+    
+- name: "RENAISSANCE SECURITIES (NIGERIA) LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: REECNGL1
+    
+- name: "SABMILLER NIGERIA"
+  city: "ILESHA"
+  branch: null
+  swift: SABMNGL1IBP
+    
+- name: "SABMILLER NIGERIA"
+  city: "LAGOS"
+  branch: null
+  swift: SABMNGL1
+    
+- name: "SABMILLER NIGERIA"
+  city: "LAGOS"
+  branch: null
+  swift: SABMNGL1VNL
+    
+- name: "SABMILLER NIGERIA"
+  city: "ONITSHA"
+  branch: null
+  swift: SABMNGL1IBL
+    
+- name: "SABMILLER NIGERIA"
+  city: "PORT HARCOURT"
+  branch: null
+  swift: SABMNGL1PBL
+    
+- name: "SAMSUNG ELECTRONICS WEST AFRICA LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: SECTNGL1
+    
+- name: "SAMSUNG ELECTRONICS WEST AFRICA LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: SECTNGL1701
+    
+- name: "SKYE BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: PRDTNGLA
+    
+- name: "STANBIC IBTC BANK PLC"
+  city: "LAGOS"
+  branch: HEAD OFFICE
+  swift: SBICNGLX
+    
+- name: "STANBIC IBTC BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: SBICNGLB
+    
+- name: "STANDARD CHARTERED BANK NIGERIA LIMITED"
+  city: "LAGOS"
+  branch: SECURITIES SERVICES
+  swift: SCBLNGLASSU
+    
+- name: "STANDARD CHARTERED BANK NIGERIA LIMITED"
+  city: "LAGOS"
+  branch: STORM II
+  swift: SCBLNGLASTM
+    
+- name: "STANDARD CHARTERED BANK NIGERIA LIMITED"
+  city: "LAGOS"
+  branch: TREASURY SERVICES
+  swift: SCBLNGLATSY
+    
+- name: "STANDARD CHARTERED BANK NIGERIA LIMITED"
+  city: "LAGOS"
+  branch: UNITRUST, HEAD OFFICE BRANCH
+  swift: SCBLNGLAPYT
+    
+- name: "STANDARD CHARTERED BANK NIGERIA LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: SCBLNGLA
+    
+- name: "STERLING BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: NAMENGLA
+    
+- name: "SUNTRUST BANK NIGERIA LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: SUTGNGLA
+    
+- name: "TRADE BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: TDEBNGL1
+    
+- name: "TRADE-ON-WEB, LLC"
+  city: "WARRI"
+  branch: null
+  swift: TRLLNGL1
+    
+- name: "UNION BANK OF NIGERIA PLC"
+  city: "LAGOS"
+  branch: null
+  swift: UBNINGLA
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ABA"
+  branch: ABA MAIN BRANCH
+  swift: UNAFNGLA088
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ABA"
+  branch: ABA/OWERRI RD. BRANCH
+  swift: UNAFNGLA171
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ABA"
+  branch: EZIUKWU BRANCH
+  swift: UNAFNGLA223
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ABEOKUTA"
+  branch: ABEOKUTA BRANCH
+  swift: UNAFNGLA055
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ABUJA"
+  branch: ABUJA BRANCH
+  swift: UNAFNGLA114
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ABUJA"
+  branch: NICON NOGA BRANCH
+  swift: UNAFNGLA215
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "AKURE"
+  branch: AKURE BRANCH
+  swift: UNAFNGLA056
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ASABA"
+  branch: ASABA BRANCH
+  swift: UNAFNGLA175
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "AWKA"
+  branch: AWKA BRANCH
+  swift: UNAFNGLA164
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "BAUCHI"
+  branch: BAUCHI BRANCH
+  swift: UNAFNGLA030
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "BENIN CITY"
+  branch: BENIN BRANCH
+  swift: UNAFNGLA044
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "BENIN CITY"
+  branch: UGBOWO BRANCH
+  swift: UNAFNGLA117
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "CALABAR"
+  branch: CALABAR BRANCH
+  swift: UNAFNGLA094
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "EKET"
+  branch: EKET BRANCH
+  swift: UNAFNGLA222
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ENUGU"
+  branch: AGBANI ROAD BRANCH
+  swift: UNAFNGLA176
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ENUGU"
+  branch: ENUGU BRANCH
+  swift: UNAFNGLA084
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ENUGU"
+  branch: UNEC BRANCH
+  swift: UNAFNGLA123
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "FUNTUA"
+  branch: FUNTUA BRANCH
+  swift: UNAFNGLA054
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "GOMBE"
+  branch: GOMBE BRANCH
+  swift: UNAFNGLA152
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "HADEJIA"
+  branch: HADEJIA BRANCH
+  swift: UNAFNGLA126
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "IBADAN"
+  branch: AMUNIGUN BRANCH
+  swift: UNAFNGLA043
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "IBADAN"
+  branch: IBADAN MAIN BRANCH
+  swift: UNAFNGLA040
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "IBADAN"
+  branch: IWO ROAD BRANCH
+  swift: UNAFNGLA166
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "IBADAN"
+  branch: MOLETE BRANCH
+  swift: UNAFNGLA042
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "IDAH"
+  branch: IDAH BRANCH
+  swift: UNAFNGLA112
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "IJEBU ODE"
+  branch: IJEBU ODE BRANCH
+  swift: UNAFNGLA132
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "IKOM"
+  branch: IKOM BRANCH
+  swift: UNAFNGLA023
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ILORIN"
+  branch: ILORIN BRANCH
+  swift: UNAFNGLA049
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "JOS"
+  branch: JOS BRANCH
+  swift: UNAFNGLA098
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KADUNA"
+  branch: KADUNA NORTH BRANCH
+  swift: UNAFNGLA062
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KADUNA"
+  branch: KADUNA SOUTH BRANCH
+  swift: UNAFNGLA064
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KADUNA"
+  branch: TUDUN WADA BRANCH
+  swift: UNAFNGLA153
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KAFANCHAN"
+  branch: KAFANCHAN BRANCH
+  swift: UNAFNGLA195
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KANO"
+  branch: ADO BAYERO BRANCH
+  swift: UNAFNGLA224
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KANO"
+  branch: AMINU KANO INT'L AIRPORT
+  swift: UNAFNGLA169
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KANO"
+  branch: BAYERO UNIVERSITY BR.
+  swift: UNAFNGLA066
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KANO"
+  branch: KANO MAIN BRANCH
+  swift: UNAFNGLA060
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KANO"
+  branch: KANO SHARADA BRANCH
+  swift: UNAFNGLA136
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KANO"
+  branch: KANO WAJE BRANCH
+  swift: UNAFNGLA137
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KATSINA"
+  branch: DUTSINMA BRANCH
+  swift: UNAFNGLA154
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KATSINA"
+  branch: KATSINA BRANCH
+  swift: UNAFNGLA125
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "KONTAGORA"
+  branch: KONTAGORA BRANCH
+  swift: UNAFNGLA147
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: ADEOLA ODEKU BRANCH
+  swift: UNAFNGLA213
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: AGBARA ESTATE BRANCH
+  swift: UNAFNGLA138
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: ALABA INTERNATIONAL MARKET
+  swift: UNAFNGLA227
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: ALAUSA BRANCH
+  swift: UNAFNGLA218
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: APAPA WAREHOUSE BRANCH
+  swift: UNAFNGLA026
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: APAPA WHARF BRANCH
+  swift: UNAFNGLA004
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: BREADFRUIT BRANCH
+  swift: UNAFNGLA219
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: E-BANKING SERVICE DEPT.
+  swift: UNAFNGLA228
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: EBUTE METTA BRANCH
+  swift: UNAFNGLA008
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: FALOMO BRANCH
+  swift: UNAFNGLA012
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: FINANCE OPERATIONS (FINOPS)
+  swift: UNAFNGLA303
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: FOREIGN CURRENCT DOMICILIARY
+  swift: UNAFNGLA304
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: FOREIGN TRADE
+  swift: UNAFNGLA306
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: FOREIGN TREASURY OPERATIONS
+  swift: UNAFNGLA305
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: IDOWU TAYLOR BRANCH
+  swift: UNAFNGLA193
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: IDUMAGBO BRANCH
+  swift: UNAFNGLA009
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: IGANMU BRANCH
+  swift: UNAFNGLA011
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: IJORA BRANCH
+  swift: UNAFNGLA007
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: IKEJA BRANCH
+  swift: UNAFNGLA005
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: IKORODU ROAD BRANCH
+  swift: UNAFNGLA143
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: ILUPEJU BRANCH
+  swift: UNAFNGLA006
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: LAGOS AREA CLEARING CENTRE
+  swift: UNAFNGLA301
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: LAGOS CASH MANAGMENT CENTRE
+  swift: UNAFNGLA226
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: LAGOS CENTRAL BRANCH
+  swift: UNAFNGLA002
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: LAGOS EAST BRANCH
+  swift: UNAFNGLA003
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: MARINA WEST BRANCH
+  swift: UNAFNGLA150
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: MM INT'L AIRPORT ROAD
+  swift: UNAFNGLA217
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: OBALENDE BRANCH
+  swift: UNAFNGLA130
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: OKE ARIN BRANCH
+  swift: UNAFNGLA221
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: OREGUN BRANCH
+  swift: UNAFNGLA016
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: SALARY ADMINISTRATION DEPT.
+  swift: UNAFNGLA307
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: SURULERE BRANCH
+  swift: UNAFNGLA205
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: TINUBU BRANCH
+  swift: UNAFNGLA014
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: TREASURY OPERATIONS
+  swift: UNAFNGLA302
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: UBA HOUSE BRANCH
+  swift: UNAFNGLA204
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: UBA REGISTRARS
+  swift: UNAFNGLA181
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: UNILAG BRANCH
+  swift: UNAFNGLA010
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LAGOS"
+  branch: null
+  swift: UNAFNGLA
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "LOKOJA"
+  branch: LOKOJA BRANCH
+  swift: UNAFNGLA127
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "MAIDUGURI"
+  branch: BAGA ROAD BRANCH
+  swift: UNAFNGLA179
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "MAIDUGURI"
+  branch: MAIDUGURI MAIN BRANCH
+  swift: UNAFNGLA067
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "MAKURDI"
+  branch: MAKURDI BRANCH
+  swift: UNAFNGLA031
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "MINNA"
+  branch: MINNA BRANCH
+  swift: UNAFNGLA099
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "MUBI"
+  branch: MUBI BRANCH
+  swift: UNAFNGLA159
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "NEW BUSSA"
+  branch: NEW BUSSA BRANCH
+  swift: UNAFNGLA050
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "NNEWI"
+  branch: NNEWI BRANCH
+  swift: UNAFNGLA113
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "OGBOMOSHO"
+  branch: OGBOMOSHO BRANCH
+  swift: UNAFNGLA160
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "OKENE"
+  branch: AJAOKUTA BRANCH
+  swift: UNAFNGLA139
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ONDO"
+  branch: ONDO BRANCH
+  swift: UNAFNGLA115
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ONITSHA"
+  branch: ONITSHA BRANCH
+  swift: UNAFNGLA086
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "OSHOGBO"
+  branch: OSHOGBO BRANCH
+  swift: UNAFNGLA022
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "OTTA"
+  branch: OTTA BRANCH
+  swift: UNAFNGLA039
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "OWERRI"
+  branch: OWERRI BRANCH
+  swift: UNAFNGLA087
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "OYO"
+  branch: OYO BRANCH
+  swift: UNAFNGLA206
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "PORT HARCOURT"
+  branch: BONNY BRANCH
+  swift: UNAFNGLA220
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "PORT HARCOURT"
+  branch: PH AGGREY RD. BRANCH
+  swift: UNAFNGLA082
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "PORT HARCOURT"
+  branch: PORT HARCOURT
+  swift: UNAFNGLA080
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "PORT HARCOURT"
+  branch: TRANS AMADI BRANCH
+  swift: UNAFNGLA083
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "SAPELE"
+  branch: SAPELE BRANCH
+  swift: UNAFNGLA046
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "SHENDAM"
+  branch: SHENDAM
+  swift: UNAFNGLA118
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "SOKOTO"
+  branch: GUSAU BRANCH
+  swift: UNAFNGLA210
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "SOKOTO"
+  branch: SOKOTO FODIO RD. BRANCH
+  swift: UNAFNGLA070
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "SOKOTO"
+  branch: SOKOTO KRB BRANCH
+  swift: UNAFNGLA025
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "UMUAHIA"
+  branch: UMUAHIA BRANCH
+  swift: UNAFNGLA141
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "UYO"
+  branch: UYO BRANCH
+  swift: UNAFNGLA024
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "WARRI"
+  branch: EFFURUN BRANCH
+  swift: UNAFNGLA034
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "WARRI"
+  branch: WARRI BRANCH
+  swift: UNAFNGLA048
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "YOLA"
+  branch: YOLA BRANCH
+  swift: UNAFNGLA032
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ZARIA"
+  branch: SAMARU BRANCH
+  swift: UNAFNGLA203
+    
+- name: "UNITED BANK FOR AFRICA PLC"
+  city: "ZARIA"
+  branch: ZARIA BRANCH
+  swift: UNAFNGLA065
+    
+- name: "UNITY BANK PLC"
+  city: "ABUJA"
+  branch: null
+  swift: ICITNGLA
+    
+- name: "WEMA BANK PLC"
+  city: "KANO"
+  branch: null
+  swift: WEMANGLA02K
+    
+- name: "WEMA BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: WEMANGLA
+    
+- name: "WEMA BANK PLC"
+  city: "TINUBU"
+  branch: null
+  swift: WEMANGLA02T
+    
+- name: "ZENITH BANK PLC"
+  city: "ABUJA"
+  branch: ABUJA BRANCH
+  swift: ZEIBNGLA013
+    
+- name: "ZENITH BANK PLC"
+  city: "LAGOS"
+  branch: ELECTRONIC TRANSACTIONS
+  swift: ZEIBNGLAWEB
+    
+- name: "ZENITH BANK PLC"
+  city: "LAGOS"
+  branch: null
+  swift: ZEIBNGLA
+    
+- name: "ZENITH PENSIONS CUSTODIAN LIMITED"
+  city: "LAGOS"
+  branch: null
+  swift: ZEPCNGLA
+    

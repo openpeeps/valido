@@ -1,0 +1,85 @@
+- name: "ANTIGUA COMMERCIAL BANK"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: ANCBAGAG
+    
+- name: "ANTIGUA COMMERCIAL BANK"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: AOBAAGA1
+    
+- name: "BOI BANK CORPORATION"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: BOIBAGAG
+    
+- name: "BRS BANQUE S.A."
+  city: "ST. JOHN'S"
+  branch: null
+  swift: BRSFAGAG
+    
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: NOSCAGAG
+    
+- name: "CARIBBEAN UNION BANK LTD"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: CUNBAGAG
+    
+- name: "D BANK LTD."
+  city: "ST. JOHN'S"
+  branch: null
+  swift: DANLAGAG
+    
+- name: "EASTERN CARIBBEAN AMALGAMATED BANK LTD. (ECAB)"
+  city: "COOLIDGE"
+  branch: null
+  swift: ECABAGAG
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: FCIBAGAG
+    
+- name: "GLOBAL ALLIANCE BUILDING SOCIETY GLOBAL ALLIANCE GROUP"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: GABCAGA1
+    
+- name: "GLOBAL BANK OF COMMERCE, LTD."
+  city: "ST. JOHN'S"
+  branch: null
+  swift: GBCLAGAG
+    
+- name: "GOVERNMENT OF ANTIGUA AND BARBUDA"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: GVABAGAG
+    
+- name: "MEINL BANK (ANTIGUA) LIMITED"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: MBALAGAG
+    
+- name: "NORTH INTERNATIONAL BANK, LTD."
+  city: "ST. JOHN'S"
+  branch: null
+  swift: NOITAGAG
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: ROYCAGAG
+    
+- name: "TRIUM BANK AND TRUST LTD."
+  city: "ST. JOHN'S"
+  branch: null
+  swift: TBTLAGAG
+    
+- name: "V.T.I. BANK LTD"
+  city: "ST. JOHN'S"
+  branch: null
+  swift: VTIBAGA1
+    

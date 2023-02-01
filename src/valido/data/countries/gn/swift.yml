@@ -1,0 +1,95 @@
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "CONAKRY"
+  branch: null
+  swift: ADBGGNG1
+    
+- name: "AFRILAND FIRST BANK GUINEE S A"
+  city: "CONAKRY"
+  branch: null
+  swift: CCEIGNGN
+    
+- name: "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: REPCGNGA
+    
+- name: "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: REPCGNGN
+    
+- name: "BANQUE DE DEVELOPPEMENT DE GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: BDGEGNGN
+    
+- name: "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: BICIGNCX
+    
+- name: "BANQUE ISLAMIQUE DE GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: ISGUGNGN
+    
+- name: "BANQUE NATIONALE DE GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: BQNGGNGN
+    
+- name: "BANQUE POPULAIRE MAROCO-GUINEENNE SA"
+  city: "CONAKRY"
+  branch: null
+  swift: POMBGNGN
+    
+- name: "BANQUE POUR LE COMMERCE ET L'INDUSTRIE DE GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: COLIGNGN
+    
+- name: "BSIC GUINEE CONAKRY"
+  city: "CONAKRY"
+  branch: null
+  swift: BSGNGNGN
+    
+- name: "ECOBANK GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: ECOCGNCN
+    
+- name: "FBNBANK GUINEA SA"
+  city: "CONAKRY"
+  branch: null
+  swift: ICMOGNCN
+    
+- name: "FIRST INTERNATIONAL BANK SA"
+  city: "CONAKRY"
+  branch: null
+  swift: FIBLGNGN
+    
+- name: "NSIA BANQUE GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: BIAOGNGN
+    
+- name: "ORABANK GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: ORBKGNGN
+    
+- name: "SKYE BANK GUINEA LIMITED S.A."
+  city: "CONAKRY"
+  branch: null
+  swift: SKYEGNGN
+    
+- name: "SOCIETE GENERALE DE BANQUES EN GUINEE"
+  city: "CONAKRY"
+  branch: null
+  swift: SGGNGNGN
+    
+- name: "UNITED BANK FOR AFRICA GUINEA"
+  city: "CONAKRY"
+  branch: null
+  swift: UBAGGNCN
+    

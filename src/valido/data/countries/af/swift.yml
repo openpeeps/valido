@@ -1,0 +1,100 @@
+- name: "AFGHAN UNITED BANK"
+  city: "KABUL"
+  branch: null
+  swift: AFGUAFKA
+    
+- name: "AFGHANISTAN COMMERCIAL BANK"
+  city: "KABUL"
+  branch: null
+  swift: TBAAAFKA
+    
+- name: "AFGHANISTAN INTERNATIONAL BANK"
+  city: "KABUL"
+  branch: null
+  swift: AFIBAFKA
+    
+- name: "ARIAN BANK"
+  city: "KABUL"
+  branch: null
+  swift: AFABAFKA
+    
+- name: "AZIZI BANK"
+  city: "KABUL"
+  branch: null
+  swift: AZBAAFKA
+    
+- name: "BAKHTAR BANK"
+  city: "KABUL"
+  branch: null
+  swift: IBAFAFKA
+    
+- name: "BANK ALFALAH LIMITED (AFGHANISTAN - KABUL BRANCH)"
+  city: "HERAT"
+  branch: AFGHANISTAN - HERAT BRANCH
+  swift: ALFHAFKA803
+    
+- name: "BANK ALFALAH LIMITED (AFGHANISTAN - KABUL BRANCH)"
+  city: "KABUL"
+  branch: null
+  swift: ALFHAFKA
+    
+- name: "BANKE MILLIE AFGHAN"
+  city: "KABUL"
+  branch: null
+  swift: BMAFAFKA
+    
+- name: "DA AFGHANISTAN BANK"
+  city: "KABUL"
+  branch: null
+  swift: AFGBAFKA
+    
+- name: "FIRST MICROFINANCE BANK LTD., THE"
+  city: "KABUL"
+  branch: SHASH DARAK KABUL BRANCH
+  swift: FMFBAFKA
+    
+- name: "GHAZANFAR BANK"
+  city: "KABUL"
+  branch: null
+  swift: GHBKAFKA
+    
+- name: "GHAZANFAR BANK"
+  city: "KABUL"
+  branch: null
+  swift: GHBKAFKAISW
+    
+- name: "HABIB BANK LIMITED"
+  city: "KABUL"
+  branch: null
+  swift: HABBAFKA
+    
+- name: "INDUSTRIAL DEVELOPMENT BANK OF AFGHANISTAN"
+  city: "KABUL"
+  branch: null
+  swift: IDTBAFK1
+    
+- name: "MAIWAND BANK"
+  city: "KABUL"
+  branch: null
+  swift: MWBKAFKA
+    
+- name: "MORTGAGE AND CONSTRUCTION BANK"
+  city: "KABUL"
+  branch: null
+  swift: CBMOAFK1
+    
+- name: "NATIONAL BANK OF PAKISTAN, KABUL BRANCH"
+  city: "KABUL"
+  branch: null
+  swift: NBPAAFKA
+    
+- name: "NEW KABUL BANK"
+  city: "KABUL"
+  branch: null
+  swift: KABUAFKA
+    
+- name: "PASHTANY BANK"
+  city: "KABUL"
+  branch: null
+  swift: PIBAAFKA
+    

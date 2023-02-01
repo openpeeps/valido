@@ -1,0 +1,155 @@
+- name: "3GT ACTIVE TRADING FUNDS PCC LTD"
+  city: "GIBRALTAR"
+  branch: null
+  swift: ATFCGI21
+    
+- name: "BALTICA BANK (GIBRALTAR) LTD"
+  city: "GIBRALTAR"
+  branch: null
+  swift: BBALGIG1
+    
+- name: "BANK J. SAFRA SARASIN (GIBRALTAR) LTD"
+  city: "GIBRALTAR"
+  branch: null
+  swift: BJSBGIGX
+    
+- name: "BANK JSS (GIBRALTAR) LTD"
+  city: "GIBRALTAR"
+  branch: null
+  swift: CRESGIGI
+    
+- name: "BARCLAYS BANK PLC"
+  city: "GIBRALTAR"
+  branch: null
+  swift: BARCGIG10GI
+    
+- name: "BARCLAYS BANK PLC"
+  city: "GIBRALTAR"
+  branch: null
+  swift: BARCGIG1PCI
+    
+- name: "BARCLAYS BANK PLC"
+  city: "GIBRALTAR"
+  branch: null
+  swift: BARCGIGI
+    
+- name: "BARCLAYTRUST INTERNATIONAL NOMINEES (GIBRALTAR) LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: BIGIGIG1
+    
+- name: "CLOSE BROTHERS MARRACHE BANK LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: CLOSGIG1
+    
+- name: "FACTUM CAPITAL LTD"
+  city: "GIBRALTAR"
+  branch: null
+  swift: FACCGIG1
+    
+- name: "GIBRALTAR AND IBERIAN BANK LTD"
+  city: "GIBRALTAR"
+  branch: null
+  swift: GIBIGIG1
+    
+- name: "GIBRALTAR ASSET MANAGEMENT LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: GIAMGIG1
+    
+- name: "GIBRALTAR INTERNATIONAL BANK LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: GIBKGIGI
+    
+- name: "GSB LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: IETGGIG1
+    
+- name: "GUEVORA FUND LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: GUFUGIG1
+    
+- name: "GUEVOURA FUND LIMITED"
+  city: "MARINA BAY"
+  branch: null
+  swift: GUFNGIG1
+    
+- name: "INDIGO FUTURES LTD."
+  city: "GIBRALTAR"
+  branch: null
+  swift: IDFUGIG1
+    
+- name: "JYSKE BANK (GIBRALTAR) LTD."
+  city: "GIBRALTAR"
+  branch: null
+  swift: JYBAGIGI
+    
+- name: "LLOYDS BANK (GIBRALTAR) LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: LOYDGIB1
+    
+- name: "LLOYDS BANK (GIBRALTAR) LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: LOYDGIGI
+    
+- name: "LLOYDS TSB BANK PLC"
+  city: "GIBRALTAR"
+  branch: null
+  swift: LOYDGIG1
+    
+- name: "LOMBARD ODIER AND CIE (GIBRALTAR) LTD"
+  city: "GIBRALTAR"
+  branch: NDP DEPT
+  swift: LOCYGIGINDP
+    
+- name: "LOMBARD ODIER AND CIE (GIBRALTAR) LTD"
+  city: "GIBRALTAR"
+  branch: null
+  swift: LOCYGIGI
+    
+- name: "MASSEY FUND LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: MSFUGIG1
+    
+- name: "MONEYCORP BANK"
+  city: "GIBRALTAR"
+  branch: null
+  swift: MOYPGIGI
+    
+- name: "NATWEST OFFSHORE-GIBRALTAR"
+  city: "GIBRALTAR"
+  branch: null
+  swift: RBOSGI21
+    
+- name: "NATWEST-GIBRALTAR"
+  city: "GIBRALTAR"
+  branch: null
+  swift: RBOSGIGI
+    
+- name: "PAYONEER (EU) LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: PAYNGIG1
+    
+- name: "SG KLEINWORT HAMBROS BANK (GIBRALTAR) LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: HAMBGIGI
+    
+- name: "SPRINGFIELD BANK AND TRUST LTD"
+  city: "GIBRALTAR"
+  branch: null
+  swift: SPRNGIG1
+    
+- name: "TURICUM PRIVATE BANK LIMITED"
+  city: "GIBRALTAR"
+  branch: null
+  swift: TURCGIGI
+    

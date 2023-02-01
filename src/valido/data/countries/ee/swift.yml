@@ -1,0 +1,220 @@
+- name: "ADMIRAL MARKETS AS"
+  city: "TALLINN"
+  branch: null
+  swift: ADMREE21
+    
+- name: "ALLIED IRISH BANKS P.L.C ESTONIAN BRANCH"
+  city: "TALLINN"
+  branch: null
+  swift: AIEBEE21
+    
+- name: "AS CITADELE BANKA EESTI FILIAAL"
+  city: "TALLINN"
+  branch: null
+  swift: PARXEE22
+    
+- name: "AS EUREX CAPITAL"
+  city: "TALLINN"
+  branch: null
+  swift: EURCEE21
+    
+- name: "AS GILD FINANCIAL ADVISORY SERVICES"
+  city: "TALLINN"
+  branch: null
+  swift: GFASEE21
+    
+- name: "AS INBANK"
+  city: "TALLINN"
+  branch: null
+  swift: IBBNEE21
+    
+- name: "AS LHV PANK"
+  city: "TALLINN"
+  branch: null
+  swift: LHVBEE22
+    
+- name: "AS LOHMUS, HAAVEL AND VIISEMANN"
+  city: "TALLINN"
+  branch: null
+  swift: LHVBEE21
+    
+- name: "AS POCOPAY"
+  city: "TALLINN"
+  branch: null
+  swift: AKELEE21
+    
+- name: "AS SEB PANK"
+  city: "TALLINN"
+  branch: null
+  swift: EEUHEE2X
+    
+- name: "BIGBANK AS"
+  city: "TALLINN"
+  branch: null
+  swift: BIGKEE2B
+    
+- name: "COOP PANK"
+  city: "TALLINN"
+  branch: null
+  swift: EKRDEE22
+    
+- name: "CRESCO VAARTPABERITE AS"
+  city: "TALLINN"
+  branch: null
+  swift: CRVTEE21
+    
+- name: "DANSKE BANK A/S ESTONIA BRANCH"
+  city: "TALLINN"
+  branch: null
+  swift: FOREEE2X
+    
+- name: "EESTI ARENGU HOIU-LAENUUHISTU"
+  city: "TALLINN"
+  branch: null
+  swift: EEAHEE21
+    
+- name: "EESTI PANK (BANK OF ESTONIA)"
+  city: "TALLINN"
+  branch: CLEARING DEPARTMENT
+  swift: EPBEEE2XERT
+    
+- name: "EESTI PANK (BANK OF ESTONIA)"
+  city: "TALLINN"
+  branch: MIRROR TECHNICAL ACCOUNT
+  swift: EPBEEE2XCSD
+    
+- name: "EESTI PANK (BANK OF ESTONIA)"
+  city: "TALLINN"
+  branch: TARGET 2
+  swift: EPBEEE2XTGT
+    
+- name: "EESTI PANK (BANK OF ESTONIA)"
+  city: "TALLINN"
+  branch: null
+  swift: EPBEEE2X
+    
+- name: "EESTI PANK (BANK OF ESTONIA)"
+  city: "TALLINN"
+  branch: null
+  swift: EPBEEE2XCCB
+    
+- name: "ESTONIAN CSD"
+  city: "TALLINN"
+  branch: null
+  swift: ECSDEE2X
+    
+- name: "EVLI BANK LTD"
+  city: "TALLINN"
+  branch: null
+  swift: EVSEEE21
+    
+- name: "EVLI SECURITIES AS"
+  city: "TALLINN"
+  branch: null
+  swift: SUSCEE21
+    
+- name: "FALCON AND PARTNERS OU"
+  city: "TALLINN"
+  branch: null
+  swift: FAPNEE21
+    
+- name: "FOLKIA AS EESTI FILIAAL"
+  city: "TALLINN"
+  branch: null
+  swift: FOEFEE21
+    
+- name: "GFC GOOD FINANCE COMPANY AS"
+  city: "TALLINN"
+  branch: null
+  swift: GFCBEE22
+    
+- name: "JBC FINANCIAL ADVISOR OU"
+  city: "TALLINN"
+  branch: null
+  swift: JBFAEE21
+    
+- name: "KIT FINANCE EUROPE AS"
+  city: "TALLINN"
+  branch: null
+  swift: AUASEE21
+    
+- name: "LUMINOR BANK AS, ESTONIA (FORMER AS DNB PANK)"
+  city: "TALLINN"
+  branch: null
+  swift: RIKOEE22
+    
+- name: "LUMINOR BANK AS, ESTONIA (FORMER NORDEA BANK AB ESTONIA BRANCH)"
+  city: "TALLINN"
+  branch: null
+  swift: NDEAEE2X
+    
+- name: "MONEYEXPRESS"
+  city: "TALLINN"
+  branch: null
+  swift: MOEXEE21
+    
+- name: "OP CORPORATE BANK PLC ESTONIAN BRANCH"
+  city: "TALLINN"
+  branch: null
+  swift: OKOYEE2X
+    
+- name: "SCANIA FINANS AB EESTI FILIAL"
+  city: "TALLINN"
+  branch: null
+  swift: SFEFEE21
+    
+- name: "SVENSKA HANDELSBANKEN AB ESTONIAN BRANCH"
+  city: "TALLINN"
+  branch: null
+  swift: HANDEE22
+    
+- name: "SWEDBANK AS"
+  city: "TALLINN"
+  branch: HANSA ASSET MANAGMENT
+  swift: HABAEE2XHAM
+    
+- name: "SWEDBANK AS"
+  city: "TALLINN"
+  branch: null
+  swift: HABAEE2X
+    
+- name: "TALLINN BUSINESS BANK LTD"
+  city: "TALLINN"
+  branch: null
+  swift: TABUEE22
+    
+- name: "TALLINN STOCK EXCHANGE"
+  city: "TALLINN"
+  branch: null
+  swift: XTALEE21
+    
+- name: "TALLINNA HOIU-LAENUUHISTU"
+  city: "TALLINN"
+  branch: null
+  swift: TAHLEE21
+    
+- name: "TALVEAED AS"
+  city: "TALLINN"
+  branch: null
+  swift: TALVEE21
+    
+- name: "TARTU HOIU-LAENUUHISTU"
+  city: "TARTU"
+  branch: null
+  swift: TAHUEE21
+    
+- name: "TOP CREDIT OU"
+  city: "TALLINN"
+  branch: null
+  swift: TOPCEE21
+    
+- name: "TRANSFERWISE LTD. EESTI FILIAAL"
+  city: "TALLINN"
+  branch: null
+  swift: TRAWEE21
+    
+- name: "VERSOBANK AS"
+  city: "TALLINN"
+  branch: null
+  swift: SBMBEE22
+    

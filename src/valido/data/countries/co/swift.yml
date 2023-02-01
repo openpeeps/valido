@@ -1,0 +1,995 @@
+- name: "ACCIONES Y VALORES S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: ACVRCOB1
+    
+- name: "ADMINISTRADORA COLOMBIANA DE PENSIONES - COLPENSIONES"
+  city: "BOGOTA"
+  branch: null
+  swift: ACDPCOB1
+    
+- name: "ALIANZA VALORES COMISIONISTA DE  BOLSA S.A"
+  city: "BOGOTA"
+  branch: null
+  swift: AVCBCOB1
+    
+- name: "ALLIANCE ENTERPRISE S.A.S."
+  city: "BOGOTA"
+  branch: LOWE SSP-3 SA
+  swift: HUBCCOBBLWE
+    
+- name: "ALLIANCE ENTERPRISE S.A.S."
+  city: "BOGOTA"
+  branch: null
+  swift: HUBCCOBB
+    
+- name: "ALLIANZ SEGUROS DE VIDA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: COZVCOBB
+    
+- name: "ALLIANZ SEGUROS S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: COZSCOBB
+    
+- name: "ALMACENES EXITO S.A. (GRUPO EXITO)"
+  city: "ENVIGADO"
+  branch: null
+  swift: GEXICOBB
+    
+- name: "ALPINA PRODUCTOS ALIMENTICIOS S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: AIPACOBB
+    
+- name: "ASCREDIBANCO"
+  city: "BOGOTA"
+  branch: null
+  swift: ASCRCOB1
+    
+- name: "BANCO AGRARIO DE COLOMBIA S.A. (FORMERLY CAJA DE CREDITO AGRARIO INDUSTRIAL Y MINERO)"
+  city: "BOGOTA"
+  branch: null
+  swift: CCAICOBB
+    
+- name: "BANCO AV VILLAS S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: BAVICOBB
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: HEADQUARTERS
+  swift: GEROCOBBBO1
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: GEROCOBB
+    
+- name: "BANCO CAJA SOCIAL"
+  city: "BOGOTA"
+  branch: null
+  swift: CASOCOBB
+    
+- name: "BANCO COLPATRIA"
+  city: "BOGOTA"
+  branch: null
+  swift: COLPCOBB
+    
+- name: "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)"
+  city: "BARRANQUILLA"
+  branch: null
+  swift: CAFECOBBBAQ
+    
+- name: "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)"
+  city: "BOGOTA"
+  branch: null
+  swift: CAFECOBB
+    
+- name: "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)"
+  city: "CALI"
+  branch: null
+  swift: CAFECOBBCL1
+    
+- name: "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)"
+  city: "MEDELLIN"
+  branch: null
+  swift: CAFECOBBMD1
+    
+- name: "BANCO DE BOGOTA"
+  city: "BARRANQUILLA"
+  branch: null
+  swift: BBOGCOBBBAQ
+    
+- name: "BANCO DE BOGOTA"
+  city: "BOGOTA"
+  branch: HEADQUARTERS OFFICES
+  swift: BBOGCOBBBO1
+    
+- name: "BANCO DE BOGOTA"
+  city: "BOGOTA"
+  branch: null
+  swift: BBOGCOBB
+    
+- name: "BANCO DE BOGOTA"
+  city: "BUCARAMANGA"
+  branch: null
+  swift: BBOGCOBBBGA
+    
+- name: "BANCO DE BOGOTA"
+  city: "CALI"
+  branch: null
+  swift: BBOGCOBBCL1
+    
+- name: "BANCO DE BOGOTA"
+  city: "CARTAGENA"
+  branch: null
+  swift: BBOGCOBBCTG
+    
+- name: "BANCO DE BOGOTA"
+  city: "CUCUTA"
+  branch: null
+  swift: BBOGCOBBCUC
+    
+- name: "BANCO DE BOGOTA"
+  city: "MANIZALES"
+  branch: null
+  swift: BBOGCOBBMZ1
+    
+- name: "BANCO DE BOGOTA"
+  city: "MEDELLIN"
+  branch: null
+  swift: BBOGCOBBMD1
+    
+- name: "BANCO DE BOGOTA"
+  city: "PEREIRA"
+  branch: null
+  swift: BBOGCOBBPEI
+    
+- name: "BANCO DE BOGOTA"
+  city: "SAN ANDRES"
+  branch: null
+  swift: BBOGCOBBADZ
+    
+- name: "BANCO DE COMERCIO EXTERIOR S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: BCEXCOBB
+    
+- name: "BANCO DE LA REPUBLICA"
+  city: "BOGOTA"
+  branch: null
+  swift: BREPCOBB
+    
+- name: "BANCO DE OCCIDENTE"
+  city: "BARRANQUILLA"
+  branch: null
+  swift: OCCICOBCBAQ
+    
+- name: "BANCO DE OCCIDENTE"
+  city: "BOGOTA"
+  branch: null
+  swift: OCCICOBCBO2
+    
+- name: "BANCO DE OCCIDENTE"
+  city: "BUCARAMANGA"
+  branch: null
+  swift: OCCICOBCBGA
+    
+- name: "BANCO DE OCCIDENTE"
+  city: "CALI"
+  branch: BRANCH
+  swift: OCCICOBCCL1
+    
+- name: "BANCO DE OCCIDENTE"
+  city: "CALI"
+  branch: HEADQUARTERS
+  swift: OCCICOBC
+    
+- name: "BANCO DE OCCIDENTE"
+  city: "CARTAGENA"
+  branch: null
+  swift: OCCICOBCCTG
+    
+- name: "BANCO DE OCCIDENTE"
+  city: "MEDELLIN"
+  branch: null
+  swift: OCCICOBCMD4
+    
+- name: "BANCO DE OCCIDENTE"
+  city: "SAN ANDRES"
+  branch: null
+  swift: OCCICOBCADZ
+    
+- name: "BANCO FALABELLA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: FALACOBB
+    
+- name: "BANCO GNB SUDAMERIS"
+  city: "BARRANQUILLA"
+  branch: null
+  swift: BSUDCOBBBAQ
+    
+- name: "BANCO GNB SUDAMERIS"
+  city: "BOGOTA"
+  branch: null
+  swift: BSUDCOBB
+    
+- name: "BANCO GNB SUDAMERIS"
+  city: "BUCARAMANGA"
+  branch: null
+  swift: BSUDCOBBBGA
+    
+- name: "BANCO GNB SUDAMERIS"
+  city: "CALI"
+  branch: null
+  swift: BSUDCOBBCL1
+    
+- name: "BANCO GNB SUDAMERIS"
+  city: "CARTAGENA"
+  branch: null
+  swift: BSUDCOBBCTG
+    
+- name: "BANCO GNB SUDAMERIS"
+  city: "MANIZALES"
+  branch: null
+  swift: BSUDCOBBMZ1
+    
+- name: "BANCO GNB SUDAMERIS"
+  city: "MEDELLIN"
+  branch: null
+  swift: BSUDCOBBMD1
+    
+- name: "BANCO INTERAMERICANO DE DESARROLLO"
+  city: "BOGOTA"
+  branch: null
+  swift: BOIDCOB1
+    
+- name: "BANCO MULTIBANK S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: MCTBCOBB
+    
+- name: "BANCO MUNDIAL"
+  city: "BOGOTA"
+  branch: null
+  swift: BMUNCOB1
+    
+- name: "BANCO PICHINCHA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: PICHCOBB
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "ARMENIA"
+  branch: null
+  swift: BPOPCOBBAXM
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "BARRANQUILLA"
+  branch: ZONA NORTE
+  swift: BPOPCOBBBAQ
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "BOGOTA"
+  branch: HEADQUARTERS
+  swift: BPOPCOBB
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "BOGOTA"
+  branch: ZONA 1
+  swift: BPOPCOBBBO1
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "BOGOTA"
+  branch: ZONA 2
+  swift: BPOPCOBBBO2
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "BOGOTA"
+  branch: ZONA 3
+  swift: BPOPCOBBBO3
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "BUCARAMANGA"
+  branch: ZONA ORIENTAL
+  swift: BPOPCOBBBGA
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "CALI"
+  branch: ZONA SUR
+  swift: BPOPCOBBCL1
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "CARTAGENA"
+  branch: null
+  swift: BPOPCOBBCTG
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "IBAGUE"
+  branch: ZONA CENTRAL
+  swift: BPOPCOBBIBE
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "MANIZALES"
+  branch: null
+  swift: BPOPCOBBMZ1
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "MEDELLIN"
+  branch: ZONA NOROCCIDENTAL
+  swift: BPOPCOBBMD1
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "PEREIRA"
+  branch: null
+  swift: BPOPCOBBPEI
+    
+- name: "BANCO POPULAR-COLOMBIA"
+  city: "SAN ANDRES"
+  branch: null
+  swift: BPOPCOBBADZ
+    
+- name: "BANCO PROCREDIT COLOMBIA SA"
+  city: "BOGOTA"
+  branch: null
+  swift: PRCBCOBB
+    
+- name: "BANCO SANTANDER DE NEGOCIOS COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: SANTCOBB
+    
+- name: "BANCOLOMBIA S.A."
+  city: "BARRANQUILLA"
+  branch: null
+  swift: COLOCOBMBAQ
+    
+- name: "BANCOLOMBIA S.A."
+  city: "BUCARAMANGA"
+  branch: null
+  swift: COLOCOBMBGA
+    
+- name: "BANCOLOMBIA S.A."
+  city: "CALI"
+  branch: null
+  swift: COLOCOBMCL1
+    
+- name: "BANCOLOMBIA S.A."
+  city: "CARTAGENA"
+  branch: null
+  swift: COLOCOBMCTG
+    
+- name: "BANCOLOMBIA S.A."
+  city: "MEDELLIN"
+  branch: null
+  swift: COLOCOBM
+    
+- name: "BANCOLOMBIA S.A."
+  city: "MEDELLIN"
+  branch: null
+  swift: COLOCOBMMD1
+    
+- name: "BANCOLOMBIA S.A."
+  city: "PEREIRA"
+  branch: null
+  swift: COLOCOBMPEI
+    
+- name: "BARING SECURITIES (ANDEAN PACT) LTD"
+  city: "BOGOTA"
+  branch: null
+  swift: BSECCOB1
+    
+- name: "BAVARIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: BAVRCOB1
+    
+- name: "BBVA ASSET MANAGEMENT SOCIEDAD FIDUCIARIA"
+  city: "BOGOTA"
+  branch: null
+  swift: FBBVCOBB
+    
+- name: "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A."
+  city: "BOGOTA"
+  branch: BNP PARIBAS SECURITIES SERVICES CHILE
+  swift: BNPACOBBCHL
+    
+- name: "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A."
+  city: "BOGOTA"
+  branch: BP2S CHILE
+  swift: BNPACOBBCLP
+    
+- name: "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A."
+  city: "BOGOTA"
+  branch: SECURITIES SERVICES
+  swift: BNPACOBBB2S
+    
+- name: "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: BNPACOBB
+    
+- name: "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: BNPACOBBPEN
+    
+- name: "BOLSA DE VALORES DE COLOMBIA S.A"
+  city: "BOGOTA"
+  branch: null
+  swift: XBOGCOB1
+    
+- name: "BOLSA Y RENTA COMISIONISTA DE BOLSA"
+  city: "MEDELLIN"
+  branch: null
+  swift: BRMBCOB1
+    
+- name: "BRITISH AMERICAN TOBACCO COLOMBIA S.A.S."
+  city: "BOGOTA"
+  branch: null
+  swift: BATSCOB1
+    
+- name: "CAJA COLOMBIANA DE SUBSIDIO FAMILIAR COLSUBSIDIO"
+  city: "BOGOTA"
+  branch: null
+  swift: CCSFCOBB
+    
+- name: "CAJA POPULAR COOPERATIVA LTDA"
+  city: "BOGOTA"
+  branch: null
+  swift: CAPCCOB1
+    
+- name: "CAMARA DE COMPENSACION DE DIVISAS DE COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: CCDCCOBB
+    
+- name: "CARVAJAL SERVICIOS S.AS."
+  city: "CALI"
+  branch: null
+  swift: CTYSCOBC
+    
+- name: "CENIT TRANSPORTE Y LOGISTICA DE HIDROCARBUROS S.A.S."
+  city: "BOGOTA"
+  branch: null
+  swift: CTLHCOBB
+    
+- name: "CERVECERIA DEL VALLE S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: CEVACOB1
+    
+- name: "CERVECERIA UNION S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: CEUNCOB1
+    
+- name: "CITIBANK"
+  city: "BOGOTA"
+  branch: null
+  swift: CITICO21
+    
+- name: "CITIBANK COLOMBIA"
+  city: "BOGOTA"
+  branch: null
+  swift: CITICOBB
+    
+- name: "CITITRUST BOGOTA"
+  city: "BOGOTA"
+  branch: null
+  swift: CTRUCOB1
+    
+- name: "COLTEFINANCIERA S.A. COMPANIA DE FINANCIAMIENTO COMERCIAL"
+  city: "MEDELLIN"
+  branch: null
+  swift: CLTECOBM
+    
+- name: "COLTEJER S.A"
+  city: "ITAGUI"
+  branch: null
+  swift: COLJCOB1
+    
+- name: "COMPANIA DE AHORRO E VIVIENDA COLMENA"
+  city: "BOGOTA"
+  branch: null
+  swift: CAVCCOB1
+    
+- name: "COMPANIA FINANCIERA INTERNACIONAL SA"
+  city: "BOGOTA"
+  branch: null
+  swift: FINCCOB1
+    
+- name: "COMPANIA GENERAL DE INVERSIONES LTDA"
+  city: "BOGOTA"
+  branch: null
+  swift: COGICOB1
+    
+- name: "COMPANIA GLOBAL DE PINTURAS S.A."
+  city: "MEDELLIN"
+  branch: null
+  swift: COOLCOB1
+    
+- name: "CONSORCIO FIDUCOLOMBIA FIDUCOMERCIO MUNICIPIO SANT"
+  city: "CALI"
+  branch: null
+  swift: CFFMCOB1
+    
+- name: "COOPERATIVA FINANCIERA DE ANTIOQUIA, CFA"
+  city: "BOGOTA"
+  branch: null
+  swift: FIACCOB1
+    
+- name: "CORPORACION DE AHORRO E VIVIENDA DEL VALLE"
+  city: "BOGOTA"
+  branch: null
+  swift: CAVVCOB1
+    
+- name: "CORPORACION DE AHORRO Y VIVIENDA LAS VILLAS"
+  city: "BOGOTA"
+  branch: null
+  swift: CAHVCOB1
+    
+- name: "CORPORACION FINANCIERA ALIADAS"
+  city: "BOGOTA"
+  branch: null
+  swift: CFALCOB1
+    
+- name: "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)"
+  city: "BARRANQUILLA"
+  branch: BARRANQUILLA AGENCY
+  swift: CFVACOBCBAQ
+    
+- name: "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)"
+  city: "BOGOTA"
+  branch: BOGOTA AGENCY
+  swift: CFVACOBCBO1
+    
+- name: "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)"
+  city: "CALI"
+  branch: HEADQUARTERS
+  swift: CFVACOBC
+    
+- name: "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)"
+  city: "CALI"
+  branch: INTERNATIONAL BRANCH
+  swift: CFVACOBCCL1
+    
+- name: "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)"
+  city: "CALI"
+  branch: null
+  swift: CFVACOBCFXO
+    
+- name: "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)"
+  city: "MEDELLIN"
+  branch: MEDELLIN AGENCY
+  swift: CFVACOBCMD1
+    
+- name: "CORPORACION FINANCIERA DE CALDAS S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: CFCACOB10BB
+    
+- name: "CORPORACION FINANCIERA DE CALDAS S.A."
+  city: "CALI"
+  branch: null
+  swift: CFCACOB10BC
+    
+- name: "CORPORACION FINANCIERA DE CALDAS S.A."
+  city: "MANIZALES"
+  branch: BRANCH OFFICE
+  swift: CFCACOB10B2
+    
+- name: "CORPORACION FINANCIERA DE CALDAS S.A."
+  city: "MANIZALES"
+  branch: HEAD OFFICE
+  swift: CFCACOB1
+    
+- name: "CORPORACION FINANCIERA DE CALDAS S.A."
+  city: "MEDELLIN"
+  branch: null
+  swift: CFCACOB10BM
+    
+- name: "CORPORACION FINANCIERA DE OCCIDENTE S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: CFOPCOB1
+    
+- name: "CORPORACION FINANCIERA DE SANTANDER"
+  city: "BUCARAMANGA"
+  branch: null
+  swift: CORFCOB1
+    
+- name: "CORPORACION FINANCIERA DEL TOLIMA SA"
+  city: "BOGOTA"
+  branch: null
+  swift: CFTOCOB1
+    
+- name: "CORPORACION FINANCIERA DEL TRANSPORTE S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: TRFCCOB1
+    
+- name: "CORPORACION FINANCIERA DEL TRANSPORTE S.A."
+  city: "MEDELLIN"
+  branch: null
+  swift: TRFCCOB10BM
+    
+- name: "CORPORACION FINANCIERA INTER S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: CFIICOB1
+    
+- name: "CORPORACION FINANCIERA POPULAR SA"
+  city: "BOGOTA"
+  branch: null
+  swift: CFPOCOB1
+    
+- name: "CORPORACION FINANCIERA UNION SA"
+  city: "BOGOTA"
+  branch: null
+  swift: COFUCOB1
+    
+- name: "CORPORACION GRANCOLOMBIANA DE AHORRO E VIVIENDA GRANAHORRAR"
+  city: "BOGOTA"
+  branch: null
+  swift: CGAGCOB1
+    
+- name: "CORPORACION NACIONAL DE AHORRO E VIVIENDA CONAVI"
+  city: "MEDELLIN"
+  branch: null
+  swift: CNAACOB1
+    
+- name: "CORPORACION POPULAR DE AHORRO E VIVIENDA CORPAVI"
+  city: "BOGOTA"
+  branch: null
+  swift: CPOACOB1
+    
+- name: "CORREDORES DAVIVIENDA S.A.COMISIONISTA DE BOLSA"
+  city: "BOGOTA"
+  branch: null
+  swift: CRRDCOBB
+    
+- name: "CREDICORP CAPITAL COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: CRVLCOBB
+    
+- name: "DEPOSITO CENTRAL DE VALORES (DCV)"
+  city: "BOGOTA"
+  branch: null
+  swift: DCVCCOB1
+    
+- name: "DEPOSITO CENTRALIZADO DE VALORES DE COLOMBIA S.A"
+  city: "BOGOTA"
+  branch: null
+  swift: DCVDCOB1
+    
+- name: "ECOFERTIL S.A."
+  city: "BARRANQUILLA"
+  branch: null
+  swift: ECFTCOBB
+    
+- name: "ECOPETROL S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: ECOPCOBB
+    
+- name: "EMPRESA DE TELECOMUNICACIONES DE BOGOTA S.A E.SP."
+  city: "BOGOTA"
+  branch: null
+  swift: ETBCCOBB
+    
+- name: "FABRICA DE GRASAS Y PRODUCTOS QUIMI LIMITADA, GRASCO, LIMITADA"
+  city: "BOGOTA"
+  branch: null
+  swift: FGPQCOBB
+    
+- name: "FIDUCIARIA BANCOLOMBIA"
+  city: "MEDELLIN"
+  branch: null
+  swift: FDBCCOBM
+    
+- name: "FIDUCIARIA BOGOTA"
+  city: "BOGOTA"
+  branch: null
+  swift: FBOGCOBB
+    
+- name: "FIDUCIARIA CORFICOLOMBIANA S.A."
+  city: "CALI"
+  branch: null
+  swift: FCOICOBB
+    
+- name: "FIDUCIARIA DE OCCIDENTE"
+  city: "BOGOTA"
+  branch: null
+  swift: FDOCCOBB
+    
+- name: "FINANCIERA COLPATRIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: FCOLCOB1
+    
+- name: "FINANCIERA DE DESARROLLO NACIONAL S.A. FORMALLY FINANCIERA ENERGETICA NACIONAL S.A.-FEN"
+  city: "BOGOTA"
+  branch: null
+  swift: FENSCOBB
+    
+- name: "FINANCIERA DE INVERSIONES LTDA"
+  city: "BOGOTA"
+  branch: null
+  swift: FIESCOB1
+    
+- name: "FINANCIERA MONSERRATE SA"
+  city: "BOGOTA"
+  branch: null
+  swift: FIMOCOB1
+    
+- name: "FITCH RATINGS COLOMBIA"
+  city: "BOGOTA"
+  branch: null
+  swift: FRIPCOB1
+    
+- name: "FONDO ANDINO DE RESERVAS"
+  city: "BOGOTA"
+  branch: null
+  swift: FOARCOB1
+    
+- name: "FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS"
+  city: "BOGOTA"
+  branch: null
+  swift: FOGICOBB
+    
+- name: "FONDO LATINOAMERICANO DE RESERVAS"
+  city: "BOGOTA"
+  branch: null
+  swift: FLARCOBB
+    
+- name: "FONDO VOLUNTARIO DE PENSIONES  ADMINISTRADO POR ALLIANZ SEGUROS DE VIDA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: FPVCCOBB
+    
+- name: "GIROS Y FINANZAS C.F.C. S.A."
+  city: "CALI"
+  branch: null
+  swift: GYDVCOBC
+    
+- name: "GLOBAL SECURITIES S.A. COMISIONISTA DE BOLSA"
+  city: "MEDELLIN"
+  branch: null
+  swift: GSCBCOB1
+    
+- name: "GOLDEN GATE INVESTMENTS SA"
+  city: "BOGOTA"
+  branch: null
+  swift: BCAMCOB1
+    
+- name: "HOCOL S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: HCOLCOBB
+    
+- name: "IMPRESORA DEL SUR S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: IMSUCOB1
+    
+- name: "INSTITUTO DE CREDITO TERRITORIAL"
+  city: "BOGOTA"
+  branch: null
+  swift: ICRTCOB1
+    
+- name: "INTERCANJE LIMITADA"
+  city: "BOGOTA"
+  branch: null
+  swift: IBOLCOB1
+    
+- name: "INVERSORA PICHINCHA S.A. C.F.C."
+  city: "BOGOTA"
+  branch: null
+  swift: INPFCOB1
+    
+- name: "ISAGEN S.A. E.S.P."
+  city: "MEDELLIN"
+  branch: null
+  swift: ISGNCOBM
+    
+- name: "ITAU BBA COLOMBIA SA CORPORACION FINANCEIRA"
+  city: "BOGOTA"
+  branch: null
+  swift: CBBACOB1
+    
+- name: "ITAU CORPBANCA COLOMBIA S.A."
+  city: "BARRANQUILLA"
+  branch: null
+  swift: BCTOCOBBBAQ
+    
+- name: "ITAU CORPBANCA COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: BCTOCOBB
+    
+- name: "ITAU CORPBANCA COLOMBIA S.A."
+  city: "CALI"
+  branch: null
+  swift: BCTOCOBBCL1
+    
+- name: "ITAU CORPBANCA COLOMBIA S.A."
+  city: "MEDELLIN"
+  branch: null
+  swift: BCTOCOBBMD1
+    
+- name: "ITAU SECURITIES SERVICES COLOMBIA S.A."
+  city: "BARRANQUILLA"
+  branch: null
+  swift: BSCHCOBBBAQ
+    
+- name: "ITAU SECURITIES SERVICES COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: SECURITY SERVICES COLOMBIA
+  swift: BSCHCOBBSSC
+    
+- name: "ITAU SECURITIES SERVICES COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: BSCHCOBB
+    
+- name: "ITAU SECURITIES SERVICES COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: BSCHCOBBBO1
+    
+- name: "ITAU SECURITIES SERVICES COLOMBIA S.A."
+  city: "CALI"
+  branch: null
+  swift: BSCHCOBBCL1
+    
+- name: "JPMORGAN CORPORACION FINANCIERA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: CHASCOBB
+    
+- name: "LARRAIN VIAL COLOMBIA S.A. COMISIONISTA DE BOLSA"
+  city: "BOGOTA"
+  branch: null
+  swift: LVCCCOB1
+    
+- name: "MALTERIA TROPICAL S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: MATOCOB1
+    
+- name: "MAPFRE SEGUROS GENERALES DE COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: MAPFCOBB
+    
+- name: "MERCANTIL DE INVESIONES SA"
+  city: "BOGOTA"
+  branch: null
+  swift: INMECOB1
+    
+- name: "MONOMEROS COLOMBO VENEZOLANOS S.A."
+  city: "BARRANQUILLA"
+  branch: null
+  swift: MCOVCOBB
+    
+- name: "MUNICIPIO DE MEDELLIN"
+  city: "MEDELLIN"
+  branch: null
+  swift: MUMDCOBM
+    
+- name: "MUNICIPIO SANTIAGO DE CALI"
+  city: "CALI"
+  branch: null
+  swift: MSCLCOBC
+    
+- name: "OLEODUCTO BICENTENARIO DE COLOMBIA"
+  city: "BOGOTA"
+  branch: null
+  swift: OLBCCOBB
+    
+- name: "OLEODUCTO CENTRAL S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: OCENCOBB
+    
+- name: "OLEODUCTO DE COLOMBIA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: ODCCCOBB
+    
+- name: "OLEODUCTO DE LOS LLANOS ORIENTALES"
+  city: "BOGOTA"
+  branch: null
+  swift: OLLECOBB
+    
+- name: "POLIPROPILENO DEL CARIBE S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: PPCOCOBB
+    
+- name: "PORVENIR S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: PORVCOBB
+    
+- name: "POSTOBON S.A."
+  city: "MEDELLIN"
+  branch: null
+  swift: PTBOCOB1
+    
+- name: "PROGRESO CORPORACION FINANCIERA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: CFPRCOB1
+    
+- name: "PROGRESO CORPORACION FINANCIERA S.A."
+  city: "CALI"
+  branch: null
+  swift: CFPRCOB10BC
+    
+- name: "REFINERIA DE CARTAGENA S.A."
+  city: "BOGOTA"
+  branch: PATRIMONIO AUTONOMO
+  swift: RCARCOB2PTA
+    
+- name: "REFINERIA DE CARTAGENA S.A."
+  city: "BOGOTA"
+  branch: null
+  swift: RCARCOB2
+    
+- name: "SABMILLER COLOMBIA"
+  city: "BOGOTA"
+  branch: null
+  swift: SABMCOB1
+    
+- name: "SABMILLER COLOMBIA"
+  city: "BOGOTA"
+  branch: null
+  swift: SABMCOB1BAV
+    
+- name: "SABMILLER COLOMBIA"
+  city: "BOGOTA"
+  branch: null
+  swift: SABMCOB1CDV
+    
+- name: "SABMILLER COLOMBIA"
+  city: "BOGOTA"
+  branch: null
+  swift: SABMCOB1CUN
+    
+- name: "SABMILLER COLOMBIA"
+  city: "BOGOTA"
+  branch: null
+  swift: SABMCOB1IND
+    
+- name: "SAMSUNG ELECTRONICA DE COLUMBIA"
+  city: "BOGOTA"
+  branch: SAMCOL
+  swift: SECTCOB1813
+    
+- name: "SAMSUNG ELECTRONICA DE COLUMBIA"
+  city: "BOGOTA"
+  branch: null
+  swift: SECTCOB1
+    
+- name: "SUVALOR"
+  city: "BOGOTA"
+  branch: null
+  swift: SUVACOB1
+    
+- name: "UNE EPM TELECOMUNICACIONES S.A."
+  city: "MEDELLIN"
+  branch: null
+  swift: UNETCOBM
+    
+- name: "VALORES BANCOLOMBIA"
+  city: "MEDELLIN"
+  branch: null
+  swift: VABCCOBM
+    

@@ -1,0 +1,35 @@
+- name: "AMAL BANK LTD"
+  city: "GAROWE"
+  branch: null
+  swift: AALLSOSG
+    
+- name: "CENTRAL BANK OF SOMALIA"
+  city: "MOGADISCIO"
+  branch: null
+  swift: CBSOSOSM
+    
+- name: "DAHABSHIL BANK INTERNATIONAL"
+  city: "MOGADISCIO"
+  branch: null
+  swift: DAHISOSM
+    
+- name: "INTERNATIONAL BANK OF SOMALIA (IBS)"
+  city: "MOGADISCIO"
+  branch: null
+  swift: IBOSSOSM
+    
+- name: "PREMIER BANK LIMITED"
+  city: "MOGADISCIO"
+  branch: null
+  swift: PBSMSOSM
+    
+- name: "SALAAM SOMALI BANK"
+  city: "MOGADISCIO"
+  branch: null
+  swift: SSBMSOSM
+    
+- name: "TRUST AFRICAN BANK"
+  city: "MOGADISCIO"
+  branch: null
+  swift: TTAFSOSM
+    

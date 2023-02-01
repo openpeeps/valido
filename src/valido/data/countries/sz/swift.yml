@@ -1,0 +1,35 @@
+- name: "CENTRAL BANK OF SWAZILAND"
+  city: "MBABANE"
+  branch: null
+  swift: SWAZSZMB
+    
+- name: "FIRST NATIONAL BANK OF SWAZILAND LIMITED"
+  city: "MBABANE"
+  branch: null
+  swift: FIRNSZMX
+    
+- name: "NEDBANK (SWAZILAND) LIMITED"
+  city: "MBABANE"
+  branch: null
+  swift: NESWSZMX
+    
+- name: "STANDARD BANK SWAZILAND LTD"
+  city: "MBABANE"
+  branch: null
+  swift: SBICSZMX
+    
+- name: "SWAZILAND BEVERAGES LIMITED"
+  city: "MATSAPHA"
+  branch: null
+  swift: SABMSZM1
+    
+- name: "SWAZILAND DEVELOPMENT AND SAVINGS BANK"
+  city: "MBABANE"
+  branch: null
+  swift: SDSBSZMB
+    
+- name: "SWAZILAND STOCKBROKERS LTD"
+  city: "MBABANE"
+  branch: null
+  swift: SWAOSZM1
+    

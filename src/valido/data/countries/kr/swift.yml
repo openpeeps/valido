@@ -1,0 +1,1360 @@
+- name: "AGRICULTURAL BANK OF CHINA SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: ABOCKRSE
+    
+- name: "AIA INTERNATIONAL, KOREA BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: AIKRKRS1
+    
+- name: "ANG INVESTMENT TRUST MANAGEMENT COMPANY"
+  city: "SEOUL"
+  branch: null
+  swift: AITMKRS1
+    
+- name: "AUDI VOLKSWAGEN KOREA LTD."
+  city: "SEOUL"
+  branch: null
+  swift: AUVKKRS1
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: ANZBKRSX
+    
+- name: "BANK MELLAT, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: BKMTKRSE
+    
+- name: "BANK NEGARA INDONESIA SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: BNINKRSE
+    
+- name: "BANK OF AMERICA, N.A. PUSAN"
+  city: "PUSAN"
+  branch: null
+  swift: BOFAKR2102P
+    
+- name: "BANK OF AMERICA, N.A. SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: BOFAKR2X
+    
+- name: "BANK OF CHINA SEOUL BRANCH"
+  city: "ANSAN"
+  branch: ANSAN BRANCH
+  swift: BKCHKRSEANS
+    
+- name: "BANK OF CHINA SEOUL BRANCH"
+  city: "DAEGU"
+  branch: DAEGU BRANCH
+  swift: BKCHKRSEDAE
+    
+- name: "BANK OF CHINA SEOUL BRANCH"
+  city: "INCHEON"
+  branch: INCHEON BRANCH
+  swift: BKCHKRSEICN
+    
+- name: "BANK OF CHINA SEOUL BRANCH"
+  city: "SEOUL"
+  branch: GURO BRANCH
+  swift: BKCHKRSEGRO
+    
+- name: "BANK OF CHINA SEOUL BRANCH"
+  city: "SEOUL"
+  branch: GURO BRANCH
+  swift: BKCHKRSEGUR
+    
+- name: "BANK OF CHINA SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: BKCHKRSE
+    
+- name: "BANK OF COMMUNICATIONS CO. LTD SEOUL BRANCH"
+  city: "SEOUL"
+  branch: SEOUL BRANCH (RMB CLEARING BANK)
+  swift: COMMKRSE888
+    
+- name: "BANK OF COMMUNICATIONS CO. LTD SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: COMMKRSE
+    
+- name: "BANK OF KOREA"
+  city: "SEOUL"
+  branch: null
+  swift: BOKRKRST
+    
+- name: "BANK OF KOREA, THE"
+  city: "SEOUL"
+  branch: null
+  swift: BOKRKRSE
+    
+- name: "BANK OF NOVA SCOTIA, THE, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: NOSCKRSE
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "SEOUL"
+  branch: SEOUL BRANCH
+  swift: BOTKKRSX
+    
+- name: "BANKERS TRUST INTERNATIONAL"
+  city: "SEOUL"
+  branch: null
+  swift: BKTIKRS1
+    
+- name: "BARCLAYS DE ZOETE WEDD SECURITIES LTD."
+  city: "SEOUL"
+  branch: null
+  swift: BZWSKRS1
+    
+- name: "BARO INVESTMENT SECURITIES"
+  city: "SEOUL"
+  branch: null
+  swift: BRIUKRS1
+    
+- name: "BAT KOREA MANUFACTURING LTD"
+  city: "SACHEON-SI"
+  branch: null
+  swift: BATSKR21
+    
+- name: "BNP PARIBAS SECURITIES KOREA CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: BPPSKRS1
+    
+- name: "BNP PARIBAS SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: BNPAKRSE
+    
+- name: "BOOKOOK SECURITIES CO LTD"
+  city: "SEOUL"
+  branch: null
+  swift: BOOSKRS1
+    
+- name: "BRITISH AMERICAN TOBACCO KOREA"
+  city: "SEOUL"
+  branch: null
+  swift: BATSKRS1
+    
+- name: "BUSAN BANK"
+  city: "BUSAN"
+  branch: null
+  swift: PUSBKR2P
+    
+- name: "BUSAN BANK"
+  city: "MASAN"
+  branch: MASAN BRANCH
+  swift: PUSBKR2PMAS
+    
+- name: "BUSAN BANK"
+  city: "SEOUL"
+  branch: INTERNATIONAL DEPARTMENT SEOUL
+  swift: PUSBKR2PINT
+    
+- name: "BUSAN BANK"
+  city: "SEOUL"
+  branch: SEOUL BRANCH
+  swift: PUSBKR2PSEL
+    
+- name: "BZW SECURITIES LTD."
+  city: "SEOUL"
+  branch: null
+  swift: BZSEKRS1
+    
+- name: "CHEIL WORLDWIDE, INC"
+  city: "SEOUL"
+  branch: null
+  swift: CIWWKRSE
+    
+- name: "CHINA CONSTRUCTION BANK SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: PCBCKRSE
+    
+- name: "CHINA EVERBRIGHT BANK SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: EVERKRSE
+    
+- name: "CHO HUNG SECURITIES CORPORATION"
+  city: "SEOUL"
+  branch: null
+  swift: CHHEKRS1
+    
+- name: "CIMB SECURITIES LTD., KOREA BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: CSKRKRS1
+    
+- name: "CITIBANK KOREA INC"
+  city: "SEOUL"
+  branch: CITI KR KAKAO
+  swift: CITIKRSXKAK
+    
+- name: "CITIBANK KOREA INC"
+  city: "SEOUL"
+  branch: CITIBANK KOREA INC  K BANK
+  swift: CITIKRSXKBA
+    
+- name: "CITIBANK KOREA INC"
+  city: "SEOUL"
+  branch: WORLDLINK OPERATION
+  swift: CITIKRSXWLS
+    
+- name: "CITIBANK KOREA INC"
+  city: "SEOUL"
+  branch: null
+  swift: CITIKRSX
+    
+- name: "CITIGROUP GLOBAL MARKETS KOREA SECURITIES LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: KBSSKRS1
+    
+- name: "CJ CHEILJEDANG CORPORATION"
+  city: "SEOUL"
+  branch: null
+  swift: CJCCKRSS
+    
+- name: "CLSA SECURITIES KOREA LTD."
+  city: "SEOUL"
+  branch: null
+  swift: CLSAKRS1
+    
+- name: "CONSTRUCTION GUARANTEE COOPERATIVE"
+  city: "SEOUL"
+  branch: null
+  swift: KCGCKRSE
+    
+- name: "CREDIT AGRICOLE CIB"
+  city: "SEOUL"
+  branch: null
+  swift: CRLYKRSE
+    
+- name: "CREDIT SUISSE AG, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: CRESKRSE
+    
+- name: "CREDIT SUISSE SECURITIES (EUROPE) LIMITED, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: CSFBKRSE
+    
+- name: "DAE HAN SECURITIES CO LTD"
+  city: "SEOUL"
+  branch: null
+  swift: DAHUKRS1
+    
+- name: "DAE YU SECURITIES CO. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: DAECKRS1
+    
+- name: "DAEGU BANK, LTD.,THE"
+  city: "DAEGU"
+  branch: null
+  swift: DAEBKR22
+    
+- name: "DAEGU BANK, LTD.,THE"
+  city: "SEOUL"
+  branch: null
+  swift: DAEBKR22SEL
+    
+- name: "DAIMLER TRUCKS KOREA LTD."
+  city: "SEOUL"
+  branch: null
+  swift: DTKRKRSE
+    
+- name: "DAISHIN ASSET MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: DAMSKRS1
+    
+- name: "DAISHIN SECURITES CO., LTD"
+  city: "SEOUL"
+  branch: null
+  swift: DSSCKRSE
+    
+- name: "DAIWA SECURITIES CAPITAL MARKETS KOREA CO.,LTD."
+  city: "SEOUL"
+  branch: null
+  swift: DSCCKRS1
+    
+- name: "DBS BANK LTD, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: SEOUL BRANCH
+  swift: DBSSKRSEIBD
+    
+- name: "DBS BANK LTD, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: DBSSKRSE
+    
+- name: "DEUTSCHE BANK AG"
+  city: "PUSAN"
+  branch: null
+  swift: DEUTKRS102P
+    
+- name: "DEUTSCHE BANK AG, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: DEUTKRSE
+    
+- name: "DEUTSCHE SECURITIES KOREA CO."
+  city: "SEOUL"
+  branch: null
+  swift: DSALKRS1
+    
+- name: "DONG BU SECURITIES CO. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: DSEUKRS1
+    
+- name: "DONGBU ASSET MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: DAMGKRS1
+    
+- name: "DONGSUH SECURITIES CO LTD."
+  city: "SEOUL"
+  branch: null
+  swift: DOSEKRS1
+    
+- name: "DONGWON SECURITIES"
+  city: "SEOUL"
+  branch: INTERNATIONAL INVESTMENT DEPARTMENT
+  swift: DOSUKRS1186
+    
+- name: "DONGWON SECURITIES"
+  city: "SEOUL"
+  branch: null
+  swift: DOSUKRS1
+    
+- name: "DREAM ASSET MANAGEMENT CO., LTD"
+  city: "SEOUL"
+  branch: null
+  swift: DASGKRS1
+    
+- name: "E TRADE KOREA CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: ETSIKRS1
+    
+- name: "E9PAY CO. LTD"
+  city: "SEOUL"
+  branch: null
+  swift: NINPKRSE
+    
+- name: "ELAND WORLD LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: ELGTKRSE
+    
+- name: "EPAYKOREA CO.,LTD."
+  city: "SEOUL"
+  branch: null
+  swift: EPACKRSE
+    
+- name: "EUGENE INVESTMENT AND SECURITIES CO.,LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SEOSKRS1
+    
+- name: "FIRST SECURITIES CO LTD"
+  city: "SEOUL"
+  branch: null
+  swift: FIRSKRS1
+    
+- name: "FITCH RATINGS LTD (KOREA BRANCH)"
+  city: "SEOUL"
+  branch: null
+  swift: FRIPKRS1
+    
+- name: "FPB ASIA LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: FPASKRS1
+    
+- name: "GOLDMAN SACHS (ASIA) L.L.C. SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: GSALKRSE
+    
+- name: "GOLDMAN SACHS INTERNATIONAL BANK, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: GSIBKRSE
+    
+- name: "HAN YANG SECURITY CO. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: HAYSKRS1
+    
+- name: "HANA FINANCIAL INVESTMENT CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: HAFVKRS1
+    
+- name: "HANA FINANCIAL INVESTMENT CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: HAFVKRS3
+    
+- name: "HANIL SECURITIES CO. LTD"
+  city: "SEOUL"
+  branch: null
+  swift: HANEKRS1
+    
+- name: "HANMAG SECURITIES CORPORATION"
+  city: "SEOUL"
+  branch: null
+  swift: HASNKRS1
+    
+- name: "HANSHIN SECURITIES CO. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: HNSEKRS1
+    
+- name: "HANWHA INVESTMENT TRUST MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: HAITKRS1
+    
+- name: "HANWHA LIFE INSURANCE"
+  city: "SEOUL"
+  branch: null
+  swift: HWLIKRSE
+    
+- name: "HANWHA SECURITIES SEOUL"
+  city: "SEOUL"
+  branch: null
+  swift: HNWSKRS1
+    
+- name: "HANYANG SECURITIES CO. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: HSECKRS1
+    
+- name: "HEUNGKUK SECURITIES"
+  city: "SEOUL"
+  branch: null
+  swift: HESTKRS1
+    
+- name: "HEWLETT-PACKARD KOREA LTD."
+  city: "SEOUL"
+  branch: null
+  swift: HEKOKRS1
+    
+- name: "HI ASSET MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: ASNMKRS1
+    
+- name: "HMC INVESTMENT SECURITIES CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SHHEKRS1
+    
+- name: "HOTEL LOTTE CO.,LTD. (DUTY FREE)"
+  city: "SEOUL"
+  branch: null
+  swift: LDFSKRSE
+    
+- name: "HSBC FUND SERVICES (KOREA) LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: HIFKKRSE
+    
+- name: "HYUNDAI ASSET MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: HYAMKRS1
+    
+- name: "HYUNDAI MOBIS, CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: HYMOKRSE
+    
+- name: "IBK SECURITIES CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: IBKSKRS1
+    
+- name: "INDIAN OVERSEAS BANK, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: IOBAKRSE
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: ICBKKRSE
+    
+- name: "INDUSTRIAL BANK OF KOREA"
+  city: "SEOUL"
+  branch: HEAD OFFICE SEOUL
+  swift: IBKOKRSE
+    
+- name: "ING BANK N.V."
+  city: "SEOUL"
+  branch: null
+  swift: INGBKRSE
+    
+- name: "ING BANK N.V., SEOUL SECURITIES"
+  city: "SEOUL"
+  branch: null
+  swift: INGBKRSS
+    
+- name: "J. HENRY SCHRODER WAGG AND CO LTD"
+  city: "SEOUL"
+  branch: null
+  swift: JHSWKRS1
+    
+- name: "J.P. MORGAN SECURITIES (FAR EAST) LTD"
+  city: "SEOUL"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASKRSEENQ
+    
+- name: "J.P. MORGAN SECURITIES (FAR EAST) LTD"
+  city: "SEOUL"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASKRSEKEY
+    
+- name: "J.P. MORGAN SECURITIES (FAR EAST) LTD"
+  city: "SEOUL"
+  branch: null
+  swift: CHASKRSE
+    
+- name: "J.P. MORGAN SECURITIES ASIA LTD"
+  city: "SEOUL"
+  branch: null
+  swift: JMSAKRS1
+    
+- name: "JEJU BANK"
+  city: "JEJU"
+  branch: null
+  swift: JJBKKR22
+    
+- name: "JEONBUK BANK"
+  city: "JEONJU"
+  branch: null
+  swift: JEONKRS1022
+    
+- name: "JEONBUK BANK"
+  city: "SEOUL"
+  branch: CLS DIVISION
+  swift: JEONKRSECLS
+    
+- name: "JEONBUK BANK"
+  city: "SEOUL"
+  branch: null
+  swift: JEONKRSE
+    
+- name: "JPMORGAN CHASE BANK, N.A., SEOUL BRANCH"
+  city: "SEOUL"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASKRSXENQ
+    
+- name: "JPMORGAN CHASE BANK, N.A., SEOUL BRANCH"
+  city: "SEOUL"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASKRSXKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: CHASKRSX
+    
+- name: "KB ASSET MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: KBAMKRS1
+    
+- name: "KB INVESTMENT AND SECURITIES CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: HISOKRS1
+    
+- name: "KB SECURITIES CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: HYSEKRSE
+    
+- name: "KDB ASSET MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: KDAMKRS1
+    
+- name: "KDB SECURITIES CO. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: KDBSKRS1
+    
+- name: "KEB HANA BANK"
+  city: "SEOUL"
+  branch: CLS CONTROL DESK
+  swift: KOEXKRSECLS
+    
+- name: "KEB HANA BANK"
+  city: "SEOUL"
+  branch: KOREA EXCHANGE BANK FCL DIVISION
+  swift: KOEXKRSEFCL
+    
+- name: "KEB HANA BANK"
+  city: "SEOUL"
+  branch: KOREA EXCHANGE BANK FCN DIVISION
+  swift: KOEXKRSEFCN
+    
+- name: "KEB HANA BANK"
+  city: "SEOUL"
+  branch: null
+  swift: KOEXKRSE
+    
+- name: "KEIMYUNG UNIVERSITY"
+  city: "DAEGU"
+  branch: null
+  swift: KEUNKR21
+    
+- name: "KFB SECURITIES CO. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SANSKRS1
+    
+- name: "KIWOOM SECURITIES"
+  city: "SEOUL"
+  branch: null
+  swift: KIWSKRS1
+    
+- name: "KIWOOM SECURITIES CO,. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: KIWCKRS1
+    
+- name: "KLEINWORT BENSON LTD"
+  city: "SEOUL"
+  branch: null
+  swift: KLBCKRS1
+    
+- name: "KOOKMIN BANK"
+  city: "SEOUL"
+  branch: CLS DIVISION
+  swift: CZNBKRSECLS
+    
+- name: "KOOKMIN BANK"
+  city: "SEOUL"
+  branch: CUSTODY DEPARTMENT
+  swift: CZNBKRSECTD
+    
+- name: "KOOKMIN BANK"
+  city: "SEOUL"
+  branch: HEAD OFFICE
+  swift: CZNBKRSE
+    
+- name: "KOOKMIN BANK"
+  city: "SEOUL"
+  branch: WLS DIVISION
+  swift: CZNBKRSEWLS
+    
+- name: "KOREA DEVELOPMENT BANK, THE"
+  city: "SEOUL"
+  branch: INTERNATIONAL DEPARTMENT
+  swift: KODBKRSE001
+    
+- name: "KOREA DEVELOPMENT BANK, THE"
+  city: "SEOUL"
+  branch: null
+  swift: KODBKRSE
+    
+- name: "KOREA EXCHANGE"
+  city: "BUSAN"
+  branch: null
+  swift: KORXKR21
+    
+- name: "KOREA FINANCIAL TELECOMMUNICATIONS AND CLEARING INSTITUTE"
+  city: "SEOUL"
+  branch: null
+  swift: KFTCKRS1
+    
+- name: "KOREA INVESTMENT AND SECURITIES CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: KISEKRSE
+    
+- name: "KOREA INVESTMENT TRUST MANAGEMENT CO"
+  city: "SEOUL"
+  branch: null
+  swift: KITNKRS1
+    
+- name: "KOREA LONG TERM BANK SECURITIES"
+  city: "SEOUL"
+  branch: null
+  swift: KLTEKRS1
+    
+- name: "KOREA SECURITIES DEPOSITORY"
+  city: "SEOUL"
+  branch: FUND SETTLEMENT TEAM
+  swift: KSDCKRSEFUN
+    
+- name: "KOREA SECURITIES DEPOSITORY"
+  city: "SEOUL"
+  branch: FUNDOPERATIOM TEAM
+  swift: KSDCKRSEFOT
+    
+- name: "KOREA SECURITIES DEPOSITORY"
+  city: "SEOUL"
+  branch: KDR TEAM
+  swift: KSDCKRSEKDR
+    
+- name: "KOREA SECURITIES DEPOSITORY"
+  city: "SEOUL"
+  branch: SECURITIES LENDING AND BORROWING
+  swift: KSDCKRSESLB
+    
+- name: "KOREA SECURITIES DEPOSITORY"
+  city: "SEOUL"
+  branch: null
+  swift: KSDCKRSE
+    
+- name: "KOREA SECURITIES FINANCE CORPORATION (KSFC)"
+  city: "SEOUL"
+  branch: null
+  swift: KOSFKRS1
+    
+- name: "KOREA TRADE INSURANCE CORPORATION"
+  city: "SEOUL"
+  branch: null
+  swift: KEXIKRSE
+    
+- name: "KTB ASSET MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: KTAMKRS1
+    
+- name: "KTB INVESTMENT AND SECURITIES CO., LTD"
+  city: "SEOUL"
+  branch: null
+  swift: BRNAKRS1
+    
+- name: "KWANGJU BANK LTD, THE"
+  city: "SEOUL"
+  branch: null
+  swift: KWABKRSE
+    
+- name: "KYOBO AXA INVESTMENT MANAGERS CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: KAIGKRS1
+    
+- name: "KYOBO LIFE INSURANCE CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: KYBOKRSE
+    
+- name: "KYOBO SECURITIES CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: KYOBKRS1
+    
+- name: "KYONGNAM BANK"
+  city: "CHANGWON"
+  branch: null
+  swift: KYNAKR22
+    
+- name: "KYONGNAM BANK"
+  city: "SEOUL"
+  branch: INTERNATIONAL DEPARTMENT SEOUL
+  swift: KYNAKR22ITL
+    
+- name: "LANDESBANK BADEN-WUERTTEMBERG, SEOUL"
+  city: "SEOUL"
+  branch: null
+  swift: SOLAKRSE
+    
+- name: "LEADING INVESTMENT AND SECURITIES C O., LTD"
+  city: "SEOUL"
+  branch: null
+  swift: LISCKRS1
+    
+- name: "LG CNS CO.,LTD"
+  city: "SEOUL"
+  branch: null
+  swift: LGCNKRS1
+    
+- name: "LG DISPLAY"
+  city: "SEOUL"
+  branch: null
+  swift: LGDTKRSE
+    
+- name: "LG ELECTRONICS INC."
+  city: "SEOUL"
+  branch: null
+  swift: LGETKRSE
+    
+- name: "LLOYDS BANK PLC"
+  city: "SEOUL"
+  branch: null
+  swift: LOYDKRS1
+    
+- name: "LOTTE ADVANCED MATERIALS CO. LTD."
+  city: "UIWANG-SI"
+  branch: null
+  swift: LADMKR22
+    
+- name: "LOTTE CHEMICAL CORPORATION"
+  city: "SEOUL"
+  branch: null
+  swift: LTCHKRSE
+    
+- name: "LUCKY SECURITIES CO. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: LUSEKRS1
+    
+- name: "MACQUARIE BANK LIMITED, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: MACQKRSE
+    
+- name: "MACQUARIE SECURITIES KOREA LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: BSKLKRS1
+    
+- name: "MERCEDES-BENZ FINANCIAL SERVICES KOREA LTD."
+  city: "SEOUL"
+  branch: null
+  swift: MBFKKRSE
+    
+- name: "MERCEDES-BENZ KOREA LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: MBKRKRSE
+    
+- name: "MERITZ ASSET MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: MEEMKRS1
+    
+- name: "MERITZ SECURITIES CO.,LTD"
+  city: "SEOUL"
+  branch: null
+  swift: KFBCKRSE
+    
+- name: "MERRILL LYNCH AND COMPANY INC."
+  city: "SEOUL"
+  branch: null
+  swift: MLCOKRS1
+    
+- name: "MERRILL LYNCH INTERNATIONAL LLC, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: MLKRKRSE
+    
+- name: "MERRILL LYNCH INTERNATIONAL, SEOUL OFFICE"
+  city: "SEOUL"
+  branch: null
+  swift: MLKRKRS1
+    
+- name: "METROPOLITAN BANK AND TRUST COMPANY"
+  city: "SEOUL"
+  branch: null
+  swift: MBTCKRSE
+    
+- name: "MIRAE ASSET DAEWOO CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: MIAEKRSE
+    
+- name: "MIRAE ASSET FUND SERVICES"
+  city: "SEOUL"
+  branch: null
+  swift: MRFSKRSE
+    
+- name: "MIRAE ASSET GLOBAL INVESTMENTS"
+  city: "SEOUL"
+  branch: null
+  swift: MAONKRS1
+    
+- name: "MIRAE ASSET INVESTMENT MANAGEMENT CO LTD."
+  city: "SEOUL"
+  branch: null
+  swift: MAVAKRS1
+    
+- name: "MIRAE ASSET MAPS GLOBAL INVESTMENTS"
+  city: "SEOUL"
+  branch: null
+  swift: MALSKRS1
+    
+- name: "MIZUHO BANK, LTD., SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: MHCBKRSE
+    
+- name: "MORGAN GRENFELL"
+  city: "SEOUL"
+  branch: null
+  swift: MGCOKRS1
+    
+- name: "MORGAN STANLEY AND CO INC."
+  city: "SEOUL"
+  branch: null
+  swift: MSNYKRS1
+    
+- name: "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: GLOBAL PAYROLL
+  swift: MSKRKRSXGPR
+    
+- name: "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: MSKRKRSX
+    
+- name: "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: MSKRKRSXTSY
+    
+- name: "MORGAN STANLEY BANK INTERNATIONAL LIMITED, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: MSBKKRSE
+    
+- name: "NACFCA ITMC"
+  city: "SEOUL"
+  branch: null
+  swift: NACIKRS1
+    
+- name: "NATIONAL AGRICUTURAL COOPERATIVE FEDERATION"
+  city: "SEOUL"
+  branch: null
+  swift: NACEKRS1
+    
+- name: "NATIONAL BANK OF PAKISTAN, SEOUL BRANCH KOREA"
+  city: "SEOUL"
+  branch: null
+  swift: NBPAKRSI
+    
+- name: "NATIONAL PENSION SERVICE FUND MANAGEMENT CENTER MANAGEMENT CENTER"
+  city: "SEOUL"
+  branch: null
+  swift: NPSFKRS1
+    
+- name: "NEW JAPAN SECURITIES CO LTD"
+  city: "SEOUL"
+  branch: null
+  swift: NJSCKRS1
+    
+- name: "NH INVESTMENT AND SECURITIES CO.,LTD"
+  city: "SEOUL"
+  branch: null
+  swift: HNISKRS1
+    
+- name: "NH INVESTMENT AND SECURITIES CO.,LTD."
+  city: "SEOUL"
+  branch: null
+  swift: WISHKRSE
+    
+- name: "NH-CA ASSET MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: NHAMKRS1
+    
+- name: "NIKE SPORTS KOREA CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: NIKEKRS1
+    
+- name: "NOMURA FINANCIAL INVESTMENT (KOREA) CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: NFIKKRSE
+    
+- name: "NONGHYUP BANK (FORMERLY KNOWN AS NATIONAL AGRICULTURAL COOPERATIVE FEDERATION)"
+  city: "SEOUL"
+  branch: null
+  swift: NACFKRSE
+    
+- name: "OVERSEA-CHINESE BANKING COPORATION LIMITED, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: OCBCKRSE
+    
+- name: "PAN-PACIFIC CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: PAPFKRSE
+    
+- name: "PAYGATE CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: PCORKRSS
+    
+- name: "PRUDENTIAL SECURITIES INC."
+  city: "SEOUL"
+  branch: null
+  swift: PBSIKRS1
+    
+- name: "ROTHMANS FAR EAST B.V. KOREA"
+  city: "SEOUL"
+  branch: null
+  swift: BATSKR31
+    
+- name: "SAMSUNG ASSET MANAGEMENT CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SITAKRS1
+    
+- name: "SAMSUNG ASSET MANAGEMENT CO.,LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SITAKRS2
+    
+- name: "SAMSUNG C AND T CORPORATION"
+  city: "SEOUL"
+  branch: null
+  swift: SCNTKRSE
+    
+- name: "SAMSUNG C AND T CORPORATION TRADING AND INVESTMENT"
+  city: "SEOUL"
+  branch: null
+  swift: SCNTKRST
+    
+- name: "SAMSUNG ELECTRO-MECHANICS CO., LTD"
+  city: "SUWON-SI"
+  branch: null
+  swift: SEMTKR22
+    
+- name: "SAMSUNG ELECTRONICS CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SECTKRSE
+    
+- name: "SAMSUNG ENGINEERING CO., LTD"
+  city: "SEOUL"
+  branch: null
+  swift: SMSGKRSE
+    
+- name: "SAMSUNG FIRE AND MARINE INSURANCE CO., LTD"
+  city: "SEOUL"
+  branch: null
+  swift: SFMIKRSE
+    
+- name: "SAMSUNG HEAVY INDUSTRIES"
+  city: "SEOUL"
+  branch: null
+  swift: SSHIKRSE
+    
+- name: "SAMSUNG LIFE INSURANCE CO., LTD"
+  city: "SEOUL"
+  branch: null
+  swift: SSLIKRSE
+    
+- name: "SAMSUNG SDI CO.,LTD."
+  city: "YONGIN-SI"
+  branch: null
+  swift: SSDIKR22
+    
+- name: "SAMSUNG SDS CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SSDSKRSE
+    
+- name: "SAMSUNG SECURITIES CO.,LTD"
+  city: "SEOUL"
+  branch: null
+  swift: SAMCKRSL
+    
+- name: "SAMSUNG SECURITIES CO.,LTD."
+  city: "SEOUL"
+  branch: DERIVATES SALES TEAM
+  swift: SAMCKRS1DER
+    
+- name: "SAMSUNG SECURITIES CO.,LTD."
+  city: "SEOUL"
+  branch: PROPRIETARY TRADING
+  swift: SAMCKRS1PRT
+    
+- name: "SAMSUNG SECURITIES CO.,LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SAMCKRS1
+    
+- name: "SAMSUNG TECHWIN CO., LTD."
+  city: "SEONGNAM"
+  branch: null
+  swift: SSTWKR22
+    
+- name: "SAMSUNG WELSTORY INCORPORATED"
+  city: "SEOUL"
+  branch: null
+  swift: SWEIKRSE
+    
+- name: "SEOUL GUARANTEE INSURANCE COMPANY"
+  city: "SEOUL"
+  branch: null
+  swift: KSGIKRSE
+    
+- name: "SG SECURITIES KOREA CO LTD"
+  city: "SEOUL"
+  branch: null
+  swift: SGSEKRS1
+    
+- name: "SG SECURITIES KOREA CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SGSEKRSL
+    
+- name: "SHEARSON LEHMAN BROTHERS"
+  city: "SEOUL"
+  branch: null
+  swift: SHLBKRS1
+    
+- name: "SHIN HAN SECURITIES CO. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SHHSKRS1
+    
+- name: "SHINAN BNP PARIBAS ASSET MANAGEMENT CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SBPAKRS1
+    
+- name: "SHINHAN AITAS CO., LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SHFAKRSE
+    
+- name: "SHINHAN BANK"
+  city: "SEOUL"
+  branch: KOREA POST OFFICE
+  swift: SHBKKRSEKPO
+    
+- name: "SHINHAN BANK"
+  city: "SEOUL"
+  branch: TST
+  swift: SHBKKRSETST
+    
+- name: "SHINHAN BANK"
+  city: "SEOUL"
+  branch: null
+  swift: SHBKKRSE
+    
+- name: "SHINHAN BANK"
+  city: "SEOUL"
+  branch: null
+  swift: SHBKKRSECLS
+    
+- name: "SHINHAN BANK"
+  city: "SEOUL"
+  branch: null
+  swift: SHBKKRSECUS
+    
+- name: "SHINHAN INVESTMENT CORP."
+  city: "SEOUL"
+  branch: BACK OFFICE
+  swift: SSISKRS1BKO
+    
+- name: "SHINHAN INVESTMENT CORP."
+  city: "SEOUL"
+  branch: GENERAL
+  swift: SSISKRS1GEB
+    
+- name: "SHINHAN INVESTMENT CORP."
+  city: "SEOUL"
+  branch: MANAGEMENT
+  swift: SSISKRS1MGT
+    
+- name: "SHINHAN INVESTMENT CORP."
+  city: "SEOUL"
+  branch: null
+  swift: SSISKRS1
+    
+- name: "SHINHAN INVESTMENT CORP."
+  city: "SEOUL"
+  branch: null
+  swift: SSISKRSS
+    
+- name: "SHINYOUNG SECURITIES CO. LTD."
+  city: "SEOUL"
+  branch: null
+  swift: SHSEKRS1
+    
+- name: "SK SECURITIES CO., LTD"
+  city: "SEOUL"
+  branch: null
+  swift: SKSEKRS1
+    
+- name: "SOCIETE GENERALE, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: SOGEKRSE
+    
+- name: "STANDARD CHARTERED BANK KOREA LIMITED"
+  city: "SEOUL"
+  branch: CUSTODIAL SERVICES DEPARTMENT
+  swift: SCBLKRSEEQI
+    
+- name: "STANDARD CHARTERED BANK KOREA LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: SCBLKRSE
+    
+- name: "STANDARD CHARTERED SECURITIES KOREA LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: SCKRKRS1
+    
+- name: "STATE BANK OF INDIA"
+  city: "SEOUL"
+  branch: null
+  swift: SBINKRSE
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, KOREA BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: SBOSKRSE
+    
+- name: "SUHYUP BANK"
+  city: "SEOUL"
+  branch: null
+  swift: NFFCKRSE
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "SEOUL"
+  branch: null
+  swift: SMBCKRSE
+    
+- name: "THE BANK OF NEW YORK MELLON, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: IRVTKRSX
+    
+- name: "THE EXPORT-IMPORT BANK OF KOREA"
+  city: "SEOUL"
+  branch: FOREIGH EXCHANGE EQUILIZATION FUND
+  swift: EXIKKRSEFEF
+    
+- name: "THE EXPORT-IMPORT BANK OF KOREA"
+  city: "SEOUL"
+  branch: KEXIM INTERANTIONAL FINANCE DEPARTMENT
+  swift: EXIKKRSEIFD
+    
+- name: "THE EXPORT-IMPORT BANK OF KOREA"
+  city: "SEOUL"
+  branch: null
+  swift: EXIKKRSE
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: HJCEKRS1
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH"
+  city: "BUSAN"
+  branch: BUSAN BRANCH
+  swift: HSBCKRSEBSN
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: HSBCKRSE
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: HSBCKRSECLS
+    
+- name: "THE KOREA POST"
+  city: "SEOUL"
+  branch: null
+  swift: KOPOKRS1
+    
+- name: "THE NORTHERN TRUST COMPANY, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: CNORKRSE
+    
+- name: "TONG YANG ASSET MANAGEMENT CORP."
+  city: "SEOUL"
+  branch: null
+  swift: TYAMKRS1
+    
+- name: "TONG YANG INVESTMENT BANK"
+  city: "SEOUL"
+  branch: null
+  swift: TYSEKRS1
+    
+- name: "TONG YANG INVESTMENT TRUST MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: TOYIKRS1
+    
+- name: "TONG YANG INVESTMENT TRUST MANAGEMENT COMPANY"
+  city: "SEOUL"
+  branch: null
+  swift: TYITKRS1
+    
+- name: "TRUSTON ASSET MANAGEMENT"
+  city: "SEOUL"
+  branch: null
+  swift: TRTMKRS1
+    
+- name: "U.B.A.F.-UNION DE BANQUES ARABES ET FRANCAISES"
+  city: "SEOUL"
+  branch: null
+  swift: UBAFKRSX
+    
+- name: "UBS AG SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: UBSWKRSE
+    
+- name: "UBS SECURITIES PTE. LTD. SEOUL BRANCH"
+  city: "SEOUL"
+  branch: SEOUL BRANCH
+  swift: WAREKRS1
+    
+- name: "UNITED OVERSEAS BANK LIMITED, SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: UOVBKRSE
+    
+- name: "W.I. CARR (FAR EAST) LIMITED"
+  city: "SEOUL"
+  branch: null
+  swift: WICAKRS1
+    
+- name: "WELLS FARGO BANK, N.A., SEOUL BRANCH"
+  city: "SEOUL"
+  branch: null
+  swift: PNBPKRSX
+    
+- name: "WOORI BANK, SEOUL"
+  city: "SEOUL"
+  branch: null
+  swift: HVBKKRSE
+    
+- name: "WOORI INVESTMENT BANK"
+  city: "SEOUL"
+  branch: null
+  swift: KHMBKRSE
+    
+- name: "YAMAGUCHI BANK, LTD., THE, BUSAN BRANCH"
+  city: "PUSAN"
+  branch: null
+  swift: YMBKKR2P
+    
+- name: "YUANTA SECURITIES KOREA CO.,LTD"
+  city: "SEOUL"
+  branch: null
+  swift: TYMBKRSE
+    

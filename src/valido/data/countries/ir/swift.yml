@@ -1,0 +1,4510 @@
+- name: "AYANDEH BANK"
+  city: "TEHRAN"
+  branch: null
+  swift: AYBKIRTH
+    
+- name: "BANK DAY"
+  city: "TEHRAN"
+  branch: null
+  swift: DAYBIRTH
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "BUSHEHR"
+  branch: BUSHEHR
+  swift: BEGNIRTHBSH
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "ISFAHAN"
+  branch: AZADI ISFAHAN
+  swift: BEGNIRTHAZD
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "KISH ISLAND"
+  branch: KISH ISLAND BRANCH
+  swift: BEGNIRTHKSH
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "MASHHAD"
+  branch: IMAM KHOMEINI
+  swift: BEGNIRTHIKH
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "MASHHAD"
+  branch: TAGHI ABAD
+  swift: BEGNIRTHTGH
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "SHIRAZ"
+  branch: ZAND
+  swift: BEGNIRTHZND
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TABRIZ"
+  branch: ARTESH
+  swift: BEGNIRTHART
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: AFRIGHA
+  swift: BEGNIRTHAFG
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: ARGENTINA SQUARE
+  swift: BEGNIRTHMAR
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: CMS/ATM
+  swift: BEGNIRTHSHB
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: ESFANDYAR
+  swift: BEGNIRTHESF
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: FERDOSI
+  swift: BEGNIRTHFER
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: GHADIR
+  swift: BEGNIRTHGHD
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: KHABARNEGAR
+  swift: BEGNIRTHKBN
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: MOFATTEH BRANCH
+  swift: BEGNIRTHMFT
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: NFT
+  swift: BEGNIRTHNFT
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: SAADAT ABAD  BRANCH
+  swift: BEGNIRTHSAA
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: SANAATGARAN
+  swift: BEGNIRTHSNT
+    
+- name: "BANK EGHTESAD NOVIN"
+  city: "TEHRAN"
+  branch: null
+  swift: BEGNIRTH
+    
+- name: "BANK HEKMAT IRANIAN"
+  city: "TEHRAN"
+  branch: null
+  swift: HEKMIRTH
+    
+- name: "BANK KESHAVARZI"
+  city: "AHWAZ"
+  branch: AHWAZ
+  swift: KESHIRTH950
+    
+- name: "BANK KESHAVARZI"
+  city: "AMOL"
+  branch: AMOL BRANCH
+  swift: KESHIRTH00B
+    
+- name: "BANK KESHAVARZI"
+  city: "ARAK"
+  branch: ARAK
+  swift: KESHIRTH240
+    
+- name: "BANK KESHAVARZI"
+  city: "ARDABIL"
+  branch: ARDABIL
+  swift: KESHIRTH97N
+    
+- name: "BANK KESHAVARZI"
+  city: "BANDAR ABBAS"
+  branch: PERSIAN GULF
+  swift: KESHIRTH450
+    
+- name: "BANK KESHAVARZI"
+  city: "BUSHEHR"
+  branch: BUSHEHR
+  swift: KESHIRTH16M
+    
+- name: "BANK KESHAVARZI"
+  city: "CHABAHAR PORT"
+  branch: CHABAHAR BRANCH
+  swift: KESHIRTH390
+    
+- name: "BANK KESHAVARZI"
+  city: "HAMADAN"
+  branch: HAMEDAN
+  swift: KESHIRTH050
+    
+- name: "BANK KESHAVARZI"
+  city: "ISFAHAN"
+  branch: ISFAHAN BRANCH
+  swift: KESHIRTH030
+    
+- name: "BANK KESHAVARZI"
+  city: "KARAJ"
+  branch: TOHID BRANCH
+  swift: KESHIRTH701
+    
+- name: "BANK KESHAVARZI"
+  city: "KERMAN"
+  branch: KERMAN BRANCH
+  swift: KESHIRTH070
+    
+- name: "BANK KESHAVARZI"
+  city: "KISH ISLAND"
+  branch: KISH BRANCH
+  swift: KESHIRTH300
+    
+- name: "BANK KESHAVARZI"
+  city: "MASHHAD"
+  branch: MASHHAD BRANCH
+  swift: KESHIRTH140
+    
+- name: "BANK KESHAVARZI"
+  city: "ORUMIYEH"
+  branch: ORUMIYEH
+  swift: KESHIRTH020
+    
+- name: "BANK KESHAVARZI"
+  city: "QAZVIN"
+  branch: QAZVIN BRANCH
+  swift: KESHIRTH100
+    
+- name: "BANK KESHAVARZI"
+  city: "QESHM"
+  branch: QESHM BRANCH
+  swift: KESHIRTH703
+    
+- name: "BANK KESHAVARZI"
+  city: "QOM"
+  branch: QOM BRANCH
+  swift: KESHIRTH810
+    
+- name: "BANK KESHAVARZI"
+  city: "RASHT"
+  branch: RASHT BRANCH
+  swift: KESHIRTH210
+    
+- name: "BANK KESHAVARZI"
+  city: "SARI"
+  branch: SARI BRANCH
+  swift: KESHIRTH204
+    
+- name: "BANK KESHAVARZI"
+  city: "SEMNAN"
+  branch: SEMNAN
+  swift: KESHIRTH18K
+    
+- name: "BANK KESHAVARZI"
+  city: "SHAHROUD"
+  branch: SHAHROUD
+  swift: KESHIRTH21K
+    
+- name: "BANK KESHAVARZI"
+  city: "SHIRAZ"
+  branch: SHIRAZ BRANCH
+  swift: KESHIRTH705
+    
+- name: "BANK KESHAVARZI"
+  city: "TABRIZ"
+  branch: TABRIZ BRANCH
+  swift: KESHIRTH040
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: BAHARESTAN
+  swift: KESHIRTH47A
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: CREDIT CARD SERVICES
+  swift: KESHIRTHSHB
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: DOLATI BRANCH
+  swift: KESHIRTH340
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: MARKAZ TEJARI GOLESTAN BRANCH
+  swift: KESHIRTH180
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: PALIZI
+  swift: KESHIRTH01Q
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: SAADAT ABAD
+  swift: KESHIRTH63S
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: SHADMEHR BRANCH
+  swift: KESHIRTH103
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: SHAHID BEHESHTI BRANCH
+  swift: KESHIRTH820
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: SHAHRARA
+  swift: KESHIRTH110
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: SIE-TIR
+  swift: KESHIRTH760
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: TOHID BRANCH
+  swift: KESHIRTH620
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: VALI-ASR BRANCH
+  swift: KESHIRTH440
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: VANAK
+  swift: KESHIRTH610
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: null
+  swift: KESHIRTH
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: null
+  swift: KESHIRTH160
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: null
+  swift: KESHIRTH53A
+    
+- name: "BANK KESHAVARZI"
+  city: "TEHRAN"
+  branch: null
+  swift: KESHIRTH880
+    
+- name: "BANK KESHAVARZI"
+  city: "YAZD"
+  branch: YAZD
+  swift: KESHIRTH130
+    
+- name: "BANK KESHAVARZI"
+  city: "ZANJAN"
+  branch: ZANJAN
+  swift: KESHIRTH190
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: ASIAN CLEARING UNION
+  swift: BMJIIRTHACU
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: EXPORT DEPARTMENT
+  swift: BMJIIRTHEXD
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: FOREIGN DEBTS DEPARTMENT
+  swift: BMJIIRTHFDD
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: FOREIGN EXCHANGE DEPARTMENT
+  swift: BMJIIRTHFED
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: GENERAL ACCOUNT AND BUDGET DEPARTMENT
+  swift: BMJIIRTHGAD
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: GENERAL SECRETARIAT DEPARTMENT
+  swift: BMJIIRTHGSD
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: HARDWARE ENGINEERING DEPARTMENT
+  swift: BMJIIRTHHED
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: INTERNATIONAL DEPARTMENT
+  swift: BMJIIRTHINT
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: INTERNATIONAL FINANCE DEPARTMENT
+  swift: BMJIIRTHIFD
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: PAYMENT AND SETTLEMENT SYSTEM DEPARTMENT
+  swift: BMJIIRTHSHB
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: RIAL TRANSACTIONS DEPARTMENT
+  swift: BMJIIRTHRTD
+    
+- name: "BANK MARKAZI JOMHOURI ISLAMI IRAN"
+  city: "TEHRAN"
+  branch: null
+  swift: BMJIIRTH
+    
+- name: "BANK MASKAN"
+  city: "ARAK"
+  branch:  ARAK CENTRAL BR.
+  swift: BKMNIRTH158
+    
+- name: "BANK MASKAN"
+  city: "ARDABIL"
+  branch: ARDABIL CENTRAL BRANCH
+  swift: BKMNIRTH151
+    
+- name: "BANK MASKAN"
+  city: "BANDAR ABBAS"
+  branch:  BANDAR ABBAS CENTRAL BR.
+  swift: BKMNIRTH178
+    
+- name: "BANK MASKAN"
+  city: "BUSHEHR"
+  branch:  BUSHEHR CENTRAL BR.
+  swift: BKMNIRTH152
+    
+- name: "BANK MASKAN"
+  city: "CHABAHAR PORT"
+  branch: SADAF TRADE CENTRE
+  swift: BKMNIRTH276
+    
+- name: "BANK MASKAN"
+  city: "HAMADAN"
+  branch: HAMADAN CENTRAL BR.
+  swift: BKMNIRTH116
+    
+- name: "BANK MASKAN"
+  city: "ISFAHAN"
+  branch: ISFAHAN CENTRAL BRANCH
+  swift: BKMNIRTH114
+    
+- name: "BANK MASKAN"
+  city: "ISFAHAN"
+  branch: ISFAHAN FERDOWSI BRANCH
+  swift: BKMNIRTH417
+    
+- name: "BANK MASKAN"
+  city: "KARAJ"
+  branch:  KARAJ CENTRAL BR.
+  swift: BKMNIRTH217
+    
+- name: "BANK MASKAN"
+  city: "KASHAN"
+  branch:  KASHAN CENTRAL BR.
+  swift: BKMNIRTH211
+    
+- name: "BANK MASKAN"
+  city: "KERMAN"
+  branch: KERMAN CENTRAL BR.
+  swift: BKMNIRTH128
+    
+- name: "BANK MASKAN"
+  city: "KERMANSHAH"
+  branch:  KERMANSHAH CENTRAL BR.
+  swift: BKMNIRTH118
+    
+- name: "BANK MASKAN"
+  city: "KISH ISLAND"
+  branch: KISH VENOOS BRANCH
+  swift: BKMNIRTH286
+    
+- name: "BANK MASKAN"
+  city: "MASHHAD"
+  branch: MASHHAD CENTRAL BR.
+  swift: BKMNIRTH112
+    
+- name: "BANK MASKAN"
+  city: "MASHHAD"
+  branch: SADJAD BLVD. BR.
+  swift: BKMNIRTH615
+    
+- name: "BANK MASKAN"
+  city: "ORUMIYEH"
+  branch: ORUMIYEH CENTRAL BR.
+  swift: BKMNIRTH141
+    
+- name: "BANK MASKAN"
+  city: "QAZVIN"
+  branch:  QAZVIN CENTRAL BR.
+  swift: BKMNIRTH121
+    
+- name: "BANK MASKAN"
+  city: "QESHM"
+  branch: QESHM ISLAND CENTRAL BRANCH
+  swift: BKMNIRTH782
+    
+- name: "BANK MASKAN"
+  city: "QOM"
+  branch: QOM CENTRAL BRANCH
+  swift: BKMNIRTH146
+    
+- name: "BANK MASKAN"
+  city: "RASHT"
+  branch:  RASHT CENTRAL BR.
+  swift: BKMNIRTH124
+    
+- name: "BANK MASKAN"
+  city: "SARI"
+  branch:  SARI CENTRAL BR.
+  swift: BKMNIRTH148
+    
+- name: "BANK MASKAN"
+  city: "SHAHREKORD"
+  branch: SHAHREKORD CENTRAL BR.
+  swift: BKMNIRTH229
+    
+- name: "BANK MASKAN"
+  city: "SHIRAZ"
+  branch: SHIRAZ CENTRAL BRANCH
+  swift: BKMNIRTH117
+    
+- name: "BANK MASKAN"
+  city: "TABRIZ"
+  branch: TABRIZ CENTRAL BR.
+  swift: BKMNIRTH115
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch:  VALIASR SQ. BRANCH 
+  swift: BKMNIRTH171
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch:  VANAK SQ. BRANCH 
+  swift: BKMNIRTH889
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: ACCOUNTING DIVISION
+  swift: BKMNIRTHACC
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: AFRIQA BRANCH
+  swift: BKMNIRTH554
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: ATTAR BRANCH
+  swift: BKMNIRTH454
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: BKMNIRTH111
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: KISH CENTRAL BRANCH
+  swift: BKMNIRTH942
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: MIRDAMAD BRANCH
+  swift: BKMNIRTH469
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: MOTAHARI BRANCH
+  swift: BKMNIRTH661
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: SA'ADAT ABAD BR.
+  swift: BKMNIRTH412
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: TADJRISH BR.
+  swift: BKMNIRTH181
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: TEHRAN NARMAK BRANCH
+  swift: BKMNIRTH297
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: TEHRAN SEPAHBOD QARANI BRANCH
+  swift: BKMNIRTH421
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: TEHRAN SHOHADA BRANCH
+  swift: BKMNIRTH142
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: TEHRAN TALEQANI BRANCH
+  swift: BKMNIRTH295
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: TOHID BRANCH
+  swift: BKMNIRTH129
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: YOUSEFABAD BRANCH
+  swift: BKMNIRTH219
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: null
+  swift: BKMNIRTH
+    
+- name: "BANK MASKAN"
+  city: "TEHRAN"
+  branch: null
+  swift: BKMNIRTHSHB
+    
+- name: "BANK MASKAN"
+  city: "YAZD"
+  branch:  YAZD CENTRAL BR.
+  swift: BKMNIRTH125
+    
+- name: "BANK MELLAT"
+  city: "AHWAZ"
+  branch: AHWAZ BRANCH
+  swift: BKMTIRTH044
+    
+- name: "BANK MELLAT"
+  city: "AHWAZ"
+  branch: MANATEGH NAFT KHIZ JONOB
+  swift: BKMTIRTH079
+    
+- name: "BANK MELLAT"
+  city: "ARAK"
+  branch: ARAK BRANCH
+  swift: BKMTIRTH049
+    
+- name: "BANK MELLAT"
+  city: "ARDABIL"
+  branch: ARDABIL
+  swift: BKMTIRTH073
+    
+- name: "BANK MELLAT"
+  city: "BANDAR ABBAS"
+  branch: HORMOZGAN BRANCH
+  swift: BKMTIRTH064
+    
+- name: "BANK MELLAT"
+  city: "BIRJAND"
+  branch: BIRJAND BRANCH
+  swift: BKMTIRTHBBR
+    
+- name: "BANK MELLAT"
+  city: "BOJNOORD"
+  branch: SHARIATI BOJNOORD
+  swift: BKMTIRTH065
+    
+- name: "BANK MELLAT"
+  city: "BUSHEHR"
+  branch: BUSHEHR BRANCH
+  swift: BKMTIRTH053
+    
+- name: "BANK MELLAT"
+  city: "CHABAHAR PORT"
+  branch: CHABAHAR BRANCH
+  swift: BKMTIRTH056
+    
+- name: "BANK MELLAT"
+  city: "GHASRSHIRIN"
+  branch: GHASR SHIRIN
+  swift: BKMTIRTH070
+    
+- name: "BANK MELLAT"
+  city: "GHAZVIN"
+  branch: QAZVIN BRANCH
+  swift: BKMTIRTHQZV
+    
+- name: "BANK MELLAT"
+  city: "GORGAN"
+  branch: GORGAN BR.
+  swift: BKMTIRTHGRG
+    
+- name: "BANK MELLAT"
+  city: "GORGAN"
+  branch: VALI-ASR GORGAN BRANCH
+  swift: BKMTIRTH058
+    
+- name: "BANK MELLAT"
+  city: "HAMADAN"
+  branch: HAMEDAN
+  swift: BKMTIRTH071
+    
+- name: "BANK MELLAT"
+  city: "ISFAHAN"
+  branch: ISFAHAN BRANCH
+  swift: BKMTIRTH041
+    
+- name: "BANK MELLAT"
+  city: "ISFAHAN"
+  branch: SHEIKH SADOGH
+  swift: BKMTIRTH074
+    
+- name: "BANK MELLAT"
+  city: "KARAJ"
+  branch: CHAHAR RAH GOLZAR
+  swift: BKMTIRTH021
+    
+- name: "BANK MELLAT"
+  city: "KARAJ"
+  branch: KARAJ BRANCH
+  swift: BKMTIRTH052
+    
+- name: "BANK MELLAT"
+  city: "KASHAN"
+  branch: KASHAN BRANCH
+  swift: BKMTIRTH090
+    
+- name: "BANK MELLAT"
+  city: "KERMAN"
+  branch: KERMAN BRANCH
+  swift: BKMTIRTH050
+    
+- name: "BANK MELLAT"
+  city: "KERMAN"
+  branch: SHAHID SADOUGHI KERMAN
+  swift: BKMTIRTHSQR
+    
+- name: "BANK MELLAT"
+  city: "KERMANSHAH"
+  branch: CHAHAR RAH BASIJ
+  swift: BKMTIRTH094
+    
+- name: "BANK MELLAT"
+  city: "KERMANSHAH"
+  branch: MARKAZI BRANCH
+  swift: BKMTIRTH057
+    
+- name: "BANK MELLAT"
+  city: "KHORRAMABAD"
+  branch: KHORRAMABAD
+  swift: BKMTIRTH075
+    
+- name: "BANK MELLAT"
+  city: "KISH ISLAND"
+  branch: BAZAR ARABHA
+  swift: BKMTIRTH097
+    
+- name: "BANK MELLAT"
+  city: "KISH ISLAND"
+  branch: BAZAR PARDIS
+  swift: BKMTIRTH096
+    
+- name: "BANK MELLAT"
+  city: "KISH ISLAND"
+  branch: KISH CENTRAL BRANCH
+  swift: BKMTIRTH054
+    
+- name: "BANK MELLAT"
+  city: "KISH ISLAND"
+  branch: MARKAZ TEJARI
+  swift: BKMTIRTH095
+    
+- name: "BANK MELLAT"
+  city: "MASHHAD"
+  branch: ASTANE GHODS BRANCH
+  swift: BKMTIRTH059
+    
+- name: "BANK MELLAT"
+  city: "MASHHAD"
+  branch: DAHOME DEY
+  swift: BKMTIRTH062
+    
+- name: "BANK MELLAT"
+  city: "MASHHAD"
+  branch: MASHHAD BRANCH
+  swift: BKMTIRTH042
+    
+- name: "BANK MELLAT"
+  city: "MASHHAD"
+  branch: SADJAD BLVD. BRANCH
+  swift: BKMTIRTH068
+    
+- name: "BANK MELLAT"
+  city: "ORUMIYEH"
+  branch: MARKAZI BRANCH
+  swift: BKMTIRTH063
+    
+- name: "BANK MELLAT"
+  city: "QAZVIN"
+  branch: SHAHRE SANATI ALBORZ BRANCH
+  swift: BKMTIRTH060
+    
+- name: "BANK MELLAT"
+  city: "QESHM"
+  branch: QESHM CENTRAL BRANCH
+  swift: BKMTIRTH055
+    
+- name: "BANK MELLAT"
+  city: "QOM"
+  branch: QOM
+  swift: BKMTIRTH045
+    
+- name: "BANK MELLAT"
+  city: "RASHT"
+  branch: RASHT BRANCH
+  swift: BKMTIRTH051
+    
+- name: "BANK MELLAT"
+  city: "SANANDAJ"
+  branch: SANANDAJ
+  swift: BKMTIRTH069
+    
+- name: "BANK MELLAT"
+  city: "SARI"
+  branch: SARI EMAM SQUARE BRANCH
+  swift: BKMTIRTH066
+    
+- name: "BANK MELLAT"
+  city: "SEMNAN"
+  branch: SEMNAN BRANCH
+  swift: BKMTIRTH047
+    
+- name: "BANK MELLAT"
+  city: "SHAHREKORD"
+  branch: SHAHREKORD
+  swift: BKMTIRTH077
+    
+- name: "BANK MELLAT"
+  city: "SHIRAZ"
+  branch: SHIRAZ BRANCH
+  swift: BKMTIRTH046
+    
+- name: "BANK MELLAT"
+  city: "SIRJAN"
+  branch: SIRJAN BRANCH
+  swift: BKMTIRTH076
+    
+- name: "BANK MELLAT"
+  city: "TABRIZ"
+  branch: MEYDAN SA'AT
+  swift: BKMTIRTH101
+    
+- name: "BANK MELLAT"
+  city: "TABRIZ"
+  branch: SHAHID MADANI
+  swift: BKMTIRTH089
+    
+- name: "BANK MELLAT"
+  city: "TABRIZ"
+  branch: TABRIZ BRANCH
+  swift: BKMTIRTH043
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: ACCOUNTING AND FOREIGN DEBT. DEPT.
+  swift: BKMTIRTHFAC
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: ARJANTIN SQUARE BRANCH
+  swift: BKMTIRTH084
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: BAZAR BRANCH
+  swift: BKMTIRTH022
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: BEHDASHT VA DARMAN BRANCH
+  swift: BKMTIRTH086
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: BORSE KALA
+  swift: BKMTIRTH087
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: CHAHAR RAHE RASHID BRANCH
+  swift: BKMTIRTH082
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: CHAHAR RAHE VALIASR BRANCH
+  swift: BKMTIRTH012
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: CHAHARRAH JOMHORI BRANCH
+  swift: BKMTIRTH028
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: CORPORATE BANKING
+  swift: BKMTIRTHCOB
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: DAMESHGH BRANCH
+  swift: BKMTIRTH014
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: DANESHGAH TEHRAN
+  swift: BKMTIRTHDTH
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: DOLAT BRANCH
+  swift: BKMTIRTH025
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: DR.BEHESHTI
+  swift: BKMTIRTH098
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: DR.FATEMI BRANCH
+  swift: BKMTIRTH080
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: ESKAN BRANCH
+  swift: BKMTIRTH032
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: ESLAMBOL BRANCH
+  swift: BKMTIRTH034
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: ESTEGHLAL SQ. BRANCH
+  swift: BKMTIRTH011
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: FARAZ ASEMAN SAADAT ABAD BRANCH
+  swift: BKMTIRTHUWS
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: FERDOWSI SHOMALI
+  swift: BKMTIRTH091
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: FERDOWSI SQ. BRANCH
+  swift: BKMTIRTH013
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: FOREIGN EXCHANGE DEPT.
+  swift: BKMTIRTHFXD
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: FOREIGN OPERATION DEPT..
+  swift: BKMTIRTHFOD
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: GANDI BRANCH
+  swift: BKMTIRTH088
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: GHOLHAK BRANCH
+  swift: BKMTIRTH018
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: GOLESTANE PASDARAN BRANCH
+  swift: BKMTIRTH037
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: GOLFAM AFRICA BRANCH
+  swift: BKMTIRTH033
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: HAFTE TIR SQ. BRANCH
+  swift: BKMTIRTH029
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: HEJRAT BRANCH
+  swift: BKMTIRTH015
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: INTERNATIONAL DIV
+  swift: BKMTIRTHINT
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: INTERNATIONAL RELATION DEPT
+  swift: BKMTIRTHREL
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: IRAN KAVEH
+  swift: BKMTIRTHIKH
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: JEYHOON BRANCH
+  swift: BKMTIRTH036
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: KANDOVAN BRANCH
+  swift: BKMTIRTH035
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: KHIABAN FAJR
+  swift: BKMTIRTH030
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: LETTER OF GUARANTEE DEPT.
+  swift: BKMTIRTHLGD
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: MAIN BRANCH
+  swift: BKMTIRTH031
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: MARKAZ LALEH MELLAT BRANCH
+  swift: BKMTIRTH019
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: MASJED JAME SHAHRAK GHODS BRANCH
+  swift: BKMTIRTH085
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: MEYDANE TOHID
+  swift: BKMTIRTH078
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: MIRDAMAD BRANCH
+  swift: BKMTIRTH026
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: MIRDAMAD-NAFT COMMERCIAL BANKING CENTER
+  swift: BKMTIRTHBMN
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: NARENJESTANE PASDARAN BRANCH
+  swift: BKMTIRTH038
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: OSTAD NEJATALLAHI SHOMALI
+  swift: BKMTIRTH081
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: OVERSEAS BRANCH AFFAIRS AND FOREIGN INVESTMENT DEPT.
+  swift: BKMTIRTHFBA
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: PARSKHODRO BRANCH
+  swift: BKMTIRTH023
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: PROJECT FINANCING DEPT.
+  swift: BKMTIRTHFIN
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: SAADAT ABAD
+  swift: BKMTIRTH092
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: SABZE MEYDAN
+  swift: BKMTIRTH093
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: SANATI FATH
+  swift: BKMTIRTH020
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: SAZMAN GOSTARESH
+  swift: BKMTIRTH100
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: SEPAHBOD GHARANI BRANCH
+  swift: BKMTIRTH027
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: SERAH TALEGHANI BRANCH
+  swift: BKMTIRTH016
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: SETTLEMENT DEPARTMENT
+  swift: BKMTIRTHSTD
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: SHAHID SARAFRAZ BRANCH
+  swift: BKMTIRTH039
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: VALIASR NABSHE DR.BEHESHTI
+  swift: BKMTIRTH040
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: VANAK BRANCH
+  swift: BKMTIRTH024
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: VANAK TAK
+  swift: BKMTIRTH099
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: VEZARAT NAFT
+  swift: BKMTIRTH017
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: ZAMYAD BRANCH
+  swift: BKMTIRTH083
+    
+- name: "BANK MELLAT"
+  city: "TEHRAN"
+  branch: null
+  swift: BKMTIRTH
+    
+- name: "BANK MELLAT"
+  city: "YASUJ"
+  branch: YASOUJ BRANCH
+  swift: BKMTIRTHYSJ
+    
+- name: "BANK MELLAT"
+  city: "YAZD"
+  branch: JOMHOURI ESLAMI BLVD.
+  swift: BKMTIRTH061
+    
+- name: "BANK MELLAT"
+  city: "ZAHEDAN"
+  branch: ZAHEDAN BRANCH
+  swift: BKMTIRTH067
+    
+- name: "BANK MELLAT"
+  city: "ZANJAN"
+  branch: ZANJAN BRANCH
+  swift: BKMTIRTH048
+    
+- name: "BANK MELLI IRAN"
+  city: "ABADAN"
+  branch: ABADAN BRANCH
+  swift: MELIIRTHABN
+    
+- name: "BANK MELLI IRAN"
+  city: "AHWAZ"
+  branch: AHWAZ MAIN BRANCH
+  swift: MELIIRTHAHW
+    
+- name: "BANK MELLI IRAN"
+  city: "AMOL"
+  branch:  AMOL BR.
+  swift: MELIIRTHAML
+    
+- name: "BANK MELLI IRAN"
+  city: "ARAK"
+  branch: ARAK BRANCH
+  swift: MELIIRTHARK
+    
+- name: "BANK MELLI IRAN"
+  city: "ARDABIL"
+  branch: ARDABIL BRANCH
+  swift: MELIIRTHARD
+    
+- name: "BANK MELLI IRAN"
+  city: "ASTARA"
+  branch: ASTARA BRANCH
+  swift: MELIIRTHAST
+    
+- name: "BANK MELLI IRAN"
+  city: "BABOL"
+  branch: BABOL BRANCH
+  swift: MELIIRTHBBL
+    
+- name: "BANK MELLI IRAN"
+  city: "BANDAR ABBAS"
+  branch: BANDAR ABBAS BRANCH
+  swift: MELIIRTHBND
+    
+- name: "BANK MELLI IRAN"
+  city: "BANDAR ABBAS"
+  branch: GOMROK BANDAR ABBAS BR
+  swift: MELIIRTHGOB
+    
+- name: "BANK MELLI IRAN"
+  city: "BANDAR ANZALI"
+  branch: BANDAR ANZALI BR.
+  swift: MELIIRTHANZ
+    
+- name: "BANK MELLI IRAN"
+  city: "BIRJAND"
+  branch: BIRJAND BRANCH
+  swift: MELIIRTHBIR
+    
+- name: "BANK MELLI IRAN"
+  city: "BOJNOORD"
+  branch: BOJNOORD BRANCH
+  swift: MELIIRTHBJN
+    
+- name: "BANK MELLI IRAN"
+  city: "BROUJERD"
+  branch: BROUJERD BR.
+  swift: MELIIRTHBRJ
+    
+- name: "BANK MELLI IRAN"
+  city: "BUSHEHR"
+  branch: BANDAR BOUSHEHR BRANCH
+  swift: MELIIRTHBSH
+    
+- name: "BANK MELLI IRAN"
+  city: "GHAEM SHAHR"
+  branch: GHAEM SHAHR BR.
+  swift: MELIIRTHGHM
+    
+- name: "BANK MELLI IRAN"
+  city: "GONBAD-E QABUS"
+  branch: GONBAD-E-KAVOOS BRANCH
+  swift: MELIIRTHGNB
+    
+- name: "BANK MELLI IRAN"
+  city: "GORGAN"
+  branch: GORGAN BRANCH
+  swift: MELIIRTHGOR
+    
+- name: "BANK MELLI IRAN"
+  city: "HAMADAN"
+  branch: HAMADAN BRANCH
+  swift: MELIIRTHHMN
+    
+- name: "BANK MELLI IRAN"
+  city: "ILAM"
+  branch: ILAM BR.
+  swift: MELIIRTHILM
+    
+- name: "BANK MELLI IRAN"
+  city: "ISFAHAN"
+  branch: ISFAHAN FERDOWSI AVE.
+  swift: MELIIRTHKFI
+    
+- name: "BANK MELLI IRAN"
+  city: "ISFAHAN"
+  branch: ISFAHAN FEYZ SQ. BR.
+  swift: MELIIRTHFYZ
+    
+- name: "BANK MELLI IRAN"
+  city: "ISFAHAN"
+  branch: ISFAHAN MAIN BRANCH
+  swift: MELIIRTHIFN
+    
+- name: "BANK MELLI IRAN"
+  city: "ISFAHAN"
+  branch: ISFAHAN SAADAT ABAD AVE.
+  swift: MELIIRTHKSI
+    
+- name: "BANK MELLI IRAN"
+  city: "ISFAHAN"
+  branch: MEYDAN EMAM HOSSEIN
+  swift: MELIIRTHEHI
+    
+- name: "BANK MELLI IRAN"
+  city: "ISFAHAN"
+  branch: MOBARAKEH STEEL COMPLEX
+  swift: MELIIRTHMSC
+    
+- name: "BANK MELLI IRAN"
+  city: "JOLFA"
+  branch: JOLFA BR.
+  swift: MELIIRTHJLF
+    
+- name: "BANK MELLI IRAN"
+  city: "KARAJ"
+  branch: JAHANSHAHR-E-KARAJ BRANCH
+  swift: MELIIRTHJSK
+    
+- name: "BANK MELLI IRAN"
+  city: "KARAJ"
+  branch: KARAJ BRANCH
+  swift: MELIIRTHKRJ
+    
+- name: "BANK MELLI IRAN"
+  city: "KASHAN"
+  branch: KASHAN BRANCH
+  swift: MELIIRTHKSN
+    
+- name: "BANK MELLI IRAN"
+  city: "KERMAN"
+  branch: JIROFT BR.
+  swift: MELIIRTHJIR
+    
+- name: "BANK MELLI IRAN"
+  city: "KERMAN"
+  branch: KERMAN MAIN BRANCH
+  swift: MELIIRTHKER
+    
+- name: "BANK MELLI IRAN"
+  city: "KERMANSHAH"
+  branch: KERMANSHAH BRANCH
+  swift: MELIIRTHKMN
+    
+- name: "BANK MELLI IRAN"
+  city: "KHORRAM SHAHR"
+  branch: KHORRAM SHAHR BR.
+  swift: MELIIRTHKHM
+    
+- name: "BANK MELLI IRAN"
+  city: "KHORRAMABAD"
+  branch: KHORRAM ABAD BR.
+  swift: MELIIRTHKHO
+    
+- name: "BANK MELLI IRAN"
+  city: "KISH ISLAND"
+  branch: KISH ISLAND BRANCH
+  swift: MELIIRTHKIS
+    
+- name: "BANK MELLI IRAN"
+  city: "LAHIJAN"
+  branch: LAHIJAN BR.
+  swift: MELIIRTHLHJ
+    
+- name: "BANK MELLI IRAN"
+  city: "MARAGHEH"
+  branch: MARAGHEH BR.
+  swift: MELIIRTHMAR
+    
+- name: "BANK MELLI IRAN"
+  city: "MASHHAD"
+  branch: MASHHAD MAIN BRANCH
+  swift: MELIIRTHMHD
+    
+- name: "BANK MELLI IRAN"
+  city: "MASHHAD"
+  branch: MASHHAD RAHNAMAIE AVE. BR.
+  swift: MELIIRTHRHN
+    
+- name: "BANK MELLI IRAN"
+  city: "MASHHAD"
+  branch: SAJAD BLVD BRANCH
+  swift: MELIIRTHSJD
+    
+- name: "BANK MELLI IRAN"
+  city: "MAYBOD"
+  branch: MAYBOD BR.
+  swift: MELIIRTHMBD
+    
+- name: "BANK MELLI IRAN"
+  city: "NEYSHABUR"
+  branch: NEYSHABUR BR.
+  swift: MELIIRTHNEY
+    
+- name: "BANK MELLI IRAN"
+  city: "NOSHAHR"
+  branch: NOSHAHR BR.
+  swift: MELIIRTHNOS
+    
+- name: "BANK MELLI IRAN"
+  city: "ORUMIYEH"
+  branch: ORUMIEH BRANCH
+  swift: MELIIRTHORU
+    
+- name: "BANK MELLI IRAN"
+  city: "ORUMIYEH"
+  branch: ORUMIYEH MODARES BR.
+  swift: MELIIRTHMDR
+    
+- name: "BANK MELLI IRAN"
+  city: "QASR E SHIRIN"
+  branch: QASR E SHIRIN BR.
+  swift: MELIIRTHQAS
+    
+- name: "BANK MELLI IRAN"
+  city: "QAZVIN"
+  branch: ALBORZ INDUSTRIAL CITY BR.
+  swift: MELIIRTHAIC
+    
+- name: "BANK MELLI IRAN"
+  city: "QAZVIN"
+  branch: QAZVIN BRANCH
+  swift: MELIIRTHQZN
+    
+- name: "BANK MELLI IRAN"
+  city: "QAZVIN"
+  branch: QAZVIN VALIASR SQ.
+  swift: MELIIRTHMVQ
+    
+- name: "BANK MELLI IRAN"
+  city: "QESHM"
+  branch: QESHM ISLAND BRANCH
+  swift: MELIIRTHQSH
+    
+- name: "BANK MELLI IRAN"
+  city: "QOM"
+  branch: QOM BRANCH
+  swift: MELIIRTHQOM
+    
+- name: "BANK MELLI IRAN"
+  city: "QUCHAN"
+  branch: GHOOCHAN BRANCH
+  swift: MELIIRTHHI7
+    
+- name: "BANK MELLI IRAN"
+  city: "RAFSANJAN"
+  branch: RAFSANJAN BR.
+  swift: MELIIRTHRSJ
+    
+- name: "BANK MELLI IRAN"
+  city: "RASHT"
+  branch: GOLSAR RASHT BR.
+  swift: MELIIRTHGOL
+    
+- name: "BANK MELLI IRAN"
+  city: "RASHT"
+  branch: RASHT BRANCH
+  swift: MELIIRTHRSH
+    
+- name: "BANK MELLI IRAN"
+  city: "SABZEVAR"
+  branch: SABZEVAR BR.
+  swift: MELIIRTHSBZ
+    
+- name: "BANK MELLI IRAN"
+  city: "SANANDAJ"
+  branch: SANANDAJ BRANCH
+  swift: MELIIRTHSNJ
+    
+- name: "BANK MELLI IRAN"
+  city: "SARI"
+  branch: SARI BRANCH
+  swift: MELIIRTHSRI
+    
+- name: "BANK MELLI IRAN"
+  city: "SARI"
+  branch: SARI FARHANG AVE.
+  swift: MELIIRTHKFS
+    
+- name: "BANK MELLI IRAN"
+  city: "SAVEH"
+  branch: SAVEH BR.
+  swift: MELIIRTHSVH
+    
+- name: "BANK MELLI IRAN"
+  city: "SEMNAN"
+  branch: SEMNAN BRANCH
+  swift: MELIIRTHSEM
+    
+- name: "BANK MELLI IRAN"
+  city: "SHAHREKORD"
+  branch: SHAHREKORD BRANCH
+  swift: MELIIRTHSHK
+    
+- name: "BANK MELLI IRAN"
+  city: "SHIRAZ"
+  branch: SHIRAZ KOSAR BR.
+  swift: MELIIRTHKSR
+    
+- name: "BANK MELLI IRAN"
+  city: "SHIRAZ"
+  branch: SHIRAZ MAIN BRANCH
+  swift: MELIIRTHSHI
+    
+- name: "BANK MELLI IRAN"
+  city: "SIRJAN"
+  branch: SIRJAN BR.
+  swift: MELIIRTHSRJ
+    
+- name: "BANK MELLI IRAN"
+  city: "TABRIZ"
+  branch: TABRIZ MAIN BRANCH
+  swift: MELIIRTHTBZ
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: 15 KHORDAD BRANCH
+  swift: MELIIRTH203
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: ABSHAR VALIASR
+  swift: MELIIRTH999
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: AFARINESH BR.
+  swift: MELIIRTHAFR
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: AMIRIYEH BRANCH
+  swift: MELIIRTH102
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: ANAHITA BRANCH
+  swift: MELIIRTH965
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: APADANA
+  swift: MELIIRTH08A
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: AREF BRANCH
+  swift: MELIIRTH208
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: ARK
+  swift: MELIIRTH08I
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: ASAD ABADI SQ. BR.
+  swift: MELIIRTH225
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: BAGH FERDOWS
+  swift: MELIIRTH230
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: BAGHER SHAHR
+  swift: MELIIRTH817
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: BAZAR BRANCH
+  swift: MELIIRTH063
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: BORJ -E- ARMITA BRANCH
+  swift: MELIIRTHARM
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: BORJE GOLNAR ELAHIEH
+  swift: MELIIRTH328
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: BOZORGRAH AFRIGHA
+  swift: MELIIRTH966
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: MELIIRTH060
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: COLLEDGE BRANCH
+  swift: MELIIRTH433
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: DANESHGHAH BRANCH
+  swift: MELIIRTH087
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: DEHKHODA BR.
+  swift: MELIIRTH212
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: DR. SHARIATI BR.
+  swift: MELIIRTH142
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: EGHBAL
+  swift: MELIIRTH501
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: EMAM HOSSEIN BRANCH
+  swift: MELIIRTH119
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: ENGHELAB AVE BR
+  swift: MELIIRTH093
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: ESKAN BRANCH
+  swift: MELIIRTHESK
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: FERDOWSI BRANCH
+  swift: MELIIRTH137
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: FORODGAH MEHRABAD
+  swift: MELIIRTHMHR
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: GUARANTEE DEPT
+  swift: MELIIRTHLGD
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: HAFEZ BRANCH
+  swift: MELIIRTH075
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: HAFTOME TEER BRANCH
+  swift: MELIIRTH444
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: HAJ VA ZIARAT BR.
+  swift: MELIIRTH304
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: IMAM KHOMEINI AIRPORT BR.
+  swift: MELIIRTHIIA
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: IMAM KHOMEINI RELIEF FOUNDATION BR
+  swift: MELIIRTH526
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: INTERNATIONAL DEPT
+  swift: MELIIRTHINT
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: INT'L FAIR BR.
+  swift: MELIIRTHTIF
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: IRAN KHODROW BRANCH
+  swift: MELIIRTHKHD
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: ISSAR BRANCH
+  swift: MELIIRTH179
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: JAHAN KOODAK
+  swift: MELIIRTHJKD
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: KARIMKHAN ZAND
+  swift: MELIIRTH168
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: KARKHANE ARJ
+  swift: MELIIRTH07I
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: KASHEF BRANCH
+  swift: MELIIRTHKSF
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: KHASHAYAR BRANCH
+  swift: MELIIRTH544
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: KHIABANE MOGHADASE ARDEBILI
+  swift: MELIIRTH305
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: KHIYABANE DANESHGAHE MASHAD
+  swift: MELIIRTHKDM
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: KHOJASTEH BR
+  swift: MELIIRTH799
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: MELLAT BRANCH
+  swift: MELIIRTH141
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: MEYDAN JAHAD
+  swift: MELIIRTH721
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: MEYDAN OSTAD MOEIN BR.
+  swift: MELIIRTHOST
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: MEYDAN SHOHADA BRANCH
+  swift: MELIIRTH081
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: MIRDAMAD
+  swift: MELIIRTH064
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: MIRZAYE SHIRAZI ST. 
+  swift: MELIIRTH169
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: MOKHABERAT BR.
+  swift: MELIIRTHMKH
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: MOLAVI BRANCH
+  swift: MELIIRTH111
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: NADERI BRANCH
+  swift: MELIIRTH159
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: NASSER KHOSROW BRANCH
+  swift: MELIIRTH068
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: NEMOUNEH MOMTAZ MELLI
+  swift: MELIIRTHNMM
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: NIAVARAN BR.
+  swift: MELIIRTHNVR
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: NOWBAHAR BRANCH
+  swift: MELIIRTH302
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: PACHENAR BRANCH
+  swift: MELIIRTH202
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: PALAYESHGAH-E-TEHRAN BR.
+  swift: MELIIRTHPLT
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: PARDIS BR.
+  swift: MELIIRTHPDR
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: PARK AVE. BR.
+  swift: MELIIRTH183
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: PARSA BRANCH
+  swift: MELIIRTH974
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: PAYAM ENGHELAB
+  swift: MELIIRTH098
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SAADAT-ABAD BRANCH
+  swift: MELIIRTHSDT
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SAADI BRANCH
+  swift: MELIIRTH069
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SABA BRANCH
+  swift: MELIIRTH546
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SADEGHIEH BR.
+  swift: MELIIRTH223
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SARAYE HAAJ HASSAN BRANCH
+  swift: MELIIRTH091
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SEYED KHANDAN BR.
+  swift: MELIIRTH214
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SHAHID FAHMIDEH BR.
+  swift: MELIIRTH342
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SHAHIN BRANCH
+  swift: MELIIRTH962
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SHAHRAK-E-EKBATAN
+  swift: MELIIRTHEKB
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SHAHR-E RAY BR.
+  swift: MELIIRTH237
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SOHEIL BR.
+  swift: MELIIRTH220
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: SOUTH MEHRABAD BR.
+  swift: MELIIRTH219
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: T AMIRAT-E-TAVANIR-E-KARAJ
+  swift: MELIIRTHTTK
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: TAJRISH BR.
+  swift: MELIIRTH228
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: TEHRANPARS BRANCH
+  swift: MELIIRTH215
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: VAHDAT BRANCH
+  swift: MELIIRTH090
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: VELAYAT BRANCH
+  swift: MELIIRTH559
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: VEZARATE OMOURE KHAREJEH BR.
+  swift: MELIIRTHMFA
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: ZAFAR ST. BR
+  swift: MELIIRTH120
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: ZEBARJAD BR.
+  swift: MELIIRTHZBJ
+    
+- name: "BANK MELLI IRAN"
+  city: "TEHRAN"
+  branch: null
+  swift: MELIIRTH
+    
+- name: "BANK MELLI IRAN"
+  city: "TONEKABON"
+  branch: TONEKABON
+  swift: MELIIRTHTNK
+    
+- name: "BANK MELLI IRAN"
+  city: "YASUJ"
+  branch: YASUJ BR.
+  swift: MELIIRTHYSJ
+    
+- name: "BANK MELLI IRAN"
+  city: "YAZD"
+  branch: ARDAKANE YAZD
+  swift: MELIIRTH787
+    
+- name: "BANK MELLI IRAN"
+  city: "YAZD"
+  branch: GHADIR YAZD BR.
+  swift: MELIIRTHGDR
+    
+- name: "BANK MELLI IRAN"
+  city: "YAZD"
+  branch: YAZD BRANCH
+  swift: MELIIRTHYAZ
+    
+- name: "BANK MELLI IRAN"
+  city: "ZAHEDAN"
+  branch: ZAHEDAN BRANCH
+  swift: MELIIRTHZHD
+    
+- name: "BANK MELLI IRAN"
+  city: "ZANJAN"
+  branch: KHORRAM SHAHR ST. BR.
+  swift: MELIIRTHKZN
+    
+- name: "BANK MELLI IRAN"
+  city: "ZANJAN"
+  branch: ZANJAN BRANCH
+  swift: MELIIRTHZNJ
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "AHWAZ"
+  branch: AHWAZ BRANCH
+  swift: BOIMIRTHAHW
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "ARAK"
+  branch: ARAK
+  swift: BOIMIRTHARK
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "ARDABIL"
+  branch: ARDEBIL
+  swift: BOIMIRTHADB
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "BANDAR ABBAS"
+  branch: BANDAR ABBAS
+  swift: BOIMIRTHBAN
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "BIRJAND"
+  branch: BIRJAND
+  swift: BOIMIRTHBRJ
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "BOJNOORD"
+  branch: BOJNOORD
+  swift: BOIMIRTHBOJ
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "BUSHEHR"
+  branch: BUSHEHR
+  swift: BOIMIRTHBSH
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "GORGAN"
+  branch: GORGAN
+  swift: BOIMIRTHGOR
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "HAMADAN"
+  branch: HAMEDAN
+  swift: BOIMIRTHHMD
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "ILAM"
+  branch: ILAM
+  swift: BOIMIRTHILM
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "ISFAHAN"
+  branch: ISFAHAN BRANCH
+  swift: BOIMIRTHISF
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "KARAJ"
+  branch: KARAJ BRANCH
+  swift: BOIMIRTHKRJ
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "KERMAN"
+  branch: KERMAN
+  swift: BOIMIRTHKER
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "KERMANSHAH"
+  branch: KERMANSHAH
+  swift: BOIMIRTHKMS
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "KHORRAMABAD"
+  branch: KHORAM ABAD
+  swift: BOIMIRTHKHO
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "KISH ISLAND"
+  branch: KISH ISLAND BRANCH
+  swift: BOIMIRTHKSH
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "MASHHAD"
+  branch: MASHHAD
+  swift: BOIMIRTHMSH
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "ORUMIYEH"
+  branch: ORUMYEH
+  swift: BOIMIRTHORM
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "QAZVIN"
+  branch: QAZVIN INDUSTRIAL CITY BRANCH
+  swift: BOIMIRTHQIC
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "QAZVIN"
+  branch: QAZVIN
+  swift: BOIMIRTHQZN
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "QESHM"
+  branch: QESHM
+  swift: BOIMIRTHQSH
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "QOM"
+  branch: QOM BRANCH
+  swift: BOIMIRTHQOM
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "QOM"
+  branch: SKOHOUHIE QOM INDUSTRIAL CITY BRANCH
+  swift: BOIMIRTHSQI
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "RASHT"
+  branch: RASHT BRANCH
+  swift: BOIMIRTHRSH
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "SANANDAJ"
+  branch: SANANDAJ
+  swift: BOIMIRTHSNJ
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "SARI"
+  branch: SARI
+  swift: BOIMIRTHSRI
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "SEMNAN"
+  branch: SEMNAN
+  swift: BOIMIRTHSEM
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "SEMNAN"
+  branch: SHAHROOD BRANCH
+  swift: BOIMIRTHSHA
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "SHAHREKORD"
+  branch: SHAHREKORD
+  swift: BOIMIRTHSHK
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "SHIRAZ"
+  branch: SHIRAZ
+  swift: BOIMIRTHSRZ
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TABRIZ"
+  branch: TABRIZ
+  swift: BOIMIRTHTAB
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: BOIMIRTHCEN
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: DOKHANIAT BRANCH
+  swift: BOIMIRTHDKH
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: FOULAD BRANCH
+  swift: BOIMIRTHFLD
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: GOSTARESH BRANCH
+  swift: BOIMIRTHGSH
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: HAFEZ BRANCH
+  swift: BOIMIRTHHAF
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: KARIM KHAN BRANCH
+  swift: BOIMIRTHKAR
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: SANAT BRANCH
+  swift: BOIMIRTHSAN
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: SETAD
+  swift: BOIMIRTHHQA
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: TOSEE MELLI
+  swift: BOIMIRTHTMB
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: TREASURY DEPARTMENT
+  swift: BOIMIRTHSHB
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "TEHRAN"
+  branch: null
+  swift: BOIMIRTH
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "YASUJ"
+  branch: YASOUJ
+  swift: BOIMIRTHYSJ
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "YAZD"
+  branch: YAZD
+  swift: BOIMIRTHYAZ
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "ZAHEDAN"
+  branch: ZAHEDAN
+  swift: BOIMIRTHZAH
+    
+- name: "BANK OF INDUSTRY AND MINE"
+  city: "ZANJAN"
+  branch: ZANJAN
+  swift: BOIMIRTHZNJ
+    
+- name: "BANK PASARGAD"
+  city: "AMOL"
+  branch: AMOL FOREIGN EXCHANGE MAIN BRANCH
+  swift: BKBPIRTH170
+    
+- name: "BANK PASARGAD"
+  city: "ISFAHAN"
+  branch: ISFAHAN FOREIGN EXCHANGE MAIN BRANCH
+  swift: BKBPIRTH130
+    
+- name: "BANK PASARGAD"
+  city: "ISFAHAN"
+  branch: SAADAT ABAD ST.,
+  swift: BKBPIRTHIS1
+    
+- name: "BANK PASARGAD"
+  city: "KISH ISLAND"
+  branch: null
+  swift: BKBPIRTHKS1
+    
+- name: "BANK PASARGAD"
+  city: "MASHHAD"
+  branch: MASHHAD FOREIGN EXCHANGE MAIN BRANCH
+  swift: BKBPIRTH100
+    
+- name: "BANK PASARGAD"
+  city: "TABRIZ"
+  branch: TABRIZ FOREIGN EXCHANGE MAIN BRANCH
+  swift: BKBPIRTH160
+    
+- name: "BANK PASARGAD"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH, NO.430, MIRDAMAD BLVD.,
+  swift: BKBPIRTH201
+    
+- name: "BANK PASARGAD"
+  city: "TEHRAN"
+  branch: TREASURY DEPT.
+  swift: BKBPIRTHTRY
+    
+- name: "BANK PASARGAD"
+  city: "TEHRAN"
+  branch: null
+  swift: BKBPIRTH
+    
+- name: "BANK REFAH KARGARAN"
+  city: "AHWAZ"
+  branch: AHWAZ CENTRAL BRANCH
+  swift: REFAIRTH205
+    
+- name: "BANK REFAH KARGARAN"
+  city: "ALBORZ"
+  branch: KARAJ BRANCH
+  swift: REFAIRTH877
+    
+- name: "BANK REFAH KARGARAN"
+  city: "ARAK"
+  branch: ARAK CENTRAL BRANCH
+  swift: REFAIRTH222
+    
+- name: "BANK REFAH KARGARAN"
+  city: "BANDAR ABBAS"
+  branch: BANDAR ABBAS CENTRAL BRANCH
+  swift: REFAIRTH218
+    
+- name: "BANK REFAH KARGARAN"
+  city: "BUSHEHR"
+  branch: BUSHEHR CENTRAL BRANCH
+  swift: REFAIRTH233
+    
+- name: "BANK REFAH KARGARAN"
+  city: "GORGAN"
+  branch: GORGAN CENTRAL BRANCH
+  swift: REFAIRTH230
+    
+- name: "BANK REFAH KARGARAN"
+  city: "HAMADAN"
+  branch: HAMADAN CENTRAL BRANCH
+  swift: REFAIRTH221
+    
+- name: "BANK REFAH KARGARAN"
+  city: "ISFAHAN"
+  branch: ISFAHAN CENTRAL BRANCH
+  swift: REFAIRTH201
+    
+- name: "BANK REFAH KARGARAN"
+  city: "KASHAN"
+  branch: KASHAN CENTRAL BRANCH
+  swift: REFAIRTH219
+    
+- name: "BANK REFAH KARGARAN"
+  city: "KERMAN"
+  branch: SHAHID SADOUGHI -E- KERMAN BRANCH
+  swift: REFAIRTH477
+    
+- name: "BANK REFAH KARGARAN"
+  city: "KISH ISLAND"
+  branch: KISH CENTRAL BRANCH
+  swift: REFAIRTH493
+    
+- name: "BANK REFAH KARGARAN"
+  city: "MASHHAD"
+  branch: MASHHAD CENTRAL BRANCH
+  swift: REFAIRTH207
+    
+- name: "BANK REFAH KARGARAN"
+  city: "MASHHAD"
+  branch: MASHHAD KHAYAM BRANCH
+  swift: REFAIRTH800
+    
+- name: "BANK REFAH KARGARAN"
+  city: "ORUMIYEH"
+  branch: ORUMIYEH CENTRAL BRANCH
+  swift: REFAIRTH217
+    
+- name: "BANK REFAH KARGARAN"
+  city: "QAZVIN"
+  branch: QAZVIN CENTRAL BRANCH
+  swift: REFAIRTH215
+    
+- name: "BANK REFAH KARGARAN"
+  city: "QOM"
+  branch: QOM CENTRAL BRANCH
+  swift: REFAIRTH228
+    
+- name: "BANK REFAH KARGARAN"
+  city: "RASHT"
+  branch: RASHT CENTRAL BRANCH
+  swift: REFAIRTH216
+    
+- name: "BANK REFAH KARGARAN"
+  city: "SARI"
+  branch: SARI CENTRAL BRANCH
+  swift: REFAIRTH232
+    
+- name: "BANK REFAH KARGARAN"
+  city: "SEMNAN"
+  branch: SEMNAN CENTRAL BRANCH
+  swift: REFAIRTH246
+    
+- name: "BANK REFAH KARGARAN"
+  city: "SHAHREKORD"
+  branch: SHAHR -E- KORD CENTRAL BRANCH
+  swift: REFAIRTH255
+    
+- name: "BANK REFAH KARGARAN"
+  city: "SHIRAZ"
+  branch: SHIRAZ CENTRAL BRANCH
+  swift: REFAIRTH211
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TABRIZ"
+  branch: PEZESHKAN BRANCH
+  swift: REFAIRTH571
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TABRIZ"
+  branch: TABRIZ CENTRAL BRANCH
+  swift: REFAIRTH202
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: BOULVAR BRANCH
+  swift: REFAIRTH107
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: REFAIRTH101
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: CORRESPONDING BANKING RELATIONS
+  swift: REFAIRTHCBR
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: DR. HESABI BR.
+  swift: REFAIRTH258
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: ENGHELAB BRANCH
+  swift: REFAIRTH112
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: FALAKEH DOVOM-E- SADEGHIEH BRANCH
+  swift: REFAIRTH127
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: GHOLHAK BRANCH
+  swift: REFAIRTH242
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: JAHANKOODAK BRANCH
+  swift: REFAIRTH243
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: KERMAN KHODRO BRANCH
+  swift: REFAIRTH333
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: MANZARIEH NIAVARAN BRANCH
+  swift: REFAIRTH108
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: MELLAT BRANCH
+  swift: REFAIRTH117
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: MIRDAMAD BRANCH
+  swift: REFAIRTH152
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: MOGHADDAS -E-ARDEBILI BRANCH
+  swift: REFAIRTH110
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: OSTAD MOTAHARI
+  swift: REFAIRTH124
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: PARDIS BRANCH
+  swift: REFAIRTH144
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: PARK LALEH BRANCH
+  swift: REFAIRTH176
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: PARS MINOO BRANCH
+  swift: REFAIRTH345
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: PASDARAN BRANCH
+  swift: REFAIRTH140
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: PEYKAN SHAHR BRANCH
+  swift: REFAIRTH126
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: SANDOOGH -E- TOSE E MELLI BRANCH
+  swift: REFAIRTH164
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: SEPAHBOD GHARANI BRANCH
+  swift: REFAIRTH328
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: SHAHID BEHESHTI  -E-  GHARBI BRANCH
+  swift: REFAIRTH236
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: VBAGH-E-FERDOWS BRANCH
+  swift: REFAIRTH368
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: VEZARATKAR BRANCH
+  swift: REFAIRTH104
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: null
+  swift: REFAIRTH
+    
+- name: "BANK REFAH KARGARAN"
+  city: "TEHRAN"
+  branch: null
+  swift: REFAIRTH197
+    
+- name: "BANK REFAH KARGARAN"
+  city: "YAZD"
+  branch: YAZD BRANCH
+  swift: REFAIRTH210
+    
+- name: "BANK REFAH KARGARAN"
+  city: "ZAHEDAN"
+  branch: ZAHEDAN ALAVI BRANCH
+  swift: REFAIRTH387
+    
+- name: "BANK REFAH KARGARAN"
+  city: "ZAHEDAN"
+  branch: ZAHEDAN CENTRAL BRANCH
+  swift: REFAIRTH225
+    
+- name: "BANK REFAH KARGARAN"
+  city: "ZANJAN"
+  branch: ZANJAN CENTRAL BRANCH
+  swift: REFAIRTH220
+    
+- name: "BANK REFAH KARGARAN"
+  city: "ZANJAN"
+  branch: null
+  swift: REFAIRTH46F
+    
+- name: "BANK SEPAH"
+  city: "AHWAZ"
+  branch: AHWAZ BRANCH
+  swift: SEPBIRTH007
+    
+- name: "BANK SEPAH"
+  city: "ARAK"
+  branch: ARAK BRANCH
+  swift: SEPBIRTH005
+    
+- name: "BANK SEPAH"
+  city: "BANDAR ABBAS"
+  branch: null
+  swift: SEPBIRTH015
+    
+- name: "BANK SEPAH"
+  city: "BUSHEHR"
+  branch: BUSHEHR BRANCH
+  swift: SEPBIRTH044
+    
+- name: "BANK SEPAH"
+  city: "ISFAHAN"
+  branch: null
+  swift: SEPBIRTH006
+    
+- name: "BANK SEPAH"
+  city: "KARAJ"
+  branch: KARAJ BRANCH
+  swift: SEPBIRTH054
+    
+- name: "BANK SEPAH"
+  city: "KASHAN"
+  branch: SEPBIRTH040
+  swift: SEPBIRTH040
+    
+- name: "BANK SEPAH"
+  city: "KERMAN"
+  branch: KERMAN BRANCH
+  swift: SEPBIRTH019
+    
+- name: "BANK SEPAH"
+  city: "KERMANSHAH"
+  branch: KERMANSHAH BRANCH
+  swift: SEPBIRTH020
+    
+- name: "BANK SEPAH"
+  city: "KISH ISLAND"
+  branch: KISH BRANCH
+  swift: SEPBIRTH115
+    
+- name: "BANK SEPAH"
+  city: "MASHHAD"
+  branch: MASHHAD BRANCH
+  swift: SEPBIRTH238
+    
+- name: "BANK SEPAH"
+  city: "ORUMIYEH"
+  branch: ORUMIYEH BRANCH
+  swift: SEPBIRTH014
+    
+- name: "BANK SEPAH"
+  city: "QAZVIN"
+  branch: QAZVIN BRANCH
+  swift: SEPBIRTH017
+    
+- name: "BANK SEPAH"
+  city: "QOM"
+  branch: QOM BRANCH
+  swift: SEPBIRTH018
+    
+- name: "BANK SEPAH"
+  city: "RASHT"
+  branch: RASHT BRANCH
+  swift: SEPBIRTH012
+    
+- name: "BANK SEPAH"
+  city: "SARI"
+  branch: GHARAN SARI BR.
+  swift: SEPBIRTHTMK
+    
+- name: "BANK SEPAH"
+  city: "SHIRAZ"
+  branch: null
+  swift: SEPBIRTH016
+    
+- name: "BANK SEPAH"
+  city: "TABRIZ"
+  branch: null
+  swift: SEPBIRTH009
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: 7TIR BR.
+  swift: SEPBIRTH776
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: ABER BANK DEPARTMENT
+  swift: SEPBIRTHSHB
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: AHMAD GHASIR BRANCH
+  swift: SEPBIRTH185
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: AZADI BRANCH
+  swift: SEPBIRTH324
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: BAZAR BRANCH
+  swift: SEPBIRTH002
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: BEYHAGHI BRANCH
+  swift: SEPBIRTHBEY
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: SEPBIRTH001
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: CHAHARAHE COLLEGE BRANCH
+  swift: SEPBIRTH396
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: CHAMRAN BRANCH
+  swift: SEPBIRTH177
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: DANESHGAH BRANCH
+  swift: SEPBIRTH057
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: DR. FATEMI STREET
+  swift: SEPBIRTH387
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: ENGHELAB BRANCH
+  swift: SEPBIRTH050
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: KHALED SLAMBOLI BRANCH
+  swift: SEPBIRTH124
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: KHAYAM BRANCH
+  swift: SEPBIRTH004
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: MEYDANE VANAK BRANCH
+  swift: SEPBIRTH677
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: MIRDAMAD SHARGHI BRANCH
+  swift: SEPBIRTH123
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: OSTAD MOTAHARI GHARBI BRANCH
+  swift: SEPBIRTH459
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: SAIPA BRANCH
+  swift: SEPBIRTH102
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: SEPBIRTHNEG
+  swift: SEPBIRTHNEG
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: SERAH AZARI
+  swift: SEPBIRTH131
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: SIE TIR BRANCH
+  swift: SEPBIRTH160
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: SYED KHANDAN BRANCH
+  swift: SEPBIRTH539
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: TAVANIR-VALIASR
+  swift: SEPBIRTH200
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: null
+  swift: SEPBIRTH
+    
+- name: "BANK SEPAH"
+  city: "TEHRAN"
+  branch: null
+  swift: SEPBIRTHFEX
+    
+- name: "BANK SEPAH"
+  city: "YAZD"
+  branch: null
+  swift: SEPBIRTH026
+    
+- name: "BANK TEJARAT"
+  city: "AHWAZ"
+  branch: CENTRAL BRANCH
+  swift: BTEJIRTHAWZ
+    
+- name: "BANK TEJARAT"
+  city: "ARAK"
+  branch: ARAK MAIN BRANCH
+  swift: BTEJIRTHARK
+    
+- name: "BANK TEJARAT"
+  city: "ARDABIL"
+  branch: ARDABIL BRANCH
+  swift: BTEJIRTHARD
+    
+- name: "BANK TEJARAT"
+  city: "BANDAR ABBAS"
+  branch: BANDAR ABBAS MAIN BRANCH
+  swift: BTEJIRTHBND
+    
+- name: "BANK TEJARAT"
+  city: "BUSHEHR"
+  branch: BUSHEHR MAIN BRANCH
+  swift: BTEJIRTHBSH
+    
+- name: "BANK TEJARAT"
+  city: "GHAZVIN"
+  branch: GHAZVIN MAIN BRANCH
+  swift: BTEJIRTHQZN
+    
+- name: "BANK TEJARAT"
+  city: "GORGAN"
+  branch: null
+  swift: BTEJIRTHGAN
+    
+- name: "BANK TEJARAT"
+  city: "HAMADAN"
+  branch: HAMEDAN BRANCH
+  swift: BTEJIRTHHAM
+    
+- name: "BANK TEJARAT"
+  city: "ILAM"
+  branch: null
+  swift: BTEJIRTHILM
+    
+- name: "BANK TEJARAT"
+  city: "ISFAHAN"
+  branch: CENTRAL BRANCH
+  swift: BTEJIRTHISF
+    
+- name: "BANK TEJARAT"
+  city: "KARAJ"
+  branch: null
+  swift: BTEJIRTHKRJ
+    
+- name: "BANK TEJARAT"
+  city: "KASHAN"
+  branch: KASHAN BRANCH
+  swift: BTEJIRTHKSN
+    
+- name: "BANK TEJARAT"
+  city: "KERMAN"
+  branch: KERMAN MAIN BRANCH
+  swift: BTEJIRTHKER
+    
+- name: "BANK TEJARAT"
+  city: "KERMANSHAH"
+  branch: KERMANSHAH MAIN BRANCH
+  swift: BTEJIRTHKRH
+    
+- name: "BANK TEJARAT"
+  city: "KISH ISLAND"
+  branch: KISH MAIN BRANCH
+  swift: BTEJIRTHKSH
+    
+- name: "BANK TEJARAT"
+  city: "MASHHAD"
+  branch: MASHHAD BRANCH
+  swift: BTEJIRTHMSD
+    
+- name: "BANK TEJARAT"
+  city: "ORUMIYEH"
+  branch: ORUMIYEH MAIN BRANCH
+  swift: BTEJIRTHORM
+    
+- name: "BANK TEJARAT"
+  city: "QOM"
+  branch: QOME MAIN BRANCH
+  swift: BTEJIRTHQOM
+    
+- name: "BANK TEJARAT"
+  city: "RASHT"
+  branch: RASHT MAIN BRANCH
+  swift: BTEJIRTHRSH
+    
+- name: "BANK TEJARAT"
+  city: "SANANDAJ"
+  branch: SANANDAJ MAIN BRANCH
+  swift: BTEJIRTHSNJ
+    
+- name: "BANK TEJARAT"
+  city: "SARI"
+  branch: SARI MAIN BRANCH
+  swift: BTEJIRTHSAR
+    
+- name: "BANK TEJARAT"
+  city: "SEMNAN"
+  branch: SEMNAN BRANCH
+  swift: BTEJIRTHSEM
+    
+- name: "BANK TEJARAT"
+  city: "SHIRAZ"
+  branch: SHIRAZ MAIN BRANCH
+  swift: BTEJIRTHSHI
+    
+- name: "BANK TEJARAT"
+  city: "TABRIZ"
+  branch: HEAD OFFICE
+  swift: BTEJIRTHTBR
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: BAZAR MAIN BRANCH
+  swift: BTEJIRTH811
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: CHEETGAR MAIN BRANCH
+  swift: BTEJIRTH802
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: ESKAN MAIN BRANCH
+  swift: BTEJIRTH500
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: FERDOWSI MAIN BRANCH
+  swift: BTEJIRTH100
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: GHARANI MAIN BRANCH
+  swift: BTEJIRTH200
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: GHODS MAIN BRANCH
+  swift: BTEJIRTH150
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: GUARANTEE DEPARTMENT
+  swift: BTEJIRTHLGD
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: HORMOZAN MAIN BRANCH
+  swift: BTEJIRTHHRM
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: IMAM KHOMEINI SQUARE MAIN BRANCH
+  swift: BTEJIRTH051
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: KARIMKHAN MAIN BRANCH
+  swift: BTEJIRTH700
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: MIRDAMAD MAIN BRANCH
+  swift: BTEJIRTH350
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: RAY BRANCH
+  swift: BTEJIRTHRAY
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: SAADI MAIN BRANCH
+  swift: BTEJIRTH250
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: TELEGHANI BRANCH
+  swift: BTEJIRTH023
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: VALI-E-ASR MAIN BRANCH
+  swift: BTEJIRTH300
+    
+- name: "BANK TEJARAT"
+  city: "TEHRAN"
+  branch: null
+  swift: BTEJIRTH
+    
+- name: "BANK TEJARAT"
+  city: "YAZD"
+  branch: YAZD MAIN BRANCH
+  swift: BTEJIRTHYAZ
+    
+- name: "BANK TEJARAT"
+  city: "ZANJAN"
+  branch: ZANJAN MAIN BRANCH
+  swift: BTEJIRTHZNJ
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "ALBORZ"
+  branch: ALBORZ
+  swift: CIYBIRTHKRJ
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "BUSHEHR"
+  branch: BUSHER
+  swift: CIYBIRTHBSH
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "GHAZVIN"
+  branch: GHAZVIN
+  swift: CIYBIRTHQAZ
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "ISFAHAN"
+  branch: ISFAHAN BRANCH
+  swift: CIYBIRTHESF
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "KISH ISLAND"
+  branch: PARDIS BRANCH
+  swift: CIYBIRTHKSH
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "MASHHAD"
+  branch: MASHHAD BRANCH
+  swift: CIYBIRTHMAS
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "QOM"
+  branch: QOM
+  swift: CIYBIRTHQOM
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "SHIRAZ"
+  branch: KARIM KHAN BRANCH
+  swift: CIYBIRTHSHI
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TABRIZ"
+  branch: TABRIZ BRANCH
+  swift: CIYBIRTHTAB
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TEHRAN"
+  branch: ARZHANTIN
+  swift: CIYBIRTH248
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: CIYBIRTH201
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TEHRAN"
+  branch: FERDOSI SQ.
+  swift: CIYBIRTH329
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TEHRAN"
+  branch: FOREIGN EXCHANGE OPERATION DEPT.
+  swift: CIYBIRTHTRD
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TEHRAN"
+  branch: IRAN ZAMIN-MAHESTAN
+  swift: CIYBIRTH538
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TEHRAN"
+  branch: KAMRANIYEH
+  swift: CIYBIRTH331
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TEHRAN"
+  branch: MOLLA SADRA
+  swift: CIYBIRTH335
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TEHRAN"
+  branch: PAKNEZHAD
+  swift: CIYBIRTH240
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TEHRAN"
+  branch: SHARIATI-MIRDAMAD
+  swift: CIYBIRTH504
+    
+- name: "CITY BANK (PUBLIC CORP)"
+  city: "TEHRAN"
+  branch: null
+  swift: CIYBIRTH
+    
+- name: "CREDIT INSTITUTE FOR DEVELOPMENT"
+  city: "ISFAHAN"
+  branch: ISFAHAN(201)
+  swift: BTOSIRTHISF
+    
+- name: "CREDIT INSTITUTE FOR DEVELOPMENT"
+  city: "KISH ISLAND"
+  branch: KISH BRANCH(601)
+  swift: BTOSIRTHKSH
+    
+- name: "CREDIT INSTITUTE FOR DEVELOPMENT"
+  city: "MASHHAD"
+  branch: MASHHAD(301)
+  swift: BTOSIRTHMSH
+    
+- name: "CREDIT INSTITUTE FOR DEVELOPMENT"
+  city: "TABRIZ"
+  branch: TABRIZ
+  swift: BTOSIRTHTAB
+    
+- name: "CREDIT INSTITUTE FOR DEVELOPMENT"
+  city: "TEHRAN"
+  branch: CENTRAL
+  swift: BTOSIRTHCNT
+    
+- name: "CREDIT INSTITUTE FOR DEVELOPMENT"
+  city: "TEHRAN"
+  branch: MADAR SQ.,(104)
+  swift: BTOSIRTHMAD
+    
+- name: "CREDIT INSTITUTE FOR DEVELOPMENT"
+  city: "TEHRAN"
+  branch: SANAIE(113)
+  swift: BTOSIRTHSAN
+    
+- name: "CREDIT INSTITUTE FOR DEVELOPMENT"
+  city: "TEHRAN"
+  branch: null
+  swift: BTOSIRTH
+    
+- name: "EUROPAEISCH-IRANISCHE HANDELSBANK AG"
+  city: "KISH ISLAND"
+  branch: null
+  swift: EIHBIRTHKSH
+    
+- name: "EUROPAEISCH-IRANISCHE HANDELSBANK AG"
+  city: "TEHRAN"
+  branch: TEHRAN BRANCH
+  swift: EIHBIRTHTEH
+    
+- name: "EUROPAEISCH-IRANISCHE HANDELSBANK AG"
+  city: "TEHRAN"
+  branch: null
+  swift: EIHBIRTH
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "AHWAZ"
+  branch: AHWAZ MAIN BRANCH
+  swift: EDBIIRTHAWZ
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "ARAK"
+  branch: ARAK BRANCH
+  swift: EDBIIRTHARK
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "ARDABIL"
+  branch: BRANCH
+  swift: EDBIIRTHARD
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "ASTARA"
+  branch: ASTARA MAIN BRANCH
+  swift: EDBIIRTHAST
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "BANDAR ABBAS"
+  branch: BANDAR ABBAS MAIN BRANCH
+  swift: EDBIIRTHBAN
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "BIRJAND"
+  branch: null
+  swift: EDBIIRTHBIR
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "BOJNOORD"
+  branch: null
+  swift: EDBIIRTHBOJ
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "BUSHEHR"
+  branch: BUSHEHR MAIN BRANCH
+  swift: EDBIIRTHBSH
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "CHABAHAR PORT"
+  branch: CHABAHAR MAIN BRANCH
+  swift: EDBIIRTHCHA
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "GORGAN"
+  branch: GORGAN MAIN BRANCH
+  swift: EDBIIRTHGOR
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "HAMADAN"
+  branch: HAMADAN MAIN BRANCH
+  swift: EDBIIRTHHAM
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "ILAM"
+  branch: BRANCH
+  swift: EDBIIRTHILA
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "ISFAHAN"
+  branch: ISFAHAN MAIN BRANCH
+  swift: EDBIIRTHISF
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "KARAJ"
+  branch: KARAJ BRANCH
+  swift: EDBIIRTHKRJ
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "KASHAN"
+  branch: null
+  swift: EDBIIRTHKAS
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "KERMAN"
+  branch: KERMAN MAIN BRANCH
+  swift: EDBIIRTHKER
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "KERMANSHAH"
+  branch: KERMANSHAH MAIN BRANCH
+  swift: EDBIIRTHKRH
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "KHORRAMABAD"
+  branch: KHORRAMABAD MAIN BRANCH
+  swift: EDBIIRTHKHO
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "KISH ISLAND"
+  branch: KISH MAIN BRANCH
+  swift: EDBIIRTHKSH
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "MASHHAD"
+  branch: MASHAD BRANCH
+  swift: EDBIIRTHMSH
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "ORUMIYEH"
+  branch: ORUMIYEH MAIN BRANCH
+  swift: EDBIIRTHORU
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "QAZVIN"
+  branch: null
+  swift: EDBIIRTHQAZ
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "QESHM"
+  branch: QESHM MAIN BRANCH
+  swift: EDBIIRTHQSH
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "QOM"
+  branch: QOM BRANCH
+  swift: EDBIIRTHQOM
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "RASHT"
+  branch: RASHT MAIN BRANCH
+  swift: EDBIIRTHRSH
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "SANANDAJ"
+  branch: null
+  swift: EDBIIRTHSAN
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "SARI"
+  branch: SARI MAIN BRANCH
+  swift: EDBIIRTHSAR
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "SEMNAN"
+  branch: SEMNAN BRANCH
+  swift: EDBIIRTHSEM
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "SHAHREKORD"
+  branch: null
+  swift: EDBIIRTHSHK
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "SHIRAZ"
+  branch: SHIRAZ BRANCH
+  swift: EDBIIRTHSHI
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TABRIZ"
+  branch: TABRIZ BRANCH
+  swift: EDBIIRTHTAB
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: ARGENTINA SQ.
+  swift: EDBIIRTHARG
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: BOULEVARD BRANCH
+  swift: EDBIIRTHBLV
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: EDBIIRTHCEN
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: INTERNATIONAL DEPT.
+  swift: EDBIIRTHINT
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: LG DEPT.
+  swift: EDBIIRTHLGD
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: MIRDAMAD BRANCH
+  swift: EDBIIRTHMIR
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: SHETAB DEPT
+  swift: EDBIIRTHSHB
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: TAJRISH BRANCH
+  swift: EDBIIRTHTAJ
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: TRADE FINANCE OPERATION
+  swift: EDBIIRTHTRF
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: TREASURY DEPARTMENT
+  swift: EDBIIRTHFXD
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "TEHRAN"
+  branch: null
+  swift: EDBIIRTH
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "YASUJ"
+  branch: YASUJ BRANCH
+  swift: EDBIIRTHYAS
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "YAZD"
+  branch: YAZD MAIN BRANCH
+  swift: EDBIIRTHYAZ
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "ZAHEDAN"
+  branch: ZAHEDAN
+  swift: EDBIIRTHZAH
+    
+- name: "EXPORT DEVELOPMENT BANK OF IRAN"
+  city: "ZANJAN"
+  branch: ZANJAN MAIN BRANCH
+  swift: EDBIIRTHZAN
+    
+- name: "FNXCARD CORPORATION LTD"
+  city: "ISFAHAN"
+  branch: null
+  swift: FNXCIRT1
+    
+- name: "HELAL IRAN MEDICAL DEVICES CO."
+  city: "KARAJ"
+  branch: null
+  swift: HIMDIRT1
+    
+- name: "IRAN VENEZUELA BI-NATIONAL BANK"
+  city: "TEHRAN"
+  branch: null
+  swift: IVBBIRTH
+    
+- name: "KARAFARIN BANK"
+  city: "ISFAHAN"
+  branch: ESFAHAN CENTRAL BRANCH
+  swift: KBIDIRTH004
+    
+- name: "KARAFARIN BANK"
+  city: "KISH ISLAND"
+  branch: KISH ISLAND BRANCH
+  swift: KBIDIRTH031
+    
+- name: "KARAFARIN BANK"
+  city: "MASHHAD"
+  branch: MASHHAD CENTRAL BRANCH
+  swift: KBIDIRTH018
+    
+- name: "KARAFARIN BANK"
+  city: "TABRIZ"
+  branch: CENTRAL BRANCH OF TABRIZ
+  swift: KBIDIRTH008
+    
+- name: "KARAFARIN BANK"
+  city: "TEHRAN"
+  branch: FARMANIYEH BRANCH
+  swift: KBIDIRTH005
+    
+- name: "KARAFARIN BANK"
+  city: "TEHRAN"
+  branch: SEPAHAN BRANCH
+  swift: KBIDIRTH022
+    
+- name: "KARAFARIN BANK"
+  city: "TEHRAN"
+  branch: SHAHIS BEHESHTI BRANCH
+  swift: KBIDIRTH050
+    
+- name: "KARAFARIN BANK"
+  city: "TEHRAN"
+  branch: VANAK BRANCH
+  swift: KBIDIRTH009
+    
+- name: "KARAFARIN BANK"
+  city: "TEHRAN"
+  branch: ZAFAR BRANCH
+  swift: KBIDIRTH016
+    
+- name: "KARAFARIN BANK"
+  city: "TEHRAN"
+  branch: null
+  swift: KBIDIRTH
+    
+- name: "KARAFARIN BANK"
+  city: "TEHRAN"
+  branch: null
+  swift: KBIDIRTHSHB
+    
+- name: "MIDDLE EAST BANK"
+  city: "TEHRAN"
+  branch: null
+  swift: KHMIIRTH
+    
+- name: "PARSIAN BANK"
+  city: "AHWAZ"
+  branch: AHWAZ
+  swift: BKPAIRTHAHW
+    
+- name: "PARSIAN BANK"
+  city: "ISFAHAN"
+  branch: DR. NOURBAKHSH
+  swift: BKPAIRTHNBI
+    
+- name: "PARSIAN BANK"
+  city: "ISFAHAN"
+  branch: HAKIM NEZAMI ISFAHAN BRANCH
+  swift: BKPAIRTHHAK
+    
+- name: "PARSIAN BANK"
+  city: "KARAJ"
+  branch: MEYDAN MADAR KARAJ
+  swift: BKPAIRTHMMK
+    
+- name: "PARSIAN BANK"
+  city: "KERMAN"
+  branch: KERMAN BRANCH
+  swift: BKPAIRTHKER
+    
+- name: "PARSIAN BANK"
+  city: "KERMANSHAH"
+  branch: FERDOWSI KERMANSHAH BRANCH
+  swift: BKPAIRTHFKR
+    
+- name: "PARSIAN BANK"
+  city: "KISH ISLAND"
+  branch: KISH BRANCH
+  swift: BKPAIRTHKSH
+    
+- name: "PARSIAN BANK"
+  city: "MASHHAD"
+  branch: AHMAD ABAD MASHHAD
+  swift: BKPAIRTHAMH
+    
+- name: "PARSIAN BANK"
+  city: "ORUMIYEH"
+  branch: ORUMIYEH
+  swift: BKPAIRTHORU
+    
+- name: "PARSIAN BANK"
+  city: "RASHT"
+  branch: MOTAHARI RASHT
+  swift: BKPAIRTHMOR
+    
+- name: "PARSIAN BANK"
+  city: "SARI"
+  branch: SARI
+  swift: BKPAIRTHSAR
+    
+- name: "PARSIAN BANK"
+  city: "SHIRAZ"
+  branch: GHASRODASHT BRANCH
+  swift: BKPAIRTHSHZ
+    
+- name: "PARSIAN BANK"
+  city: "SHIRAZ"
+  branch: MA-ALI ABAD SHIRAZ
+  swift: BKPAIRTHSHM
+    
+- name: "PARSIAN BANK"
+  city: "TABRIZ"
+  branch: TABRIZ BRANCH
+  swift: BKPAIRTHTBZ
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: AFRIGHAYE SHOMALI
+  swift: BKPAIRTHAFS
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: APADANA
+  swift: BKPAIRTHAPA
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: ARJANTIN BRANCH 
+  swift: BKPAIRTHARJ
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: AYATOLLAH KASHANI SHARGHI
+  swift: BKPAIRTHKAS
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: AZADI BRANCH
+  swift: BKPAIRTHAZD
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: BORJ TEJARAT ELECTRONIC
+  swift: BKPAIRTHBTE
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: BKPAIRTHCEN
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: BKPAIRTHCNB
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: CHITGAR
+  swift: BKPAIRTHCHT
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: DOCTOR FATEMI
+  swift: BKPAIRTHDFT
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: ETTEHAD BRANCH
+  swift: BKPAIRTHETD
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: FERDOSI BRANCH
+  swift: BKPAIRTHFRD
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: FERESHTEH
+  swift: BKPAIRTHFSH
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: GANDI
+  swift: BKPAIRTHGAN
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: KAMRANIEH
+  swift: BKPAIRTHKAM
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: KARIMKHAN ZAND BRANCH
+  swift: BKPAIRTHKRZ
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: LALEH BRANCH
+  swift: BKPAIRTHLAL
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: MIRDAMAD GHARBI BRANCH
+  swift: BKPAIRTHMDG
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: MIRDAMAD SHARGHI BRANCH
+  swift: BKPAIRTH005
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: MOLASADRA BRANCH
+  swift: BKPAIRTHMOL
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: MOTAHARI
+  swift: BKPAIRTHMOT
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: NAFT SHOMALI
+  swift: BKPAIRTHNFN
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: PAMENAR BRANCH
+  swift: BKPAIRTHPMN
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: PARK SAEE
+  swift: BKPAIRTHPSE
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: PASDARAN BRANCH
+  swift: BKPAIRTHPAS
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: RASHID CROSS
+  swift: BKPAIRTHRSH
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: SADRA BRANCH
+  swift: BKPAIRTHSAD
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: SEPAHBOD GHARANI
+  swift: BKPAIRTHSGH
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: SHAHID BEHESHTI SHARGHI
+  swift: BKPAIRTHSBS
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: SHEIKH BAHAEE
+  swift: BKPAIRTHSHK
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: SHETAB BRANCH
+  swift: BKPAIRTHSHB
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: SHIR PASTORIZEH BRANCH
+  swift: BKPAIRTH048
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: SOLEYMAN KHATER
+  swift: BKPAIRTHSKH
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: TAKHTI BRANCH
+  swift: BKPAIRTHSBB
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: TALEGHANI BRANCH
+  swift: BKPAIRTHTAL
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: TOHID BRANCH
+  swift: BKPAIRTHTOH
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: ZAFAR BRANCH
+  swift: BKPAIRTHZFR
+    
+- name: "PARSIAN BANK"
+  city: "TEHRAN"
+  branch: null
+  swift: BKPAIRTH
+    
+- name: "PARSIAN BANK"
+  city: "YAZD"
+  branch: YAZD BRANCH
+  swift: BKPAIRTHYZD
+    
+- name: "PHOENIX SOFT CORP LTD"
+  city: "ISFAHAN"
+  branch: null
+  swift: PSCLIRT1
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "BUSHEHR"
+  branch: MARKAZI
+  swift: PBIRIRTH113
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "GORGAN"
+  branch: GORGAN
+  swift: PBIRIRTH653
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "ISFAHAN"
+  branch: MARKAZI
+  swift: PBIRIRTH803
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "KARAJ"
+  branch: MESBAH KARAJ
+  swift: PBIRIRTH355
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "KERMAN"
+  branch: MARKAZI
+  swift: PBIRIRTH238
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "KERMANSHAH"
+  branch: AZADI
+  swift: PBIRIRTH358
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "KISH ISLAND"
+  branch: MARKAZI KISH ISLAND
+  swift: PBIRIRTH365
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "MASHHAD"
+  branch: MARKAZI
+  swift: PBIRIRTH129
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "RASHT"
+  branch: RASHT
+  swift: PBIRIRTH227
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "SHIRAZ"
+  branch: MARKAZI-SHIRAZ
+  swift: PBIRIRTH197
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TABRIZ"
+  branch: MARKAZI TABRIZ
+  swift: PBIRIRTH423
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: AFRIGHA
+  swift: PBIRIRTH147
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: EMAM KHOMEYNI
+  swift: PBIRIRTH016
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: FALLAHI
+  swift: PBIRIRTH183
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: FERDOWSI BR.
+  swift: PBIRIRTH414
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: KHACHANI
+  swift: PBIRIRTH102
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: MIRZA-E-SHIRAZI
+  swift: PBIRIRTH363
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: MOLASADRA
+  swift: PBIRIRTH224
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: MOSTAGHEL
+  swift: PBIRIRTH031
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: POLESADR
+  swift: PBIRIRTH407
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: SETTLEMENT DEPARTMENT
+  swift: PBIRIRTHSET
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: SHARIATI
+  swift: PBIRIRTH296
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: VALIASR
+  swift: PBIRIRTH079
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: VANAK
+  swift: PBIRIRTH392
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "TEHRAN"
+  branch: null
+  swift: PBIRIRTH
+    
+- name: "POST BANK OF IRAN (P.B.I)"
+  city: "ZAHEDAN"
+  branch: MARKAZI
+  swift: PBIRIRTH327
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "AHWAZ"
+  branch: AHWAZ BRANCH
+  swift: SABCIRTH9AH
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ALBORZ"
+  branch: null
+  swift: SABCIRTH8AL
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "AMOL"
+  branch: AMOL BRANCH
+  swift: SABCIRTH9AM
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ARAK"
+  branch: ARAK
+  swift: SABCIRTH9AK
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ARDABIL"
+  branch: ARDEBIL BRANCH
+  swift: SABCIRTH9AR
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "BABOL"
+  branch: BABOL BRANCH
+  swift: SABCIRTH9BL
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "BANDAR ABBAS"
+  branch: BANDAR ABBAS
+  swift: SABCIRTH9BS
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "BUSHEHR"
+  branch: BUSHEHR BRANCH
+  swift: SABCIRTH9BR
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "GHAZVIN"
+  branch: GHAZVIN
+  swift: SABCIRTH9GH
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "GORGAN"
+  branch: GORGAN
+  swift: SABCIRTH9GO
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "HAMADAN"
+  branch: HAMEDAN
+  swift: SABCIRTH9HA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ISFAHAN"
+  branch: CHAHAR BAGH-E-BALA BRANCH
+  swift: SABCIRTH9CH
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ISFAHAN"
+  branch: HAFEZ ISFAHAN BRANCH
+  swift: SABCIRTH9HE
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ISFAHAN"
+  branch: ISFAHAN BRANCH
+  swift: SABCIRTH9ES
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ISFAHAN"
+  branch: UNIT 1 CORPORATION BRANCH
+  swift: SABCIRTH9CE
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "KARAJ"
+  branch: JAHANSHAHR-E-KARAJ
+  swift: SABCIRTH9JK
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "KARAJ"
+  branch: KARAJ BRANCH
+  swift: SABCIRTH8KJ
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "KERMAN"
+  branch: KERMAN BRANCH
+  swift: SABCIRTH9KE
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "KERMANSHAH"
+  branch: KERMANSHAH BRANCH
+  swift: SABCIRTH9KM
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "KISH ISLAND"
+  branch: KISH BRANCH
+  swift: SABCIRTH9KI
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "MASHHAD"
+  branch: MASHHAD BRANCH
+  swift: SABCIRTH9MA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "MASHHAD"
+  branch: MODARRES MASHHAD BRANCH
+  swift: SABCIRTH9MM
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "MASHHAD"
+  branch: SAJJAD-E- MASHHAD BRANCH
+  swift: SABCIRTH9SM
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "MASHHAD"
+  branch: UNIT 2 CORPORATION BRANCH
+  swift: SABCIRTH9CM
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ORUMIYEH"
+  branch: OROUMIEH BRANCH
+  swift: SABCIRTH9OR
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ORUMIYEH"
+  branch: SARDARAN-E-OROUMIEH
+  swift: SABCIRTH9SO
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "QESHM"
+  branch: QESHM
+  swift: SABCIRTH9QM
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "QOM"
+  branch: FALAKE JAHAD QOM BRANCH
+  swift: SABCIRTH9JQ
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "QOM"
+  branch: QOM
+  swift: SABCIRTH9QO
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "RASHT"
+  branch: RASHT BRANCH
+  swift: SABCIRTH9RA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "SADEGHIE"
+  branch: null
+  swift: SABCIRTH8SA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "SANANDAJ"
+  branch: SANANDAJ
+  swift: SABCIRTH9SN
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "SARI"
+  branch: SARY
+  swift: SABCIRTH9SY
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "SHAHRAK GHARB"
+  branch: null
+  swift: SABCIRTH8SH
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "SHAHRIARI"
+  branch: SHAHRIAR
+  swift: SABCIRTH9SR
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "SHIRAZ"
+  branch: BAZAR-E-VAKIL-E-SHIRAZ BRANCH
+  swift: SABCIRTH9VS
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "SHIRAZ"
+  branch: FALAK-E-GAZ-E-SHIRAZ BRANCH
+  swift: SABCIRTH9FS
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "SHIRAZ"
+  branch: GHASR-E-DASHT-E- SHIRAZ BRANCH
+  swift: SABCIRTH9GS
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "SHIRAZ"
+  branch: MIRZAY-E-SHIRAZI BRANCH
+  swift: SABCIRTH9MI
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "SHIRAZ"
+  branch: null
+  swift: SABCIRTH9SH
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TABRIZ"
+  branch: BAZAR-E-TABRIZ BRANCH
+  swift: SABCIRTH9BT
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TABRIZ"
+  branch: SHAHRIYAR-E-TABRIZ BRANCH
+  swift: SABCIRTH9TS
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TABRIZ"
+  branch: TABRIZ BRANCH
+  swift: SABCIRTH9TA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TABRIZ"
+  branch: UNIT 3 CORPORATION BRANCH
+  swift: SABCIRTH9CT
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TABRIZ"
+  branch: VALI-E-ASR TABRIZ BRANCH
+  swift: SABCIRTH9VT
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: 24 METRI SAADABAD BRANCH
+  swift: SABCIRTH8BM
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: AFRIGHA BRANCH
+  swift: SABCIRTH8AF
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: AFRIQA SHOMALI BRANCH
+  swift: SABCIRTH8NA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: AGHDASIEH BRANCH
+  swift: SABCIRTH8AG
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: AJUDANIYE BRANCH
+  swift: SABCIRTH8AY
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: AMIN HOZUR BRANCH
+  swift: SABCIRTH8NR
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: ARIKE IRANIAN BRANCH
+  swift: SABCIRTH8AI
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: ARJANTIN BRANCH
+  swift: SABCIRTH8AJ
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: ASEF BRANCH
+  swift: SABCIRTH8AS
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: AZARBAYJAN BRANCH
+  swift: SABCIRTH8AZ
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: BAGH FERDOWS BRANCH
+  swift: SABCIRTH8BA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: BAZAR BRANCH
+  swift: SABCIRTH8BZ
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: BEHESHTI BRANCH
+  swift: SABCIRTH8BH
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: BOLVAR DARYA
+  swift: SABCIRTH8BD
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: BOLVAR MARZDARAN BRANCH
+  swift: SABCIRTH8MR
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: BOZORGRAH FATH BRANCH
+  swift: SABCIRTH8BF
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: SABCIRTH8CB
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: CORPORATE
+  swift: SABCIRTH8CD
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: CREDIT CARD SERVICES
+  swift: SABCIRTHSHB
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: DEZASHIB BRANCH
+  swift: SABCIRTH8DS
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: DOWLAT
+  swift: SABCIRTH8DT
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: EKBATAN BRANCH
+  swift: SABCIRTH8EK
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: EKHTIYARIYEH BRANCH
+  swift: SABCIRTH8ET
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: ELAHIYEH BRANCH
+  swift: SABCIRTH8EL
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: EVIN BRANCH
+  swift: SABCIRTH8EV
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: FALAKE SEVOM TEHRAN PARS
+  swift: SABCIRTH8TP
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: FALAK-E-AVAL-E-TEHRANPARS BRANCH
+  swift: SABCIRTH8FT
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: FATEMI 
+  swift: SABCIRTH8FA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: FOREIGN EXCHANGE DEPT.
+  swift: SABCIRTHFXD
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: FOROUDGAHE MEHRABAD BRANCH
+  swift: SABCIRTH8FM
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: GHOLHAK BRANCH
+  swift: SABCIRTH8GL
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: GISHA BRANCH
+  swift: SABCIRTH8GI
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: HOSSEINABAD SQ. BRANCH
+  swift: SABCIRTH8HA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: HYPERSTAR BRANCH
+  swift: SABCIRTH8HS
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: IRAN ZAMIN 
+  swift: SABCIRTH8IZ
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: JAM-E-JAM BRANCH
+  swift: SABCIRTH8JJ
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: JANNAT ABAD
+  swift: SABCIRTH8JA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: JOMHURI-ABUREYHAN BRANCH
+  swift: SABCIRTH8JN
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: KAREGAR E SHOMALI BRANCH
+  swift: SABCIRTH8NK
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: KARIMKHAN E ZAND BRANCH
+  swift: SABCIRTH8KZ
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: LAVASANI BRANCH
+  swift: SABCIRTH8LA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: MAHAN
+  swift: SABCIRTH8MN
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: MELLAT-E-EKBATAN BRANCH
+  swift: SABCIRTH8ME
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: MEYDAN-E-NOBOVAT BRANCH
+  swift: SABCIRTH8NB
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: MIRDAMAD BRANCH
+  swift: SABCIRTH8MD
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: MOLAVI BRANCH
+  swift: SABCIRTH8MV
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: MOLLASADRA BRANCH
+  swift: SABCIRTH8ML
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: MONIRIEH BRANCH
+  swift: SABCIRTH8MO
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: NIAVARAN BRANCH
+  swift: SABCIRTH8NI
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: NISHABOUR MASHHAD BRANCH
+  swift: SABCIRTH9NM
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: OLYMPIC BRANCH
+  swift: SABCIRTH8OL
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: PARK-E-SAEI BRANCH
+  swift: SABCIRTH8PS
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: PASDARAN BRANCH
+  swift: SABCIRTH8PA
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: PIROUZI BRANCH
+  swift: SABCIRTH8PI
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: POL-E-ROOMI BRANCH
+  swift: SABCIRTH8PR
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: QEYTARIEH BRANCH
+  swift: SABCIRTH8QE
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: SAADAT ABAD
+  swift: SABCIRTH8SD
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: SAMAN EXCHANGE BRANCH
+  swift: SABCIRTH8SE
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: SAMAN EXCHANGE PASDARAN
+  swift: SABCIRTHSEP
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: SARV BRANCH
+  swift: SABCIRTH8SV
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: SEYED JAMALEDDIN-E- ASADABADI
+  swift: SABCIRTH8JM
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: SHAHRAK-E-RAHAHAN BRANCH
+  swift: SABCIRTH8RH
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: SHAHR-E-KORD BRANCH
+  swift: SABCIRTH8SK
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: SHAHR-E-REY BRANCH
+  swift: SABCIRTH8SR
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: STOCK MARKET
+  swift: SABCIRTH8ST
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: VALIASR ZARTOSHT BRANCH
+  swift: SABCIRTH8ZV
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: VANAK BRANCH
+  swift: SABCIRTH8VN
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: VELENJAK BRANCH
+  swift: SABCIRTH8VJ
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: YAFTABAD BRANCH
+  swift: SABCIRTH8YF
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: ZAYANDEH ROOD BRANCH
+  swift: SABCIRTH9ZE
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "TEHRAN"
+  branch: null
+  swift: SABCIRTH
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "YAZD"
+  branch: BULVAR-E-JOMHURIYE YAZD BRANCH
+  swift: SABCIRTH9JY
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "YAZD"
+  branch: YAZD BRANCH
+  swift: SABCIRTH9YZ
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ZAHEDAN"
+  branch: ZAHEDAN
+  swift: SABCIRTH9ZN
+    
+- name: "SAMAN BANK CORPORATION"
+  city: "ZANJAN"
+  branch: ZANJAN BRANCH
+  swift: SABCIRTH9ZA
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "HAMADAN"
+  branch: SARMAYE HAMEDAN BRANCH
+  swift: SRMBIRTH384
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "ISFAHAN"
+  branch: ISFAHAN BRANCH
+  swift: SRMBIRTHESF
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "ISFAHAN"
+  branch: SHEYKH SADOGH
+  swift: SRMBIRTH601
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "KISH ISLAND"
+  branch: KISH
+  swift: SRMBIRTH401
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "MASHHAD"
+  branch: AHMADABAD BRANCH
+  swift: SRMBIRTHMSH
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "SARI"
+  branch: SARMAYE FARHANG SARI BRANCH
+  swift: SRMBIRTH373
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "SHIRAZ"
+  branch: SARMAYE SHIRAZ BRANCH
+  swift: SRMBIRTH342
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TABRIZ"
+  branch: OSTAD SHAHRYAR
+  swift: SRMBIRTH301
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TABRIZ"
+  branch: VALIASR TABRIZ
+  swift: SRMBIRTH300
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: ASEF
+  swift: SRMBIRTHASF
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: CENTRAL BRANCH
+  swift: SRMBIRTHCNT
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: ELAHIYE BRANCH
+  swift: SRMBIRTHELH
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: ESKAN BRANCH
+  swift: SRMBIRTHESK
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: FATEMI BRANCH
+  swift: SRMBIRTHFAT
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: KARIM KHAN
+  swift: SRMBIRTHKAR
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: NAHID BRANCH
+  swift: SRMBIRTH056
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: NORTH SHIRAZ
+  swift: SRMBIRTH002
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: SARMAYE SAADAT ABAD BRANCH
+  swift: SRMBIRTH004
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: SARMAYEH AFRICA BOULEVARD BRANCH
+  swift: SRMBIRTH035
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: SARMAYEH ARGENTINA SQUARE BRANCH
+  swift: SRMBIRTH038
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: SARMAYEH MIRDAMAD BRANCH
+  swift: SRMBIRTH034
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: SARMAYEH MOTAHARI BRANCH
+  swift: SRMBIRTH014
+    
+- name: "SARMAYE BANK (P.J.S.C)"
+  city: "TEHRAN"
+  branch: null
+  swift: SRMBIRTH
+    
+- name: "SINA BANK"
+  city: "KISH ISLAND"
+  branch: KISH  ISLAND BRANCH
+  swift: SINAIRTH418
+    
+- name: "SINA BANK"
+  city: "TEHRAN"
+  branch: null
+  swift: SINAIRTH
+    
+- name: "TEHERAN STOCK EXCHANGE"
+  city: "TEHRAN"
+  branch: null
+  swift: XTEHIRT1
+    
+- name: "TOSEE TAAVON BANK"
+  city: "TEHRAN"
+  branch: null
+  swift: TTBIIRTH
+    
+- name: "TOURISM BANK"
+  city: "TEHRAN"
+  branch: null
+  swift: TOSMIRTH
+    

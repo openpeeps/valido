@@ -1,0 +1,40 @@
+- name: "ANZ BANK (SAMOA) LTD"
+  city: "APIA"
+  branch: null
+  swift: ANZBWSWW
+    
+- name: "BANK SOUTH PACIFIC (SAMOA) LIMITED"
+  city: "APIA"
+  branch: null
+  swift: BOSPWSWS
+    
+- name: "BRITISH AMERICAN TOBACCO (SAMOA) LIMITED"
+  city: "APIA"
+  branch: null
+  swift: BATSWSA1
+    
+- name: "CENTRAL BANK OF SAMOA"
+  city: "APIA"
+  branch: null
+  swift: CBSAWSWS
+    
+- name: "INDEPENDENT INVESTMENT BANK LTD."
+  city: "APIA"
+  branch: null
+  swift: ININWSW1
+    
+- name: "INTERNATIONAL BUSINESS BANK CORPORATION LTD."
+  city: "APIA"
+  branch: null
+  swift: IBBIWSW1
+    
+- name: "NATIONAL BANK OF SAMOA LIMITED"
+  city: "APIA"
+  branch: null
+  swift: NBSLWSWS
+    
+- name: "SAMOA COMMERCIAL BANK LIMITED"
+  city: "APIA"
+  branch: null
+  swift: SCOBWSWS
+    

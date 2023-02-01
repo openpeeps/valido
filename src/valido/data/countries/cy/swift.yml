@@ -1,0 +1,1025 @@
+- name: "ADIRAM LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: ADRMCY21
+    
+- name: "ALFA CAPITAL HOLDINGS (CYPRUS) LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ALFACY2N
+    
+- name: "ALLIANCE FACTORS LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: ALTOCY21
+    
+- name: "ALPHA BANK CYPRUS LTD"
+  city: "LARNACA"
+  branch: null
+  swift: ABKLCY2NLAR
+    
+- name: "ALPHA BANK CYPRUS LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: ABKLCY2NLIM
+    
+- name: "ALPHA BANK CYPRUS LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ABKLCY2N
+    
+- name: "ALPHA BANK CYPRUS LTD"
+  city: "PAPHOS"
+  branch: null
+  swift: ABKLCY2NPAP
+    
+- name: "ALPINEX FINANCIAL SERVICES (CYPRUS) LTD."
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: AFSYCY21
+    
+- name: "AMG KAPITAL LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: AMKACY21
+    
+- name: "ANCORIA BANK LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ANCOCY2N
+    
+- name: "ARAB JORDAN INVESTMENT BANK"
+  city: "LIMASSOL (LEMESOS)"
+  branch: CLEARING
+  swift: AJIBCY2ICCC
+    
+- name: "ARAB JORDAN INVESTMENT BANK"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: AJIBCY2I
+    
+- name: "ARGUS STOCKBROKERS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ARSOCYN1
+    
+- name: "ARTCAP EASTERN INVESTMENTS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: AREICY21
+    
+- name: "AS EXPOBANK (FORMERLY AS LTB BANK)"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: LATCCY2L
+    
+- name: "ASTROBANK LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: PIRBCY2N
+    
+- name: "ATLANTIC SECURITIES LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ATSICY21
+    
+- name: "ATONLINE LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ATONCY2N
+    
+- name: "AXIA VENTURES (CYPRUS) LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: AXVCCY21
+    
+- name: "B AND R FINANCIAL LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: FNCLCY21
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: BTRLCY21
+    
+- name: "BANK OF BEIRUT S.A.L CYPRUS BRANCH"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: BABECY2N
+    
+- name: "BANK OF CYPRUS PUBLIC COMPANY LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: BCYPCY2N030
+    
+- name: "BANK OF CYPRUS PUBLIC COMPANY LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: HEAD OFFICE IN NICOSIA AND ALL CYPRUS OFFICES
+  swift: BCYPCY2N
+    
+- name: "BANK OF CYPRUS PUBLIC COMPANY LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: TREASURY
+  swift: BCYPCY2NTSY
+    
+- name: "BANK OF CYPRUS PUBLIC COMPANY LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: BCYPCY2N010
+    
+- name: "BANKMED SAL - CYPRUS"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: MEDLCY21
+    
+- name: "BANQUE BEMO SAL"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: EUMOCY2I
+    
+- name: "BANQUE SBA - INTERNATIONAL BANKING UNIT"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: SBAACY2I
+    
+- name: "BBAC SAL LIMASSOL BRANCH"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: BBACCY2N
+    
+- name: "BLOM BANK S.A.L."
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: BLOMCY2I
+    
+- name: "BLUEHOUSE CAPITAL ADVISORS LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: BLUECY2N
+    
+- name: "BOSON ALFA LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: BOFFCY21
+    
+- name: "BROKERCREDITSERVICE (CYPRUS) LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: BRCRCY21
+    
+- name: "BROKERCREDITSERVICE (CYPRUS) LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: BCSUCY21
+    
+- name: "BYBLOS BANK S.A.L. (IBU)"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: BYBACY2I
+    
+- name: "CAPITAL INTELLIGENCE (CYPRUS) LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: CAIYCY21
+    
+- name: "CARDPAY LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: CARDCY2L
+    
+- name: "CB CAPITAL BUSINESS LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: CPBUCY21
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: ACCOUNTING DEPARTMENT
+  swift: CBCYCY2NACC
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: CASH SECTION
+  swift: CBCYCY2NCAS
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: CHEQUES CLEARING HOUSE
+  swift: CBCYCY2NCCH
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: CORRESPONDENT CENTRAL BANKING MODEL
+  swift: CBCYCY2NCCB
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: CY T2 CONTINGENCY
+  swift: CBCYCY2NCON
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: CYPRUS STOCK EXCHANGE-MTS
+  swift: CBCYCY2NCSE
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: EXCHANGE OPERATIONS AND SETTLEMENTS
+  swift: CBCYCY2NEOS
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: EXTERNAL DEBT SECTION 
+  swift: CBCYCY2NEDS
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: FOREIGN BUSINESS UNIT
+  swift: CBCYCY2NFBU
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: GOVERNMENT PAYMENTS SYSTEM
+  swift: CBCYCY2NGPS
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: GOVERNMENT STOCKS
+  swift: CBCYCY2NLSS
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: ISSUE SECTION
+  swift: CBCYCY2NISS
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: JCCTRANSFER
+  swift: CBCYCY2NJCC
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: MANAGEMENT OF RESERVES
+  swift: CBCYCY2NMRS
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: MONETARY POLICY OPERATIONS
+  swift: CBCYCY2NMPO
+    
+- name: "CENTRAL BANK OF CYPRUS"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: CBCYCY2N
+    
+- name: "CENTRAL COOPERATIVE BANK PLC"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: CECBCY2N
+    
+- name: "CLR SECURITIES AND FINANCIAL SERVICES LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: CSFRCY21
+    
+- name: "COVERDEAL HOLDINGS LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: CVHOCY21
+    
+- name: "CREDIT LIBANAIS SAL"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: CLIBCY21
+    
+- name: "CSC24SEVEN.COM LIMITED"
+  city: "LARNACA"
+  branch: null
+  swift: CSCCCY21
+    
+- name: "CYPRUS COOPERATIVE BANK LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: CCBKCY2N
+    
+- name: "CYPRUS DEVELOPMENT BANK PUBLIC COMPANY LTD, THE"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: CYDBCY2N
+    
+- name: "CYPRUS STOCK EXCHANGE"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: CSE ANCILLARY SYSTEM
+  swift: XCYSCY2NASI
+    
+- name: "CYPRUS STOCK EXCHANGE"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: XCYSCY2N
+    
+- name: "DELTA IMPERIAL CREDIT INSTITUTE LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: DICUCY21
+    
+- name: "DFG CAPITAL (CYPRUS) LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: DFCYCY21
+    
+- name: "DGRN LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: DRRNCY21
+    
+- name: "DRAGON CAPITAL (CYPRUS) LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: DRCCCY21
+    
+- name: "ECOMMBX"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ECMACYN1
+    
+- name: "EGNARO INVESTMENTS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: EGINCY21
+    
+- name: "EGNATIA FINANCIAL SERVICES (CYPRUS) LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: EFSCCY21
+    
+- name: "ENTRIS EQUITY LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ENEQCY21
+    
+- name: "ERB FUNDS VCIC PLC"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ERBKCYF1
+    
+- name: "EURIVEX LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: EUVXCY21
+    
+- name: "EUROBANK CYPRUS LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ERBKCY2N
+    
+- name: "EUROORIENT SECURITIES AND FINANCIAL SERVICES LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: EUSACY21
+    
+- name: "EXSCALE INVESTMENT LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: EXIVCY21
+    
+- name: "FASCINATING TRADING LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: FATRCY21
+    
+- name: "FEATHERSWORD INVESTMENT LTD"
+  city: "LARNACA"
+  branch: null
+  swift: FEAICY21
+    
+- name: "FENWAY SERVICES LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: FESECY21
+    
+- name: "FERVENT HOLDINGS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: FEHOCY21
+    
+- name: "FFINEU INVESTMENTS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: FFIVCY21
+    
+- name: "FINAM LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: FNMACY21
+    
+- name: "FINTAILOR INVESTMENTS LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: FINTCY2L
+    
+- name: "FIRST INVESTMENT BANK CYPRUS INTERNATIONAL BANKING UNIT"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: FINVCY2N
+    
+- name: "FMC SECURITIES LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: FMSECY21
+    
+- name: "GLESTIMON MANAGEMENT LIMITED"
+  city: "LARNACA"
+  branch: null
+  swift: GLMNCY21
+    
+- name: "GLOBAL CAPITAL SECURITIES AND FINANCIAL SERVICES LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: GCSFCY21
+    
+- name: "GMM GLOBAL MONEY MANAGERS LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: GGMMCY21
+    
+- name: "GPB FINANCIAL SERVICES LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: GPBFCY2L
+    
+- name: "GRANT ASSET MANAGEMENT LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: GRAMCY21
+    
+- name: "HELLENIC BANK (INVESTMENTS) LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: HIPCCY21
+    
+- name: "HELLENIC BANK PUBLIC COMPANY LTD."
+  city: "LARNACA"
+  branch: null
+  swift: HEBACY2NLAR
+    
+- name: "HELLENIC BANK PUBLIC COMPANY LTD."
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: HEBACY2NLIM
+    
+- name: "HELLENIC BANK PUBLIC COMPANY LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: HEAD OFFICE
+  swift: HEBACY2NHDO
+    
+- name: "HELLENIC BANK PUBLIC COMPANY LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: HEBACY2N
+    
+- name: "HELLENIC BANK PUBLIC COMPANY LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: HEBACY2NNIC
+    
+- name: "HELLENIC BANK PUBLIC COMPANY LTD."
+  city: "PAPHOS"
+  branch: null
+  swift: HEBACY2NPAP
+    
+- name: "IBL BANK, SAL"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: INLECY2L
+    
+- name: "ICFI (CYPRUS) LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: ICCYCY21
+    
+- name: "IKOS ASSET MANAGEMENT LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: IKAMCY21
+    
+- name: "INFINA INVESTMENTS (CYPRUS) LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: CSNNCY21
+    
+- name: "INTERFIN TRADE (OVERSEAS) LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: ITTOCY21
+    
+- name: "INTERNATIONAL BRANCH OF OPEN JOINT-STOCK COMPANY AVTOVAZBANK IN THE REPUBLIC OF CYPRUS"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: AVBKCY21
+    
+- name: "ISIGNTHIS EMONEY LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ISEMCY21
+    
+- name: "J AND T FINANCIAL INVESTMENTS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: FNINCY21
+    
+- name: "JORDAN AHLI BANK PLC"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: JONBCY2I
+    
+- name: "JUST2TRADE ONLINE LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: JUSNCY21
+    
+- name: "KAB STRATEGY (CYPRUS) LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: KASYCY21
+    
+- name: "LARUFTIS INVESTMENT LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: LAIVCY21
+    
+- name: "LCE COMPANY LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: LCCOCY21
+    
+- name: "LEBANON AND GULF BANK S.A.L. - LARNACA BRANCH"
+  city: "LARNACA"
+  branch: null
+  swift: LGBACY2L
+    
+- name: "LEDBETTER LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: LEDTCY21
+    
+- name: "LEVOS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: LEVSCY21
+    
+- name: "LINVEST CAPITAL LTD."
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: LICLCY21
+    
+- name: "M.G.T.M. FINANCIAL SERVICES LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: MGFSCY21
+    
+- name: "MASTERTON DEVELOPMENT LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: MADECY21
+    
+- name: "MC-BBL FINANCE LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: MCFNCY21
+    
+- name: "MDM INVESTMENTS LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: MINUCY21
+    
+- name: "MEGA EQUITY SECURITIES AND FINANCIAL SERVICES PUBLIC LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: MESFCY21
+    
+- name: "MERITKAPITAL LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: MEIPCY22
+    
+- name: "METROPOL (CYPRUS) LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: MECYCY21
+    
+- name: "MOODY'S INVESTORS SERVICE CYPRUS LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: MOODCY21
+    
+- name: "NAM HOLDINGS LIMITED JULIA HOUSE"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: NAMHCY21
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "AYIA NAPA"
+  branch: AYIA NAPA BRANCH 532
+  swift: ETHNCY2N532
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "LARNACA"
+  branch: FAMAGUSTA BRANCH 530
+  swift: ETHNCY2N530
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "LARNACA"
+  branch: LARNACA BRANCH 535
+  swift: ETHNCY2N535
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "LIMASSOL (LEMESOS)"
+  branch: KOLONAKIOU BRANCH 553
+  swift: ETHNCY2N553
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "LIMASSOL (LEMESOS)"
+  branch: LIMASSOL INTERNATIONAL BUSINESS BANKING DIVISION 550
+  swift: ETHNCY2N550
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "LIMASSOL (LEMESOS)"
+  branch: LIMASSOL MAIN BRANCH 540
+  swift: ETHNCY2N540
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "LIMASSOL (LEMESOS)"
+  branch: MAKARIOS III'S AV. BRANCH 541
+  swift: ETHNCY2N541
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "LIMASSOL (LEMESOS)"
+  branch: OMONIA BRANCH 544
+  swift: ETHNCY2N544
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: ATHALASSA BRANCH 527
+  swift: ETHNCY2N527
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: BACK OFFICE 999
+  swift: ETHNCY2N999
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: ELEFTHERIA SQ. BRANCH 521
+  swift: ETHNCY2N521
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: LATSIA BRANCH 528
+  swift: ETHNCY2N528
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: MORPHOU BRANCH 526
+  swift: ETHNCY2N526
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: NICOSIA INTERNATIONAL BUSINESS BANKING DIVISION 549
+  swift: ETHNCY2N549
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: NICOSIA MAIN BRANCH 525
+  swift: ETHNCY2N525
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ETHNCY2N
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "PAPHOS"
+  branch: PAPHOS BRANCH 545
+  swift: ETHNCY2N545
+    
+- name: "NATIONAL BANK OF GREECE (CYPRUS) LTD."
+  city: "PARALIMNI"
+  branch: PARALIMNI BRANCH 531
+  swift: ETHNCY2N531
+    
+- name: "NATIONAL BANK OF GREECE S.A. CYPRUS BRANCH (578)"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ETHNCYNN
+    
+- name: "NBI INVESTMENTS LIMITED FREMA HOUSE"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: NIFHCY21
+    
+- name: "NEEVAS INVESTMENT LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: NEIECY21
+    
+- name: "NOMOS INVESTMENT (CYPRUS) LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: NICYCY21
+    
+- name: "NTFX CAPITAL LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: NTFXCY2L
+    
+- name: "OLMA FINANCIAL SERVICES LTD."
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: OLMACY21
+    
+- name: "OMEGA FUNDS INVESTMENT LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: OMFVCY2N
+    
+- name: "ONE PLUS CAPITAL LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: ONPCCY21
+    
+- name: "OPEN.RU BROKERAGE HOUSE (CYPRUS) LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: OBHCCY21
+    
+- name: "OTKRITIE BROKER LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: OTBRCY21
+    
+- name: "OTKRITIE CAPITAL CYPRUS LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: OTFCCY21
+    
+- name: "PASTERNAK HOLDINGS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: PAHOCY21
+    
+- name: "PAYDELTA LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: PAYDCY21
+    
+- name: "PRIVATBANK, CYPRUS BRANCH"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: PBANCY2N
+    
+- name: "PROCHOICE CHRIMATISTIRIAKI LTD"
+  city: "LARNACA"
+  branch: null
+  swift: PRCKCY21
+    
+- name: "PROMSVYAZBANK PJSC, CYPRUS BRANCH"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: PRMSCY2N
+    
+- name: "R CAPITAL SOLUTIONS LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: RCSOCY21
+    
+- name: "RAHIM BANK LTD."
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: RAIICY21
+    
+- name: "RCB BANK LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: RCBLCY2I
+    
+- name: "REGENCY ASSET MANAGEMENT (CYPRUS) LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: RAMCCY21
+    
+- name: "RENAISSANCE FINANCIAL SERVICES LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: REFVCY21
+    
+- name: "RENAISSANCE INVESTMENT MANAGEMENT (CYPRUS) LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: RCICCY21
+    
+- name: "RENAISSANCE SECURITIES (CYPRUS) LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: RESPCY2N
+    
+- name: "RENAISSANCE WEALTH MANAGEMENT (CYPRUS) LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: RWMCCY21
+    
+- name: "RESERVE INVEST (CYPRUS) LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: RINCCY21
+    
+- name: "RMG HOLDING LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: RMHLCY21
+    
+- name: "RONIN EUROPE LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: RNINCY2N
+    
+- name: "S.L. CAPITAL SERVICES LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: CACVCY21
+    
+- name: "SEPAGA E.M.I. LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: SEPMCY2N
+    
+- name: "SHARELINK SECURITIES AND FINANCIAL SERVICES LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: SSFVCY21
+    
+- name: "SHF.M.ADVISORS LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: SHFMCY21
+    
+- name: "SIB (CYPRUS) LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: IVEMCY21
+    
+- name: "SIB (CYPRUS) LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: TDINCY2N
+    
+- name: "SKANESTAS INVESTMENTS LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: SKNNCY21
+    
+- name: "SKANESTAS INVESTMENTS LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: SKNNCYN2
+    
+- name: "SOCIETE GENERALE CYPRUS LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: LIMASSOL BRANCH OFFSHORE
+  swift: SOGECY2NLIM
+    
+- name: "SOCIETE GENERALE CYPRUS LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: LIMASSOL OPERATION ONSHORE
+  swift: SOGECY2NAMA
+    
+- name: "SOCIETE GENERALE CYPRUS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: NICOSIA OPERATION
+  swift: SOGECY2NNIC
+    
+- name: "SOCIETE GENERALE CYPRUS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: SOGECY2N
+    
+- name: "SOLID FINANCIAL SERVICES LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: SONSCY21
+    
+- name: "SPYKE EQUITY LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: SPEQCY21
+    
+- name: "STOMARLI HOLDINGS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: STHDCY21
+    
+- name: "TELETRADE-DJ INTERNATIONAL CONSULTING LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: TEICCYN1
+    
+- name: "TFI MARKETS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: TFIMCY2N
+    
+- name: "TFI MARKETS LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: TFIMCY21
+    
+- name: "THE CYPRUS INVESTMENT AND SECURITIES CORPORATION LTD"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: CISOCY21
+    
+- name: "THE POINT OF CONTACT COMMUNICATIONS (SERVICES) LTD"
+  city: "PAPHOS"
+  branch: null
+  swift: TPOCCY21
+    
+- name: "TKBC INTERNATIONAL LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: TKBCCY21
+    
+- name: "TRADERNET LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: TRRTCY21
+    
+- name: "TS-EUROPEAN CLEARSCREEN LTD"
+  city: "PARALIMNI"
+  branch: null
+  swift: TSCLCYN1
+    
+- name: "TS-TRISTAR IMPERIAL, INTERNATIONAL CREDIT INSTITUTE CY LTD"
+  city: "LARNACA"
+  branch: null
+  swift: TIIRCY21
+    
+- name: "U.F.G.I.S. TRADING LIMITED"
+  city: "LARNACA"
+  branch: null
+  swift: UFTRCY21
+    
+- name: "UBS ADVISORY SERVICES LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: UBASCY21
+    
+- name: "UCP ASSET MANAGEMENT LIMITED"
+  city: "LARNACA"
+  branch: null
+  swift: UCAMCY21
+    
+- name: "UCP SECURITIES LIMITED"
+  city: "LARNACA"
+  branch: null
+  swift: UCSCCY21
+    
+- name: "UNISTREAM CYPRUS LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: UNSTCY21
+    
+- name: "UPRECHT INVESTMENT LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: UPINCY21
+    
+- name: "USB BANK PLC"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: UNVKCY2N
+    
+- name: "VELES INTERNATIONAL LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: VEITCY21
+    
+- name: "WINDSOR BROKERS LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: WIBOCY21
+    
+- name: "WS FINANCIAL AND INVESTMENT SERVICES LIMITED"
+  city: "NICOSIA (LEFKOSIA)"
+  branch: null
+  swift: FNISCY21
+    
+- name: "ZEMBLANCO INVESTMENTS LTD"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: ZEINCY21
+    
+- name: "ZERICH SECURITIES LIMITED"
+  city: "LIMASSOL (LEMESOS)"
+  branch: null
+  swift: ZESUCY21
+    

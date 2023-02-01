@@ -1,0 +1,340 @@
+- name: "ANDBANC MONACO SAM"
+  city: "MONACO"
+  branch: null
+  swift: BACAMCMC
+    
+- name: "BANCA MARTIN MAUREL SELLA"
+  city: "MONACO"
+  branch: null
+  swift: MMSEMCM1
+    
+- name: "BANCA POPOLARE DI SONDRIO (SUISSE) SA"
+  city: "MONACO"
+  branch: null
+  swift: POSOMCM1
+    
+- name: "BANK VON ERNST (MONACO)"
+  city: "MONACO"
+  branch: null
+  swift: ERMOMCM1
+    
+- name: "BANQUE HAVILLAND (MONACO) S.A.M."
+  city: "MONACO"
+  branch: null
+  swift: HAVLMCMX
+    
+- name: "BANQUE HAVILLAND (MONACO) S.A.M."
+  city: "MONACO"
+  branch: null
+  swift: HAVLMCMXBDF
+    
+- name: "BANQUE INTERNATIONALE DE CREDIT ET DE GESTION MONACO"
+  city: "MONACO"
+  branch: null
+  swift: BCGMMCM1
+    
+- name: "BANQUE J. SAFRA SARASIN (MONACO) SA"
+  city: "MONACO"
+  branch: ONLY BANQUE DE FRANCE
+  swift: BJSBMCMXLCO
+    
+- name: "BANQUE J. SAFRA SARASIN (MONACO) SA"
+  city: "MONACO"
+  branch: null
+  swift: BJSBMCMX
+    
+- name: "BANQUE JSS (MONACO) SA"
+  city: "MONACO"
+  branch: null
+  swift: CRESMCMX
+    
+- name: "BANQUE MARTIN MAUREL"
+  city: "MONACO"
+  branch: null
+  swift: MAEAMCM1
+    
+- name: "BANQUE POPULAIRE MEDITERRANEE"
+  city: "MONACO"
+  branch: null
+  swift: CCBPMCM1
+    
+- name: "BARCLAYS BANK PLC MONACO"
+  city: "MONACO"
+  branch: null
+  swift: BARCMCMX
+    
+- name: "BARCLAYS BANK S.A"
+  city: "MONACO"
+  branch: null
+  swift: BARCMCC1
+    
+- name: "BERKELEY CAPITAL LIMITED"
+  city: "MONACO"
+  branch: null
+  swift: BECIMCM1
+    
+- name: "BESINS HEALTHCARE MONACO SAM"
+  city: "MONACO"
+  branch: null
+  swift: BEHMMCMC
+    
+- name: "BNP PARIBAS WEALTH MANAGEMENT MONACO"
+  city: "MONACO"
+  branch: null
+  swift: BPPBMCMC
+    
+- name: "BNP-PARIBAS SA (FORMERLY BANQUE NATIONALE DE PARIS S.A.)"
+  city: "MONACO"
+  branch: null
+  swift: BNPAMCM1
+    
+- name: "CAISSE D'EPARGNE ET DE PREVOYANCE COTE D'AZUR - AGENCE DE MONACO"
+  city: "MONACO"
+  branch: null
+  swift: CEPAMCM1
+    
+- name: "CAIXA GERAL DE DEPOSITOS"
+  city: "MONACO"
+  branch: null
+  swift: CGDIMCM1
+    
+- name: "CAPITALIA LUXEMBOURG S.A."
+  city: "MONACO"
+  branch: null
+  swift: CLSMMCM1
+    
+- name: "CFM INDOSUEZ WEALTH"
+  city: "MONACO"
+  branch: null
+  swift: CFMOMCMX
+    
+- name: "CGM COMPAGNIE DE GESTION PRIVEE MON EGASQUE S.A.M."
+  city: "MONACO"
+  branch: null
+  swift: AZFMMCMC
+    
+- name: "CM-CIC MONACO"
+  city: "MONACO"
+  branch: CM-CIC BANQUE EUROPENNE DU CREDIT MUTUEL MONACO
+  swift: CMCIMCM1BEC
+    
+- name: "CM-CIC MONACO"
+  city: "MONACO"
+  branch: CM-CIC CF SUD EUROPE MEDITERRANEE
+  swift: CMCIMCM1SEM
+    
+- name: "CM-CIC MONACO"
+  city: "MONACO"
+  branch: CM-CIC LYONNAISE DE BANQUE
+  swift: CMCIMCM1LYB
+    
+- name: "CM-CIC MONACO"
+  city: "MONACO"
+  branch: null
+  swift: CMCIMCM1
+    
+- name: "COMPAGNIE DE GESTION PRIVEE MONEGASQUE"
+  city: "MONACO"
+  branch: null
+  swift: CGPMMCM1
+    
+- name: "COMPAGNIE MONEGASQUE DE BANQUE S.A.M."
+  city: "MONACO"
+  branch: null
+  swift: CMBMMCMX
+    
+- name: "COMPAGNIE MONEGASQUE DE BANQUE SAM"
+  city: "MONACO"
+  branch: null
+  swift: CMBMMCMA
+    
+- name: "CREDIT AGRICOLE MONACO (CRCA PROVENCE COTE D'AZUR MONACO)"
+  city: "MONACO"
+  branch: null
+  swift: AGRIMCM1
+    
+- name: "CREDIT DU NORD"
+  city: "MONACO"
+  branch: null
+  swift: NORDMCM1
+    
+- name: "CREDIT MOBILIER DE MONACO CMM"
+  city: "MONACO"
+  branch: null
+  swift: CMMDMCM1
+    
+- name: "CREDIT SUISSE ASSET MANAGEMENT"
+  city: "MONACO"
+  branch: null
+  swift: CRSGMCM1
+    
+- name: "DIETSMANN MONTE CARLO SAM"
+  city: "MONACO"
+  branch: null
+  swift: DIETMCMC
+    
+- name: "EDMOND DE ROTHSCHILD-MONACO"
+  city: "MONACO"
+  branch: null
+  swift: BERLMCMC
+    
+- name: "EDMOND DE ROTHSCHILD-MONACO"
+  city: "MONACO"
+  branch: null
+  swift: BERLMCMCBDF
+    
+- name: "EFG BANK (MONACO)"
+  city: "MONACO"
+  branch: null
+  swift: EFGBMCMC
+    
+- name: "FIRST OMEGA SHIPPING INC."
+  city: "MONACO"
+  branch: null
+  swift: FOSYMCMC
+    
+- name: "G ET G PRIVATE FINANCE SAM"
+  city: "MONACO"
+  branch: null
+  swift: GNPFMCMC
+    
+- name: "HSBC PRIVATE BANK (MONACO) S.A. (FORMERLY HSBC REPUBLIC BANK (MONACO) S.A.)"
+  city: "MONACO"
+  branch: null
+  swift: BLICMCMC
+    
+- name: "HSBC PRIVATE BANK (MONACO) S.A. (FORMERLY HSBC REPUBLIC BANK (MONACO) S.A.)"
+  city: "MONACO"
+  branch: null
+  swift: BLICMCMCTSY
+    
+- name: "JULIUS BAER (MONACO) S.A.M."
+  city: "MONACO"
+  branch: null
+  swift: BAERMCMC
+    
+- name: "KBL MONACO PRIVATE BANKERS"
+  city: "MONACO"
+  branch: null
+  swift: KBLXMCMC
+    
+- name: "LCL (LE CREDIT LYONNAIS) MONACO"
+  city: "MONACO"
+  branch: LCL (LE CREDIT LYONNAIS) CENTRE D'AFFAIRES ENTREPRISES
+  swift: CRLYMCM1CAE
+    
+- name: "LCL (LE CREDIT LYONNAIS) MONACO"
+  city: "MONACO"
+  branch: LCL (LE CREDIT LYONNAIS) MONACO BEAUX ARTS
+  swift: CRLYMCM1BAS
+    
+- name: "LCL (LE CREDIT LYONNAIS) MONACO"
+  city: "MONACO"
+  branch: LCL (LE CREDIT LYONNAIS) MONACO FONTVIEILLE
+  swift: CRLYMCM1FVI
+    
+- name: "LCL (LE CREDIT LYONNAIS) MONACO"
+  city: "MONACO"
+  branch: LCL (LE CREDIT LYONNAIS) MONACO LA CONDAMINE
+  swift: CRLYMCM1LCM
+    
+- name: "LCL (LE CREDIT LYONNAIS) MONACO"
+  city: "MONACO"
+  branch: LCL (LE CREDIT LYONNAIS) MONACO LES MOULINS
+  swift: CRLYMCM1LMO
+    
+- name: "LCL (LE CREDIT LYONNAIS) MONACO"
+  city: "MONACO"
+  branch: LCL (LE CREDIT LYONNAIS) MONTE CARLO
+  swift: CRLYMCM1MCA
+    
+- name: "LCL (LE CREDIT LYONNAIS) MONACO"
+  city: "MONACO"
+  branch: null
+  swift: CRLYMCM1
+    
+- name: "LLOYDS BANK PLC"
+  city: "MONACO"
+  branch: null
+  swift: LOYDMCM1
+    
+- name: "MONACREDIT"
+  city: "MONACO"
+  branch: null
+  swift: MONCMCM1
+    
+- name: "PACIFIC MANAGEMENT SAM"
+  city: "MONACO"
+  branch: null
+  swift: PMMCMCMC
+    
+- name: "ROTHELAND S.A.M."
+  city: "MONACO"
+  branch: null
+  swift: RTLDMCMC
+    
+- name: "SECURITAS"
+  city: "MONACO"
+  branch: null
+  swift: SEUAMCM1
+    
+- name: "SOCIETE GENERALE BANK AND TRUST MONACO"
+  city: "MONACO"
+  branch: null
+  swift: SGBTMCMC
+    
+- name: "SOCIETE GENERALE BANK AND TRUST SA"
+  city: "MONACO"
+  branch: null
+  swift: SGTMMCM1
+    
+- name: "SOCIETE GENERALE MONTE CARLO"
+  city: "MONACO"
+  branch: null
+  swift: SOGEMCM1
+    
+- name: "SOCIETE MARSEILLAISE DE CREDIT"
+  city: "MONACO"
+  branch: AG FONTVIEILLE
+  swift: SMCTMCM1P04
+    
+- name: "SOCIETE MARSEILLAISE DE CREDIT"
+  city: "MONACO"
+  branch: AG MONTE CARLO
+  swift: SMCTMCM1P02
+    
+- name: "SOCIETE MARSEILLAISE DE CREDIT"
+  city: "MONACO"
+  branch: null
+  swift: SMCTMCM1
+    
+- name: "SOCIETE MONEGASQUE DE CREDIT"
+  city: "MONACO"
+  branch: null
+  swift: SOMCMCM1
+    
+- name: "STE FIRE MONEGASQUE DE CREDIT-COGENEC"
+  city: "MONACO"
+  branch: null
+  swift: SFMCMCM1
+    
+- name: "UBS (MONACO) S.A."
+  city: "MONACO"
+  branch: null
+  swift: UBSWMCMX
+    
+- name: "UNION BANCAIRE PRIVEE, UBP SA"
+  city: "MONACO"
+  branch: null
+  swift: UBPGMCMX
+    
+- name: "UNITED EUROPEAN BANK"
+  city: "MONACO"
+  branch: null
+  swift: UNEUMCM1
+    
+- name: "VENUS MANAGEMENT COMPANY S.A.M."
+  city: "MONACO"
+  branch: null
+  swift: VENUMCMC
+    

@@ -1,0 +1,615 @@
+- name: "A.I. CREDIT FUSION INC"
+  city: "PANAMA CITY"
+  branch: null
+  swift: AICNPAP1
+    
+- name: "AIRBEX SA"
+  city: "CHITRE"
+  branch: null
+  swift: AIREPAP1
+    
+- name: "ALLBANK CORP."
+  city: "PANAMA"
+  branch: null
+  swift: ALLKPAPA
+    
+- name: "ANDBANK (PANAMA), S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BACAPAPA
+    
+- name: "ARGENTARIA HOLDINGS INC"
+  city: "CHITRE"
+  branch: null
+  swift: ARHOPAP1
+    
+- name: "ARK INVESTMENTS SA"
+  city: "PANAMA CITY"
+  branch: null
+  swift: ARVNPAP1
+    
+- name: "ASPHALTOS TRADE S.A. PANAMA 9TH FLOOR OFFICE,"
+  city: "PANAMA"
+  branch: null
+  swift: ATPFPAP1
+    
+- name: "ATLANTIC SECURITY BANK"
+  city: "PANAMA"
+  branch: null
+  swift: ATSEPAP1
+    
+- name: "AUSTROBANK (OVERSEAS) PANAMA S.A."
+  city: "PANAMA"
+  branch: null
+  swift: AUBAPAPA
+    
+- name: "AUTORIDAD DEL CANAL DE PANAMA"
+  city: "PANAMA"
+  branch: null
+  swift: ACPMPAPA
+    
+- name: "BAC INTERNATIONAL BANK, INC."
+  city: "PANAMA"
+  branch: null
+  swift: BCINPAPA
+    
+- name: "BANAPREST S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BNASPAP1
+    
+- name: "BANCA PRIVADA D'ANDORRA (PANAMA) SA"
+  city: "PANAMA"
+  branch: null
+  swift: BPANPAP1
+    
+- name: "BANCLEAR GROUP INC"
+  city: "PANAMA"
+  branch: null
+  swift: BNGOPAP1
+    
+- name: "BANCLEAR WIRE TRANSFERS INC"
+  city: "PANAMA"
+  branch: null
+  swift: BAWTPAP1
+    
+- name: "BANCO ALIADO, S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BAALPAPA
+    
+- name: "BANCO AZTECA (PANAMA), S.A."
+  city: "PANAMA"
+  branch: null
+  swift: AZTKPAPA
+    
+- name: "BANCO COLPATRIA MULTIBANCA COLPATRIA, S.A. PANAMA BRANCH"
+  city: "PANAMA"
+  branch: null
+  swift: COLPPAPA
+    
+- name: "BANCO CORFICOLOMBIANA (PANAMA) S.A."
+  city: "PANAMA"
+  branch: null
+  swift: CRNMPAP1
+    
+- name: "BANCO CREDIT ANDORRA (PANAMA) S.A."
+  city: "PANAMA"
+  branch: null
+  swift: CRDAPAPA
+    
+- name: "BANCO DAVIVIENDA (PANAMA), S.A."
+  city: "COLON"
+  branch: SUCURSAL ZONA LIBRE
+  swift: CAFEPAPAZLC
+    
+- name: "BANCO DAVIVIENDA (PANAMA), S.A."
+  city: "PANAMA"
+  branch: null
+  swift: CAFEPAPA
+    
+- name: "BANCO DAVIVIENDA INTERNACIONAL (PANAMA), S.A."
+  city: "PANAMA CITY"
+  branch: null
+  swift: DAVPPAPA
+    
+- name: "BANCO DE BOGOTA (PANAMA), S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BBOGPAPA
+    
+- name: "BANCO DE BOGOTA S.A"
+  city: "PANAMA"
+  branch: null
+  swift: BBOGPAPB
+    
+- name: "BANCO DE CREDITO DEL PERU SUCURSAL PANAMA"
+  city: "PANAMA"
+  branch: null
+  swift: BCPLPAPA
+    
+- name: "BANCO DE LA EXPORTACION (BANEX) S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BAXBPAP1
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "PANAMA"
+  branch: null
+  swift: NACNPAPA
+    
+- name: "BANCO DE LA PROVINCIA DE BUENOS AIRES"
+  city: "PANAMA"
+  branch: null
+  swift: PRBAPAP1
+    
+- name: "BANCO DE OCCIDENTE (PANAMA), S.A."
+  city: "PANAMA"
+  branch: null
+  swift: OCCIPAPA
+    
+- name: "BANCO DEL PACIFICO (PANAMA) S.A."
+  city: "PANAMA"
+  branch: null
+  swift: PACIPAPX
+    
+- name: "BANCO DELTA, S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BDSAPAPA
+    
+- name: "BANCO DISA"
+  city: "PANAMA"
+  branch: null
+  swift: BDISPAP1
+    
+- name: "BANCO DO BRASIL, S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BRASPAP1
+    
+- name: "BANCO FICOHSA (PANAMA), S.A."
+  city: "PANAMA"
+  branch: null
+  swift: FCOHPAPA
+    
+- name: "BANCO GENERAL S A"
+  city: "PANAMA"
+  branch: null
+  swift: BAGEPAPA
+    
+- name: "BANCO INTERNACIONAL DE COSTA RICA S.A."
+  city: "PANAMA"
+  branch: null
+  swift: COSRPAPA
+    
+- name: "BANCO LAFISE PANAMA"
+  city: "PANAMA"
+  branch: null
+  swift: BCCEPAPA
+    
+- name: "BANCO LATINOAMERICANO DE COMERCIO EXTERIOR, S.A. (BLADEX)"
+  city: "PANAMA CITY"
+  branch: null
+  swift: BLAEPAPA
+    
+- name: "BANCO NACIONAL DE PANAMA"
+  city: "PANAMA"
+  branch: null
+  swift: NAPAPAPA
+    
+- name: "BANCO PANAMA S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BPTYPAPA
+    
+- name: "BANCO PANAMENO DE LA VIVIENDA"
+  city: "PANAMA"
+  branch: null
+  swift: BPVVPAPA
+    
+- name: "BANCO PICHINCHA PANAMA"
+  city: "PANAMA"
+  branch: null
+  swift: PICHPAPA
+    
+- name: "BANCO SANTA CRUZ, S.A."
+  city: "PANAMA"
+  branch: null
+  swift: SCSPPAP1
+    
+- name: "BANCO SANTANDER PANAMA, S..A"
+  city: "PANAMA"
+  branch: null
+  swift: BSCHPAPA
+    
+- name: "BANCO UNIVERSAL S.A."
+  city: "DAVID"
+  branch: null
+  swift: BUNVPAP1
+    
+- name: "BANCOLOMBIA (PANAMA), S.A."
+  city: "PANAMA"
+  branch: null
+  swift: COLOPAPA
+    
+- name: "BANCOLOMBIA SUCURSAL PANAMA"
+  city: "PANAMA"
+  branch: null
+  swift: COLOPAPS
+    
+- name: "BANCREDITO PANAMA S.A."
+  city: "PANAMA"
+  branch: null
+  swift: NCREPAP1
+    
+- name: "BANESCO S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BANSPAPA
+    
+- name: "BANISI, S.A."
+  city: "PANAMA"
+  branch: null
+  swift: GUAYPAPA
+    
+- name: "BANISTMO S.A"
+  city: "COLON"
+  branch: COLON BRANCH
+  swift: MIDLPAPACLN
+    
+- name: "BANISTMO S.A"
+  city: "PANAMA"
+  branch: PANAMA BRANCH
+  swift: MIDLPAPA
+    
+- name: "BANISTMO S.A"
+  city: "PANAMA"
+  branch: SECURITIES
+  swift: MIDLPAPA001
+    
+- name: "BANK OF CHINA, PANAMA BRANCH"
+  city: "PANAMA"
+  branch: null
+  swift: BKCHPAPA
+    
+- name: "BANK OF NOVA SCOTIA, THE"
+  city: "PANAMA"
+  branch: null
+  swift: NOSCPAPA
+    
+- name: "BBP BANK, S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BBOLPAPA
+    
+- name: "BCT BANK INTERNATIONAL, S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BCTBPAPA
+    
+- name: "BHD INTERNATIONAL BANK (PANAMA), S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BHINPAPA
+    
+- name: "BI-BANK, S.A."
+  city: "PANAMA CITY"
+  branch: null
+  swift: BIAKPAPA
+    
+- name: "BOLSA DE VALORES DE PANAMA S.A."
+  city: "PANAMA"
+  branch: null
+  swift: XPTYPAP1
+    
+- name: "BPR BANK S.A."
+  city: "PANAMA CITY"
+  branch: null
+  swift: BPRBPAPA
+    
+- name: "BSI BANK (PANAMA)"
+  city: "PANAMA"
+  branch: null
+  swift: BSILPAPA
+    
+- name: "CAJA DE AHORROS"
+  city: "PANAMA"
+  branch: null
+  swift: CAHRPAPA
+    
+- name: "CANAL BANK, S. A. (BMF)"
+  city: "PANAMA"
+  branch: null
+  swift: KNALPAPA
+    
+- name: "CAPITAL BANK INC."
+  city: "PANAMA"
+  branch: null
+  swift: CAPBPAPA
+    
+- name: "CENTRAL LATINOAMERICANA DE VALORES"
+  city: "PANAMA"
+  branch: null
+  swift: LPTYPAPA
+    
+- name: "CENTRAL LATINOAMERICANA DE VALORES, S.A."
+  city: "PANAMA"
+  branch: null
+  swift: CLVLPAP1
+    
+- name: "CHASE MANHATTAN BANK, THE, PANAMA"
+  city: "PANAMA"
+  branch: null
+  swift: CHASPAP1
+    
+- name: "CITIBANK N.A. SUCURSAL PANAMA"
+  city: "PANAMA"
+  branch: SECURITY SERVICES PANAMA
+  swift: CITIPAPASFE
+    
+- name: "CITIBANK N.A. SUCURSAL PANAMA"
+  city: "PANAMA"
+  branch: null
+  swift: CITIPAPA
+    
+- name: "CITIBANK, N.A."
+  city: "COLON"
+  branch: null
+  swift: CITIPAP10PC
+    
+- name: "CITIBANK, N.A."
+  city: "DAVID"
+  branch: null
+  swift: CITIPAP1
+    
+- name: "CITIBANK, N.A."
+  city: "PANAMA"
+  branch: null
+  swift: CITIPAP10PA
+    
+- name: "COLABANCO"
+  city: "PANAMA"
+  branch: null
+  swift: COLNPAP1
+    
+- name: "COMMERCE OVERSEAS BANK, S.A."
+  city: "PANAMA"
+  branch: null
+  swift: CCIOPAP1
+    
+- name: "CREDICORP BANK S.A"
+  city: "PANAMA"
+  branch: null
+  swift: CRLDPAPA
+    
+- name: "CRYPTO CAPITAL CORP SA"
+  city: "PANAMA CITY"
+  branch: null
+  swift: CYCAPAP1
+    
+- name: "CYTTEK INTERNATIONAL SA"
+  city: "PANAMA CITY"
+  branch: null
+  swift: CYINPAP1
+    
+- name: "ENGLAND FOREIGN EXCHANGE INC"
+  city: "PANAMA"
+  branch: null
+  swift: ENFEPAP1
+    
+- name: "EXWISE WORLD INC."
+  city: "PANAMA CITY"
+  branch: null
+  swift: EXWRPAP1
+    
+- name: "FILABANCO TRUST AND BANKING CORP."
+  city: "PANAMA"
+  branch: null
+  swift: FILAPAP1
+    
+- name: "FITCH CENTROAMERICA (PANAMA)"
+  city: "PANAMA"
+  branch: null
+  swift: FRIPPAP1
+    
+- name: "FPB BANK INC."
+  city: "PANAMA"
+  branch: null
+  swift: FPBIPAPA
+    
+- name: "GAJA BANK, LLC"
+  city: "PANAMA"
+  branch: null
+  swift: GJLCPAP1
+    
+- name: "GLOBAL BANK CORPORATION"
+  city: "PANAMA"
+  branch: null
+  swift: GLBLPAPA
+    
+- name: "GLOBAL INTERNATIONAL PARTNERS PAYMENT INC."
+  city: "PANAMA CITY"
+  branch: null
+  swift: GIPPPAP1
+    
+- name: "GNB SUDAMERIS BANK S.A."
+  city: "PANAMA"
+  branch: null
+  swift: GNBKPAPA
+    
+- name: "ICON CAPITAL RESERVE SA"
+  city: "PANAMA CITY"
+  branch: null
+  swift: ICCVPAP1
+    
+- name: "INTELIGO BANK LTD"
+  city: "PANAMA"
+  branch: null
+  swift: IBNKPAPA
+    
+- name: "INTERNATIONAL UNION BANK S.A."
+  city: "PANAMA"
+  branch: null
+  swift: IUBKPAPA
+    
+- name: "ITAU (PANAMA) S.A."
+  city: "PANAMA"
+  branch: null
+  swift: BCTOPAPA
+    
+- name: "KEB HANA BANK"
+  city: "PANAMA"
+  branch: null
+  swift: KOEXPAPA
+    
+- name: "KEEN HOLDING S.A, (BANCO PRIVAL S.A.)"
+  city: "PANAMA"
+  branch: null
+  swift: KEHPPAPA
+    
+- name: "LYON INVESTMENT SERVICES, CORP"
+  city: "PANAMA CITY"
+  branch: null
+  swift: LYIEPAP1
+    
+- name: "MAJESTIC CAPITAL GROUP S.A."
+  city: "PANAMA CITY"
+  branch: null
+  swift: MALOPAP1
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD."
+  city: "PANAMA"
+  branch: COLON FREE ZONE BRANCH
+  swift: ICBCPAPAZLC
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD."
+  city: "PANAMA"
+  branch: null
+  swift: ICBCPAPA
+    
+- name: "MERCANTIL BANK (PANAMA) S.A."
+  city: "PANAMA"
+  branch: null
+  swift: MPANPAPA
+    
+- name: "METROBANK S.A."
+  city: "PANAMA"
+  branch: null
+  swift: METOPAPA
+    
+- name: "METROBRANK"
+  city: "PANAMA"
+  branch: null
+  swift: METKPAP1
+    
+- name: "METROPOLITAN CAPITAL HOLDINGS SA"
+  city: "PANAMA CITY"
+  branch: null
+  swift: MECDPAP1
+    
+- name: "MMG BANK CORPORATION"
+  city: "PANAMA"
+  branch: null
+  swift: MMGBPAPA
+    
+- name: "MULTIBANK INC."
+  city: "PANAMA"
+  branch: null
+  swift: MCTBPAPA
+    
+- name: "OSYRIUS INTERNATIONAL INC"
+  city: "PANAMA CITY"
+  branch: null
+  swift: OSYIPAP1
+    
+- name: "OVERSEAS CLEARING CORPORATION"
+  city: "PANAMA"
+  branch: null
+  swift: OVCCPAP1
+    
+- name: "PAULLIER AND CIA INTL CASA DE VALORES"
+  city: "PANAMA"
+  branch: null
+  swift: PCICPAP1
+    
+- name: "PETROLEOS DE LATINOAMERICA S.A."
+  city: "PANAMA CITY"
+  branch: null
+  swift: PLAOPAP1
+    
+- name: "PKB BANCA PRIVADA (PANAMA) SA"
+  city: "PANAMA"
+  branch: null
+  swift: PKBSPAP1
+    
+- name: "POPULAR BANK LTD. INC."
+  city: "PANAMA"
+  branch: null
+  swift: BPDOPAPA
+    
+- name: "RSI CAPITAL HOLDINGS"
+  city: "PANAMA"
+  branch: null
+  swift: RSCHPAP1
+    
+- name: "SAMSUNG ELECTRONICS LATIN AMERICA PANAMA (ZONA LIBRE) S.A."
+  city: "PANAMA"
+  branch: SELAPA
+  swift: SECTPAP1810
+    
+- name: "SAMSUNG ELECTRONICS LATIN AMERICA PANAMA (ZONA LIBRE) S.A."
+  city: "PANAMA"
+  branch: null
+  swift: SECTPAP1
+    
+- name: "SCANDIA CREDIT CORPORATION S.A."
+  city: "PANAMA"
+  branch: null
+  swift: SWCCPAP1
+    
+- name: "SCOTIABANK (PANAMA) S.A. (FORMERLY BANCO CITIBANK (PANAMA), S.A.)"
+  city: "PANAMA"
+  branch: PANAMA BRANCH
+  swift: BACUPAPANOS
+    
+- name: "SCOTIABANK (PANAMA) S.A. (FORMERLY BANCO CITIBANK (PANAMA), S.A.)"
+  city: "PANAMA"
+  branch: null
+  swift: BACUPAPA
+    
+- name: "ST. GEORGES BANK"
+  city: "PANAMA"
+  branch: null
+  swift: STGBPAPA
+    
+- name: "STATE BANK OF INDIA"
+  city: "PANAMA"
+  branch: null
+  swift: SBINPAP1
+    
+- name: "TOWERBANK INTERNATIONAL INC."
+  city: "COLON"
+  branch: null
+  swift: TIINPAP1
+    
+- name: "TOWERBANK INTERNATIONAL, INC."
+  city: "PANAMA"
+  branch: null
+  swift: TOWEPAPA
+    
+- name: "UNIBANK, S.A."
+  city: "PANAMA"
+  branch: null
+  swift: UNIBPAPA
+    
+- name: "UNITED COMMUNITY CAPITAL CORP"
+  city: "PANAMA CITY"
+  branch: null
+  swift: UCOCPAP1
+    
+- name: "WEST CAPITAL INTERNATIONAL SA"
+  city: "PANAMA"
+  branch: null
+  swift: WECRPAP1
+    

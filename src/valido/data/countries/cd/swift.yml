@@ -1,0 +1,155 @@
+- name: "ACCESS BANK CONGO DR"
+  city: "KINSHASA"
+  branch: null
+  swift: ABNGCDKI
+    
+- name: "ADVANS BANQUE CONGO"
+  city: "KINSHASA"
+  branch: null
+  swift: ADVBCDKX
+    
+- name: "AFRILAND FIRST BANK CONGO DEMOCRATIQUE"
+  city: "KINSHASA"
+  branch: null
+  swift: AFCDCDKI
+    
+- name: "BANK OF AFRICA-RDC"
+  city: "KINSHASA"
+  branch: null
+  swift: AFRICDKS
+    
+- name: "BANQUE CENTRALE DU CONGO"
+  city: "KINSHASA"
+  branch: null
+  swift: BCCGCDK2
+    
+- name: "BANQUE CENTRALE DU CONGO"
+  city: "KINSHASA"
+  branch: null
+  swift: BCCGCDKS
+    
+- name: "BANQUE COMMERCIALE DU CONGO"
+  city: "KINSHASA"
+  branch: null
+  swift: BCDCCDKI
+    
+- name: "BANQUE COMMERCIALE DU CONGO"
+  city: "LUBUMBASHI"
+  branch: null
+  swift: BCDCCDKI03L
+    
+- name: "BANQUE CONTINENTALE AFRICAINE (ZAIRE) SARL"
+  city: "KINSHASA"
+  branch: null
+  swift: CLUXCDK1
+    
+- name: "BANQUE DU CREDIT AGRICOLE 'B.C.A.'"
+  city: "KINSHASA"
+  branch: null
+  swift: ACRBCDK1
+    
+- name: "BANQUE INTERNATIONALE POUR L'AFRIQUE AU CONGO (BIAC)"
+  city: "KINSHASA"
+  branch: null
+  swift: BIACCDKI
+    
+- name: "BANQUE ZAIROISE DU COMMERCE EXTERIEUR"
+  city: "LUBUMBASHI"
+  branch: null
+  swift: ZAEXCD31
+    
+- name: "BGFIBANK RDC"
+  city: "KINSHASA"
+  branch: null
+  swift: BGFICDKI
+    
+- name: "BYBLOS BANK RDC"
+  city: "KINSHASA"
+  branch: null
+  swift: BYBACDKI
+    
+- name: "CAISSE CENTRALE DE COOPERATION ECONOMIQUE"
+  city: "KINSHASA"
+  branch: null
+  swift: CCNCCDK1
+    
+- name: "CITIBANK CONGO"
+  city: "KINSHASA"
+  branch: null
+  swift: CITICDKX
+    
+- name: "DMEXCHANGE SPRL"
+  city: "KINSHASA"
+  branch: null
+  swift: DMEXCDK1
+    
+- name: "DMEXCHANGE SPRL"
+  city: "LUBUMBASHI"
+  branch: null
+  swift: DMEXCDK1AIP
+    
+- name: "ECOBANK REPUBLIQUE DEMOCRATIQUE DU CONGO SA"
+  city: "KINSHASA"
+  branch: null
+  swift: ECOCCDKI
+    
+- name: "FBNBANK DRC SA"
+  city: "KINSHASA"
+  branch: null
+  swift: BICDCDKI
+    
+- name: "FRANSABANK (CONGO) SARL"
+  city: "KINSHASA"
+  branch: null
+  swift: FRZSCDK1
+    
+- name: "NOUVELLE BANQUE DE KINSHASA"
+  city: "KINSHASA"
+  branch: null
+  swift: BKINCDK1
+    
+- name: "PROCREDIT BANK CONGO SA"
+  city: "KINSHASA"
+  branch: null
+  swift: PRCBCDKI
+    
+- name: "RAWBANK SA"
+  city: "KINSHASA"
+  branch: null
+  swift: RAWBCDKI
+    
+- name: "SOFIBANQUE SA"
+  city: "KINSHASA"
+  branch: null
+  swift: SFBXCDKI
+    
+- name: "STANDARD BANK RDC SA"
+  city: "KINSHASA"
+  branch: null
+  swift: SBICCDKX
+    
+- name: "SWITAP"
+  city: "LUBUMBASHI"
+  branch: null
+  swift: SWTTCD31
+    
+- name: "TRUST MERCHANT BANK SA"
+  city: "LUBUMBASHI"
+  branch: null
+  swift: TRMSCD3L
+    
+- name: "TRUST MERCHANT BANK SARL"
+  city: "KINSHASA"
+  branch: null
+  swift: TRMSCD3K
+    
+- name: "UNION ZAIROISE DE BANQUES"
+  city: "KINSHASA"
+  branch: null
+  swift: UZBACDK1
+    
+- name: "UNITED BANK FOR AFRICA RDC SARL"
+  city: "KINSHASA"
+  branch: null
+  swift: UNAFCDKS
+    

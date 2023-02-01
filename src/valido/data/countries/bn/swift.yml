@@ -1,0 +1,75 @@
+- name: "AUTORITI MONETARI BRUNEI DARUSSALAM"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: AMBDBNBB
+    
+- name: "BAIDURI BANK BERHAD"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: BAIDBNBB
+    
+- name: "BANK ISLAM BRUNEI DARUSSALAM BERHAD"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: BIBDBNBB
+    
+- name: "BANK OF CHINA (HONG KONG) LIMITED, BRUNEI BRANCH"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: BKCHBNBB
+    
+- name: "BRUNEI INVESTMENT AGENCY"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: BIAGBNB1
+    
+- name: "BRUNEI SHELL PETROLEUM"
+  city: "SERIA"
+  branch: null
+  swift: BRHPBNB1
+    
+- name: "CREDIT CORPORATION (BRUNEI) BHD"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: CCBRBNB1
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: HSBCBNBB
+    
+- name: "MALAYAN BANKING BERHAD"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: MBBEBNBB
+    
+- name: "PERBADANAN TABUNG AMANAH ISLAM BRUNEI"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: PTAIBNBB
+    
+- name: "RHB BANK BERHAD, BRUNEI"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: RHBBBNBB
+    
+- name: "STANDARD CHARTERED BANK - BRUNEI"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: SCBLBNBB
+    
+- name: "UNITED OVERSEAS BANK LTD"
+  city: "BANDAR SERI BEGAWAN"
+  branch: BANDAR SERI BEGAWAN BRANCH
+  swift: UOVBBNC1
+    
+- name: "UNITED OVERSEAS BANK LTD"
+  city: "BANDAR SERI BEGAWAN"
+  branch: TRANSACTION BANKING
+  swift: UOVBBNBBCMS
+    
+- name: "UNITED OVERSEAS BANK LTD"
+  city: "BANDAR SERI BEGAWAN"
+  branch: null
+  swift: UOVBBNBB
+    

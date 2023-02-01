@@ -1,0 +1,70 @@
+- name: "BANQUE DE LA REPUBLIQUE D'HAITI"
+  city: "PORT AU PRINCE"
+  branch: null
+  swift: BRHAHTPP
+    
+- name: "BANQUE DE L'UNION HAITIENNE"
+  city: "PORT AU PRINCE"
+  branch: null
+  swift: BUHEHTPP
+    
+- name: "BANQUE DE PROMOTION COMMERCIALE ET INDUSTRIELLE S.A."
+  city: "PETION-VILLE"
+  branch: null
+  swift: BDPCHTP1
+    
+- name: "BANQUE NATIONALE DE CREDIT (BNC)"
+  city: "PORT AU PRINCE"
+  branch: null
+  swift: BNCHHTPP
+    
+- name: "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE ET INDUSTRIEL"
+  city: "CAP-HAITIEN"
+  branch: null
+  swift: BNDIHT21
+    
+- name: "BANQUE NATIONALE DE PARIS"
+  city: "PORT AU PRINCE"
+  branch: null
+  swift: BNPAHTP1
+    
+- name: "CANGE PLATEAU-CENTRAL BANQUE"
+  city: "CANGE"
+  branch: null
+  swift: CNPTHTP1
+    
+- name: "CAPITAL BANK S.A."
+  city: "PORT AU PRINCE"
+  branch: null
+  swift: CPPLHTPP
+    
+- name: "CITIBANK N.A"
+  city: "PORT AU PRINCE"
+  branch: null
+  swift: CITIHTP1
+    
+- name: "SOCIETE GENERALE HAITIENNE DE BANQUE S.A."
+  city: "PETION-VILLE"
+  branch: null
+  swift: SOGHHTP1023
+    
+- name: "SOCIETE GENERALE HAITIENNE DE BANQUE S.A."
+  city: "PORT AU PRINCE"
+  branch: DELMAS BRANCH
+  swift: SOGHHTP1022
+    
+- name: "SOCIETE GENERALE HAITIENNE DE BANQUE S.A."
+  city: "PORT AU PRINCE"
+  branch: null
+  swift: SOGHHTPP
+    
+- name: "UNIBANK S.A."
+  city: "PETION-VILLE"
+  branch: null
+  swift: NOSCHTPP
+    
+- name: "UNIBANK S.A."
+  city: "PETION-VILLE"
+  branch: null
+  swift: UBNKHTPP
+    

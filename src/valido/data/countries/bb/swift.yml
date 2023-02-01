@@ -1,0 +1,145 @@
+- name: "AMICORP BANK AND TRUST LTD"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: AMIBBBBB
+    
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "BRIDGETOWN"
+  branch: OFFSHORE BANKING UNIT
+  swift: NOSCBBBBBOB
+    
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: NOSCBBBB
+    
+- name: "BARBADOS CENTRAL SECURITIES DEPOSITORY INC."
+  city: "BRIDGETOWN"
+  branch: null
+  swift: BCSDBBB1
+    
+- name: "CARIBBEAN DEVELOPMENT BANK"
+  city: "ST. MICHAEL"
+  branch: null
+  swift: CDEVBBBB
+    
+- name: "CENTRAL BANK OF BARBADOS"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: CBABBBB1ACC
+    
+- name: "CENTRAL BANK OF BARBADOS"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: CBABBBB1BSE
+    
+- name: "CENTRAL BANK OF BARBADOS"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: CBABBBBB
+    
+- name: "CENTRAL BANK OF BARBADOS"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: CBABBBBG
+    
+- name: "CIBC OFFSHORE BANKING SERVICES CORPORATION"
+  city: "ST. MICHAEL"
+  branch: null
+  swift: COBVBBBB
+    
+- name: "CIBC TRUST AND MERCHANT BANK (BARBADOS) LIMITED"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: CTMBBBB1
+    
+- name: "CIDEL BANK AND TRUST INC."
+  city: "ST. MICHAEL"
+  branch: null
+  swift: CTBLBBBB
+    
+- name: "CITICORP MERCHANT BANK LIMITED"
+  city: "ST. MICHAEL"
+  branch: null
+  swift: CITIBBBB
+    
+- name: "CONSOLIDATED FINANCE CO LIMITED"
+  city: "CHRISTCHURCH"
+  branch: null
+  swift: CNFIBBB1
+    
+- name: "CONTINENTAL BANK CORP"
+  city: "ST. MICHAEL"
+  branch: null
+  swift: CCONBBBB
+    
+- name: "DGM BANK AND TRUST INC."
+  city: "BRIDGETOWN"
+  branch: null
+  swift: DGRRBBB1
+    
+- name: "FIRST CITIZENS BANK (BARBADOS) LTD. THE MUTUAL BUILDING"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: FCTTBBBB
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK LIMITED"
+  city: "ST. MICHAEL"
+  branch: null
+  swift: FCIBBBBB
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL WEALTH MANAGEMENT BANK (BARBADOS) LIMITED"
+  city: "CHRISTCHURCH"
+  branch: null
+  swift: FCIBBBB2
+    
+- name: "GLENHURON BANK LTD"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: GLEBBBB1
+    
+- name: "J AND T BANK AND TRUST"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: JTBTBBBB
+    
+- name: "MANUFACTURERS LIFE REINSURANCE LIMITED"
+  city: "ST. MICHAEL"
+  branch: null
+  swift: MFCTBBBB
+    
+- name: "MERCOM BANK LIMITED"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: MERMBBB1
+    
+- name: "OCCIDENTAL BANK BARBADOS (LTD)"
+  city: "ST. MICHAEL"
+  branch: null
+  swift: OCCIBBBB
+    
+- name: "RBC BARBADOS TRADING BANK CORPORATION"
+  city: "ST. JAMES"
+  branch: null
+  swift: RBTOBBBB
+    
+- name: "RBC ROYAL BANK (BARBADOS) LIMITED"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: ROYCBBBB
+    
+- name: "REPUBLIC BANK (BARBADOS) LIMITED"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: BNBABBBB
+    
+- name: "ROYAL BANK OF CANADA (CARIBBEAN) CORPORATION"
+  city: "ST. MICHAEL"
+  branch: null
+  swift: RCCABBB1
+    
+- name: "TRANSCOM BANK (BARBADOS) LTD."
+  city: "BRIDGETOWN"
+  branch: null
+  swift: TRBOBBB1
+    

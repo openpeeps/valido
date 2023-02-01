@@ -1,0 +1,395 @@
+- name: "BANK HAPOALIM B.M."
+  city: "TEL-AVIV"
+  branch: CLS
+  swift: POALILITCLS
+    
+- name: "BANK HAPOALIM B.M."
+  city: "TEL-AVIV"
+  branch: CUSTODIAN FOR PENSION
+  swift: POALILITGML
+    
+- name: "BANK HAPOALIM B.M."
+  city: "TEL-AVIV"
+  branch: CUSTOMERS CASH MANAGEMENT
+  swift: POALILITCMN
+    
+- name: "BANK HAPOALIM B.M."
+  city: "TEL-AVIV"
+  branch: FOREIGN CURRENCY FOR ALL BRANCHES IN ISRAEL
+  swift: POALILITFMT
+    
+- name: "BANK HAPOALIM B.M."
+  city: "TEL-AVIV"
+  branch: FOREIGN SECURITIES
+  swift: POALILITSEC
+    
+- name: "BANK HAPOALIM B.M."
+  city: "TEL-AVIV"
+  branch: FOREIGN TRADE FOR ALL BRANCHES IN ISRAEL
+  swift: POALILITFTD
+    
+- name: "BANK HAPOALIM B.M."
+  city: "TEL-AVIV"
+  branch: FOREX AND MONEY MARKET CONFIRMATIONS
+  swift: POALILITBKR
+    
+- name: "BANK HAPOALIM B.M."
+  city: "TEL-AVIV"
+  branch: FOREX AND MONEY MARKET PAYMENTS
+  swift: POALILITDLR
+    
+- name: "BANK HAPOALIM B.M."
+  city: "TEL-AVIV"
+  branch: SECURITIES
+  swift: POALILITCBS
+    
+- name: "BANK HAPOALIM B.M."
+  city: "TEL-AVIV"
+  branch: null
+  swift: POALILIT
+    
+- name: "BANK LEUMI LE ISRAEL B.M."
+  city: "HAIFA"
+  branch: HAIFA BRANCH
+  swift: LUMIILITHAI
+    
+- name: "BANK LEUMI LE ISRAEL B.M."
+  city: "JERUSALEM"
+  branch: JERUSALEM BRANCH
+  swift: LUMIILITJLM
+    
+- name: "BANK LEUMI LE ISRAEL B.M."
+  city: "TEL-AVIV"
+  branch: BANKING SERVICES CENTER
+  swift: LUMIILITBSC
+    
+- name: "BANK LEUMI LE ISRAEL B.M."
+  city: "TEL-AVIV"
+  branch: CLS OPERATIONS
+  swift: LUMIILITCLS
+    
+- name: "BANK LEUMI LE ISRAEL B.M."
+  city: "TEL-AVIV"
+  branch: DIGITAL SERVICES
+  swift: LUMIILITLDB
+    
+- name: "BANK LEUMI LE ISRAEL B.M."
+  city: "TEL-AVIV"
+  branch: TEL-AVIV MAIN BRANCH
+  swift: LUMIILIT
+    
+- name: "BANK LEUMI LE ISRAEL B.M."
+  city: "TEL-AVIV"
+  branch: TEL-AVIV MAIN BRANCH
+  swift: LUMIILITTLV
+    
+- name: "BANK LEUMI LE-ISRAEL B.M.(FORMERLY ARAB ISRAEL BANK LTD)"
+  city: "TEL-AVIV"
+  branch: null
+  swift: ARISILI1
+    
+- name: "BANK MASSAD LTD."
+  city: "TEL-AVIV"
+  branch: null
+  swift: MASBILIT
+    
+- name: "BANK OF ISRAEL"
+  city: "JERUSALEM"
+  branch: null
+  swift: ISRAILIJ
+    
+- name: "BANK OF ISRAEL"
+  city: "JERUSALEM"
+  branch: null
+  swift: ISRAILIR
+    
+- name: "BANK OF JERUSALEM - BROKERAGE"
+  city: "TEL-AVIV"
+  branch: null
+  swift: BASVILI1
+    
+- name: "BANK OF JERUSALEM LTD. TEL-AVIV"
+  city: "AIRPORT CITY - LOD"
+  branch: null
+  swift: JERSILIT
+    
+- name: "BANK OTSAR HA-HAYAL LTD."
+  city: "RAMAT-GAN"
+  branch: null
+  swift: OTSHILIT
+    
+- name: "BANK YAHAV FOR GOVERMENT EMPLOYEES LTD"
+  city: "JERUSALEM"
+  branch: null
+  swift: BYAHILI1
+    
+- name: "BARAK CAPITAL G.T LIMITED"
+  city: "TEL-AVIV"
+  branch: null
+  swift: BRTPILI1
+    
+- name: "BNP PARIBAS ISRAEL"
+  city: "TEL-AVIV"
+  branch: null
+  swift: BNPAILI1
+    
+- name: "BREVAN HOWARD (ISRAEL) LIMITED"
+  city: "RAMAT-GAN"
+  branch: null
+  swift: BRHRILI1
+    
+- name: "CITIBANK N.A."
+  city: "TEL-AVIV"
+  branch: TRADE SERVICES DEPT
+  swift: CITIILITTRD
+    
+- name: "CITIBANK N.A."
+  city: "TEL-AVIV"
+  branch: null
+  swift: CITIILIT
+    
+- name: "CITIGROUP FINANCIAL PRODUCTS ISRAEL LIMITED"
+  city: "TEL-AVIV"
+  branch: null
+  swift: CFPSILI1
+    
+- name: "CONTECH LP"
+  city: "HERZELIYA"
+  branch: null
+  swift: CONHILI1
+    
+- name: "DEXIA ISRAEL BANK LTD"
+  city: "TEL-AVIV"
+  branch: null
+  swift: OTHHILI1
+    
+- name: "DEXIA ISRAEL BANK LTD"
+  city: "TEL-AVIV"
+  branch: null
+  swift: OTHHILIT
+    
+- name: "DS STOCK EXCHANGE SERVICES LTD."
+  city: "TEL-AVIV"
+  branch: null
+  swift: STXSILI1
+    
+- name: "EXCELLENCE NESSUAH BROKERAGE SERVICES LIMITED"
+  city: "RAMAT-GAN"
+  branch: null
+  swift: ZNNXILI1
+    
+- name: "FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE"
+  city: "RAMAT-GAN"
+  branch: DIAMOND EXCHANGE BRANCH
+  swift: FIRBILITDEX
+    
+- name: "FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE"
+  city: "TEL-AVIV"
+  branch: null
+  swift: FIRBILIT
+    
+- name: "FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE"
+  city: "TEL-AVIV"
+  branch: null
+  swift: FIRBILITCBR
+    
+- name: "FIVE CAPITAL MARKETS LTD."
+  city: "HAIFA"
+  branch: null
+  swift: FIPKILI1
+    
+- name: "FS MIZRAHI TEFAHOT BANK LTD RAMAT GAN"
+  city: "RAMAT-GAN"
+  branch: null
+  swift: MITGILI1
+    
+- name: "HSBC BANK PLC"
+  city: "RAMAT-GAN"
+  branch: null
+  swift: HSBCILIT
+    
+- name: "INVESTSOFT LTD"
+  city: "HAIFA"
+  branch: null
+  swift: IVSOILI1
+    
+- name: "ISRAEL BROKERAGE AND INVESTMENT LIMITED"
+  city: "TEL-AVIV"
+  branch: null
+  swift: ISBNILI1
+    
+- name: "ISRAEL CREDIT CARDS LTD."
+  city: "GIVATAYIM"
+  branch: null
+  swift: ICCEILI1
+    
+- name: "ISRAEL DISCOUNT BANK LTD."
+  city: "HAIFA"
+  branch: null
+  swift: IDBLILITHAI
+    
+- name: "ISRAEL DISCOUNT BANK LTD."
+  city: "RAMAT-GAN"
+  branch: DIAMOND EXCHANGE
+  swift: IDBLILITDMD
+    
+- name: "ISRAEL DISCOUNT BANK LTD."
+  city: "TEL-AVIV"
+  branch: HEAD OFFICE
+  swift: IDBLILIT
+    
+- name: "ISRAEL POSTAL BANK"
+  city: "JERUSALEM"
+  branch: null
+  swift: IPOAILIJ
+    
+- name: "LEADER AND CO. INVESTMENTS"
+  city: "TEL-AVIV"
+  branch: null
+  swift: LEINILI1
+    
+- name: "MAGNA ASSET MANAGEMENT"
+  city: "TEL-AVIV"
+  branch: null
+  swift: MGATILI1
+    
+- name: "MEITAV BROKERAGE SERVICES GAON TRADE) LTD"
+  city: "TEL-AVIV"
+  branch: null
+  swift: MBSGILI1
+    
+- name: "MERCANTILE DISCOUNT BANK LTD."
+  city: "TEL-AVIV"
+  branch: HEAD OFFICE
+  swift: BARDILIT
+    
+- name: "MIZRAHI TEFAHOT BANK LTD."
+  city: "BEER-SHEVA"
+  branch: BEER-SHEVA MAIN BRANCH
+  swift: MIZBILITBSV
+    
+- name: "MIZRAHI TEFAHOT BANK LTD."
+  city: "HAIFA"
+  branch: HAIFA MAIN BRANCH
+  swift: MIZBILITHAI
+    
+- name: "MIZRAHI TEFAHOT BANK LTD."
+  city: "JERUSALEM"
+  branch: JERUSALEM MAIN BRANCH
+  swift: MIZBILITJLM
+    
+- name: "MIZRAHI TEFAHOT BANK LTD."
+  city: "LOD"
+  branch: null
+  swift: MIZBILITTLV
+    
+- name: "MIZRAHI TEFAHOT BANK LTD."
+  city: "RAMAT-GAN"
+  branch: DIAMOND EXCHANGE BRANCH
+  swift: MIZBILITDMD
+    
+- name: "MIZRAHI TEFAHOT BANK LTD."
+  city: "TEL-AVIV"
+  branch: null
+  swift: MIZBILIT
+    
+- name: "OFEK SECURITIES AND INVESTMENTS LIMITED"
+  city: "TEL-AVIV"
+  branch: null
+  swift: OFSIILI1
+    
+- name: "PACIFIC MEDITERRANEAN INVESTMENT LIMITED"
+  city: "HERZELIA PITUACH"
+  branch: null
+  swift: PAMIILI1
+    
+- name: "POALIM SAHAR LTD"
+  city: "TEL-AVIV"
+  branch: null
+  swift: POSHILI1
+    
+- name: "SAMSUNG TELECOMMUNICATION R AND D-ISRAEL"
+  city: "YAKUM"
+  branch: null
+  swift: SECTILI1
+    
+- name: "SAMSUNG TELECOMMUNICATION R AND D-ISRAEL"
+  city: "YAKUM"
+  branch: null
+  swift: SECTILI1432
+    
+- name: "STATE BANK OF INDIA"
+  city: "RAMAT-GAN"
+  branch: null
+  swift: SBINILIT
+    
+- name: "TEL AVIV STOCK EXCHANGE"
+  city: "TEL-AVIV"
+  branch: null
+  swift: XTAEILIB
+    
+- name: "TEL AVIV STOCK EXCHANGE"
+  city: "TEL-AVIV"
+  branch: null
+  swift: XTAEILIC
+    
+- name: "TEL AVIV STOCK EXCHANGE"
+  city: "TEL-AVIV"
+  branch: null
+  swift: XTAEILIM
+    
+- name: "TEL-AVIV STOCK EXCHANGE CLEARING HOUSE"
+  city: "TEL-AVIV"
+  branch: null
+  swift: XTAEILIT
+    
+- name: "TEVA PHARMACEUTICAL INDUSTRIES LTD"
+  city: "PETACH TIKVA"
+  branch: null
+  swift: TEVPILIT
+    
+- name: "THE FIRST INTERNATIONAL BANK OF ISRAEL LTD"
+  city: "TEL-AVIV"
+  branch: null
+  swift: FIRBIL21
+    
+- name: "THE FIRST INTERNATIONAL BANK OF ISRAEL LTD"
+  city: "TEL-AVIV"
+  branch: null
+  swift: FIRBIL51
+    
+- name: "TRADE BANK LTD."
+  city: "TEL-AVIV"
+  branch: null
+  swift: TRADILI1
+    
+- name: "UNION BANK OF ISRAEL LTD"
+  city: "HAIFA"
+  branch: null
+  swift: UNBKILITHAI
+    
+- name: "UNION BANK OF ISRAEL LTD"
+  city: "JERUSALEM"
+  branch: null
+  swift: UNBKILITJLM
+    
+- name: "UNION BANK OF ISRAEL LTD"
+  city: "RAMAT-GAN"
+  branch: DIAMOND BRANCH
+  swift: UNBKILITDMD
+    
+- name: "UNION BANK OF ISRAEL LTD"
+  city: "TEL-AVIV"
+  branch: INTERNATIONAL BRANCH
+  swift: UNBKILITINT
+    
+- name: "UNION BANK OF ISRAEL LTD"
+  city: "TEL-AVIV"
+  branch: TEL-AVIV HEAD OFFICE
+  swift: UNBKILITTLV
+    
+- name: "UNION BANK OF ISRAEL LTD"
+  city: "TEL-AVIV"
+  branch: null
+  swift: UNBKILIT
+    

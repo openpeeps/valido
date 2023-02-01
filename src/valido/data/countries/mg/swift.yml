@@ -1,0 +1,80 @@
+- name: "ACCESBANQUE MADAGASCAR"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: ABMGMGMG
+    
+- name: "BANK OF AFRICA MADAGASCAR"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: AFRIMGMG
+    
+- name: "BANQUE CENTRALE DE MADAGASCAR"
+  city: "ANTANANARIVO"
+  branch: RTGS BACKUP LINE
+  swift: REPUMGMGRTG
+    
+- name: "BANQUE CENTRALE DE MADAGASCAR"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: REPUMGMG
+    
+- name: "BANQUE MALGACHE DE L'OCEAN INDIEN"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: BMOIMGMG
+    
+- name: "BANQUE SBM MADAGASCAR"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: BSBMMGMG
+    
+- name: "BFV-SOCIETE GENERALE"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: BFAVMGMG
+    
+- name: "BGFIBANK MADAGASCAR"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: BGFIMGMG
+    
+- name: "BM MADAGASCAR S.A"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: BAIMMGMG
+    
+- name: "BNI MADAGASCAR"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: CLMDMGMG
+    
+- name: "BNI MADAGASCAR"
+  city: "ANTSIRANANA"
+  branch: null
+  swift: CLMDMGM10MA
+    
+- name: "BNI MADAGASCAR"
+  city: "MAHAJANGA"
+  branch: null
+  swift: CLMDMGM10MM
+    
+- name: "BNI MADAGASCAR"
+  city: "TOAMASINA"
+  branch: null
+  swift: CLMDMGM10MT
+    
+- name: "MARCHE INTERBANCAIRE DES DEVISES M.I.D."
+  city: "ANTANANARIVO"
+  branch: null
+  swift: XMDGMGM1
+    
+- name: "PAOSITRA MALAGASY"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: PAMLMGM1
+    
+- name: "THE MAURITIUS COMMERCIAL BANK (MADAGASCAR) SA"
+  city: "ANTANANARIVO"
+  branch: null
+  swift: MCBLMGMG
+    

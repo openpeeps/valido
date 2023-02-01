@@ -1,0 +1,5315 @@
+- name: "1770 CAPITAL PARTNERS"
+  city: "SYDNEY"
+  branch: null
+  swift: CPANAU21
+    
+- name: "4D INFRASTRUCTURE PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: INYTAU31
+    
+- name: "90 WEST ASSET MANAGEMENT LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: WEAEAU31
+    
+- name: "A.B.S. WHITE AND CO. LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: ABWHAU21
+    
+- name: "AAA SHARES PTY LTD"
+  city: "ADELAIDE"
+  branch: null
+  swift: MOFCAU51
+    
+- name: "ABERDEEN ASSET MANAGEMENT LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: ABEMAU21
+    
+- name: "ABN AMRO CLEARING SYDNEY PTY LTD. (FORMELY KNOWN AS FORTIS CLEARING SYDNEY PTY LTD)"
+  city: "SYDNEY"
+  branch: null
+  swift: FCSPAU21
+    
+- name: "ACORN CAPITAL"
+  city: "MELBOURNE"
+  branch: null
+  swift: ACCAAU31
+    
+- name: "ACS BROKER SERVICES LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: ACBRAU31
+    
+- name: "ADVANCE ASSET MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: AAMNAU21
+    
+- name: "AGORA ASSET MANAGEMENT PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: AGAMAU31
+    
+- name: "AGRICULTURAL BANK OF CHINA SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: ABOCAU2S
+    
+- name: "AIRLIE FUNDS MANAGEMENT PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: AFMTAUS1
+    
+- name: "ALLERON INVESTMENT MANAGEMENT LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: AIMTAU21
+    
+- name: "ALPHA INVESTMENT MANAGEMENT PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: AIMPAU31
+    
+- name: "AMERICAN EXPRESS INTERNATIONAL INC (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: null
+  swift: AEIAAU21
+    
+- name: "AMP BANK LIMITED"
+  city: "SYDNEY"
+  branch: RET BRANCH
+  swift: AMPBAU2SRET
+    
+- name: "AMP BANK LIMITED"
+  city: "SYDNEY"
+  branch: TRY BRANCH
+  swift: AMPBAU2STRY
+    
+- name: "AMP BANK LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: AMPBAU2S
+    
+- name: "AMP CAPITAL INVESTORS LIMTED"
+  city: "SYDNEY"
+  branch: BASKET SWAPS TRANS
+  swift: AMCIAU21BSW
+    
+- name: "AMP CAPITAL INVESTORS LIMTED"
+  city: "SYDNEY"
+  branch: COLLATERAL MGMT
+  swift: AMCIAU21COL
+    
+- name: "AMP CAPITAL INVESTORS LIMTED"
+  city: "SYDNEY"
+  branch: UT NO CASH
+  swift: AMCIAU21UNC
+    
+- name: "AMP CAPITAL INVESTORS LIMTED"
+  city: "SYDNEY"
+  branch: UT PAY DIRECTION
+  swift: AMCIAU21UDP
+    
+- name: "AMP CAPITAL INVESTORS LIMTED"
+  city: "SYDNEY"
+  branch: UT STANDARD
+  swift: AMCIAU21UST
+    
+- name: "AMP CAPITAL INVESTORS LIMTED"
+  city: "SYDNEY"
+  branch: null
+  swift: AMCIAU2X
+    
+- name: "AMP LIFE LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: AMLIAU21
+    
+- name: "AMP LIFE LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: AMLIAU21CMT
+    
+- name: "ANDREW WEST AND CO LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ANWEAU21
+    
+- name: "ANZ SECURITIES LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: ANZSAU31
+    
+- name: "AOT AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: AOAPAU21
+    
+- name: "APN FUNDS MANAGEMENT LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: APFNAU31
+    
+- name: "APP SECURITIES PTY LTD"
+  city: "SYDNEY"
+  branch: NON-PERSHING CONFIRMATION
+  swift: APSPAUS1APP
+    
+- name: "APP SECURITIES PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: APSPAUS1
+    
+- name: "ARAB BANK AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ARABAU2S
+    
+- name: "ARGONAUT SECURITIES PTY LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: AREEAU61
+    
+- name: "ARNHEM INVESTMENT MANAGEMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: AIMGAU21
+    
+- name: "ASSETSECURE PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: ASEYAU2S
+    
+- name: "ASTERON"
+  city: "SYDNEY"
+  branch: null
+  swift: ASTEAU21
+    
+- name: "ASX CLEAR (FUTURES) PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: AXCFAU21
+    
+- name: "ASX OPERATIONS PTY LIMITED"
+  city: "SYDNEY"
+  branch: RTGS SETTLEMENT
+  swift: XASXAU2SRTG
+    
+- name: "ASX OPERATIONS PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: XASXAU2S
+    
+- name: "ASX SETTLEMENT AND TRANSFER CORPORATION PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CAETAU21
+    
+- name: "ATOM FUNDS MANAGEMENT LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: ATFAAU21
+    
+- name: "ATTENTUS FUND SOLUTIONS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: AFSTAU21
+    
+- name: "ATTUNGA CAPITAL PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: ATCYAU21
+    
+- name: "AUSBIL DEXIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: AUSDAU21
+    
+- name: "AUSMAQ LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: AUSQAU21
+    
+- name: "AUSPAC SECURITIES LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: AUSEAU21
+    
+- name: "AUSTOCK SECURITIES LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: AUBPAU31
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 201
+  swift: ACLRAU2S201
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 202
+  swift: ACLRAU2S202
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 203
+  swift: ACLRAU2S203
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 204
+  swift: ACLRAU2S204
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 205
+  swift: ACLRAU2S205
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 207
+  swift: ACLRAU2S207
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 208
+  swift: ACLRAU2S208
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 209
+  swift: ACLRAU2S209
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 210
+  swift: ACLRAU2S210
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 211
+  swift: ACLRAU2S211
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 212
+  swift: ACLRAU2S212
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 213
+  swift: ACLRAU2S213
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 214
+  swift: ACLRAU2S214
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 215
+  swift: ACLRAU2S215
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 216
+  swift: ACLRAU2S216
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 217
+  swift: ACLRAU2S217
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 218
+  swift: ACLRAU2S218
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 219
+  swift: ACLRAU2S219
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 220
+  swift: ACLRAU2S220
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 221
+  swift: ACLRAU2S221
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 222
+  swift: ACLRAU2S222
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 223
+  swift: ACLRAU2S223
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 224
+  swift: ACLRAU2S224
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 225
+  swift: ACLRAU2S225
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 226
+  swift: ACLRAU2S226
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 227
+  swift: ACLRAU2S227
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 228
+  swift: ACLRAU2S228
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 229
+  swift: ACLRAU2S229
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 230
+  swift: ACLRAU2S230
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 231
+  swift: ACLRAU2S231
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 232
+  swift: ACLRAU2S232
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 233
+  swift: ACLRAU2S233
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 234
+  swift: ACLRAU2S234
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 235
+  swift: ACLRAU2S235
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 236
+  swift: ACLRAU2S236
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 237
+  swift: ACLRAU2S237
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 238
+  swift: ACLRAU2S238
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 239
+  swift: ACLRAU2S239
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 240
+  swift: ACLRAU2S240
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 241
+  swift: ACLRAU2S241
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 242
+  swift: ACLRAU2S242
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 243
+  swift: ACLRAU2S243
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 244
+  swift: ACLRAU2S244
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 245
+  swift: ACLRAU2S245
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 246
+  swift: ACLRAU2S246
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 247
+  swift: ACLRAU2S247
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: BKO 260
+  swift: ACLRAU2S206
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ACLRAU2S
+    
+- name: "AUSTRACLEAR LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ACLRAUSS
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "ADELAIDE"
+  branch: TRADE AND SUPPLY CHAIN ADELAIDE
+  swift: ANZBAU3MTRA
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "ADELAIDE"
+  branch: null
+  swift: ANZBAU51
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "ALICE SPRINGS"
+  branch: null
+  swift: ANZBAU81881
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "BALLARAT"
+  branch: null
+  swift: ANZBAU3M516
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "BENDIGO"
+  branch: null
+  swift: ANZBAU3M535
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "BRISBANE"
+  branch: TRADE AND SUPPLY CHAIN BRISBANE
+  swift: ANZBAU3MTRB
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: ANZBAU41
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "CAIRNS"
+  branch: null
+  swift: ANZBAU41530
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "CANBERRA"
+  branch: null
+  swift: ANZBAUC1
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "DARWIN"
+  branch: null
+  swift: ANZBAU81
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "FREMANTLE"
+  branch: null
+  swift: ANZBAU61307
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "GEELONG"
+  branch: null
+  swift: ANZBAU3M645
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "HOBART"
+  branch: null
+  swift: ANZBAU71
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "LAUNCESTON"
+  branch: null
+  swift: ANZBAU71042
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "MELBOURNE"
+  branch: CUSTODIAN SERVICES
+  swift: ANZBAU3MNOM
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "MELBOURNE"
+  branch: FUNDS MANAGEMENT
+  swift: ANZBAU3MAFM
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "MELBOURNE"
+  branch: GROUP TREASURY OPERATIONS
+  swift: ANZBAU3MGTO
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: ANZBAU3M
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: ANZBAU3MCFX
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: ANZBAU3MCLS
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "NEWCASTLE"
+  branch: null
+  swift: ANZBAUS1780
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "PERTH"
+  branch: TRADE AND SUPPLY CHAIN PERTH
+  swift: ANZBAU3MTRP
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: ANZBAU61
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "SURFERS PARADISE"
+  branch: null
+  swift: ANZBAU41704
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "SYDNEY"
+  branch: TRADE AND SUPPLY CHAIN SYDNEY
+  swift: ANZBAU3MTRS
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ANZBAUS1
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "TOWNSVILLE"
+  branch: null
+  swift: ANZBAU41730
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "WOLLONGONG"
+  branch: null
+  swift: ANZBAUS1878
+    
+- name: "AUSTRALIAN BULLION EXCHANGE LIMITED TRADING AS ABX GLOBAL"
+  city: "BRISBANE"
+  branch: null
+  swift: ABXAAU41
+    
+- name: "AUSTRALIAN CLEARING EXCHANGE PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: RDSPAU21
+    
+- name: "AUSTRALIAN ETHICAL INVESTMENT LTD"
+  city: "CANBERRA"
+  branch: null
+  swift: AUEIAU21
+    
+- name: "AUSTRALIAN EXECUTOR TRUSTEES LIMITE"
+  city: "SYDNEY"
+  branch: null
+  swift: AETLAUS1
+    
+- name: "AUSTRALIAN INDUSTRY DEVELOPMENT CORPORATION"
+  city: "SYDNEY"
+  branch: null
+  swift: AUIDAU21
+    
+- name: "AUSTRALIAN INVESTMENT EXCHANGE"
+  city: "PERTH"
+  branch: null
+  swift: AUIEAU61
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "CANBERRA"
+  branch: BANANACOAST COMMUNITY CREDIT UNION
+  swift: ASLLAU2CBCC
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "CANBERRA"
+  branch: FAMILIY FIRST CREDIT UNION
+  swift: ASLLAU2CFFC
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "CANBERRA"
+  branch: G AND C MUTUAL BANK LTD
+  swift: ASLLAU2CGCB
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "CANBERRA"
+  branch: REGIONAL AUSTRALIA BANK
+  swift: ASLLAU2CRAB
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "CANBERRA"
+  branch: SOUTH WEST SLOPES CREDIT UNION
+  swift: ASLLAU2CSWC
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "CANBERRA"
+  branch: null
+  swift: ASLLAU2C
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "CANBERRA"
+  branch: null
+  swift: ASLLAU2CASL
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "CANBERRA"
+  branch: null
+  swift: ASLLAU2CGIO
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "CANBERRA"
+  branch: null
+  swift: ASLLAU2CHBS
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "LISMORE"
+  branch: null
+  swift: ASLLAU2CSCU
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "NEWCASTLE"
+  branch: null
+  swift: ASLLAU2CGBS
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "SYDNEY"
+  branch: GATEWAY CREDIT UNION
+  swift: ASLLAU2CGTW
+    
+- name: "AUSTRALIAN SETTLEMENTS LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ASLLAU2CARA
+    
+- name: "AUSTRALIAN UNITY FUNDS MANAGEMENT"
+  city: "MELBOURNE"
+  branch: null
+  swift: AUUNAU3M
+    
+- name: "AUSWIDE BANK LTD"
+  city: "BUNDABERG"
+  branch: null
+  swift: AUSWAU41
+    
+- name: "AVIVA INVESTORS AUSTRALIA LIMITED"
+  city: "SOUTHBANK"
+  branch: null
+  swift: AVIUAU31
+    
+- name: "BABCOCK PTY LTD"
+  city: "OSBORNE"
+  branch: null
+  swift: BABCAU51
+    
+- name: "BAILLIEU HOLST LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: BAHOAU3M
+    
+- name: "BAKER YOUNG STOCKBROKERS LIMITED"
+  city: "ADELAIDE"
+  branch: null
+  swift: BAYSAU51
+    
+- name: "BALANCED EQUITY MANAGEMENT PTY LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: BEMTAU31
+    
+- name: "BANANACOAST COMMUNITY CREDIT UNION"
+  city: "COFFS HARBOUR"
+  branch: null
+  swift: BCEOAU21
+    
+- name: "BANK OF AMERICA, N.A. SYDNEY"
+  city: "SYDNEY"
+  branch: BA SECURITIES AUSTRALIA LTD
+  swift: BOFAAUSXSAL
+    
+- name: "BANK OF AMERICA, N.A. SYDNEY"
+  city: "SYDNEY"
+  branch: HEAD OFFICE
+  swift: BOFAAUSX
+    
+- name: "BANK OF AMERICA, N.A. SYDNEY"
+  city: "SYDNEY"
+  branch: null
+  swift: BOFAAUSXOBU
+    
+- name: "BANK OF BARODA"
+  city: "SYDNEY"
+  branch: null
+  swift: BARBAU2S
+    
+- name: "BANK OF CHINA"
+  city: "MELBOURNE"
+  branch: MELBOURNE BRANCH
+  swift: BKCHAU2SMEL
+    
+- name: "BANK OF CHINA"
+  city: "SYDNEY"
+  branch: HAYMARKET BRANCH
+  swift: BKCHAU2SHMB
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "ADELAIDE"
+  branch: BANK OF CHINA (AUSTRALIA) LTD ADELAIDE BRANCH
+  swift: BKCHAU2AADL
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "BOX HILL"
+  branch: BOX HILL BRANCH
+  swift: BKCHAU2ABXH
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "BRISBANE"
+  branch: BRISBANE BRANCH
+  swift: BKCHAU2ABRI
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "BURWOOD"
+  branch: BANK OF CHINA (AUSTRALIA) LTD BURWOOD BRANCH
+  swift: BKCHAU2ABWD
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "CHATSWOOD"
+  branch: CHATSWOOD
+  swift: BKCHAU2ACWD
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "HURSTVILLE"
+  branch: HURSTVILLE BRANCH
+  swift: BKCHAU2AHSV
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "MELBOURNE"
+  branch: BANK OF CHINA (AUSTRALIA) LTD MELBOURNE CHINA TOWN BRANCH
+  swift: BKCHAU2AMLC
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "MELBOURNE"
+  branch: MELBOURNE BRANCH
+  swift: BKCHAU2AMEL
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "PERTH"
+  branch: PERTH
+  swift: BKCHAU2APTH
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "SYDNEY"
+  branch: BANKING DEPT.
+  swift: BKCHAU2ABKG
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "SYDNEY"
+  branch: HAYMARKET
+  swift: BKCHAU2AHMB
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "SYDNEY"
+  branch: PARRAMATTA 
+  swift: BKCHAU2APAR
+    
+- name: "BANK OF CHINA (AUSTRALIA) LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: BKCHAU2A
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "ADELAIDE"
+  branch: ADELAIDE BRANCH
+  swift: BKCHAU2SADL
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "BOX HILL"
+  branch: BOX HILL BRANCH
+  swift: BKCHAU2SBXH
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "BRISBANE"
+  branch: BRISBANE BRANCH
+  swift: BKCHAU2SBRI
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "BURWOOD"
+  branch: BANK OF CHINA LTD BURWOOD BRANCH
+  swift: BKCHAU2SBWD
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "CHATSWOOD"
+  branch: CHATSWOOD
+  swift: BKCHAU2SCWD
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "HURSTVILLE"
+  branch: HURSTVILLE BRANCH
+  swift: BKCHAU2SHSV
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "MELBOURNE"
+  branch: BANK OF CHINA LTD MELBOURNE CHINA TOWN BRANCH
+  swift: BKCHAU2SMLC
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "PERTH"
+  branch: PERTH BRANCH
+  swift: BKCHAU2SPTH
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: ACCOUNTING DEPT.
+  swift: BKCHAU2SACC
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: BANKING DEPT.
+  swift: BKCHAU2SBKG
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: BILLS DEPARTMENT
+  swift: BKCHAU2SBLS
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: FOREIGN EXCHANGE DEPT.
+  swift: BKCHAU2SFEX
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: OBU
+  swift: BKCHAU2SOBU
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: PARRAMATTA DEPT.
+  swift: BKCHAU2SPAR
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: RISK MANAGEMENT DEPT.
+  swift: BKCHAU2SRMD
+    
+- name: "BANK OF CHINA LIMITED, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: BKCHAU2S
+    
+- name: "BANK OF COMMUNICATIONS CO.,LTD SYDNEY BRANCH"
+  city: "BRISBANE"
+  branch: BRISBANE BRANCH
+  swift: COMMAU2SBRI
+    
+- name: "BANK OF COMMUNICATIONS CO.,LTD SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: COMMAU2S
+    
+- name: "BANK OF MONTREAL"
+  city: "SYDNEY"
+  branch: null
+  swift: BOFMAU21
+    
+- name: "BANK OF QUEENSLAND LTD."
+  city: "NEWSTEAD"
+  branch: null
+  swift: QBANAU4B
+    
+- name: "BANK OF SYDNEY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: LIKIAU2S
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "SYDNEY"
+  branch: SYDNEY BRANCH
+  swift: BOTKAU2X
+    
+- name: "BANKINVEST"
+  city: "SYDNEY"
+  branch: null
+  swift: BSYDAU21
+    
+- name: "BANKWEST A DIVISION OF COMMONWEALTH BANK OF AUSTRALIA"
+  city: "PERTH"
+  branch: null
+  swift: BKWAAU6P
+    
+- name: "BELL ASSET MANAGEMENT LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: BEAMAU3M
+    
+- name: "BELL FIRST PACIFIC LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: HENDAU41
+    
+- name: "BELL POTTER SECURITIES"
+  city: "MELBOURNE"
+  branch: null
+  swift: BPFXAU31
+    
+- name: "BELL POTTER SECURITIES LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: JOTPAU31
+    
+- name: "BELL POTTER SECURITIES LIMITED"
+  city: "SYDNEY"
+  branch: SYDNEY WHOLESALE
+  swift: JOTPAU31ADM
+    
+- name: "BELLWETHER PARTNERS LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: BEPTAU31
+    
+- name: "BENDIGO BANK LIMITED"
+  city: "BENDIGO"
+  branch: null
+  swift: BENDAU3B
+    
+- name: "BENNELONG FUNDS MANAGEMENT LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: BEFMAU31
+    
+- name: "BESTEX PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: BEPYAU31
+    
+- name: "BETASHARES CAPITAL LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: BEAIAUS1
+    
+- name: "BEULAH CAPITAL"
+  city: "MELBOURNE"
+  branch: null
+  swift: BEUAAU31
+    
+- name: "BGC PARTNERS (AUSTRALIA) PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: BPUPAU21
+    
+- name: "BIAM AUSTRALIA PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: BAUPAU31
+    
+- name: "BIG SKY BUILDING SOCIETY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: BSBTAU31
+    
+- name: "BLACKROCK ASSET MANAGEMENT AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: BGIAAU2S
+    
+- name: "BLUE OCEAN EQUITIES"
+  city: "SYDNEY"
+  branch: null
+  swift: BLOEAU21
+    
+- name: "BNP PARIBAS AUSTRALIA"
+  city: "SYDNEY"
+  branch: FIXED INCOME AND TREASURY
+  swift: BNPAAU2S200
+    
+- name: "BNP PARIBAS AUSTRALIA"
+  city: "SYDNEY"
+  branch: SYDNEY OFFSHORE BANKING UNIT) (OBU
+  swift: BNPAAU2SOBU
+    
+- name: "BNP PARIBAS AUSTRALIA"
+  city: "SYDNEY"
+  branch: null
+  swift: BNPAAU2S
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1000
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1001
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1002
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1003
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1004
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1005
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1006
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1007
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1008
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1009
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1010
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1011
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1012
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1013
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1014
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1015
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1016
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1017
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1018
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1019
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1020
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1021
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1022
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1023
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1024
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1025
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1026
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1027
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1028
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1029
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1030
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1031
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1032
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1033
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1034
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1035
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1036
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1037
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1038
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1039
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1040
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1041
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1042
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1043
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1044
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1045
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1046
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1047
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1048
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1049
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1050
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1051
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1052
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1053
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1054
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1055
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1056
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1057
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1058
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1059
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1060
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1061
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1062
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1063
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1064
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1065
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch:  SECURITIES SERVICES SYDNEY LOCAL CUSTODY
+  swift: PARBAU2SLCC
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: BP2S AUSTRALIA - NEW ZEALAND ACTIVITY
+  swift: PARBAU2SNZL
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SECURITIES SERVICES SYDNEY GLOBAL CUSTODY
+  swift: PARBAU2SISI
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SECURITIES SERVICES SYDNEY MASTER CUSTODY
+  swift: PARBAU2SMCY
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SECURITIES SERVICES
+  swift: PARBAU2SMIO
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: null
+  swift: PARBAU2S
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: null
+  swift: PARBAUS1
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1066
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1067
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1068
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1069
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1070
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1071
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1072
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1073
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1074
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1075
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1076
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1077
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1078
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1079
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1080
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1081
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1082
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1083
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1084
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1085
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1086
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1087
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1088
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1089
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1090
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1091
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1092
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1093
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1094
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1095
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1096
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1097
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1098
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1099
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1100
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1101
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1102
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1103
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1104
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1105
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1106
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1107
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1108
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1109
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1110
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1111
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1112
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1113
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1114
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1115
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1116
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1117
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1118
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1119
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1120
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1121
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1122
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1123
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1124
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1125
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1126
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1127
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1128
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1129
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1130
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1131
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1132
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1133
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1134
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1135
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1136
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1137
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1138
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1139
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1140
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1141
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1142
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1143
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1144
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1145
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1146
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1147
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1148
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1149
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1150
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1151
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1152
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1153
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1154
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1155
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1156
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1157
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1158
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1159
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1160
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1161
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1162
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1163
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1164
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1165
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1166
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1167
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1168
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1169
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1170
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1171
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1172
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1173
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1174
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1175
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1176
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1177
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1178
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1179
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1180
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1181
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1182
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1183
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1184
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1185
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1186
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1187
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1188
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1189
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1190
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1191
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1192
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1193
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1194
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1195
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1196
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1197
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1198
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1199
+    
+- name: "BNP PARIBAS SERVICES, (AUSTRALIA BRANCH)"
+  city: "SYDNEY"
+  branch: SYDNEY
+  swift: PARBAUS1200
+    
+- name: "BNY AUSTRALIA LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: BONYAU21
+    
+- name: "BNY MELLON ASSET MANAGEMENT AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MGIVAU21
+    
+- name: "BRIDGES FINANCIAL SERVICES PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: BFSPAU21
+    
+- name: "BRITISH AMERICAN TOBACCO AUSTRALIA LTD"
+  city: "EASTGARDENS"
+  branch: null
+  swift: BATSAUA1
+    
+- name: "BRITISH AMERICAN TOBACCO MANUFACTURING AUSTRALIA PTY LTD"
+  city: "EASTGARDENS"
+  branch: null
+  swift: BATSAUB1
+    
+- name: "BT AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: BUTAAU21
+    
+- name: "BT FUNDS MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: FUMAAU21
+    
+- name: "BT INVESTMENT MANAGEMENT (RE) LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: IVMMAUS1
+    
+- name: "BT PORTFOLIO SERVICES PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: BTFGAU22
+    
+- name: "BT PORTFOLIO SERVICES PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: BTFGAU2S
+    
+- name: "BTIG AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: BTAUAU21
+    
+- name: "BUNGEELTAP INVESTMENTS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: FASTAU31
+    
+- name: "BURDETT BUCKERIDGE YOUNG LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: BUBYAU21
+    
+- name: "CALEDONIA INVESTMENTS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: CALIAU21
+    
+- name: "CAMERON SECURITIES PTY. LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CMSCAU21
+    
+- name: "CANACCORD GENUITY (AUSTRALIA) LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: CAYAAU31
+    
+- name: "CANADIAN IMPERIAL BANK OF COMMERCE"
+  city: "SYDNEY"
+  branch: null
+  swift: CIBCAU2S
+    
+- name: "CAPE CREDIT UNION LIMITED"
+  city: "KURNELL"
+  branch: null
+  swift: CPCUAU21
+    
+- name: "CASS COMM LIMITED"
+  city: "ADELAIDE"
+  branch: null
+  swift: ICLFAU3105A
+    
+- name: "CASS COMM LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ICLFAU31
+    
+- name: "CBA EQUITIES LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CBEQAU21
+    
+- name: "CB-CLPF LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: IMORAU21
+    
+- name: "CBH GRAIN PTY LTD"
+  city: "PERTH"
+  branch: null
+  swift: CBHGAU66
+    
+- name: "CCZ STATTON EQUITIES PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: CSEPAU21
+    
+- name: "CENTRAL MURRAY CREDIT UNION LIMITED"
+  city: "YARRAWONGA"
+  branch: null
+  swift: CUCNAU31
+    
+- name: "CENTRAL WEST CREDIT UNION LIMITED"
+  city: "PARKES"
+  branch: null
+  swift: CWCUAU21
+    
+- name: "CERES CAPITAL PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: CECYAU31
+    
+- name: "CHALLENGER FINANCIAL SERVICES GROUP LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CFSGAU21
+    
+- name: "CHALLENGER GROUP SERVICES PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: CHLGAU2S
+    
+- name: "CHANNEL CAPITAL PTY LTD"
+  city: "BRISBANE"
+  branch: null
+  swift: CHAYAU41
+    
+- name: "CHIFLEY FINANCIAL SERVICES LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: CFSEAU21
+    
+- name: "CHIMAERA CAPITAL LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: CHPTAU31
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: OFFSHORE BANKING UNIT
+  swift: PCBCAU2SOBU
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: PCBCAU2S
+    
+- name: "CHINA MERCHANTS BANK CO., LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: CMBCAU2S
+    
+- name: "CITI SMITH BARNEY PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SBCUAU21
+    
+- name: "CITIBANK N.A."
+  city: "SYDNEY"
+  branch: null
+  swift: CITIAUSX
+    
+- name: "CITIGROUP GLOBAL MARKETS AUSTRALIA PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CNSLAU21
+    
+- name: "CITIGROUP GLOBAL MARKETS AUSTRALIA PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SSBSAU2S
+    
+- name: "CITIGROUP PTY LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: CITIAU3X
+    
+- name: "CITIGROUP PTY LIMITED, SYDNEY"
+  city: "SYDNEY"
+  branch: GLOBAL CONSUMER BANKING
+  swift: CITIAU2XGCB
+    
+- name: "CITIGROUP PTY LIMITED, SYDNEY"
+  city: "SYDNEY"
+  branch: REAL TIME GROSS SETTLEMENT
+  swift: CITIAU2XRTG
+    
+- name: "CITIGROUP PTY LIMITED, SYDNEY"
+  city: "SYDNEY"
+  branch: null
+  swift: CITIAU2X
+    
+- name: "CLSA AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: CLSAAU21
+    
+- name: "CMC MARKETS ASIA PACIFIC PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: CMCKAU2S
+    
+- name: "CMC MARKETS STOCKBROKING LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CMMTAU21
+    
+- name: "COASTLINE CREDIT UNION"
+  city: "KEMPSEY"
+  branch: null
+  swift: CTRIAU21
+    
+- name: "COLONIAL FIRST STATE INVESTMENT LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: CFSMAU3M
+    
+- name: "COLONIAL FIRST STATE INVESTMENT LTD"
+  city: "SYDNEY"
+  branch: EXCHANGE TRADED DERIVATIVES
+  swift: CFSMAU3METD
+    
+- name: "COLONIAL FIRST STATE INVESTMENT LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: CFSMAU2S
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "ADELAIDE"
+  branch: null
+  swift: CTBAAU2S500
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "BRISBANE"
+  branch: null
+  swift: CTBAAU2S400
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "DARWIN"
+  branch: null
+  swift: CTBAAU2S800
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "HOBART"
+  branch: null
+  swift: CTBAAU2S700
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "MELBOURNE"
+  branch: EXPORT/IMPORT COLLECTIONS AND DOCUMENTARY CREDITS
+  swift: CTBAAU2S3OT
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "MELBOURNE"
+  branch: MELBOURNE GROUP TREASURY CENTRE
+  swift: CTBAAU2S3FX
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "PERTH"
+  branch: null
+  swift: CTBAAU2S600
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "SYDNEY"
+  branch: CLS CONTROL FUNCTION
+  swift: CTBAAU2SCLS
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "SYDNEY"
+  branch: FOR HEAD OFFICE AND ALL AUSTRALIAN BRANCHES
+  swift: CTBAAU2S
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "SYDNEY"
+  branch: GROUP TREASURY FOREIGN EXCHANGE ACCOUNTING AND SETTLEMENTS
+  swift: CTBAAU2SFXD
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "SYDNEY"
+  branch: INTERNATIONAL TRADE PROCESSING CENTRE
+  swift: CTBAAU2SITS
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA SYDNEY"
+  city: "SYDNEY"
+  branch: OFFSHORE BANKING UNIT
+  swift: CTBAAU2SOBU
+    
+- name: "COMMONWEALTH FUNDS MANAGEMENT LIMITED"
+  city: "CANBERRA"
+  branch: null
+  swift: COFGAU21
+    
+- name: "COMMONWEALTH SECURITIES LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: COEEAU21
+    
+- name: "COMMUNITY ALLIANCE CREDIT UNION LTD"
+  city: "WOLLONGONG"
+  branch: null
+  swift: CLTNAU21
+    
+- name: "COMMUNITY CPS AUSTRALIA LIMITED"
+  city: "ADELAIDE"
+  branch: null
+  swift: CPSUAU51
+    
+- name: "COMMUNITY FIRST CREDIT UNION"
+  city: "AUBURN"
+  branch: null
+  swift: CFCIAU21
+    
+- name: "COMMUNITY MUTUAL LTD (CMG)"
+  city: "ARMIDALE"
+  branch: null
+  swift: CNMCAU21
+    
+- name: "COMPASS GLOBAL HOLDINGS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: CGHPAUS2
+    
+- name: "COMPUTERSHARE FUND SERVICES"
+  city: "ABBOTSFORD"
+  branch: null
+  swift: CPUFAU31
+    
+- name: "COMSEC TRADING LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: FISSAU21
+    
+- name: "CONCORD CAPITAL LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CCPAAU21
+    
+- name: "CONQUEST SECURITIES PTY LTD"
+  city: "HOBART"
+  branch: null
+  swift: COCYAU71
+    
+- name: "CONSTELLATION CAPITAL MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: COOAAU21
+    
+- name: "CONTANGO ASSET MANAGEMENT LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: CNANAU31
+    
+- name: "CONTANGO ASSET MANAGEMENT LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: CNANAU3B
+    
+- name: "CONTINUUM CAPITAL MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CNCMAU21
+    
+- name: "COPIA INVESTMENT PARTNERS"
+  city: "MELBOURNE"
+  branch: null
+  swift: CPIPAU31
+    
+- name: "CREDIT AGRICOLE CIB AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: OFF SHORE BANKING UNIT
+  swift: BSUIAU2SOBU
+    
+- name: "CREDIT AGRICOLE CIB AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: BSUIAU2S
+    
+- name: "CREDIT SUISSE AG, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: PRIVATE BANKING
+  swift: CRESAU2SPBS
+    
+- name: "CREDIT SUISSE AG, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: CRESAU2S
+    
+- name: "CREDIT SUISSE EQUITIES (AUSTRALIA) LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: FPSLAU3M
+    
+- name: "CREDIT SUISSE EQUITIES (AUSTRALIA) LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: FPSLAU3MVIS
+    
+- name: "CREDIT SUISSE INVESTMENT SERVICES (AUSTRALIA) LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: CRESAU2D
+    
+- name: "CREDIT UNION AUSTRALIA LTD"
+  city: "BRISBANE"
+  branch: null
+  swift: CUAUAU41
+    
+- name: "CREDIT UNION SA LTD"
+  city: "ADELAIDE"
+  branch: null
+  swift: CEUIAU51
+    
+- name: "CRESTONE WEALTH MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CRWMAU2S
+    
+- name: "CUSCAL LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CUSCAU2S
+    
+- name: "CUSTODY EXECUTION AND CLEARING SERVICES (AUSTRALIA) PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: HSAPAU21
+    
+- name: "CUSTOM CREDIT COPR. LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: CUCCAU21
+    
+- name: "CUSTOM HOUSE CURRENCY EXCHANGE (AUSTRALIA) PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: CHFXAU2S
+    
+- name: "D J CARMICHAEL PTY LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: CARHAU61
+    
+- name: "D2MX PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: DTMXAU21
+    
+- name: "DAIWA CAPITAL MARKETS AUSTRALIA LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: DWHKAU31
+    
+- name: "DAIWA CAPITAL MARKETS STOCKBROKING LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: DWSBAU31
+    
+- name: "DALTON NICOL REID"
+  city: "BRISBANE"
+  branch: null
+  swift: DANDAU41
+    
+- name: "DARLINGTON INVESTMENT SERVICES"
+  city: "SYDNEY"
+  branch: null
+  swift: DISEAU21
+    
+- name: "DBS BANK LTD., AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: DBSSAU2S
+    
+- name: "DEFENCE BANK LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: DEFEAU31
+    
+- name: "DEUTSCHE ASSET MANAGEMENT (AUSTRALIA) LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MGALAU21
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SYDNEY"
+  branch: DEBT SECURITIES OPS
+  swift: DEUTAU2SDSO
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SYDNEY"
+  branch: OFFSHORE BANKING UNIT
+  swift: DEUTAU2SOBU
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SYDNEY"
+  branch: null
+  swift: DEUTAU2S
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SYDNEY"
+  branch: null
+  swift: DEUTAU2SEQS
+    
+- name: "DEUTSCHE CAPITAL MARKETS AUSTRALIA LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: DCMAAU2S
+    
+- name: "DEUTSCHE HOLDINGS AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: BACLAU21
+    
+- name: "DEUTSCHE SECURITIES"
+  city: "SYDNEY"
+  branch: null
+  swift: DEECAU21
+    
+- name: "DEUTSCHE SECURITIES AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: DEUTAUT1
+    
+- name: "DEUTSCHE SECURITIES AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: DMGSAU2S
+    
+- name: "DICKSONS LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: DICSAU21
+    
+- name: "DIRECT PORTFOLIO SERVICES LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: DIPSAU21
+    
+- name: "DMP ASSET MANAGEMENT LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: DMAAAU31
+    
+- name: "DNISTER UKRAINIAN CREDIT CO-OPERATIVE LIMITED"
+  city: "ESSENDON"
+  branch: null
+  swift: DUCCAU31
+    
+- name: "E.SUN COMMERCIAL BANK, LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: ESUNAUSS
+    
+- name: "EAUSTBOND PROPRIETARY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: EAUSAU21
+    
+- name: "EC POHL AND CO"
+  city: "GOLD COAST"
+  branch: null
+  swift: POHLAU41
+    
+- name: "ECU"
+  city: "WOLLONGONG"
+  branch: null
+  swift: ECUCAU21
+    
+- name: "EECU LIMITED"
+  city: "SOUTHBANK"
+  branch: null
+  swift: EECUAU31
+    
+- name: "EFTPOS PAYMENTS AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: EFPAAU22
+    
+- name: "EIGHT INVESTMENT PARTNERS PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: EIPPAU21
+    
+- name: "EL AND C. BAILLIEU STOCKBROKING LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: BAILAU31
+    
+- name: "ELLERSTON CAPITAL LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ELCIAU21
+    
+- name: "ELSTREE INVESTMENT MANAGEMENT LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: EIMPAU21
+    
+- name: "ENDEAVOR ASSET MANAGEMENT"
+  city: "ALBERT PARK"
+  branch: null
+  swift: ENAMAU31
+    
+- name: "ENFINIUM PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: ENPTAUS1
+    
+- name: "EQUICLEAR PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: EQPTAU31
+    
+- name: "EQUIPSUPER PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: EQPYAU31
+    
+- name: "EQUITY TRUSTEES LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: EQTRAU31
+    
+- name: "EUROZ SECURITIES LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: EUSUAU61
+    
+- name: "EVANS AND PARTNERS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: EVPPAU31
+    
+- name: "EVERGREEN CAPITAL"
+  city: "MELBOURNE"
+  branch: null
+  swift: EVCPAU31
+    
+- name: "FAIRVIEW EQUITY PARTNERS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: FEPTAU31
+    
+- name: "FAMILY FIRST CREDIT UNION LIMITED"
+  city: "LITHGOW"
+  branch: null
+  swift: FFCUAU21
+    
+- name: "FIDELITY INVESTMENTS AUSTRALIA LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: FIILAU21
+    
+- name: "FIDUCIAN PORTFOLIO SERVICES LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: FPOSAU21
+    
+- name: "FIIG SECURITIES LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: FIURAU41
+    
+- name: "FINCLEAR PTY LTD"
+  city: "NORTH SYDNEY"
+  branch: null
+  swift: FIYTAU21
+    
+- name: "FINDLAY AND CO STOCKBROKERS LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: FITOAU21
+    
+- name: "FIRST CHOICE CREDIT UNION LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: FCCNAU31
+    
+- name: "FIRST COMMERCIAL BANK"
+  city: "BRISBANE"
+  branch: null
+  swift: FCBKAU4B
+    
+- name: "FIRST OPTION CREDIT UNION LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: FOEUAU31
+    
+- name: "FITCH AUSTRALIA PTY LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: FRIPAUS1
+    
+- name: "FOCUS ASSET MANAGEMENT PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: FAMYAU21
+    
+- name: "FORD CO-OPERATIVE CREDIT SOCIETY LIMITED"
+  city: "GEELONG"
+  branch: null
+  swift: FCRSAU31
+    
+- name: "FORTESCUE METALS GROUP LTD"
+  city: "PERTH"
+  branch: null
+  swift: FMGLAU6P
+    
+- name: "FORTITUDE CAPITAL PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: FOCPAU21
+    
+- name: "FOSTER STOCKBROKING PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: FSTPAU21
+    
+- name: "FRANKLIN TEMPLETON INVESTMENTS AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: FTIAAU31
+    
+- name: "FREEMAN FOX LTD"
+  city: "BRISBANE"
+  branch: null
+  swift: LANCAU41
+    
+- name: "FSP EQUITIES MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: FSEMAU21
+    
+- name: "FSS TRUSTEE CORPORATION"
+  city: "SYDNEY"
+  branch: null
+  swift: FSSTAU2S
+    
+- name: "FUNDBPO"
+  city: "SYDNEY"
+  branch: null
+  swift: FBPOAU21
+    
+- name: "FUNDBPO PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: FUNPAU2S
+    
+- name: "FW HOLST AND CO PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: HOLPAU31
+    
+- name: "FX CORP PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: PTYPAUS1
+    
+- name: "G AND C MUTUAL BANK (A TRADING NAME OF SGE MUTUAL LIMITED)"
+  city: "SYDNEY"
+  branch: null
+  swift: GCMBAU21
+    
+- name: "GATEWAY CREDIT UNION LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: GCRUAU21
+    
+- name: "GENESIS INVESTMENT MANAGEMENT AUSTRALIA LTD"
+  city: "CRAIGIEBURN"
+  branch: null
+  swift: GIMUAU21
+    
+- name: "GHANDOUR AND CO. PROPRIETARY LIMITED"
+  city: "ADELAIDE"
+  branch: null
+  swift: GHPRAU51
+    
+- name: "GIORGIO ARMANI AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: GAFIAU21
+    
+- name: "GLEBE ASSET MANAGEMENT LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: GLAGAU21
+    
+- name: "GLOBAL VALUE INVESTORS LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: GLVIAU21
+    
+- name: "GMO AUSTRALIA LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: GMOAAU21
+    
+- name: "GMP SECURITIES AUSTRALIA PTY LTD"
+  city: "PERTH"
+  branch: null
+  swift: GSAPAU61
+    
+- name: "GOLD CORPORATION"
+  city: "PERTH"
+  branch: null
+  swift: GCOPAU61
+    
+- name: "GOLDFIELDS MONEY LIMITED"
+  city: "KALGOORLIE"
+  branch: null
+  swift: GOMNAU61
+    
+- name: "GOLDMAN SACHS AUSTRALIA FUTURES PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: GSPAAU31
+    
+- name: "GOLDMAN SACHS AUSTRALIA LLC"
+  city: "SYDNEY"
+  branch: null
+  swift: GOLDAU21
+    
+- name: "GOLDMAN SACHS AUSTRALIA PTY LTD"
+  city: "MELBOURNE"
+  branch: HEAD OFFICE
+  swift: JBWLAU31
+    
+- name: "GOLDMAN SACHS AUSTRALIA PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: JBWLAU31GSA
+    
+- name: "GOLDMAN SACHS FINANCIAL MARKETS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: GOLDAU2S
+    
+- name: "GOLDMAN SACHS FINANCIAL MARKETS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: GOLDAU2SMRA
+    
+- name: "GOLDMAN SACHS JBWERE CAPITAL MARKETS LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: JBWEAU31
+    
+- name: "GOULBURN MURRAY CREDIT UNION CO-OPERATIVE LIMITED"
+  city: "SHEPPARTON"
+  branch: null
+  swift: GMCUAU31
+    
+- name: "GREATER BANK LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: GRTEAU21
+    
+- name: "GREEN LINE INVESTOR SERVICES LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: POSEAU21
+    
+- name: "GRESHAM SECURITIES PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: GSELAU21
+    
+- name: "GUILD CAPITAL ASSET MANAGEMENT LIMITED"
+  city: "HAWTHORN"
+  branch: null
+  swift: GCAMAU31
+    
+- name: "HAMBROS EQUITIES LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: HAEQAU21
+    
+- name: "HARTLEYS LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: HARPAU61
+    
+- name: "HARVEST LANE ASSET MANAGEMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: HLAGAU21
+    
+- name: "HARVEY BAYLEY AND CO."
+  city: "HOBART"
+  branch: null
+  swift: HAEYAU71
+    
+- name: "HASTINGS FUNDS MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: HAFNAU21
+    
+- name: "HEADLAND CAPITAL PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: HECTAU21
+    
+- name: "HERITAGE BANK LIMITED"
+  city: "TOOWOOMBA"
+  branch: null
+  swift: HBSLAU4A
+    
+- name: "HERITAGE BANK LIMITED"
+  city: "TOOWOOMBA"
+  branch: null
+  swift: HBSLAU4T
+    
+- name: "HERITAGE ISLE CREDIT UNION LIMITED"
+  city: "LAUNCESTON"
+  branch: null
+  swift: HICUAU71
+    
+- name: "HERSCHEL ASSET MANAGEMENT LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: HEAMAU31
+    
+- name: "HEWLETT-PACKARD AUSTRALIA PTY. LIMITED"
+  city: "BLACKBURN"
+  branch: null
+  swift: HEAPAU31
+    
+- name: "HFA ASSET MANAGEMENT"
+  city: "BRISBANE"
+  branch: null
+  swift: HFAMAU41
+    
+- name: "HG ASIA LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: ASAAAU21
+    
+- name: "HOGAN AND PARTNERS"
+  city: "PERTH"
+  branch: null
+  swift: HOGPAU61
+    
+- name: "HOLIDAY COAST CREDIT UNION LTD"
+  city: "WAUCHOPE"
+  branch: null
+  swift: HCCUAU21
+    
+- name: "HORIZON CREDIT UNION LTD"
+  city: "WOLLONGONG"
+  branch: null
+  swift: HCRUAU21
+    
+- name: "HSBC BANK AUSTRALIA LIMITED"
+  city: "ADELAIDE"
+  branch: ADELAIDE BRANCH
+  swift: HKBAAU2SADL
+    
+- name: "HSBC BANK AUSTRALIA LIMITED"
+  city: "BRISBANE"
+  branch: BRISBANE BRANCH
+  swift: HKBAAU2SBNE
+    
+- name: "HSBC BANK AUSTRALIA LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: HKBAAU2SMEL
+    
+- name: "HSBC BANK AUSTRALIA LIMITED"
+  city: "PERTH"
+  branch: PERTH BRANCH
+  swift: HKBAAU2SPTH
+    
+- name: "HSBC BANK AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: CLS DIVISION
+  swift: HKBAAU2SCLS
+    
+- name: "HSBC BANK AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: HSBC BANK AUSTRALIA LTD
+  swift: HKBAAU2SBAU
+    
+- name: "HSBC BANK AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: SYDNEY HAYMARKET BRANCH
+  swift: HKBAAU2SSYC
+    
+- name: "HSBC BANK AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: HKBAAU2S
+    
+- name: "HSBC BANK AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: HKBAAU2SSYD
+    
+- name: "HSBC SECURITIES"
+  city: "SYDNEY"
+  branch: null
+  swift: JACAAU21
+    
+- name: "HUA NAN COMMERCIAL BANK SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: HNBKAU2S
+    
+- name: "HUB24 CUSTODIAL SERVICES PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: HSEPAU21
+    
+- name: "HUDSON CONWAY INVESTMENTS PTY LTD"
+  city: "SOUTHBANK"
+  branch: null
+  swift: HCIPAU31
+    
+- name: "HUME BANK LIMITED"
+  city: "ALBURY"
+  branch: null
+  swift: HUMEAU21
+    
+- name: "HUNTER HALL INVESTMENT MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: HHIMAU21
+    
+- name: "HUNTER UNITED EMPLOYEE'S CREDIT UNION LIMITED"
+  city: "BROADMEADOW"
+  branch: null
+  swift: HUECAU21
+    
+- name: "HURLEY AUSTRALIA PTY LIMITED"
+  city: "BROOKVALE"
+  branch: null
+  swift: HUAPAU21
+    
+- name: "HYPERION ASSET MANAGEMENT LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: HYANAU41
+    
+- name: "ICAP FUTURES (AUSTRALIA) PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: IFAYAU21
+    
+- name: "IFM AUSTRALIAN SUPER BUYBACK PORTFOLIO"
+  city: "MELBOURNE"
+  branch: null
+  swift: IASBAU31
+    
+- name: "IFM AUSTRALIAN SUPER PASSIVE AUSTRALIAN EQUITIES"
+  city: "MELBOURNE"
+  branch: null
+  swift: IASPAU31
+    
+- name: "IFM CBUS BUYBACK PORTFOLIO"
+  city: "MELBOURNE"
+  branch: null
+  swift: ICBFAU31
+    
+- name: "IFM CBUS PASSIVE AUSTRALIAN EQUITIES"
+  city: "MELBOURNE"
+  branch: null
+  swift: ICPAAU31
+    
+- name: "IFM HESTA BUYBACK PORTFOLIO"
+  city: "MELBOURNE"
+  branch: null
+  swift: IHBOAU31
+    
+- name: "IFM HESTA PASSIVE AUSTRALIAN EQUITIES"
+  city: "MELBOURNE"
+  branch: null
+  swift: IHPAAU31
+    
+- name: "IFM HOSTPLUS BUYBACK PORTFOLIO"
+  city: "MELBOURNE"
+  branch: null
+  swift: IHBPAU31
+    
+- name: "IFM HOSTPLUS PASSIVE AUSTRALIAN EQUITIES"
+  city: "MELBOURNE"
+  branch: null
+  swift: IHPUAU31
+    
+- name: "IFM INVESTORS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: IFMPAU3A
+    
+- name: "IFM INVESTORS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: IFMPAU3B
+    
+- name: "IFM LEF PST TAX EXEMPT OPTION"
+  city: "MELBOURNE"
+  branch: null
+  swift: ILPAAU31
+    
+- name: "IFM LEF PST TAXED OPTION"
+  city: "MELBOURNE"
+  branch: null
+  swift: ILPTAU31
+    
+- name: "IFM VISION SUPER BUYBACK PORTFOLIO"
+  city: "MELBOURNE"
+  branch: null
+  swift: IVSUAU31
+    
+- name: "IMB LTD TRADING AS IMB BANK"
+  city: "WOLLONGONG"
+  branch: null
+  swift: IMTIAU21
+    
+- name: "IMPERIA INVESTMENT GROUP PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: IIGPAU31
+    
+- name: "INCITEC PIVOT LIMITED"
+  city: "SOUTHBANK"
+  branch: null
+  swift: IPLXAU3M
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: ICBKAU2S
+    
+- name: "INDUSTRY FUNDS MANAGEMENT PTY LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: IFMPAU31
+    
+- name: "ING BANK (AUSTRALIA) LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: INGBAU2S
+    
+- name: "ING BANK NV, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: INGAAU2S
+    
+- name: "INPEX OPERATIONS AUSTRALIA PTY LTD"
+  city: "PERTH"
+  branch: null
+  swift: INPXAU6P
+    
+- name: "INSTINET AUSTRALIA PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ISNTAU21
+    
+- name: "INSTINET AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: IACSAU21
+    
+- name: "INTELLIGENT INVESTOR FUNDS"
+  city: "RUSHCUTTERS BAY"
+  branch: null
+  swift: ITIFAU21
+    
+- name: "INTERACTIVE BROKERS AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: IBKRAU2S
+    
+- name: "INTERSUISSE LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: INSUAU21
+    
+- name: "INTRINSIC INVESTMENT MANAGEMENT PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: IIMYAU31
+    
+- name: "INVESTEC AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: IVESAU22
+    
+- name: "INVESTEC SECURITIES"
+  city: "SYDNEY"
+  branch: null
+  swift: IVECAU21
+    
+- name: "INVESTMENT ADMINISTRATION SERVICES PTY LIMITED"
+  city: "MANLY"
+  branch: null
+  swift: MOPTAU21
+    
+- name: "INVESTORS MUTUAL LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: INMUAU21
+    
+- name: "INVIA CUSTODIAN PTY LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: INUPAU31
+    
+- name: "IOOF FUNDS MANAGEMENT"
+  city: "MELBOURNE"
+  branch: null
+  swift: IOFMAU31
+    
+- name: "IRESS MARKET TECHNOLOGY LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: IRESAU2S
+    
+- name: "ITG AUSTRALIA LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: ITGAAU31
+    
+- name: "ITG AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: BUROAU21
+    
+- name: "J.P. MORGAN AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: SYDNEY MONEY MARKETS
+  swift: JPMAAU2XSMM
+    
+- name: "J.P. MORGAN AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: JPMAAU2X
+    
+- name: "JARDINE FLEMING AUSTRALIA SECURITIES LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: JFASAU21
+    
+- name: "JDV LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: JDVDAU61
+    
+- name: "JF CAPITAL PARTNERS LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: CPPNAU31
+    
+- name: "JFOM PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: JARDAU21
+    
+- name: "JM ASSET MANAGEMENT"
+  city: "MELBOURNE"
+  branch: null
+  swift: ASMEAU31
+    
+- name: "JOSEPH PALMER AND SONS"
+  city: "SYDNEY"
+  branch: null
+  swift: JPALAU21
+    
+- name: "JP MORGAN INVESTMENT MANAGEMENT LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: MOIMAU31
+    
+- name: "JP MORGAN SECURITIES AUSTRALIA LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: JPMSAU2103M
+    
+- name: "JP MORGAN SECURITIES AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: JPMSAU21
+    
+- name: "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: DIRECT CUSTODY AND CLEARING
+  swift: CHASAU2XDCC
+    
+- name: "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: GLOBAL SECURITY SERVICES
+  swift: CHASAU2XGSS
+    
+- name: "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: HEAD OFFICE
+  swift: CHASAU2X
+    
+- name: "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: LOCAL CUSTODY OPERATIONS
+  swift: CHASAU2XLCO
+    
+- name: "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY MONEY MARKET
+  swift: CHASAU2XSMM
+    
+- name: "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY PAYMENT OPERATIONS
+  swift: CHASAU2XSPO
+    
+- name: "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: SYDNEY TREASURY OPERATIONS
+  swift: CHASAU2XSTO
+    
+- name: "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASAU2XKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: TRADE SERVICES DESK
+  swift: CHASAU2XTSD
+    
+- name: "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: WSS LOCAL CUSTODIAN SERVICES
+  swift: CHASAU2XCCS
+    
+- name: "K.J. POLKINGHORNE AND CO. PTY. LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: POLKAU21
+    
+- name: "K2 ASSET MANAGEMENT"
+  city: "MELBOURNE"
+  branch: null
+  swift: ASNTAU31
+    
+- name: "KARARA CAPITAL LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: KARAAU31
+    
+- name: "KATANA CAPITAL LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: KATAAU61
+    
+- name: "KEB HANA BANK SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: KOEXAU2S
+    
+- name: "KELBOURNE SECURITIES LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: KESEAU21
+    
+- name: "KIMA CAPITAL MANAGEMENT PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: KICAAU31
+    
+- name: "KIRKE SECURITIES LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: KIRKAU61
+    
+- name: "KIS CAPITAL PARTNERS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: KCPPAU21
+    
+- name: "L1 CAPITAL"
+  city: "MELBOURNE"
+  branch: null
+  swift: CTPAAU31
+    
+- name: "LABORATORIES CREDIT UNION LIMITED"
+  city: "NORTH RYDE"
+  branch: null
+  swift: LCRNAU21
+    
+- name: "LAMINAR GROUP PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: LAGPAU31
+    
+- name: "LANDS KIRWAN TONG STOCKBROKERS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: LKTSAU31
+    
+- name: "LAZARD ASSET MANAGEMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: LAMNAU21
+    
+- name: "LB MANAGEMENT PTY LTD AS TRUSTEE LAGUNA BAY CAPITAL MT"
+  city: "BRISBANE"
+  branch: null
+  swift: MPTLAU41
+    
+- name: "LEGG MASON ASSET MANAGEMENT AUSTRALIA LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: CAGUAU31
+    
+- name: "LEHMAN BROTHERS AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: GRSUAU21
+    
+- name: "LEHMAN BROTHERS AUSTRALIA SECURITIES PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: LBATAU21
+    
+- name: "LFG HOLDINGS PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: LFGHAU21
+    
+- name: "LHC CAPITAL"
+  city: "SYDNEY"
+  branch: null
+  swift: LHCCAU21
+    
+- name: "LINCOLN INDICATORS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: LIIDAU31
+    
+- name: "LINK FUND SOLUTIONS PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: WHTEAU2S
+    
+- name: "LINWAR SECURITIES PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: LIEPAU21
+    
+- name: "LIQUID CAPITAL AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: LCATAU21
+    
+- name: "LIQUIDNET AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: LIAPAU21
+    
+- name: "LODESTAR CAPITAL PARTNERS PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: LCPPAU21
+    
+- name: "LODGE PARTNERS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: LODGAU31
+    
+- name: "LONSEC LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: LONSAU31
+    
+- name: "LUMINA INVESTMENT MANAGEMENT PTY LTD"
+  city: "CASTLECRAG"
+  branch: null
+  swift: LIMPAU21
+    
+- name: "MACARTHUR CREDIT UNION LIMITED"
+  city: "CAMDEN"
+  branch: null
+  swift: MCCUAU21
+    
+- name: "MACARTHURCOOK FUNDS MANAGEMENT REAL ESTATE INVESTMENT MANAGERS"
+  city: "MELBOURNE"
+  branch: null
+  swift: MFUGAU31
+    
+- name: "MACQUARIE - PRIVATE BROKING"
+  city: "SYDNEY"
+  branch: null
+  swift: MAPBAU21
+    
+- name: "MACQUARIE BANK LIMITED"
+  city: "SYDNEY"
+  branch: FUTURES BROKERAGE
+  swift: MACQAU2STC2
+    
+- name: "MACQUARIE BANK LIMITED"
+  city: "SYDNEY"
+  branch: FUTURES CLEARING
+  swift: MACQAU2STC1
+    
+- name: "MACQUARIE BANK LIMITED"
+  city: "SYDNEY"
+  branch: SECURITIES
+  swift: MACQAU2SSMK
+    
+- name: "MACQUARIE BANK LIMITED"
+  city: "SYDNEY"
+  branch: SECURITY OEPRATIONS
+  swift: MACQAU2SSEC
+    
+- name: "MACQUARIE BANK LIMITED"
+  city: "SYDNEY"
+  branch: VOSTRO ACCOUNT PROCESSING
+  swift: MACQAU2SVOS
+    
+- name: "MACQUARIE BANK LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MACQAU2S
+    
+- name: "MACQUARIE BANK LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MACQAU2SOBU
+    
+- name: "MACQUARIE CREDIT UNION LIMITED"
+  city: "DUBBO"
+  branch: null
+  swift: MCRNAU21
+    
+- name: "MACQUARIE INVESTMENT MANAGEMENT GLOBAL LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MACQAU2I
+    
+- name: "MACQUARIE SECURITIES (AUSTRALIA) LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MSAUAU21
+    
+- name: "MAGELLAN ASSET MANAGEMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: MGAGAU21
+    
+- name: "MAGELLAN ASSET MANAGEMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: MGAGAU22
+    
+- name: "MAITLAND MUTUAL BUILDING SOCIETY LIMITED"
+  city: "MAITLAND"
+  branch: null
+  swift: MMBTAU21
+    
+- name: "MAPLE-BROWN ABBOTT LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: MBBAAU2S
+    
+- name: "MARATHON ASSET MANAGEMENT AUSTRALIA LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: MAMUAU21
+    
+- name: "MARVIN AND PALMER ASSOCIATES INC"
+  city: "SYDNEY"
+  branch: null
+  swift: MAPSAU21
+    
+- name: "MASON STEVENS PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MATYAU21
+    
+- name: "MAXIM ASSET MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SIMPAU21
+    
+- name: "MBA INVESTMENTS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: MBIPAU21
+    
+- name: "MCKINLEY WILSON LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: MCWIAU31
+    
+- name: "MCU LTD (MALENY CREDIT UNION)"
+  city: "MALENY"
+  branch: null
+  swift: MMCIAU41
+    
+- name: "MECU LIMITED"
+  city: "KEW"
+  branch: null
+  swift: MCUUAU31
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD, SYDNEY BRANCH"
+  city: "BRISBANE"
+  branch: BRISBANE BRANCH
+  swift: ICBCAU2SBRI
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD, SYDNEY BRANCH"
+  city: "MELBOURNE"
+  branch: MELBOURNE BRANCH
+  swift: ICBCAU2SMEL
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: ICBCAU2S
+    
+- name: "MEMBERS EQUITY BANK PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: MEQBAU3M
+    
+- name: "MERCANTILE CREDITS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: MECSAU21
+    
+- name: "MERCEDES-BENZ AUSTRALIA/PACIFIC PTY LTD"
+  city: "MULGRAVE"
+  branch: null
+  swift: DCAGAU33
+    
+- name: "MERCEDES-BENZ FINANCIAL SERVICES AUSTRALIA PTY. LTD."
+  city: "MULGRAVE"
+  branch: null
+  swift: DCFSAU33
+    
+- name: "MERCER INVESTMENT CONSULTING"
+  city: "MELBOURNE"
+  branch: null
+  swift: MICTAU31
+    
+- name: "MERRILL LYNCH (AUSTRALIA) PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: MELMAU31
+    
+- name: "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD"
+  city: "MELBOURNE"
+  branch: ML AUSTRALIA NOMINEES OPERATIONS
+  swift: MLEQAU2SMLN
+    
+- name: "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD"
+  city: "MELBOURNE"
+  branch: ML EQUITIES SETTLEMENT OPERATIONS
+  swift: MLEQAU2SMLS
+    
+- name: "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD"
+  city: "SYDNEY"
+  branch: FUTURES AND OPTIONS OPERATIONS
+  swift: MLEQAU2SFFO
+    
+- name: "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD"
+  city: "SYDNEY"
+  branch: ML MARKETS
+  swift: MLEQAU2SMLM
+    
+- name: "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: MLEQAU2S
+    
+- name: "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: MLEQAU2SMLT
+    
+- name: "MERRILL LYNCH EQUITIES AUSTRAILIA LTD. MELBOURNE"
+  city: "SYDNEY"
+  branch: null
+  swift: MLEAAU31
+    
+- name: "MERRILL LYNCH PRIVATE (AUSTRALIA) LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: ROACAU31
+    
+- name: "MF GLOBAL AUSTRALIA LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: MFAUAU41
+    
+- name: "MIDLAND SECURITIES LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: MSLAAU21
+    
+- name: "MILLENNIUM WEALTH"
+  city: "SYDNEY"
+  branch: null
+  swift: MILWAU21
+    
+- name: "MIR INVESTMENT MANAGEMENT PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: MIMAAU21
+    
+- name: "MIZUHO BANK, LTD. SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: MHCBAU2S
+    
+- name: "MM AND E CAPITAL"
+  city: "MELBOURNE"
+  branch: null
+  swift: MMECAU31
+    
+- name: "MMC ASSET MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MMAMAU21
+    
+- name: "MOBIS PARTS AUSTRALIA, PTY LTD."
+  city: "BLACK ROCK"
+  branch: null
+  swift: HYMOAU21
+    
+- name: "MOELIS AUSTRALIA SECURITIES PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: MASYAU21
+    
+- name: "MONTAGU STOCKBROKERS PTY LTD"
+  city: "PERTH"
+  branch: null
+  swift: MONPAU61
+    
+- name: "MONTERREY INVESTMENT MANAGEMENT LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: MIMGAU31
+    
+- name: "MONTGOMERY INVESTMENT MANAGEMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: MOIGAU21
+    
+- name: "MOODY'S INVESTORS SERVICE PTY. LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: MIEPAU21
+    
+- name: "MORGAN STANLEY AUSTRALIA SECURITIES LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: MSDIAU21
+    
+- name: "MORGAN STANLEY INTERNATIONAL INCORPORATED"
+  city: "SYDNEY"
+  branch: null
+  swift: MSIIAU21
+    
+- name: "MORGAN STANLEY INVESTMENT MANAGEMENT"
+  city: "MELBOURNE"
+  branch: null
+  swift: MSIMAU31
+    
+- name: "MORGAN STANLEY WEALTH MANAGEMENT AUSTRALIA PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: MSSYAU31
+    
+- name: "MORGANS FINANCIAL LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: ABAOAU41
+    
+- name: "MORGANS FINANCIAL LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: ABAOAU41BNE
+    
+- name: "MORPHIC ASSET MANAGEMENT PTY LIMITED"
+  city: "SYDNEY"
+  branch: TRIUM MORPHIC ETHICAL EQUITIES FUND
+  swift: MAAYAU21MTE
+    
+- name: "MORPHIC ASSET MANAGEMENT PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MAAYAU21
+    
+- name: "MORPHIC ASSET MANAGEMENT PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MAAYAU21LIC
+    
+- name: "MORRISON SECURITIES PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MOEPAU21
+    
+- name: "MST CAPITAL PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: MSCTAUS1
+    
+- name: "MWH CAPITAL PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: MWCPAU31
+    
+- name: "MY CREDIT UNION LIMITED"
+  city: "HOMEBUSH BAY"
+  branch: null
+  swift: MYCRAU21
+    
+- name: "MYSTATE BANK LIMITED"
+  city: "HOBART"
+  branch: null
+  swift: MYSTAU71
+    
+- name: "NABINVEST CAPITAL PARTNERS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: NBNVAU2S
+    
+- name: "NAOS ASSET MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: NAOSAU21
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "ADELAIDE"
+  branch: TRADE AND INTERNATIONAL PAYMENTS
+  swift: NATAAU3305A
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "BRISBANE"
+  branch: TRADE AND INTERNATIONAL PAYMENTS
+  swift: NATAAU3304B
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "DARWIN"
+  branch: null
+  swift: NATAAU3308D
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "HOBART"
+  branch: TASMANIA INTERNATIONAL SERVICE CENTRE
+  swift: NATAAU3307H
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "MELBOURNE"
+  branch: ASSET SERVICING
+  swift: NATAAU3303X
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "MELBOURNE"
+  branch: CLS CONTROL BRANCH
+  swift: NATAAU33CLS
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "MELBOURNE"
+  branch: HEAD OFFICE
+  swift: NATAAU33033
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "MELBOURNE"
+  branch: OFFSHORE BANKING UNIT
+  swift: NATAAU33OBU
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "MELBOURNE"
+  branch: TRADE AND INTERNATIONAL PAYMENTS
+  swift: NATAAU3303M
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "MELBOURNE"
+  branch: TREASURY OPERATIONS
+  swift: NATAAU3303T
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "MELBOURNE"
+  branch: VOSTRO CLIENT SERVICES
+  swift: NATAAU33032
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: NATAAU33
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "PERTH"
+  branch: PERTH, BNZA DIVISION
+  swift: NATAAU3306Z
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "PERTH"
+  branch: TRADE AND INTERNATIONAL PAYMENTS
+  swift: NATAAU3306P
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "SYDNEY"
+  branch: CUSTODIAN SERVICES
+  swift: NATAAU3302X
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "SYDNEY"
+  branch: SYDNEY, BNZA DIVISION
+  swift: NATAAU3302Z
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "SYDNEY"
+  branch: TRADE AND INTERNATIONAL PAYMENTS
+  swift: NATAAU3302S
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "WANTIRNA SOUTH"
+  branch: BILATERAL AUTHENTICATION KEY MANAGEMENT OFFICE
+  swift: NATAAU3302J
+    
+- name: "NATIONAL AUSTRALIA SECURITIES LIMITED"
+  city: "DOCKLANDS"
+  branch: null
+  swift: NAAEAU31
+    
+- name: "NATIONAL ONLINE TRADING LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: NAOTAU61
+    
+- name: "NATIONAL WESTMINSTER FINANCE AUSTRALIA LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: NWFAAU21
+    
+- name: "NEW SOUTH WALES TREASURY CORPORATION"
+  city: "SYDNEY"
+  branch: null
+  swift: NSWTAU21
+    
+- name: "NEWCASTLE PERMANENT BUILDING SOCIETY LIMITED"
+  city: "NEWCASTLE WEST"
+  branch: null
+  swift: NPBOAU21
+    
+- name: "NICHOLAS-APPLEGATE CAPITAL MANAGEMENT-A CALIFORNIALIMITED PARTNERSHIP"
+  city: "MELBOURNE"
+  branch: null
+  swift: NACAAU31
+    
+- name: "NIKE AUSTRALIA PTY. LTD."
+  city: "ABBOTSFORD"
+  branch: null
+  swift: NIKEAU31
+    
+- name: "NIKKO SECURITIES (AUSTRALIA) LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: NSEAAU21
+    
+- name: "NOMURA AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: NOAUAU2S
+    
+- name: "NORTHCAPE CAPITAL PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: HICTAU21
+    
+- name: "NORTHERN INLAND CREDIT UNION LIMITED"
+  city: "TAMWORTH"
+  branch: null
+  swift: NICUAU21
+    
+- name: "OASIS ASSET MANAGEMENT LIMITED"
+  city: "WOLLONGONG"
+  branch: null
+  swift: OAAMAU21
+    
+- name: "OC FUNDS MANAGEMENT"
+  city: "MELBOURNE"
+  branch: null
+  swift: OPCAAU31
+    
+- name: "OCEANIC SUN COLLABORATIVE GROUP"
+  city: "GOLD COAST"
+  branch: null
+  swift: OSCGAU41
+    
+- name: "OLIVETREE SECURITIES (ASIA)"
+  city: "SYDNEY"
+  branch: null
+  swift: OLVTAU21
+    
+- name: "OMEGA GLOBAL INVESTORS"
+  city: "MELBOURNE"
+  branch: null
+  swift: OMGIAU31
+    
+- name: "ONESTEEL TRADING PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ARUMAU2S
+    
+- name: "OPENMARKETS AUSTRALIA LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: OPAUAU31
+    
+- name: "OPES PRIME STOCKBROKING LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: OPPSAU31
+    
+- name: "OPHIR ASSET MANAGEMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: OPANAU21
+    
+- name: "OPTIONS CLEARING HOUSE PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: XAOMAU21
+    
+- name: "OPTIVER AUSTRALIA PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: OPAPAU21
+    
+- name: "ORANGE CREDIT UNION LIMITED"
+  city: "ORANGE"
+  branch: null
+  swift: OCRNAU21
+    
+- name: "ORCHARD FUNDS MANAGEMENT LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: ORFMAU31
+    
+- name: "ORD MINNETT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ORDSAU21
+    
+- name: "ORICA LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: ORICAU33
+    
+- name: "ORION ASSET MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ORAMAU21
+    
+- name: "OVERSEA-CHINESE BANKING CORPORATION LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: OCBCAU2S
+    
+- name: "OZFOREX LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: OZFXAU2S
+    
+- name: "P.M. CAPITAL LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: CPPAAU21
+    
+- name: "PARADICE INVESTMENT MANAGEMENT PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: PIMTAU21
+    
+- name: "PATERSON ORD MINNETT LTD"
+  city: "PERTH"
+  branch: null
+  swift: OMGLAU61
+    
+- name: "PATERSONS ASSET MANAGEMENT"
+  city: "PERTH"
+  branch: null
+  swift: PAEMAU61
+    
+- name: "PATERSONS SECURITIES LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: PSECAU61
+    
+- name: "PCF SECURITIES PTY LTD"
+  city: "PERTH"
+  branch: null
+  swift: PCSPAU61
+    
+- name: "PEGASUS ASSET MANAGEMENT LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: PEGAAU31
+    
+- name: "PENGANA CAPITAL LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: PENCAU21
+    
+- name: "PEOPLE'S CHOICE CREDIT UNION"
+  city: "ADELAIDE"
+  branch: null
+  swift: PCCNAU51
+    
+- name: "PEREGRINE CAPITAL AUSTRALIA PTY LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: PEGRAU41
+    
+- name: "PERENNIAL INVESTMENT PARTNERS"
+  city: "MELBOURNE"
+  branch: PERENNIAL INVESTMENT PARTNERS - DOMESTIC
+  swift: PEIPAU31MEL
+    
+- name: "PERENNIAL INVESTMENT PARTNERS"
+  city: "MELBOURNE"
+  branch: null
+  swift: PEIPAU31
+    
+- name: "PERENNIAL INVESTMENT PARTNERS LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: PEIAAU31
+    
+- name: "PERENNIAL VALUE MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: PEVMAU21
+    
+- name: "PERENNIAL VALUE MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: PEVMAU2B
+    
+- name: "PERPETUAL INVESTMENTS"
+  city: "SYDNEY"
+  branch: null
+  swift: PERNAU21
+    
+- name: "PERSHING SECURITIES AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: PFSAAU21
+    
+- name: "PERSHING SECURITIES AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: PSALAU21
+    
+- name: "PETRA CAPITAL PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: PEAPAU21
+    
+- name: "PHOENIX SOFT CORP LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: PSCLAU21
+    
+- name: "PIMCO AUSTRALIA PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: PIMAAU21
+    
+- name: "PINNACLE INTERNATIONAL EQUITIES LTD"
+  city: "BRISBANE"
+  branch: null
+  swift: PIIEAU41
+    
+- name: "PLAN B"
+  city: "PERTH"
+  branch: null
+  swift: PLNNAU61
+    
+- name: "PLAN B TRUSTEES LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: PLANAU61
+    
+- name: "PLATINIUM ASSET MANAGEMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: PLAGAU21
+    
+- name: "PLATO INVESTMENT MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: PLIMAU21
+    
+- name: "PLATYPUS ASSET MANAGEMENT PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: PLSMAU21
+    
+- name: "POLICE AND NURSES LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: PLNSAU61
+    
+- name: "POLICE BANK LTD"
+  city: "SURRY HILLS"
+  branch: null
+  swift: POIEAU21
+    
+- name: "POLICE CREDIT UNION LIMITED"
+  city: "ADELAIDE"
+  branch: null
+  swift: PCRNAU51
+    
+- name: "POLICE FINANCIAL SERVICES LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: POFVAU31
+    
+- name: "PORTFOLIO PARTNERS LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: PORPAU31
+    
+- name: "PREMA CAPITAL LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ODDLAU21
+    
+- name: "PRIME PARTNERS"
+  city: "GLADESVILLE"
+  branch: null
+  swift: PRRAAU21
+    
+- name: "PRIME VALUE ASSET MANAGEMENT LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: PVAAAU31
+    
+- name: "PRODIGAL PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: PPTYAU21
+    
+- name: "QBE INSURANCE"
+  city: "SYDNEY"
+  branch: null
+  swift: QBEGAU2S
+    
+- name: "QBE MANAGEMENT SERVICES PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: QMSPAU21
+    
+- name: "QED CAPITAL PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: QECPAU21
+    
+- name: "QIC LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: QICBAU41
+    
+- name: "QPCU LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: QPUUAU41
+    
+- name: "QSUPER LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: QSUPAU41
+    
+- name: "QT MUTUAL BANK LIMITED"
+  city: "FORTITUDE VALLEY"
+  branch: null
+  swift: QTMBAU41
+    
+- name: "QUAY GLOBAL INVESTORS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: QGIPAU21
+    
+- name: "QUDOS MUTUAL LIMITED"
+  city: "MASCOT"
+  branch: null
+  swift: QUMAAU21
+    
+- name: "QUEENSLAND COUNTRY CREDIT UNION LIMITED"
+  city: "AITKENVALE"
+  branch: null
+  swift: QCCNAU41
+    
+- name: "QUEENSLAND TREASURY CORPORATION"
+  city: "BRISBANE"
+  branch: null
+  swift: QLDTAU4B
+    
+- name: "QUEENSLANDERS CREDIT UNION"
+  city: "BRISBANE"
+  branch: null
+  swift: QUCUAU41
+    
+- name: "R AND D HESLOP HOLDINGS PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: AXAAAU31
+    
+- name: "RABOBANK AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: RABOAUSS
+    
+- name: "RABOBANK AUSTRALIA LIMITED (FORMERLY PIBA)"
+  city: "SYDNEY"
+  branch: null
+  swift: RABOAU2B
+    
+- name: "RAILWAYS CREDIT UNION LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: RARUAU41
+    
+- name: "RALTON ASSET MANAGEMENT LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: RAMMAU31
+    
+- name: "RARE INFRASTRUCTURE LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: RAIRAU21
+    
+- name: "RBC CAPITAL MARKETS"
+  city: "SYDNEY"
+  branch: null
+  swift: RBCMAU21
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: IS PLATFORM CLIENT
+  swift: ROYCAUSGIMP
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: RBC DEXIA PLATFORM CLIENT
+  swift: ROYCAUSGCSL
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: RBC DEXIA PLATFORM CLIENT
+  swift: ROYCAUSGMPT
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: RBC DEXIA PLATFORM CLIENT
+  swift: ROYCAUSGNTH
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: RBC DEXIA PLATFORM CLIENT
+  swift: ROYCAUSGPWF
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: RBC DEXIA PLATFORM CLIENT
+  swift: ROYCAUSGSUM
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: RBC DEXIA PLATFORM CLIENT
+  swift: ROYCAUSGSYN
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: RBC DEXIA PLATFORM CLIENT
+  swift: ROYCAUSGTLK
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: UX CHANGE
+  swift: ROYCAUSGUXH
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: YARRA
+  swift: ROYCAUSGYCM
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: ROYCAUSG
+    
+- name: "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: ROYCAUSS
+    
+- name: "RCM CAPITAL MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: ADSAAU21
+    
+- name: "REDPOINT INVESTMENT MANAGEMENT PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: REDTAU21
+    
+- name: "RESERVE BANK OF AUSTRALIA"
+  city: "SYDNEY"
+  branch: null
+  swift: RSBKAU2S
+    
+- name: "RESOLUTION CAPITAL LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: RECPAU21
+    
+- name: "RESOURCE REAL ESTATE GLOBAL PROPERTY SECURITIES (AUSTRALIA) LTD"
+  city: "BRISBANE"
+  branch: null
+  swift: RREGAU41
+    
+- name: "REYNOLDS AND CO. PTY LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: REYNAU21
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "SYDNEY"
+  branch: null
+  swift: RBDOAUB1
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "SYDNEY"
+  branch: null
+  swift: ROYCAU2S
+    
+- name: "RSLE HOLDINGS CORPORATION PTY LIMITED"
+  city: "MIRRABOOKA"
+  branch: null
+  swift: RHCPAU61
+    
+- name: "RUSSELL INVESTMENT GROUP PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: RUIGAU21
+    
+- name: "SAMSUNG ELECTRONICS AUSTRALIA PTY. LTD."
+  city: "HOMEBUSH BAY"
+  branch: SEAU
+  swift: SECTAU21560
+    
+- name: "SAMSUNG ELECTRONICS AUSTRALIA PTY. LTD."
+  city: "HOMEBUSH BAY"
+  branch: null
+  swift: SECTAU21
+    
+- name: "SANDHURST TRUSTEES LIMITED"
+  city: "BENDIGO"
+  branch: null
+  swift: SATRAU31
+    
+- name: "SCHRODER INVESTMENT MANAGEMENT AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SIMAAU21
+    
+- name: "SCHRODERS INVESTMENT MANAGEMENT AUSTRALIA LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: SIASAU21
+    
+- name: "SCOTT FOSTER AND PARTNERS"
+  city: "SYDNEY"
+  branch: null
+  swift: SCOTAU21
+    
+- name: "SELECT ASSET MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SESMAU21
+    
+- name: "SELECT ENCOMPASS CREDIT UNION LTD"
+  city: "SURRY HILLS"
+  branch: null
+  swift: ECRUAU21
+    
+- name: "SELECTOR FUNDS MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SEUMAU21
+    
+- name: "SENECA TRADING PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: STPYAU21
+    
+- name: "SENTINEL FINANCIAL GROUP PTY LTD"
+  city: "PERTH"
+  branch: null
+  swift: SFGPAU61
+    
+- name: "SG HISCOCK AND COMPANY LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: HICNAU31
+    
+- name: "SGHCP PTY LTD   SUITE 705"
+  city: "SYDNEY"
+  branch: null
+  swift: SGPSAU21
+    
+- name: "SHADFORTHS LTD."
+  city: "HOBART"
+  branch: null
+  swift: SHADAU71
+    
+- name: "SHAW STOCKBROKING LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SHSGAU21
+    
+- name: "SHINHAN BANK CO., LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: SHBKAU2S
+    
+- name: "SINCLAIR KNIGHT MERZ PTY LTD"
+  city: "ST. LEONARDS"
+  branch: null
+  swift: SKMGAU21
+    
+- name: "SINGAPORE POWER INTERNATIONAL (AUSTRALIA) PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: SOAUAU31
+    
+- name: "SMALLCO INVESTMENT MANAGER LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SMIAAU21
+    
+- name: "SMF FUNDS MANAGEMENT LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: SMFMAU31
+    
+- name: "SMF SUPEROPTIONS PROPRIETARY LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: HAMRAU31
+    
+- name: "SMITH NEW COURT AUSTRALIA LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: SNCAAU21
+    
+- name: "SOCIETE GENERALE SECURITIES AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: NEWGAU2S
+    
+- name: "SOCIETE GENERALE, AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: SOGEAU21
+    
+- name: "SOLARIS INVESTMENT MANAGEMENT LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: SOITAU41
+    
+- name: "SOULS FUNDS MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SOFGAU21
+    
+- name: "SOUTH WEST CREDIT UNION CO-OPERATIVE LIMITED"
+  city: "WARRNAMBOOL"
+  branch: null
+  swift: SWRUAU31
+    
+- name: "SOUTH WEST SLOPES CREDIT UNION LTD"
+  city: "YOUNG"
+  branch: null
+  swift: SWSRAU21
+    
+- name: "SOUTH32 LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: STHHAU4B
+    
+- name: "SOUTHERN CROSS EQUITIES LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: INARAU21
+    
+- name: "SOUTHERN CROSS EQUITIES LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SOCQAU21
+    
+- name: "SPECTRUM ASSET MANAGEMENT LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SPAGAU21
+    
+- name: "SPHERIA ASSET MANAGEMENT PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SAAYAUS1
+    
+- name: "SPITFIRE ASSET MANAGMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: SIENAU21
+    
+- name: "ST HELENS CAPITAL PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: STHEAU21
+    
+- name: "ST.GEORGE BANK, A DIVISION OF WESTPAC BANKING CORPORATION"
+  city: "SYDNEY"
+  branch: null
+  swift: SGBLAU2S
+    
+- name: "STANDARD CHARTERED BANK, AUSTRALIA"
+  city: "SYDNEY"
+  branch: null
+  swift: SCBLAU2S
+    
+- name: "STATE BANK OF INDIA"
+  city: "SYDNEY"
+  branch: null
+  swift: SBINAU2S
+    
+- name: "STATE ONE STOCKBROKING LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: STOTAU61
+    
+- name: "STATE STREET AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SSALAU2X
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: OFFSHORE BANKING UNIT
+  swift: SBOSAU2XOBU
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: SBOSAU2X
+    
+- name: "STATE STREET GLOBAL ADVISORS AUSTRALIA LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: SSGDAU21
+    
+- name: "STATTON SECURITIES"
+  city: "SYDNEY"
+  branch: null
+  swift: STATAU21
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: SMBCAU2S
+    
+- name: "SUMITOMO MITSUI FINANCE AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SIFAAU21
+    
+- name: "SUMITOMO TRUST FINANCE (AUSTRALIA) LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: SUMAAU21
+    
+- name: "SUMMERLAND CREDIT UNION LIMITED"
+  city: "LISMORE"
+  branch: null
+  swift: SURNAU21
+    
+- name: "SUNCORP CUSTODIAN SERVICES"
+  city: "SYDNEY"
+  branch: null
+  swift: SUCVAU21
+    
+- name: "SUNCORP LIFE AND SUPER"
+  city: "SYDNEY"
+  branch: null
+  swift: SULUAU21
+    
+- name: "SUNCORP-METWAY LIMITED"
+  city: "BRISBANE"
+  branch: INTERNATIONAL TRADE FINANCE
+  swift: METWAU4BITF
+    
+- name: "SUNCORP-METWAY LIMITED"
+  city: "BRISBANE"
+  branch: RETAIL FOREIGN CURRENCY SERVICES
+  swift: METWAU4BFCS
+    
+- name: "SUNCORP-METWAY LIMITED"
+  city: "BRISBANE"
+  branch: TREASURY OPERATIONS
+  swift: METWAU4BTSY
+    
+- name: "SUNCORP-METWAY LIMITED"
+  city: "BRISBANE"
+  branch: null
+  swift: METWAU4B
+    
+- name: "SUPER INVESTMENT MANAGEMENT PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: SIAYAU31
+    
+- name: "SWISS REINSURANCE COMPANY"
+  city: "SYDNEY"
+  branch: null
+  swift: SWREAU2S
+    
+- name: "SYDNEY CREDIT UNION LTD"
+  city: "BLACKTOWN"
+  branch: null
+  swift: SYCUAU21
+    
+- name: "TAISHIN INTERNATIONAL BANK CO., LTD"
+  city: "BRISBANE"
+  branch: null
+  swift: TSIBAU44
+    
+- name: "TAIWAN BUSINESS BANK, SYDNEY BRANCH"
+  city: "BRISBANE"
+  branch: BRISBANE BRANCH
+  swift: MBBTAU2SBRI
+    
+- name: "TAIWAN BUSINESS BANK, SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: MBBTAU2S
+    
+- name: "TAIWAN COOPERATIVE BANK, LTD. SYDNEY BRANCH"
+  city: "MELBOURNE"
+  branch: MELBOURNE BRANCH
+  swift: TACBAU2S996
+    
+- name: "TAIWAN COOPERATIVE BANK, LTD. SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: TACBAU2S
+    
+- name: "TASMAN FOREIGN EXCHANGE PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: TFEPAUS1
+    
+- name: "TAURUS FUNDS MANAGEMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: TAFGAU21
+    
+- name: "TAYLOR COLLISON LTD."
+  city: "ADELAIDE"
+  branch: null
+  swift: TAYLAU51
+    
+- name: "TEACHERS MUTUAL BANK LIMITED"
+  city: "SILVERWATER"
+  branch: null
+  swift: TMUTAU21
+    
+- name: "TELSTRA CORPORATION LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: TLSCAU33
+    
+- name: "TELSTRA SUPER PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: TSUPAU31
+    
+- name: "TELSTRA SUPER PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: TSUPAU3B
+    
+- name: "TFP GROUP (WA) PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: TFGPAU21
+    
+- name: "THE AUSTRALIAN NATIONAL REGISTRY OF EMISSIONS UNITS"
+  city: "CANBERRA"
+  branch: null
+  swift: ANRMAU21
+    
+- name: "THE BANK OF NEW YORK MELLON, AUSTRALIA"
+  city: "SYDNEY"
+  branch: null
+  swift: BNYMAU2S
+    
+- name: "THE BANK OF NEW YORK MELLON, AUSTRALIA"
+  city: "SYDNEY"
+  branch: null
+  swift: BNYMAU2SCTA
+    
+- name: "THE BANK OF NOVA SCOTIA"
+  city: "SYDNEY"
+  branch: null
+  swift: NOSCAU2S
+    
+- name: "THE CAPRICORNIAN LTD"
+  city: "ROCKHAMPTON"
+  branch: null
+  swift: CPNIAU41
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SYDNEY"
+  branch: AUSTRALIAN BRANCH
+  swift: HSBCAU2SBAP
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SYDNEY"
+  branch: CLS DIVISION
+  swift: HSBCAU2SCLS
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: HSBCAU2S
+    
+- name: "THE LUTHERAN LAYPEOPLE'S LEAGUE OF AUSTRALIA INCORPORATED"
+  city: "ADELAIDE"
+  branch: null
+  swift: LLLAAU51
+    
+- name: "THE PORTLAND HOUSE GROUP PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: PHGYAU31
+    
+- name: "THE TRUST COMPANY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: TRCUAU21
+    
+- name: "THE VAULT AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: VAAPAU21
+    
+- name: "THIRD PARTY PLATFORM PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: TPPPAUS1
+    
+- name: "THONEMANN ROBERTSON THOMPSON PTY LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: THONAU31
+    
+- name: "THREE FISH ASSET MANAGEMENT PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: TFAAAU31
+    
+- name: "TIMBER HILL AUSTRALIA PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: THAPAU21
+    
+- name: "TIR SECURITIES (AUSTRALIA) PTY. LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: STIRAU31
+    
+- name: "TOLHURST LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: TOLNAU31
+    
+- name: "TOTUS ALPHA MANAGEMENT PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: TAMTAU21
+    
+- name: "TOTUS CAPITAL PTY LTD ATF THE TOTUS ALPHA FUND"
+  city: "SYDNEY"
+  branch: null
+  swift: TCPTAU21
+    
+- name: "TOWER AUSTRALIA LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: TOAUAU21
+    
+- name: "TRADITIONAL CREDIT UNION"
+  city: "CASUARINA"
+  branch: null
+  swift: TARUAU81
+    
+- name: "TRANSMARKET TRADING PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: TRTPAU21
+    
+- name: "TRAVELEX LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: TRAVAU21
+    
+- name: "TREASURY GROUP"
+  city: "SYDNEY"
+  branch: null
+  swift: TRGPAU21
+    
+- name: "TRIBECA INVESTMENT PARTNERS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: JIMPAU21
+    
+- name: "TRICOM EQUITIES LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: TREQAU21
+    
+- name: "TRONOX GLOBAL HOLDINGS PTY LIMITED"
+  city: "BENTLEY"
+  branch: null
+  swift: TGHPAU66
+    
+- name: "TTT MONEYCORP PTY LTD"
+  city: "PERTH"
+  branch: null
+  swift: TTMPAU61
+    
+- name: "TWO TREES INVESTMENT MANAGEMENT PTY LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: TTIAAU21
+    
+- name: "TYNDALL INVESTMENT MANAGEMENT"
+  city: "SYDNEY"
+  branch: null
+  swift: TYINAU21
+    
+- name: "UBS AG AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: BRANCH FOA
+  swift: UBSWAU2SFOA
+    
+- name: "UBS AG AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: OFF. BANK. UNIT
+  swift: UBSWAU2SOBU
+    
+- name: "UBS AG AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: WMA DEPT
+  swift: UBSWAU2SWMA
+    
+- name: "UBS AG AUSTRALIA BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: UBSWAU2S
+    
+- name: "UBS GLOBAL ASSET MANAGEMENT (AUSTRALIA) LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: UGAMAU21
+    
+- name: "UBS SECURITIES AUSTRALIA LTD"
+  city: "SYDNEY"
+  branch: NEW UBS AUST BIC POST SETTLEMENT SYSTEM MIGRATION
+  swift: UWAEAU21SSE
+    
+- name: "UBS SECURITIES AUSTRALIA LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: UWAEAU21
+    
+- name: "UGL ENGINEERING PTY LTD"
+  city: "NORTH SYDNEY"
+  branch: null
+  swift: UGLLAU21
+    
+- name: "UGL SERVICES PTY LTD"
+  city: "NORTH SYDNEY"
+  branch: null
+  swift: DTZLAU21
+    
+- name: "UNAVAL HOLDINGS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: HECSAU21
+    
+- name: "UNION BANK OF INDIA"
+  city: "SYDNEY"
+  branch: null
+  swift: UBINAU2S
+    
+- name: "UNISUPER LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: UNMAAU31
+    
+- name: "UNISUPER LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: UNMAAU3M
+    
+- name: "UNITED OVERSEAS BANK LTD."
+  city: "SYDNEY"
+  branch: null
+  swift: UOVBAU2S
+    
+- name: "UNITY BANK LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: MMPCAU21
+    
+- name: "USCPB PTY LTD."
+  city: "SUBIACO"
+  branch: null
+  swift: USPYAU61
+    
+- name: "VANGUARD INVESTMENTS AUSTRALIA LTD"
+  city: "SOUTHBANK"
+  branch: null
+  swift: VGRDAU3M
+    
+- name: "VELOCITY TRADE LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: VELTAU21
+    
+- name: "VERITAS SECURITIES LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: VERCAU21
+    
+- name: "VERTEX CAPITAL MANAGEMENT LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: VECMAU21
+    
+- name: "VICHINGO GLOBAL INVESTORS FUND"
+  city: "SYDNEY"
+  branch: null
+  swift: VGIFAU21
+    
+- name: "VICTORIA TEACHERS LIMITED"
+  city: "MELBOURNE"
+  branch: null
+  swift: VITCAU31
+    
+- name: "VICTORIAN FUNDS MANAGEMENT CORPORATION"
+  city: "MELBOURNE"
+  branch: null
+  swift: VFMCAU31
+    
+- name: "VINTON SMITH, DOUGALL LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: VINTAU31
+    
+- name: "WALLARA ASSET MANAGEMENT PTY. LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: WALAAU31
+    
+- name: "WARAKIRRI ASSET MANAGEMENT PTY LTD"
+  city: "MELBOURNE"
+  branch: null
+  swift: WAMAAU31
+    
+- name: "WARWICK CREDIT UNION LTD"
+  city: "WARWICK"
+  branch: null
+  swift: WCRUAU41
+    
+- name: "WAW CREDIT UNION CO-OPERATIVE LIMITED"
+  city: "WODONGA"
+  branch: null
+  swift: WCUCAU31
+    
+- name: "WEIR MINERALS AUSTRALIA LIMITED"
+  city: "ARTARMON"
+  branch: null
+  swift: WMALAU2S
+    
+- name: "WESFARMERS LIMITED"
+  city: "PERTH"
+  branch: null
+  swift: WEFFAU6P
+    
+- name: "WESTOZ INVESTMENT MANAGEMENT"
+  city: "MELBOURNE"
+  branch: null
+  swift: WEIMAU51
+    
+- name: "WESTPAC BANKING CORPORATION"
+  city: "SYDNEY"
+  branch: FOR ALL NEW SOUTH WALES BRANCHES
+  swift: WPACAU2S
+    
+- name: "WESTPAC BANKING CORPORATION"
+  city: "SYDNEY"
+  branch: OFFSHORE BANKING UNIT
+  swift: WPACAU2FOBU
+    
+- name: "WESTPAC BANKING CORPORATION"
+  city: "SYDNEY"
+  branch: null
+  swift: WPACAU2F
+    
+- name: "WESTPAC RE LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: WETPAUS1
+    
+- name: "WESTPAC SECURITIES LIMITED"
+  city: "SYDNEY"
+  branch: null
+  swift: WSECAU21
+    
+- name: "WHEELHOUSE INVESTMENT PARTNERS PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: WIPPAUS1
+    
+- name: "WHITE OUTSOURCING PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: WFMPAU21
+    
+- name: "WILLIAM NOALL LTD."
+  city: "MELBOURNE"
+  branch: null
+  swift: NOALAU31
+    
+- name: "WILSON ASSET MANAGEMENT (INTERNATIONAL) PTY LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: WAMIAUS1
+    
+- name: "WILSON HTM LTD."
+  city: "BRISBANE"
+  branch: null
+  swift: WIHTAU41
+    
+- name: "WKJ PTY LTD"
+  city: "BRISBANE"
+  branch: null
+  swift: PEJOAU41
+    
+- name: "WOORI BANK SYDNEY BRANCH"
+  city: "SYDNEY"
+  branch: null
+  swift: HVBKAU2S
+    
+- name: "ZURICH FINANCIAL SERVICES AUSTRALIA LTD"
+  city: "SYDNEY"
+  branch: null
+  swift: ZFSSAU21
+    

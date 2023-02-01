@@ -1,0 +1,170 @@
+- name: "BANKA EKONOMIKE SH.A"
+  city: "PRISTINA"
+  branch: null
+  swift: EKOMXKPR
+    
+- name: "BANKA KOMBETARE TREGTARE SH.A"
+  city: "PRISTINA"
+  branch: null
+  swift: NCBAXKPR
+    
+- name: "BANKA PER BIZNES SH.A."
+  city: "PRISTINA"
+  branch: null
+  swift: BPBXXKPR
+    
+- name: "CENTRAL BANK OF THE REPUBLIC OF KOSOVO"
+  city: "PRISTINA"
+  branch: null
+  swift: CBRKXKPR
+    
+- name: "JUGOBANKA, JUGOBANKA A.D. KOSOVSKA MITROVICA"
+  city: "KOSOVSKA MITROVICA"
+  branch: null
+  swift: JJKMXK21
+    
+- name: "NLB PRISHTINA SH.A."
+  city: "PRISTINA"
+  branch: null
+  swift: NLPRXKPR
+    
+- name: "PROCREDIT BANK KOSOVO (FORMERLY MICRO ENTERPRISE BANK, PRISTINA, KOSOVO)"
+  city: "PRISTINA"
+  branch: null
+  swift: MBKOXKPR
+    
+- name: "RAIFFEISEN BANK KOSOVO"
+  city: "PRISTINA"
+  branch: null
+  swift: RBKOXKPR
+    
+- name: "TEB SHA"
+  city: "KLINA"
+  branch: KLINA
+  swift: TEBKXKPR030
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: DARDANIA
+  swift: TEBKXKPR020
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: DRENAS
+  swift: TEBKXKPR024
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: FERIZAJ
+  swift: TEBKXKPR013
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: FUSHE KOSOVA
+  swift: TEBKXKPR014
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: GJAKOVA
+  swift: TEBKXKPR018
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: GJILAN
+  swift: TEBKXKPR017
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: HANI ELEZIT
+  swift: TEBKXKPR029
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: LYPJAN
+  swift: TEBKXKPR026
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: MAIN
+  swift: TEBKXKPR011
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: MALISHEVA
+  swift: TEBKXKPR023
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: MITROVICA
+  swift: TEBKXKPR027
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: PEJA CITY OFFICE
+  swift: TEBKXKPR031
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: PEJA
+  swift: TEBKXKPR015
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: PRISTINA QENDRA
+  swift: TEBKXKPR034
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: PRIZREN MAIN
+  swift: TEBKXKPR028
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: QAFA CITY OFFICE
+  swift: TEBKXKPR033
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: RAHOVEC
+  swift: TEBKXKPR019
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: SHADERVAN
+  swift: TEBKXKPR012
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: SKENDERAJ
+  swift: TEBKXKPR022
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: THERANDA
+  swift: TEBKXKPR025
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: ULPIANA
+  swift: TEBKXKPR021
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: VUSHTRRI
+  swift: TEBKXKPR016
+    
+- name: "TEB SHA"
+  city: "PRISTINA"
+  branch: null
+  swift: TEBKXKPR
+    
+- name: "TURKIYE CUMHURIYETI ZIRAAT BANKASI"
+  city: "PRISTINA"
+  branch: null
+  swift: TCZBXKPR
+    
+- name: "TURKIYE IS BANKASI A.S. ALL KOSOVO BRANCHES"
+  city: "PRISTINA"
+  branch: null
+  swift: ISBKXKPR
+    

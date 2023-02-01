@@ -1,0 +1,320 @@
+- name: "ABANKA D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: ABANSI2X
+    
+- name: "ADDIKO BANK D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: HAABSI22
+    
+- name: "ADRIATIC SLOVENICA"
+  city: "KOPER"
+  branch: null
+  swift: ADSVSI21
+    
+- name: "ALTA INVEST, INVESTICIJSKE STORITVE, D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: POPJSI21
+    
+- name: "ARGONOS, BORZNO POSREDNISKA HISA, D.O.O."
+  city: "LJUBLJANA"
+  branch: null
+  swift: ABPHSI21
+    
+- name: "BANK OF SLOVENIA"
+  city: "LJUBLJANA"
+  branch: CCBM
+  swift: BSLJSI2XCCB
+    
+- name: "BANK OF SLOVENIA"
+  city: "LJUBLJANA"
+  branch: MONEY MARKET AND FOREIGN EXCHANGE ONLY
+  swift: BSLJSI2XFNB
+    
+- name: "BANK OF SLOVENIA"
+  city: "LJUBLJANA"
+  branch: PORAVNAVA SEPA CT
+  swift: BSLJSI2XSCT
+    
+- name: "BANK OF SLOVENIA"
+  city: "LJUBLJANA"
+  branch: PORAVNAVA STEP2 MPEDD - STORITEV B2B
+  swift: BSLJSI2XB2B
+    
+- name: "BANK OF SLOVENIA"
+  city: "LJUBLJANA"
+  branch: PORAVNAVA STEP2 MPEDD - STORITEV CORE
+  swift: BSLJSI2XCOR
+    
+- name: "BANK OF SLOVENIA"
+  city: "LJUBLJANA"
+  branch: TARGET
+  swift: BSLJSI2XEUX
+    
+- name: "BANK OF SLOVENIA"
+  city: "LJUBLJANA"
+  branch: null
+  swift: BSLJSI2X
+    
+- name: "BANK OF SLOVENIA"
+  city: "LJUBLJANA"
+  branch: null
+  swift: BSLJSI2XIND
+    
+- name: "BANKA INTESA SANPAOLO D.D."
+  city: "KOPER"
+  branch: IBOS CODE
+  swift: BAKOSI2XIBO
+    
+- name: "BANKA INTESA SANPAOLO D.D."
+  city: "KOPER"
+  branch: null
+  swift: BAKOSI2X
+    
+- name: "BANKA SPARKASSE D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: KSPKSI22
+    
+- name: "BANQUECORP PHYSICAL GOLD D.O.O."
+  city: "LJUBLJANA"
+  branch: null
+  swift: BPHGSI22
+    
+- name: "BKS BANK AG, BANCNA PODRUZNICA"
+  city: "LJUBLJANA"
+  branch: null
+  swift: BFKKSI22
+    
+- name: "BROKERJET SPARKASSE-BORZNO POSREDNISKA DRUZBA, D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: BSPDSI21
+    
+- name: "CENTRAL SECURITIES CLEARING CORPORATION - KDD"
+  city: "LJUBLJANA"
+  branch: null
+  swift: KDDSSI22
+    
+- name: "CERTIUS BPH D.O.O."
+  city: "LJUBLJANA"
+  branch: null
+  swift: CEBDSI21
+    
+- name: "DELAVSKA HRANILNICA D.D. LJUBLJANA"
+  city: "LJUBLJANA"
+  branch: null
+  swift: HDELSI22
+    
+- name: "DEZELNA BANKA SLOVENIJE D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: SZKBSI2X
+    
+- name: "GBD GORENJSKA BORZNOPOSREDNISKA DRUZBA D.D."
+  city: "KRANJ"
+  branch: null
+  swift: GBDGSI21
+    
+- name: "GENERALI INSURANCE CO."
+  city: "LJUBLJANA"
+  branch: null
+  swift: GEIUSI21
+    
+- name: "GORENJSKA BANKA D.D., KRANJ"
+  city: "KRANJ"
+  branch: null
+  swift: GORESI2X
+    
+- name: "GRAWE ZAVAROVALNICA D.D."
+  city: "MARIBOR"
+  branch: null
+  swift: GRZASI21
+    
+- name: "HRANILNICA LON D.D."
+  city: "KRANJ"
+  branch: null
+  swift: HLONSI22
+    
+- name: "HRANILNICA VIPAVA D.D."
+  city: "VIPAVA"
+  branch: null
+  swift: HKVISI22
+    
+- name: "HSBC KIRISH AND CO."
+  city: "NOVA GORICA"
+  branch: null
+  swift: HSKISI21
+    
+- name: "ILIRIKA D.D. LJUBLJANA"
+  city: "LJUBLJANA"
+  branch: null
+  swift: ILIISI21
+    
+- name: "JASMIN MUHIC"
+  city: "VODICE"
+  branch: null
+  swift: JASMSI21
+    
+- name: "KAPITALSKA DRUZBA"
+  city: "LJUBLJANA"
+  branch: null
+  swift: KADRSI21
+    
+- name: "KBM INFOND DZU"
+  city: "MARIBOR"
+  branch: null
+  swift: KBIZSI21
+    
+- name: "KD FUNDS"
+  city: "LJUBLJANA"
+  branch: null
+  swift: FNDDSI21
+    
+- name: "KD SKLADI D.O.O."
+  city: "LJUBLJANA"
+  branch: null
+  swift: SKOOSI21
+    
+- name: "KD, BORZNOPOSREDNISKA DRUZBA, D.O.O"
+  city: "LJUBLJANA"
+  branch: null
+  swift: BDDOSI21
+    
+- name: "LJUBLJANA STOCK EXCHANGE"
+  city: "LJUBLJANA"
+  branch: null
+  swift: XLJUSI21
+    
+- name: "MODRA ZAVAROVALNICA, D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: MOZVSI21
+    
+- name: "MOJA DELNICA BPH D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: MODPSI21
+    
+- name: "MOJA NALOZBA POKOJNINSKA DRURBA"
+  city: "MARIBOR"
+  branch: null
+  swift: MNPDSI21
+    
+- name: "MP BPH D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: BPHBSI21
+    
+- name: "NLB SKLADI, UPRAVLJANJE PREMOZENJA, D.O.O."
+  city: "LJUBLJANA"
+  branch: null
+  swift: NSUPSI21
+    
+- name: "NOVA KREDITNA BANKA MARIBOR D.D."
+  city: "MARIBOR"
+  branch: null
+  swift: KBMASI2X
+    
+- name: "NOVA KREDITNA BANKA MARIBOR D.D. (FORMERLY KBS BANKA D.D.)"
+  city: "MARIBOR"
+  branch: null
+  swift: KREKSI22
+    
+- name: "NOVA LJUBLJANSKA BANKA D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: LJBASI2X
+    
+- name: "PAYSERA LT"
+  city: "SLOVENJ GRADEC"
+  branch: null
+  swift: PAYESI21
+    
+- name: "PERSPEKTIVA BPD D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: PEBPSI21
+    
+- name: "POTEZA D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: POBFSI21
+    
+- name: "PRIMORSKI FINANCNI CENTER INTERFIN D.O.O."
+  city: "KOPER"
+  branch: null
+  swift: PFCISI21
+    
+- name: "PRVA OSEBNA ZAVAROVALNICA"
+  city: "LJUBLJANA"
+  branch: null
+  swift: PROZSI21
+    
+- name: "PUBLIKUM BORZNO POSREDOVANJE,D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: PUBPSI21
+    
+- name: "REPUBLIKA SLOVENIJA MINISTRSTVO ZA FINANCE"
+  city: "LJUBLJANA"
+  branch: null
+  swift: RSMFSI21
+    
+- name: "SBERBANK BANKA D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: SABRSI2X
+    
+- name: "SID-SLOVENE EXPORT AND DEVELOPMENT BANK INC., LJUBLJANA"
+  city: "LJUBLJANA"
+  branch: null
+  swift: SEDJSI21
+    
+- name: "SID-SLOVENSKA IZVOZNA IN RAZVOJNA BANKA, D.D., LJUBLJANA"
+  city: "LJUBLJANA"
+  branch: null
+  swift: SIDRSI22
+    
+- name: "SKB BANKA D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: SKBASI2X
+    
+- name: "SLOVENSKI DRZAVNI HOLDING D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: SDRHSI21
+    
+- name: "TRIGLAV DRUZBA ZA"
+  city: "LJUBLJANA"
+  branch: null
+  swift: TRDRSI21
+    
+- name: "TS ZERON IMPERIAL LTD"
+  city: "CELJE"
+  branch: null
+  swift: ZEIMSI21
+    
+- name: "UNICREDIT BANKA SLOVENIJA D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: BACXSI22
+    
+- name: "VERITAS B.H. D.O.O."
+  city: "MARIBOR"
+  branch: null
+  swift: VERISI21
+    
+- name: "ZAVAROVALNICA MARBOR"
+  city: "MARBOR"
+  branch: null
+  swift: ZAMASI21
+    
+- name: "ZAVAROVALNICA TRIGLAV D.D."
+  city: "LJUBLJANA"
+  branch: null
+  swift: ZATRSI21
+    

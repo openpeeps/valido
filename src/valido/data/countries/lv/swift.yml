@@ -1,0 +1,340 @@
+- name: "A/S SAULES INVESTICIJAS"
+  city: "RIGA"
+  branch: null
+  swift: TAPSLV21
+    
+- name: "AB.LV CAPITAL MARKETS"
+  city: "RIGA"
+  branch: null
+  swift: ABCRLV21
+    
+- name: "ABLV BANK, AS"
+  city: "RIGA"
+  branch: null
+  swift: AIZKLV22
+    
+- name: "ALFAPAY"
+  city: "RIGA"
+  branch: null
+  swift: ALFPLV21
+    
+- name: "AS BALTIJAS PRIVATBANKA"
+  city: "RIGA"
+  branch: null
+  swift: BLPBLV21
+    
+- name: "AS BLUEORANGE BANK"
+  city: "RIGA"
+  branch: null
+  swift: CBBRLV22
+    
+- name: "AS EXPOBANK (FORMERLY AS LTB BANK)"
+  city: "RIGA"
+  branch: null
+  swift: LATCLV22
+    
+- name: "AS IBS RENESOURCE CAPITAL"
+  city: "RIGA"
+  branch: null
+  swift: IRCALV21
+    
+- name: "AS MERIDIAN TRADE BANK"
+  city: "RIGA"
+  branch: null
+  swift: MULTLV2X
+    
+- name: "AS 'PRIVATBANK'"
+  city: "RIGA"
+  branch: null
+  swift: PRTTLV22
+    
+- name: "BALTIC INTERNATIONAL BANK"
+  city: "RIGA"
+  branch: null
+  swift: BLIBLV22
+    
+- name: "BALTICPAY CORPORATION SIA"
+  city: "RIGA"
+  branch: null
+  swift: BLOILV21
+    
+- name: "BANK OF LATVIA"
+  city: "RIGA"
+  branch: CCBM OPERATIONS
+  swift: LACBLV2XCCB
+    
+- name: "BANK OF LATVIA"
+  city: "RIGA"
+  branch: INSTANT PAYMENTS
+  swift: LACBLV2XAMS
+    
+- name: "BANK OF LATVIA"
+  city: "RIGA"
+  branch: null
+  swift: LACBLV2X
+    
+- name: "BIGBANK AS LATVIA BRANCH"
+  city: "RIGA"
+  branch: null
+  swift: BIGKLV21
+    
+- name: "DANSKE BANK A/S,LATVIJA BRANCH"
+  city: "RIGA"
+  branch: null
+  swift: MARALV22
+    
+- name: "DEALFIN"
+  city: "RIGA"
+  branch: null
+  swift: DEAFLV21
+    
+- name: "DILFIN"
+  city: "RIGA"
+  branch: null
+  swift: DILFLV21
+    
+- name: "DNOVO LTD"
+  city: "RIGA"
+  branch: null
+  swift: DNOVLV21
+    
+- name: "DUKASCOPY EUROPE IBS AS"
+  city: "RIGA"
+  branch: null
+  swift: JSSILV21
+    
+- name: "DUKASCOPY PAYMENTS"
+  city: "RIGA"
+  branch: null
+  swift: DUPYLV21
+    
+- name: "E LATS, SIA"
+  city: "RIGA"
+  branch: null
+  swift: LATSLV21
+    
+- name: "EASTERN EUROPEAN PAYMENT SYSTEM SIA"
+  city: "RIGA"
+  branch: null
+  swift: EPASLV22
+    
+- name: "EVLI BANK LTD"
+  city: "RIGA"
+  branch: null
+  swift: EVSELV21
+    
+- name: "FINCROSS SECURITIES AS"
+  city: "RIGA"
+  branch: null
+  swift: FSECLV21
+    
+- name: "FSC EU SIA"
+  city: "RIGA"
+  branch: null
+  swift: FSCELV22
+    
+- name: "GLOBAL OVERSEAS BANK A.D."
+  city: "RIGA"
+  branch: null
+  swift: GOSBLV21
+    
+- name: "JSC CITADELE BANKA"
+  city: "RIGA"
+  branch: null
+  swift: PARXLV22
+    
+- name: "JSC LATVIAN POST"
+  city: "RIGA"
+  branch: null
+  swift: LPNSLV21
+    
+- name: "KOOPERATIVA KRAJAIZDEVU SABIEDRIBA 'DZELZCELNIEKS KS'"
+  city: "RIGA"
+  branch: null
+  swift: KKSDLV21
+    
+- name: "LATGALES FINANSU UN INVESTICIJU KOMPANIJA AS"
+  city: "REZEKNE"
+  branch: null
+  swift: LFIKLV21
+    
+- name: "LATVIJAS PASTA BANKA"
+  city: "RIGA"
+  branch: null
+  swift: LAPBLV2X
+    
+- name: "LLC INVESTMENT BROKERAGE COMPANY 'MAXIMUS CAPITAL MARKETS'"
+  city: "RIGA"
+  branch: null
+  swift: LIBCLV21
+    
+- name: "LTFJA KKS JURNIEKU FORUMS"
+  city: "RIGA"
+  branch: null
+  swift: LKJFLV21
+    
+- name: "LUMINOR BANK AS LATVIA (FORMER NORDEA BANK AB LATVIA)"
+  city: "RIGA"
+  branch: null
+  swift: NDEALV2X
+    
+- name: "LUMINOR BANK AS, LATVIA (FORMER AS DNB BANKA)"
+  city: "RIGA"
+  branch: null
+  swift: RIKOLV2X
+    
+- name: "MONEY EXPRESS SIA"
+  city: "RIGA"
+  branch: null
+  swift: MOXSLV21
+    
+- name: "NASDAQ CSD SE"
+  city: "RIGA"
+  branch: null
+  swift: LCDELV22
+    
+- name: "NIXGROUP"
+  city: "RIGA"
+  branch: null
+  swift: NIXGLV21
+    
+- name: "NORVIK BANKA, JSC"
+  city: "RIGA"
+  branch: null
+  swift: LATBLV22
+    
+- name: "OGRES KOMERCBANKA"
+  city: "RIGA"
+  branch: null
+  swift: OKBALV21
+    
+- name: "OP CORPORATE BANK PLC LATVIA BRANCH"
+  city: "RIGA"
+  branch: null
+  swift: OKOYLV2X
+    
+- name: "PAYSERA LT"
+  city: "RIGA"
+  branch: null
+  swift: PAYELV21
+    
+- name: "QIWI WALLET EUROPE SIA FLOOR 1"
+  city: "RIGA"
+  branch: null
+  swift: QWESLV21
+    
+- name: "REGIONALA INVESTICIJU BANKA"
+  city: "RIGA"
+  branch: null
+  swift: RIBRLV22
+    
+- name: "RIETUMU BANKA"
+  city: "RIGA"
+  branch: null
+  swift: RTMBLV2X
+    
+- name: "RIGA STOCK EXCHANGE"
+  city: "RIGA"
+  branch: null
+  swift: XRISLV21
+    
+- name: "RIGENSIS BANK AS"
+  city: "RIGA"
+  branch: null
+  swift: RGNSLV22
+    
+- name: "SAMSUNG ELECTRONICS BALTICS"
+  city: "RIGA"
+  branch: null
+  swift: SECTLV21
+    
+- name: "SAMSUNG ELECTRONICS BALTICS"
+  city: "RIGA"
+  branch: null
+  swift: SECTLV21961
+    
+- name: "SC PAREX BANKA"
+  city: "RIGA"
+  branch: null
+  swift: PAEXLV21
+    
+- name: "SEB BANKA"
+  city: "RIGA"
+  branch: null
+  swift: UNLALV2X
+    
+- name: "SIA ABA FINANCE"
+  city: "RIGA"
+  branch: null
+  swift: SIAFLV21
+    
+- name: "SIA DIXIPAY"
+  city: "RIGA"
+  branch: null
+  swift: SIDILV21
+    
+- name: "SIA 'SEMFOPAY'"
+  city: "RIGA"
+  branch: null
+  swift: SEFMLV2X
+    
+- name: "SIA TRANSACT PRO"
+  city: "RIGA"
+  branch: null
+  swift: TPROLV22
+    
+- name: "SIA WORLDLINE LATVIA"
+  city: "RIGA"
+  branch: null
+  swift: FRDLLV22
+    
+- name: "SIGNET BANK AS"
+  city: "RIGA"
+  branch: null
+  swift: LLBBLV2X
+    
+- name: "STEITS, SIA"
+  city: "RIGA"
+  branch: null
+  swift: SIAILV21
+    
+- name: "SUPREMA AS"
+  city: "RIGA"
+  branch: null
+  swift: SPRALV21
+    
+- name: "SVENSKA HANDELSBANKEN AB LATVIAN BRANCH"
+  city: "RIGA"
+  branch: null
+  swift: HANDLV22
+    
+- name: "SWEDBANK AS"
+  city: "RIGA"
+  branch: null
+  swift: HABALV22
+    
+- name: "TRANSFERMONEY SIA"
+  city: "RIGA"
+  branch: null
+  swift: TRRSLV21
+    
+- name: "TRANSFERTA"
+  city: "RIGA"
+  branch: null
+  swift: TRSFLV21
+    
+- name: "TREASURY OF THE REPUBLIC OF LATVIA, THE"
+  city: "RIGA"
+  branch: null
+  swift: TRELLV22
+    
+- name: "WOT, SIA"
+  city: "RIGA"
+  branch: null
+  swift: WOSILV21
+    
+- name: "XOPAY, SIA"
+  city: "RIGA"
+  branch: null
+  swift: OPAYLV21
+    

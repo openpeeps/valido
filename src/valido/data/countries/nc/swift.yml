@@ -1,0 +1,85 @@
+- name: "BANQUE CALEDONIENNE D'INVESTISSEMENT"
+  city: "NOUMEA"
+  branch: null
+  swift: BCADNCNN
+    
+- name: "BANQUE DE NOUVELLE CALEDONIE"
+  city: "NOUMEA"
+  branch: null
+  swift: CEPANCNM
+    
+- name: "BANQUE PARIBAS PACIFIQUE"
+  city: "NOUMEA"
+  branch: null
+  swift: PARBNCN1
+    
+- name: "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA"
+  city: "KOUMAC"
+  branch: null
+  swift: BNPANCNXKOU
+    
+- name: "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA"
+  city: "NOUMEA"
+  branch: null
+  swift: BNPANCNX
+    
+- name: "CAISSE D'EPARGNE DE NOUVELLE CALEDONIE"
+  city: "NOUMEA"
+  branch: null
+  swift: CDNCNCN1
+    
+- name: "CAISSE DES DEPOTS ET CONSIGNATIONS"
+  city: "NOUMEA"
+  branch: null
+  swift: CDCGNCNN
+    
+- name: "CENTRE FINANCIER DE NOUMEA"
+  city: "NOUMEA"
+  branch: null
+  swift: CEFNNCN1
+    
+- name: "CREDIT CALEDONIEN ET TAHITIEN"
+  city: "NOUMEA"
+  branch: null
+  swift: CCTCNCN1
+    
+- name: "CSSE CIT AGRICOLE MUTUEL NLLE CALEDONIE"
+  city: "NOUMEA"
+  branch: null
+  swift: CCAENCN1
+    
+- name: "GE FINANCEMENT PACIFIQUE SAS"
+  city: "NOUMEA"
+  branch: null
+  swift: FPSSNCN1
+    
+- name: "INSITITUT D EMISSION D OUTRE-MER"
+  city: "NOUMEA"
+  branch: null
+  swift: INDDNCN1
+    
+- name: "JOC GESTION PRIVEE"
+  city: "NOUMEA"
+  branch: null
+  swift: JOGPNCN1
+    
+- name: "NOUMEA CREDIT"
+  city: "NOUMEA"
+  branch: null
+  swift: NOUCNCN1
+    
+- name: "OCEOR LEASE NOUMEA"
+  city: "NOUMEA"
+  branch: null
+  swift: OCLNNCN1
+    
+- name: "SOCIETE GENERALE CALEDONIENNE DE BANQUE S G C B"
+  city: "NOUMEA"
+  branch: null
+  swift: SOGENCNN
+    
+- name: "TRESOR PUBLIC NOUMEA"
+  city: "NOUMEA"
+  branch: null
+  swift: TRPUNCN1
+    

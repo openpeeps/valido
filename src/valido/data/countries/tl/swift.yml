@@ -1,0 +1,25 @@
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD"
+  city: "DILI"
+  branch: null
+  swift: ANZBTLDI
+    
+- name: "BANCO CENTRAL DE TIMOR-LESTE"
+  city: "DILI"
+  branch: null
+  swift: BCTLTLDI
+    
+- name: "BANCO NACIONAL DE COMERCIO DE TIMOR-LESTE, S.A."
+  city: "DILI"
+  branch: null
+  swift: BNCTTLDD
+    
+- name: "BANKING AND PAYMENTS AUTHORITY OF EAST TIMOR"
+  city: "DILI"
+  branch: null
+  swift: BCTLTLDA
+    
+- name: "CAIXA GERAL DE DEPOSITOS, SA"
+  city: "DILI"
+  branch: null
+  swift: CGDITLDI
+    

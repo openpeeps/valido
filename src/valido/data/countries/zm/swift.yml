@@ -1,0 +1,265 @@
+- name: "AB BANK ZAMBIA LTD."
+  city: "LUSAKA"
+  branch: null
+  swift: ABBAZMLU
+    
+- name: "ACCESS BANK ZAMBIA LIMITED"
+  city: "LUSAKA"
+  branch: null
+  swift: AZAMZMLU
+    
+- name: "AFRICAN BANKING CORPORATION ZAMBIA"
+  city: "LUSAKA"
+  branch: null
+  swift: FMBZZMLX
+    
+- name: "AFRICAN COMMERCIAL BANK LTD"
+  city: "LUSAKA"
+  branch: null
+  swift: ACBKZML1
+    
+- name: "BANK OF CHINA (ZAMBIA) LTD"
+  city: "LUSAKA"
+  branch: null
+  swift: BKCHZMLU
+    
+- name: "BANK OF ZAMBIA"
+  city: "LUSAKA"
+  branch: AUTHORISED SETTLEMENT AGENT
+  swift: BAZAZMLUASA
+    
+- name: "BANK OF ZAMBIA"
+  city: "LUSAKA"
+  branch: null
+  swift: BAZAZMLU
+    
+- name: "BARCLAYS BANK PLC ZAMBIA"
+  city: "KITWE"
+  branch: KITWE PROCESSING CENTRE
+  swift: BARCZMLXKPC
+    
+- name: "BARCLAYS BANK PLC ZAMBIA"
+  city: "LUSAKA"
+  branch: HEAD OFFICE
+  swift: BARCZMLX
+    
+- name: "BRITISH AMERICAN TOBACCO (ZAMBIA) PLC"
+  city: "LUSAKA"
+  branch: null
+  swift: BATSZML1
+    
+- name: "CAVMONT BANK LIMITED"
+  city: "LUSAKA"
+  branch: null
+  swift: CVMTZMLU
+    
+- name: "CAVMONT SECURITIES LIMITED"
+  city: "LUSAKA"
+  branch: null
+  swift: CAVRZML1
+    
+- name: "CITIBANK ZAMBIA LTD"
+  city: "LUSAKA"
+  branch: null
+  swift: CITIZMLU
+    
+- name: "DEVELOPMENT BANK OF ZAMBIA"
+  city: "LUSAKA"
+  branch: null
+  swift: DEBZZML1
+    
+- name: "ECOBANK ZAMBIA"
+  city: "LUSAKA"
+  branch: null
+  swift: ECOCZMLU
+    
+- name: "FINANCE BANK ZAMBIA LIMITED."
+  city: "LUSAKA"
+  branch: null
+  swift: ZFBAZMLU
+    
+- name: "FINANCE BANK ZAMBIA LIMITED."
+  city: "NDOLA"
+  branch: null
+  swift: ZFBAZML102N
+    
+- name: "FIRST ALLIANCE BANK"
+  city: "LUSAKA"
+  branch: null
+  swift: FALLZMLU
+    
+- name: "FIRST CAPITAL BANK (Z) LTD (FORMERLY KNOWN AS INTERNATIONAL COMMERCIAL BANK ZAMBIA LIMITED)"
+  city: "LUSAKA"
+  branch: null
+  swift: ICZAZMLU
+    
+- name: "FIRST NATIONAL BANK ZAMBIA LIMITED"
+  city: "LUSAKA"
+  branch: null
+  swift: FIRNZMLX
+    
+- name: "FX AFRICA"
+  city: "LUSAKA"
+  branch: null
+  swift: FXAFZML1
+    
+- name: "INDO-ZAMBIA BANK"
+  city: "LUSAKA"
+  branch: null
+  swift: INZAZMLX
+    
+- name: "INTERMARKET BANKING CORPORATION LIMITED"
+  city: "LUSAKA"
+  branch: null
+  swift: IDHZZML1
+    
+- name: "INTERMARKET SECURITIES ZAMBIA LTD"
+  city: "LUSAKA"
+  branch: null
+  swift: INSZZML1
+    
+- name: "INVESTRUST BANK LTD"
+  city: "LUSAKA"
+  branch: null
+  swift: VSTRZMLU
+    
+- name: "LUSAKA STOCK EXCHANGE"
+  city: "LUSAKA"
+  branch: null
+  swift: XLUSZML1
+    
+- name: "LUSE CENTRAL SHARES DEPOSITORY LIMITED"
+  city: "LUSAKA"
+  branch: null
+  swift: LCSDZML1
+    
+- name: "MANIFOLD INVESTMENT BANK LIMITED"
+  city: "LUSAKA"
+  branch: null
+  swift: MINVZML1
+    
+- name: "MERIDIEN BIAO ZAMBIA LTD."
+  city: "LUSAKA"
+  branch: null
+  swift: MEZAZML1
+    
+- name: "NATIONAL PENSION SCHEME AUTHORITY"
+  city: "LUSAKA"
+  branch: null
+  swift: NPSAZML1
+    
+- name: "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA"
+  city: "CHIPATA"
+  branch: null
+  swift: NSCBZML1022
+    
+- name: "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA"
+  city: "KASAMA"
+  branch: null
+  swift: NSCBZML1023
+    
+- name: "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA"
+  city: "LIVINGSTONE"
+  branch: null
+  swift: NSCBZML1024
+    
+- name: "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA"
+  city: "LUSAKA"
+  branch: null
+  swift: NSCBZML1
+    
+- name: "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA"
+  city: "MANSA"
+  branch: null
+  swift: NSCBZML1025
+    
+- name: "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA"
+  city: "MONGU"
+  branch: null
+  swift: NSCBZML1026
+    
+- name: "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA"
+  city: "NDOLA"
+  branch: null
+  swift: NSCBZML102N
+    
+- name: "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA"
+  city: "SOLWEZI"
+  branch: null
+  swift: NSCBZML1027
+    
+- name: "NEW CAPITAL BANK PLC"
+  city: "LUSAKA"
+  branch: null
+  swift: NCBPZML1
+    
+- name: "PANGAEA/EMI SECURITIES LIMITED"
+  city: "LUSAKA"
+  branch: null
+  swift: PSNIZML1
+    
+- name: "SABMILLER ZAMBIA"
+  city: "LUSAKA"
+  branch: null
+  swift: SABMZMZ1
+    
+- name: "SABMILLER ZAMBIA"
+  city: "LUSAKA"
+  branch: null
+  swift: SABMZMZ1HSL
+    
+- name: "SABMILLER ZAMBIA"
+  city: "LUSAKA"
+  branch: null
+  swift: SABMZMZ1NBP
+    
+- name: "SABMILLER ZAMBIA"
+  city: "LUSAKA"
+  branch: null
+  swift: SABMZMZ1ZBP
+    
+- name: "STANBIC BANK ZAMBIA LTD."
+  city: "KITWE"
+  branch: null
+  swift: SBICZML10ZK
+    
+- name: "STANBIC BANK ZAMBIA LTD."
+  city: "LUSAKA"
+  branch: LUSAKA BRANCH
+  swift: SBICZMLX
+    
+- name: "STANBIC BANK ZAMBIA LTD."
+  city: "NDOLA"
+  branch: null
+  swift: SBICZML10ZN
+    
+- name: "STANDARD CHARTERED BANK ZAMBIA PLC"
+  city: "LUSAKA"
+  branch: SECURITIES SERVICES UNIT
+  swift: SCBLZMLXSSU
+    
+- name: "STANDARD CHARTERED BANK ZAMBIA PLC"
+  city: "LUSAKA"
+  branch: null
+  swift: SCBLZMLX
+    
+- name: "STANDARD CHARTERED BANK ZAMBIA PLC"
+  city: "NDOLA"
+  branch: NDOLA SOUTH BRANCH
+  swift: SCBLZML102N
+    
+- name: "UNITED BANK FOR AFRICA ZAMBIA LIMITED"
+  city: "LUSAKA"
+  branch: null
+  swift: UNAFZMLU
+    
+- name: "ZAMBIA EXPORT AND IMPORT BANK LIMITED"
+  city: "LUSAKA"
+  branch: null
+  swift: ZAEIZML1
+    
+- name: "ZAMBIA NATIONAL COMMERCIAL"
+  city: "LUSAKA"
+  branch: null
+  swift: ZNCOZMLU
+    

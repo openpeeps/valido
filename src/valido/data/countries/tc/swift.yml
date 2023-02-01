@@ -1,0 +1,30 @@
+- name: "BORDIER INTERNATIONAL BANK AND TRUST LTD."
+  city: "PROVIDENCIALES"
+  branch: null
+  swift: BIBTTCG1
+    
+- name: "BRITISH CARIBBEAN BANK LIMITED"
+  city: "PROVIDENCIALES"
+  branch: null
+  swift: BCBATCGP
+    
+- name: "FIRST NATIONAL BANK LIMITED"
+  city: "PROVIDENCIALES"
+  branch: null
+  swift: FTNLTCG1
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED, TURKS AND CAICOS"
+  city: "PROVIDENCIALES"
+  branch: null
+  swift: FCIBTCGP
+    
+- name: "SCOTIABANK (TURKS AND CAICOS) LTD"
+  city: "PROVIDENCIALES"
+  branch: null
+  swift: NOSCTCGP
+    
+- name: "TURKS AND CAICOS BANKING CO. LTD"
+  city: "GRAND TURK"
+  branch: null
+  swift: TCBCTCGP
+    

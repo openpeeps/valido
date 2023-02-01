@@ -1,0 +1,485 @@
+- name: "ACCESS BANK (GHANA) LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: ABNGGHAC
+    
+- name: "AFRICAN ALLIANCE SECURITIES LTD"
+  city: "ACCRA"
+  branch: null
+  swift: AFASGHA1
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "ACCRA"
+  branch: null
+  swift: ADNTGHAC
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "BOLGATANGA"
+  branch: null
+  swift: ADNTGHA10A4
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "CAPE COAST"
+  branch: null
+  swift: ADNTGHA10A3
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "KUMASI"
+  branch: null
+  swift: ADNTGHA10A6
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "SUNYANI"
+  branch: null
+  swift: ADNTGHA10A8
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "TAKORADI"
+  branch: null
+  swift: ADNTGHA10A7
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "TAMALE"
+  branch: null
+  swift: ADNTGHA10AT
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "TEMA"
+  branch: null
+  swift: ADNTGHA10A2
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "WA"
+  branch: null
+  swift: ADNTGHA10A5
+    
+- name: "ARB APEX BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: AREXGHAC
+    
+- name: "BANK FOR HOUSING AND CONSTRUCTION"
+  city: "ACCRA"
+  branch: FOREIGN BRANCH
+  swift: HCONGHA10A2
+    
+- name: "BANK FOR HOUSING AND CONSTRUCTION"
+  city: "ACCRA"
+  branch: null
+  swift: HCONGHA1
+    
+- name: "BANK OF AFRICA - GHANA LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: AMMAGHAC
+    
+- name: "BANK OF BARODA (GHANA) LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: BARBGHAC
+    
+- name: "BANK OF GHANA"
+  city: "ACCRA"
+  branch: null
+  swift: BAGHGHA4
+    
+- name: "BANK OF GHANA"
+  city: "ACCRA"
+  branch: null
+  swift: BAGHGHA5
+    
+- name: "BANK OF GHANA"
+  city: "ACCRA"
+  branch: null
+  swift: BAGHGHAC
+    
+- name: "BARCLAYS BANK OF GHANA LTD."
+  city: "ACCRA"
+  branch: ALL BRANCHES IN GHANA
+  swift: BARCGHAC
+    
+- name: "BARCLAYS BANK OF GHANA LTD."
+  city: "ACCRA"
+  branch: OFFSHORE BANKING UNIT
+  swift: BARCGHACOBU
+    
+- name: "BRITISH AMERICAN TOBACCO GHANA LTD"
+  city: "TEMA"
+  branch: null
+  swift: BATSGHA1
+    
+- name: "BSIC GHANA LTD"
+  city: "ACCRA"
+  branch: null
+  swift: BSAHGHAC
+    
+- name: "CAL BANK LIMITED"
+  city: "ACCRA"
+  branch: CAL BANK CUSTODY SERVICES
+  swift: ACCCGHACCBS
+    
+- name: "CAL BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: ACCCGHAC
+    
+- name: "CAL BROKERS LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: CABRGHA1
+    
+- name: "CAPITAL BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: FCPBGHAC
+    
+- name: "CDH SECURITIES LTD"
+  city: "ACCRA"
+  branch: null
+  swift: CDHSGHA1
+    
+- name: "CHAPEL HILL DENHAM SECURITIES (GH) LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: CHNCGHA1
+    
+- name: "CITIZENS INVESTMENT BANK"
+  city: "ACCRA"
+  branch: null
+  swift: CIINGHA1
+    
+- name: "CONTROLLER AND ACCOUNTANT-GENERAL'S DEPARTMENT"
+  city: "ACCRA"
+  branch: null
+  swift: CODGGHAC
+    
+- name: "DATABANK BROKERAGE LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: DABRGHA1
+    
+- name: "DYNAST PREMIER BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: DNPRGHA1
+    
+- name: "EBG STOCKBROKERS LTD."
+  city: "ACCRA"
+  branch: null
+  swift: STORGHA1
+    
+- name: "ECOBANK GHANA"
+  city: "ACCRA"
+  branch: null
+  swift: ECOCGHAC
+    
+- name: "ECOBANK GHANA"
+  city: "ACCRA"
+  branch: null
+  swift: ECOCGHACCUS
+    
+- name: "ECOBANK GHANA"
+  city: "KUMASI"
+  branch: KUMASI BRANCH
+  swift: ECOCGHACKSI
+    
+- name: "ECOBANK GHANA"
+  city: "TAKORADI"
+  branch: TAKORADI BRANCH
+  swift: ECOCGHACTDI
+    
+- name: "ECOBANK GHANA"
+  city: "TEMA"
+  branch: TEMA BRANCH
+  swift: ECOCGHACTMA
+    
+- name: "ENERGY BANK GHANA LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: ENRBGHAC
+    
+- name: "FBNBANK GHANA LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: INCEGHAC
+    
+- name: "FIDELITY BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: FBLIGHAC
+    
+- name: "FIRST ATLANTIC BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: FAMCGHAC
+    
+- name: "FIRST ATLANTIC BROKERS LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: FABRGHA1
+    
+- name: "FIRST NATIONAL BANK GHANA LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: FIRNGHAC
+    
+- name: "GCB BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: GHCBGHAC
+    
+- name: "GCB BANK LIMITED"
+  city: "KUMASI"
+  branch: null
+  swift: GHCBGHACKSI
+    
+- name: "GCB BANK LIMITED"
+  city: "TAKORADI"
+  branch: null
+  swift: GHCBGHACTDI
+    
+- name: "GCB BANK LIMITED"
+  city: "TEMA"
+  branch: null
+  swift: GHCBGHACTMA
+    
+- name: "GHANA REVENUE AUTHORITY"
+  city: "ACCRA"
+  branch: null
+  swift: GHRAGHAC
+    
+- name: "GHANA STOCK EXCHANGE"
+  city: "ACCRA"
+  branch: null
+  swift: XGHAGHA1
+    
+- name: "GHL BANK LTD"
+  city: "ACCRA"
+  branch: null
+  swift: GHLLGHAC
+    
+- name: "GN BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: GNBGGHAC
+    
+- name: "GOLD COAST SECURITIES"
+  city: "ACCRA"
+  branch: null
+  swift: GOCEGHA1
+    
+- name: "GUARANTY TRUST BANK (GHANA) LTD"
+  city: "ACCRA"
+  branch: null
+  swift: GTBIGHAC
+    
+- name: "HERITAGE BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: HRTGGHAC
+    
+- name: "HFC BANK (GHANA) LTD"
+  city: "ACCRA"
+  branch: CUSTODY SERVICES
+  swift: HFCAGHACCSD
+    
+- name: "HFC BANK (GHANA) LTD"
+  city: "ACCRA"
+  branch: null
+  swift: HFCAGHAC
+    
+- name: "IC SECURITIES (GH) LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: ICGHGHA1
+    
+- name: "MAGNATE FINANCIAL SERVICES GHANA LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: MFSHGHA1
+    
+- name: "MERBAN STOCKBROKERS LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: MSTCGHA1
+    
+- name: "NATIONAL INVESTMENT BANK"
+  city: "ACCRA"
+  branch: null
+  swift: NIBGGHAC
+    
+- name: "NEW WORLD RENAISSANCE SECURITIES LTD"
+  city: "ACCRA"
+  branch: null
+  swift: NWIVGHA1
+    
+- name: "NTHC LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: NTHCGHA1
+    
+- name: "OMNIBANK GHANA LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: OMBLGHAC
+    
+- name: "PREMIUM BANK GHANA LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: PMEBGHAC
+    
+- name: "PRUDENTIAL BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: PUBKGHAC
+    
+- name: "SABMILLER GHANA"
+  city: "ACCRA"
+  branch: null
+  swift: SABMGHA1
+    
+- name: "SABMILLER GHANA"
+  city: "ACCRA"
+  branch: null
+  swift: SABMGHA1ABL
+    
+- name: "SABMILLER GHANA"
+  city: "ACCRA"
+  branch: null
+  swift: SABMGHA1VGL
+    
+- name: "SDC BROKERAGE SERVICES LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: SDBRGHA1
+    
+- name: "SIC BROKERAGE LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: SICGGHA1
+    
+- name: "SOCIAL SECURITY AND NATIONAL INSURANCE TRUST"
+  city: "ACCRA"
+  branch: null
+  swift: SSNTGHAC
+    
+- name: "SOCIETE GENERALE GHANA LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: SSEBGHAC
+    
+- name: "SOCIETE GENERALE GHANA LIMITED"
+  city: "KUMASI"
+  branch: null
+  swift: SSEBGHACKSI
+    
+- name: "SOCIETE GENERALE GHANA LIMITED"
+  city: "TAMALE"
+  branch: null
+  swift: SSEBGHACTAM
+    
+- name: "SOVEREIGN BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: SVBGGHAC
+    
+- name: "STANBIC BANK GHANA LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: SBICGHAC
+    
+- name: "STANDARD CHARTERED BANK GHANA LIMITED"
+  city: "ACCRA"
+  branch: HEAD OFFICE
+  swift: SCBLGHAC
+    
+- name: "STANDARD CHARTERED BANK GHANA LIMITED"
+  city: "ACCRA"
+  branch: SECURITIES SERVICES UNIT
+  swift: SCBLGHACSSU
+    
+- name: "STANDARD CHARTERED BANK GHANA LIMITED"
+  city: "KUMASI"
+  branch: null
+  swift: SCBLGHACKSI
+    
+- name: "STANDARD CHARTERED BANK GHANA LIMITED"
+  city: "TAKORADI"
+  branch: null
+  swift: SCBLGHACTDI
+    
+- name: "STANDARD CHARTERED BANK GHANA LIMITED"
+  city: "TEMA"
+  branch: null
+  swift: SCBLGHACTMA
+    
+- name: "STERLING SECURITIES LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: STSIGHA1
+    
+- name: "STRATEGIC AFRICAN SECURITIES LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: SARSGHA1
+    
+- name: "TAKORADI INTERNATIONAL COMPANY"
+  city: "TAKORADI"
+  branch: null
+  swift: TAKOGHA1
+    
+- name: "THE BEIGE BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: TBGBGHAC
+    
+- name: "THE ROYAL BANK"
+  city: "ACCRA"
+  branch: null
+  swift: TRBGGHAC
+    
+- name: "UNIBANK GHANA LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: UBGHGHAC
+    
+- name: "UNITED BANK FOR AFRICA (GHANA) LTD"
+  city: "ACCRA"
+  branch: null
+  swift: STBGGHAC
+    
+- name: "UNIVERSAL MERCHANT BANK LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: MBGHGHAC
+    
+- name: "UNIVERSAL MERCHANT BANK LIMITED"
+  city: "KUMASI"
+  branch: null
+  swift: MBGHGHACKSI
+    
+- name: "UNIVERSAL MERCHANT BANK LIMITED"
+  city: "TAKORADI"
+  branch: null
+  swift: MBGHGHACTDI
+    
+- name: "UNIVERSAL MERCHANT BANK LIMITED"
+  city: "TEMA"
+  branch: null
+  swift: MBGHGHACTMA
+    
+- name: "UT BANK LTD"
+  city: "ACCRA"
+  branch: null
+  swift: UTBKGHAC
+    
+- name: "VOLTA RIVER AUTHORITY"
+  city: "ACCRA"
+  branch: null
+  swift: VRATGHAC
+    
+- name: "ZENITH BANK (GHANA) LIMITED"
+  city: "ACCRA"
+  branch: null
+  swift: ZEBLGHAC
+    

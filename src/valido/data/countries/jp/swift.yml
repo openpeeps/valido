@@ -1,0 +1,3560 @@
+- name: "ABN AMRO CLEARING TOKYO CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: FCTOJPJ1
+    
+- name: "ACE SECURITIES CO., LTD."
+  city: "OSAKA"
+  branch: null
+  swift: ACSRJPJ1
+    
+- name: "AEON BANK, LTD."
+  city: "KOTO-KU"
+  branch: null
+  swift: AEONJPJ1
+    
+- name: "AGRICULTURAL BANK OF CHINA TOKYO BRANCH"
+  city: "CHIYODA-KU"
+  branch: null
+  swift: ABOCJPJT
+    
+- name: "AICHI BANK, LTD., THE"
+  city: "NAGOYA"
+  branch: null
+  swift: AICHJPJN
+    
+- name: "AICHI BANK, LTD., THE"
+  city: "OSAKA"
+  branch: null
+  swift: AICHJPJ10JS
+    
+- name: "AICHI BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: AICHJPJ10JT
+    
+- name: "AIG GLOBAL INVESTMENT CORP."
+  city: "TOKYO"
+  branch: null
+  swift: AIMIJPJ1
+    
+- name: "AIOI NISSAY DOWA INSURANCE CO.,LTD."
+  city: "SHIBUYA"
+  branch: null
+  swift: ANDNJPJ1
+    
+- name: "AIZAWA SECURITIES CO."
+  city: "TOKYO"
+  branch: null
+  swift: AIZAJPJ1
+    
+- name: "AKAGIYA SECURITIES CO. LTD."
+  city: "TOKYO"
+  branch: null
+  swift: AKSEJPJ1
+    
+- name: "AKATSUKI SECURITIES, INC."
+  city: "TOKYO"
+  branch: null
+  swift: AKSCJPJ1
+    
+- name: "AKITA BANK, LTD.,THE"
+  city: "AKITA"
+  branch: null
+  swift: AKITJPJT
+    
+- name: "ALLIANCE CAPITAL ASSET MANAGEMENT (JAPAN) LTD"
+  city: "TOKYO"
+  branch: null
+  swift: ACAMJPJ1
+    
+- name: "AMAGASAKI SHINKIN BANK, THE"
+  city: "AMAGASAKI"
+  branch: null
+  swift: AMASJPJZ
+    
+- name: "AMERICAN EXPRESS INTERNATIONAL JAPAN ASSET MANAGEMENT LTD"
+  city: "TOKYO"
+  branch: null
+  swift: AMEXJPJ1
+    
+- name: "ANDO SECURITIES CO., LTD"
+  city: "NAGOYA"
+  branch: null
+  swift: ANOOJPJ1
+    
+- name: "ANZ MCCAUGHAN LTD"
+  city: "TOKYO"
+  branch: null
+  swift: AMCLJPJ1
+    
+- name: "AOMORI BANK LTD., THE"
+  city: "AOMORI"
+  branch: null
+  swift: AOMBJPJT
+    
+- name: "AOZORA BANK, LTD"
+  city: "TOKYO"
+  branch: null
+  swift: NCBTJPJT
+    
+- name: "AOZORA SECURITIES., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: AOSCJPJ1
+    
+- name: "ARK SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: ARKKJPJ1
+    
+- name: "ASAHI GROUP HOLDINGS, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: ASGHJPJT
+    
+- name: "ASAHI SHINKIN BANK, THE"
+  city: "TOKYO"
+  branch: null
+  swift: ASKBJPJT
+    
+- name: "ASATSU-DK INC"
+  city: "MINATO-KU"
+  branch: null
+  swift: ASADJPJT
+    
+- name: "ASHIKAGA BANK"
+  city: "UTSUNOMIYA"
+  branch: null
+  swift: ASIKJPJT
+    
+- name: "ASSET MANAGEMENT ONE CO. LTD."
+  city: "TOKYO"
+  branch: null
+  swift: DIAMJPJT
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: ANZBJPJX
+    
+- name: "AWA BANK, LTD., THE"
+  city: "TOKUSHIMA"
+  branch: null
+  swift: AWABJPJT
+    
+- name: "AXA LIFE INSURANCE CO., LTD."
+  city: "TOKYO"
+  branch: CRI
+  swift: AXIPJPJTCRI
+    
+- name: "AXA LIFE INSURANCE CO., LTD."
+  city: "TOKYO"
+  branch: PHI
+  swift: AXIPJPJTPHI
+    
+- name: "AXA LIFE INSURANCE CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: AXIPJPJT
+    
+- name: "AXES (JAPAN) SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: AXJSJPJ1
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: BBVAJPJT
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "TOKYO"
+  branch: null
+  swift: BRASJPJT
+    
+- name: "BANDO CHEMICAL INDUSTRIES, LTD."
+  city: "CHUO-KU"
+  branch: null
+  swift: BNDCJPJT
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LTD."
+  city: "OSAKA"
+  branch: null
+  swift: BKKBJPJTOSA
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LTD."
+  city: "TOKYO"
+  branch: null
+  swift: BKKBJPJT
+    
+- name: "BANK NEGARA INDONESIA (PERSERO), PT., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: BNINJPJT
+    
+- name: "BANK OF AMERICA, TOKYO"
+  city: "TOKYO"
+  branch: SECURITY CASH SETTLEMENT
+  swift: BOFAJPJXCMS
+    
+- name: "BANK OF AMERICA, TOKYO"
+  city: "TOKYO"
+  branch: SECURITY SETTLEMENT
+  swift: BOFAJPJXJGB
+    
+- name: "BANK OF AMERICA, TOKYO"
+  city: "TOKYO"
+  branch: TOKYO BRANCH
+  swift: BOFAJPJX
+    
+- name: "BANK OF AMERICA, TOKYO"
+  city: "TOKYO"
+  branch: null
+  swift: BOFAJPJXGRC
+    
+- name: "BANK OF AMERICA, TOKYO"
+  city: "TOKYO"
+  branch: null
+  swift: BOFAJPJXTSY
+    
+- name: "BANK OF CHINA"
+  city: "KOBE"
+  branch: KOBE BRANCH
+  swift: BKCHJPJTKOB
+    
+- name: "BANK OF CHINA"
+  city: "NAGOYA"
+  branch: NAGOYA BRANCH
+  swift: BKCHJPJTNGY
+    
+- name: "BANK OF CHINA"
+  city: "OSAKA"
+  branch: OSAKA BRANCH
+  swift: BKCHJPJTOSA
+    
+- name: "BANK OF CHINA"
+  city: "TOKYO"
+  branch: OTEMACHI BRANCH
+  swift: BKCHJPJTOTM
+    
+- name: "BANK OF CHINA"
+  city: "TOKYO"
+  branch: TOKYO BRANCH
+  swift: BKCHJPJT
+    
+- name: "BANK OF CHINA"
+  city: "YOKOHAMA"
+  branch: YOKOHAMA BRANCH
+  swift: BKCHJPJTYHA
+    
+- name: "BANK OF COMMUNICATIONS, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: COMMJPJT
+    
+- name: "BANK OF FUKUOKA, LTD., THE"
+  city: "FUKUOKA"
+  branch: HEAD OFFICE
+  swift: FKBKJPJT100
+    
+- name: "BANK OF FUKUOKA, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: FKBKJPJT
+    
+- name: "BANK OF INDIA"
+  city: "OSAKA"
+  branch: OSAKA BRANCH
+  swift: BKIDJPJTOSK
+    
+- name: "BANK OF INDIA"
+  city: "TOKYO"
+  branch: TOKYO BRANCH
+  swift: BKIDJPJT
+    
+- name: "BANK OF IWATE LTD., THE"
+  city: "MORIOKA"
+  branch: null
+  swift: BAIWJPJT
+    
+- name: "BANK OF JAPAN"
+  city: "TOKYO"
+  branch: FOR JAPAN'S RESERVES USE ONLY
+  swift: BOJPJPJTBJ1
+    
+- name: "BANK OF JAPAN"
+  city: "TOKYO"
+  branch: FOR JAPAN'S RESERVES USE ONLY
+  swift: BOJPJPJTMF1
+    
+- name: "BANK OF JAPAN"
+  city: "TOKYO"
+  branch: null
+  swift: BOJPJPJT
+    
+- name: "BANK OF KYOTO,LTD.,THE"
+  city: "KYOTO"
+  branch: null
+  swift: BOKFJPJZ
+    
+- name: "BANK OF NAGOYA, LTD. , THE"
+  city: "NAGOYA"
+  branch: null
+  swift: NAGOJPJN
+    
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "TOKYO"
+  branch: null
+  swift: NOSCJPJ1
+    
+- name: "BANK OF OKINAWA, LTD., THE"
+  city: "NAHA"
+  branch: null
+  swift: BOKIJPJZ
+    
+- name: "BANK OF SAGA, LTD., THE"
+  city: "SAGA"
+  branch: null
+  swift: BKSGJPJTSAG
+    
+- name: "BANK OF SAGA, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: BKSGJPJT
+    
+- name: "BANK OF TAIWAN, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: BKTWJPJT
+    
+- name: "BANK OF THE RYUKYUS, LTD."
+  city: "NAHA"
+  branch: null
+  swift: RYUBJPJZ
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "FUKUOKA"
+  branch: null
+  swift: BOTKJPJTFUK
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "HIROSHIMA"
+  branch: null
+  swift: BOTKJPJTHIR
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "KITAKYUSYU"
+  branch: null
+  swift: BOTKJPJTSMO
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "KOBE"
+  branch: null
+  swift: BOTKJPJTKOB
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "NAGOYA"
+  branch: null
+  swift: BOTKJPJTNGY
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "OSAKA"
+  branch: null
+  swift: BOTKJPJTOSA
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "SAPPORO"
+  branch: null
+  swift: BOTKJPJTSAP
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "TOKYO"
+  branch: CLS CONTROL BRANCH-CONTROL DESK
+  swift: BOTKJPJTCLS
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "TOKYO"
+  branch: FUNDS AND FOREIGN EXCHANGE DIVISION
+  swift: BOTKJPJTFGN
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "TOKYO"
+  branch: HEAD OFFICE
+  swift: BOTKJPJT
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "TOKYO"
+  branch: INVESTMENT FUND OPERATIONS UNIT
+  swift: BOTKJPJTFND
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "TOKYO"
+  branch: SECURITIES SERVICES DIVISION
+  swift: BOTKJPJTSAD
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD.,THE"
+  city: "TOKYO"
+  branch: null
+  swift: BOTKJPJ2
+    
+- name: "BANK OF YOKOHAMA, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: HAMAJPJT
+    
+- name: "BANSEI PRIME CAPITAL SECURITES CO., LTD."
+  city: "KYOTO"
+  branch: null
+  swift: BSPCJPJ1
+    
+- name: "BANYO SECURITIES CO., LTD"
+  city: "HYOGO"
+  branch: null
+  swift: BANYJPJ1
+    
+- name: "BARCLAYS BANK PLC"
+  city: "TOKYO"
+  branch: MONEY MARKET AND FOREIGN EXCHANGE
+  swift: BARCJPJ2MFX
+    
+- name: "BARCLAYS GLOBAL INVESTORS JAPAN INVESTMENT TRUST C O.,LTD"
+  city: "TOKYO"
+  branch: null
+  swift: BITBJPJ1
+    
+- name: "BARCLAYS SECURITIES JAPAN LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: BARCJPJ9
+    
+- name: "BARING ASSET MANAGEMENT (JAPAN) LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: BAMJJPJ1
+    
+- name: "BEAR STEARNS ( JAPAN ), LTD"
+  city: "TOKYO"
+  branch: null
+  swift: BESJJPJ1
+    
+- name: "BGC SHOKEN KAISHA LIMITED"
+  city: "MINATO-KU"
+  branch: null
+  swift: CFILJPJT
+    
+- name: "BINARY K.K."
+  city: "TOKYO"
+  branch: null
+  swift: BINYJPJ1
+    
+- name: "BLACKROCK JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: BGIAJPJT
+    
+- name: "BLACKROCK JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: BLKSJPJ1
+    
+- name: "BNP PARIBAS S.A. - TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: BNPAJPJT
+    
+- name: "BNP PARIBAS SECURITIES (JAPAN) LTD."
+  city: "TOKYO"
+  branch: null
+  swift: BNPAJPJ2
+    
+- name: "BPI INTERNATIONAL FINANCE LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: BPIIJPJ1
+    
+- name: "BROWN BROTHERS HARRIMAN SECURITIES INVESTMENT MANAGEMENT (JAPAN) INC."
+  city: "TOKYO"
+  branch: null
+  swift: BBHCJPJT
+    
+- name: "BURNS FRY LTD"
+  city: "TOKYO"
+  branch: null
+  swift: BFLEJPJ1
+    
+- name: "BV CAPITAL MARKETS (ASIA) LTD."
+  city: "TOKYO"
+  branch: null
+  swift: BVCMJPJ1
+    
+- name: "CAPITAL PARTNERS SECURITIES CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: CPSTJPJ1
+    
+- name: "CENTRAL TANSHI CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: CTRLJPJT
+    
+- name: "CENTRAL TOTAN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: CTSSJPJ1
+    
+- name: "CENTURY SECURITIES CO. LTD."
+  city: "TOKYO"
+  branch: null
+  swift: CENSJPJ1
+    
+- name: "CHANG HWA COMMERCIAL BANK LTD., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: CCBCJPJT
+    
+- name: "CHASE SECURITIES"
+  city: "TOKYO"
+  branch: null
+  swift: CHSCJPJ1
+    
+- name: "CHIBA BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: CHBAJPJT
+    
+- name: "CHIBA KOGYO BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: CHIKJPJT
+    
+- name: "CHIBAGIN SECURITIES CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: CHUSJPJ1
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: PCBCJPJT
+    
+- name: "CHUBU COMMODITY EXCHANGE"
+  city: "NAGOYA"
+  branch: null
+  swift: XCCEJPJ1
+    
+- name: "CHUGOKU BANK, LTD., THE"
+  city: "OKAYAMA"
+  branch: HEAD OFFICE
+  swift: CHGKJPJZ
+    
+- name: "CHUGOKU BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: CHGKJPJT
+    
+- name: "CHUKYO BANK, LIMITED, THE"
+  city: "NAGOYA"
+  branch: null
+  swift: CKBKJPJN
+    
+- name: "CIBC WORLD MARKETS (JAPAN) INC."
+  city: "TOKYO"
+  branch: null
+  swift: CIWMJPJT
+    
+- name: "CITIBANK N.A., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: CITIJPJT
+    
+- name: "CITICORP CENTER JAPAN LTD. TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: CSJLJPJ1
+    
+- name: "CITICORP INTERNATIONAL SECURITIES LTD."
+  city: "TOKYO"
+  branch: null
+  swift: CSVNJPJ1
+    
+- name: "CITIGROUP ASSET MANAGEMENT CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SSBCJPJ1
+    
+- name: "CITIGROUP GLOBAL MARKETS JAPAN INC."
+  city: "TOKYO"
+  branch: null
+  swift: NSBLJPJT
+    
+- name: "CLSA SECURITIES JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: CLEJJPJ1
+    
+- name: "COMMERZBANK AG TOKYO"
+  city: "TOKYO"
+  branch: OFF-SHORE BUSINESS
+  swift: COBAJPJXTOM
+    
+- name: "COMMERZBANK AG TOKYO"
+  city: "TOKYO"
+  branch: null
+  swift: COBAJPJX
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA"
+  city: "TOKYO"
+  branch: null
+  swift: CTBAJPJT
+    
+- name: "COMPAG COMPUTER K.K. FINANCE INDUSTORY NETWORK AND SYSTEM INTEGRATION"
+  city: "TOKYO"
+  branch: null
+  swift: COMGJPJ1
+    
+- name: "COUNTY NATWEST SECURITIES JAPAN LTD."
+  city: "TOKYO"
+  branch: null
+  swift: CNSJJPJ1
+    
+- name: "CREDIT AGRICOLE CIB TOKYO BRANCH"
+  city: "TOKYO"
+  branch: COMMODITY
+  swift: BSUIJPJTCOM
+    
+- name: "CREDIT AGRICOLE CIB TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: BSUIJPJT
+    
+- name: "CREDIT AGRICOLE SECURITIES ASIA B.V."
+  city: "TOKYO"
+  branch: null
+  swift: CRLYJPJ9
+    
+- name: "CREDIT SUISSE AG, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: TOKYO BRANCH
+  swift: CRESJPJT
+    
+- name: "CREDIT SUISSE AG, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: TOKYO BRANCH
+  swift: CRESJPJTPBS
+    
+- name: "CREDIT SUISSE SECURITIES (JAPAN) LTD."
+  city: "TOKYO"
+  branch: EQUITY SETTLEMENTS
+  swift: CSFBJPJXEQT
+    
+- name: "CREDIT SUISSE SECURITIES (JAPAN) LTD."
+  city: "TOKYO"
+  branch: TOKYO BRANCH
+  swift: CSFBJPJXPBS
+    
+- name: "CREDIT SUISSE SECURITIES (JAPAN) LTD."
+  city: "TOKYO"
+  branch: null
+  swift: CSFBJPJX
+    
+- name: "CREDIT SUISSE SECURITIES (JAPAN) LTD."
+  city: "TOKYO"
+  branch: null
+  swift: CSFBJPJXVIS
+    
+- name: "CROSBY SECURITIES LTD"
+  city: "TOKYO"
+  branch: null
+  swift: CRSEJPJ1
+    
+- name: "CTBC BANK CO., LTD., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: CTCBJPJT
+    
+- name: "DAEWOO SECURITIES CO. LTD"
+  city: "TOKYO"
+  branch: null
+  swift: DAESJPJ1
+    
+- name: "DAI CHI KANGYO SECURITIES 6F MARUNOUCHI CENTRE BLDG"
+  city: "TOKYO"
+  branch: null
+  swift: DCKSJPJ1
+    
+- name: "DAICEL INTERNATIONAL FINANCE BV"
+  city: "OSAKA"
+  branch: null
+  swift: DAIIJPJ1
+    
+- name: "DAICHU SECURITIES COMPANY"
+  city: "OSAKA"
+  branch: null
+  swift: DACYJPJ1
+    
+- name: "DAI-ICHI SECURITIES CO LTD."
+  city: "TOKYO"
+  branch: null
+  swift: SDAIJPJ1
+    
+- name: "DAIKO CLEARING SERVICES CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: DSBTJPJ1
+    
+- name: "DAISAN BANK, LTD., THE"
+  city: "MATSUSAKA"
+  branch: null
+  swift: DSBKJPJT
+    
+- name: "DAISEI SECURITIES CO LTD."
+  city: "TOKYO"
+  branch: null
+  swift: DSSEJPJ1
+    
+- name: "DAISHI BANK LTD.,THE"
+  city: "TOKYO"
+  branch: null
+  swift: DAISJPJT
+    
+- name: "DAISHIN SECURITIES CO. LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SEDAJPJ1
+    
+- name: "DAITOKU SECURITIES CO. LTD"
+  city: "AICHI"
+  branch: null
+  swift: DAITJPJ1
+    
+- name: "DAIWA ASSET MANAGEMENT CO. LTD"
+  city: "TOKYO"
+  branch: null
+  swift: DAMLJPJ1001
+    
+- name: "DAIWA ASSET MANAGEMENT CO. LTD"
+  city: "TOKYO"
+  branch: null
+  swift: DAMLJPJB
+    
+- name: "DAIWA ASSET MANAGEMENT CO. LTD"
+  city: "TOKYO"
+  branch: null
+  swift: DAMLJPJT
+    
+- name: "DAIWA NEXT BANK, LTD."
+  city: "CHIYODA-KU"
+  branch: null
+  swift: DNEXJPJT
+    
+- name: "DAIWA SB INVESTMENTS LTD"
+  city: "TOKYO"
+  branch: null
+  swift: DSBIJPJ1
+    
+- name: "DAIWA SECURITIES CO.LTD."
+  city: "TOKYO"
+  branch: CLS CONTROL BRANCH
+  swift: DWSCJPJTCLS
+    
+- name: "DAIWA SECURITIES CO.LTD."
+  city: "TOKYO"
+  branch: JAPANESE SECURITIES SETTLEMENTS
+  swift: DWSCJPJTJSS
+    
+- name: "DAIWA SECURITIES CO.LTD."
+  city: "TOKYO"
+  branch: null
+  swift: DWSCJPJT
+    
+- name: "DBS BANK LTD, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: DBSSJPJT
+    
+- name: "DEUTSCHE ASSET MANAGEMENT(JAPAN)LTD"
+  city: "TOKYO"
+  branch: null
+  swift: DEAMJPJT
+    
+- name: "DEUTSCHE BANK AG"
+  city: "TOKYO"
+  branch: TOKYO BRANCH
+  swift: DEUTJPJT
+    
+- name: "DEUTSCHE SECURITIES INC."
+  city: "TOKYO"
+  branch: EQUITY DIVISION
+  swift: DEUTJPJ9EQT
+    
+- name: "DEUTSCHE SECURITIES INC."
+  city: "TOKYO"
+  branch: FOREX DIVISION
+  swift: DEUTJPJ9FX1
+    
+- name: "DEUTSCHE SECURITIES INC."
+  city: "TOKYO"
+  branch: JAPANESE EQUITY SETTLEMENT DEPARTMENT
+  swift: DEUTJPJ9DOM
+    
+- name: "DEUTSCHE SECURITIES INC."
+  city: "TOKYO"
+  branch: null
+  swift: DEUTJPJ7
+    
+- name: "DEUTSCHE SECURITIES INC."
+  city: "TOKYO"
+  branch: null
+  swift: DEUTJPJ9
+    
+- name: "DEUTSCHE SECURITIES INC."
+  city: "TOKYO"
+  branch: null
+  swift: DEUTJPJ9FIC
+    
+- name: "DEVELOPMENT BANK OF JAPAN INC."
+  city: "TOKYO"
+  branch: null
+  swift: DEJAJPJ1
+    
+- name: "DIC CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: DICJJPJT
+    
+- name: "DILLON, READ AND CO INC."
+  city: "TOKYO"
+  branch: null
+  swift: DILRJPJ1
+    
+- name: "DONALDSON, LUFKIN AND JENRETTE SECURITIES CORP."
+  city: "TOKYO"
+  branch: null
+  swift: DLJCJPJ1
+    
+- name: "DONGSUH SECURITIES CO. LTD."
+  city: "TOKYO"
+  branch: null
+  swift: DOSEJPJ1
+    
+- name: "DVB TRANSPORT FINANCE LTD"
+  city: "TOKYO"
+  branch: null
+  swift: DVKBJPJ1
+    
+- name: "E.SUN COMMERCIAL BANK, LTD."
+  city: "CHIYODA-KU"
+  branch: null
+  swift: ESUNJPJT
+    
+- name: "EBARA CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: EBCPJPJT
+    
+- name: "EHIME BANK, LTD., THE"
+  city: "MATSUYAMA"
+  branch: null
+  swift: HIMEJPJT
+    
+- name: "EIGHTEENTH BANK,LIMITED,THE"
+  city: "NAGASAKI"
+  branch: null
+  swift: EITNJPJT
+    
+- name: "EPIC PROWESS OF JAPAN FUND"
+  city: "TOKYO"
+  branch: null
+  swift: EPJFJPJ1
+    
+- name: "EPIC WISDOM OF JAPAN"
+  city: "TOKYO"
+  branch: null
+  swift: EPWJJPJ1
+    
+- name: "EXPORT-IMPORT BANK OF KOREA, THE"
+  city: "TOKYO"
+  branch: null
+  swift: EXIKJPJ1
+    
+- name: "FAST RETAILING CO LTD"
+  city: "YAMAGUCHI"
+  branch: null
+  swift: FRUQJPJ2
+    
+- name: "FIL INVESTMENTS (JAPAN) LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: FIDIJPJ1
+    
+- name: "FIRST BANK OF TOYAMA, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: FBTYJPJ1
+    
+- name: "FIRST COMMERCIAL BANK, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: FCBKJPJT
+    
+- name: "FITCH RATINGS JAPAN LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: FRIPJPJ1
+    
+- name: "FORTIS ASSET MANAGEMENT JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: CICJJPJ1
+    
+- name: "FPG SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: FPSEJPJ1
+    
+- name: "FUJI SECURITIES"
+  city: "TOKYO"
+  branch: null
+  swift: FUSTJPJ1
+    
+- name: "FUKOKU MUTUAL LIFE INSURANCE COMPANY"
+  city: "TOKYO"
+  branch: null
+  swift: FMLIJPJ1
+    
+- name: "FUKUI BANK, LTD., THE"
+  city: "FUKUI"
+  branch: null
+  swift: FKUIJPJT
+    
+- name: "FUKUOKA STOCK EXCHANGE"
+  city: "FUKUOKA"
+  branch: null
+  swift: XFKAJPJ1
+    
+- name: "FUKUYAMA SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: FKSEJPJ1
+    
+- name: "FWD FUJI LIFE INSURANCE COMPANY, LIMITED"
+  city: "MINATO-KU"
+  branch: null
+  swift: AIGJJPJT
+    
+- name: "FX PRIME CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: FXPCJPJ1
+    
+- name: "GAITAMEONLINE CO.,LTD"
+  city: "CHIYODA-KU"
+  branch: null
+  swift: GACTJPJ1
+    
+- name: "GIFU SHINKIN BANK, THE"
+  city: "GIFU"
+  branch: null
+  swift: GFSBJPJZ
+    
+- name: "GIORGIO ARMANI JAPAN CO. LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: GAFIJPJ1
+    
+- name: "GMO CLICK SECURITIES,INC."
+  city: "TOKYO"
+  branch: null
+  swift: GMCSJPJ1
+    
+- name: "GOLDMAN SACHS ASSET MANAGEMENT CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: GSAMJPJT
+    
+- name: "GOLDMAN SACHS JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: GOLDJPJX
+    
+- name: "GOLDMAN SACHS JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: GOLDJPJXMRA
+    
+- name: "GUNMA BANK, LTD., THE"
+  city: "MAEBASHI"
+  branch: null
+  swift: GUMAJPJT
+    
+- name: "H.S. SECURITIES CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: HSCOJPJ1
+    
+- name: "HACHIJUNI BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: HABKJPJT
+    
+- name: "HACHIJUNI SECURITIES CO., LTD."
+  city: "NAGANO"
+  branch: null
+  swift: UEDAJPJ1
+    
+- name: "HAGIWARA ELECTRIC CO.,LTD."
+  city: "NAGOYA"
+  branch: null
+  swift: HAELJPJN
+    
+- name: "HAMAMATSU SHINKIN BANK THE"
+  city: "SHIZUOKA"
+  branch: null
+  swift: HMSKJPJT
+    
+- name: "HANIL SECURITIES CO. LTD"
+  city: "TOKYO"
+  branch: null
+  swift: HANEJPJ1
+    
+- name: "HATORI-MARSHALL COMPANY LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: HMCLJPJ1
+    
+- name: "HEWLETT-PACKARD JAPAN LTD."
+  city: "TOKYO"
+  branch: null
+  swift: HEJAJPJ1
+    
+- name: "HIGASHI-NIPPON BANK, LIMITED, THE"
+  city: "TOKYO"
+  branch: null
+  swift: HNPBJPJT
+    
+- name: "HINODE SECURITIES CO., LTD."
+  city: "OSAKA"
+  branch: null
+  swift: HISEJPJ1
+    
+- name: "HIROSHIMA BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: HIROJPJT
+    
+- name: "HIROSHIMA STOCK EXCHANGE"
+  city: "HIROSHIMA"
+  branch: null
+  swift: XHIRJPJ1
+    
+- name: "HIROTA SECURITIES CO., LTD."
+  city: "OSAKA"
+  branch: null
+  swift: HIRTJPJ1
+    
+- name: "HOARE GOVETT LTD."
+  city: "TOKYO"
+  branch: null
+  swift: HOGTJPJ1
+    
+- name: "HOKKAIDO BANK, LTD., THE"
+  city: "SAPPORO"
+  branch: null
+  swift: HKDBJPJT
+    
+- name: "HOKKOKU BANK, LTD., THE"
+  city: "KANAZAWA"
+  branch: null
+  swift: HKOKJPJT
+    
+- name: "HOKUETSU BANK, LTD., THE"
+  city: "NAGAOKA"
+  branch: null
+  swift: HETSJPJT
+    
+- name: "HOKURIKU BANK, LTD.,THE"
+  city: "TOKYO"
+  branch: null
+  swift: RIKBJPJT
+    
+- name: "HOKUTO BANK, LTD., THE"
+  city: "AKITA"
+  branch: null
+  swift: HOKBJPJT
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE"
+  city: "TOKYO"
+  branch: CLS DIVISION
+  swift: HSBCJPJTCLS
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE"
+  city: "TOKYO"
+  branch: TREASURY DEPARTMENT
+  swift: HSBCJPJTTRS
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE"
+  city: "TOKYO"
+  branch: null
+  swift: HSBCJPJT
+    
+- name: "HSBC SECURITIES (JAPAN) LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: IBJPJPJT
+    
+- name: "HYAKUGO BANK,LTD.,THE"
+  city: "TOKYO"
+  branch: null
+  swift: HYKGJPJT
+    
+- name: "HYAKUGO BANK,LTD.,THE"
+  city: "TSU"
+  branch: null
+  swift: HYKGJPJTTSU
+    
+- name: "HYAKUJUSHI BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: HYAKJPJT
+    
+- name: "HYPO REAL ESTATE CAPITAL JAPAN CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: DPBBJPJ1
+    
+- name: "HYUNDAI SECURITIES CO., LTD TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: HDTKJPJ1
+    
+- name: "IBJ SECURITIES"
+  city: "TOKYO"
+  branch: null
+  swift: IBJSJPJ1
+    
+- name: "ICHIYOSHI SECURITIES CO. LTD."
+  city: "TOKYO"
+  branch: null
+  swift: ICHIJPJ1
+    
+- name: "IMAGAWA MISAWAYA SECURITIES CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: IMAGJPJ1
+    
+- name: "IMAMURA SECURITIES CO. LTD"
+  city: "KANAZAWA"
+  branch: null
+  swift: IMAMJPJ1
+    
+- name: "INDOCAM JAPAN LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: AGRIJPJ1
+    
+- name: "INDOSUEZ CAPITAL SECURITIES (JAPAN) LTD"
+  city: "TOKYO"
+  branch: null
+  swift: ICSJJPJ1
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: ICBKJPJT
+    
+- name: "INDUSTRIAL BANK OF KOREA, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: IBKOJPJT
+    
+- name: "ING BANK N.V."
+  city: "TOKYO"
+  branch: TOKYO BRANCH
+  swift: INGBJPJT
+    
+- name: "INSTINET JAPAN LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: INSJJPJ1
+    
+- name: "INTERACTIVE BROKERS SECURITIES JAPAN, INC. TEKKO KAIKAN 4 F"
+  city: "TOKYO"
+  branch: null
+  swift: IBSJJPJ1
+    
+- name: "INTESA SANPAOLO SPA TOKYO"
+  city: "TOKYO"
+  branch: null
+  swift: BCITJPJT
+    
+- name: "INVAST SECURITIES CO.,LTD."
+  city: "TOKYO"
+  branch: null
+  swift: KOBEJPJ1
+    
+- name: "ISUKAMOTO SECURITES COMP."
+  city: "OSAKA"
+  branch: null
+  swift: TKMTJPJ1
+    
+- name: "ITAU UNIBANCO S.A., TOKYO BRANCH"
+  city: "CHIYODA-KU"
+  branch: null
+  swift: ITAUJPJT
+    
+- name: "ITG JAPAN LTD"
+  city: "TOKYO"
+  branch: null
+  swift: ITJAJPJ1
+    
+- name: "IWAI SECURITIES LTD."
+  city: "OSAKA"
+  branch: null
+  swift: IWAIJPJ1
+    
+- name: "IWAICOSMO SECURITIES CO. LTD."
+  city: "TOKYO"
+  branch: null
+  swift: COSSJPJT
+    
+- name: "IYO BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: IYOBJPJT
+    
+- name: "J.M. SASSOON AND CO (PTE) LTD"
+  city: "TOKYO"
+  branch: null
+  swift: JMSCJPJ1
+    
+- name: "J.P. MORGAN INVESTMENT MANAGEMENT INC."
+  city: "TOKYO"
+  branch: null
+  swift: JPMIJPJ1
+    
+- name: "JAPAN ASIA SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MAUCJPJ1
+    
+- name: "JAPAN BOND TRADING CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: JBTSJPJ1
+    
+- name: "JAPAN CREDIT RATING AGENCY, LTD."
+  city: "CHUO-KU"
+  branch: null
+  swift: JCRAJPJ1
+    
+- name: "JAPAN ELECTRONIC SECURITIES CO., LTD."
+  city: "OSAKA"
+  branch: null
+  swift: JESCJPJ1
+    
+- name: "JAPAN POST BANK, CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: JPPSJPJ1
+    
+- name: "JAPAN POST BANK, CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: JPPSJPJK
+    
+- name: "JAPAN SECURITIES AGENTS, LTD."
+  city: "TOKYO"
+  branch: CLEARANCE SECTION
+  swift: JSEAJPJ1CLR
+    
+- name: "JAPAN SECURITIES AGENTS, LTD."
+  city: "TOKYO"
+  branch: CUSTODY SECTION
+  swift: JSEAJPJ1CST
+    
+- name: "JAPAN SECURITIES AGENTS, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: JSEAJPJ1
+    
+- name: "JAPAN SECURITIES CLEARING CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: JSCCJPJ1
+    
+- name: "JAPAN SECURITIES CLEARING CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: JSCCJPJK
+    
+- name: "JAPAN SECURITIES DEPOSITORY CENTER, INC"
+  city: "TOKYO"
+  branch: null
+  swift: JJSDJPJT
+    
+- name: "JAPAN SECURITIES FINANCE CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: JSFTJPJ1
+    
+- name: "JAPAN SECURITY CLEARING CORPORATION (JGB CLEARING)"
+  city: "TOKYO"
+  branch: null
+  swift: JGBCJPJ1
+    
+- name: "JAPAN TRUSTEE SERVICES BANK, LTD."
+  city: "TOKYO"
+  branch: AGENT ACCOUNT
+  swift: JTSBJPJTAGE
+    
+- name: "JAPAN TRUSTEE SERVICES BANK, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: JTSBJPJT
+    
+- name: "JAPAN WEALTH MANAGEMENT SECURITIES, INC."
+  city: "TOKYO"
+  branch: null
+  swift: JWMSJPJ1
+    
+- name: "JEFFERIES JAPAN LIMITED"
+  city: "CHIYODA-KU"
+  branch: null
+  swift: JEJAJPJ1
+    
+- name: "JIBUN BANK CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: JICRJPJ1
+    
+- name: "JIBUN BANK CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: JICRJPJT
+    
+- name: "JOHNAN SHINKIN BANK THE"
+  city: "TOKYO"
+  branch: null
+  swift: JSBKJPJT
+    
+- name: "JOHOKU SHINKIN BANK, THE"
+  city: "TOKYO"
+  branch: null
+  swift: OJISJPJT
+    
+- name: "JOYO BANK, LTD., THE"
+  city: "IBARAKI"
+  branch: null
+  swift: JOYOJPJT
+    
+- name: "JPMORGAN ASSET MANAGEMENT (JAPAN) LIMITED"
+  city: "TOKYO"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASJPJZKEY
+    
+- name: "JPMORGAN ASSET MANAGEMENT (JAPAN) LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: CHASJPJZ
+    
+- name: "JPMORGAN CHASE BANK, N.A., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: NON-CASH RELATED, SPECIAL PURPOSE
+  swift: CHASJPJTWSS
+    
+- name: "JPMORGAN CHASE BANK, N.A., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASJPJTENQ
+    
+- name: "JPMORGAN CHASE BANK, N.A., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASJPJTKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: TOKYO BRANCH
+  swift: CHASJPJT
+    
+- name: "JPMORGAN CHASE BANK, N.A., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: TRADE SERVICE DEPARTMENT
+  swift: CHASJPJTTSD
+    
+- name: "JPMORGAN SECURITIES JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: CASH EQUITY MIDDLE OFFICE
+  swift: CHASJPJ9CE1
+    
+- name: "JPMORGAN SECURITIES JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: EQUITY OPERATION
+  swift: CHASJPJ9EQT
+    
+- name: "JPMORGAN SECURITIES JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASJPJ9KEY
+    
+- name: "JPMORGAN SECURITIES JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: CHASJPJ9
+    
+- name: "JSF TRUST AND BANKING CO.,LTD"
+  city: "TOKYO"
+  branch: null
+  swift: JSTCJPJ1
+    
+- name: "JUROKU BANK, LTD., THE"
+  city: "GIFU"
+  branch: null
+  swift: JUROJPJT
+    
+- name: "JYUJIYA SECURITIES CO LTD"
+  city: "TOKYO"
+  branch: null
+  swift: JYUJJPJ1
+    
+- name: "KABU.COM SECURITIES CO.,LTD."
+  city: "TOKYO"
+  branch: null
+  swift: KASLJPJ1
+    
+- name: "KAGAWA BANK LTD., THE"
+  city: "TAKAMATSU"
+  branch: null
+  swift: KGWBJPJZ
+    
+- name: "KAGOSHIMA BANK, LTD., THE"
+  city: "KAGOSHIMA"
+  branch: null
+  swift: KAGOJPJT
+    
+- name: "KAKAKU.COM FINANCIAL,INC."
+  city: "TOKYO"
+  branch: null
+  swift: KAFIJPJ1
+    
+- name: "KANEJU SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: KSECJPJ1
+    
+- name: "KANEMAN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: KANEJPJ1
+    
+- name: "KANEYAMA SECURITIES CO."
+  city: "TOKYO"
+  branch: null
+  swift: KANAJPJ1
+    
+- name: "KANMON SHOHIN TORIHIKIJO (COMMODITY EXCHANGE)"
+  city: "SHIMONOSEKI"
+  branch: null
+  swift: XKSTJPJ1
+    
+- name: "KANSAI AGRICULTURAL COMMODITIES EXCHANGE"
+  city: "OSAKA"
+  branch: null
+  swift: XKACJPJ1
+    
+- name: "KANSAI URBAN BANKING CORPORATION"
+  city: "OSAKA"
+  branch: null
+  swift: KSBJJPJS
+    
+- name: "KAZAKA SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NGLOJPJ1
+    
+- name: "KDDI CORPORATION"
+  city: "CHIYODA-KU"
+  branch: null
+  swift: KDDIJPJT
+    
+- name: "KEB HANA BANK"
+  city: "OSAKA"
+  branch: OSAKA BRANCH
+  swift: KOEXJPJTOSA
+    
+- name: "KEB HANA BANK"
+  city: "TOKYO"
+  branch: null
+  swift: KOEXJPJT
+    
+- name: "KEIYO BANK, LTD., THE"
+  city: "CHIBA"
+  branch: null
+  swift: KEIBJPJT
+    
+- name: "KIMURA SECURITIES CO., LTD."
+  city: "NAGOYA"
+  branch: null
+  swift: KIMUJPJ1
+    
+- name: "KINKI OSAKA BANK, LTD., THE"
+  city: "OSAKA"
+  branch: null
+  swift: OSABJPJS
+    
+- name: "KIRAYAKA BANK, LTD."
+  city: "YAMAGATA"
+  branch: null
+  swift: SHIAJPJ1
+    
+- name: "KITAKYUSHU BANK, LTD., THE(FORMERLY A PART OF THE YAMAGUCHI BANK,LTD.)"
+  city: "KITAKYUSYU"
+  branch: null
+  swift: KITQJPJZ
+    
+- name: "KITA-NIPPON BANK, LTD., THE"
+  city: "MORIOKA"
+  branch: null
+  swift: KNPBJPJT
+    
+- name: "KIYO BANK, LTD, THE"
+  city: "WAKAYAMA"
+  branch: null
+  swift: KIYOJPJT
+    
+- name: "KOBE GOMU TORIHIKIJO (RUBBER EXCHANGE)"
+  city: "OSAKA"
+  branch: null
+  swift: XKGTJPJ1
+    
+- name: "KOBE KIITO TORIHIKIJO (RAW SILK EXCHANGE)"
+  city: "KOBE"
+  branch: null
+  swift: XKKTJPJ1
+    
+- name: "KOE"
+  city: "TOKYO"
+  branch: null
+  swift: KOEJJPJ1
+    
+- name: "KOHSEI SECURITIES"
+  city: "TOKYO"
+  branch: null
+  swift: KOHSJPJ1
+    
+- name: "KOKUSAI DENSIN DENWA CO. LTD."
+  city: "TOKYO"
+  branch: null
+  swift: KDDNJPJ1
+    
+- name: "KOOKMIN BANK"
+  city: "TOKYO"
+  branch: null
+  swift: CZNBJPJT
+    
+- name: "KOREA DEVELOPMENT BANK,THE,TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: KODBJPJT
+    
+- name: "KOSEI SECURITIES CO."
+  city: "TOKYO"
+  branch: null
+  swift: KOSSJPJ1
+    
+- name: "KUMAMOTO BANK, LTD., THE"
+  city: "KUMAMOTO"
+  branch: null
+  swift: KUMAJPJZ
+    
+- name: "KYOKUTO SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: KYOSJPJ1
+    
+- name: "KYOTO CHUO SHINKIN BANK, THE"
+  city: "KYOTO"
+  branch: null
+  swift: KCHUJPJY
+    
+- name: "KYOTO SHINKIN BANK,THE"
+  city: "KYOTO"
+  branch: null
+  swift: KYSBJPJZ
+    
+- name: "KYOTO STOCK EXCHANGE"
+  city: "KYOTO"
+  branch: null
+  swift: XKYOJPJ1
+    
+- name: "KYOWA SECURITIES CO."
+  city: "TOKYO"
+  branch: null
+  swift: KYOCJPJ1
+    
+- name: "LANDESBANK BADEN-WUERTTEMBERG, TOKYO"
+  city: "TOKYO"
+  branch: null
+  swift: SOLAJPJ1
+    
+- name: "LEADING SECURITIES CO.,LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SIEGJPJ1
+    
+- name: "LEHMAN BROTHERS JAPAN INC."
+  city: "TOKYO"
+  branch: null
+  swift: LBFLJPJ1
+    
+- name: "LG DISPLAY JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: LGDTJPJ1
+    
+- name: "LIQUIDNET JAPAN INC."
+  city: "MINATO-KU"
+  branch: null
+  swift: LIQJJPJ1
+    
+- name: "LOMBARD ODIER TRUST (JAPAN) LIMITED"
+  city: "TOKYO"
+  branch: NDP DEPT
+  swift: LOCYJPJTNDP
+    
+- name: "LOMBARD ODIER TRUST (JAPAN) LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: LOCYJPJT
+    
+- name: "LTCB SECURITIES COMPANY LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: LTSCJPJ1
+    
+- name: "LUCKY SECURITIES CO LTD"
+  city: "TOKYO"
+  branch: null
+  swift: LUCSJPJ1
+    
+- name: "MACQUARIE CAPITAL SECURITIES (JAPAN) LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: MACQJPJ1
+    
+- name: "MAEDA SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: MAEEJPJ1
+    
+- name: "MAEDA SECURITIES LTD."
+  city: "FUKUOKA"
+  branch: null
+  swift: MAESJPJ1
+    
+- name: "MANULIFE ASSET MANAGEMENT (JAPAN) LIMITED"
+  city: "CHIYODA-KU"
+  branch: null
+  swift: MAMJJPJ1
+    
+- name: "MANULIFE LIFE INSURANCE COMPANY"
+  city: "TOKYO"
+  branch: null
+  swift: MFCTJPJT
+    
+- name: "MARUDAI SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: RUDAJPJ1
+    
+- name: "MARUFUKU SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: MAREJPJ1
+    
+- name: "MARUHACHI SECURITIES CO"
+  city: "NAGOYA"
+  branch: null
+  swift: MARCJPJ1NGY
+    
+- name: "MARUHACHI SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: MARCJPJ1
+    
+- name: "MARUICHI SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: MAUSJPJ1
+    
+- name: "MARUKUNI SECURITIES CO."
+  city: "TOKYO"
+  branch: null
+  swift: MAUUJPJ1
+    
+- name: "MARUSAN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MARUJPJ1
+    
+- name: "MASTER TRUST BANK OF JAPAN LTD, THE"
+  city: "TOKYO"
+  branch: INVESTOR SERVICES DIVISION
+  swift: MTBJJPJTAGT
+    
+- name: "MASTER TRUST BANK OF JAPAN LTD, THE"
+  city: "TOKYO"
+  branch: null
+  swift: MTBJJPJT
+    
+- name: "MATSUI SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: MATEJPJ1
+    
+- name: "ME NET SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TMTDJPJ1
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,"
+  city: "OSAKA"
+  branch: null
+  swift: ICBCJPJTOSA
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,"
+  city: "TOKYO"
+  branch: null
+  swift: ICBCJPJT
+    
+- name: "MEIJI YASUDA ASSET MANAGEMENT COMPANY LTD."
+  city: "MINATO-KU"
+  branch: null
+  swift: MYAMJPJ1
+    
+- name: "MEIJI YASUDA LIFE INSURANCE COMPANY"
+  city: "TOKYO"
+  branch: null
+  swift: MYLIJPJ1
+    
+- name: "MEIKO NATIONAL SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MESCJPJ1
+    
+- name: "MEIWA SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: MEICJPJ1
+    
+- name: "MELLON GLOBAL INVESTMENTS JAPAN CO LTD"
+  city: "TOKYO"
+  branch: null
+  swift: MELNJPJT
+    
+- name: "MERCEDES-BENZ JAPAN CO.LTD."
+  city: "TOKYO"
+  branch: null
+  swift: DAIXJPJT
+    
+- name: "MERRILL LYNCH JAPAN SECURITIES CO. LTD"
+  city: "TOKYO"
+  branch: null
+  swift: MLCOJPJX
+    
+- name: "MERRILL LYNCH JAPAN SECURITIES CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: MLCOJPJD
+    
+- name: "MERRILL LYNCH JAPAN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: BOND SETTLEMENT
+  swift: MLCOJPJTJGB
+    
+- name: "MERRILL LYNCH JAPAN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: EQUITY SETTLEMENT
+  swift: MLCOJPJTJES
+    
+- name: "MERRILL LYNCH JAPAN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: STRATEGIC DEVELOPMENT INITIATIVE
+  swift: MLCOJPJTSDI
+    
+- name: "MERRILL LYNCH JAPAN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: TREASURY OPERATIONS
+  swift: MLCOJPJTTSY
+    
+- name: "MERRILL LYNCH JAPAN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MLCOJPJT
+    
+- name: "METLIFE INSURANCE K.K."
+  city: "TOKYO"
+  branch: null
+  swift: MENCJPJ1
+    
+- name: "METROPOLITAN BANK AND TRUST COMPANY, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: MBTCJPJT
+    
+- name: "MF GLOBAL FXA SECURITIES LTD"
+  city: "TOKYO"
+  branch: null
+  swift: MFGLJPJ1
+    
+- name: "MICHINOKU BANK, LTD., THE"
+  city: "AOMORI"
+  branch: null
+  swift: MCHIJPJT
+    
+- name: "MIDLAND MONTAGU SECURITIES LTD"
+  city: "TOKYO"
+  branch: null
+  swift: MIMSJPJ1
+    
+- name: "MIE BANK LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: MIEBJPJT
+    
+- name: "MIKI SECURITIES CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: MIKIJPJ1
+    
+- name: "MINATO BANK,LTD,THE (FORMERLY THE HANSHIN BANK LTD)"
+  city: "KOBE"
+  branch: null
+  swift: HSINJPJK
+    
+- name: "MINEX CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: MINXJPJ1
+    
+- name: "MISAWAYA SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: MISSJPJ1
+    
+- name: "MISUMI GROUP INC."
+  city: "TOKYO"
+  branch: null
+  swift: MIGPJPJT
+    
+- name: "MITO SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MITSJPJ1
+    
+- name: "MITSUBISHI UFJ MORGAN STANLEY PB SECURITIES CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: MUMLJPJT
+    
+- name: "MITSUBISHI UFJ MORGAN STANLEY SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: KKSSJPJT
+    
+- name: "MITSUBISHI UFJ SECURITIES HOLDINGS CO., LTD."
+  city: "CHIYODA-KU"
+  branch: null
+  swift: MUSHJP22
+    
+- name: "MITSUBISHI UFJ TRUST AND BANKING CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: MTBCJPJT
+    
+- name: "MITSUBUSHI TRUST ASSET MANAGEMENT CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: MTAMJPJ1
+    
+- name: "MITSUI LIFE INSURANCE COMPANY LTD"
+  city: "TOKYO"
+  branch: null
+  swift: MMLIJPJ1
+    
+- name: "MITSUI SUMITOMO INSURANCE CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MISRJPJ1
+    
+- name: "MITSUI SUMITOMO PRIMARY LIFE INSURANCE COMPANY, LIMITED"
+  city: "CHUO-KU"
+  branch: null
+  swift: MSPIJPJ1
+    
+- name: "MIYAZAKI BANK, LTD., THE"
+  city: "MIYAZAKI"
+  branch: null
+  swift: MIYAJPJT
+    
+- name: "MIZUHO ASSET MANAGEMENT CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: DKAMJPJ1
+    
+- name: "MIZUHO BANK, LTD."
+  city: "TOKYO"
+  branch: CLS CONTROL BRANCH
+  swift: MHCBJPJTCLS
+    
+- name: "MIZUHO BANK, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MHCBJPJT
+    
+- name: "MIZUHO BANK, LTD. (CMS)"
+  city: "TOKYO"
+  branch: null
+  swift: MHCBJPJ4
+    
+- name: "MIZUHO BANK, LTD. (POOLING)"
+  city: "TOKYO"
+  branch: null
+  swift: MHCBJPJ5
+    
+- name: "MIZUHO BANK, LTD. (SCORE)"
+  city: "TOKYO"
+  branch: null
+  swift: MHCBJPJ6
+    
+- name: "MIZUHO BANK, LTD.(CUSTODY)"
+  city: "TOKYO"
+  branch: null
+  swift: MHCBJPJ2
+    
+- name: "MIZUHO SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MHSCJPJT
+    
+- name: "MIZUHO SECURITIES CO.,LTD"
+  city: "TOKYO"
+  branch: null
+  swift: MHSCJPJ2
+    
+- name: "MIZUHO TRUST AND BANKING CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: YTBCJPJT
+    
+- name: "MOMIJI BANK, LTD."
+  city: "HIROSHIMA"
+  branch: null
+  swift: HRSBJPJT
+    
+- name: "MONEX FX,INC."
+  city: "CHUO-KU"
+  branch: null
+  swift: MOFXJPJ1
+    
+- name: "MONEX, INC."
+  city: "TOKYO"
+  branch: null
+  swift: MNXIJPJ1
+    
+- name: "MOODY'S (JAPAN) K.K."
+  city: "TOKYO"
+  branch: null
+  swift: MOJAJPJ1
+    
+- name: "MOODY'S SF JAPAN K.K. (MSFJ) 20TH F"
+  city: "TOKYO"
+  branch: null
+  swift: MOJMJPJ1
+    
+- name: "MORGAN STANLEY ASSET AND INVESTMENT TRUST MANAGEMENT CO., LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: MSAMJPJ1
+    
+- name: "MORGAN STANLEY MUFG SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: FOREIGN EXCHANGE OPERATIONS
+  swift: MSTKJPJXFXO
+    
+- name: "MORGAN STANLEY MUFG SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MSTKJPJX
+    
+- name: "MORGAN STANLEY MUFG SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MSTKJPJXCII
+    
+- name: "MORGAN STANLEY MUFG SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MSTKJPJXCLS
+    
+- name: "MUROSEI SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: MUSEJPJ1
+    
+- name: "MUSASHI SECURITIES COMPANY LIMITED"
+  city: "KUMAGAYA"
+  branch: null
+  swift: ADOMJPJ1
+    
+- name: "MUSASHINO BANK LTD., THE"
+  city: "SAITAMA"
+  branch: TREASURY AND SECURITIES DIVISION
+  swift: MUBKJPJTTSD
+    
+- name: "MUSASHINO BANK LTD., THE"
+  city: "SAITAMA"
+  branch: null
+  swift: MUBKJPJT
+    
+- name: "NADEX CO.,LTD."
+  city: "NAGOYA"
+  branch: null
+  swift: NDXEJPJT
+    
+- name: "NAGANO BANK, LTD."
+  city: "NAGANO"
+  branch: null
+  swift: NAGAJPJZ
+    
+- name: "NAGANO SECURITIES CO. ,LTD."
+  city: "NAGANO"
+  branch: null
+  swift: NGNOJPJ1
+    
+- name: "NAGASAKI BANK"
+  city: "NAGASAKI"
+  branch: null
+  swift: NAGKJPJ1
+    
+- name: "NAGASAKI-KEN RODO KINKO BANK"
+  city: "NAGASAKI"
+  branch: null
+  swift: NARKJPJ1
+    
+- name: "NAGOYA KOKUMOTSU SATOU TORIHIKIJO (GRAIN AND SUGAR EXCHANGE)"
+  city: "NAGOYA"
+  branch: null
+  swift: XNKSJPJ1
+    
+- name: "NAGOYA SENI TORIHIKIJO (TEXTILE EXCHANGE)"
+  city: "NAGOYA"
+  branch: null
+  swift: XNSTJPJ1
+    
+- name: "NAGOYA STOCK EXCHANGE"
+  city: "NAGOYA"
+  branch: null
+  swift: XNGOJPJ1
+    
+- name: "NAITO SECURITIES CO"
+  city: "OSAKA"
+  branch: null
+  swift: NAIEJPJ1OSA
+    
+- name: "NAITO SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: NAIEJPJ1
+    
+- name: "NAKAHARA SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: NAKSJPJ1
+    
+- name: "NAKAIZUMI SECURITIES CO, LTD"
+  city: "SHIZUOKA"
+  branch: null
+  swift: IWTAJPJ1
+    
+- name: "NANTO BANK, LTD, THE"
+  city: "NARA"
+  branch: null
+  swift: NANTJPJT
+    
+- name: "NARUSE SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: NAREJPJ1
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: NATAJPJT
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "OSAKA"
+  branch: OSAKA BRANCH
+  swift: NBPAJPJTOSK
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "TOKYO"
+  branch: MAIN BRANCH
+  swift: NBPAJPJT
+    
+- name: "NATIONAL MUTUAL INSURANCE FEDERATION OF AGRICULTURAL COOPERATIVES"
+  city: "TOKYO"
+  branch: null
+  swift: ZENKJPJ1
+    
+- name: "NATIONS-CRT JAPAN INC."
+  city: "TOKYO"
+  branch: null
+  swift: NACJJPJ1
+    
+- name: "NATIXIS JAPAN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NATXJPJT
+    
+- name: "NETWING SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NIKSJPJ1
+    
+- name: "NIFCO INC."
+  city: "MINATO-KU"
+  branch: null
+  swift: NIFCJPJT
+    
+- name: "NIIGATA SECURITIES CO., LTD."
+  city: "NIIGATA"
+  branch: null
+  swift: NIGTJPJ1
+    
+- name: "NIIGATA STOCK EXCHANGE"
+  city: "NIIGATA"
+  branch: null
+  swift: XNIIJPJ1
+    
+- name: "NIKE JAPAN CORP."
+  city: "TOKYO"
+  branch: null
+  swift: NIKEJPJ1
+    
+- name: "NIKE JAPAN GROUP LLC"
+  city: "TOKYO"
+  branch: null
+  swift: NJGLJPJ1
+    
+- name: "NIKKO ASSET MANAGEMENT CO., LTD"
+  city: "TOKYO"
+  branch: OPERATIONS
+  swift: NAMTJPJ1OP1
+    
+- name: "NIKKO ASSET MANAGEMENT CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: NAMTJPJ1
+    
+- name: "NIKON CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: NKONJPJ1
+    
+- name: "NIPPON LIFE INSURANCE COMPANY"
+  city: "CHIYODA-KU"
+  branch: null
+  swift: NLICJP22
+    
+- name: "NIPPON LIFE INSURANCE COMPANY"
+  city: "TOKYO"
+  branch: GLOBAL BOND
+  swift: NLICJPJ1BND
+    
+- name: "NIPPON LIFE INSURANCE COMPANY"
+  city: "TOKYO"
+  branch: GLOBAL EQUITY
+  swift: NLICJPJ1EQY
+    
+- name: "NIPPON LIFE INSURANCE COMPANY"
+  city: "TOKYO"
+  branch: null
+  swift: NLICJPJ1
+    
+- name: "NIPPON SECURITIES"
+  city: "OSAKA"
+  branch: null
+  swift: NISEJPJ1
+    
+- name: "NIS SECURITIES CO., LTD."
+  city: "OSAKA"
+  branch: null
+  swift: YAMEJPJ1OSA
+    
+- name: "NIS SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: YAMEJPJ1
+    
+- name: "NISHIMURA SECURITIES CO., LTD"
+  city: "KYOTO"
+  branch: null
+  swift: NISMJPJ1
+    
+- name: "NISSAN SECURITIES CO.,LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NISSJPJ1
+    
+- name: "NISSAY ASSET MANAGEMENT CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: NAMJJPJT
+    
+- name: "NISSHO IWAI SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NISHJPJ1
+    
+- name: "NISSIN FOODS HOLDINGS CO LTD"
+  city: "TOKYO"
+  branch: null
+  swift: NSSNJPJT
+    
+- name: "NITORI HOLDINGS CO.,LTD."
+  city: "SAPPORO"
+  branch: null
+  swift: NIHOJPJT
+    
+- name: "NN LIFE INSURANCE COMPANY, LTD."
+  city: "CHIYODA-KU"
+  branch: null
+  swift: ILICJPJ1
+    
+- name: "NOMURA ASSET MANAGEMENT CO., LTD."
+  city: "TOKYO"
+  branch: ADVISORY DEPT.
+  swift: NAMKJPJTADV
+    
+- name: "NOMURA ASSET MANAGEMENT CO., LTD."
+  city: "TOKYO"
+  branch: BOND AND FINANCIAL INSTRUMENT TRADING DEPT
+  swift: NAMKJPJTBFT
+    
+- name: "NOMURA ASSET MANAGEMENT CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NAMKJPJT
+    
+- name: "NOMURA ASSET MANAGEMENT CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NAMKJPJTFDV
+    
+- name: "NOMURA FINANCIAL PRODUCTS AND SERVICES INC"
+  city: "TOKYO"
+  branch: CROSS CURRENCY SWAPS (CLS USE ONLY)
+  swift: NFPSJPJTCCS
+    
+- name: "NOMURA FINANCIAL PRODUCTS AND SERVICES INC"
+  city: "TOKYO"
+  branch: null
+  swift: NFPSJPJT
+    
+- name: "NOMURA RESEARCH INSTITUTE, LTD"
+  city: "TOKYO"
+  branch: null
+  swift: NMRAJPJT
+    
+- name: "NOMURA SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NMRSJPJT
+    
+- name: "NORINCHUKIN BANK, THE"
+  city: "TOKYO"
+  branch: TREASURY AND SECURITIES OPERATIONS DIVISION
+  swift: NOCUJPJTCLS
+    
+- name: "NORINCHUKIN BANK, THE"
+  city: "TOKYO"
+  branch: null
+  swift: NOCUJPJT
+    
+- name: "NORINCHUKIN TRUST AND BANKING CO., LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: NCTBJPJ1
+    
+- name: "NORTH PACIFIC BANK, LTD."
+  city: "SAPPORO"
+  branch: null
+  swift: NORPJPJP
+    
+- name: "NTT DATA CORPORATION"
+  city: "KOTO-KU"
+  branch: null
+  swift: NTTDJPJ1
+    
+- name: "NTT DATA GETRONICS CORPORATION"
+  city: "KAWASAKI-SHI"
+  branch: null
+  swift: NTDGJPJT
+    
+- name: "OGAKI KYORITSU BANK,LTD.,THE"
+  city: "OGAKI"
+  branch: null
+  swift: OGAKJPJT
+    
+- name: "OITA BANK, LTD., THE"
+  city: "OITA"
+  branch: null
+  swift: OITAJPJT
+    
+- name: "OKACHI SECURITIES CO., LTD."
+  city: "NAGOYA"
+  branch: null
+  swift: OKSEJPJ1
+    
+- name: "OKASAN ONLINE SECURITIES CO.,LTD"
+  city: "TOKYO"
+  branch: null
+  swift: OKAOJPJ1
+    
+- name: "OKASAN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: OKASJPJT
+    
+- name: "OKAZAKI SHINKIN BANK, THE"
+  city: "OKAZAKI"
+  branch: null
+  swift: OKSBJPJZ
+    
+- name: "OKINAWA KAIHO BANK"
+  city: "OKINAWA"
+  branch: null
+  swift: OKWAJPJ1
+    
+- name: "OMRON CORPORATION"
+  city: "KYOTO"
+  branch: null
+  swift: OMRNJPJT
+    
+- name: "ONKYO CORPORATION"
+  city: "OSAKA"
+  branch: null
+  swift: ONCPJPJT
+    
+- name: "ORIENT SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: ORITJPJ1
+    
+- name: "ORIX BANK COPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: ORCRJPJ1
+    
+- name: "ORIX SECURITIES CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: AKANJPJ1
+    
+- name: "OSAKA CITY SHINKIN BANK, THE"
+  city: "OSAKA"
+  branch: null
+  swift: OSACJPJS
+    
+- name: "OSAKA MERCANTILE EXCHANGE"
+  city: "OSAKA"
+  branch: null
+  swift: XOSMJPJ1
+    
+- name: "OSAKA SECURITIES EXCHANGE CO., LTD"
+  city: "OSAKA"
+  branch: null
+  swift: XOSEJPJ1
+    
+- name: "OSAKA SENI TORIHIKIJO (TEXTILE EXCHANGE)"
+  city: "OSAKA"
+  branch: null
+  swift: XOSTJPJ1
+    
+- name: "OSAKA SHOKEN DAIKO CO., LT."
+  city: "TOKYO"
+  branch: null
+  swift: OSSHJPJ1
+    
+- name: "OSAWA SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: OSASJPJ1
+    
+- name: "OVERSEA-CHINESE BANKING CORPORATION LIMITED, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: OCBCJPJT
+    
+- name: "PANASONIC CORPORATION"
+  city: "OSAKA"
+  branch: null
+  swift: PANAJPJS
+    
+- name: "PCM INTERNATIONAL INC. TOKYO"
+  city: "TOKYO"
+  branch: null
+  swift: PCINJPJ1
+    
+- name: "PHILIPPINE NATIONAL BANK TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: PNBMJPJT
+    
+- name: "PHILLIP SECURITIES JAPAN, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: PHSJJPJ1
+    
+- name: "PICTET ASSET MANAGEMENT (JAPAN) LTD."
+  city: "TOKYO"
+  branch: null
+  swift: PICTJPJT
+    
+- name: "PIGEON CORPORATION"
+  city: "CHUO-KU"
+  branch: null
+  swift: PGHQJPJT
+    
+- name: "PINEBRIDGE INVESTMENTS JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: AIGGJPJ1
+    
+- name: "PRUDENTIAL INVESTMENT MANAGEMENT JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: PIMJJPJ1
+    
+- name: "PRUDENTIAL SECURITIES"
+  city: "TOKYO"
+  branch: null
+  swift: PRUSJPJ1
+    
+- name: "RAKUTEN BANK, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: RAKTJPJT
+    
+- name: "RAKUTEN SECURITIES, INC."
+  city: "TOKYO"
+  branch: null
+  swift: RAERJPJ1
+    
+- name: "RAKUTEN, INC."
+  city: "SHINAGAWA-KU"
+  branch: null
+  swift: RAKUJPJ1
+    
+- name: "RBC CAPITAL MARKETS (JAPAN) LTD., TOKYO"
+  city: "TOKYO"
+  branch: null
+  swift: RBDSJPJT
+    
+- name: "RBS SECURITIES JAPAN LIMITED, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: NWSJJPJT
+    
+- name: "RECRUIT HOLDINGS CO.,LTD."
+  city: "CHUO-KU"
+  branch: null
+  swift: RCRTJPJJ
+    
+- name: "RESONA BANK, LTD., TOKYO"
+  city: "TOKYO"
+  branch: null
+  swift: DIWAJPJT
+    
+- name: "RESONA BANK, LTD., TRUST DEP."
+  city: "TOKYO"
+  branch: null
+  swift: DIWAJPJA
+    
+- name: "RICHARDSON GREENSHIELDS OF CANADA LTD."
+  city: "TOKYO"
+  branch: null
+  swift: RIGCJPJ1
+    
+- name: "RICOH COMPANY, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: RICOJPJT
+    
+- name: "ROLAND DG CORPORATION"
+  city: "SHIZUOKA"
+  branch: null
+  swift: RODGJPJT
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "TOKYO"
+  branch: null
+  swift: ROYCJPJT
+    
+- name: "SAIKYO BANK LTD., THE"
+  city: "SHUNAN"
+  branch: null
+  swift: SAKBJPJ1
+    
+- name: "SAITAMA RESONA BANK, LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: SAIBJPJT
+    
+- name: "SAKAMOTO HOKURIKU SECURITIES CO., LTD."
+  city: "ISHIKAWA"
+  branch: null
+  swift: SHSKJPJ1
+    
+- name: "SAKURA SECURITIES"
+  city: "TOKYO"
+  branch: null
+  swift: KUSEJPJ1
+    
+- name: "SAMSUNG C AND T JAPAN CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: SCNTJPJ1
+    
+- name: "SAMSUNG JAPAN CO.,LTD"
+  city: "TOKYO"
+  branch: SJC
+  swift: SECTJPJ1201
+    
+- name: "SAMSUNG JAPAN CO.,LTD"
+  city: "TOKYO"
+  branch: STJ
+  swift: SECTJPJ1290
+    
+- name: "SAMSUNG JAPAN CO.,LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SECTJPJ1
+    
+- name: "SAMSUNG JAPAN CO.,LTD"
+  city: "YOKOHAMA"
+  branch: SYRI
+  swift: SECTJPJ1230
+    
+- name: "SANEI SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: SAEEJPJ1
+    
+- name: "SAN-IN GODO BANK, LTD., THE"
+  city: "MATSUE"
+  branch: null
+  swift: SGBKJPJT
+    
+- name: "SAN-IN GODO BANK, LTD., THE"
+  city: "MATSUE"
+  branch: null
+  swift: SGBKJPJTMAT
+    
+- name: "SANWA ASSET MANAGEMENT CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SWAMJPJ1
+    
+- name: "SANYO SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: SESAJPJ1
+    
+- name: "SAPPORO STOCK EXCHANGE"
+  city: "SAPPORO"
+  branch: null
+  swift: XSAPJPJ1
+    
+- name: "SASSOON SECURITIES JAPAN LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SASJJPJ1
+    
+- name: "SAXO BANK SECURITIES LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SAUCJPJ1
+    
+- name: "SBI FXTRADE CO,LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SBFLJPJ1
+    
+- name: "SBI REMIT CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SBIRJPJT
+    
+- name: "SBI SECURITIES CO.,LTD."
+  city: "TOKYO"
+  branch: null
+  swift: ETRSJPJ1
+    
+- name: "SBI SUMISHIN NET BANK, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NTSSJPJT
+    
+- name: "SCHRODER INVESTMENT MANAGEMENT (JAPAN) LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: SIMJJPJT
+    
+- name: "SCHRODER SECURITIES JAPAN LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: SSCHJPJ1
+    
+- name: "SCOTIA CAPITAL MARKETS"
+  city: "TOKYO"
+  branch: null
+  swift: SCMCJPJ1
+    
+- name: "SEKISUI FINANCE COMPANY LIMITED"
+  city: "OSAKA"
+  branch: null
+  swift: SEFCJPJ1
+    
+- name: "SETO SHINKIN BANK, THE"
+  city: "SETO"
+  branch: null
+  swift: SSBKJPJZ
+    
+- name: "SHIGA BANK, LTD., THE"
+  city: "OTSU"
+  branch: HEAD OFFICE
+  swift: SIGAJPJT
+    
+- name: "SHIKOKU BANK,LTD.,THE"
+  city: "KOCHI"
+  branch: null
+  swift: SIKOJPJT
+    
+- name: "SHIMIZU BANK LTD., THE"
+  city: "SHIZUOKA"
+  branch: null
+  swift: SMZGJPJT
+    
+- name: "SHINEI ISHINO SECURITIES CO., LTD."
+  city: "KOBE"
+  branch: null
+  swift: SISCJPJ1
+    
+- name: "SHINGINKO TOKYO, LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: SGTKJPJ1
+    
+- name: "SHINHAN BANK JAPAN"
+  city: "TOKYO"
+  branch: HEAD OFFICE
+  swift: SHBKJPJX
+    
+- name: "SHINKIN ASSET MANAGEMENT CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SKAMJPJ1
+    
+- name: "SHINKIN CENTRAL BANK"
+  city: "TOKYO"
+  branch: null
+  swift: ZENBJPJ2
+    
+- name: "SHINKIN CENTRAL BANK"
+  city: "TOKYO"
+  branch: null
+  swift: ZENBJPJT
+    
+- name: "SHINKIN SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: SKSCJPJ1
+    
+- name: "SHINKIN TRUST BANK, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: SKTBJPJ1
+    
+- name: "SHINKUMI FEDERATION BANK, THE"
+  city: "TOKYO"
+  branch: null
+  swift: ZSFBJPJ1
+    
+- name: "SHINSEI BANK, LTD."
+  city: "TOKYO"
+  branch: HEAD OFFICE
+  swift: LTCBJPJTHED
+    
+- name: "SHINSEI BANK, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: LTCBJPJT
+    
+- name: "SHINSEI SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: SSECJPJ1
+    
+- name: "SHINSEI TRUST  BANKING CO.,LTD."
+  city: "TOKYO"
+  branch: null
+  swift: SHTCJPJ1
+    
+- name: "SHINWA BANK, LTD. THE"
+  city: "SASEBO"
+  branch: null
+  swift: SHWAJPJT
+    
+- name: "SHINWA SECURITIES CO., LTD."
+  city: "NIIGATA"
+  branch: null
+  swift: SINWJPJ1
+    
+- name: "SHIZUOKA BANK, LTD., THE"
+  city: "SHIZUOKA"
+  branch: null
+  swift: SHIZJPJT
+    
+- name: "SHOKO CHUKIN BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: SKCKJPJT
+    
+- name: "SHONAI BANK, LTD., THE"
+  city: "YAMAGATA"
+  branch: null
+  swift: SNAIJPJT
+    
+- name: "SMBC FRIEND SECURITIES CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: YAMTJPJT
+    
+- name: "SMBC NIKKO SECURITIES INC."
+  city: "TOKYO"
+  branch: null
+  swift: NKSCJPJ1FI1
+    
+- name: "SMBC NIKKO SECURITIES INC."
+  city: "TOKYO"
+  branch: null
+  swift: NKSCJPJT
+    
+- name: "SMBC TRUST BANK LTD."
+  city: "MINATO-KU"
+  branch: null
+  swift: SMTCJPJ2
+    
+- name: "SMBC TRUST BANK LTD."
+  city: "MINATO-KU"
+  branch: null
+  swift: SMTCJPJT
+    
+- name: "SMBC TRUST BANK LTD."
+  city: "TOKYO"
+  branch: BANK ACCOUNT
+  swift: SMTCJPJ2BNK
+    
+- name: "SMITH NEW COURT SECURITIES LTD."
+  city: "TOKYO"
+  branch: null
+  swift: SSNCJPJ1
+    
+- name: "SOCIETE GENERALE"
+  city: "TOKYO"
+  branch: null
+  swift: SOGEJPJT
+    
+- name: "SOCIETE GENERALE SECURITIES JAPAN"
+  city: "TOKYO"
+  branch: null
+  swift: SGNPJPJT
+    
+- name: "SOMPO JAPAN NIPPONKOA INSURANCE INC."
+  city: "TOKYO"
+  branch: null
+  swift: SJNIJPJ1
+    
+- name: "SONY BANK INC."
+  city: "TOKYO"
+  branch: null
+  swift: SNYBJPJT
+    
+- name: "SONY CORPORATION"
+  city: "MINATO-KU"
+  branch: null
+  swift: SONYJPJT
+    
+- name: "SONY GLOBAL SOLUTIONS INC."
+  city: "TOKYO"
+  branch: null
+  swift: SGSIJPJ1
+    
+- name: "SONY LIFE INSURANCE CO.,LTD."
+  city: "TOKYO"
+  branch: null
+  swift: SLIDJPJ1
+    
+- name: "SPARX ASSET MANAGEMENT CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: SPAXJPJT
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "TOKYO"
+  branch: null
+  swift: SCBLJPJT
+    
+- name: "STATE BANK OF INDIA"
+  city: "OSAKA"
+  branch: OSAKA BRANCH
+  swift: SBINJPJTOSA
+    
+- name: "STATE BANK OF INDIA"
+  city: "TOKYO"
+  branch: null
+  swift: SBINJPJT
+    
+- name: "STATE STREET BANK AND TRUST COMPANY"
+  city: "MINATO-KU"
+  branch: null
+  swift: SBOSJPJX
+    
+- name: "STATE STREET GLOBAL ADVISORS (JAPAN) CO., LTD."
+  city: "MINATO-KU"
+  branch: null
+  swift: SSGAJP21
+    
+- name: "STATE STREET GLOBAL MARKETS (JAPAN)"
+  city: "TOKYO"
+  branch: null
+  swift: SSGRJPJ1
+    
+- name: "STATE STREET TRUST AND BANKING COMPANY LIMITED"
+  city: "MINATO-KU"
+  branch: null
+  swift: SSTBJPJX
+    
+- name: "STATE STREET TRUST AND BANKING COMPANY LIMITED"
+  city: "TOKYO"
+  branch: INVESTMENT ADVISORY REPORTING
+  swift: SSTBJPJXIAR
+    
+- name: "STATE STREET TRUST AND BANKING COMPANY LIMITED"
+  city: "TOKYO"
+  branch: INVESTMENT MANAGER OUTSOURCING SERVICES
+  swift: SSTBJPJXIMS
+    
+- name: "STATE STREET TRUST AND BANKING COMPANY LIMITED"
+  city: "TOKYO"
+  branch: INVESTMENT TRUST MGMT PRICING AGENT OUTSOURCING
+  swift: SSTBJPJXITM
+    
+- name: "STATE STREET TRUST AND BANKING COMPANY LIMITED"
+  city: "TOKYO"
+  branch: MIDDLE OFFICE TRANSACTION PROCESSING
+  swift: SSTBJPJXMTP
+    
+- name: "STATE STREET TRUST AND BANKING COMPANY LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: SSTBJPJXINS
+    
+- name: "STB ASSET MANAGEMENT CO.,LTD."
+  city: "TOKYO"
+  branch: null
+  swift: SAGLJPJ1
+    
+- name: "SUGAMO SHINKIN BANK, THE"
+  city: "TOKYO"
+  branch: null
+  swift: SSHBJPJT
+    
+- name: "SUMIDA CORPORATION"
+  city: "CHUO-KU"
+  branch: null
+  swift: SUCPJPJT
+    
+- name: "SUMITOMO LIFE INSURANCE COMPANY"
+  city: "TOKYO"
+  branch: null
+  swift: SLICJPJ1
+    
+- name: "SUMITOMO MITSUI ASSET MANAGEMENT COMPANY LIMITED"
+  city: "MINATO-KU"
+  branch: null
+  swift: SMAMJPJ1
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "OSAKA"
+  branch: OSAKA
+  swift: SMBCJPJTOSA
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "TOKYO"
+  branch: CLS CONTROL BRANCH
+  swift: SMBCJPJTCLS
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "TOKYO"
+  branch: null
+  swift: SMBCJPJT
+    
+- name: "SUMITOMO MITSUI TRUST BANK,LIMITED"
+  city: "CHIYODA-KU"
+  branch: null
+  swift: STBCJPJ2
+    
+- name: "SUMITOMO MITSUI TRUST BANK,LIMITED"
+  city: "TOKYO"
+  branch: CLS CONTROL BRANCH
+  swift: STBCJPJTCLS
+    
+- name: "SUMITOMO MITSUI TRUST BANK,LIMITED"
+  city: "TOKYO"
+  branch: SBS FUCHU
+  swift: STBCJPJTSBS
+    
+- name: "SUMITOMO MITSUI TRUST BANK,LIMITED"
+  city: "TOKYO"
+  branch: SECURITIES ADMINISTRATION DEPARTMENT
+  swift: STBCJPJTSAD
+    
+- name: "SUMITOMO MITSUI TRUST BANK,LIMITED"
+  city: "TOKYO"
+  branch: SECURITIES OPERATION DEPARTMENT
+  swift: STBCJPJTCUS
+    
+- name: "SUMITOMO MITSUI TRUST BANK,LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: STBCJPJT
+    
+- name: "SUN HUNG KAI SECURITIES LTD"
+  city: "TOKYO"
+  branch: null
+  swift: SHKEJPJ1
+    
+- name: "SUNTORY BEVERAGE AND FOOD LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: SBFDJPJT
+    
+- name: "SURUGA BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: SRFXJPJT
+    
+- name: "SWIFT CUSTOMER SERVICE CENTRE JAPAN"
+  city: "CUSTOMER SERVICE CENTRE JP"
+  branch: null
+  swift: SWHQJPJT
+    
+- name: "SYSMEX CORPORATION"
+  city: "KOBE"
+  branch: null
+  swift: SYMCJPJ1
+    
+- name: "T AND D ASSET MANAGEMENT CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TDAMJPJ1
+    
+- name: "TACHIBANA SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TACHJPJ1
+    
+- name: "TAIHEIYO SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TAIHJPJ1
+    
+- name: "TAIHELYO SECURITES CO LTD"
+  city: "TOKYO"
+  branch: null
+  swift: TAHSJPJ1
+    
+- name: "TAISHIN INTERNATIONAL BANK CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: TSIBJPJT
+    
+- name: "TAIWAN BUSINESS BANK TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: MBBTJPJT
+    
+- name: "TAIYO INVESTMENT TRUST MANAGEMEMENT LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: TITMJPJ1
+    
+- name: "TAJIMA BANK, LTD, THE"
+  city: "HYOGO"
+  branch: null
+  swift: TJMAJPJZ
+    
+- name: "TAKAGI SECURITIES CO."
+  city: "OSAKA"
+  branch: null
+  swift: TAKAJPJ1
+    
+- name: "TAMA SHINKIN BANK, THE"
+  city: "TOKYO"
+  branch: null
+  swift: TAMAJPJT
+    
+- name: "THE 77 BANK,LTD."
+  city: "SENDAI"
+  branch: null
+  swift: BOSSJPJT
+    
+- name: "THE BANK OF KOCHI, LIMITED"
+  city: "KOCHI"
+  branch: null
+  swift: KOTIJPJZ
+    
+- name: "THE BANK OF NEW YORK MELLON TRUST (JAPAN), LTD"
+  city: "TOKYO"
+  branch: null
+  swift: IRVTJPJT
+    
+- name: "THE BANK OF NEW YORK MELLON, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: TOKYO BRANCH, TRADE SERVICE
+  swift: IRVTJPJX848
+    
+- name: "THE BANK OF NEW YORK MELLON, TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: IRVTJPJX
+    
+- name: "THE CHIKUHO BANK LTD"
+  city: "FUKUOKA"
+  branch: null
+  swift: CHIHJPJT
+    
+- name: "THE DAI-ICHI LIFE INSURANCE COMPANY , LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: DLICJPJ1
+    
+- name: "THE DAITO BANK ,LTD"
+  city: "KORIYAMA-SHI"
+  branch: null
+  swift: DATTJPJ1
+    
+- name: "THE FUKUHO BANK LTD"
+  city: "OSAKA"
+  branch: null
+  swift: FUHOJPJ1
+    
+- name: "THE FUKUSHIMA BANK,LTD."
+  city: "FUKUSHIMA"
+  branch: null
+  swift: FKSBJPJ1
+    
+- name: "THE HIGO BANK LIMITED"
+  city: "KUMAMOTO"
+  branch: null
+  swift: HIGOJPJT
+    
+- name: "THE HOWA BANK LTD"
+  city: "OITA"
+  branch: null
+  swift: HOWAJPJ1
+    
+- name: "THE KAGOSHIMASOGO SHINKIN BANK"
+  city: "KAGOSHIMA"
+  branch: null
+  swift: KAHHJPJ1
+    
+- name: "THE KANAGAWA BANK,LTD."
+  city: "KANAGAWA"
+  branch: null
+  swift: KANGJPJ1
+    
+- name: "THE MINAMI-NIPPON BANK,LTD."
+  city: "KAGOSHIMA"
+  branch: null
+  swift: MINPJPJ1
+    
+- name: "THE MIYAZAKI TAIYO BANK, LTD."
+  city: "MIYAZAKI"
+  branch: null
+  swift: MITYJPJ1
+    
+- name: "THE NATIONAL REGISTRY SYSTEM"
+  city: "TOKYO"
+  branch: null
+  swift: NRSKJPJ1
+    
+- name: "THE NISHI-NIPPON CITY BANK, LTD"
+  city: "FUKUOKA"
+  branch: INTERNATIONAL DEPT.
+  swift: NISIJPJTFKK
+    
+- name: "THE NISHI-NIPPON CITY BANK, LTD"
+  city: "FUKUOKA"
+  branch: null
+  swift: NISIJPJT
+    
+- name: "THE NOMURA TRUST AND BANKING CO., LTD."
+  city: "TOKYO"
+  branch: TREASURY DEPARTMENT
+  swift: NMTBJPJTFXO
+    
+- name: "THE NOMURA TRUST AND BANKING CO., LTD."
+  city: "TOKYO"
+  branch: TRUST DEPARTMENT
+  swift: NMTBJPJTTRU
+    
+- name: "THE NOMURA TRUST AND BANKING CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NMTBJPJT
+    
+- name: "THE NOMURA TRUST AND BANKING CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NMTBJPJTDAM
+    
+- name: "THE NOMURA TRUST AND BANKING CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NMTBJPJTITA
+    
+- name: "THE NOMURA TRUST AND BANKING CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: NMTBJPJTTAD
+    
+- name: "THE OHKAWA SHINKIN BANK FUKUOKA JAPAN"
+  city: "FUKUOKA"
+  branch: null
+  swift: OHSHJPJ1
+    
+- name: "THE SENDAI BANK,LTD."
+  city: "MYAGI"
+  branch: null
+  swift: SEDIJPJ1
+    
+- name: "THE SENSHU IKEDA BANK, LTD."
+  city: "OSAKA"
+  branch: null
+  swift: BIKEJPJS
+    
+- name: "THE SHIMANE BANK, LTD."
+  city: "MATSUE"
+  branch: null
+  swift: SHMMJPJ1
+    
+- name: "THE TAIKO BANK,LTD."
+  city: "NAGAOKA"
+  branch: null
+  swift: TAIKJPJ1
+    
+- name: "THE TAISHO BANK,LTD"
+  city: "OSAKA"
+  branch: null
+  swift: TASHJPJ1
+    
+- name: "THE TOCHIGI BANK LTD."
+  city: "UTSUNOMIYA"
+  branch: null
+  swift: TOCIJPJT
+    
+- name: "THE TOHOKU BANK, LTD"
+  city: "MORIOKA"
+  branch: null
+  swift: TOHKJPJ1
+    
+- name: "THE TOKYO TANSHI CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TKTSJPJT
+    
+- name: "THE YOKOHAMA RUBBER CO, LTD."
+  city: "MINATO-KU"
+  branch: null
+  swift: YOKRJPJT
+    
+- name: "THK CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: THKTJPJT
+    
+- name: "TIR SECURITIES"
+  city: "TOKYO"
+  branch: null
+  swift: STIRJPJ1
+    
+- name: "TOHO BANK, LTD., THE"
+  city: "FUKUSHIMA"
+  branch: null
+  swift: TOHOJPJT
+    
+- name: "TOKAI SECURITIES CO"
+  city: "NAGOYA"
+  branch: null
+  swift: TOKSJPJ10JN
+    
+- name: "TOKAI SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: TOKSJPJ1
+    
+- name: "TOKAI TOKYO SECURITIES CO. LTD"
+  city: "TOKYO"
+  branch: null
+  swift: TTSEJPJT
+    
+- name: "TOKIO MARINE AND NICHIDO FIRE INSURANCE CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TMNFJPJ1
+    
+- name: "TOKIO MARINE ASSET MANAGEMENT CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TMAJJPJT
+    
+- name: "TOKUSHIMA BANK LTD, THE"
+  city: "TOKUSHIMA"
+  branch: null
+  swift: TKSBJPJZ
+    
+- name: "TOKYO AIM,INC"
+  city: "TOKYO"
+  branch: null
+  swift: XTAMJPJ1
+    
+- name: "TOKYO FINANCIAL EXCHANGE INC."
+  city: "TOKYO"
+  branch: null
+  swift: XTFFJPJ1
+    
+- name: "TOKYO FOREX AND UEDA HARLOW LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TFUHJPJ1
+    
+- name: "TOKYO HIGASHI SHINKIN BANK,THE"
+  city: "TOKYO"
+  branch: null
+  swift: CHSBJPJT
+    
+- name: "TOKYO KOGYOIN TORIHIKIJO (COMMODITY EXCHANGE)"
+  city: "TOKYO"
+  branch: null
+  swift: XTKTJPJ1
+    
+- name: "TOKYO KOKUMOTSU SHOHIN TORIHIKIJO (GRAIN EXCHANGE)"
+  city: "TOKYO"
+  branch: null
+  swift: XTKOJPJ1
+    
+- name: "TOKYO RENGO SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: TORSJPJ1
+    
+- name: "TOKYO SHOKEN DAIKO CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TSDAJPJ1
+    
+- name: "TOKYO STAR BANK LIMITED, THE"
+  city: "TOKYO"
+  branch: null
+  swift: TSBKJPJT
+    
+- name: "TOKYO STOCK EXCHANGE, INC."
+  city: "TOKYO"
+  branch: null
+  swift: XTKSJPJ1
+    
+- name: "TOKYO TOMIN BANK LIMITED, THE"
+  city: "TOKYO"
+  branch: null
+  swift: TOMIJPJT
+    
+- name: "TOKYO-MITSUBISHI ASSET MANAGEMENT LTD"
+  city: "TOKYO"
+  branch: null
+  swift: TMAMJPJ1
+    
+- name: "TOMATO BANK LTD."
+  city: "OKAYAMA"
+  branch: null
+  swift: TOMAJPJZ
+    
+- name: "TONO SHINKIN BANK"
+  city: "TAJIMI"
+  branch: null
+  swift: TOSKJPJ1
+    
+- name: "TORONTO DOMINION BANK"
+  city: "TOKYO"
+  branch: null
+  swift: TDOMJPJ1
+    
+- name: "TORONTO-DOMINION SECURITIES INC."
+  city: "TOKYO"
+  branch: null
+  swift: TDSEJPJ1
+    
+- name: "TOTAN CAPITAL MARKETS CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TIUDJPJ1
+    
+- name: "TOTAN DERIVATIVES CO. LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: TTDTJPJ1
+    
+- name: "TOTTORI BANK LTD., THE"
+  city: "TOTTORI"
+  branch: null
+  swift: BIRDJPJZ
+    
+- name: "TOWA BANK LTD., THE"
+  city: "GUNMA"
+  branch: null
+  swift: TOWAJPJT
+    
+- name: "TOWA SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TOWSJPJ1
+    
+- name: "TOYO SECURITIES CO LTD"
+  city: "TOKYO"
+  branch: null
+  swift: TYSCJPJ1
+    
+- name: "TOYOHASHI KANKEN TORIHIKIJO (DRIED COCOON EXCHANGE)"
+  city: "AICHI"
+  branch: null
+  swift: XTKAJPJ1
+    
+- name: "TOYOTA ASSET MANAGEMENT CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: TAMCJPJ1
+    
+- name: "TOYOTA FINANCIAL SERVICES SECURITIES CORPORATION"
+  city: "NAGOYA"
+  branch: null
+  swift: TFSCJPJ1
+    
+- name: "TRADERS SECURITIES CO.,LTD NO3"
+  city: "TOKYO"
+  branch: null
+  swift: TRSDJPJ1
+    
+- name: "TRAVELEX JAPAN KK"
+  city: "TOKYO"
+  branch: null
+  swift: TRAVJPJ1
+    
+- name: "TRI SECURITIES LTD."
+  city: "TOKYO"
+  branch: null
+  swift: STRIJPJ1
+    
+- name: "TRUST AND CUSTODY SERVICES BANK, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TCSBJPJ2
+    
+- name: "TRUST AND CUSTODY SERVICES BANK, LTD."
+  city: "TOKYO"
+  branch: null
+  swift: TCSBJPJT
+    
+- name: "TSUKUBA BANK,LTD."
+  city: "IBARAKI"
+  branch: null
+  swift: KGBKJPJT
+    
+- name: "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES TOKYO BRANCH"
+  city: "OSAKA"
+  branch: OSAKA BRANCH
+  swift: UBAFJPJXOSA
+    
+- name: "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: UBAFJPJX
+    
+- name: "UBS AG TOKYO BRANCH"
+  city: "TOKYO"
+  branch: CLS BUSINESS ONLY
+  swift: UBSWJPJTCLS
+    
+- name: "UBS AG TOKYO BRANCH"
+  city: "TOKYO"
+  branch: TOKYO BRANCH
+  swift: UBSWJPJT
+    
+- name: "UBS ASSET MANAGEMENT (JAPAN) LTD."
+  city: "TOKYO"
+  branch: null
+  swift: UBSAJPJT
+    
+- name: "UBS SECURITIES JAPAN CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: UBSWJPJ9
+    
+- name: "UEDA BUTLER TREASURY SERVICES LIMITED TOKYO"
+  city: "TOKYO"
+  branch: null
+  swift: UBTSJPJ1
+    
+- name: "UEDA YAGI TANSHI CO.,LTD"
+  city: "TOKYO"
+  branch: null
+  swift: UYTCJPJT
+    
+- name: "UNICREDIT BANK AG TOKYO BRANCH (HYPOVEREINSBANK TOKYO BRANCH)"
+  city: "TOKYO"
+  branch: null
+  swift: BVBEJPJT
+    
+- name: "UNITED OVERSEAS BANK LTD., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: BANKNOTES DEPARTMENT
+  swift: UOVBJPJTBNS
+    
+- name: "UNITED OVERSEAS BANK LTD., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: UOVBJPJT
+    
+- name: "UNIVERSAL SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: UNSCJPJ1
+    
+- name: "UTSUMIYA SECURITIES CO.,LTD."
+  city: "TOKYO"
+  branch: null
+  swift: UTSSJPJ1
+    
+- name: "UTSUNOMIYA SECURITIES CO., LTD."
+  city: "TOCHIGI"
+  branch: null
+  swift: USCOJPJ1
+    
+- name: "VITEC HOLDINGS CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: VTECJPJT
+    
+- name: "WELLS FARGO BANK, N.A., TOKYO BRANCH"
+  city: "TOKYO"
+  branch: null
+  swift: PNBPJPJX
+    
+- name: "WOORI BANK, TOKYO"
+  city: "TOKYO"
+  branch: null
+  swift: HVBKJPJT
+    
+- name: "YACHIYO BANK, LTD., THE"
+  city: "TOKYO"
+  branch: null
+  swift: YACYJPJT
+    
+- name: "YAHATA SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: YAHSJPJ1
+    
+- name: "YAMABUN SECURITIES CO. LTD."
+  city: "TOKYO"
+  branch: null
+  swift: YAMSJPJ1
+    
+- name: "YAMAGATA BANK, LTD., THE"
+  city: "YAMAGATA"
+  branch: null
+  swift: YAMBJPJT
+    
+- name: "YAMAGATA SECURITIES CO.,LTD"
+  city: "YAMAGATA"
+  branch: null
+  swift: YMGTJPJ1
+    
+- name: "YAMAGUCHI BANK, LTD., THE"
+  city: "SHIMONOSEKI"
+  branch: null
+  swift: YMBKJPJT
+    
+- name: "YAMAMARU SECURITIES CO LTD"
+  city: "TOKYO"
+  branch: null
+  swift: YAMRJPJ1
+    
+- name: "YAMANASHI CHUO BANK, LTD., THE"
+  city: "KOFU"
+  branch: null
+  swift: YCHBJPJT
+    
+- name: "YAMANI SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: YAASJPJ1
+    
+- name: "YAMAWA SECURITIES CO"
+  city: "TOKYO"
+  branch: null
+  swift: YAAEJPJ1
+    
+- name: "YASUDA CAPITAL MANAGEMENT CO., LTD"
+  city: "TOKYO"
+  branch: null
+  swift: YCMCJPJ1
+    
+- name: "YOKOGAWA FINANCIAL SERVICES COMPANY LIMITED"
+  city: "TOKYO"
+  branch: null
+  swift: YFSCJPJ1
+    
+- name: "YOKOHAMA COMMODITY EXCHANGE"
+  city: "YOKOHAMA"
+  branch: null
+  swift: XYKTJPJ1
+    
+- name: "YOKOHAMA SHINKIN BANK, THE"
+  city: "YOKOHAMA"
+  branch: HEAD OFFICE
+  swift: YOKOJPJM
+    
+- name: "YUTAKA SECURITIES CO., LTD."
+  city: "NAGOYA"
+  branch: null
+  swift: YUTEJPJ1NGY
+    
+- name: "YUTAKA SECURITIES CO., LTD."
+  city: "TOKYO"
+  branch: null
+  swift: YUTEJPJ1
+    

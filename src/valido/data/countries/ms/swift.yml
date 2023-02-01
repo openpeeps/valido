@@ -1,0 +1,20 @@
+- name: "BANK OF MONTSERRAT LIMITED"
+  city: "BRADES"
+  branch: null
+  swift: BKMOMSMS
+    
+- name: "CAPITAL INTERNATIONAL BANK INC."
+  city: "BRADES"
+  branch: null
+  swift: CAPBMSMS
+    
+- name: "GOVERNMENT OF MONTSERRAT"
+  city: "BRADES"
+  branch: null
+  swift: GVMSMSMS
+    
+- name: "RBC ROYAL BANK OF CANADA"
+  city: "PLYMOUTH"
+  branch: null
+  swift: ROYCMSMS
+    

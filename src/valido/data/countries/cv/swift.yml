@@ -1,0 +1,65 @@
+- name: "BANCO BAI CABO VERDE, S.A"
+  city: "PRAIA"
+  branch: null
+  swift: BAIPCVCV
+    
+- name: "BANCO COMERCIAL DO ATLANTICO"
+  city: "PRAIA"
+  branch: null
+  swift: BCATCVCV
+    
+- name: "BANCO COMERCIAL DO ATLANTICO"
+  city: "S. VICENTE"
+  branch: null
+  swift: BCATCVCV0C2
+    
+- name: "BANCO COMERCIAL DO ATLANTICO"
+  city: "SAL"
+  branch: null
+  swift: BCATCVCV0C3
+    
+- name: "BANCO DE CABO VERDE"
+  city: "PRAIA"
+  branch: null
+  swift: BCAVCVCV
+    
+- name: "BANCO DE FOMENTO INTERNACIONAL, S.A. (FORMERLY BANCO FIDUCIARIO INTERNACIONAL (I.F.I.), S.A.)"
+  city: "PRAIA"
+  branch: null
+  swift: BFIICVCV
+    
+- name: "BANCO INSULAR (I.F.I) S.A.R.L."
+  city: "PRAIA"
+  branch: null
+  swift: BILRCVC1
+    
+- name: "BANCO INTERATLANTICO, SARL"
+  city: "PRAIA"
+  branch: null
+  swift: CGDICVCP
+    
+- name: "BANCO INTERNACIONAL DE CABO VERDE, SA (FORMERLY BANCO ESPIRITO SANTO DE CABO VERDE, SA)"
+  city: "PRAIA"
+  branch: null
+  swift: BESCCVCP
+    
+- name: "BANCO PRIVADO INTERNACIONAL (IFI)"
+  city: "PRAIA"
+  branch: null
+  swift: PRIFCVCV
+    
+- name: "BCN-BANCO CABOVERDIANO DE NEGOCIOS SA"
+  city: "PRAIA"
+  branch: null
+  swift: CANBCVCV
+    
+- name: "CAIXA ECONOMICA DE CABO VERDE, SA"
+  city: "PRAIA"
+  branch: null
+  swift: CXECCVCV
+    
+- name: "ECOBANK CABO VERDE"
+  city: "PRAIA"
+  branch: null
+  swift: ECOCCVCV
+    

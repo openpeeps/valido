@@ -1,0 +1,20 @@
+- name: "BANQUE DE WALLIS ET FUTUNA SA"
+  city: "MATA UTU"
+  branch: null
+  swift: WAFTWF21
+    
+- name: "CAISSE DES DEPOTS ET CONSIGNATIONS"
+  city: "MATA UTU"
+  branch: null
+  swift: CDCGWF2M
+    
+- name: "IEOM MATA UTU"
+  city: "MATA UTU"
+  branch: null
+  swift: INDDWF21
+    
+- name: "TRESOR PUBLIC UVEA MATA UTU"
+  city: "MATA UTU"
+  branch: null
+  swift: TRPUWF21
+    

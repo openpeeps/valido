@@ -1,0 +1,305 @@
+- name: "BAC REFORMADOR"
+  city: "GUATEMALA"
+  branch: null
+  swift: AMCNGTGT
+    
+- name: "BANCO AGROMERCANTIL DE GUATEMALA, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: AGROGTGC
+    
+- name: "BANCO AMERICA CENTRAL"
+  city: "GUATEMALA"
+  branch: null
+  swift: AMCNGTG1
+    
+- name: "BANCO AMERICANO, S.A"
+  city: "GUATEMALA"
+  branch: null
+  swift: AMRIGTG1
+    
+- name: "BANCO AZTECA DE GUATEMALA"
+  city: "GUATEMALA"
+  branch: null
+  swift: AZTKGTGC
+    
+- name: "BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA"
+  city: "GUATEMALA"
+  branch: null
+  swift: BCIEGTG1
+    
+- name: "BANCO CORPORATIVO, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: COPVGTG1
+    
+- name: "BANCO DE ANTIGUA, S A"
+  city: "GUATEMALA"
+  branch: null
+  swift: ANTGGTG1
+    
+- name: "BANCO DE COMERCIO S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: CMMEGTG1
+    
+- name: "BANCO DE CREDITO, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: BDCTGTGT
+    
+- name: "BANCO DE GUATEMALA"
+  city: "GUATEMALA"
+  branch: null
+  swift: BAGUGTGB
+    
+- name: "BANCO DE GUATEMALA"
+  city: "GUATEMALA"
+  branch: null
+  swift: BAGUGTGC
+    
+- name: "BANCO DE LA REPUBLICA S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: REBLGTG1
+    
+- name: "BANCO DE LOS TRABAJADORES"
+  city: "GUATEMALA"
+  branch: null
+  swift: TRAJGTGC
+    
+- name: "BANCO DEL EJERCITO S.A."
+  city: "CHICHICASTENANGO"
+  branch: AGENCIA CHICHICASTENANGO
+  swift: BAEJGTG10G6
+    
+- name: "BANCO DEL EJERCITO S.A."
+  city: "COBAN"
+  branch: AGENCIA COBAN
+  swift: BAEJGTG10GA
+    
+- name: "BANCO DEL EJERCITO S.A."
+  city: "ESQUIPULAS"
+  branch: AGENCIA ESQUIPULAS
+  swift: BAEJGTG10G7
+    
+- name: "BANCO DEL EJERCITO S.A."
+  city: "GUALAN ZACAPA"
+  branch: AGENCIA GUALAN ZACAPA
+  swift: BAEJGTG10G8
+    
+- name: "BANCO DEL EJERCITO S.A."
+  city: "GUATEMALA"
+  branch: AGENCIA AGUILAR BATRES
+  swift: BAEJGTG10G3
+    
+- name: "BANCO DEL EJERCITO S.A."
+  city: "GUATEMALA"
+  branch: AGENCIA EL PATIO
+  swift: BAEJGTG1
+    
+- name: "BANCO DEL EJERCITO S.A."
+  city: "GUATEMALA"
+  branch: AGENCIA GEMINIS 10
+  swift: BAEJGTG10G4
+    
+- name: "BANCO DEL EJERCITO S.A."
+  city: "GUATEMALA"
+  branch: AGENCIA ROOSEVELT
+  swift: BAEJGTG10G2
+    
+- name: "BANCO DEL EJERCITO S.A."
+  city: "QUEZALTENANGO"
+  branch: AGENCIA QUEZALTENANGO
+  swift: BAEJGTG10G5
+    
+- name: "BANCO FICOHSA GUATEMALA"
+  city: "GUATEMALA"
+  branch: null
+  swift: FCOHGTGC
+    
+- name: "BANCO G AND T CONTINENTAL, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: GTCOGTGC
+    
+- name: "BANCO INDUSTRIAL, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: INDLGTGC
+    
+- name: "BANCO INMOBILIARIO, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: BINMGTGC
+    
+- name: "BANCO INTERNACIONAL, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: DIBIGTGC
+    
+- name: "BANCO INV, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: FIVNGTG1
+    
+- name: "BANCO METROPOLITANO S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: BMETGTG1
+    
+- name: "BANCO NACIONAL DE LA VIVIENDA"
+  city: "GUATEMALA"
+  branch: null
+  swift: BNVIGTG1
+    
+- name: "BANCO PROMERICA DE GUATEMALA, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: CITBGTGC
+    
+- name: "BANCO PROMERICA, S.A."
+  city: "GUATEMALA"
+  branch: CITBGTGC
+  swift: BPRCGTGCGUA
+    
+- name: "BANCO PROMERICA, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: BPRCGTGC
+    
+- name: "BANCO PROMERICA, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: BPRKGTG1
+    
+- name: "BANCO SCI S. A."
+  city: "GUATEMALA"
+  branch: null
+  swift: CIICGTG1
+    
+- name: "BANRURAL S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: BRRLGTGC
+    
+- name: "BOLSA DE VALORES NACIONAL SA"
+  city: "GUATEMALA"
+  branch: null
+  swift: XGTGGTG1
+    
+- name: "BRITISH AMERICAN TOBACCO CENTRAL AMERICA S.A., SUCURSAL GUATEMALA"
+  city: "CALZADA ATANASIO TZUL"
+  branch: null
+  swift: BATSGTG1
+    
+- name: "CENTRAL DE VALORES NACIONAL, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: CEVIGTG1
+    
+- name: "CITIBANK N.A. SUCURSAL GUATEMALA"
+  city: "GUATEMALA"
+  branch: null
+  swift: CITIGTGC
+    
+- name: "CORPORACION BURSATIL SA"
+  city: "GUATEMALA"
+  branch: null
+  swift: CORRGTG1
+    
+- name: "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA"
+  city: "GUATEMALA"
+  branch: null
+  swift: CHNAGTGC
+    
+- name: "FINANCIERA AGROMERCANTIL S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: FAGOGTG1
+    
+- name: "FINANCIERA CONSOLIDADA, S.A"
+  city: "GUATEMALA"
+  branch: null
+  swift: FCOOGTGC
+    
+- name: "FINANCIERA CORPORATIVA S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: FCORGTG1
+    
+- name: "FINANCIERA DE CAPITALES, S. A."
+  city: "GUATEMALA"
+  branch: null
+  swift: FIRCGTG1
+    
+- name: "FINANCIERA DE CREDITO S.A"
+  city: "GUATEMALA"
+  branch: null
+  swift: FCREGTG1
+    
+- name: "FINANCIERA DE OCCIDENTE, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: FIOCGTG1
+    
+- name: "FINANCIERA DE OCCIDENTE, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: OCICGTGC
+    
+- name: "FINANCIERA DEL PAIS S A"
+  city: "GUATEMALA"
+  branch: null
+  swift: FNPAGTG1
+    
+- name: "FINANCIERA GUATEMALTECA S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: FIGAGTG1
+    
+- name: "FINANCIERA INDUSTRIAL, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: FIUDGTG1
+    
+- name: "FINANCIERA LATINOAMERICANA, S. A"
+  city: "GUATEMALA"
+  branch: null
+  swift: FILMGTG1
+    
+- name: "FINANCIERA REFORMA S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: FIRFGTG1
+    
+- name: "FINANCIERA SAN MIGUEL, S. A"
+  city: "GUATEMALA"
+  branch: null
+  swift: FSMCGTG1
+    
+- name: "FINANCIERA SUMMA, S.A. CENTRO GERENCIAL LAS MARGARITAS"
+  city: "GUATEMALA"
+  branch: null
+  swift: FSCGGTG1
+    
+- name: "FINANCIERA UNO S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: FIUNGTG1
+    
+- name: "FITCH CENTROAMERICA (GUATEMALA)"
+  city: "GUATEMALA"
+  branch: null
+  swift: FRIPGTG1
+    
+- name: "IMAGENES COMPUTARIZADAS DE GUATEMALA, S. A."
+  city: "GUATEMALA"
+  branch: null
+  swift: ICGSGTGC
+    
+- name: "PRIMER BANCO DE AHORRO Y PRSTAMO PARA LA VIVIENDA FAMILIAR, S.A."
+  city: "GUATEMALA"
+  branch: null
+  swift: VIVBGTG1
+    

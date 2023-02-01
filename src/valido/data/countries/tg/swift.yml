@@ -1,0 +1,140 @@
+- name: "BANK OF AFRICA TOGO"
+  city: "LOME"
+  branch: null
+  swift: AFRITGTG
+    
+- name: "BANQUE ATLANTIQUE TOGO"
+  city: "LOME"
+  branch: null
+  swift: ATTGTGTG
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "KARA"
+  branch: KARA BRANCH
+  swift: BCAOTGTGKAR
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "LOME"
+  branch: null
+  swift: BCAOTGTG
+    
+- name: "BANQUE INTERNATIONALE POUR L'AFRIQUE AU TOGO"
+  city: "LOME"
+  branch: null
+  swift: BILTTGTG
+    
+- name: "BANQUE OUEST AFRICAINE DE DEVELOPPEMENT (BOAD)"
+  city: "LOME"
+  branch: null
+  swift: BOADTGTG
+    
+- name: "BANQUE POPULAIRE POUR L'EPARGNE ET LE CREDIT (FORMERLY CAISSE D'EPARGNE DU TOGO)"
+  city: "LOME"
+  branch: null
+  swift: BPECTGTG
+    
+- name: "BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE"
+  city: "LOME"
+  branch: null
+  swift: BTCITGTG
+    
+- name: "BSIC TOGO SA"
+  city: "LOME"
+  branch: null
+  swift: BSAHTGTG
+    
+- name: "CORIS BANK INTERNATIONAL TOGO"
+  city: "LOME"
+  branch: null
+  swift: CORITGTG
+    
+- name: "DEPOSITAIRE CENTRAL-BANQUE DE REGLEMENT (DCBR TOGO)"
+  city: "LOME"
+  branch: null
+  swift: DCEDTGT1
+    
+- name: "DIAMONDBANK TOGO"
+  city: "LOME"
+  branch: null
+  swift: DBLNTGTG
+    
+- name: "ECOBANK TOGO"
+  city: "LOME"
+  branch: EPROCESS INT.
+  swift: ECOCTGTGEPI
+    
+- name: "ECOBANK TOGO"
+  city: "LOME"
+  branch: ETI DEPARTMENT
+  swift: ECOCTGTGETI
+    
+- name: "ECOBANK TOGO"
+  city: "LOME"
+  branch: SOAPI/WAIPS
+  swift: ECOCTGTGWPS
+    
+- name: "ECOBANK TOGO"
+  city: "LOME"
+  branch: null
+  swift: ECOCTGTA
+    
+- name: "ECOBANK TOGO"
+  city: "LOME"
+  branch: null
+  swift: ECOCTGTG
+    
+- name: "ECOBANK TOGO"
+  city: "LOME"
+  branch: null
+  swift: ECOCTGTGBID
+    
+- name: "ECOBANK TOGO"
+  city: "LOME"
+  branch: null
+  swift: ECOCTGTS
+    
+- name: "ECOBANK TOGO"
+  city: "LOME"
+  branch: null
+  swift: ECOCTGTU
+    
+- name: "ECOBANK TOGO"
+  city: "LOME"
+  branch: null
+  swift: ECOCTGTX
+    
+- name: "ECOWAS BANK FOR INVESTMENT AND DEVELOPMENT"
+  city: "LOME"
+  branch: null
+  swift: EBIDTGTG
+    
+- name: "ORABANK TOGO"
+  city: "LOME"
+  branch: null
+  swift: ORBKTGTG
+    
+- name: "SOCIETE DES POSTES DU TOGO"
+  city: "LOME"
+  branch: null
+  swift: SOTOTGT1
+    
+- name: "SOCIETE GENERALE BENIN SUCCURSALE DU TOGO"
+  city: "LOME"
+  branch: null
+  swift: SOGETGTG
+    
+- name: "SOCIETE INTER AFRICAINE DE BANQUE, SA"
+  city: "LOME"
+  branch: null
+  swift: BALTTGT1
+    
+- name: "SOCIETE INTER-AFRICAINE DE BANQUE"
+  city: "LOME"
+  branch: null
+  swift: SIABTGTG
+    
+- name: "UNION TOGOLAISE DE BANQUE"
+  city: "LOME"
+  branch: null
+  swift: UNTBTGTG
+    

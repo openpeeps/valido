@@ -1,0 +1,1265 @@
+- name: "321 CREDITO INSTITUICAO FINANCEIRA DE CREDITO S.A."
+  city: "PORTO"
+  branch: null
+  swift: CIEDPTP1
+    
+- name: "ABANCA CORPORACION BANCARIA, SA, SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: LISBON UNCONNECTED
+  swift: CAGLPTP1LBU
+    
+- name: "ABANCA CORPORACION BANCARIA, SA, SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: CAGLPTPL
+    
+- name: "AGENCIA GESTAO DA TESOURARIA E DIV. PUBLICA, IGCP EPE"
+  city: "LISBON"
+  branch: null
+  swift: IGCPPTPL
+    
+- name: "ALLIANZ PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: ALPOPTP1
+    
+- name: "ANDRADE GUTIERREZ-EUROPA, AFRICA, ASIA, S.A."
+  city: "OEIRAS"
+  branch: null
+  swift: AGEAPTPL
+    
+- name: "ARGENTARIA VOLARE"
+  city: "LISBON"
+  branch: null
+  swift: ARVOPTP1
+    
+- name: "ASCOR DEALER S.A."
+  city: "LISBON"
+  branch: null
+  swift: ASDEPTP1
+    
+- name: "ATRIUM INVESTIMENTOS-SOCIEDADE FINANCEIRA DE CORRETAGEM, SA"
+  city: "LISBON"
+  branch: null
+  swift: AIFCPTP1
+    
+- name: "AUTOEUROPA"
+  city: "QUINTA DO ANJO"
+  branch: null
+  swift: AUOEPTP1
+    
+- name: "A-VISION - PRESTACAO DE SERVICOS"
+  city: "PALMELA"
+  branch: null
+  swift: AVPEPTP1
+    
+- name: "AXA LIFE EUROPE LIMITED SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: AXLPPTP1
+    
+- name: "AXA PORTUGAL SEGUROS VIDA"
+  city: "LISBON"
+  branch: null
+  swift: APSVPTP1
+    
+- name: "BANCO ACTIVOBANK S.A."
+  city: "LISBON"
+  branch: null
+  swift: ACTVPTPL
+    
+- name: "BANCO BAI EUROPA, SA"
+  city: "LISBON"
+  branch: null
+  swift: BAIPPTPL
+    
+- name: "BANCO BIC PORTUGUES, S.A."
+  city: "LISBON"
+  branch: null
+  swift: BPNPPTPL
+    
+- name: "BANCO BIC PORTUGUES, S.A."
+  city: "MADEIRA"
+  branch: SUCURSAL FINANCEIRA EXTERIOR
+  swift: BPNPPTPLSFE
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA (PORTUGAL) S.A."
+  city: "LISBON"
+  branch: null
+  swift: BBVAPTPL
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA (PORTUGAL) S.A."
+  city: "LISBON"
+  branch: null
+  swift: BBVAPTPLTG2
+    
+- name: "BANCO BPI SA"
+  city: "PORTO"
+  branch: ALL PT BRANCHES NOT LISTED
+  swift: BBPIPTPL
+    
+- name: "BANCO CETELEM SA"
+  city: "LISBON"
+  branch: null
+  swift: CETMPTP1
+    
+- name: "BANCO COMERCIAL DE MACAU S.A.R.L."
+  city: "LISBON"
+  branch: null
+  swift: CMACPTP1
+    
+- name: "BANCO COMERCIAL DE MACAU S.A.R.L."
+  city: "PORTO"
+  branch: null
+  swift: CMACPTP1OPR
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "FUNCHAL"
+  branch: OFFSHORE BRANCH - CORPORATE AREA
+  swift: BCOMPTPLOFI
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "FUNCHAL"
+  branch: OFFSHORE BRANCH
+  swift: BCOMPTPLSFE
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "FUNCHAL"
+  branch: null
+  swift: BCOMPTPLFUN
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "LISBON"
+  branch: CORRESPONDENT BANKING DIVISION
+  swift: BCOMPTPLINT
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "LISBON"
+  branch: INSTITUTIONAL CUSTODY
+  swift: BCOMPTPLDRI
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "LISBON"
+  branch: TREASURY DIVISION
+  swift: BCOMPTPLDIF
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "LISBON"
+  branch: null
+  swift: BCOMPTPLB07
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "LISBON"
+  branch: null
+  swift: BCOMPTPLLES
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "OEIRAS"
+  branch: ALL NON LISTED BRANCHES
+  swift: BCOMPTPL
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "OEIRAS"
+  branch: BOPB - LISBOA
+  swift: BCOMPTPLB01
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "OEIRAS"
+  branch: COLLECTIONS/DOC CREDITS
+  swift: BCOMPTPLLEU
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "OEIRAS"
+  branch: TAGUS PARK
+  swift: BCOMPTPLOTP
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "OEIRAS"
+  branch: null
+  swift: CISFPTP1
+    
+- name: "BANCO COMERCIAL PORTUGUES"
+  city: "PORTO"
+  branch: LATINO COELHO
+  swift: BCOMPTPLPLC
+    
+- name: "BANCO CREDIBOM, SA"
+  city: "ALGES"
+  branch: null
+  swift: CRBBPTP1
+    
+- name: "BANCO CTT, S.A."
+  city: "LISBON"
+  branch: null
+  swift: CTTVPTPL
+    
+- name: "BANCO DE BOSTON LATINO AMERICANO S.A."
+  city: "FUNCHAL"
+  branch: null
+  swift: BBLAPTP1
+    
+- name: "BANCO DE INVESTIMENTO GLOBAL S.A."
+  city: "LISBON"
+  branch: null
+  swift: BDIGPTPL
+    
+- name: "BANCO DE INVESTIMENTO IMOBILIARIO SA"
+  city: "LISBON"
+  branch: null
+  swift: INIOPTP1
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: BP- CCBM
+  swift: BGALPTTGCCB
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: BP-BACK-OFFICE
+  swift: BGALPTTGBAC
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: BP-MINIMUM RESERVES
+  swift: BGALPTTGMRR
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: BP-MONETARY POLICY OPERATIONS
+  swift: BGALPTTGSIT
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: COLLATERAL MANAGEMENT PT PARTIES
+  swift: BGALPTPLPTP
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: COLLATERAL MANAGEMENT PT PARTIES
+  swift: BGALPTTGPTP
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: CONTABILIDADE E PAGAMENTOS
+  swift: BGALPTPLDCP
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: CREDIT AND MARKETS DEPARTMENT
+  swift: BGALPTPLCCB
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: DET-EMISSAO E TESOURARIA
+  swift: BGALPTTGDET
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: FUNDS
+  swift: BGALPTPLGPF
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: MERCADO MONETARIO INTERBANCARIO
+  swift: BGALPTTGMMI
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: SICOI INSTANT PAYMENTS SOLUTION
+  swift: BGALPTTGIPS
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: SISTEMAS DE PAGAMENTOS
+  swift: BGALPTTG
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: BGALPTPL
+    
+- name: "BANCO DE PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: BGALPTPLCON
+    
+- name: "BANCO DE PORTUGAL"
+  city: "PORTO"
+  branch: FUNDO GARANTIA
+  swift: BGALPTTGFGC
+    
+- name: "BANCO DE SABADELL S.A"
+  city: "LISBON"
+  branch: null
+  swift: BSABPTP1
+    
+- name: "BANCO DO BRASIL AG-SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: BRASPTPL
+    
+- name: "BANCO EFISA S.A."
+  city: "LISBON"
+  branch: null
+  swift: EFISPTPL
+    
+- name: "BANCO EXPRESSO ATLANTICO SA"
+  city: "LISBON"
+  branch: null
+  swift: EXATPTP1
+    
+- name: "BANCO FINANTIA S.A."
+  city: "LISBON"
+  branch: FINANTIA CORRETORA
+  swift: BFIAPTPLCOR
+    
+- name: "BANCO FINANTIA S.A."
+  city: "LISBON"
+  branch: FINANTIA INTERNATIONAL
+  swift: BFIAPTPLINT
+    
+- name: "BANCO FINANTIA S.A."
+  city: "LISBON"
+  branch: FINANTIA SECURITIES
+  swift: BFIAPTPLSEC
+    
+- name: "BANCO FINANTIA S.A."
+  city: "LISBON"
+  branch: null
+  swift: BFIAPTPL
+    
+- name: "BANCO FINANTIA S.A."
+  city: "MADEIRA"
+  branch: MADEIRA OFFSHORE BRANCH
+  swift: BFIAPTPLSFE
+    
+- name: "BANCO INVEST S.A."
+  city: "LISBON"
+  branch: null
+  swift: IVVSPTPL
+    
+- name: "BANCO L.J. CARREGOSA, S.A."
+  city: "PORTO"
+  branch: null
+  swift: BLJCPTPT
+    
+- name: "BANCO MADESANT - SOCIEDADE UNIPESSOAL S.A. (ZONA FRANCA DA MADEIRA)"
+  city: "FUNCHAL"
+  branch: null
+  swift: MASNPTP1
+    
+- name: "BANCO MAIS SA"
+  city: "LISBON"
+  branch: null
+  swift: MIISPTP1
+    
+- name: "BANCO MELLO"
+  city: "LISBON"
+  branch: null
+  swift: MEOLPTP1
+    
+- name: "BANCO MELLO DE INVESTIMENTOS S.A."
+  city: "LISBON"
+  branch: null
+  swift: MEIIPTP1
+    
+- name: "BANCO MELLO IMOBILIARIO, SA"
+  city: "LISBON"
+  branch: null
+  swift: MEIMPTP1
+    
+- name: "BANCO POPULAR PORTUGAL, S.A."
+  city: "LISBON"
+  branch: null
+  swift: CRBNPTPL
+    
+- name: "BANCO PORTUGUES DE GESTAO, S.A."
+  city: "LISBON"
+  branch: null
+  swift: BPGPPTPL
+    
+- name: "BANCO PORTUGUES DE INVESTIMENTO S.A."
+  city: "LISBON"
+  branch: null
+  swift: BPIPPTPL
+    
+- name: "BANCO PRIMUS, S.A."
+  city: "PACO DE ARCOS"
+  branch: null
+  swift: PRUUPTP1
+    
+- name: "BANCO PRIVADO ATLANTICO-EUROPA, SA"
+  city: "LISBON"
+  branch: null
+  swift: BAPAPTPL
+    
+- name: "BANCO SANTANDER CONSUMER PORTUGAL SA"
+  city: "LISBON"
+  branch: null
+  swift: IBNBPTP1
+    
+- name: "BANCO SANTANDER TOTTA, S.A. (FORMERLY BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.)"
+  city: "FUNCHAL"
+  branch: ENDERECO SWIFT FUNCHAL
+  swift: BNIFPTPLFUN
+    
+- name: "BANCO SANTANDER TOTTA, S.A. (FORMERLY BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.)"
+  city: "FUNCHAL"
+  branch: ENDERECO SWIFT SFE
+  swift: BNIFPTPLSFE
+    
+- name: "BANCO SANTANDER TOTTA, S.A. (FORMERLY BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.)"
+  city: "LISBON"
+  branch: null
+  swift: BNIFPTPL
+    
+- name: "BANCO SANTANDER TOTTA, S.A. (FORMERLY BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.)"
+  city: "PORTO"
+  branch: ENDERECO SWIFT PORTO
+  swift: BNIFPTPLOPO
+    
+- name: "BANCO SANTANDER TOTTA, SA"
+  city: "LISBON"
+  branch: EMIGRANTS REMITTANCES
+  swift: TOTAPTPLEMI
+    
+- name: "BANCO SANTANDER TOTTA, SA"
+  city: "LISBON"
+  branch: null
+  swift: TOTAPTPL
+    
+- name: "BANCO SANTANDER TOTTA, SA"
+  city: "MADEIRA"
+  branch: MADEIRA OFFSHORE BRANCH
+  swift: TOTAPTPLMOB
+    
+- name: "BANIF BANCO DE INVESTIMENTO, S.A."
+  city: "LISBON"
+  branch: null
+  swift: BNFIPTPL
+    
+- name: "BANK OF CHINA (LUXEMBOURG) S.A. PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: null
+  swift: BKCHPTPL
+    
+- name: "BANKINTER SUCURSAL EN PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: BKBKPTPL
+    
+- name: "BANQUE DE PATRIMOINES PRIVES SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: BBPPPTPL
+    
+- name: "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE, SUCURSAL PORTUGUESA"
+  city: "LISBON"
+  branch: null
+  swift: PRIBPTPX
+    
+- name: "BANQUE PSA FINANCE (SUCURSAL EM PORTUGAL)"
+  city: "LISBON"
+  branch: null
+  swift: PSABPTP1
+    
+- name: "BARCLAYS BANK PLC"
+  city: "LISBON"
+  branch: null
+  swift: BARCPTPC
+    
+- name: "BARCLAYS BANK PLC"
+  city: "LISBON"
+  branch: null
+  swift: BARCPTPL
+    
+- name: "BARCLAYS BANK PLC"
+  city: "PORTO"
+  branch: null
+  swift: BARCPTPLOPR
+    
+- name: "BARCLAYS FUNDOS, SA"
+  city: "LISBON"
+  branch: null
+  swift: BAUUPTP1
+    
+- name: "BBVA INSTITUICAO FINANCEIRA DE CREDITO S.A"
+  city: "LISBON"
+  branch: null
+  swift: BIFDPTP1
+    
+- name: "BEST-BANCO ELECTRONICO DE SERVICO TOTAL S.A."
+  city: "LISBON"
+  branch: null
+  swift: BESZPTPL
+    
+- name: "BIE - BANK AND TRUST LTD"
+  city: "LISBON"
+  branch: null
+  swift: BITUPTP1
+    
+- name: "BNI - BANCO DE NEGOCIOS INTERNACIONAL (EUROPA), S.A."
+  city: "LISBON"
+  branch: null
+  swift: BNICPTPL
+    
+- name: "BNP PARIBAS PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: BNPAPTPLLIS
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, S.A."
+  city: "LISBON"
+  branch: null
+  swift: PARBPTP1
+    
+- name: "BNP PARIBAS SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: BNPAPTPL
+    
+- name: "BNP PARIBAS WEALTH MANAGEMENT, S.A."
+  city: "LISBON"
+  branch: null
+  swift: BPWMPTP1
+    
+- name: "BOLSA DE DERIVADOS DO PORTO"
+  city: "PORTO"
+  branch: null
+  swift: XBDPPTP1
+    
+- name: "BPI DEALER - SOCIEDADE FINANCEIRA DE CORRETAGEM, A"
+  city: "PORTO"
+  branch: null
+  swift: BSFCPTP1
+    
+- name: "BPI GESTAO DE ACTIVOS - SOCIEDADE GESTORA DE FUNDO S DE INVESTIMENTO MOBILIARIO, SA"
+  city: "LISBON"
+  branch: null
+  swift: BPGAPTP1
+    
+- name: "CAIXA AGRICOLA GESTIONE"
+  city: "LISBON"
+  branch: null
+  swift: CAOGPTP1
+    
+- name: "CAIXA BANCO DE INVESTIMENTO, S.A."
+  city: "LISBON"
+  branch: null
+  swift: CXBIPTPL
+    
+- name: "CAIXA BANCO DE INVESTIMENTO, S.A."
+  city: "MADEIRA"
+  branch: MADEIRA OFFSHORE BRANCH
+  swift: CXBIPTPLMOB
+    
+- name: "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO"
+  city: "LISBON"
+  branch: null
+  swift: CCCMPTPL
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DA CHAMUSCA, C.R.L"
+  city: "CHAMUSCA"
+  branch: null
+  swift: CCCHPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DA GUARDA CRL"
+  city: "GUARDA"
+  branch: null
+  swift: CCRMPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE ALBUFEIRA CRL"
+  city: "ALBUFEIRA"
+  branch: null
+  swift: CCOTPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE ALCACOVAS E VIANA DO ALENTEJO"
+  city: "VIANA DO ALENTEJO"
+  branch: null
+  swift: CCOOPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE ALCOUTIM CRL"
+  city: "MARTIM LONGO"
+  branch: null
+  swift: CRAUPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE ALJEZUR CRL"
+  city: "ALJEZUR"
+  branch: null
+  swift: CROMPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE ARRONCHES CRL"
+  city: "ARRONCHES"
+  branch: null
+  swift: CEATPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE BOMBARRAL CRL"
+  city: "BOMBARRAL"
+  branch: null
+  swift: CERTPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE CABECEIRAS DE B ASTO, CRL"
+  city: "REFOJOS"
+  branch: null
+  swift: CEIUPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE CASTRO DAIRE CRL"
+  city: "CASTRO DAIRE"
+  branch: null
+  swift: CELMPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE CELORICO DA BEIRA"
+  city: "CELORICO DA BEIRA"
+  branch: null
+  swift: CELUPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE ILHAVO CRL"
+  city: "ILHAVO"
+  branch: null
+  swift: CDIMPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE MAFRA CRL"
+  city: "MAFRA"
+  branch: null
+  swift: CDOTPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE MIRA CRL"
+  city: "MIRA"
+  branch: null
+  swift: CDLMPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE MONFORTE CRL"
+  city: "MONFORTE"
+  branch: null
+  swift: CDLTPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE SEVER DO VOUGA"
+  city: "SEVER DO VOUGA"
+  branch: null
+  swift: CTGMPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE TORRES VEDRAS,C.R.L"
+  city: "TORRES VEDRAS"
+  branch: null
+  swift: CTIUPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE VILA DO BISPO CRL"
+  city: "VILA DO BISPO"
+  branch: null
+  swift: CTCUPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE VILA VICOSA"
+  city: "VILA VICOSA"
+  branch: null
+  swift: CTLMPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DE VISEU-TONDELA"
+  city: "VISEU"
+  branch: null
+  swift: CTLUPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DO CONCELHO DE PINHEL"
+  city: "FREIXEDAS"
+  branch: null
+  swift: COGTPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DO PESO DA REGUA"
+  city: "PESO DA REGUA"
+  branch: null
+  swift: COIOPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DO RIBATEJO CENTRO"
+  city: "SANTAREM"
+  branch: null
+  swift: COGUPTP1
+    
+- name: "CAIXA DE CREDITO AGRICOLA MUTUO DOS ACORES CRL"
+  city: "PONTA DELGADA"
+  branch: null
+  swift: CTLOPTP1
+    
+- name: "CAIXA DE CREDITO DE LEIRIA"
+  city: "LEIRIA"
+  branch: null
+  swift: CDCTPTP2
+    
+- name: "CAIXA ECONOMICA DA ASSOCIACAO DE SOCORROS MUTUOS DE EMPREGADOS NO COMERCIO DE LISBOA"
+  city: "LISBON"
+  branch: null
+  swift: CEARPTP1
+    
+- name: "CAIXA ECONOMICA DA MISERICORDIA DE ANGRA DO HEROISMO"
+  city: "ANGRA DO HEROISMO"
+  branch: null
+  swift: CEMAPTP2
+    
+- name: "CAIXA ECONOMICA DO PORTO"
+  city: "PORTO"
+  branch: null
+  swift: CAEPPTP1
+    
+- name: "CAIXA ECONOMICA SOCIAL"
+  city: "PORTO"
+  branch: null
+  swift: CAEOPTP1
+    
+- name: "CAIXA GERAL DE DEPOSITOS"
+  city: "FUNCHAL"
+  branch: MADEIRA OFFSHORE BRANCH
+  swift: CGDIPTPLOSF
+    
+- name: "CAIXA GERAL DE DEPOSITOS"
+  city: "LISBON"
+  branch: null
+  swift: CGDIPTPL
+    
+- name: "CAIXA GERAL DE DEPOSITOS"
+  city: "PORTO"
+  branch: null
+  swift: CGDIPTPLOPR
+    
+- name: "CAIXAGEST TECNICAS DE GESTAO DE FUNDOS, SA"
+  city: "LISBON"
+  branch: null
+  swift: CTGFPTP1
+    
+- name: "CENTRAL-BANCO DE INVESTIMENTO, SA"
+  city: "LISBON"
+  branch: null
+  swift: PCBIPTP1
+    
+- name: "CITIBANK EUROPE PLC PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: CITIBANK LISBON TARGET 2
+  swift: CITIPTPXSEC
+    
+- name: "CITIBANK EUROPE PLC PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: SUCURSAL EM PORTUGAL
+  swift: CITIPTPX
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 001
+  swift: CITIPTP1001
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 002
+  swift: CITIPTP1002
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 003
+  swift: CITIPTP1003
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 004
+  swift: CITIPTP1004
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 005
+  swift: CITIPTP1005
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 006
+  swift: CITIPTP1006
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 007
+  swift: CITIPTP1007
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 008
+  swift: CITIPTP1008
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 009
+  swift: CITIPTP1009
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 010
+  swift: CITIPTP1010
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 011
+  swift: CITIPTP1011
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 012
+  swift: CITIPTP1012
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 013
+  swift: CITIPTP1013
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 014
+  swift: CITIPTP1014
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 015
+  swift: CITIPTP1015
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: T2S 016
+  swift: CITIPTP1016
+    
+- name: "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: null
+  swift: CITIPTP1
+    
+- name: "COFIDIS"
+  city: "LISBON"
+  branch: null
+  swift: CFFIPTP1
+    
+- name: "COMPANHIA PORTUGUESA DE RATING, S.A"
+  city: "LISBON"
+  branch: null
+  swift: COOGPTP1
+    
+- name: "CREDIBANCO - BANCO DE CREDITO PESSOAL SA"
+  city: "LISBON"
+  branch: null
+  swift: CRRSPTP1
+    
+- name: "CREDIFIN - BANCO DE CREDITO AO CONSUMO S.A."
+  city: "PORTO"
+  branch: null
+  swift: CRRCPTP1
+    
+- name: "CTT-CORREIOS DE PORTUGAL, S.A."
+  city: "LISBON"
+  branch: null
+  swift: CTTPPTP1
+    
+- name: "DEUTSCHE BANK AG PORTUGAL BRANCH"
+  city: "FUNCHAL"
+  branch: SUCURSAL FINANCEIRA EXTERIOR - OFFSHORE
+  swift: DEUTPTPLFUN
+    
+- name: "DEUTSCHE BANK AG PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: SICOI
+  swift: DEUTPTPLSIC
+    
+- name: "DEUTSCHE BANK AG PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: null
+  swift: DEUTPTPL
+    
+- name: "DEXIA CREDIT LOCAL S.A. - SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: DSBLPTPL
+    
+- name: "DIF BROKER-SOC.CORRETORA, S.A."
+  city: "LISBON"
+  branch: null
+  swift: DBRCPTP1
+    
+- name: "ESAF - ES FUNDOS DE INVESTIMENTO IMOBILIARIO, SA"
+  city: "LISBON"
+  branch: null
+  swift: EFIIPTP1
+    
+- name: "ESAF - ES FUNDOS DE INVESTIMENTO MOBILIARIO, SA"
+  city: "LISBON"
+  branch: null
+  swift: EFIMPTP1
+    
+- name: "ESAF - ES FUNDOS DE PENSOES, SA"
+  city: "LISBON"
+  branch: null
+  swift: ESFPPTP1
+    
+- name: "ESAF - ESPIRITO SANTO GESTAO DE PATRIMONIOS, S.A."
+  city: "LISBON"
+  branch: null
+  swift: ESGPPTP1
+    
+- name: "ESER SOCIEDADE FINANCEIRA DE CORRETAGEM SA"
+  city: "LISBON"
+  branch: null
+  swift: ESFCPTP1
+    
+- name: "ESPIRITO SANTO DEALER SOCIEDADE FINANCEIRA DE CORRETAGEM"
+  city: "LISBON"
+  branch: null
+  swift: ESDEPTP1
+    
+- name: "EURONEXT LISBOA"
+  city: "LISBON"
+  branch: null
+  swift: XLISPTP1
+    
+- name: "F AND C PORTUGAL, GESTAO DE PATRIMONIOS, S.A."
+  city: "LISBON"
+  branch: null
+  swift: PGPAPTP1
+    
+- name: "FCA CAPITAL PORTUGAL INSTITUICAO FINANCEIRA DE CREDITO SA"
+  city: "OEIRAS"
+  branch: null
+  swift: FCPIPTP1
+    
+- name: "FCE BANK PLC"
+  city: "LISBON"
+  branch: null
+  swift: FCEFPTP1
+    
+- name: "FINCOR - SOCIEDADE CORRETORA SA"
+  city: "LISBON"
+  branch: null
+  swift: FICCPTP1
+    
+- name: "FINIBANCO S.A."
+  city: "LISBON"
+  branch: null
+  swift: FBCOPTPPLIS
+    
+- name: "FINIBANCO S.A."
+  city: "PORTO"
+  branch: null
+  swift: FBCOPTPP
+    
+- name: "FINIVALOR - SOCIEDADE GESTORA DE FUNDOS MOBILIARIOS S.A."
+  city: "LISBON"
+  branch: null
+  swift: FIVRPTP1
+    
+- name: "FUNDO DE GARANTIA DE DEPOSITOS"
+  city: "LISBON"
+  branch: null
+  swift: FUGDPTP1
+    
+- name: "FUNDO DE RESOLUCAO"
+  city: "LISBON"
+  branch: null
+  swift: FURSPTP1
+    
+- name: "FUNDO GARANTIA CREDITO AGRICOLA MUT UO"
+  city: "LISBON"
+  branch: null
+  swift: FGCAPTP1
+    
+- name: "GOLDEN BROKER SOCIEDADE CORRETORA SA"
+  city: "PORTO"
+  branch: null
+  swift: GBSCPTP1
+    
+- name: "HAITONG BANK, S.A."
+  city: "LISBON"
+  branch: null
+  swift: ESSIPTPL
+    
+- name: "HBF - BANCO FINANCIERO SA"
+  city: "LISBON"
+  branch: null
+  swift: HBFIPTP1
+    
+- name: "HOVIONE FARMACIENCIA SA"
+  city: "LOURES"
+  branch: null
+  swift: HOVFPTPT
+    
+- name: "IGFCSS"
+  city: "PORTO"
+  branch: null
+  swift: IGFCPT21
+    
+- name: "IM GESTAO DE ATIVOS SOCIEDADE GESTORA DE FUNDOS DE INVESTIMENTO SA"
+  city: "LISBON"
+  branch: null
+  swift: GASGPTP1
+    
+- name: "ING BANK NV, SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: BBRUPTPL
+    
+- name: "INTERBOLSA - S.G.S.L.S.C.V.M., S.A."
+  city: "PORTO"
+  branch: TECHNICAL ACCOUNT
+  swift: IBLSPTPP999
+    
+- name: "INTERBOLSA - S.G.S.L.S.C.V.M., S.A."
+  city: "PORTO"
+  branch: null
+  swift: IBLSPTPP
+    
+- name: "INTERBOLSA - S.G.S.L.S.C.V.M., S.A."
+  city: "PORTO"
+  branch: null
+  swift: IBLSPTPP998
+    
+- name: "INTERBOLSA - S.G.S.L.S.C.V.M., S.A."
+  city: "PORTO"
+  branch: null
+  swift: IBLSPTPPCUG
+    
+- name: "INTERMONEY PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: IMPTPTP1
+    
+- name: "INTERMONEY VALORES, SOCIEDAD DE VALORES, SA - SUCCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: IVSVPTP1
+    
+- name: "INTERVALORES-SOCIEDADE CORRETORA, S.A."
+  city: "LISBON"
+  branch: null
+  swift: ITCAPTP1
+    
+- name: "INVESTQUEST SOCIETA GESTORA PATRIMONIOS"
+  city: "LISBON"
+  branch: null
+  swift: ISGAPTP1
+    
+- name: "IPAGOO LLP PORTUGAL BRANCH"
+  city: "LISBON"
+  branch: null
+  swift: IPAGPTPL
+    
+- name: "ITAU BBA INTERNATIONAL LIMITED, SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: ITAUPTPL
+    
+- name: "IVN - SERVICOS PARTILHADOS, S.A."
+  city: "VILA NOVA DE FAMALICAO"
+  branch: null
+  swift: ISPRPTPL
+    
+- name: "JERONIMO MARTINS SGPS, S.A"
+  city: "LISBON"
+  branch: null
+  swift: JERGPTPL
+    
+- name: "LISBON BROKERS SOCIEDADE CORRETORA S.A."
+  city: "LISBON"
+  branch: null
+  swift: LBSCPTP1
+    
+- name: "LUSO PARTNERS - SOCIEDADE CORRETORA, S.A."
+  city: "LISBON"
+  branch: null
+  swift: LPSCPTP1
+    
+- name: "M.G. GESTAO DE ACTIVOS FINANCEIROS-SOCIEDADE GESTORA DE FUNDOS DE INVESTIMENTO MOBILIARIO S.A."
+  city: "LISBON"
+  branch: null
+  swift: GAFSPTP1
+    
+- name: "MACIF PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: MAPGPTP1
+    
+- name: "MATH FUND"
+  city: "LISBON"
+  branch: null
+  swift: MAUDPTP1
+    
+- name: "MIDAS SECURITIES"
+  city: "LISBON"
+  branch: null
+  swift: MIDEPTP1
+    
+- name: "MIILLENNIUM BCP - GESTAO DE FUNDOS DE INVESTIMENTO, SA"
+  city: "LISBON"
+  branch: null
+  swift: MBGFPTP1
+    
+- name: "MILLENIUM BCP"
+  city: "LISBON"
+  branch: null
+  swift: MIBPPTP1
+    
+- name: "MONTEPIO GERAL - CAIXA ECONOMICA"
+  city: "ALGES"
+  branch: SERVICIO TITULOS
+  swift: MPIOPTPLTIT
+    
+- name: "MONTEPIO GERAL - CAIXA ECONOMICA"
+  city: "LISBON"
+  branch: null
+  swift: MPIOPTPL
+    
+- name: "MTS PORTUGAL SGMR, SA"
+  city: "LISBON"
+  branch: null
+  swift: PMTSPTP1
+    
+- name: "NCO DEALER, SA"
+  city: "LISBON"
+  branch: null
+  swift: NCOEPTP1
+    
+- name: "NOVO BANCO DOS ACORES, SA"
+  city: "PONTA DELGADA"
+  branch: null
+  swift: BESAPTPA
+    
+- name: "NOVO BANCO, SA"
+  city: "FUNCHAL"
+  branch: SUCURSAL FINANCEIRA EXTERIOR, MADEIRA BRANCH
+  swift: BESCPTPLOSF
+    
+- name: "NOVO BANCO, SA"
+  city: "LISBON"
+  branch: null
+  swift: BESCPTPL
+    
+- name: "NOVO BANCO, SA"
+  city: "PORTO"
+  branch: null
+  swift: BESCPTPLOPR
+    
+- name: "OK2DEAL-SOCIEDADE CORRETORA, S.A."
+  city: "PORTO"
+  branch: null
+  swift: OKCOPTP1
+    
+- name: "OMICLEAR,C.C.,S.A."
+  city: "LISBON"
+  branch: ANCILLARY SYSTEM ACCOUNT
+  swift: OMICPTPLASA
+    
+- name: "OMICLEAR,C.C.,S.A."
+  city: "LISBON"
+  branch: null
+  swift: OMICPTPL
+    
+- name: "OMICLEAR,C.C.,S.A."
+  city: "LISBON"
+  branch: null
+  swift: OMICPTPLCLI
+    
+- name: "ONEY IFIC SA"
+  city: "LISBON"
+  branch: null
+  swift: ONIFPTP1
+    
+- name: "OREY VALORES-SOCIEDADE CORRETORA, S.A."
+  city: "LISBON"
+  branch: null
+  swift: OVSCPTP1
+    
+- name: "PAULO LOPES AND LOPES LDA"
+  city: "POMBAL"
+  branch: null
+  swift: PLLAPTP1
+    
+- name: "PEXSETTLE"
+  city: "LISBON"
+  branch: null
+  swift: PEXSPTP1
+    
+- name: "PORTUCEL S.A."
+  city: "SETUBAL"
+  branch: null
+  swift: POTCPTPT
+    
+- name: "PORTUGUESE EMISSION TRADING REGISTRY"
+  city: "AMADORA"
+  branch: null
+  swift: PETGPTP1
+    
+- name: "PT PAY SA"
+  city: "LISBON"
+  branch: null
+  swift: PAYYPTP1
+    
+- name: "ROYAL BANK OF SCOTLAND PLC-SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: RBOSPTP1
+    
+- name: "SAMSUNG ELECTRONICA PORTUGAL"
+  city: "LISBON"
+  branch: SEP
+  swift: SECTPTP14E0
+    
+- name: "SAMSUNG ELECTRONICA PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: SECTPTP1
+    
+- name: "SANTANDER ASSET MANAGEMENT-SOCIEDADE GESTORA DE FUNDOS DE INVESTIMENTO MOBILIARIO, S.A."
+  city: "LISBON"
+  branch: null
+  swift: SAGCPTP1
+    
+- name: "SIBS PAGAMENTOS, S.A."
+  city: "LISBON"
+  branch: null
+  swift: SIAOPTP1
+    
+- name: "SIBS-SOCIEDADE INTERBANCARIA DE SERVICOS S.A"
+  city: "LISBON"
+  branch: null
+  swift: SISRPTP1
+    
+- name: "SOCIETA GESTORA DO FUNDO DE PENSOES"
+  city: "LISBON"
+  branch: null
+  swift: SGFEPTP1
+    
+- name: "SONAE FINANCIAL SERVICES, SA"
+  city: "MAIA"
+  branch: null
+  swift: SONVPTP1
+    
+- name: "ST.GALLER KANTONALBANK AG - SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: CCIEPTPX
+    
+- name: "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD."
+  city: "LISBON"
+  branch: LISBON OFFICE
+  swift: BOTKPTP1
+    
+- name: "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO S.A."
+  city: "LISBON"
+  branch: null
+  swift: UIFCPTP1
+    
+- name: "UNIVERSO-BANCO DIRECTO"
+  city: "PORTO"
+  branch: null
+  swift: UVBDPTP1
+    
+- name: "WIZINK BANK S.A. SUCURSAL EM PORTUGAL"
+  city: "LISBON"
+  branch: null
+  swift: WZNKPTPL
+    
+- name: "X-TRADE BROKERS D.M. S.A."
+  city: "LISBON"
+  branch: null
+  swift: TBPTPTP1
+    
+- name: "ZURICH-COMPANHIA DE SEGUROS S.A."
+  city: "LISBON"
+  branch: null
+  swift: ZURIPTPL
+    

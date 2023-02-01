@@ -1,0 +1,725 @@
+- name: "AHLI UNITED BANK K.S.C.P."
+  city: "KUWAIT"
+  branch: null
+  swift: BKMEKWKW
+    
+- name: "AL AHLI BANK OF KUWAIT K.S.C.P"
+  city: "KUWAIT"
+  branch: null
+  swift: ABKKKWKW
+    
+- name: "AL MAL INVESTMENT COMPANY K.S.C. (CLOSED)"
+  city: "SAFAT"
+  branch: null
+  swift: AMKCKWK1
+    
+- name: "AL MULLA INTERNATIONAL EXCHANGE CO"
+  city: "KUWAIT"
+  branch: ALMULLA2
+  swift: AMIEKWKW1ME
+    
+- name: "AL MULLA INTERNATIONAL EXCHANGE CO"
+  city: "KUWAIT"
+  branch: ALMULLA3
+  swift: AMIEKWKW2ME
+    
+- name: "AL MULLA INTERNATIONAL EXCHANGE CO"
+  city: "KUWAIT"
+  branch: null
+  swift: AMIEKWKW
+    
+- name: "AL RAJHI BANK, KUWAIT"
+  city: "KUWAIT"
+  branch: null
+  swift: RJHIKWKW
+    
+- name: "ALMUZAINI EXCHANGE COMPANY KSC (CLOSED)"
+  city: "KUWAIT"
+  branch: null
+  swift: AAACKWKW
+    
+- name: "AMAN EXCHANGE CO. WLL"
+  city: "KUWAIT"
+  branch: null
+  swift: AXCWKWKW
+    
+- name: "ARAB FUND FOR ECONOMIC AND SOCIAL DEVELOPMENT"
+  city: "KUWAIT"
+  branch: null
+  swift: AFEDKWKW
+    
+- name: "ARZAN FINANCIAL GROUP FOR FINANCING AND INVESTMENTS K.P.S.C"
+  city: "KUWAIT"
+  branch: null
+  swift: AFGPKWKW
+    
+- name: "BAHRAIN EXCHANGE COMPANY WLL"
+  city: "SAFAT"
+  branch: null
+  swift: BECXKWKW
+    
+- name: "BANKMUSCAT"
+  city: "KUWAIT"
+  branch: null
+  swift: BMUSKWKW
+    
+- name: "BAYT AL MAL INVESTMENT COMPANY"
+  city: "SAFAT"
+  branch: null
+  swift: BAYTKWK1
+    
+- name: "BBK"
+  city: "KUWAIT"
+  branch: null
+  swift: BBKUKWKW
+    
+- name: "BNP PARIBAS KUWAIT"
+  city: "KUWAIT"
+  branch: null
+  swift: BNPAKWKW
+    
+- name: "BOUBYAN BANK (K.S.C)"
+  city: "KUWAIT"
+  branch: null
+  swift: BBYNKWKW
+    
+- name: "BURGAN BANK K.P.S.C"
+  city: "KUWAIT"
+  branch: null
+  swift: BRGNKWKW
+    
+- name: "CENTRAL BANK OF KUWAIT"
+  city: "KUWAIT"
+  branch: BANKING OPERATIONS DEPARTMENT - KWD ONLY
+  swift: CBKUKWKWBOD
+    
+- name: "CENTRAL BANK OF KUWAIT"
+  city: "KUWAIT"
+  branch: TREASURY PAYMENTS
+  swift: CBKUKWKWTRE
+    
+- name: "CENTRAL BANK OF KUWAIT"
+  city: "SAFAT"
+  branch: null
+  swift: CBKUKWKW
+    
+- name: "CITIBANK N.A."
+  city: "SAFAT"
+  branch: null
+  swift: CITIKWKW
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "AHMADI"
+  branch: EA. AHMADI BRANCH
+  swift: COMBKWKWA14
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "ARDHIYA"
+  branch: ARDHIYA BRANCH
+  swift: COMBKWKWA19
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "FAHAHEEL"
+  branch: AJIAL COMPLEX BRANCH
+  swift: COMBKWKWA11
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "FAHAHEEL"
+  branch: FAHAHEEL BRANCH
+  swift: COMBKWKWA06
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "FAHAHEEL"
+  branch: null
+  swift: COMBKWKWA66
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "FARWANIA"
+  branch: AIRPORT BRANCH
+  swift: COMBKWKWA04
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "FARWANIA"
+  branch: FARWANIA COOP. BRANCH
+  swift: COMBKWKWA27
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "FARWANIA"
+  branch: SIXTH RING ROAD BRANCH
+  swift: COMBKWKWA34
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "HAWALLI"
+  branch: BEIRUT STREET BRANCH
+  swift: COMBKWKWA2O
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "HAWALLI"
+  branch: HAWALLI BRANCH
+  swift: COMBKWKWA16
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "JABRIYA"
+  branch: JABRIYA BRANCH
+  swift: COMBKWKWA35
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "JAHRA"
+  branch: JAHRA BRANCH
+  swift: COMBKWKWA07
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KHAITAN"
+  branch: KHAITAN BRANCH
+  swift: COMBKWKWA08
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KHALDIYA"
+  branch: KHALDIYA BRANCH
+  swift: COMBKWKWA15
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: ABDULLAH AL-SALEM STREET BRANCH
+  swift: COMBKWKWA02
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: AL ANDALUS BRANCH
+  swift: COMBKWKWA36
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: AL MUHALAB CENTER BRANCH
+  swift: COMBKWKWA25
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: AL NAEEM
+  swift: COMBKWKWA56
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: AL SOUR STREET BRANCH
+  swift: COMBKWKWA60
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: AL-DHOW
+  swift: COMBKWKWA58
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: AL-RABIA BRANCH
+  swift: COMBKWKWA57
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: AL-RAI
+  swift: COMBKWKWA45
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: AL-YARMOUK BRANCH
+  swift: COMBKWKWA32
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: BEIRUT ST. BRANCH
+  swift: COMBKWKWA20
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: BNEID AL GAR BRANCH
+  swift: COMBKWKWA52
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: COMMERCIAL SERVICES DEPARTMENT
+  swift: COMBKWKWCOM
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: CUSTODY DEPARTMENT
+  swift: COMBKWKWSEC
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: DASMA
+  swift: COMBKWKWA62
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: DHAHER BRANCH
+  swift: COMBKWKWA41
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: FAHD AL SALEM BR.
+  swift: COMBKWKWA09
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: FOREIGN EXCHANGE DEPARTMENT
+  swift: COMBKWKWFXS
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: FREE TRADE ZONE BRANCH
+  swift: COMBKWKWA38
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: GUARANTEES DEPARTMENT
+  swift: COMBKWKWGTT
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: HADIYA
+  swift: COMBKWKWA64
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: INTERNATIONAL DIVISION
+  swift: COMBKWKWINT
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: JELEEB SHOYOKH
+  swift: COMBKWKWA63
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: KUWAIT MAGIC
+  swift: COMBKWKWA43
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: LETTERS OF CREDIT DEPARTMENT
+  swift: COMBKWKWLCS
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: MANSOURIYA
+  swift: COMBKWKWA44
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: MINISTRIES COMPLEX BRANCH
+  swift: COMBKWKWA31
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: PHONE BANKING SERVICES
+  swift: COMBKWKWA47
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: PRIVATE BANKING UNIT
+  swift: COMBKWKWA40
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: S.W.I.F.T. SUPPORT DEPARTMENT
+  swift: COMBKWKWSWI
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: SABAH AL SALEM
+  swift: COMBKWKWA54
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: SALWA BRANCH
+  swift: COMBKWKWA51
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: SOUTH SURRA
+  swift: COMBKWKWA55
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: TELEX DEPARTMENT
+  swift: COMBKWKWTLX
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: TRADERS MALL
+  swift: COMBKWKWA53
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: UM AL HAIMAN BRANCH
+  swift: COMBKWKWA42
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "KUWAIT"
+  branch: null
+  swift: COMBKWKW
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "MESSILAH"
+  branch: MESSILAH BRANCH
+  swift: COMBKWKWA24
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "MESSILAH"
+  branch: null
+  swift: COMBKWKWA65
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "MINA ABDULLA"
+  branch: MINA ABDULLA BRANCH
+  swift: COMBKWKWA17
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "OMARIA"
+  branch: OMARIYA BRANCH
+  swift: COMBKWKWA10
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "REGAEE"
+  branch: null
+  swift: COMBKWKWA67
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "RUMAITHIYA"
+  branch: RUMAITHIYA BRANCH
+  swift: COMBKWKWA18
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SABAHIYA"
+  branch: SABAHIYA BRANCH
+  swift: COMBKWKWA12
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SAFAT"
+  branch: ABD. MUBARAK BRANCH
+  swift: COMBKWKWA05
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SAFAT"
+  branch: HEAD OFFICE BRANCH
+  swift: COMBKWKWA01
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SAFAT"
+  branch: NEW HEAD OFFICE BRANCH
+  swift: COMBKWKWB00
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SAFAT"
+  branch: SALHIYA BRANCH
+  swift: COMBKWKWA30
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SALMIYA"
+  branch: RAS SALMIYA BRANCH
+  swift: COMBKWKWA33
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SALMIYA"
+  branch: SALMIYA BRANCH
+  swift: COMBKWKWA23
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SALMIYA"
+  branch: SOUK AL SALMIYA BRANCH
+  swift: COMBKWKWA48
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SHARQ"
+  branch: AHMAD AL JABER STREET
+  swift: COMBKWKWA26
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SHARQ"
+  branch: SOUK SHARQ BRANCH
+  swift: COMBKWKWA39
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SHUWAIKH"
+  branch: SHUWAIKH BRANCH
+  swift: COMBKWKWA21
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SHUWAIKH"
+  branch: VEGETABLE MARKET BRANCH
+  swift: COMBKWKWA28
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "SULAIBIKHAT"
+  branch: SULAIBIKHAT BRANCH
+  swift: COMBKWKWA13
+    
+- name: "COMMERCIAL BANK OF KUWAIT KPSC,THE"
+  city: "WEST MISHRIF"
+  branch: WEST MISHRIF BRANCH
+  swift: COMBKWKWA46
+    
+- name: "DOHA BANK"
+  city: "KUWAIT"
+  branch: null
+  swift: DOHBKWKW
+    
+- name: "EFG HERMES IFA"
+  city: "KUWAIT"
+  branch: null
+  swift: EFHIKWK1
+    
+- name: "EQUATE PETROCHEMICAL COMPANY KSCC"
+  city: "SALMIYA"
+  branch: null
+  swift: EQPCKWKW
+    
+- name: "ETEMADCO EXCHANGE COMPANY W.L.L."
+  city: "KUWAIT"
+  branch: null
+  swift: ETEMKWKW
+    
+- name: "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI)"
+  city: "SAFAT"
+  branch: TRADE FINANCE DEPARTMENT, NATIONAL BANK OF ABU DHABI, KUWAIT
+  swift: NBADKWKWTFO
+    
+- name: "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI)"
+  city: "SAFAT"
+  branch: null
+  swift: NBADKWKW
+    
+- name: "FIRST SECURITIES BROKERAGE COMPANY K.S.C.C"
+  city: "KUWAIT"
+  branch: null
+  swift: FSBOKWK1
+    
+- name: "GLOBAL INVESTMENT HOUSE"
+  city: "KUWAIT"
+  branch: GLOBAL INVESTMENT HOUSE - CLIENT ACCOUNT
+  swift: GIHKKWKWCLT
+    
+- name: "GLOBAL INVESTMENT HOUSE"
+  city: "SAFAT"
+  branch: null
+  swift: GIHKKWKW
+    
+- name: "GULF BANK, K.S.C."
+  city: "KUWAIT"
+  branch: TRADE FINANCE
+  swift: GULBKWKWTFS
+    
+- name: "GULF BANK, K.S.C."
+  city: "KUWAIT"
+  branch: TREASURY OPERATIONS
+  swift: GULBKWKWTRO
+    
+- name: "GULF BANK, K.S.C."
+  city: "KUWAIT"
+  branch: VOSTRO/KD DEPARTMENT
+  swift: GULBKWKWVOS
+    
+- name: "GULF BANK, K.S.C."
+  city: "KUWAIT"
+  branch: null
+  swift: GULBKWKW
+    
+- name: "GULF CUSTODY COMPANY"
+  city: "SAFAT"
+  branch: null
+  swift: GCCOKWKW
+    
+- name: "GULF INVESTMENT CORPORATION"
+  city: "KUWAIT"
+  branch: null
+  swift: GCORKWKW
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "KUWAIT"
+  branch: null
+  swift: HBMEKWKW
+    
+- name: "ICBC KUWAIT BRANCH"
+  city: "KUWAIT"
+  branch: null
+  swift: ICBKKWKW
+    
+- name: "INDEPENDENT PETROLEUM GROUP"
+  city: "JABRIYA"
+  branch: null
+  swift: IPGHKWKW
+    
+- name: "INDUSTRIAL BANK OF KUWAIT K.S.C., THE"
+  city: "KUWAIT"
+  branch: null
+  swift: IBKUKWKW
+    
+- name: "INTERNATIONAL FINANCIAL LINE EXCHANGE CO.K.S.C.(CLOSED)"
+  city: "SAFAT"
+  branch: null
+  swift: IFLCKWKW
+    
+- name: "INVESTMENT DAR COMPANY K.S.C.C, THE"
+  city: "KUWAIT"
+  branch: null
+  swift: TIDCKWKW
+    
+- name: "KAMCO INVESTMENT COMPANY K.S.C. (PUBLIC)"
+  city: "SAFAT"
+  branch: null
+  swift: KMCOKWKW
+    
+- name: "KFIC FINANCIAL BROKERAGE"
+  city: "KUWAIT"
+  branch: null
+  swift: KFFBKWK1
+    
+- name: "KUWAIT AIRWAYS CORPORATION"
+  city: "SAFAT"
+  branch: null
+  swift: KACCKWKW
+    
+- name: "KUWAIT BAHRAIN INTERNATIONAL EXCHANGE COMPANY KSC, KUWAIT"
+  city: "KUWAIT"
+  branch: null
+  swift: KBEXKWKF
+    
+- name: "KUWAIT CLEARING COMPANY S.A.K."
+  city: "KUWAIT"
+  branch: null
+  swift: KCCKKWKW
+    
+- name: "KUWAIT FINANCE HOUSE (K.S.C.)"
+  city: "SAFAT"
+  branch: null
+  swift: KFHOKWKW
+    
+- name: "KUWAIT FINANCIAL CENTRE S.A.K."
+  city: "KUWAIT"
+  branch: null
+  swift: KFCEKWKW
+    
+- name: "KUWAIT FUND FOR ARAB ECONOMIC DEVELOPMENT"
+  city: "KUWAIT"
+  branch: null
+  swift: KFAEKWKW
+    
+- name: "KUWAIT INDIA INTERNATIONAL EXCHANGE COMPANY"
+  city: "SAFAT"
+  branch: null
+  swift: KIICKWK1
+    
+- name: "KUWAIT INTERNATIONAL BANK"
+  city: "KUWAIT"
+  branch: null
+  swift: KWIBKWKW
+    
+- name: "KUWAIT INTERNATIONAL FINANCE CO. S.A.K."
+  city: "KUWAIT"
+  branch: null
+  swift: KUIFKWK1
+    
+- name: "KUWAIT INVESTMENT AUTHORITY"
+  city: "KUWAIT"
+  branch: null
+  swift: KIAKKWKW
+    
+- name: "KUWAIT INVESTMENT AUTHORITY"
+  city: "SAFAT"
+  branch: null
+  swift: KIAKKWKB
+    
+- name: "KUWAIT INVESTMENT COMPANY (S.A.K.)"
+  city: "KUWAIT"
+  branch: null
+  swift: KICOKWKW
+    
+- name: "KUWAIT PETROLEUM CORPORATION"
+  city: "SAFAT"
+  branch: null
+  swift: KPCOKWKW
+    
+- name: "KUWAIT STOCK EXCHANGE"
+  city: "SAFAT"
+  branch: null
+  swift: XKUWKWK1
+    
+- name: "MASHREQBANK PSC."
+  city: "KUWAIT"
+  branch: null
+  swift: MSHQKWKW
+    
+- name: "NATIONAL BANK OF KUWAIT S.A.K.P."
+  city: "KUWAIT"
+  branch: null
+  swift: NBOKKWKW
+    
+- name: "NATIONAL INVESTMENTS COMPANY K.S.C. (CLOSED)"
+  city: "SAFAT"
+  branch: null
+  swift: NICKKWKW
+    
+- name: "NOOR FINANCIAL INVESTMENT COMPANY"
+  city: "KUWAIT"
+  branch: null
+  swift: NFICKWKW
+    
+- name: "OMAN EXCHANGE CO. WLL"
+  city: "SAFAT"
+  branch: null
+  swift: OMANKWKW
+    
+- name: "PUBLIC INSTITUTION FOR SOCIAL SECURITY,THE"
+  city: "KUWAIT"
+  branch: null
+  swift: PISUKWKW
+    
+- name: "QATAR NATIONAL BANK"
+  city: "KUWAIT"
+  branch: null
+  swift: QNBAKWKW
+    
+- name: "SAVINGS AND CREDIT BANK"
+  city: "SAFAT"
+  branch: null
+  swift: SACBKWK1
+    
+- name: "SHARQ FINANCIAL BROKERAGE CO."
+  city: "KUWAIT"
+  branch: null
+  swift: SHFBKWK1
+    
+- name: "UAE EXCHANGE CENTRE WLL"
+  city: "SAFAT"
+  branch: null
+  swift: UAEXKWKW
+    
+- name: "UNION NATIONAL BANK-KUWAIT"
+  city: "KUWAIT"
+  branch: null
+  swift: UNBEKWKW
+    
+- name: "UNION SECURITIES BROKERAGE. CO"
+  city: "KUWAIT"
+  branch: null
+  swift: UNSOKWK1
+    
+- name: "UNITED ARAB SHIPPING COMPANY S.A.G"
+  city: "SAFAT"
+  branch: null
+  swift: UASCKWKW
+    
+- name: "UNITED INTERNATIONAL AVIATION SERVICES CO. W.L.L"
+  city: "SHUWAIKH"
+  branch: null
+  swift: UIAWKWKW
+    
+- name: "WARBA BANK"
+  city: "KUWAIT"
+  branch: null
+  swift: WRBAKWKW
+    
+- name: "YUSUF AHMED ALGHANIM AND SONS WLL"
+  city: "SHUWAIKH"
+  branch: null
+  swift: ALGWKWKW
+    

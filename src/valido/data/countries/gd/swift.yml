@@ -1,0 +1,35 @@
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "ST. GEORGE'S"
+  branch: null
+  swift: NOSCGDGD
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED"
+  city: "ST. GEORGE'S"
+  branch: null
+  swift: FCIBGDGD
+    
+- name: "GOVERNMENT OF GRENADA"
+  city: "ST. GEORGE'S"
+  branch: null
+  swift: GVGDGDGD
+    
+- name: "GRENADA CO-OPERATIVE BANK LIMITED"
+  city: "ST. GEORGE'S"
+  branch: null
+  swift: GROAGDGD
+    
+- name: "RBTT BANK GRENADA LIMITED"
+  city: "ST. GEORGE'S"
+  branch: null
+  swift: RBTTGDGD
+    
+- name: "REPUBLIC BANK GRENADA LIMITED"
+  city: "ST. GEORGE'S"
+  branch: null
+  swift: NCBGGDGD
+    
+- name: "STERLING INTERNATIONAL BANK AND TRUST CORPORATION"
+  city: "ST. GEORGE'S"
+  branch: null
+  swift: STLGGDG1
+    

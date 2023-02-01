@@ -1,0 +1,255 @@
+- name: "ACLEDA BANK PLC."
+  city: "PHNOM PENH"
+  branch: null
+  swift: ACLBKHPP
+    
+- name: "ADVANCED BANK OF ASIA LIMITED"
+  city: "PHNOM PENH"
+  branch: null
+  swift: ABAAKHPP
+    
+- name: "ANGKOR CAPITAL SPECIALIZED BANK"
+  city: "PHNOM PENH"
+  branch: null
+  swift: ACBCKHP1
+    
+- name: "ANZ ROYAL BANK (CAMBODIA) LTD"
+  city: "PHNOM PENH"
+  branch: null
+  swift: ANZBKHPP
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED CAMBODIA BRANCH"
+  city: "PHNOM PENH"
+  branch: null
+  swift: BKKBKHPP
+    
+- name: "BANK FOR INVESTMENT AND DEVELOPMENT OF CAMBODIA PLC"
+  city: "PHNOM PENH"
+  branch: null
+  swift: IDBCKHPP
+    
+- name: "BANK OF CHINA LIMITED PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: null
+  swift: BKCHKHPP
+    
+- name: "BOOYOUNG KHMER BANK"
+  city: "PHNOM PENH"
+  branch: null
+  swift: BKBCKHPP
+    
+- name: "BRED BANK (CAMBODIA) PLC"
+  city: "PHNOM PENH"
+  branch: null
+  swift: BREDKHP2
+    
+- name: "BRITISH AMERICAN TOBACCO (CAMBODGE) INT LTD"
+  city: "PHNOM PENH"
+  branch: null
+  swift: BATSKH21
+    
+- name: "BRITISH AMERICAN TOBACCO CAMBODIA LTD"
+  city: "PHNOM PENH"
+  branch: null
+  swift: BATSKHP1
+    
+- name: "CAMBODIA ASIA BANK LTD"
+  city: "PHNOM PENH"
+  branch: null
+  swift: CABCKHPP
+    
+- name: "CAMBODIA MEKONG BANK PUBLIC LIMITED"
+  city: "PHNOM PENH"
+  branch: null
+  swift: MKGBKHPP
+    
+- name: "CAMBODIA POST BANK PLC"
+  city: "PHNOM PENH"
+  branch: null
+  swift: CPBPKHP2
+    
+- name: "CAMBODIAN COMMERCIAL BANK LIMITED"
+  city: "PHNOM PENH"
+  branch: null
+  swift: SICOKHPP
+    
+- name: "CAMBODIAN PUBLIC BANK PLC"
+  city: "PHNOM PENH"
+  branch: null
+  swift: CPBLKHPP
+    
+- name: "CANADIA BANK PLC"
+  city: "PHNOM PENH"
+  branch: null
+  swift: CADIKHPP
+    
+- name: "CATHAY UNITED BANK (CAMBODIA) CORPORATION LTD (FORMERLY SBC BANK)"
+  city: "PHNOM PENH"
+  branch: null
+  swift: CSBCKHPP
+    
+- name: "CIMB BANK PLC"
+  city: "PHNOM PENH"
+  branch: null
+  swift: CIBBKHPP
+    
+- name: "CREDIT AGRICOLE CIB"
+  city: "PHNOM PENH"
+  branch: null
+  swift: BSUIKHP1
+    
+- name: "FIRST COMMERCIAL BANK PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: CHAMKAR MON SUB-BRANCH
+  swift: FCBKKHPP003
+    
+- name: "FIRST COMMERCIAL BANK PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: CHORM CHAOV SUB-BRANCH
+  swift: FCBKKHPP001
+    
+- name: "FIRST COMMERCIAL BANK PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: CHROY CHONGVA SUB-BRANCH
+  swift: FCBKKHPP005
+    
+- name: "FIRST COMMERCIAL BANK PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: OLYMPIC SUB-BRANCH
+  swift: FCBKKHPP002
+    
+- name: "FIRST COMMERCIAL BANK PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: TUOL KOUK SUB-BRANCH
+  swift: FCBKKHPP004
+    
+- name: "FIRST COMMERCIAL BANK PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: VENG SRENG SUB-BRANCH
+  swift: FCBKKHPP006
+    
+- name: "FIRST COMMERCIAL BANK PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: null
+  swift: FCBKKHPP
+    
+- name: "FIRST COMMERCIAL BANK PHNOM PENH BRANCH"
+  city: "SIEM REAP"
+  branch: SRP
+  swift: FCBKKHPP007
+    
+- name: "FOREIGN TRADE BANK OF CAMBODIA"
+  city: "PHNOM PENH"
+  branch: null
+  swift: FTCCKHPP
+    
+- name: "HONG LEONG BANK (CAMBODIA) PLC"
+  city: "PHNOM PENH"
+  branch: null
+  swift: HLBBKHPP
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: null
+  swift: ICBKKHPP
+    
+- name: "KOOKMIN BANK CAMBODIA PLC"
+  city: "PHNOM PENH"
+  branch: null
+  swift: CZNBKHPP
+    
+- name: "MAYBANK (CAMBODIA) PLC."
+  city: "PHNOM PENH"
+  branch: null
+  swift: MBBEKHPP
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD."
+  city: "PHNOM PENH"
+  branch: OLYMPIC SUB-BRANCH
+  swift: ICBCKHPPOLY
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD."
+  city: "PHNOM PENH"
+  branch: P.P. AIRPORT SUBBRANCH
+  swift: ICBCKHPPPPA
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD."
+  city: "PHNOM PENH"
+  branch: TOULKOK SUB-BRANCH
+  swift: ICBCKHPPTKK
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD."
+  city: "PHNOM PENH"
+  branch: null
+  swift: ICBCKHPP
+    
+- name: "NATIONAL BANK OF CAMBODIA"
+  city: "PHNOM PENH"
+  branch: null
+  swift: NCAMKHPP
+    
+- name: "OSK INDOCHINA BANK LIMITED"
+  city: "PHNOM PENH"
+  branch: null
+  swift: OSKIKHPP
+    
+- name: "PHILLIP BANK PLC"
+  city: "PHNOM PENH"
+  branch: null
+  swift: HDSBKHPP
+    
+- name: "PHNOM PENH COMMERCIAL BANK"
+  city: "PHNOM PENH"
+  branch: null
+  swift: PPCBKHPP
+    
+- name: "SATHAPANA BANK PLC."
+  city: "PHNOM PENH"
+  branch: null
+  swift: SBPLKHPP
+    
+- name: "SHB PLC PHNOMPENH BRANCH, CAMBODIA"
+  city: "PHNOM PENH"
+  branch: null
+  swift: SHBAKHPP
+    
+- name: "SHINHAN KHMER BANK"
+  city: "PHNOM PENH"
+  branch: null
+  swift: SHBKKHPP
+    
+- name: "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: POSENCHEY SUB-BRANCH
+  swift: TACBKHPP914
+    
+- name: "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: TEOK THLA SUB-BRANCH
+  swift: TACBKHPP913
+    
+- name: "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH"
+  city: "PHNOM PENH"
+  branch: null
+  swift: TACBKHPP
+    
+- name: "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH"
+  city: "SIEM REAP"
+  branch: SIEM REAP SUB BRANCH
+  swift: TACBKHPP916
+    
+- name: "UNION COMMERCIAL BANK PLC"
+  city: "PHNOM PENH"
+  branch: null
+  swift: UCBPKHPP
+    
+- name: "VATTANAC BANK"
+  city: "PHNOM PENH"
+  branch: null
+  swift: VBLCKHPP
+    
+- name: "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CAMBODIA BRANCH"
+  city: "PHNOM PENH"
+  branch: null
+  swift: VBAAKHPP
+    

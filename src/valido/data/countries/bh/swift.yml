@@ -1,0 +1,835 @@
+- name: "ABC ISLAMIC BANK (E.C)"
+  city: "MANAMA"
+  branch: null
+  swift: ABCIBHBM
+    
+- name: "AHLI UNITED BANK B.S.C."
+  city: "MANAMA"
+  branch: ALHILAL ISLAMIC BANKING SERVICES
+  swift: AUBBBHBMISB
+    
+- name: "AHLI UNITED BANK B.S.C."
+  city: "MANAMA"
+  branch: null
+  swift: AUBBBHBM
+    
+- name: "AL AHLIA SECURITIES W.L.L"
+  city: "MANAMA"
+  branch: null
+  swift: GUSRBHB1
+    
+- name: "AL BARAKA ISLAMIC BANK B.S.C CLOSED"
+  city: "MANAMA"
+  branch: FINANCIAL CONTROL AND RECONCILIATION - HEAD OFFICE
+  swift: ABIBBHBMFCR
+    
+- name: "AL BARAKA ISLAMIC BANK B.S.C CLOSED"
+  city: "MANAMA"
+  branch: PAYMENTS AND TRANSFERS - HEAD OFFICE
+  swift: ABIBBHBMPMT
+    
+- name: "AL BARAKA ISLAMIC BANK B.S.C CLOSED"
+  city: "MANAMA"
+  branch: TRADE FINANCE OPERATIONS - HEAD OFFICE
+  swift: ABIBBHBMTRF
+    
+- name: "AL BARAKA ISLAMIC BANK B.S.C CLOSED"
+  city: "MANAMA"
+  branch: TREASURY BACK OFFICE - HEAD OFFICE
+  swift: ABIBBHBMTBO
+    
+- name: "AL BARAKA ISLAMIC BANK B.S.C CLOSED"
+  city: "MANAMA"
+  branch: null
+  swift: ABIBBHBM
+    
+- name: "AL SALAM BANK BAHRAIN"
+  city: "MANAMA"
+  branch: null
+  swift: ALSABHBM
+    
+- name: "AL SHAYA TRADING CO W.L.L"
+  city: "MANAMA"
+  branch: null
+  swift: SHTWBHBM
+    
+- name: "ALBARAKA BANKING GROUP"
+  city: "MANAMA"
+  branch: null
+  swift: ABBGBHBM
+    
+- name: "ALLIED BANK LIMITED, WHOLESALE BANKING BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: ABLWBHBM
+    
+- name: "ALLIED BANKING CORPORATION"
+  city: "MANAMA"
+  branch: null
+  swift: ABCMBHB1
+    
+- name: "ALUBAF ARAB INTERNATIONAL BANK B.S.C. (C)"
+  city: "MANAMA"
+  branch: null
+  swift: ALUBBHBM
+    
+- name: "ARAB BANK PLC"
+  city: "MANAMA"
+  branch: COMMERCIAL BRANCH
+  swift: ARABBHBMMAN
+    
+- name: "ARAB BANK PLC, OFFSHORE BANKING UNIT (OBU)"
+  city: "MANAMA"
+  branch: CENTRAL TRANSFER UNIT
+  swift: ARABBHBMCTU
+    
+- name: "ARAB BANK PLC, OFFSHORE BANKING UNIT (OBU)"
+  city: "MANAMA"
+  branch: PAYMENTS INVESTIGATIONS
+  swift: ARABBHBMINV
+    
+- name: "ARAB BANK PLC, OFFSHORE BANKING UNIT (OBU)"
+  city: "MANAMA"
+  branch: TRADE SERVICES UNIT
+  swift: ARABBHBMTSU
+    
+- name: "ARAB BANK PLC, OFFSHORE BANKING UNIT (OBU)"
+  city: "MANAMA"
+  branch: TREASURY OPERATIONS
+  swift: ARABBHBMTRO
+    
+- name: "ARAB BANK PLC, OFFSHORE BANKING UNIT (OBU)"
+  city: "MANAMA"
+  branch: null
+  swift: ARABBHBM
+    
+- name: "ARAB BANKING CORPORATION (B.S.C.)"
+  city: "MANAMA"
+  branch: null
+  swift: ABCOBHBM
+    
+- name: "ARAB FINANCIAL SERVICES CO. B.S.C"
+  city: "MANAMA"
+  branch: null
+  swift: AFSCBHB1
+    
+- name: "ARAB INVESTMENT COMPANY, THE"
+  city: "MANAMA"
+  branch: null
+  swift: TAIQBHBM
+    
+- name: "ARAB PETROLEUM INVESTMENTS CORPORATION"
+  city: "MANAMA"
+  branch: APICORP BAHRAIN PROJECT
+  swift: APICBHBMBH2
+    
+- name: "ARAB PETROLEUM INVESTMENTS CORPORATION"
+  city: "MANAMA"
+  branch: null
+  swift: APICBHBM
+    
+- name: "ARCAPITA"
+  city: "MANAMA"
+  branch: null
+  swift: FIIVBHBM
+    
+- name: "ASKARI BANK LIMITED, BAHRAIN BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: ASCMBHBM
+    
+- name: "BAHRAIN BOURSE"
+  city: "MANAMA"
+  branch: null
+  swift: BHBNBHBM
+    
+- name: "BAHRAIN DEVELOPMENT BANK B S C (C)"
+  city: "MANAMA"
+  branch: null
+  swift: BDBBBHBM
+    
+- name: "BAHRAIN FINANCING COMPANY"
+  city: "MANAMA"
+  branch: null
+  swift: BFCCBHBM
+    
+- name: "BAHRAIN FINANCING COMPANY BSC"
+  city: "MANAMA"
+  branch: null
+  swift: BAHFBHB1
+    
+- name: "BAHRAIN INDIA INTERNATIONAL EXCHANGE CO .B.S.C"
+  city: "MANAMA"
+  branch: null
+  swift: BIEEBHB1
+    
+- name: "BAHRAIN ISLAMIC BANK B.S.C."
+  city: "MANAMA"
+  branch: INVESTMENT AND TREASURY BACK OFFICE
+  swift: BIBBBHBMINV
+    
+- name: "BAHRAIN ISLAMIC BANK B.S.C."
+  city: "MANAMA"
+  branch: TRADE FINANCE DEPARTMENT
+  swift: BIBBBHBMTFD
+    
+- name: "BAHRAIN ISLAMIC BANK B.S.C."
+  city: "MANAMA"
+  branch: null
+  swift: BIBBBHBM
+    
+- name: "BAHRAIN MIDDLE EAST BANK B.S.C"
+  city: "MANAMA"
+  branch: null
+  swift: BMEABHBM
+    
+- name: "BAHRAIN STOCK EXCHANGE"
+  city: "MANAMA"
+  branch: null
+  swift: XBAHBHB1
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "MANAMA"
+  branch: null
+  swift: BAHLBHBM
+    
+- name: "BANK ALFALAH LIMITED BAHRAIN"
+  city: "MANAMA"
+  branch: null
+  swift: ALFHBHBM
+    
+- name: "BANK AL-KHAIR B.S.C. (C)"
+  city: "MANAMA"
+  branch: null
+  swift: UINSBHBN
+    
+- name: "BANK OF BARODA"
+  city: "MANAMA"
+  branch: null
+  swift: BARBBHBM
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "MANAMA"
+  branch: BAHRAIN BRANCH
+  swift: BOTKBHBM
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: ADLIYA BRANCH
+  swift: BBKUBHBMADL
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: BUDAIYA BRANCH
+  swift: BBKUBHBMBUD
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: CENTRAL MARKET BRANCH
+  swift: BBKUBHBMCMK
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: CLEARING SECTION
+  swift: BBKUBHBMCLG
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: CREDIMAX
+  swift: BBKUBHBMMAX
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: CREDIT SERVICES UNIT
+  swift: BBKUBHBMLOP
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: DIPLOMATIC AREA BRANCH
+  swift: BBKUBHBMDIP
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: EAST RIFFA BRANCH
+  swift: BBKUBHBMERF
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: EXHIBITION BRANCH
+  swift: BBKUBHBMEXH
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: HAMAD TOWN
+  swift: BBKUBHBMHTN
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: ISA TOWN BRANCH
+  swift: BBKUBHBMITN
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: LC DEPARTMENT
+  swift: BBKUBHBMCSU
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: MAIN BRANCH
+  swift: BBKUBHBMMBR
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: MANAMA BRANCH
+  swift: BBKUBHBMMNM
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: MUHARRAQ BRANCH
+  swift: BBKUBHBMMHF
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: MUHARRAQ SUQ BRANCH
+  swift: BBKUBHBMMSF
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: RECONCILIATION
+  swift: BBKUBHBMREC
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: REFINERY BRANCH
+  swift: BBKUBHBMREF
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: REMITTANCES DEPARTMENT
+  swift: BBKUBHBMREM
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: SALARIES DEPARTMENT
+  swift: BBKUBHBMSAL
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: SUQ WAQIF BRANCH
+  swift: BBKUBHBMSUW
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: TREASURY SERVICES UNIT
+  swift: BBKUBHBMTSU
+    
+- name: "BBK"
+  city: "MANAMA"
+  branch: null
+  swift: BBKUBHBM
+    
+- name: "BBK"
+  city: "WEST RIFFA"
+  branch: WEST RIFFA BRANCH
+  swift: BBKUBHBMWRF
+    
+- name: "BMI BANK BSC (C)"
+  city: "MANAMA"
+  branch: WEALTH MANAGEMENT BRANCH
+  swift: BMUSBHBMWMB
+    
+- name: "BMI BANK BSC (C)"
+  city: "MANAMA"
+  branch: null
+  swift: BMUSBHBM
+    
+- name: "BNP PARIBAS 3U"
+  city: "MANAMA"
+  branch: null
+  swift: BNPABHBW
+    
+- name: "BNP PARIBAS BAHREIN - MANAMA OFFSHORE BANKING UNIT(OBU)"
+  city: "MANAMA"
+  branch: MANAMA OFFSHORE BANKING UNIT(OBU)
+  swift: BNPABHBMWMI
+    
+- name: "BNP PARIBAS BAHREIN - MANAMA OFFSHORE BANKING UNIT(OBU)"
+  city: "MANAMA"
+  branch: null
+  swift: BNPABHBM
+    
+- name: "BNP PARIBAS MANAMA, FULL COMMERCIAL BRANCH (FCB)"
+  city: "MANAMA"
+  branch: OFFSHORE BANKING UNIT
+  swift: BNPABHC1OBU
+    
+- name: "BNP PARIBAS MANAMA, FULL COMMERCIAL BRANCH (FCB)"
+  city: "MANAMA"
+  branch: null
+  swift: BNPABHBC
+    
+- name: "BOK INTERNATIONAL"
+  city: "MANAMA"
+  branch: null
+  swift: BOKNBHBM
+    
+- name: "BRITISH AMERICAN TOBACCO MIDDLE EAST S.P.C."
+  city: "HIDD"
+  branch: null
+  swift: BATSBHB1
+    
+- name: "CAIRO AMMAN BANK"
+  city: "MANAMA"
+  branch: null
+  swift: CAABBHBM
+    
+- name: "CANARA BANK"
+  city: "MANAMA"
+  branch: null
+  swift: CNRBBHBM
+    
+- name: "CENTRAL BANK OF BAHRAIN"
+  city: "MANAMA"
+  branch: null
+  swift: BMAGBHBM
+    
+- name: "CHARLES FULTON (GULF) WLL"
+  city: "MANAMA"
+  branch: null
+  swift: CFGWBHB1
+    
+- name: "CITIBANK N.A."
+  city: "MANAMA"
+  branch: BAHRAIN OFFSHORE UNIT
+  swift: CITIBHBXBBU
+    
+- name: "CITIBANK N.A."
+  city: "MANAMA"
+  branch: TRADE
+  swift: CITIBHBXTRD
+    
+- name: "CITIBANK N.A."
+  city: "MANAMA"
+  branch: null
+  swift: CITIBHBX
+    
+- name: "CREDIT LIBANAIS SAL"
+  city: "MANAMA"
+  branch: null
+  swift: CLIBBHBB
+    
+- name: "DENIZBANK AS BAHRAIN BRANCH (OBU)"
+  city: "MANAMA"
+  branch: null
+  swift: DENIBHBX
+    
+- name: "ELAF BANK BSC CLOSED"
+  city: "MANAMA"
+  branch: null
+  swift: ILAFBHBM
+    
+- name: "ESKAN BANK"
+  city: "MANAMA"
+  branch: null
+  swift: ESKBBHBM
+    
+- name: "FINANSBANK A.S. BAHRAIN BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: FNNBBHBM
+    
+- name: "FIRST ENERGY BANK"
+  city: "MANAMA"
+  branch: null
+  swift: FEBBBHBM
+    
+- name: "FIRST LEASING BANK"
+  city: "AL SEEF"
+  branch: null
+  swift: FLBBBHB1
+    
+- name: "GFH FINANCIAL GROUP B.S.C."
+  city: "MANAMA"
+  branch: null
+  swift: GFHIBHBM
+    
+- name: "GULF CUSTODY COMPANY -BHARAIN"
+  city: "MANAMA"
+  branch: null
+  swift: GCCOBHB1
+    
+- name: "GULF INTERNATIONAL BANK, B.S.C."
+  city: "MANAMA"
+  branch: BAHRAIN RETAIL BANKING
+  swift: GULFBHBMRET
+    
+- name: "GULF INTERNATIONAL BANK, B.S.C."
+  city: "MANAMA"
+  branch: null
+  swift: GULFBHBM
+    
+- name: "GULF INTERNATIONAL BANK, B.S.C."
+  city: "MANAMA"
+  branch: null
+  swift: GULFBHBMCLS
+    
+- name: "HABIB BANK LTD."
+  city: "MANAMA"
+  branch: OFFSHORE BANKING UNIT
+  swift: HABBBHBMOBU
+    
+- name: "HABIB BANK LTD."
+  city: "MANAMA"
+  branch: null
+  swift: HABBBHBM
+    
+- name: "HDFC BANK LIMITED"
+  city: "MANAMA"
+  branch: null
+  swift: HDFCBHBM
+    
+- name: "HOUSING BANK FOR TRADE AND FINANCE / BAHRAIN, MANAMA, THE"
+  city: "MANAMA"
+  branch: null
+  swift: HBHOBHBM
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "MANAMA"
+  branch: null
+  swift: BBMEBHBX
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "MUHARRAQ"
+  branch: OFFSHORE BANKING UNIT
+  swift: BBMEBHBXOBU
+    
+- name: "ICICI BANK LTD"
+  city: "MANAMA"
+  branch: CENTRAL OPERATIONS
+  swift: ICICBHBMCOP
+    
+- name: "ICICI BANK LTD"
+  city: "MANAMA"
+  branch: GLOBAL TRADE SERVICE UNIT
+  swift: ICICBHBMGTS
+    
+- name: "ICICI BANK LTD"
+  city: "MANAMA"
+  branch: IIOG
+  swift: ICICBHBMIOG
+    
+- name: "ICICI BANK LTD"
+  city: "MANAMA"
+  branch: TREASURY
+  swift: ICICBHBMTMG
+    
+- name: "ICICI BANK LTD"
+  city: "MANAMA"
+  branch: null
+  swift: ICICBHBM
+    
+- name: "ICICI BANK LTD"
+  city: "MANAMA"
+  branch: null
+  swift: ICICBHBMIPB
+    
+- name: "INVESTCORP BANK B.S.C."
+  city: "MANAMA"
+  branch: null
+  swift: INVCBHBM
+    
+- name: "ITHMAAR BANK B.S.C. (C)"
+  city: "MANAMA"
+  branch: null
+  swift: FIBHBHBM
+    
+- name: "JPMORGAN CHASE BANK, N.A. - BAHRAIN BRANCH"
+  city: "MANAMA"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASBHBMKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A. - BAHRAIN BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: CHASBHBM
+    
+- name: "JS BANK LIMITED"
+  city: "MANAMA"
+  branch: null
+  swift: JSBLBHBM
+    
+- name: "KEB HANA BANK BAHRAIN BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: KOEXBHBM
+    
+- name: "KHALEEJI COMMERCIAL BANK B.S.C. (C)"
+  city: "MANAMA"
+  branch: null
+  swift: KHCBBHBM
+    
+- name: "KUWAIT FINANCE HOUSE"
+  city: "MANAMA"
+  branch: null
+  swift: KFHOBHBM
+    
+- name: "KUWAIT TURKISH PARTICIPATION BANK INC. BAHRAIN BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: KTEFBHBM
+    
+- name: "LIQUIDITY MANAGEMENT CENTRE B.S.C"
+  city: "MANAMA"
+  branch: null
+  swift: LMCSBHBM
+    
+- name: "MASHREQBANK PSC."
+  city: "MANAMA"
+  branch: BAHRAIN WHOLE SALE BANKING
+  swift: BOMLBHBMWBH
+    
+- name: "MASHREQBANK PSC."
+  city: "MANAMA"
+  branch: null
+  swift: BOMLBHBM
+    
+- name: "MCB BANK LIMITED"
+  city: "MANAMA"
+  branch: null
+  swift: MUCBBHBM
+    
+- name: "MUBASHER FINANCIAL SERVICES"
+  city: "SANABIS"
+  branch: null
+  swift: MFSVBHB1
+    
+- name: "MUBASHER FINANCIAL SERVICES BSC BAHRAIN"
+  city: "MANAMA"
+  branch: null
+  swift: MFSCBHBM
+    
+- name: "NATIONAL BANK OF ABU DHABI - OFFSHORE BANKING UNIT (OBU)"
+  city: "MANAMA"
+  branch: BAHRAIN BRANCH
+  swift: NBADBHBMBRA
+    
+- name: "NATIONAL BANK OF ABU DHABI - OFFSHORE BANKING UNIT (OBU)"
+  city: "MANAMA"
+  branch: TRADE FINANCE DEPARTMENT
+  swift: NBADBHBMTFO
+    
+- name: "NATIONAL BANK OF ABU DHABI - OFFSHORE BANKING UNIT (OBU)"
+  city: "MANAMA"
+  branch: null
+  swift: NBADBHBM
+    
+- name: "NATIONAL BANK OF BAHRAIN"
+  city: "MANAMA"
+  branch: MONEY TRANSFERS DEPARTMENT
+  swift: NBOBBHBMMTD
+    
+- name: "NATIONAL BANK OF BAHRAIN"
+  city: "MANAMA"
+  branch: TREASURY OPERATION
+  swift: NBOBBHBMTOP
+    
+- name: "NATIONAL BANK OF BAHRAIN"
+  city: "MANAMA"
+  branch: null
+  swift: NBOBBHBM
+    
+- name: "NATIONAL BANK OF KUWAIT S.A.K.P- BAHRAIN BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: NBOKBHBM
+    
+- name: "NATIONAL BANK OF KUWAIT S.A.K.P- BAHRAIN BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: NBOKBHBMFCB
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "MANAMA"
+  branch: null
+  swift: NBPABHBM
+    
+- name: "NEC B.S.C CLOSED"
+  city: "QUDAIBIYAH"
+  branch: null
+  swift: NECDBHBQ
+    
+- name: "NIKKO INVESTMENT BANKING (MIDDLE EAST) EC"
+  city: "MANAMA"
+  branch: null
+  swift: NIBEBHB1
+    
+- name: "NOMURA INVESTMENT BANKING (MIDDLE EAST) B.S.C."
+  city: "MANAMA"
+  branch: null
+  swift: NIBMBHB1
+    
+- name: "NONOO EXCHANGE COMPANY BSC (C)"
+  city: "MANAMA"
+  branch: null
+  swift: NOEXBHB1
+    
+- name: "OSOOL ASSET MANAGEMENT B.S.C. (C)"
+  city: "MANAMA"
+  branch: null
+  swift: OSOLBHBM
+    
+- name: "PALESTINE INVESTMENT BANK"
+  city: "MANAMA"
+  branch: null
+  swift: PINVBHBM
+    
+- name: "R.P. MARTIN (BAHRAIN) WLL"
+  city: "MANAMA"
+  branch: null
+  swift: MABWBHB1
+    
+- name: "RAFIDAIN BANK"
+  city: "MANAMA"
+  branch: null
+  swift: RAFBBHBM
+    
+- name: "ROBERT FLEMING HOLDINGS LTD"
+  city: "MANAMA"
+  branch: null
+  swift: ROFHBHB1
+    
+- name: "SECURITIES AND INVESTMENT CO.(B.S.C)"
+  city: "MANAMA"
+  branch: null
+  swift: SICSBHBM
+    
+- name: "SEERA INVESTMENT BANK B.S.C. (CLOSED)"
+  city: "MANAMA"
+  branch: null
+  swift: UIBBBHBM
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "MANAMA"
+  branch: ALL OFFICES
+  swift: SCBLBHBM
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "MANAMA"
+  branch: OFFSHORE BANKING UNIT
+  swift: SCBLBHBMOBU
+    
+- name: "STATE BANK OF INDIA, OBU"
+  city: "MANAMA"
+  branch: FULL COMMERCIAL BRANCH
+  swift: SBINBHBMFCB
+    
+- name: "STATE BANK OF INDIA, OBU"
+  city: "MANAMA"
+  branch: null
+  swift: SBINBHBM
+    
+- name: "TADHAMON CAPITAL BSC(C)"
+  city: "MANAMA"
+  branch: null
+  swift: TCPBBHB1
+    
+- name: "TAIB BANK B.S.C.(C)"
+  city: "MANAMA"
+  branch: null
+  swift: TAIBBHBM
+    
+- name: "THE SAUDI NATIONAL COMMERCIAL BANK"
+  city: "MANAMA"
+  branch: FULL COMMERCIAL BRANCH
+  swift: SNCBBHBMCOM
+    
+- name: "THE SAUDI NATIONAL COMMERCIAL BANK"
+  city: "MANAMA"
+  branch: S AND P BAHRAIN
+  swift: SNCBBHBM861
+    
+- name: "THE SAUDI NATIONAL COMMERCIAL BANK"
+  city: "MANAMA"
+  branch: null
+  swift: SNCBBHBM
+    
+- name: "TRANS ARABIAN DEVELOPMENT COMPANY E.C."
+  city: "MANAMA"
+  branch: null
+  swift: TRDEBHB1
+    
+- name: "TURKIYE FINANS KATILIM BANKASI A.S."
+  city: "MANAMA"
+  branch: null
+  swift: AFKBBHBM
+    
+- name: "TURKIYE HALK BANKASI A.S. BAHRAIN (OBU) BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: TRHBBHBM
+    
+- name: "TURKIYE IS BANKASI A.S. BAHRAIN BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: ISBKBHBM
+    
+- name: "TURKIYE VAKIFLAR BANKASI T.A.O. BAHRAIN BRANCH (OBU)"
+  city: "MANAMA"
+  branch: null
+  swift: TVBABHBM
+    
+- name: "UNITED BANK LIMITED"
+  city: "MANAMA"
+  branch: null
+  swift: UNILBHBM
+    
+- name: "UNITED BANK LIMITED"
+  city: "MANAMA"
+  branch: null
+  swift: UNILBHBMTRY
+    
+- name: "UNITED GULF BANK B.S.C"
+  city: "MANAMA"
+  branch: null
+  swift: UGUBBHBM
+    
+- name: "UNITED GULF BANK SECURITIES CO."
+  city: "MANAMA"
+  branch: null
+  swift: UNGUBHB1
+    
+- name: "VENTURE CAPITAL BANK BSC"
+  city: "MANAMA"
+  branch: null
+  swift: VCBKBHBM
+    
+- name: "VITOL BAHRAIN E.C."
+  city: "MANAMA"
+  branch: null
+  swift: VTOLBHBM
+    
+- name: "WOORI BANK, MANAMA"
+  city: "MANAMA"
+  branch: null
+  swift: HVBKBHBM
+    
+- name: "YAPI VE KREDI BANKASI BAHRAIN OFFSHORE BANKING UN IT"
+  city: "MANAMA"
+  branch: null
+  swift: YAPIBHBX
+    
+- name: "ZAIN BAHRAIN B.S.C CLOSED"
+  city: "MANAMA"
+  branch: null
+  swift: ZAINBHBM
+    
+- name: "ZENJ EXCHANGE CO. W.L.L"
+  city: "MANAMA"
+  branch: null
+  swift: ZENJBHBM
+    
+- name: "ZIRAAT BANK A.S  BAHRAIN BRANCH"
+  city: "MANAMA"
+  branch: null
+  swift: TCZBBHBM
+    

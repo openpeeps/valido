@@ -1,0 +1,225 @@
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "YAOUNDE"
+  branch: null
+  swift: AFDBCMC1
+    
+- name: "AFRILAND FIRST BANK"
+  city: "BAFOUSSAM"
+  branch: null
+  swift: CCEICMCXBAF
+    
+- name: "AFRILAND FIRST BANK"
+  city: "BAMENDA"
+  branch: null
+  swift: CCEICMCXBDA
+    
+- name: "AFRILAND FIRST BANK"
+  city: "DOUALA"
+  branch: null
+  swift: CCEICMCXDLA
+    
+- name: "AFRILAND FIRST BANK"
+  city: "GAROUA"
+  branch: null
+  swift: CCEICMCXGRA
+    
+- name: "AFRILAND FIRST BANK"
+  city: "YAOUNDE"
+  branch: null
+  swift: CCEICMCX
+    
+- name: "BANK OF CREDIT AND COMMERCE CAMEROON S.A."
+  city: "DOUALA"
+  branch: null
+  swift: CCCBCMC10CD
+    
+- name: "BANK OF CREDIT AND COMMERCE CAMEROON S.A."
+  city: "GAROUA"
+  branch: null
+  swift: CCCBCMC1
+    
+- name: "BANK OF CREDIT AND COMMERCE CAMEROON S.A."
+  city: "YAOUNDE"
+  branch: null
+  swift: CCCBCMC10CY
+    
+- name: "BANQUE ATLANTIQUE CAMEROUN"
+  city: "DOUALA"
+  branch: null
+  swift: ATCRCMCM
+    
+- name: "BANQUE DES ETATS D'AFRIQUE CENTRALE"
+  city: "BAFOUSSAM"
+  branch: null
+  swift: BEACCMCX150
+    
+- name: "BANQUE DES ETATS D'AFRIQUE CENTRALE"
+  city: "DOUALA"
+  branch: null
+  swift: BEACCMCX110
+    
+- name: "BANQUE DES ETATS D'AFRIQUE CENTRALE"
+  city: "GAROUA"
+  branch: null
+  swift: BEACCMCX120
+    
+- name: "BANQUE DES ETATS D'AFRIQUE CENTRALE"
+  city: "LIMBE"
+  branch: null
+  swift: BEACCMCX140
+    
+- name: "BANQUE DES ETATS D'AFRIQUE CENTRALE"
+  city: "NKONGSAMBA"
+  branch: null
+  swift: BEACCMCX130
+    
+- name: "BANQUE DES ETATS D'AFRIQUE CENTRALE"
+  city: "YAOUNDE"
+  branch: D.N. YAOUNDE
+  swift: BEACCMCX100
+    
+- name: "BANQUE DES ETATS D'AFRIQUE CENTRALE"
+  city: "YAOUNDE"
+  branch: DIRECTION DES RELATIONS FINANCIERES EXTERIEURES
+  swift: BEACCMCX091
+    
+- name: "BANQUE DES ETATS D'AFRIQUE CENTRALE"
+  city: "YAOUNDE"
+  branch: SERVICES CENTRAUX YAOUNDE
+  swift: BEACCMCX090
+    
+- name: "BANQUE DES ETATS D'AFRIQUE CENTRALE"
+  city: "YAOUNDE"
+  branch: null
+  swift: BEACCMCP
+    
+- name: "BANQUE DES ETATS D'AFRIQUE CENTRALE"
+  city: "YAOUNDE"
+  branch: null
+  swift: BEACCMCX
+    
+- name: "BANQUE INTERNATIONALE DU CAMEROUN POUR L'EPARGNE ET LE CREDIT"
+  city: "DOUALA"
+  branch: null
+  swift: ICLRCMCX
+    
+- name: "BC PME SA"
+  city: "YAOUNDE"
+  branch: null
+  swift: BPMECMCX
+    
+- name: "BGFIBANK CAMEROUN SA"
+  city: "DOUALA"
+  branch: null
+  swift: BGFICMCX
+    
+- name: "BRITISH AMERICAN TOBACCO CAMEROUN S.A"
+  city: "DOUALA"
+  branch: null
+  swift: BATSCMC1
+    
+- name: "CITIBANK N.A."
+  city: "DOUALA"
+  branch: TRADE SERVICES DEPT
+  swift: CITICMCXTRD
+    
+- name: "CITIBANK N.A."
+  city: "DOUALA"
+  branch: null
+  swift: CITICMCX
+    
+- name: "COMMERCIAL BANK OF CAMEROON"
+  city: "BAFOUSSAM"
+  branch: WEST
+  swift: CBCDCMCXBFS
+    
+- name: "COMMERCIAL BANK OF CAMEROON"
+  city: "BONABERI"
+  branch: null
+  swift: CBCDCMCXBON
+    
+- name: "COMMERCIAL BANK OF CAMEROON"
+  city: "DOUALA"
+  branch: LITTORAL
+  swift: CBCDCMCXAKW
+    
+- name: "COMMERCIAL BANK OF CAMEROON"
+  city: "DOUALA"
+  branch: null
+  swift: CBCDCMCX
+    
+- name: "COMMERCIAL BANK OF CAMEROON"
+  city: "GAROUA"
+  branch: NORTH
+  swift: CBCDCMCXGRA
+    
+- name: "COMMERCIAL BANK OF CAMEROON"
+  city: "MAROUA"
+  branch: FAR NORTH
+  swift: CBCDCMCXMRA
+    
+- name: "COMMERCIAL BANK OF CAMEROON"
+  city: "MOKOLO"
+  branch: null
+  swift: CBCDCMCXMOK
+    
+- name: "COMMERCIAL BANK OF CAMEROON"
+  city: "YAOUNDE"
+  branch: CENTER
+  swift: CBCDCMCXYDE
+    
+- name: "CREDIT COMMUNAUTAIRE D'AFRIQUE S.A."
+  city: "YAOUNDE"
+  branch: null
+  swift: CCAMCMCY
+    
+- name: "ECOBANK CAMEROUN SA."
+  city: "DOUALA"
+  branch: null
+  swift: ECOCCMCX
+    
+- name: "KARAMOUZI'S BANK TRUST LTD"
+  city: "NEW TOWN"
+  branch: null
+  swift: KBTLCMC1
+    
+- name: "NATIONAL FINANCIAL CREDIT BANK S.A."
+  city: "YAOUNDE"
+  branch: null
+  swift: NAFCCMCY
+    
+- name: "SCB CAMEROUN S.A."
+  city: "DOUALA"
+  branch: null
+  swift: BCMACMCX
+    
+- name: "SOCIETE GENERALE CAMEROUN"
+  city: "DOUALA"
+  branch: null
+  swift: SGCMCMCX
+    
+- name: "SOCIETE GENERALE CAMEROUN"
+  city: "YAOUNDE"
+  branch: null
+  swift: SGCMCMC10CY
+    
+- name: "STANDARD CHARTERED BANK CAMEROON S.A."
+  city: "DOUALA"
+  branch: null
+  swift: SCBLCMCX
+    
+- name: "STANDARD CHARTERED BANK CAMEROON S.A."
+  city: "YAOUNDE"
+  branch: null
+  swift: SCBLCMCX0CY
+    
+- name: "UNION BANK OF CAMEROON LTD. (UBC LTD.)"
+  city: "AKWA-DOUALA"
+  branch: null
+  swift: UCMACMCX
+    
+- name: "UNITED BANK FOR AFRICA CAMEROON PLC"
+  city: "DOUALA"
+  branch: null
+  swift: UNAFCMCX
+    

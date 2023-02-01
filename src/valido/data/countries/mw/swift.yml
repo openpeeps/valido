@@ -1,0 +1,155 @@
+- name: "BRITISH AMERICAN TOBACCO (MALAWI) LTD"
+  city: "BLANTYRE"
+  branch: null
+  swift: BATSMWM1
+    
+- name: "CDH INVESTMENT BANK (CDHIB)"
+  city: "BLANTYRE"
+  branch: null
+  swift: CDHIMWMW
+    
+- name: "CONTINENTAL DISCOUNT HOUSE LIMITED"
+  city: "BLANTYRE"
+  branch: null
+  swift: CODHMWM1
+    
+- name: "ECOBANK MALAWI LIMITED"
+  city: "BLANTYRE"
+  branch: null
+  swift: ECOCMWMW
+    
+- name: "FDH BANK LIMITED"
+  city: "BLANTYRE"
+  branch: null
+  swift: FDHFMWMW
+    
+- name: "FINCOM BANK OF MALAWI LIMITED (FINCOM)"
+  city: "BLANTYRE"
+  branch: null
+  swift: FIMWMWM1
+    
+- name: "FIRST DISCOUNT HOUSE LIMITED"
+  city: "BLANTYRE"
+  branch: null
+  swift: FDHDMWMW
+    
+- name: "FIRST MERCHANT BANK LTD., MALAWI"
+  city: "BLANTYRE"
+  branch: null
+  swift: FMERMWMW
+    
+- name: "MALAWI STOCK EXCHANGE"
+  city: "BLANTYRE"
+  branch: null
+  swift: XMSWMWM1
+    
+- name: "NATIONAL BANK OF MALAWI"
+  city: "BLANTYRE"
+  branch: FINANCIAL MANAGEMENT SERVICES
+  swift: NBMAMWMW044
+    
+- name: "NATIONAL BANK OF MALAWI"
+  city: "BLANTYRE"
+  branch: HENDERSON STREET BRANCH
+  swift: NBMAMWMW001
+    
+- name: "NATIONAL BANK OF MALAWI"
+  city: "BLANTYRE"
+  branch: VICTORIA AVENUE BRANCH
+  swift: NBMAMWMW002
+    
+- name: "NATIONAL BANK OF MALAWI"
+  city: "BLANTYRE"
+  branch: null
+  swift: NBMAMWMW
+    
+- name: "NATIONAL BANK OF MALAWI"
+  city: "CHICHIRI"
+  branch: CHICHIRI BRANCH
+  swift: NBMAMWMW003
+    
+- name: "NATIONAL BANK OF MALAWI"
+  city: "LILONGWE"
+  branch: CAPITAL CITY BRANCH
+  swift: NBMAMWMW007
+    
+- name: "NATIONAL BANK OF MALAWI"
+  city: "LILONGWE"
+  branch: LILONGWE BRANCH
+  swift: NBMAMWMW008
+    
+- name: "NATIONAL BANK OF MALAWI"
+  city: "LIMBE"
+  branch: CHURCHILL ROAD BRANCH
+  swift: NBMAMWMW005
+    
+- name: "NATIONAL BANK OF MALAWI"
+  city: "LIMBE"
+  branch: CUSTOMS ROAD BRANCH
+  swift: NBMAMWMW004
+    
+- name: "NBS BANK LIMITED"
+  city: "BLANTYRE"
+  branch: null
+  swift: NBSTMWMW
+    
+- name: "NEDBANK (MALAWI) LIMITED"
+  city: "BLANTYRE"
+  branch: null
+  swift: NEDMMWMW
+    
+- name: "NEW FINANCE BANK MALAWI LIMITED"
+  city: "LILONGWE"
+  branch: null
+  swift: NFBMMWMW
+    
+- name: "OPPORTUNITY INTERNATIONAL BANK OF MALAWI"
+  city: "LILONGWE"
+  branch: null
+  swift: OPILMWMW
+    
+- name: "RESERVE BANK OF MALAWI"
+  city: "BLANTYRE"
+  branch: null
+  swift: RBMAMWMWMRA
+    
+- name: "RESERVE BANK OF MALAWI"
+  city: "LILONGWE"
+  branch: null
+  swift: RBMAMWMW
+    
+- name: "RESERVE BANK OF MALAWI"
+  city: "LILONGWE"
+  branch: null
+  swift: RBMAMWMWMOF
+    
+- name: "SABMILLER MALAWI"
+  city: "BLANTYRE"
+  branch: null
+  swift: SABMMWM1
+    
+- name: "SABMILLER MALAWI"
+  city: "BLANTYRE"
+  branch: null
+  swift: SABMMWM1CPL
+    
+- name: "SABMILLER MALAWI"
+  city: "BLANTYRE"
+  branch: null
+  swift: SABMMWM1MBL
+    
+- name: "STANDARD BANK LIMITED-MALAWI"
+  city: "LILONGWE"
+  branch: null
+  swift: SBICMWMX
+    
+- name: "STOCKBROKERS MALAWI LIMITED"
+  city: "BLANTYRE"
+  branch: null
+  swift: SBMWMWM1
+    
+- name: "TRUST SECURITIES LIMITED"
+  city: "BLANTYRE"
+  branch: null
+  swift: TRETMWM1
+    

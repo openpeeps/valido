@@ -1,0 +1,2190 @@
+- name: "ABN AMRO BANK N.V. UNITED ARAB EMIRATES BRANCH"
+  city: "DUBAI"
+  branch: INTERNATIONAL PRIVATE CLIENTS DEPARTMENT
+  swift: ABNAAEAAIPC
+    
+- name: "ABN AMRO BANK N.V. UNITED ARAB EMIRATES BRANCH"
+  city: "DUBAI"
+  branch: null
+  swift: ABNAAEAA
+    
+- name: "ABRAAJ CAPITAL LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: ABPPAEA1
+    
+- name: "ABU DHABI COMMERCIAL BANK"
+  city: "ABU DHABI"
+  branch: CASH MANAGEMENT DEPARTMENT
+  swift: ADCBAEAACMD
+    
+- name: "ABU DHABI COMMERCIAL BANK"
+  city: "ABU DHABI"
+  branch: FINANCE  DEPARTEMENT
+  swift: ADCBAEAAFIN
+    
+- name: "ABU DHABI COMMERCIAL BANK"
+  city: "ABU DHABI"
+  branch: RBS
+  swift: ADCBAEAAREM
+    
+- name: "ABU DHABI COMMERCIAL BANK"
+  city: "ABU DHABI"
+  branch: TREASURY SETTLEMENTS
+  swift: ADCBAEAATRY
+    
+- name: "ABU DHABI COMMERCIAL BANK"
+  city: "ABU DHABI"
+  branch: null
+  swift: ADCBAEAA
+    
+- name: "ABU DHABI COMMERCIAL BANK"
+  city: "DUBAI"
+  branch: DUBAI TRADE FINANCE
+  swift: ADCBAEAA060
+    
+- name: "ABU DHABI FUND FOR DEVELOPMENT"
+  city: "ABU DHABI"
+  branch: null
+  swift: ADFDAEAA
+    
+- name: "ABU DHABI INVESTMENT AUTHORITY"
+  city: "ABU DHABI"
+  branch: null
+  swift: ADINAEAA
+    
+- name: "ABU DHABI INVESTMENT COUNCIL"
+  city: "ABU DHABI"
+  branch: null
+  swift: ADCNAEAA
+    
+- name: "ABU DHABI INVESTMENT COUNCIL"
+  city: "ABU DHABI"
+  branch: null
+  swift: ADCNAEAD
+    
+- name: "ABU DHABI ISLAMIC BANK"
+  city: "ABU DHABI"
+  branch: null
+  swift: ABDIAEAD
+    
+- name: "ABU DHABI RETIRMENT PENSION AND BENEFITS FUND"
+  city: "ABU DHABI"
+  branch: null
+  swift: ADPFAEAA
+    
+- name: "ABU DHABI RETIRMENT PENSION AND BENEFITS FUND"
+  city: "ABU DHABI"
+  branch: null
+  swift: ADPFAEAB
+    
+- name: "ABU DHABI SECURITIES MARKET"
+  city: "ABU DHABI"
+  branch: null
+  swift: ADSEAEA1
+    
+- name: "ADS SECURITIES LLC"
+  city: "ABU DHABI"
+  branch: null
+  swift: ADSLAEAD
+    
+- name: "AGRICULTURAL BANK OF CHINA (DIFC BRANCH)"
+  city: "DUBAI"
+  branch: null
+  swift: ABOCAEAD
+    
+- name: "AGRICULTURAL BANK OF CHINA(DUBAI BRANCH)"
+  city: "DUBAI"
+  branch: null
+  swift: ABOCAEAA
+    
+- name: "AHLI UNITED BANK LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: AUBBAEAD
+    
+- name: "AJMAN BANK PJSC"
+  city: "AJMAN"
+  branch: null
+  swift: AJMNAEAJ
+    
+- name: "AL AHALIA MONEY EXCHANGE BUREAU"
+  city: "ABU DHABI"
+  branch: null
+  swift: AHXBAEAD
+    
+- name: "AL AHLI BANK OF KUWAIT K.S.C.P, ABUDHABI BRANCH"
+  city: "ABU DHABI"
+  branch: null
+  swift: ABKKAEAA
+    
+- name: "AL AHLI BANK OF KUWAIT K.S.C.P, DUBAI BRANCH"
+  city: "DUBAI"
+  branch: null
+  swift: ABKKAEAD
+    
+- name: "AL ANSARI EXCHANGE LLC"
+  city: "ABU DHABI"
+  branch: null
+  swift: ALANAEAA
+    
+- name: "AL DAHAB EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: DMTIAEAA
+    
+- name: "AL DHABI INVESTMENT PJSC"
+  city: "ABU DHABI"
+  branch: null
+  swift: ALDHAEA1
+    
+- name: "AL FARDAN EXCHANGE"
+  city: "ABU DHABI"
+  branch: null
+  swift: FEXEAEAA
+    
+- name: "AL FARDAN EXCHANGE AND FINANCE CO."
+  city: "ABU DHABI"
+  branch: null
+  swift: ALFEAEA1
+    
+- name: "AL FUTTAIM HC SECURITIES COMPANY LLC"
+  city: "DUBAI"
+  branch: null
+  swift: FSCLAEA1
+    
+- name: "AL GHURAIR INTERNATIONAL EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: ALGHAEAD
+    
+- name: "AL HILAL BANK"
+  city: "ABU DHABI"
+  branch: null
+  swift: HLALAEAA
+    
+- name: "AL JARWAN EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: JAEXAEAD
+    
+- name: "AL KHALIJI FRANCE S.A."
+  city: "DUBAI"
+  branch: null
+  swift: LICOAEAD
+    
+- name: "AL MAL CAPITAL PSC"
+  city: "DUBAI"
+  branch: null
+  swift: AMCXAEAA
+    
+- name: "AL MAL SECURITIES EMIRATES LLC"
+  city: "DUBAI"
+  branch: null
+  swift: AMSUAEA1
+    
+- name: "AL NAHDI EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: NAHDAEA1
+    
+- name: "AL RASHEED EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: RDEXAEA1
+    
+- name: "AL ROSTAMANI INTERNATIONAL EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: TCARAEAD
+    
+- name: "AL SAFWA MUBASHER FINANCIAL SERVICES PRIVATE JOINT STOCK COMPANY"
+  city: "DUBAI"
+  branch: null
+  swift: DBFSAEAA
+    
+- name: "ALFA EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: ALEHAEAD
+    
+- name: "ALFALAH EXCHANGE COMPANY"
+  city: "ABU DHABI"
+  branch: null
+  swift: AFECAEAA
+    
+- name: "ALFUAD EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: ALFXAEAD
+    
+- name: "ALRAMZ SECURITIES CO."
+  city: "ABU DHABI"
+  branch: null
+  swift: ALRSAEA1
+    
+- name: "APEX FUND SERVICES (DUBAI) LTD"
+  city: "DUBAI"
+  branch: null
+  swift: APFSAEA1
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "ABU DHABI"
+  branch: ABU DHABI
+  swift: ARAIAEADAUH
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "DUBAI"
+  branch: null
+  swift: ARAIAEAD
+    
+- name: "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE"
+  city: "ABU DHABI"
+  branch: AL-SOUK BRANCH
+  swift: ABINAEAASUK
+    
+- name: "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE"
+  city: "ABU DHABI"
+  branch: HEAD OFFICE
+  swift: ABINAEAA
+    
+- name: "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE"
+  city: "ABU DHABI"
+  branch: TRADE FINANCE SERVICES
+  swift: ABINAEAATFS
+    
+- name: "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE"
+  city: "AL AIN"
+  branch: AL AIN BRANCH
+  swift: ABINAEAAAIN
+    
+- name: "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE"
+  city: "DUBAI"
+  branch: DUBAI BRANCH
+  swift: ABINAEAADXB
+    
+- name: "ARAB BANK PLC"
+  city: "ABU DHABI"
+  branch: ABU DHABI BRANCH
+  swift: ARABAEADABD
+    
+- name: "ARAB BANK PLC"
+  city: "ABU DHABI"
+  branch: UAE BRANCHES CENTER
+  swift: ARABAEADABC
+    
+- name: "ARAB BANK PLC"
+  city: "AJMAN"
+  branch: AJMAN BRANCH
+  swift: ARABAEADAJM
+    
+- name: "ARAB BANK PLC"
+  city: "AL AIN"
+  branch: AL AIN BRANCH
+  swift: ARABAEADAIN
+    
+- name: "ARAB BANK PLC"
+  city: "DUBAI"
+  branch: CENTRAL TRANSFERS UNIT
+  swift: ARABAEADCTU
+    
+- name: "ARAB BANK PLC"
+  city: "DUBAI"
+  branch: DEIRA BRANCH
+  swift: ARABAEADDER
+    
+- name: "ARAB BANK PLC"
+  city: "DUBAI"
+  branch: DUBAI BRANCH
+  swift: ARABAEADMAK
+    
+- name: "ARAB BANK PLC"
+  city: "DUBAI"
+  branch: FOREIGN TRADE CENTER
+  swift: ARABAEADFTC
+    
+- name: "ARAB BANK PLC"
+  city: "DUBAI"
+  branch: PAYMENTS INVESTIGATIONS
+  swift: ARABAEADINV
+    
+- name: "ARAB BANK PLC"
+  city: "DUBAI"
+  branch: null
+  swift: ARABAEAD
+    
+- name: "ARAB BANK PLC"
+  city: "FUJAIRAH"
+  branch: FUJAIRAH BRANCH
+  swift: ARABAEADFUJ
+    
+- name: "ARAB BANK PLC"
+  city: "RAS AL KHAIMAH"
+  branch: RAS AL KHAIMAH BRANCH
+  swift: ARABAEADRAK
+    
+- name: "ARAB BANK PLC"
+  city: "SHARJAH"
+  branch: SHARJAH BRANCH
+  swift: ARABAEADSHJ
+    
+- name: "ARAB GERMAN INTERNATIONAL BROKER FINANCE BROKERS L.L.C."
+  city: "ABU DHABI"
+  branch: null
+  swift: AGIOAEA1
+    
+- name: "ARAB LINK MONEY TRANSFER"
+  city: "ABU DHABI"
+  branch: null
+  swift: ALNKAEAD
+    
+- name: "ARAB MONETARY FUND"
+  city: "ABU DHABI"
+  branch: null
+  swift: ARMFAEAA
+    
+- name: "ARAB TRADE FINANCING PROGRAM"
+  city: "ABU DHABI"
+  branch: null
+  swift: ATFPAEAD
+    
+- name: "ARAMEX PJSC FINANCIAL DEPARTMENT"
+  city: "DUBAI"
+  branch: null
+  swift: ARMPAEAD
+    
+- name: "ARQAAM CAPITAL LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: ARQMAEAD
+    
+- name: "ARQAAM SECURITIES LLC"
+  city: "DUBAI"
+  branch: null
+  swift: ARQSAEA1
+    
+- name: "ASIA PACIFIC BANKING GROUP MIDDLE E"
+  city: "DUBAI"
+  branch: null
+  swift: APGTAEA1
+    
+- name: "ASIA PACIFIC FINANCIALS SERVICES MIDDLE EAST LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: APFRAEA1
+    
+- name: "AUDI VOLKSWAGEN MIDDLE EAST"
+  city: "DUBAI"
+  branch: null
+  swift: AVMEAEA1
+    
+- name: "AXIS BANK LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: UTIBAEA1
+    
+- name: "AXIS BANK LIMITED, DIFC BRANCH (REGULATED BY DFSA)"
+  city: "DUBAI"
+  branch: null
+  swift: AXISAEAD
+    
+- name: "AZIZ EXCHANGE CO LLC"
+  city: "DUBAI"
+  branch: null
+  swift: AZIZAEAD
+    
+- name: "BANK ALFALAH LIMITED (DUBAI BRANCH)"
+  city: "DUBAI"
+  branch: null
+  swift: ALFHAEAD
+    
+- name: "BANK MELLI IRAN"
+  city: "ABU DHABI"
+  branch: ABU DHABI BRANCH
+  swift: MELIAEADADH
+    
+- name: "BANK MELLI IRAN"
+  city: "AL AIN"
+  branch: AL AIN BRANCH
+  swift: MELIAEADALN
+    
+- name: "BANK MELLI IRAN"
+  city: "DUBAI"
+  branch: BUR DUBAI BRANCH
+  swift: MELIAEADBR2
+    
+- name: "BANK MELLI IRAN"
+  city: "DUBAI"
+  branch: null
+  swift: MELIAEAD
+    
+- name: "BANK MELLI IRAN"
+  city: "FUJAIRAH"
+  branch: FUJAIRAH BRANCH
+  swift: MELIAEADFUJ
+    
+- name: "BANK MELLI IRAN"
+  city: "RAS AL KHAIMAH"
+  branch: RAS AL KHAIMAH BRANCH
+  swift: MELIAEADRAK
+    
+- name: "BANK MELLI IRAN"
+  city: "SHARJAH"
+  branch: SHARJAH BRANCH
+  swift: MELIAEADSHJ
+    
+- name: "BANK OF BARODA"
+  city: "ABU DHABI"
+  branch: ABU DHABI BRANCH
+  swift: BARBAEADADH
+    
+- name: "BANK OF BARODA"
+  city: "AL AIN"
+  branch: ALAIN
+  swift: BARBAEADALN
+    
+- name: "BANK OF BARODA"
+  city: "DUBAI"
+  branch: DEIRA BRANCH
+  swift: BARBAEADDEI
+    
+- name: "BANK OF BARODA"
+  city: "DUBAI"
+  branch: DUBAI INTERNATIONAL FINANCIAL CENTRE (DIFC OBU)
+  swift: BARBAEADIFC
+    
+- name: "BANK OF BARODA"
+  city: "DUBAI"
+  branch: DUBAI MAIN OFFICE
+  swift: BARBAEADDUB
+    
+- name: "BANK OF BARODA"
+  city: "DUBAI"
+  branch: null
+  swift: BARBAEAD
+    
+- name: "BANK OF BARODA"
+  city: "RAS AL KHAIMAH"
+  branch: RAS AL KHAIMAH BRANCH
+  swift: BARBAEADRAK
+    
+- name: "BANK OF BARODA"
+  city: "SHARJAH"
+  branch: SHARJAH BRANCH
+  swift: BARBAEADSHJ
+    
+- name: "BANK OF CHINA (DUBAI) BRANCH"
+  city: "DUBAI"
+  branch: null
+  swift: BKCHAEAD
+    
+- name: "BANK OF CHINA ABU DHABI BRANCH"
+  city: "ABU DHABI"
+  branch: null
+  swift: BKCHAEAA
+    
+- name: "BANK OF INDIA"
+  city: "DUBAI"
+  branch: null
+  swift: BKIDAEAD
+    
+- name: "BANK OF SHARJAH, THE"
+  city: "SHARJAH"
+  branch: null
+  swift: SHARAEAS
+    
+- name: "BANK OF THE ARAB COAST"
+  city: "DUBAI"
+  branch: null
+  swift: ARCOAEA1
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD.,"
+  city: "DUBAI"
+  branch: null
+  swift: BOTKAEAD
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "ABU DHABI"
+  branch: null
+  swift: BOTKAEAA
+    
+- name: "BANKMED SAL (DUBAI)"
+  city: "DUBAI"
+  branch: null
+  swift: MEDLAEAD
+    
+- name: "BANQUE DE COMMERCE ET DE PLACEMENTS SA-DIFC BRANCH"
+  city: "DUBAI"
+  branch: null
+  swift: BPCPAEAD
+    
+- name: "BANQUE MISR"
+  city: "ABU DHABI"
+  branch: ABU DHABI BRANCH
+  swift: BCAIAEAA802
+    
+- name: "BANQUE MISR"
+  city: "ABU DHABI"
+  branch: null
+  swift: BCAIAEAA
+    
+- name: "BANQUE MISR"
+  city: "AL AIN"
+  branch: AL AIN BRANCH
+  swift: BCAIAEAA806
+    
+- name: "BANQUE MISR"
+  city: "DUBAI"
+  branch: DUBAI BRANCH
+  swift: BCAIAEAA803
+    
+- name: "BANQUE MISR"
+  city: "RAS AL KHAIMAH"
+  branch: RAS ELKHEMA BRANCH
+  swift: BCAIAEAA805
+    
+- name: "BANQUE MISR"
+  city: "SHARJAH"
+  branch: SHARJAH BRANCH
+  swift: BCAIAEAA804
+    
+- name: "BARCLAYS BANK PLC"
+  city: "ABU DHABI"
+  branch: null
+  swift: BARCAEAD
+    
+- name: "BARCLAYS BANK PLC"
+  city: "ABU DHABI"
+  branch: null
+  swift: BARCAEADABU
+    
+- name: "BELTONE FINANCIAL SECURITIES-EMIRATES"
+  city: "DUBAI"
+  branch: null
+  swift: BEFSAEA1
+    
+- name: "BLOM BANK FRANCE S.A."
+  city: "DUBAI"
+  branch: null
+  swift: BLOMAEAD
+    
+- name: "BNP PARIBAS, ABU DHABI"
+  city: "ABU DHABI"
+  branch: null
+  swift: BNPAAEAA
+    
+- name: "BNP PARIBAS, DUBAI"
+  city: "DUBAI"
+  branch: null
+  swift: BNPAAEAD
+    
+- name: "BRITISH AMERICAN TOBACCO GCC DMCC"
+  city: "DUBAI"
+  branch: null
+  swift: BATSAE21
+    
+- name: "BRITISH AMERICAN TOBACCO ME DMCC"
+  city: "DUBAI"
+  branch: null
+  swift: BATSAEA1
+    
+- name: "CANARA BANK ( DIFC BRANCH )"
+  city: "DUBAI"
+  branch: null
+  swift: CNRBAEAD
+    
+- name: "CAPITAL UNION"
+  city: "DUBAI"
+  branch: null
+  swift: CPUNAEA1
+    
+- name: "CENTRAL BANK OF THE U.A.E."
+  city: "ABU DHABI"
+  branch: null
+  swift: CBAUAEAA
+    
+- name: "CENTRAL DEPOSITORY"
+  city: "DUBAI"
+  branch: null
+  swift: CTDTAEA1
+    
+- name: "CHINA CONSTRUCTION BANK DIFC BRANCH"
+  city: "DUBAI"
+  branch: null
+  swift: PCBCAEAD
+    
+- name: "CIMD (DUBAI) LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: CIDAAEA1
+    
+- name: "CITIBANK N.A."
+  city: "DUBAI"
+  branch: CITIBANK N.A. DIFC
+  swift: CITIAEADDIF
+    
+- name: "CITIBANK N.A."
+  city: "DUBAI"
+  branch: TRADE SERVICES DEPT.
+  swift: CITIAEADTRD
+    
+- name: "CITIBANK N.A."
+  city: "DUBAI"
+  branch: null
+  swift: CITIAEAD
+    
+- name: "CITIBANK, N.A."
+  city: "ABU DHABI"
+  branch: null
+  swift: CITIAEA1
+    
+- name: "CITIBANK, N.A."
+  city: "DUBAI"
+  branch: null
+  swift: CITIAEA10AD
+    
+- name: "CITIBANK, N.A."
+  city: "DUBAI"
+  branch: null
+  swift: CITIAEA1TRD
+    
+- name: "CITIBANK, N.A."
+  city: "SHARJAH"
+  branch: null
+  swift: CITIAEA10AS
+    
+- name: "COMMERCIAL BANK INTERNATIONAL"
+  city: "ABU DHABI"
+  branch: ABU DHABI BRANCH
+  swift: CLBIAEADAD1
+    
+- name: "COMMERCIAL BANK INTERNATIONAL"
+  city: "AL AIN"
+  branch: AL AIN BRANCH
+  swift: CLBIAEADAN1
+    
+- name: "COMMERCIAL BANK INTERNATIONAL"
+  city: "DUBAI"
+  branch: BUR DUBAI BRANCH
+  swift: CLBIAEADDB1
+    
+- name: "COMMERCIAL BANK INTERNATIONAL"
+  city: "DUBAI"
+  branch: SHEIKH ZAID ROAD BRANCH
+  swift: CLBIAEADDB2
+    
+- name: "COMMERCIAL BANK INTERNATIONAL"
+  city: "DUBAI"
+  branch: null
+  swift: CLBIAEAD
+    
+- name: "COMMERCIAL BANK INTERNATIONAL"
+  city: "RAS AL KHAIMAH"
+  branch: AL MANAR MALL BRANCH
+  swift: CLBIAEADRK2
+    
+- name: "COMMERCIAL BANK INTERNATIONAL"
+  city: "RAS AL KHAIMAH"
+  branch: RAS AL KHAIMAH BRANCH
+  swift: CLBIAEADRK1
+    
+- name: "COMMERCIAL BANK INTERNATIONAL"
+  city: "RAS AL KHAIMAH"
+  branch: null
+  swift: CLBIAEA10AR
+    
+- name: "COMMERCIAL BANK INTERNATIONAL"
+  city: "SHARJAH"
+  branch: SHARJAH BRANCH
+  swift: CLBIAEADSH1
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "ABU DHABI"
+  branch: ABU DHABI BRANCH
+  swift: CBDUAEADADH
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "AJMAN"
+  branch: null
+  swift: CBDUAEADAJM
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "AL AIN"
+  branch: null
+  swift: CBDUAEADAIN
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "DUBAI"
+  branch: AL GARHOUD BRANCH
+  swift: CBDUAEADGAR
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "DUBAI"
+  branch: AL MAKTOUM ST. BRANCH
+  swift: CBDUAEADAMS
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "DUBAI"
+  branch: AL SAFA BRANCH
+  swift: CBDUAEADSAF
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "DUBAI"
+  branch: DEIRA BRANCH
+  swift: CBDUAEADDER
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "DUBAI"
+  branch: DUBAI BRANCH
+  swift: CBDUAEADDXB
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "DUBAI"
+  branch: JEBEL ALI BRANCH
+  swift: CBDUAEADJAL
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "DUBAI"
+  branch: JUMEIRAH BRANCH
+  swift: CBDUAEADJUM
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "DUBAI"
+  branch: SOUQ AL WASL BRANCH
+  swift: CBDUAEADSAW
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "DUBAI"
+  branch: null
+  swift: CBDUAEAD
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "RAS AL KHAIMAH"
+  branch: RAS AL KHAIMAH BRANCH
+  swift: CBDUAEADRAK
+    
+- name: "COMMERCIAL BANK OF DUBAI"
+  city: "SHARJAH"
+  branch: SHARJAH BRANCH
+  swift: CBDUAEADSHJ
+    
+- name: "COMMERZBANK AG DUBAI BRANCH"
+  city: "DUBAI"
+  branch: null
+  swift: COBAAEAD
+    
+- name: "CORPORATE INTERNATIONAL BUSINESS FINANCE"
+  city: "DUBAI"
+  branch: null
+  swift: CIBDAEA1
+    
+- name: "CREDIT AGRICOLE CHEUVREUX MIDDLE EAST"
+  city: "DUBAI"
+  branch: null
+  swift: CACHAEA1
+    
+- name: "CREDIT AGRICOLE CIB (DIFC BRANCH, REGULATED BY THEDFSA)"
+  city: "DUBAI"
+  branch: null
+  swift: BSUIAEAF
+    
+- name: "CREDIT AGRICOLE CIB (DUBAI BRANCH)"
+  city: "DUBAI"
+  branch: null
+  swift: BSUIAEAD
+    
+- name: "CREDIT EUROPE BANK (DUBAI) LTD"
+  city: "DUBAI"
+  branch: null
+  swift: FBHLAEAD
+    
+- name: "DBS BANK LTD"
+  city: "DUBAI"
+  branch: null
+  swift: DBSSAEAD
+    
+- name: "DESERT EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: DEEXAEAD
+    
+- name: "DEUTSCHE BANK AG"
+  city: "ABU DHABI"
+  branch: null
+  swift: DEUTAEAA
+    
+- name: "DEUTSCHE BANK AG"
+  city: "DUBAI"
+  branch: null
+  swift: DEUTAEAD
+    
+- name: "DINAR EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: DNARAEA1
+    
+- name: "DOHA BANK"
+  city: "ABU DHABI"
+  branch: BRA
+  swift: DOHBAEADABU
+    
+- name: "DOHA BANK"
+  city: "DUBAI"
+  branch: null
+  swift: DOHBAEAD
+    
+- name: "DUBAI BANK PJSC"
+  city: "DUBAI"
+  branch: null
+  swift: DBXPAEAD
+    
+- name: "DUBAI EXCHANGE CENTRE L.L.C."
+  city: "DUBAI"
+  branch: null
+  swift: DEXEAEAD
+    
+- name: "DUBAI FINANCIAL MARKET, PJSC."
+  city: "DUBAI"
+  branch: null
+  swift: DFMTAEA1
+    
+- name: "DUBAI GOLD AND COMMODITIES EXCHANGE DMCC"
+  city: "DUBAI"
+  branch: null
+  swift: DGCXAEAA
+    
+- name: "DUBAI ISLAMIC BANK"
+  city: "DUBAI"
+  branch: DEPARTMENT LETTERS OF CREDIT
+  swift: DUIBAEADLCS
+    
+- name: "DUBAI ISLAMIC BANK"
+  city: "DUBAI"
+  branch: DIRECT EQUITIES OPERATIONS
+  swift: DUIBAEADDEO
+    
+- name: "DUBAI ISLAMIC BANK"
+  city: "DUBAI"
+  branch: TREASURY DEPARTMENT
+  swift: DUIBAEADTOS
+    
+- name: "DUBAI ISLAMIC BANK"
+  city: "DUBAI"
+  branch: null
+  swift: DUIBAEAD
+    
+- name: "DUBAI, FITCH RATINGS LTD (DUBAI BRANCH)"
+  city: "DUBAI"
+  branch: null
+  swift: FRIPAEA1
+    
+- name: "DUET MENA LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: DUMNAEA1
+    
+- name: "ECONOMIC EXCHANGE CENTRE"
+  city: "DUBAI"
+  branch: null
+  swift: ECOXAEAD
+    
+- name: "ED AND F MAN PROFESSIONAL TRADING (DUBAI) LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: MPTDAEA1
+    
+- name: "EFG-HERMES BROKERAGE - UAE LTD."
+  city: "DUBAI"
+  branch: null
+  swift: EFGHAEB1
+    
+- name: "EFG-HERMES UAE LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: EFGHAEA1
+    
+- name: "EL-NILEIN BANK"
+  city: "ABU DHABI"
+  branch: null
+  swift: NILBAEAA
+    
+- name: "EMAAR FINANCIAL SERVICES LLC"
+  city: "DUBAI"
+  branch: null
+  swift: EMFSAEA1
+    
+- name: "EMAAR PROPERTIES PJSC"
+  city: "DUBAI"
+  branch: null
+  swift: EMPPAEAD
+    
+- name: "EMIRATES BANKS ASSOCIATION"
+  city: "ABU DHABI"
+  branch: null
+  swift: EMIBAEA1
+    
+- name: "EMIRATES DEVELOPMENT BANK"
+  city: "ABU DHABI"
+  branch: null
+  swift: EMDVAEAD
+    
+- name: "EMIRATES INDIA INTERNATIONAL EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: EINIAEA1
+    
+- name: "EMIRATES INDIA INTERNATIONAL EXCHANGE LPC"
+  city: "DUBAI"
+  branch: null
+  swift: EIIEAEA1
+    
+- name: "EMIRATES INVESTMENT BANK P.J.S.C."
+  city: "DUBAI"
+  branch: null
+  swift: AEINAEAD
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "ABU DHABI"
+  branch: SH. RASHID STREET BRANCH
+  swift: MEBLAEADADC
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "AL AIN"
+  branch: AL JAWAZAT STREET BRANCH
+  swift: MEBLAEADAJS
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "DUBAI"
+  branch: AL DHIYAFA ROAD BRANCH
+  swift: MEBLAEADDFR
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "DUBAI"
+  branch: AL RIQA BRANCH
+  swift: MEBLAEADRIQ
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "DUBAI"
+  branch: BUR DUBAI BRANCH
+  swift: MEBLAEADBUD
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "DUBAI"
+  branch: MURSHID BAZAR BRANCH
+  swift: MEBLAEADMRD
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "DUBAI"
+  branch: null
+  swift: MEBLAEAD
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "FUJAIRAH"
+  branch: FUJAIRAH BRANCH
+  swift: MEBLAEADFUJ
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "RAS AL KHAIMAH"
+  branch: OMAN STREET BRANCH
+  swift: MEBLAEADROS
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "SHARJAH"
+  branch: AL BORJ AVENUE BRANCH
+  swift: MEBLAEADSBA
+    
+- name: "EMIRATES ISLAMIC BANK"
+  city: "UMM AL QAIWAIN"
+  branch: KING FAISAL STREET BRANCH
+  swift: MEBLAEADQFS
+    
+- name: "EMIRATES NATIONAL BANK LTD"
+  city: "DUBAI"
+  branch: null
+  swift: ENABAEA1
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "ABU DHABI"
+  branch: ABU DHABI BRANCH
+  swift: EBILAEADADB
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: AL MAKTOUM ROAD BRANCH
+  swift: EBILAEADAMR
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: AL SOUK BRANCH
+  swift: EBILAEADSUK
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: BANDER TALEB BRANCH
+  swift: EBILAEADBTA
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: BENIYAS SQUARE BRANCH
+  swift: EBILAEADBSQ
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: DUBAI MAIN BRANCH
+  swift: EBILAEADDMB
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: EMIRATES NBD SECURITIES
+  swift: EBILAEADSEC
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: GALLERIA BRANCH
+  swift: EBILAEADGAL
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: GROUP HEAD OFFICE, FINANCE DEPARTMENT
+  swift: EBILAEADFIN
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: GROUP HEAD OFFICE, TRADE FINANCE SERVICES
+  swift: EBILAEADTFS
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: HEAD OFFICE
+  swift: EBILAEAD
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: JEBEL ALI BRANCH
+  swift: EBILAEADJAZ
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: JUMEIRAH BRANCH
+  swift: EBILAEADJUM
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: KARAMA BRANCH
+  swift: EBILAEADKAM
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: QIYADAH BRANCH
+  swift: EBILAEADQID
+    
+- name: "EMIRATES NBD BANK PJSC"
+  city: "DUBAI"
+  branch: SATWA BRANCH
+  swift: EBILAEADSAT
+    
+- name: "ETIHAD AIRWAYS"
+  city: "ABU DHABI"
+  branch: null
+  swift: ETIHAEAD
+    
+- name: "FEDERAL EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: FEDXAE21
+    
+- name: "FEDERAL EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: FEDXAEA1
+    
+- name: "FINANCE HOUSE P.J.S.C"
+  city: "ABU DHABI"
+  branch: null
+  swift: FHOUAEAD
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: ABU DHABI MALL
+  swift: NBADAEAAAML
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: AL ETIHAD BRANCH
+  swift: NBADAEAADEF
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: AL MIRFA BRANCH
+  swift: NBADAEAAMIR
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: AL MUROOR BRANCH
+  swift: NBADAEAAMUR
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: AL RUWAIS BRANCH
+  swift: NBADAEAARUW
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: AL SALAM STREET BRANCH
+  swift: NBADAEAASLM
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: AL SHAHAMA BRANCH
+  swift: NBADAEAASHB
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: ARABIAN GULF OFFICE
+  swift: NBADAEAAAGO
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: ASSET MANAGEMENT GROUP
+  swift: NBADAEAAAMG
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: BANIYAS BRANCH
+  swift: NBADAEAABAN
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: BATIN BRANCH
+  swift: NBADAEAABAT
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: BETWEEN THE TWO BRIDGES
+  swift: NBADAEAABTB
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: CARD CENTRE
+  swift: NBADAEAACSU
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: CASH MANAGEMENT SERVICES
+  swift: NBADAEAACMS
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: COLLECTION DEPARTMENT, RETAIL OPERATION CENTRE,
+  swift: NBADAEAACOL
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: CORNICHE BRANCH
+  swift: NBADAEAACOR
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: DAS ISLAND BRANCH
+  swift: NBADAEAADAS
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: DELMA BRANCH
+  swift: NBADAEAADEL
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: DOMESTIC CAPITAL MARKETS GROUP
+  swift: NBADAEAADCM
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: GLOBAL CASH MANAGEMENT (CIBD)
+  swift: NBADAEAAEST
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: INTERNATIONAL AIRPORT BRANCH
+  swift: NBADAEAAAIR
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: INVESTIGATIONS AND FOLLOW-UP UNIT
+  swift: NBADAEAAIFU
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: ISLAMIC BANKING DIVISION
+  swift: NBADAEAAISD
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: KEY MANAGEMENT AUTHORITY H.O.
+  swift: NBADAEAAKMA
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: KHAILIDIYA BRANCH
+  swift: NBADAEAAKHB
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: LIWA BRANCH,WESTERN REGION
+  swift: NBADAEAALWA
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: MADINAT ZAYED BRANCH
+  swift: NBADAEAAMZD
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: MAIN BRANCH
+  swift: NBADAEAAKHF
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: MINA ROAD BRANCH
+  swift: NBADAEAAMIN
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: MUSSAFAH BRANCH
+  swift: NBADAEAAMUS
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: NBAD-DIRECT
+  swift: NBADAEAADIR
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: NBAD-ONLINE SERVICE
+  swift: NBADAEAAONL
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: NEW AL SHAHAMA BRANCH
+  swift: NBADAEAASHM
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: RECONCILIATION DEPARTMENT
+  swift: NBADAEAAREC
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: RETAIL OPERATIONS CENTRE
+  swift: NBADAEAACPU
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: SECURITIES SERVICES DEPARTMENT
+  swift: NBADAEAASSD
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: SH. RASHID ROAD BRANCH
+  swift: NBADAEAAFSB
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: SYNDICATION LOANS,
+  swift: NBADAEAASYN
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: TRADE FINANCE OPERATIONS
+  swift: NBADAEAATFO
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: VOSTRO ACCOUNTS SECTION H.O.
+  swift: NBADAEAAVOS
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: WHOLESALE OPERATIONS CENTRE
+  swift: NBADAEAACOD
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: null
+  swift: FGBMAEAA
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: null
+  swift: NBADAEAA
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "ABU DHABI"
+  branch: null
+  swift: NBADAEAB
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "AJMAN"
+  branch: AJMAN BRANCH
+  swift: NBADAEAAAJM
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "AL AIN"
+  branch: AL AIN BRANCH
+  swift: NBADAEAAALN
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "AL AIN"
+  branch: AL AIN CLOCK TOWER BRANCH
+  swift: NBADAEAACLO
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "AL AIN"
+  branch: AL AIN MALL BRANCH
+  swift: NBADAEAAAAM
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "AL AIN"
+  branch: AL SANAIYA BRANCH
+  swift: NBADAEAAASN
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "DUBAI"
+  branch: AL QUSAIS BRANCH
+  swift: NBADAEAAAQB
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "DUBAI"
+  branch: DEIRA BRANCH
+  swift: NBADAEAADEI
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "DUBAI"
+  branch: DUBAI HEALTH CARE CENTRE
+  swift: NBADAEAADHC
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "DUBAI"
+  branch: DUBAI SIDE BRANCH
+  swift: NBADAEAADUB
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "DUBAI"
+  branch: JEBEL ALI BRANCH
+  swift: NBADAEAAJBL
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "DUBAI"
+  branch: MALL OF THE EMIRATES BRANCH
+  swift: NBADAEAAMOE
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "DUBAI"
+  branch: SH.ZAYED ROAD BRANCH
+  swift: NBADAEAASZR
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "DUBAI"
+  branch: TRADE FINANCE OPERATIONS
+  swift: NBADAEAATFN
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "FUJAIRAH"
+  branch: DIBBA BRANCH
+  swift: NBADAEAADIB
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "FUJAIRAH"
+  branch: FUJAIRAH BRANCH
+  swift: NBADAEAAFUJ
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "FUJAIRAH"
+  branch: QIDFA BRANCH
+  swift: NBADAEAAQFA
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "RAS AL KHAIMAH"
+  branch: AL NAKHEEL BRANCH
+  swift: NBADAEAANAK
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "RAS AL KHAIMAH"
+  branch: RAS AL KHAIMA BRANCH
+  swift: NBADAEAARAK
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "SHARJAH"
+  branch: AL BOURJ AVENUE
+  swift: NBADAEAAABA
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "SHARJAH"
+  branch: AL DHAID BRANCH
+  swift: NBADAEAADHD
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "SHARJAH"
+  branch: KALBA BRANCH
+  swift: NBADAEAAKAL
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "SHARJAH"
+  branch: KHORFAKKAN BRANCH
+  swift: NBADAEAAKFN
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "SHARJAH"
+  branch: SHARJAH BRANCH
+  swift: NBADAEAASHA
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "SHARJAH"
+  branch: SHARJAH INDUSTRIAL AREA
+  swift: NBADAEAASIA
+    
+- name: "FIRST ABU DHABI BANK PJSC"
+  city: "UMM AL QAIWAIN"
+  branch: UMM AL QUIWAIN BRANCH
+  swift: NBADAEAAUAQ
+    
+- name: "FIRST GULF FINANCIAL SERVICES"
+  city: "ABU DHABI"
+  branch: null
+  swift: FGFEAEA1
+    
+- name: "GCC EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: GCCEAEAD
+    
+- name: "GENERAL PENSION AND SOCIAL SECURITY"
+  city: "ABU DHABI"
+  branch: null
+  swift: GPSSAEAD
+    
+- name: "GLOBAL INVESTMENT BANK LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: RIBBAEAA
+    
+- name: "GRIMALDI LTD."
+  city: "RAS AL KHAIMAH"
+  branch: null
+  swift: GRIIAEA1
+    
+- name: "GULF EXPRESS EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: GUEEAEAD
+    
+- name: "GULF INTERNATIONAL BANK B.S.C."
+  city: "ABU DHABI"
+  branch: null
+  swift: GULFAEAA
+    
+- name: "GULF MERCHANT GROUP LLP"
+  city: "DUBAI"
+  branch: null
+  swift: GMGLAEA1
+    
+- name: "GWS MIDDLE EAST FZE"
+  city: "RAS AL KHAIMAH"
+  branch: null
+  swift: GMEFAEA1
+    
+- name: "HABIB BANK AG ZURICH"
+  city: "DUBAI"
+  branch: null
+  swift: HBZUAEAD
+    
+- name: "HABIB BANK LIMITED"
+  city: "ABU DHABI"
+  branch: null
+  swift: HABBAEA10AA
+    
+- name: "HABIB BANK LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: HABBAEAD
+    
+- name: "HABIB BANK LIMITED"
+  city: "SHARJAH"
+  branch: null
+  swift: HABBAEA10AS
+    
+- name: "HINDUJA BANK (MIDDLE EAST) LTD"
+  city: "DUBAI"
+  branch: null
+  swift: ABSGAEAD
+    
+- name: "HORIZON EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: HREXAEAD
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "ABU DHABI"
+  branch: null
+  swift: BBMEAEADABU
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "AL AIN"
+  branch: null
+  swift: BBMEAEADALA
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "DUBAI"
+  branch: DIFC BRANCH
+  swift: BBMEAEADDIF
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "DUBAI"
+  branch: SECURITIES BROKERAGE
+  swift: BBMEAEADBDU
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: BBMEAEAD
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: HBMEAEAD
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "FUJAIRAH"
+  branch: null
+  swift: BBMEAEADFUJ
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "RAS AL KHAIMAH"
+  branch: null
+  swift: BBMEAEADRKS
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "SHARJAH"
+  branch: null
+  swift: BBMEAEADSHJ
+    
+- name: "HSBC FINANCIAL SERVICES (MIDDLE EAST) LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: WDMEAEA1
+    
+- name: "HSBC MIDDLE EAST SECURITIES L.L.C (HMES)"
+  city: "DUBAI"
+  branch: null
+  swift: HMEEAEA1
+    
+- name: "ICICI BANK LIMITED"
+  city: "DUBAI"
+  branch: CENTRAL OPERATIONS
+  swift: ICICAEADCOP
+    
+- name: "ICICI BANK LIMITED"
+  city: "DUBAI"
+  branch: GLOBAL TRADE SERVICE UNIT
+  swift: ICICAEADGTS
+    
+- name: "ICICI BANK LIMITED"
+  city: "DUBAI"
+  branch: TREASURY
+  swift: ICICAEADTMO
+    
+- name: "ICICI BANK LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: ICICAEAD
+    
+- name: "IDBI BANK LTD"
+  city: "DUBAI"
+  branch: null
+  swift: IBKLAEAD
+    
+- name: "INDEX EXCHANGE LLC(FORMERLY HABIB EXCHANGE CO.L.L.C.)"
+  city: "ABU DHABI"
+  branch: null
+  swift: HEXCAEAA
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, DUBAI(DIFC) BRANCH"
+  city: "DUBAI"
+  branch: null
+  swift: ICBKAEAD
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED-ABU DHABI BRANCH"
+  city: "ABU DHABI"
+  branch: null
+  swift: ICBKAEAA
+    
+- name: "INTERNATIONAL PETROLEUM INVESTMENT COMPANY"
+  city: "ABU DHABI"
+  branch: null
+  swift: IPIOAEA1
+    
+- name: "INTESA SANPAOLO - ABU DHABI BRANCH"
+  city: "ABU DHABI"
+  branch: null
+  swift: BCITAEAB
+    
+- name: "INTESA SANPAOLO SPA"
+  city: "DUBAI"
+  branch: null
+  swift: BCITAEAD
+    
+- name: "INVEST AD"
+  city: "ABU DHABI"
+  branch: null
+  swift: ADICAEAA
+    
+- name: "INVESTBANK"
+  city: "SHARJAH"
+  branch: null
+  swift: IBTFAEAS
+    
+- name: "ISLAMIC FINANCE HOUSE PVT. JSC"
+  city: "ABU DHABI"
+  branch: null
+  swift: IFHOAEAA
+    
+- name: "ITTIHAD INTERNATIONAL INVESTMENT L.L.C."
+  city: "ABU DHABI"
+  branch: null
+  swift: IIICAEA1
+    
+- name: "JANATA BANK"
+  city: "ABU DHABI"
+  branch: ABU DHABI BRANCH
+  swift: JANBAEAAAUH
+    
+- name: "JANATA BANK"
+  city: "ABU DHABI"
+  branch: null
+  swift: JANBAEAA
+    
+- name: "JANATA BANK"
+  city: "AL AIN"
+  branch: AL AIN BRANCH
+  swift: JANBAEAAALN
+    
+- name: "JANATA BANK"
+  city: "DUBAI"
+  branch: DUBAI BRANCH
+  swift: JANBAEAADXB
+    
+- name: "JANATA BANK"
+  city: "SHARJAH"
+  branch: SHARJAH BRANCH
+  swift: JANBAEAASHJ
+    
+- name: "KATOTA INVESTMENT SECTOR FZE"
+  city: "RAS AL KHAIMAH"
+  branch: null
+  swift: KISFAEA1
+    
+- name: "KBC ALDINI CAPITAL LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: KBCKAEAD
+    
+- name: "KEB HANA BANK ABUDHABI BRANCH"
+  city: "ABU DHABI"
+  branch: null
+  swift: KOEXAEAD
+    
+- name: "KHALIL AL FARDAN EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: KHFXAEAD
+    
+- name: "LANDMARK RETAIL LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: LANRAEAD
+    
+- name: "LARI EXCHANGE"
+  city: "ABU DHABI"
+  branch: null
+  swift: LAEEAEAA
+    
+- name: "LIBERTY INTERNATIONAL BANK LIMITED"
+  city: "ABU DHABI"
+  branch: ADGM
+  swift: LIBLAEAAAGM
+    
+- name: "LIBERTY INTERNATIONAL BANK LIMITED"
+  city: "ABU DHABI"
+  branch: null
+  swift: LIBLAEAA
+    
+- name: "LULU INTERNATIONAL EXCHANGE"
+  city: "ABU DHABI"
+  branch: null
+  swift: LULUAEAD
+    
+- name: "MAC CAPITAL LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: MCCPAEA1
+    
+- name: "MAC SHARAF SECURITIES (UAE) LLC."
+  city: "DUBAI"
+  branch: null
+  swift: MSSUAEA1
+    
+- name: "MAJID AL FUTTAIM HOLDING LLC"
+  city: "DUBAI"
+  branch: null
+  swift: MAFHAEAD
+    
+- name: "MAKASEB ISLAMIC FINANCIAL SERVICES LLC"
+  city: "ABU DHABI"
+  branch: null
+  swift: MIFRAEA1
+    
+- name: "MARKET SECURITIES DUBAI LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: MSDLAEA1
+    
+- name: "MASHREQ SECURITIES LLC"
+  city: "DUBAI"
+  branch: null
+  swift: MSSLAEA1
+    
+- name: "MASHREQBANK PSC."
+  city: "DUBAI"
+  branch: FI-CUSTOMER SERVICES
+  swift: BOMLAEADCSU
+    
+- name: "MASHREQBANK PSC."
+  city: "DUBAI"
+  branch: FINANCIAL INSTITUTIONS DIVISION
+  swift: BOMLAEADEBC
+    
+- name: "MASHREQBANK PSC."
+  city: "DUBAI"
+  branch: FOREIGN TRADE CENTRE
+  swift: BOMLAEADFTC
+    
+- name: "MASHREQBANK PSC."
+  city: "DUBAI"
+  branch: HEAD OFFICE
+  swift: BOMLAEADHDO
+    
+- name: "MASHREQBANK PSC."
+  city: "DUBAI"
+  branch: REMITTANCES CENTRE
+  swift: BOMLAEADRAM
+    
+- name: "MASHREQBANK PSC."
+  city: "DUBAI"
+  branch: TREASURY AND INVESTMENT DIVISION
+  swift: BOMLAEADTID
+    
+- name: "MASHREQBANK PSC."
+  city: "DUBAI"
+  branch: null
+  swift: BOMLAEAD
+    
+- name: "MASHREQBANK PSC."
+  city: "DUBAI"
+  branch: null
+  swift: BOMLAEADGTS
+    
+- name: "MCB BANK LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: MUCBAEAD
+    
+- name: "MENA CORP FINANCIAL SERVICES LLC"
+  city: "ABU DHABI"
+  branch: null
+  swift: MFELAEA1
+    
+- name: "MERRILL LYNCH INTERNATIONAL"
+  city: "DUBAI"
+  branch: null
+  swift: MLINAEA1
+    
+- name: "MIDDLE EAST FINANCIAL BROKERAGE COMPANY, L.L.C"
+  city: "DUBAI"
+  branch: null
+  swift: MFBCAEA1
+    
+- name: "MINISTRY OF ENERGY"
+  city: "DUBAI"
+  branch: null
+  swift: MIEEAEA1
+    
+- name: "MIRABAUD (MIDDLE EAST) LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: MIRAAEAD
+    
+- name: "MOBIS PARTS MIDDLE EAST FZE"
+  city: "DUBAI"
+  branch: null
+  swift: HYMOAEA1
+    
+- name: "MUBADALA DEVELOPMENT COMPANY PJSC"
+  city: "ABU DHABI"
+  branch: null
+  swift: MUBDAEAA
+    
+- name: "MUBADALA DEVELOPMENT COMPANY PJSC"
+  city: "ABU DHABI"
+  branch: null
+  swift: MUBDAEAAIPC
+    
+- name: "MULTINET TRUST EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: MULXAEAE
+    
+- name: "NAEEM SHARES AND BONDS"
+  city: "DUBAI"
+  branch: null
+  swift: NSHOAEA1
+    
+- name: "NASDAQ DUBAI LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: DIFXAEAA
+    
+- name: "NASIM AL BARARI EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: NABEAEA1
+    
+- name: "NATIONAL BANK OF BAHRAIN"
+  city: "ABU DHABI"
+  branch: null
+  swift: NBOBAEAA
+    
+- name: "NATIONAL BANK OF FUJAIRAH"
+  city: "ABU DHABI"
+  branch: ABU DHABI BRANCH
+  swift: NBFUAEAFAUH
+    
+- name: "NATIONAL BANK OF FUJAIRAH"
+  city: "DUBAI"
+  branch: DUBAI BRANCH
+  swift: NBFUAEAFDXB
+    
+- name: "NATIONAL BANK OF FUJAIRAH"
+  city: "DUBAI"
+  branch: JEBEL ALI
+  swift: NBFUAEAFJBA
+    
+- name: "NATIONAL BANK OF FUJAIRAH"
+  city: "FUJAIRAH"
+  branch: FUJAIRAH BRANCH
+  swift: NBFUAEAFFUJ
+    
+- name: "NATIONAL BANK OF FUJAIRAH"
+  city: "FUJAIRAH"
+  branch: null
+  swift: NBFUAEAF
+    
+- name: "NATIONAL BANK OF FUJAIRAH"
+  city: "SHARJAH"
+  branch: SHARJAH BRANCH
+  swift: NBFUAEAFSHJ
+    
+- name: "NATIONAL BANK OF KUWAIT (S.A.K.)."
+  city: "DUBAI"
+  branch: null
+  swift: NBOKAEAD
+    
+- name: "NATIONAL BANK OF OMAN"
+  city: "ABU DHABI"
+  branch: null
+  swift: NBOMAEAD
+    
+- name: "NATIONAL BANK OF RAS AL-KHAIMAH, THE"
+  city: "RAS AL KHAIMAH"
+  branch: null
+  swift: NRAKAEAK
+    
+- name: "NATIONAL BANK OF UMM AL QAIWAIN PSC."
+  city: "DUBAI"
+  branch: null
+  swift: UMMQAEAD
+    
+- name: "NATIONAL BANK OF UMM AL QAIWAIN PSC."
+  city: "UMM AL QAIWAIN"
+  branch: UM AL QAIWAIN PRIVATE PROPERTIES BUILDING
+  swift: UMMQAEADFXD
+    
+- name: "NATIONAL EXCHANGE COMPANY"
+  city: "ABU DHABI"
+  branch: null
+  swift: NECXAEAD
+    
+- name: "NATIONAL INVESTMENT AND SECURITIES CORP (NISCORP)"
+  city: "ABU DHABI"
+  branch: null
+  swift: INSNAEA1
+    
+- name: "NATIXIS DUBAI"
+  city: "DUBAI"
+  branch: null
+  swift: NATXAEAD
+    
+- name: "NOOR BANK P.J.S.C."
+  city: "DUBAI"
+  branch: null
+  swift: NISLAEAD
+    
+- name: "OASIS CAPITAL LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: OACAAEA1
+    
+- name: "OASIS CRESCENT CAPITAL (DIFC) LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: OCCDAEA1
+    
+- name: "ORIENT EXCHANGE CO.(L.L.C.)"
+  city: "DUBAI"
+  branch: null
+  swift: OECOAEAD
+    
+- name: "PHOENIX GLOBAL DMCC"
+  city: "DUBAI"
+  branch: null
+  swift: PGDMAEAD
+    
+- name: "PRIME EMIRATES L.L.C"
+  city: "ABU DHABI"
+  branch: null
+  swift: PRELAEA1
+    
+- name: "PROMETHEUS CAPITAL FINANCE LIMTED"
+  city: "DUBAI"
+  branch: null
+  swift: PCFIAEA1
+    
+- name: "PROMETHEUS CAPITAL FINANCE LIMTED"
+  city: "DUBAI"
+  branch: null
+  swift: PCFIAEAB
+    
+- name: "PUNJAB NATIONAL BANK"
+  city: "DUBAI"
+  branch: null
+  swift: PUNBAEAD
+    
+- name: "QATAR CAPITAL LTD"
+  city: "DUBAI"
+  branch: null
+  swift: QACAAEA1
+    
+- name: "REDHA AL ANSARI EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: RAECAEAD
+    
+- name: "REYL FINANCE (MEA) LTD"
+  city: "DUBAI"
+  branch: null
+  swift: REYLAEAD
+    
+- name: "REYL FINANCE (MEA) LTD"
+  city: "DUBAI"
+  branch: null
+  swift: REYLAEADIFC
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "DUBAI"
+  branch: null
+  swift: ROYCAEA1
+    
+- name: "SAMBA FINANCIAL GROUP"
+  city: "DUBAI"
+  branch: null
+  swift: SAMBAEAD
+    
+- name: "SAMSUNG GULF ELECTRONICS CO., LTD."
+  city: "DUBAI"
+  branch: SGE
+  swift: SECTAEA1710
+    
+- name: "SAMSUNG GULF ELECTRONICS CO., LTD."
+  city: "DUBAI"
+  branch: null
+  swift: SECTAEA1
+    
+- name: "SCT BANKERS"
+  city: "DUBAI"
+  branch: null
+  swift: SCTSAEA1
+    
+- name: "SHARAF EXCHANGE LLC"
+  city: "DUBAI"
+  branch: null
+  swift: SHEXAEA1
+    
+- name: "SHARJA ISLAMIC FINANCIAL SERVICES"
+  city: "SHARJAH"
+  branch: null
+  swift: SIFEAEA1
+    
+- name: "SHARJAH ISLAMIC BANK"
+  city: "SHARJAH"
+  branch: null
+  swift: NBSHAEAS
+    
+- name: "SHINHAN BANK CO LTD. DUBAI BRANCH"
+  city: "DUBAI"
+  branch: null
+  swift: SHBKAEAD
+    
+- name: "SHUAA CAPITAL P.S.C."
+  city: "DUBAI"
+  branch: null
+  swift: AGEIAEA1
+    
+- name: "SHUAA CAPITAL PSC"
+  city: "DUBAI"
+  branch: null
+  swift: SHCPAEAD
+    
+- name: "SIRAJ FINANCE PJSC"
+  city: "ABU DHABI"
+  branch: null
+  swift: SRAJAEAA
+    
+- name: "SORINET COMERCIAL TRUST"
+  city: "DUBAI"
+  branch: null
+  swift: SCERAEA1
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "ABU DHABI"
+  branch: null
+  swift: SCBLAEADABD
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "DUBAI"
+  branch: DUBAI INTERNATIONAL FINANCIAL CENTRE - OFFSHORE BANKING
+  swift: SCBLAEADDIF
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "DUBAI"
+  branch: null
+  swift: SCBLAEAD
+    
+- name: "STATE BANK OF INDIA"
+  city: "DUBAI"
+  branch: null
+  swift: SBINAEAD
+    
+- name: "SULTAN AL THAHAB EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: SLTXAEAD
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "DUBAI"
+  branch: null
+  swift: SMBCAEAD
+    
+- name: "SWISS INVESTMENT BANK PLC"
+  city: "DUBAI"
+  branch: null
+  swift: FIWSAEA1
+    
+- name: "TABARAK INVESTMENT CAPITAL LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: TIBIAEAD
+    
+- name: "TABRA AND AL NIBAL EXCHANGE"
+  city: "DUBAI"
+  branch: null
+  swift: TBRAAEA1
+    
+- name: "U.A.E. EXCHANGE CENTRE"
+  city: "ABU DHABI"
+  branch: null
+  swift: UAEXAEAA
+    
+- name: "UNICREDIT S.P.A."
+  city: "ABU DHABI"
+  branch: null
+  swift: UNCRAEAA
+    
+- name: "UNION BANK OF INDIA DIFC BRANCH"
+  city: "DUBAI"
+  branch: null
+  swift: UBINAEAD
+    
+- name: "UNION NATIONAL BANK"
+  city: "ABU DHABI"
+  branch: SALAM STREET
+  swift: UNBEAEAAQTR
+    
+- name: "UNION NATIONAL BANK"
+  city: "ABU DHABI"
+  branch: TRADE FINANCE SERVICES AREA
+  swift: UNBEAEAATFS
+    
+- name: "UNION NATIONAL BANK"
+  city: "ABU DHABI"
+  branch: null
+  swift: UNBEAEAA
+    
+- name: "UNITED ARAB BANK"
+  city: "SHARJAH"
+  branch: null
+  swift: UARBAEAA
+    
+- name: "UNITED BANK LTD."
+  city: "DUBAI"
+  branch: UBL, CENTRAL PROCESSING UNIT
+  swift: UNILAEADCPU
+    
+- name: "UNITED BANK LTD."
+  city: "DUBAI"
+  branch: UBL, TRADE FINANCE CENTRE
+  swift: UNILAEADTFC
+    
+- name: "UNITED BANK LTD."
+  city: "DUBAI"
+  branch: UBL, TREASURY OPERATIONS DEPT.
+  swift: UNILAEADTRY
+    
+- name: "UNITED BANK LTD."
+  city: "DUBAI"
+  branch: null
+  swift: UNILAEAD
+    
+- name: "UNITED INVESTMENT BANK LTD."
+  city: "DUBAI"
+  branch: null
+  swift: UIBLAEA1
+    
+- name: "UNIVERSAL EXCHANGE CENTER"
+  city: "DUBAI"
+  branch: null
+  swift: UECEAEAD
+    
+- name: "WALL STREET EXCHANGE CENTRE LLC"
+  city: "DUBAI"
+  branch: null
+  swift: WSEEAEAD
+    
+- name: "WOORI BANK DUBAI BRANCH"
+  city: "DUBAI"
+  branch: null
+  swift: HVBKAEAD
+    
+- name: "ZFP EQUITY TRADING (DUBAI) LIMITED"
+  city: "DUBAI"
+  branch: null
+  swift: ZETDAEA1
+    

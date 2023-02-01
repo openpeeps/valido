@@ -1,0 +1,325 @@
+- name: "BASISBANK, JSC"
+  city: "TBILISI"
+  branch: null
+  swift: CBASGE22
+    
+- name: "BRITISH AMERICAN TOBACCO GEORGIA LIMITED"
+  city: "TBILISI"
+  branch: null
+  swift: BATSGE21
+    
+- name: "BSDBANK"
+  city: "SUKHUM"
+  branch: null
+  swift: BSDAGE21
+    
+- name: "FINCA BANK GEORGIA JSC"
+  city: "TBILISI"
+  branch: null
+  swift: FGEOGE22
+    
+- name: "GALT AND TAGGART (JSC) SECURITIES"
+  city: "TBILISI"
+  branch: null
+  swift: GTJSGE21
+    
+- name: "GEORGIAN INVESTMENT GROUP"
+  city: "TBILISI"
+  branch: null
+  swift: GEIGGE21
+    
+- name: "HALYK BANK GEORGIA JSC"
+  city: "TBILISI"
+  branch: null
+  swift: HABGGE22
+    
+- name: "INTERNATIONAL BANK OF AZERBAIJAN-GEORGIA"
+  city: "TBILISI"
+  branch: null
+  swift: IBAZGE22
+    
+- name: "INTERNATIONAL FINANCIAL SERVICES LTD"
+  city: "TBILISI"
+  branch: null
+  swift: ITFVGE21
+    
+- name: "JSC BANK OF GEORGIA"
+  city: "TBILISI"
+  branch: CUSTODY SERVICES
+  swift: BAGAGE22CUS
+    
+- name: "JSC BANK OF GEORGIA"
+  city: "TBILISI"
+  branch: null
+  swift: BAGAGE22
+    
+- name: "JSC BANK OF GEORGIA"
+  city: "TBILISI"
+  branch: null
+  swift: BAGAGE22GTS
+    
+- name: "JSC 'CARTU BANK'"
+  city: "BATUMI"
+  branch: BATUMI BRANCH
+  swift: CRTUGE22092
+    
+- name: "JSC 'CARTU BANK'"
+  city: "KUTAISI"
+  branch: KUTAISI BRANCH
+  swift: CRTUGE22087
+    
+- name: "JSC 'CARTU BANK'"
+  city: "TBILISI"
+  branch: MTATSMINDA BRANCH
+  swift: CRTUGE22086
+    
+- name: "JSC 'CARTU BANK'"
+  city: "TBILISI"
+  branch: null
+  swift: CRTUGE22
+    
+- name: "JSC CAUCASUS TRUST BANKERS"
+  city: "TBILISI"
+  branch: null
+  swift: CTRBGE22
+    
+- name: "JSC CREDO BANK"
+  city: "TBILISI"
+  branch: null
+  swift: JSCRGE22
+    
+- name: "JSC ISBANK GEORGIA"
+  city: "TBILISI"
+  branch: null
+  swift: ISBKGE22
+    
+- name: "JSC 'LIBERTY BANK'"
+  city: "TBILISI"
+  branch: null
+  swift: LBRTGE22
+    
+- name: "JSC PASHA BANK GEORGIA"
+  city: "TBILISI"
+  branch: null
+  swift: PAHAGE22
+    
+- name: "JSC TERABANK"
+  city: "TBILISI"
+  branch: null
+  swift: TEBAGE22
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "AKHALTSIKHE"
+  branch: AKHALTSIKHE BRANCH
+  swift: UGEBGE22617
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "BATUMI"
+  branch: BATUMI BRANCH
+  swift: UGEBGE22655
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "GARDABANI"
+  branch: GARDABANI BRANCH
+  swift: UGEBGE22622
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "GORI"
+  branch: GORI BRANCH
+  swift: UGEBGE22602
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "GURJAANI"
+  branch: GURJAANI BRANCH
+  swift: UGEBGE22624
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "KUTAISI"
+  branch: KUTAISI BRANCH
+  swift: UGEBGE22605
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "MARNEULI"
+  branch: MARNEULI BRANCH
+  swift: UGEBGE22639
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "OZURGETI"
+  branch: OZURGETI BRANCH
+  swift: UGEBGE22643
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "POTI"
+  branch: POTI BRANCH
+  swift: UGEBGE22606
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "RUSTAVI"
+  branch: RUSTAVI BRANCH
+  swift: UGEBGE22607
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "TBILISI"
+  branch: ABKHAZETI BRANCH
+  swift: UGEBGE22687
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "TBILISI"
+  branch: CENTRAL BRANCH
+  swift: UGEBGE22615
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "TBILISI"
+  branch: DIDUBE BRANCH
+  swift: UGEBGE22665
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "TBILISI"
+  branch: HEAD OFFICE
+  swift: UGEBGE22
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "TBILISI"
+  branch: KRZANINI BRANCH
+  swift: UGEBGE22668
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "TBILISI"
+  branch: MTATSMINDA BRANCH
+  swift: UGEBGE22666
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "TBILISI"
+  branch: RUSTAVELI BRANCH
+  swift: UGEBGE22604
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "TBILISI"
+  branch: SABURTALO BRANCH
+  swift: UGEBGE22670
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "TELAVI"
+  branch: TELAVI BRANCH
+  swift: UGEBGE22629
+    
+- name: "JSC 'VTB BANK GEORGIA'"
+  city: "ZUGDIDI"
+  branch: ZUGDIDI BRANCH
+  swift: UGEBGE22603
+    
+- name: "JSC ZIRAAT BANK GEORGIA"
+  city: "TBILISI"
+  branch: null
+  swift: TCZBGE22
+    
+- name: "LLC MFO IMPERIAL CREDIT"
+  city: "TBILISI"
+  branch: null
+  swift: LMIRGE21
+    
+- name: "MFO INTEL EXPRESS GEORGIA LTD"
+  city: "TBILISI"
+  branch: null
+  swift: INEXGE22
+    
+- name: "NATIONAL BANK OF GEORGIA"
+  city: "TBILISI"
+  branch: null
+  swift: BNLNGE22
+    
+- name: "PROCREDIT BANK, GEORGIA"
+  city: "TBILISI"
+  branch: null
+  swift: MIBGGE22
+    
+- name: "RUSSIAN-GEORGIAN BANK OF RECONSTRUCTION AND DEVELOPMENT"
+  city: "TBILISI"
+  branch: null
+  swift: RGBRGE21
+    
+- name: "SAINT GEORGE BANKERS AND TRUST LLC"
+  city: "TBILISI"
+  branch: null
+  swift: SGTLGE21
+    
+- name: "SILK ROAD BANK JSC"
+  city: "TBILISI"
+  branch: null
+  swift: DISNGE22
+    
+- name: "TBC BANK"
+  city: "BATUMI"
+  branch: BATUMI BRANCH
+  swift: TBCBGE22835
+    
+- name: "TBC BANK"
+  city: "BORJOMI"
+  branch: BORJOMI BRANCH
+  swift: TBCBGE22762
+    
+- name: "TBC BANK"
+  city: "KUTAISI"
+  branch: KUTAISI BRANCH
+  swift: TBCBGE22888
+    
+- name: "TBC BANK"
+  city: "POTI"
+  branch: POTI BRANCH
+  swift: TBCBGE22937
+    
+- name: "TBC BANK"
+  city: "RUSTAVI"
+  branch: RUSTAVI BRANCH
+  swift: TBCBGE22844
+    
+- name: "TBC BANK"
+  city: "TBILISI"
+  branch: CENTRAL BRANCH
+  swift: TBCBGE22830
+    
+- name: "TBC BANK"
+  city: "TBILISI"
+  branch: DIDUBE BRANCH 
+  swift: TBCBGE22836
+    
+- name: "TBC BANK"
+  city: "TBILISI"
+  branch: MARJANISHVILI BRANCH
+  swift: TBCBGE22850
+    
+- name: "TBC BANK"
+  city: "TBILISI"
+  branch: MTATSMINDA BRANCH
+  swift: TBCBGE22821
+    
+- name: "TBC BANK"
+  city: "TBILISI"
+  branch: NADZALADEVI BRANCH
+  swift: TBCBGE22820
+    
+- name: "TBC BANK"
+  city: "TBILISI"
+  branch: SABURTALO BRANCH
+  swift: TBCBGE22838
+    
+- name: "TBC BANK"
+  city: "TBILISI"
+  branch: VERA BRANCH
+  swift: TBCBGE22818
+    
+- name: "TBC BANK"
+  city: "TBILISI"
+  branch: null
+  swift: TBCBGE22
+    
+- name: "TBC BANK"
+  city: "TELAVI"
+  branch: TELAVI BRANCH
+  swift: TBCBGE22824
+    
+- name: "TREASURY SERVICE MINISTRY OF FINANCE OF GEORGIA"
+  city: "TBILISI"
+  branch: null
+  swift: TSMFGE22
+    

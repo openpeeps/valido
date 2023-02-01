@@ -1,0 +1,2065 @@
+- name: "A.A. ANTHONY AND CO SDN BHD"
+  city: "PENANG, PENANG"
+  branch: null
+  swift: ANTOMY21
+    
+- name: "ABN AMRO HOARE GOVETT ASIA CLEARING SERVICES LTD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HGASMYK1
+    
+- name: "ABRAR DISCOUNTS BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ISCAMYK1
+    
+- name: "ABRAR FUTURES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ABFUMYK1
+    
+- name: "AFFIN BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PHBMMYKL
+    
+- name: "AFFIN DISCOUNT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AFIDMYK1
+    
+- name: "AFFIN HWANG ASSET MANAGEMENT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HIMRMYK1
+    
+- name: "AFFIN HWANG INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AFUOMYK1
+    
+- name: "AFFIN HWANG INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HDSBMY2P
+    
+- name: "AFFIN ISLAMIC BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AIBBMYKL
+    
+- name: "AFFIN MERCHANT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PMBBMYK1
+    
+- name: "AGROBANK ISLAMIC"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AGISMYK1
+    
+- name: "AIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AIBEMYK1
+    
+- name: "AIA BHD."
+  city: "KUALA LUMPUR"
+  branch: GENERAL INVESTMENT OPERATIONS
+  swift: AIACMYK1GIO
+    
+- name: "AIA BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AIACMYKL
+    
+- name: "AIA PENSION AND ASSET MANAGEMENT SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AIPMMYK1
+    
+- name: "AL ATAS BULLION TRADING HOUSE (L) LIMITED"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ABTHMYK1
+    
+- name: "AL ATAS CAPITAL AND STOCK BROKERAGE HOUSE PTE LTD"
+  city: "LABUAN"
+  branch: null
+  swift: ACSBMYK1
+    
+- name: "AL RAJHI BANKING AND INVESTMENT CORPORATION (MALAYSIA) BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: RJHIMYKL
+    
+- name: "ALKHAIR INTERNATIONAL ISLAMIC BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: UIIBMYKL
+    
+- name: "ALLIANCE BANK MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MFBBMYKL
+    
+- name: "ALLIANCE INTERNATIONAL BERHAD"
+  city: "KOTA KINABALU, SABAH"
+  branch: null
+  swift: HHBSMY41
+    
+- name: "ALLIANCE INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MBAMMY21
+    
+- name: "ALLIANCE INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MBAMMYKL
+    
+- name: "ALLIANCE INVESTMENT FUTURES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KLFFMYK1
+    
+- name: "ALLIANCE ISLAMIC BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ALSRMYKL
+    
+- name: "ALOR SETAR SECURITIES SDN BHD"
+  city: "ALOR SETAR, KEDAH"
+  branch: null
+  swift: ALOSMY21
+    
+- name: "AMANAH BUTLER MALAYSIA SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AMBMMYK1
+    
+- name: "AMANAH FUTURES AND OPTIONS SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AFOBMYK1
+    
+- name: "AMANAH MUTUAL BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MMBHMYK1
+    
+- name: "AMANAH SAHAM KEDAH BERHAD"
+  city: "ALOR SETAR, KEDAH"
+  branch: null
+  swift: KUTMMY21
+    
+- name: "AMANAH SAHAM MIC-TPG BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ASMIMYK1
+    
+- name: "AMANAH SAHAM SARAWAK BERHAD"
+  city: "KUCHING, SARAWAK"
+  branch: null
+  swift: SSWKMYK1
+    
+- name: "AMANAH SHORT DEPOSITS BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SDEPMYK1
+    
+- name: "AMANAHRAYA TRUSTEES BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AMTBMYK1
+    
+- name: "AMBANK (M) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ARBKMYKL
+    
+- name: "AMBANK (M) BERHAD"
+  city: "LABUAN"
+  branch: LABUAN OFFSHORE BRANCH (LICENSED LABUAN BANK NO.080097D)
+  swift: ARBKMYKLLAB
+    
+- name: "AMCREDIT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AMCBMYK1
+    
+- name: "AMFB HOLDINGS BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AMFBMYK1
+    
+- name: "AMFUNDS MANAGEMENT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AMMEMYK1
+    
+- name: "AMINVESTMENT BANK BERHAD (FORMERLY KNOWN AS AMMERCHANT BANK BERHAD)"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AMMBMYKL
+    
+- name: "AMINVESTMENT BANK BERHAD-SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AMMBMY21
+    
+- name: "AMISLAMIC BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AISLMYKL
+    
+- name: "AMMB FUTURES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ARFBMYK1
+    
+- name: "AMMB INVESTMENT SERVICES BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AMUTMYK1
+    
+- name: "AMSECURITIES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AMSDMYK1
+    
+- name: "AOF FUTURES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AOFMMYK1
+    
+- name: "ARAB MALAYSIAN DEVELOPMENT BANK"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ARMDMYK1
+    
+- name: "ASIA COMMERCIAL FINANCE (M) BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ACFBMYK1
+    
+- name: "ASIA PACIFIC BANKING GROUP MALAYSIA"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: APGTMYK1
+    
+- name: "ASIAN AND EURO-AMERICA MERCHANT BANKERS (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AEAMMYK1
+    
+- name: "ASIAN FINANCE BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AFBQMYKL
+    
+- name: "ASIAN TRADE INVESTMENT BANK LTD"
+  city: "LABUAN"
+  branch: null
+  swift: ATBLMY21
+    
+- name: "ASM MARA UNIT TRUST MANAGEMENT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ASMMMYK1
+    
+- name: "AVENUE SECURITIES SDN BDH"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CHABMYK1
+    
+- name: "AVENUE SECURITIES SDN.BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AVSSMYK1
+    
+- name: "BANGKOK BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BKKBMYKL
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "LABUAN"
+  branch: null
+  swift: BAHLMY2A
+    
+- name: "BANK INDUSTRI MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BKIMMYK1
+    
+- name: "BANK ISLAM MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BIMBMYKL
+    
+- name: "BANK ISLAM MALAYSIA BERHAD LABUAN OFFSHORE BRANCH"
+  city: "LABUAN"
+  branch: null
+  swift: BISLMYKA
+    
+- name: "BANK KERJASAMA RAKYAT MALAYSIA BERHAD (BANK RAKYAT)"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BKRMMYKL
+    
+- name: "BANK MUAMALAT MALAYSIA BERHAD (6175-W)"
+  city: "KUALA LUMPUR"
+  branch: TRADE FINANCE
+  swift: BMMBMYKLTFD
+    
+- name: "BANK MUAMALAT MALAYSIA BERHAD (6175-W)"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BMMBMYKL
+    
+- name: "BANK NEGARA MALAYSIA"
+  city: "KUALA LUMPUR"
+  branch: HEAD OFFICE
+  swift: BNMAMYKL
+    
+- name: "BANK NEGARA MALAYSIA"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BNMAMY2K
+    
+- name: "BANK OF AMERICA, MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BOFAMY2X
+    
+- name: "BANK OF AMERICA, MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BOFAMY2XGRC
+    
+- name: "BANK OF AMERICA, MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BOFAMY2XLMY
+    
+- name: "BANK OF AMERICA, MALAYSIA BERHAD"
+  city: "LABUAN"
+  branch: null
+  swift: BOFAMY2XLBN
+    
+- name: "BANK OF CHINA (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BKCHMYKL
+    
+- name: "BANK OF NOVA SCOTIA, THE"
+  city: "LABUAN"
+  branch: THE LABUAN BRANCH
+  swift: NOSCMY2L
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BOTKMY21
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BOTKMYKX
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "LABUAN"
+  branch: LABUAN BRANCH
+  swift: BOTKMYKA
+    
+- name: "BANK PEMBANGUNAN MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PEMBMYK1
+    
+- name: "BANK PEMBANGUNAN MALAYSIA BERHAD-SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PEMBMY21
+    
+- name: "BANK PERTANIAN MALAYSIA BERHAD - RENTAS SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AGOBMY21
+    
+- name: "BANK PERTANIAN MALAYSIA BERHAD-AGROBANK"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AGOBMYKL
+    
+- name: "BANK SIMPANAN NASIONAL BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BSNAMYK1
+    
+- name: "BANK SIMPANAN NASIONAL-ISLAMIC"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BSNAMY21
+    
+- name: "BARCLAYS DE ZOETE WEDD (MALAYSIA) SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BZWLMYK1
+    
+- name: "BAT ASPAC SERVICE CENTRE SDN. BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BATSMYK1
+    
+- name: "BBMB DISCOUNT HOUSE BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BDHBMYK1
+    
+- name: "BBMB FUTURES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BBFTMYK1
+    
+- name: "BBMB KEWANGAN BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BKEWMYK1
+    
+- name: "BBMB SECURITIES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BSSBMYK1
+    
+- name: "BBMB UNIT TRUST MANAGEMENT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BBUTMYK1
+    
+- name: "BIMB SECURITIES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BSDBMYK1
+    
+- name: "BIMB UNIT TRUST MANAGEMENT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BUTMMYK1
+    
+- name: "BNP PARIBAS"
+  city: "LABUAN"
+  branch: null
+  swift: BNPAMYKA
+    
+- name: "BNP PARIBAS MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: BNPPM ISLAMIC BANKING WINDOW
+  swift: BNPAMYKLSPI
+    
+- name: "BNP PARIBAS MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BNPAMYKL
+    
+- name: "BNP PARIBAS MALAYSIA BERHAD-SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BNPAMY21
+    
+- name: "BRITISH AMERICAN TOBACCO GSD (KUALA LUMPUR) SDN BHD"
+  city: "PETALING JAYA, SELANGOR"
+  branch: null
+  swift: BATSMY21
+    
+- name: "BUMIPUTRA MERCHANT BANKERS BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BMBBMYK1
+    
+- name: "BURSA MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: XKLSMYK1
+    
+- name: "BURSA MALAYSIA DEPOSITORY SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MCDSMYK1
+    
+- name: "BURSA MALAYSIA DERIVATIVES BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: XLOFMYK1
+    
+- name: "BURSA MALAYSIA DERIVATIVES CLEARING BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BMDRMYK1
+    
+- name: "BURSA MALAYSIA SECURITIES CLEARING SENDIRIAN BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BMSCMYK1
+    
+- name: "CAGAMAS BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CAGAMYKL
+    
+- name: "CAGAMAS BERHAD - SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CAGAMY21
+    
+- name: "CAPITAL INVESTMENT BANK (LABUAN) LIMITED (CIB LABUAN)"
+  city: "LABUAN"
+  branch: null
+  swift: CINBMY21
+    
+- name: "CHINA CONSTRUCTION BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PCBCMYKL
+    
+- name: "CIMB BANK (L) LIMITED"
+  city: "LABUAN"
+  branch: null
+  swift: CIBBMYKA
+    
+- name: "CIMB BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: SECURITIES BORROWING AND LENDING
+  swift: CIBBMYKLSBL
+    
+- name: "CIMB BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CIBBMYKL
+    
+- name: "CIMB BANK BERHAD, LABUAN OFFSHORE BRANCH"
+  city: "LABUAN"
+  branch: null
+  swift: CIBBMY2L
+    
+- name: "CIMB FUTURES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CIMFMYK1
+    
+- name: "CIMB INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: COIMMYKL
+    
+- name: "CIMB INVESTMENT BANK BERHAD (SP1-ISLAMIC)"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: COIMMY21
+    
+- name: "CIMB ISLAMIC BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CTBBMYKL
+    
+- name: "CIMB WEALTH ADVISORS BERHAD"
+  city: "PETALING JAYA, SELANGOR"
+  branch: null
+  swift: BPTMMY21
+    
+- name: "CIMB-PRINCIPAL ASSET MANAGEMENT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CANHMYKL
+    
+- name: "CITIBANK BERHAD"
+  city: "GEORGETOWN"
+  branch: PENANG BRANCH
+  swift: CITIMYKLPEN
+    
+- name: "CITIBANK BERHAD"
+  city: "JOHOR BAHRU, JOHOR"
+  branch: JOHOR BAHRU BRANCH
+  swift: CITIMYKLJOD
+    
+- name: "CITIBANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: JALAN AMPANG
+  swift: CITIMYKL
+    
+- name: "CITIBANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: LAB
+  swift: CITIMYKLLAB
+    
+- name: "CITIBANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CITIMYM1
+    
+- name: "CITIGROUP GLOBAL MARKET MALAYSIA SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CITIMY21
+    
+- name: "CLSA SECURITIES MALAYSIA SDN. BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CSMSMYK1
+    
+- name: "CREDIT CORPORATION (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CCMBMYK1
+    
+- name: "CREDIT LYONNAIS SECURITIES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CLSAMYK1
+    
+- name: "CREDIT SUISSE SECURITIES (MALAYSIA) SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CSFBMYK1
+    
+- name: "CROSBY RESEARCH SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CRSHMYK1
+    
+- name: "DAIWA SECURITIES CO LTD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: DAICMYK1
+    
+- name: "DBS BANK LTD, LABUAN BRANCH"
+  city: "LABUAN"
+  branch: null
+  swift: DBSSMY2A
+    
+- name: "DEUTSCHE BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: INTERNATIONAL ISLAMIC BANKING, MALAYSIA BRANCH
+  swift: DEUTMYKLISB
+    
+- name: "DEUTSCHE BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: DEUTMYKL
+    
+- name: "DEUTSCHE BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: DEUTMYKLGMO
+    
+- name: "DEUTSCHE BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: DEUTMYKLIBW
+    
+- name: "DEUTSCHE BANK (MALAYSIA) BERHAD"
+  city: "LABUAN"
+  branch: LABUAN BRANCH
+  swift: DEUTMYKLBLB
+    
+- name: "DEUTSCHE BANK MALAYSIA BERHAD-SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: DEUTMY21
+    
+- name: "ECMLIBRA INVESTMENT BANK BHD BANGUNAN ECM LIBRA"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: EIBEMYK1
+    
+- name: "EMPLOYEES PROVIDENT FUND BOARD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KWSPMYK1
+    
+- name: "EMPLOYEES PROVIDENT FUND BOARD - ISLAMIC"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KWSPMY21
+    
+- name: "EON FINANCE BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: EONFMYK1
+    
+- name: "EONCAP SECURITIES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ESSHMYK1
+    
+- name: "EXPORT-IMPORT BANK OF MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: EXMBMYKL
+    
+- name: "EXPORT-IMPORT BANK OF MALAYSIA BERHAD - SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: EXMBMY21
+    
+- name: "FA SECURITIES SDN. BHD."
+  city: "KUALA TERENGGANU, TERENGGANU"
+  branch: null
+  swift: FASEMY21
+    
+- name: "FELDA GLOBAL VENTURES CAPITAL SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: FGVCMYKL
+    
+- name: "FIDELITY ASIA BANK LTD"
+  city: "LABUAN"
+  branch: null
+  swift: FABEMY22
+    
+- name: "FIRST EAST EXPORT BANK"
+  city: "LABUAN"
+  branch: null
+  swift: FEEBMYKA
+    
+- name: "FPB ASIA LIMITED"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: FPASMYK1
+    
+- name: "FULTON PREBON (MALAYSIA) SDN. BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: FPMBMYK1
+    
+- name: "G.K. GOH SECURITIES PTE LTD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: GOSPMYK1
+    
+- name: "HA OPTIONS AND FINANCIAL FUTURES"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HAOFMYK1
+    
+- name: "HALIM SECURITIES SDN BHD."
+  city: "PETALING JAYA, SELANGOR"
+  branch: null
+  swift: HALIMY21
+    
+- name: "HDM FUTURES SDN. BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HDMFMYK1
+    
+- name: "HLG FUTURES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HLGFMYK1
+    
+- name: "HLG UNIT TRUST BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HUTMMYK1
+    
+- name: "HONG LEONG ASSET MANAGEMENT BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HLANMYK1
+    
+- name: "HONG LEONG BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HLBBMYKL
+    
+- name: "HONG LEONG BANK BERHAD, LABUAN INTERNATIONAL BRANCH"
+  city: "LABUAN"
+  branch: null
+  swift: HLBLMY22
+    
+- name: "HONG LEONG FINANCE BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HLFBMYK1
+    
+- name: "HONG LEONG INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HLIVMYKL
+    
+- name: "HONG LEONG ISLAMIC BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HLIBMYKL
+    
+- name: "HSBC (MALAYSIA) TRUSTEE BERHAD"
+  city: "KUALA LUMPUR"
+  branch: GLOBAL WEALTH SOLUTIONS
+  swift: HSTMMYKLGWS
+    
+- name: "HSBC (MALAYSIA) TRUSTEE BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HSTMMYKL
+    
+- name: "HSBC AMANAH MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HMABMYKL
+    
+- name: "HSBC BANK MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: HBMBMYKL
+    
+- name: "HSBC RESEARCH (MALAYSIA) SDN. BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: JACLMYK1
+    
+- name: "IBH INVESTMENT BANK LIMITED"
+  city: "LABUAN"
+  branch: null
+  swift: IBHIMY2L
+    
+- name: "INDIA INTERNATIONAL BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: IIMBMYKL
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ICBKMYKL
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD."
+  city: "LABUAN"
+  branch: LABUAN BRANCH
+  swift: ICBKMYKLLAB
+    
+- name: "ING BANK N.V."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: INGBMYK1
+    
+- name: "ING INSURANCE BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: INIHMYK1
+    
+- name: "INTERNATIONAL ISLAMIC LIQUIDITY MANAGEMENT CORPORATION"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: IILMMYK1
+    
+- name: "INTER-PACIFIC SECURITIES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: INSSMYK1
+    
+- name: "J.M. SASSOON RESEARCH (MALAYSIA) SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SRMSMYK1
+    
+- name: "J.P. MORGAN CHASE BANK BERHAD"
+  city: "LABUAN"
+  branch: null
+  swift: CHASMYL1
+    
+- name: "J.P. MORGAN SECURITIES (MALAYSIA) SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CHASMY21
+    
+- name: "J.P.MORGAN CHASE BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: JPMORGAN SECURITIES - MALAYSIA
+  swift: CHASMYKXSEC
+    
+- name: "J.P.MORGAN CHASE BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASMYKXKEY
+    
+- name: "J.P.MORGAN CHASE BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: CHASMYKX
+    
+- name: "JF APEX"
+  city: "BINTANG"
+  branch: null
+  swift: JFAPMYK1
+    
+- name: "JF APEX FUTURES SDN BHD"
+  city: "KAJANG, SELANGOR"
+  branch: null
+  swift: JFAFMY21
+    
+- name: "JF APEX SECURITIES BERHAD"
+  city: "KAJANG"
+  branch: null
+  swift: APEXMY21
+    
+- name: "JPMORGAN CHASE BANK, N.A., LABUAN BRANCH"
+  city: "LABUAN"
+  branch: null
+  swift: CHASMY2A
+    
+- name: "JUPITER SECURITIES SDN. BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: JUPSMYK1
+    
+- name: "KAF INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KAFBMYKL
+    
+- name: "KAF INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KAFDMYK1
+    
+- name: "KAF INVESTMENT BANK BERHAD - SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KAFBMY21
+    
+- name: "KAF-ASTLEY AND PEARCE SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KAAPMYK1
+    
+- name: "KAF-SEAGROATT AND CAMPBELL SECURITIES SDN. BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SEACMYK1
+    
+- name: "KAF-SEAGROATT AND CAMPBELL SECURITIES SDN. BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SEACMYK1KSC
+    
+- name: "KENANGA DMG FUTURES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KDMGMYK1
+    
+- name: "KENANGA INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ECMLMYKL
+    
+- name: "KENANGA INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KKENMYK1
+    
+- name: "KENANGA INVESTMENT BANK BERHAD- SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KKENMY21
+    
+- name: "KE-ZAN SECURITIES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KEZAMYK1
+    
+- name: "KE-ZAN SECURITIES SDN BHD"
+  city: "PENANG, PENANG"
+  branch: null
+  swift: KEZNMY21
+    
+- name: "KIMARA EQUITIES SDN BHD"
+  city: "SEREMBAN, NEGRI SEMBILAN"
+  branch: null
+  swift: KIMAMY21
+    
+- name: "KLANG SECURITIES SDN BHD"
+  city: "KLANG, SELANGOR"
+  branch: null
+  swift: KLANMY21
+    
+- name: "KUMPULAN WANG PERSARAAN (DIPERBADANKAN)"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KWAPMYK1
+    
+- name: "KUWAIT FINANCE HOUSE (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KFHOMYKL
+    
+- name: "LABUAN SECURITIES SDN BHD"
+  city: "LABUAN"
+  branch: null
+  swift: LABNMY21
+    
+- name: "LEONG AND CO SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: LEONMYK1
+    
+- name: "LIBRA CAPITAL MANAGEMENT SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: LCMSMYK1
+    
+- name: "LIBRA OPTIONS AND FINANCIAL FUTURES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: LOFFMYK1
+    
+- name: "M AND A SECURITIES SDN. BHD."
+  city: "IPOH, PERAK"
+  branch: null
+  swift: PTBBMYK1
+    
+- name: "MACQUARIE CAPITAL SECURITIES (MALAYSIA) SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MACQMYK1
+    
+- name: "MALACCA SECURITIES SDN. BHD."
+  city: "MELAKA"
+  branch: null
+  swift: MLLAMY21
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "BUTTERWORTH, PENANG"
+  branch: TRADE FINANCE CENTER
+  swift: MBBEMYKLBWC
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "IPOH, PERAK"
+  branch: null
+  swift: MBBEMYKLIPH
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "JOHOR BAHRU, JOHOR"
+  branch: null
+  swift: MBBEMYKLJOB
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KOTA KINABALU, SABAH"
+  branch: null
+  swift: MBBEMYKLKIN
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KUALA LUMPUR"
+  branch: BANGSAR BARU BRANCH
+  swift: MBBEMYKLBAN
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KUALA LUMPUR"
+  branch: BUKIT BINTANG BRANCH
+  swift: MBBEMYKLBBG
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KUALA LUMPUR"
+  branch: CASH MANAGEMENT DEPARTMENT
+  swift: MBBEMYKLWEB
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KUALA LUMPUR"
+  branch: CUSTODIAN SERVICES DEPARTMENT
+  swift: MBBEMYKLCSD
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KUALA LUMPUR"
+  branch: KEPONG BRANCH
+  swift: MBBEMYKLKEP
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KUALA LUMPUR"
+  branch: PUDU BRANCH
+  swift: MBBEMYKLPUD
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KUALA LUMPUR"
+  branch: SUBANG AIRPORT
+  swift: MBBEMYKLSUB
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KUALA LUMPUR"
+  branch: TRADE FINANCE CENTER
+  swift: MBBEMYKLKLC
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KUALA LUMPUR"
+  branch: WISMA SIME DARBY BRANCH
+  swift: MBBEMYKLWSD
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MBBEMYKL
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "MALACCA, MALACCA"
+  branch: null
+  swift: MBBEMYKLMAL
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "PASIR GUDANG, JOHOR"
+  branch: null
+  swift: MBBEMYKLPSG
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "PENANG, PENANG"
+  branch: TRADE FINANCE CENTER
+  swift: MBBEMYKLPGC
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "PENANG, PENANG"
+  branch: null
+  swift: MBBEMYKLPEN
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "PETALING JAYA, SELANGOR"
+  branch: TRADE FINANCE CENTER
+  swift: MBBEMYKLPJC
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "PETALING JAYA, SELANGOR"
+  branch: YONG SHOOK LIN BRANCH
+  swift: MBBEMYKLYSL
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "PETALING JAYA, SELANGOR"
+  branch: null
+  swift: MBBEMYKLPJY
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "PORT KLANG, SELANGOR"
+  branch: null
+  swift: MBBEMYKLPKG
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "SEREMBAN, NEGRI SEMBILAN"
+  branch: null
+  swift: MBBEMYKLSBN
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "SHAH ALAM, SELANGOR"
+  branch: TRADE FINANCE CENTER
+  swift: MBBEMYKLSAC
+    
+- name: "MALAYAN BANKING BERHAD (MAYBANK)"
+  city: "SHAH ALAM, SELANGOR"
+  branch: null
+  swift: MBBEMYKLSHA
+    
+- name: "MALAYSIA AIRLINES BERHAD"
+  city: "SUBANG"
+  branch: null
+  swift: MAYHMY22
+    
+- name: "MALAYSIA LNG SDN BHD"
+  city: "BINTULU"
+  branch: null
+  swift: MLNGMY21
+    
+- name: "MALAYSIAN ELECTRONIC PAYMENT SYSTEM (1997) SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MEPSMYK1
+    
+- name: "MALAYSIAN INDUSTRIAL DEVELOPMENT FINANCE BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MAIDMYK1
+    
+- name: "MALPAC MANAGEMENT SDN. BHD."
+  city: "SEREMBAN, NEGRI SEMBILAN"
+  branch: null
+  swift: SSSDMY21
+    
+- name: "MANULIFE ASSET MANAGEMENT SERVICES BERHAD"
+  city: "KUALA LUMPUR"
+  branch: ALL BRANCH
+  swift: MAMIMYK1ALL
+    
+- name: "MANULIFE ASSET MANAGEMENT SERVICES BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MAMIMYK1
+    
+- name: "MAX MONEY SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MMSBMYKL
+    
+- name: "MAYBAN DISCOUNT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MAYDMYK1
+    
+- name: "MAYBAN FINANCE BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MFINMYK1
+    
+- name: "MAYBAN FUTURES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MAYFMYK1
+    
+- name: "MAYBAN SECURITIES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MAYSMYK1
+    
+- name: "MAYBANK INTERNATIONAL (L) LTD."
+  city: "LABUAN"
+  branch: null
+  swift: MBBEMYKA
+    
+- name: "MAYBANK INTERNATIONAL LABUAN BRANCH"
+  city: "LABUAN"
+  branch: null
+  swift: MBBEMY2L
+    
+- name: "MAYBANK INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MBEAMYKL
+    
+- name: "MAYBANK INVESTMENT BANK BERHAD - SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MBEAMY21
+    
+- name: "MAYBANK ISLAMIC BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MBISMYKL
+    
+- name: "MBF FINANCE BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MBFFMYK1
+    
+- name: "MBF SECURITIES SDN BHD"
+  city: "MUAR, JOHOR"
+  branch: null
+  swift: MBFSMY21
+    
+- name: "MBF UNIT TRUST MANAGEMENT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MBFUMYK1
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. LABUAN BRANCH"
+  city: "LABUAN"
+  branch: null
+  swift: ICBCMY2L
+    
+- name: "MERCEDES-BENZ MALAYSIA SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: DABEMYKL
+    
+- name: "MERCEDES-BENZ SERVICES MALAYSIA SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MBSMMYKL
+    
+- name: "MERCURY SECURITIES SDN. BHD."
+  city: "BUTTERWORTH, PENANG"
+  branch: null
+  swift: MERYMY21
+    
+- name: "MIDDLE EAST INVESTMENT BANK LTD"
+  city: "LABUAN"
+  branch: null
+  swift: MEIBMYKA
+    
+- name: "MIDF AMANAH INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MIDFMYK1
+    
+- name: "MIDF AMANAH INVESTMENT BANK BHD - SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MIDFMY21
+    
+- name: "MIMB INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MIMBMYK1
+    
+- name: "MIZUHO BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MHCBMYKA
+    
+- name: "MIZUHO BANK, LTD., LABUAN BRANCH"
+  city: "LABUAN"
+  branch: null
+  swift: MHCBMY2L
+    
+- name: "MOHAIYANI SECURITIES SDN BHD"
+  city: "PETALING JAYA, SELANGOR"
+  branch: null
+  swift: MSSBMY21
+    
+- name: "MORGAN GRENFELL AND CO LTD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MGCOMYK1
+    
+- name: "MTRUSTEE BERHAD"
+  city: "PETALING JAYA"
+  branch: null
+  swift: MTBEMY21
+    
+- name: "MULTI-PURPOSE UNIT TRUST MANAGEMENT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MPUTMYK1
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: NBADMYKL
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "LABUAN"
+  branch: null
+  swift: NBADMYKLLAU
+    
+- name: "NAVA SC SECURITIES RESEARCH (M) SDN BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SCSEMYK1
+    
+- name: "NIKKO ADVISORY SERVICES (MALAYSIA) SON. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: NKSCMYK1
+    
+- name: "NOMURA ASSET MANAGEMENT MALAYSIA SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: NOCMMYKL
+    
+- name: "NOMURA MALAYSIA SDN. BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: NMSBMYK1
+    
+- name: "NOMURA SECURITIES MALAYSIA SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: NMRSMYK1
+    
+- name: "NOVATEL SDN. BHD."
+  city: "PETALING JAYA, SELANGOR"
+  branch: null
+  swift: NOSBMY21
+    
+- name: "OCBC AL-AMIN BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: OABBMYKL
+    
+- name: "OCBC BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: OCBCMYKL
+    
+- name: "OCBC SECURITIES (MELAKA) SDN BHD"
+  city: "MALACCA, MALACCA"
+  branch: null
+  swift: OSMSMY21
+    
+- name: "ONG RESEARCH (MALAYSIA) SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ORMSMYK1
+    
+- name: "OSK AND PARTNERS SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: OSPSMYK1
+    
+- name: "OSK FUTURES AND OPTIONS SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: OSKFMYK1
+    
+- name: "OSK INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: OSSBMYK1
+    
+- name: "OVERSEA-CHINESE BANKING CORP. LTD, LABUAN BRANCH"
+  city: "LABUAN"
+  branch: null
+  swift: OCBCMYKA
+    
+- name: "PAB UNIT TRUST MANAGEMENT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: AUTMMYK1
+    
+- name: "PACIFIC MUTUAL FUND BHD"
+  city: "PETALING JAYA, SELANGOR"
+  branch: null
+  swift: PMFBMY21
+    
+- name: "PANASONIC FINANCIAL CENTRE (MALAYSIA) SDN. BHD."
+  city: "PETALING JAYA, SELANGOR"
+  branch: null
+  swift: PANAMY21
+    
+- name: "PB FUTURES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PBFBMYK1
+    
+- name: "PB SECURITIES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SECSMYK1
+    
+- name: "PELABURAN JOHOR BERHAD"
+  city: "JOHOR BAHRU, JOHOR"
+  branch: null
+  swift: PJBJMY21
+    
+- name: "PENGURUSAN KUMIPA BERHAD"
+  city: "KUANTAN, PAHANG"
+  branch: null
+  swift: PKUMMY21
+    
+- name: "PERMODALAN BSN BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PBSNMYK1
+    
+- name: "PERMODALAN NASIONAL BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PERMMY21
+    
+- name: "PERMODALAN NASIONAL BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PERMMYK1
+    
+- name: "PESAKA JARDINE FLEMING SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PEJFMYK1
+    
+- name: "PETROLIAM NASIONAL BERHAD"
+  city: "KUALA LUMPUR"
+  branch: KLCC
+  swift: PTROMYKLFSD
+    
+- name: "PETROLIAM NASIONAL BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PTROMYKL
+    
+- name: "PG ASIA INVESTMENT BANK LTD"
+  city: "LABUAN"
+  branch: null
+  swift: AINEMY22
+    
+- name: "PHILEO ALLIED OPTION AND FINANCIAL FUTURES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: POFFMYK1
+    
+- name: "PHILEO ALLIED SECURITIES SDN BHD"
+  city: "IPOH, PERAK"
+  branch: null
+  swift: PPSSMYK1
+    
+- name: "PICA (M) CORPORATION SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PCOSMYK1
+    
+- name: "PIV SERVICES SDN BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PIVSMYK1
+    
+- name: "PM SECURITIES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PENSMYK1
+    
+- name: "POS MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: POSMMYKL
+    
+- name: "PRIMEINVESTCORP"
+  city: "JOHOR BAHRU, JOHOR"
+  branch: null
+  swift: PRNVMY21
+    
+- name: "PTB UNIT TRUST BERHAD"
+  city: "KUALA TERENGGANU, TERENGGANU"
+  branch: null
+  swift: PUTBMY21
+    
+- name: "PUBLIC BANK (L) LTD"
+  city: "LABUAN"
+  branch: null
+  swift: PBLLMYKA
+    
+- name: "PUBLIC BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PBBEMYKL
+    
+- name: "PUBLIC FINANCE BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PFBEMYK1
+    
+- name: "PUBLIC INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SMBBMYK1
+    
+- name: "PUBLIC INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SMBBMYK1001
+    
+- name: "PUBLIC ISLAMIC BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PIBEMYK1
+    
+- name: "PUBLIC ISLAMIC BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PUIBMYKL
+    
+- name: "PUBLIC MUTUAL BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: KLMFMYK1
+    
+- name: "RAKYAT MERCHANT BANKERS BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: RMBBMYK1
+    
+- name: "RASHID AND ZAKI DERIVATIVES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: RNZDMYK1
+    
+- name: "RHB BANK (L) LTD"
+  city: "LABUAN"
+  branch: null
+  swift: RHBBMYKA
+    
+- name: "RHB BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: RHBBMYKL
+    
+- name: "RHB EXCEL SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: RHBKMYK1
+    
+- name: "RHB FUTURES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: RHBFMYK1
+    
+- name: "RHB INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: OSKIMYKL
+    
+- name: "RHB INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: RHBMMYK1
+    
+- name: "RHB ISLAMIC BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: RHBAMYKL
+    
+- name: "ROYAL SAVINGS AND LOAN EF"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: ROSLMYK1
+    
+- name: "RSI CAPITAL HOLDINGS BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: RCHBMYK1
+    
+- name: "RSLE HOLDING (LABUAN) CORPORATION"
+  city: "LABUAN"
+  branch: null
+  swift: RHLCMY21
+    
+- name: "SABAH DEVELOPMENT BANK BHD."
+  city: "KOTA KINABALU, SABAH"
+  branch: null
+  swift: SDBEMY41
+    
+- name: "SAHAM SABAH BERHAD"
+  city: "KOTA KINABALU, SABAH"
+  branch: null
+  swift: SASBMY41
+    
+- name: "SAMSUNG C AND T KL SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SASHMYK1
+    
+- name: "SAMSUNG C AND T MALAYSIA SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SCNTMYK1
+    
+- name: "SAMSUNG ELECTRONICS DISPLAY (M) SDN.BHD."
+  city: "KUALA LUMPUR"
+  branch: SME
+  swift: SECTMY215F0
+    
+- name: "SAMSUNG ELECTRONICS DISPLAY (M) SDN.BHD."
+  city: "PORT KLANG, SELANGOR"
+  branch: SEMA
+  swift: SECTMY21520
+    
+- name: "SAMSUNG ELECTRONICS DISPLAY (M) SDN.BHD."
+  city: "SEREMBAN, NEGRI SEMBILAN"
+  branch: SDMA
+  swift: SECTMY21510
+    
+- name: "SAMSUNG ELECTRONICS DISPLAY (M) SDN.BHD."
+  city: "SEREMBAN, NEGRI SEMBILAN"
+  branch: null
+  swift: SECTMY21
+    
+- name: "SARAWAK SECURITIES FUTURES SDN BHD"
+  city: "KUCHING, SARAWAK"
+  branch: null
+  swift: SSFOMYK1
+    
+- name: "SBB SECURITIES SDN. BHD"
+  city: "IPOH, PERAK"
+  branch: null
+  swift: SSSHMYK1
+    
+- name: "SBB UNIT TRUST MANAGEMENT B ERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SBUTMYK1
+    
+- name: "SCHRODER (MALAYSIA) SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SMSBMYK1
+    
+- name: "SCHRODERS MALAYSIA (L) BERHAD"
+  city: "LABUAN"
+  branch: null
+  swift: SMBLMYK1
+    
+- name: "SFSB SERVICES (MELAKA) SDN. BHD."
+  city: "MALACCA, MALACCA"
+  branch: null
+  swift: SFDBMY21
+    
+- name: "SG SECURITIES (SINGAPORE) CUSTODIAL SERVICES PTE. LTD."
+  city: "KUALA LUMPUR"
+  branch: KL BRANCH
+  swift: SGSEMYK1
+    
+- name: "SHARIKAT NOMINEE BUMIPUTRA SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SNBBMYK1
+    
+- name: "SHORT DEPOSITS (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SDMBMYK1
+    
+- name: "SIME SECURITIES SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: UMSSMYK1
+    
+- name: "SJ SECURITIES SDN BHD"
+  city: "PETALING JAYA, SELANGOR"
+  branch: null
+  swift: SJSEMY21
+    
+- name: "SMALL MEDIUM ENTERPRISE DEVELOPMENT BANK MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MSMEMYK1
+    
+- name: "SMALL MEDIUM ENTERPRISE DEVELOPMENT BANK MALAYSIA BERHAD-SPI"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: MSMEMY21
+    
+- name: "SOUTH JOHOR SECURITIES SDN BHD"
+  city: "BATU PAHAT, JOHORE"
+  branch: null
+  swift: SJSSMY21
+    
+- name: "SOUTHERN FINANCE CO BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: UMFBMYK1
+    
+- name: "SOUTHERN INVESTMENT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: PERDMYK1
+    
+- name: "STANDARD CHARTERED BANK MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: ALL OFFICES IN MALAYSIA
+  swift: SCBLMYKX
+    
+- name: "STANDARD CHARTERED BANK MALAYSIA BERHAD"
+  city: "LABUAN"
+  branch: LABUAN OFFSHORE BANKING UNIT ONLY
+  swift: SCBLMYKXLAB
+    
+- name: "STANDARD CHARTERED SAADIQ BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SCSRMYK1
+    
+- name: "STANDARD CHARTERED SAADIQ BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SCSRMYKK
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "LABUAN"
+  branch: null
+  swift: SMBCMYKA
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION MALAYSIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SMBCMYKL
+    
+- name: "SUN HUNG KAI INVESTMENT SERVICES LTD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SUNHMYK1
+    
+- name: "SUPREME FINANCE (M) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SUFBMYK1
+    
+- name: "SYARIKAT SOON THEAM SDN BHD"
+  city: "PENANG, PENANG"
+  branch: null
+  swift: SSTDMY21
+    
+- name: "TA FUTURES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: TAFRMYK1
+    
+- name: "TA INVESTMENT MANAGEMENT BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: TAUTMYK1
+    
+- name: "TA SECURITIES"
+  city: "KOTA BAHRU, KELANTAN"
+  branch: null
+  swift: LEKEMY21
+    
+- name: "TA SECURITIES BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: SETAMYK1
+    
+- name: "TA SECURITIES HOLDINGS BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: BOTLMY21
+    
+- name: "THE BANK OF NOVA SCOTIA BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: NOSCMYKL
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "LABUAN"
+  branch: null
+  swift: HSBCMYKA
+    
+- name: "THONG AND KAY HIAN SECURITIES SDN. BHD."
+  city: "PENANG, PENANG"
+  branch: null
+  swift: TKHOMY21
+    
+- name: "THONG-KHJC SDN BHD"
+  city: "PENANG, PENANG"
+  branch: null
+  swift: THKHMYP1
+    
+- name: "TMC SERVICES SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: TMCBMYKL
+    
+- name: "UBS SECURITIES MALAYSIA SDN. BHD."
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: USMSMYK1
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "BENTONG, PAHANG"
+  branch: null
+  swift: UOVBMYK1026
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "BUTTERWORTH, PENANG"
+  branch: null
+  swift: UOVBMYK101P
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "IPOH, PERAK"
+  branch: null
+  swift: UOVBMYK102H
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "JOHOR BAHRU, JOHOR"
+  branch: null
+  swift: UOVBMYK102J
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KLANG, SELANGOR"
+  branch: JALAN DATO HAMZAH BRANCH
+  swift: UOVBMYK101K
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KLANG, SELANGOR"
+  branch: JALAN MERU
+  swift: UOVBMYK102K
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KLUANG, JOHOR"
+  branch: null
+  swift: UOVBMYK101J
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KOTA BAHRU, KELANTAN"
+  branch: null
+  swift: UOVBMYK101T
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KOTA KINABALU, SABAH"
+  branch: null
+  swift: UOVBMYK104K
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: CUSTODIAN AND NOMINEES DEPARTMENT
+  swift: UOVBMYKLCND
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: JALAN PUDU
+  swift: UOVBMYK10K3
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: JALAN RAJA LAUT
+  swift: UOVBMYK10K1
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: MEDAN PASAR BRANCH
+  swift: UOVBMYK10K2
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: UOVBMYKL
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KUALA TERENGGANU, TERENGGANU"
+  branch: null
+  swift: UOVBMYK103T
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KUANTAN, PAHANG"
+  branch: null
+  swift: UOVBMYK102T
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KUCHING, SARAWAK"
+  branch: null
+  swift: UOVBMYK103K
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "KULAI, JOHOR"
+  branch: null
+  swift: UOVBMYK103J
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "MALACCA, MALACCA"
+  branch: null
+  swift: UOVBMYK1027
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "PENANG, PENANG"
+  branch: LEBUH BISHOP
+  swift: UOVBMYK102P
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "PENANG, PENANG"
+  branch: LEBUH PANTAI
+  swift: UOVBMYK103P
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "PETALING JAYA, SELANGOR"
+  branch: JALAN OTHMAN BRANCH
+  swift: UOVBMYK1024
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "PETALING JAYA, SELANGOR"
+  branch: JALAN TENGAH BRANCH
+  swift: UOVBMYK1025
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "RAUB, PAHANG"
+  branch: null
+  swift: UOVBMYK1022
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "SANDAKAN, SABAH"
+  branch: null
+  swift: UOVBMYK1042
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "SEREMBAN, NEGRI SEMBILAN"
+  branch: null
+  swift: UOVBMYK1023
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BERHAD"
+  city: "TUARAN, SABAH"
+  branch: null
+  swift: UOVBMYK1043
+    
+- name: "UNITED OVERSEAS BANK (MALAYSIA) BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: UOVBMY21
+    
+- name: "UNITED OVERSEAS BANK LIMITED LABUAN BRANCH"
+  city: "LABUAN"
+  branch: null
+  swift: UOVBMY2L
+    
+- name: "UNIVERSAL TRUSTEE (M) BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: UNTHMYK1
+    
+- name: "UOB KAY HIAN SECURITIES (M) SDN BHD"
+  city: "KOTA KINABALU, SABAH"
+  branch: null
+  swift: INNOMY41
+    
+- name: "UOB SECURITIES PTE LTD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: UOBSMYK1
+    
+- name: "UPEN SECURITIES SDN BHD"
+  city: "KANGAR, PERLIS"
+  branch: null
+  swift: USSBMY21
+    
+- name: "UTAMA MERCHANT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: UMBBMYK1
+    
+- name: "UTAMA WARDLEY BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: UWDYMYK1
+    
+- name: "VICKERS BALLAS RESEARCH (M) SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: VIBRMYK1
+    
+- name: "VOLKSWAGEN GROUP MALAYSIA"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: VOGMMYK1
+    
+- name: "VOLKSWAGEN PASSENGER CARS MALAYSIA SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: VPCMMYK1
+    
+- name: "W.I. CARR (FAR EAST) LIMITED"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: WICAMYK1
+    
+- name: "WAH TAT BANK BERHAD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: WTBBMY310KL
+    
+- name: "WAH TAT BANK BERHAD"
+  city: "KUCHING, SARAWAK"
+  branch: null
+  swift: WTBBMY3103K
+    
+- name: "WAH TAT BANK BERHAD"
+  city: "SIBU, SARAWAK"
+  branch: null
+  swift: WTBBMY31
+    
+- name: "WK OPTIONS AND FUTURES SDN BHD"
+  city: "KUANTAN, PAHANG"
+  branch: null
+  swift: WKOFMY21
+    
+- name: "WK SECURITIES SDN BHD"
+  city: "KUANTAN, PAHANG"
+  branch: null
+  swift: SESBMY21
+    
+- name: "Y.K. FUNG SECURITIES SDN BHD"
+  city: "IPOH, PERAK"
+  branch: null
+  swift: FSSBMYK1
+    
+- name: "YAMAICHI ADVISORY SERVICES (MALAYSIA) SDN BHD"
+  city: "KUALA LUMPUR"
+  branch: null
+  swift: YASMMYK1
+    

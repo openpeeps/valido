@@ -1,0 +1,60 @@
+- name: "BANK OF EAST LAND, PYONGYANG"
+  city: "PYONGYANG"
+  branch: null
+  swift: BOELKPP1
+    
+- name: "BRILLIANCE BANKING CORPORATION LTD."
+  city: "PYONGYANG"
+  branch: null
+  swift: BRBKKPP1
+    
+- name: "DAEDONG CREDIT BANK"
+  city: "PYONGYANG"
+  branch: null
+  swift: DCBKKPP1
+    
+- name: "FOREIGN TRADE BANK OF THE D.P.R. OF KOREA"
+  city: "PYONGYANG"
+  branch: null
+  swift: FTBDKPP1
+    
+- name: "FOREIGN TRADE BANK OF THE D.P.R. OF KOREA"
+  city: "PYONGYANG"
+  branch: null
+  swift: FTBDKPP1KBC
+    
+- name: "GOLDEN TRIANGLE BANK"
+  city: "NAMSAN"
+  branch: null
+  swift: KGTBKPP1
+    
+- name: "KOREA DAESONG BANK"
+  city: "PYONGYANG"
+  branch: null
+  swift: KDBKKPP1
+    
+- name: "KOREA KWANGSON BANKING CORP."
+  city: "PYONGYANG"
+  branch: null
+  swift: KKBCKPP1
+    
+- name: "KORYO COMMERCIAL BANK LTD."
+  city: "PYONGYANG"
+  branch: null
+  swift: KCBKKPP1
+    
+- name: "KORYO CREDIT DEVELOPMENT BANK"
+  city: "PYONGYANG"
+  branch: null
+  swift: KGCBKPP1
+    
+- name: "KUMGANG BANK"
+  city: "PYONGYANG"
+  branch: null
+  swift: KMBKKPP1
+    
+- name: "NORTH EAST ASIA BANK"
+  city: "PYONGYANG"
+  branch: null
+  swift: NEABKPP1
+    

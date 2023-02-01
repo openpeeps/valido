@@ -1,0 +1,2050 @@
+- name: "ABN AMRO SECURITIES (BRASIL) CORRETORA DE VALORES MOBILIARIOS SA"
+  city: "SAO PAULO"
+  branch: null
+  swift: AASBBRS1
+    
+- name: "ACCESSTAGE TECNOLOGIA LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: ACSTBRS1
+    
+- name: "ADVANCED CORRETORA DE CAMBIO LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: ADDRBRSP
+    
+- name: "AGENDA CCVM LTDA."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: AGCVBRR1
+    
+- name: "AGK CORRETORA DE CAMBIO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: AGKCBRS1
+    
+- name: "AGORA COR DE TITUL E VAL MOB"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: AGORBRR1
+    
+- name: "ALFA CCVM S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: ALCCBRS1
+    
+- name: "ALPES C.C.T.V.M. LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: ALPVBRS1
+    
+- name: "AMERICAN EXPRESS BANK (BRASIL) BANCO MULTIPLO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: AEIBBRS1
+    
+- name: "ANGLO FERROUS BRAZIL S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ANFEBRR1
+    
+- name: "ANZ PARTICIPACOES E SERVICOES LTDA."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ANZBBRR1
+    
+- name: "ARC CORRETORA DE CAMBIO, ASSOCIADOS GOUVEIA, CAMPEDELLI S.A."
+  city: "SANTOS"
+  branch: null
+  swift: ACCVBRS1
+    
+- name: "ATIVA INVESTIMENTOS S/A CTCV"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ACTCBRR1
+    
+- name: "ATIVA S/A CTV"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ATCTBRR1
+    
+- name: "AUREUM SOCIEDADE CORRETORA DE CAMBIO E VALORES MOBILIARIOS LTDA"
+  city: "CURITIBA"
+  branch: null
+  swift: AUREBRP1
+    
+- name: "B3 S.A. - BRASIL, BOLSA, BALCAO"
+  city: "SAO PAULO"
+  branch: DEPARTAMENTO DE CUSTODIA
+  swift: XBMFBRSPDBL
+    
+- name: "B3 S.A. - BRASIL, BOLSA, BALCAO"
+  city: "SAO PAULO"
+  branch: DIRETORIA DE LIQUIDACAO E CUSTODIA
+  swift: XBMFBRSPCRD
+    
+- name: "B3 S.A. - BRASIL, BOLSA, BALCAO"
+  city: "SAO PAULO"
+  branch: null
+  swift: XBMFBRSP
+    
+- name: "BANCO ABC BRASIL S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: ABCBBRSP
+    
+- name: "BANCO ABN AMRO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: ABNABRSP
+    
+- name: "BANCO ALFA DE INVESTIMENTO S.A., SAO PAULO"
+  city: "SAO PAULO"
+  branch: null
+  swift: AUFABRSP
+    
+- name: "BANCO ARBI S/A"
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: ARBBBRS10RS
+    
+- name: "BANCO ARBI S/A"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ARBBBRS1
+    
+- name: "BANCO ARBI S/A"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ARBBBRS10RJ
+    
+- name: "BANCO BBM S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BBINBRRJ
+    
+- name: "BANCO BBM S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BBINBRR10SP
+    
+- name: "BANCO BMFBOVESPA DE SERVICOS DE LIQUIDACAO E CUSTODIA S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BBMFBRSP
+    
+- name: "BANCO BMFBOVESPA DE SERVICOS DE LIQUIDACAO E CUSTODIA S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BBMFBRSPDBL
+    
+- name: "BANCO BMG S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: BMBCBRSP
+    
+- name: "BANCO BNP PARIBAS BRASIL S/A"
+  city: "BRASILIA"
+  branch: BANCO BNP PARIBAS BRASIL S/A
+  swift: BNPABRSPB2S
+    
+- name: "BANCO BNP PARIBAS BRASIL S/A"
+  city: "SAO PAULO"
+  branch: SAO PAOLO BRANCH
+  swift: BNPABRSP
+    
+- name: "BANCO BNP PARIBAS BRASIL S/A"
+  city: "SAO PAULO"
+  branch: WEALTH MANAGMENT
+  swift: BNPABRSPCWM
+    
+- name: "BANCO BONSUCESSO SA"
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: BBONBRSP
+    
+- name: "BANCO BPN BRASIL S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BPBMBRSP
+    
+- name: "BANCO BRADESCO S.A."
+  city: "BELEM"
+  branch: null
+  swift: BBDEBRSPBLM
+    
+- name: "BANCO BRADESCO S.A."
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: BBDEBRSPBHE
+    
+- name: "BANCO BRADESCO S.A."
+  city: "BLUMENAU"
+  branch: null
+  swift: BBDEBRSPBNU
+    
+- name: "BANCO BRADESCO S.A."
+  city: "BRASILIA"
+  branch: null
+  swift: BBDEBRSPBSA
+    
+- name: "BANCO BRADESCO S.A."
+  city: "CAMPINAS"
+  branch: null
+  swift: BBDEBRSPCAS
+    
+- name: "BANCO BRADESCO S.A."
+  city: "CURITIBA"
+  branch: null
+  swift: BBDEBRSPCTA
+    
+- name: "BANCO BRADESCO S.A."
+  city: "FORTALEZA"
+  branch: null
+  swift: BBDEBRSPFLA
+    
+- name: "BANCO BRADESCO S.A."
+  city: "FRANCA"
+  branch: null
+  swift: BBDEBRSPFAC
+    
+- name: "BANCO BRADESCO S.A."
+  city: "JOINVILLE"
+  branch: null
+  swift: BBDEBRSPJVE
+    
+- name: "BANCO BRADESCO S.A."
+  city: "MANAUS"
+  branch: null
+  swift: BBDEBRSPMNS
+    
+- name: "BANCO BRADESCO S.A."
+  city: "NOVO HAMBURGO"
+  branch: null
+  swift: BBDEBRSPNHO
+    
+- name: "BANCO BRADESCO S.A."
+  city: "OSASCO"
+  branch: DEPARTAMENTO DE ACOES E CUSTODIA
+  swift: BBDEBRSPDAC
+    
+- name: "BANCO BRADESCO S.A."
+  city: "OSASCO"
+  branch: PROCYON
+  swift: BBDEBRSPPCY
+    
+- name: "BANCO BRADESCO S.A."
+  city: "OSASCO"
+  branch: TES-TREASURY
+  swift: BBDEBRSPTES
+    
+- name: "BANCO BRADESCO S.A."
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: BBDEBRSPPAE
+    
+- name: "BANCO BRADESCO S.A."
+  city: "RECIFE"
+  branch: null
+  swift: BBDEBRSPRCE
+    
+- name: "BANCO BRADESCO S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BBDEBRSPRJO
+    
+- name: "BANCO BRADESCO S.A."
+  city: "SALVADOR"
+  branch: null
+  swift: BBDEBRSPSDR
+    
+- name: "BANCO BRADESCO S.A."
+  city: "SANTOS"
+  branch: null
+  swift: BBDEBRSPSTS
+    
+- name: "BANCO BRADESCO S.A."
+  city: "SAO PAULO"
+  branch: BANK RECONCILIATION
+  swift: BBDEBRSPCON
+    
+- name: "BANCO BRADESCO S.A."
+  city: "SAO PAULO"
+  branch: BRADEX
+  swift: BBDEBRSPBEX
+    
+- name: "BANCO BRADESCO S.A."
+  city: "SAO PAULO"
+  branch: BRANCH
+  swift: BBDEBRSPSPO
+    
+- name: "BANCO BRADESCO S.A."
+  city: "SAO PAULO"
+  branch: CASH MANAGEMENT
+  swift: BBDEBRSPCSH
+    
+- name: "BANCO BRADESCO S.A."
+  city: "SAO PAULO"
+  branch: HEAD OFFICE
+  swift: BBDEBRSPOCO
+    
+- name: "BANCO BRADESCO S.A."
+  city: "SAO PAULO"
+  branch: MATRIZ
+  swift: BBDEBRSPMTZ
+    
+- name: "BANCO BRADESCO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BBDEBRSP
+    
+- name: "BANCO BRADESCO S.A."
+  city: "VITORIA"
+  branch: null
+  swift: BBDEBRSPVTA
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "BELEM"
+  branch: null
+  swift: BCBBBRPRBLM
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: BCBBBRPRBHE
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "BLUMENAU"
+  branch: null
+  swift: BCBBBRPRBNU
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "CAMPINAS"
+  branch: null
+  swift: BCBBBRPRCAS
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "CURITIBA"
+  branch: HEAD OFFICE
+  swift: BCBBBRPR
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "CURITIBA"
+  branch: HSS FUNDS
+  swift: BCBBBRPRFDS
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "CURITIBA"
+  branch: TREASURY OPERATIONS
+  swift: BCBBBRPRTSY
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "CURITIBA"
+  branch: null
+  swift: BCBBBRPRCTA
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "FORTALEZA"
+  branch: null
+  swift: BCBBBRPRFLA
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "JOINVILLE"
+  branch: null
+  swift: BCBBBRPRJVE
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "MANAUS"
+  branch: null
+  swift: BCBBBRPRMNS
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "PARANAGUA"
+  branch: null
+  swift: BCBBBRPRPNG
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: BCBBBRPRPAE
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "RECIFE"
+  branch: null
+  swift: BCBBBRPRRCE
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BCBBBRPRRJO
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "SALVADOR"
+  branch: null
+  swift: BCBBBRPRSDR
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "SANTOS"
+  branch: null
+  swift: BCBBBRPRSTS
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "SAO PAULO"
+  branch: GLOBAL CUSTODY
+  swift: BCBBBRPRCGB
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "SAO PAULO"
+  branch: OFFSHORE FUNDS
+  swift: BCBBBRPROFS
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "SAO PAULO"
+  branch: null
+  swift: BCBBBRPRCOR
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "SAO PAULO"
+  branch: null
+  swift: BCBBBRPRNET
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "SAO PAULO"
+  branch: null
+  swift: BCBBBRPRSPO
+    
+- name: "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)"
+  city: "VITORIA"
+  branch: null
+  swift: BCBBBRPRVTA
+    
+- name: "BANCO BTG PACTUAL S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BPABBRRJ
+    
+- name: "BANCO CACIQUE S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BCUEBRS1
+    
+- name: "BANCO CAIXA GERAL-BRASIL S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: CGDIBRSP
+    
+- name: "BANCO CARGILL S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: BCBZBRSP
+    
+- name: "BANCO CENTRAL DO BRASIL"
+  city: "BRASILIA"
+  branch: DEPTO. DE ASSUNTOS INTERNACIONAIS
+  swift: BCBRBRDFORG
+    
+- name: "BANCO CENTRAL DO BRASIL"
+  city: "BRASILIA"
+  branch: FOREIGN RESERVES DEPARTMENT
+  swift: BCBRBRDFINT
+    
+- name: "BANCO CENTRAL DO BRASIL"
+  city: "BRASILIA"
+  branch: null
+  swift: BCBRBRDF
+    
+- name: "BANCO CHASE FLEMING SA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: GRBABRR1
+    
+- name: "BANCO CITIBANK SA"
+  city: "SAO PAULO"
+  branch: null
+  swift: CITIBRBR
+    
+- name: "BANCO CONFIDENCE DE CAMBIO SA"
+  city: "SAO PAULO"
+  branch: null
+  swift: BKCOBRSP
+    
+- name: "BANCO COOPERATIVO SICREDI SA - BANSICREDI"
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: BCSIBRRS
+    
+- name: "BANCO CREDIT AGRICOLE BRASIL SA"
+  city: "SAO PAULO"
+  branch: null
+  swift: BAGBBRSP
+    
+- name: "BANCO CRUZEIRO DO SUL S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BCSLBRS1
+    
+- name: "BANCO DA AMAZONIA S.A."
+  city: "BELEM"
+  branch: null
+  swift: AMABBRAB
+    
+- name: "BANCO DAYCOVAL S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: DAYCBRSP
+    
+- name: "BANCO DE DESENVOLVIMENTO DO ESPIRITO SANTO SA - BANDES"
+  city: "VITORIA"
+  branch: null
+  swift: BDOEBRR1
+    
+- name: "BANCO DE DESENVOLVIMENTO DO ESTADO DA BAHIA S.A."
+  city: "SALVADOR"
+  branch: null
+  swift: DBAHBRB1
+    
+- name: "BANCO DE DESENVOLVIMENTO DO ESTADO DO RIO DE JANEIRO SA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BDEJBRR1
+    
+- name: "BANCO DE DESENVOLVIMENTO DO PARANA SA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BADPBRR1
+    
+- name: "BANCO DE INVESTIMENTOS CREDIT SUISSE (BRASIL) S.A."
+  city: "SAO PAULO"
+  branch: HEDGING GRIFFO
+  swift: BIGABRRJHGF
+    
+- name: "BANCO DE INVESTIMENTOS CREDIT SUISSE (BRASIL) S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BIGABRRJ
+    
+- name: "BANCO DE INVESTIMENTOS CREDIT SUISSE (BRASIL) S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BIGABRRJSPO
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "RIO DE JANEIRO"
+  branch: SUCURSAL RIO DE JANEIRO
+  swift: NACNBRSPRJO
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "SAO PAULO"
+  branch: SUCURSAL SAN PAULO
+  swift: NACNBRSP
+    
+- name: "BANCO DE LA PROVINCIA DE BUENOS AIRES"
+  city: "SAO PAULO"
+  branch: null
+  swift: PRBABRSP
+    
+- name: "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY"
+  city: "SAO PAULO"
+  branch: null
+  swift: BROUBRSP
+    
+- name: "BANCO DE TOKYO-MITSUBISHI UFJ BRASIL S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: BOTKBRSX
+    
+- name: "BANCO DIGIBANCO S.A"
+  city: "SAO PAULO"
+  branch: null
+  swift: DBDIBRS1
+    
+- name: "BANCO DIMENSAO"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BDAOBRR1
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "BELO HORIZONTE"
+  branch: GECEX BELO HORIZONTE 
+  swift: BRASBRRJBHE
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "BLUMENAU"
+  branch: GECEX BLUMENAU
+  swift: BRASBRRJBNU
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "BRASILIA"
+  branch: GECEX BRASILIA 
+  swift: BRASBRRJBSA
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "BRASILIA"
+  branch: PREPAID CARD (DICAR)
+  swift: BRASBRRJPPC
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "BRASILIA"
+  branch: S.W.I.F.T. SUPPORT (INTERFACE/INFRASTRUCTURE)
+  swift: BRASBRRJSUP
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "BRASILIA"
+  branch: SWIFT FOR CORPORATES - DICOM
+  swift: BRASBRRJGFN
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "BRASILIA"
+  branch: null
+  swift: BRASBRRJ
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "CAMPINAS"
+  branch: GECEX CAMPINAS
+  swift: BRASBRRJCAS
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "CURITIBA"
+  branch: GECEX CURITIBA
+  swift: BRASBRRJCTA
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "PORTO ALEGRE"
+  branch: GECEX PORTO ALEGRE
+  swift: BRASBRRJPAE
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "RECIFE"
+  branch: GECEX RECIFE
+  swift: BRASBRRJRCE
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "RIBEIRAO PRETO"
+  branch: GECEX RIBEIRAO PRETO
+  swift: BRASBRRJRPO
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "RIO DE JANEIRO"
+  branch: ACCOUNT RECONCILIATION AND STATEMENTS (COGER)
+  swift: BRASBRRJCGR
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "RIO DE JANEIRO"
+  branch: ACCOUNT RECONCILIATION AND STATEMENTS
+  swift: BRASBRRJRJ1
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "RIO DE JANEIRO"
+  branch: ADR AMERICAN DEPOSITARY RECEIPTS (DIMEC) 
+  swift: BRASBRRJADR
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "RIO DE JANEIRO"
+  branch: GECEX RIO DE JANEIRO
+  swift: BRASBRRJRJO
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "RIO DE JANEIRO"
+  branch: INTERNACIONAL CASH MANAGEMENT AND FOREIGN EXCHANGE (DIFIN/DIMEC)
+  swift: BRASBRRJRJ3
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "SALVADOR"
+  branch: GECEX SALVADOR
+  swift: BRASBRRJSDR
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "SAO PAULO"
+  branch: FINANCIAL INSTITUTIONS (DIRIN)
+  swift: BRASBRRJIBR
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "SAO PAULO"
+  branch: GECEX SAO PAULO I
+  swift: BRASBRRJSBO
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "SAO PAULO"
+  branch: GECEX SAO PAULO II
+  swift: BRASBRRJSPO
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "SAO PAULO"
+  branch: GECEX SAO PAULO III
+  swift: BRASBRRJOCO
+    
+- name: "BANCO DO ESTADO DE GOIAS S A"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BESGBRR1
+    
+- name: "BANCO DO ESTADO DE SERGIPE S.A."
+  city: "ARACAJU"
+  branch: null
+  swift: SEEBBRR1
+    
+- name: "BANCO DO ESTADO DE SERGIPE S.A."
+  city: "ARACAJU"
+  branch: null
+  swift: SEEBBRR10B2
+    
+- name: "BANCO DO ESTADO DO PARA S.A."
+  city: "BELEM"
+  branch: null
+  swift: BEPABRAB
+    
+- name: "BANCO DO ESTADO DO RIO GRANDE DO SUL S/A"
+  city: "PORTO ALEGRE"
+  branch: HEAD OFFICE
+  swift: BRGSBRRSPAE
+    
+- name: "BANCO DO ESTADO DO RIO GRANDE DO SUL S/A"
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: BRGSBRRS
+    
+- name: "BANCO DO NORDESTE DO BRASIL S/A"
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: BNBRBRCFBHE
+    
+- name: "BANCO DO NORDESTE DO BRASIL S/A"
+  city: "FORTALEZA"
+  branch: HEAD OFFICE
+  swift: BNBRBRCF
+    
+- name: "BANCO DO NORDESTE DO BRASIL S/A"
+  city: "FORTALEZA"
+  branch: null
+  swift: BNBRBRCFFLA
+    
+- name: "BANCO DO NORDESTE DO BRASIL S/A"
+  city: "MACEIO"
+  branch: null
+  swift: BNBRBRCFMCO
+    
+- name: "BANCO DO NORDESTE DO BRASIL S/A"
+  city: "NATAL"
+  branch: null
+  swift: BNBRBRCFNTL
+    
+- name: "BANCO DO NORDESTE DO BRASIL S/A"
+  city: "RECIFE"
+  branch: null
+  swift: BNBRBRCFRCE
+    
+- name: "BANCO DO NORDESTE DO BRASIL S/A"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BNBRBRCFRJO
+    
+- name: "BANCO DO NORDESTE DO BRASIL S/A"
+  city: "SALVADOR"
+  branch: null
+  swift: BNBRBRCFSDR
+    
+- name: "BANCO DO NORDESTE DO BRASIL S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: BNBRBRCFSPO
+    
+- name: "BANCO FATOR SA"
+  city: "SAO PAULO"
+  branch: null
+  swift: BFATBRS1
+    
+- name: "BANCO FIBRA S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: FIBIBRSP
+    
+- name: "BANCO GENERAL MOTORS S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BGEMBRS1
+    
+- name: "BANCO GOLDMINE S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BOGOBRR1
+    
+- name: "BANCO INDUSTRIAL DO BRASIL S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: BIBRBRSP
+    
+- name: "BANCO INDUSVAL S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: IDVLBRSP
+    
+- name: "BANCO INTER-ATLANTICO DE INVESTIMENTO"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BIAIBRR1
+    
+- name: "BANCO INTERMEDIUM SA"
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: ITEMBRSP
+    
+- name: "BANCO ITAUBANK S.A"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: FNBBBRB1RJO
+    
+- name: "BANCO ITAUBANK S.A"
+  city: "SAO PAULO"
+  branch: SAO PAULO BRANCH
+  swift: FNBBBRB1SPO
+    
+- name: "BANCO ITAUBANK S.A"
+  city: "SAO PAULO"
+  branch: null
+  swift: FNBBBRB1
+    
+- name: "BANCO J.P. MORGAN S.A."
+  city: "SAO PAULO"
+  branch: DIRECT CUSTODY CLEARING
+  swift: CHASBRSPDCC
+    
+- name: "BANCO J.P. MORGAN S.A."
+  city: "SAO PAULO"
+  branch: GLOBAL CORE CAPABILITIES
+  swift: CHASBRSPGCC
+    
+- name: "BANCO J.P. MORGAN S.A."
+  city: "SAO PAULO"
+  branch: JPMORGAN TS MANAGEMENT
+  swift: CHASBRSPTSM
+    
+- name: "BANCO J.P. MORGAN S.A."
+  city: "SAO PAULO"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASBRSPKEY
+    
+- name: "BANCO J.P. MORGAN S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: CHASBRSP
+    
+- name: "BANCO KDB DO BRASIL S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: KODBBRSP
+    
+- name: "BANCO KEB HANA DO BRASIL S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: KOEXBRSP
+    
+- name: "BANCO LUSO BRASILEIRO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BLBCBRSP
+    
+- name: "BANCO MAXIMA S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BMAXBRRJ
+    
+- name: "BANCO MERCANTIL DO BRASIL S.A."
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: BMBRBRRB
+    
+- name: "BANCO MERCANTIL S.A."
+  city: "RECIFE"
+  branch: null
+  swift: BMBOBRC1
+    
+- name: "BANCO MERRILL LYNCH DE INVESTIMENTOS S.A."
+  city: "SAO PAULO"
+  branch: TRADES
+  swift: MLBOBRSXTRA
+    
+- name: "BANCO MERRILL LYNCH DE INVESTIMENTOS S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: MLBOBRSX
+    
+- name: "BANCO MINEIRO S.A."
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: MINBBRR1
+    
+- name: "BANCO MIZUHO DO BRASIL S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: MHCBBRSP
+    
+- name: "BANCO MODAL S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: MODABRRJ
+    
+- name: "BANCO MORGAN STANLEY DEAN WITTER S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: MSDWBRSP
+    
+- name: "BANCO MORGAN STANLEY DEAN WITTER S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: MSDWBRSPTSY
+    
+- name: "BANCO NACIONAL DE CREDITO COOPERATIVO"
+  city: "BRASILIA"
+  branch: null
+  swift: BNCCBRD1
+    
+- name: "BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL - BNDES"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: NACDBRRJ
+    
+- name: "BANCO NOROESTE CHEMICAL INVESTIMENTO"
+  city: "SAO PAULO"
+  branch: null
+  swift: NOCIBRS1
+    
+- name: "BANCO NOSSA CAIXA S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: NCXXBRS1
+    
+- name: "BANCO ORIGINAL DO AGRONEGOCIO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BJBSBRSP
+    
+- name: "BANCO ORIGINAL S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BORIBRSP
+    
+- name: "BANCO OURINVEST S.A"
+  city: "SAO PAULO"
+  branch: null
+  swift: OURIBRSP
+    
+- name: "BANCO PAN S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BPNMBRSP
+    
+- name: "BANCO PAULISTA S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: PAULBRSP
+    
+- name: "BANCO PINE S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: PBBRBRSP
+    
+- name: "BANCO REGIONAL DE DESENVOLVIMENTO DO EXTREMO SUL"
+  city: "CURITIBA"
+  branch: null
+  swift: RDESBRP1
+    
+- name: "BANCO REGIONAL DE DESENVOLVIMENTO DO EXTREMO SUL"
+  city: "FLORIANOPOLIS"
+  branch: null
+  swift: RDESBRP10RF
+    
+- name: "BANCO REGIONAL DE DESENVOLVIMENTO DO EXTREMO SUL"
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: RDESBRP10RS
+    
+- name: "BANCO RENDIMENTO S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: RENDBRSP
+    
+- name: "BANCO RIBEIRAO PRETO S.A"
+  city: "RIBEIRAO PRETO"
+  branch: null
+  swift: BRPOBRS1
+    
+- name: "BANCO RURAL S.A."
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: RUBABRR1
+    
+- name: "BANCO RURAL S.A."
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: RUBABRR1SIM
+    
+- name: "BANCO SAFRA S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: SAFRBRSPRJO
+    
+- name: "BANCO SAFRA S.A."
+  city: "SAO PAULO"
+  branch: HEAD OFFICE
+  swift: SAFRBRSP
+    
+- name: "BANCO SAFRA S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: SAFRBRSPSPO
+    
+- name: "BANCO SANTANDER (BRASIL) S.A."
+  city: "SAO PAULO"
+  branch: ASSET MANAGEMENT
+  swift: BSCHBRSPAST
+    
+- name: "BANCO SANTANDER (BRASIL) S.A."
+  city: "SAO PAULO"
+  branch: HEAD OFFICE
+  swift: BSCHBRSP
+    
+- name: "BANCO SANTANDER (BRASIL) S.A."
+  city: "SAO PAULO"
+  branch: SAO PAULO BRANCH
+  swift: BSCHBRSPSPO
+    
+- name: "BANCO SANTANDER (BRASIL) S.A."
+  city: "SAO PAULO"
+  branch: SECURITIES DEPARTMENT
+  swift: BSCHBRSPSEC
+    
+- name: "BANCO SANTANDER (BRASIL) S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BSCHBRSPBKR
+    
+- name: "BANCO SANTANDER (BRASIL) S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BSCHBRSPGEB
+    
+- name: "BANCO SOCIETE GENERALE BRASIL S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: BSOGBRSP
+    
+- name: "BANCO SOFISA S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BSBSBRSP
+    
+- name: "BANCO STANDARD DE INVESTIMENTOS S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: SBLLBRS1
+    
+- name: "BANCO SUL AMERICA S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BSUABRS1
+    
+- name: "BANCO SUMITOMO MITSUI BRASILEIRO S.A."
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: SUBRBRS10RB
+    
+- name: "BANCO SUMITOMO MITSUI BRASILEIRO S.A."
+  city: "BRASILIA"
+  branch: null
+  swift: SUBRBRS10DF
+    
+- name: "BANCO SUMITOMO MITSUI BRASILEIRO S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: SUBRBRS10RJ
+    
+- name: "BANCO SUMITOMO MITSUI BRASILEIRO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: SUBRBRSP
+    
+- name: "BANCO TOPAZIO S.A."
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: TOPZBRRS
+    
+- name: "BANCO UBS PACTUAL S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BOMGBRS1
+    
+- name: "BANCO VOTORANTIM S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BAVOBRSP
+    
+- name: "BANCO VOTORANTIM S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BAVOBRSPCST
+    
+- name: "BANCO WOORI BANK DO BRASIL"
+  city: "SAO PAULO"
+  branch: null
+  swift: HVBKBRSP
+    
+- name: "BANCO ZOGBI SA"
+  city: "SAO PAULO"
+  branch: null
+  swift: BCRSBRS1
+    
+- name: "BANDEIRANTES CREDITO IMOBILIARIO"
+  city: "SAO PAULO"
+  branch: null
+  swift: CIMBBRS1
+    
+- name: "BANESTES S.A. - BANCO DO ESTADO DO ESPIRITO SANTO"
+  city: "VITORIA"
+  branch: null
+  swift: BEESBRRJ
+    
+- name: "BANIF-BANCO INTERNACIONAL DO FUNCHAL (BRASIL), SA"
+  city: "SAO PAULO"
+  branch: null
+  swift: BNIFBRRJ
+    
+- name: "BANK OF AMERICA MERRILL LYNCH BANCO MULTIPLO S.A"
+  city: "SAO PAULO"
+  branch: null
+  swift: MLBOBRSP
+    
+- name: "BANK OF CHINA BRASIL S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BKCHBRSP
+    
+- name: "BANKBOSTON, N.A. BRAZIL"
+  city: "SAO PAULO"
+  branch: null
+  swift: FNBBBRS1
+    
+- name: "BANKO SUMITOMO MITSUI BRASILEIRO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: SCBRBRS1
+    
+- name: "BARING SECURITIES BRAZIL"
+  city: "SAO PAULO"
+  branch: null
+  swift: BSECBRS1
+    
+- name: "BB DISTR. DE TITULOS E VALORES MOBLS. S/A"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: DTVOBRR1
+    
+- name: "BB GESTAO DE RECURSOS DISTRIBUIDORA E VALORES MOBILIRIOS S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BBAMBRRJ
+    
+- name: "BBM I GESTAO DE RECURSOS LTDA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BBMIBRRJ
+    
+- name: "BCV - BANCO DE CREDITO E VAREJO S.A"
+  city: "SAO PAULO"
+  branch: null
+  swift: SCHABRSP
+    
+- name: "BDMG-BANCO DE DESENVOLVIMENTO DE MINAS GERAIS"
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: BDMGBRRB
+    
+- name: "BEXS BANCO DE CAMBIO S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: BEXSBRSP
+    
+- name: "BGC LIQUIDEZ DTVM LTDA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BGLDBRR1
+    
+- name: "BITTENCOURT S/A CTVC"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BICTBRR1
+    
+- name: "BMF - CAMARA DE DERIVATIVOS"
+  city: "SAO PAULO"
+  branch: DIRETORIA DE LIQUIDACAO E CUSTODIA
+  swift: XBMFBRBRCRD
+    
+- name: "BMF - CAMARA DE DERIVATIVOS"
+  city: "SAO PAULO"
+  branch: null
+  swift: XBMFBRBR
+    
+- name: "BNY MELLON SERVICOS FINANCEIROS DTVM SA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: BNYMBRRJ
+    
+- name: "BOLSA DE VALORES DE SAO PAULO"
+  city: "SAO PAULO"
+  branch: null
+  swift: XBSPBRS1
+    
+- name: "BOLSA DE VALORES DO RIO DE JANEIRO"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: XRIOBRR1
+    
+- name: "BR PARTNERS C.T.V.M. S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: PACVBRS1
+    
+- name: "BRADESCO S.A. CTVM"
+  city: "SAO PAULO"
+  branch: null
+  swift: BBDCBRS1
+    
+- name: "BRADESCO S/A CTVM"
+  city: "SAO PAULO"
+  branch: null
+  swift: BRCTBRS1
+    
+- name: "BRAM-BRADESCO ASSET MANAGEMENT"
+  city: "SAO PAULO"
+  branch: null
+  swift: BBDMBRSP
+    
+- name: "BRASCAN S/A CORRETORA DE TITULOS E VALORES"
+  city: "SAO PAULO"
+  branch: null
+  swift: BCDTBRS1
+    
+- name: "BRASIL PLURAL CCTVM SA"
+  city: "SAO PAULO"
+  branch: null
+  swift: FLCEBRS1
+    
+- name: "BRASIL PLURAL S.A. BANCO MULTIPLO"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: PLURBRRJ
+    
+- name: "BRB-BANCO DE BRASILIA S.A."
+  city: "BRASILIA"
+  branch: null
+  swift: BRBSBRDF
+    
+- name: "BRB-BANCO DE BRASILIA S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BRBSBRD1SPA
+    
+- name: "BROKER BRASIL CORRETORA DE CAMBIO LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: BBRCBRS1
+    
+- name: "CAIXA ECONOMICA DO ESTADO DO IO GRANDE DO SUL SA"
+  city: "CAXIAS DO SUL"
+  branch: null
+  swift: CEESBRR1
+    
+- name: "CAIXA ECONOMICA FEDERAL"
+  city: "SAO PAULO"
+  branch: null
+  swift: CEFXBRSP
+    
+- name: "CAMARA INTERBANCARIA DE PAGAMENTOS-CIP"
+  city: "SAO PAULO"
+  branch: null
+  swift: CCIPBRSP
+    
+- name: "CETIP / CENTRAL DE CUSTODIA E DE LIQUIDACAO FINANCEIRA DE TITULOS"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: CETIBRR1
+    
+- name: "CETIP S.A. BALCAO ORGANIZADO DE ATIVOS E DERIVATIVOS"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: CTIPBRR1
+    
+- name: "CETRO CTVM LTDA."
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: CECTBRR1
+    
+- name: "CHASE FLEMING S.A. CCVM"
+  city: "SAO PAULO"
+  branch: null
+  swift: GRAPBRS1
+    
+- name: "CHINA CONSTRUCTION BANK (BRASIL) BANCO MULTIPLO S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: BICBBRSP
+    
+- name: "CITIBANK N.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: CITIBRSPRJO
+    
+- name: "CITIBANK N.A."
+  city: "SAO PAULO"
+  branch: HEAD OFFICE
+  swift: CITIBRSPHOF
+    
+- name: "CITIBANK N.A."
+  city: "SAO PAULO"
+  branch: INTERNATIONAL SECURITY
+  swift: CITIBRSPSEC
+    
+- name: "CITIBANK N.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: CITIBRSP
+    
+- name: "CITIBANK N.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: CITIBRSX
+    
+- name: "CITIGROUP GLOBAL MARKETS BRASIL CCTVM SA"
+  city: "SAO PAULO"
+  branch: null
+  swift: CGMBBRS1
+    
+- name: "CITY CCVM LTDA."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: CICCBRR1
+    
+- name: "CM CAPITAL MARKETS CCTVM LTDA."
+  city: "SAO PAULO"
+  branch: null
+  swift: CAKCBRS1
+    
+- name: "COINVALORES CCVM LTDA."
+  city: "SAO PAULO"
+  branch: null
+  swift: COCCBRS1
+    
+- name: "COMMERZBANK BRASIL S.A. - BANCO MULTIPLO"
+  city: "SAO PAULO"
+  branch: null
+  swift: COBABRSP
+    
+- name: "COMPANHIA BRASILEIRA DE LIQUIDACAO E CUSTODIA"
+  city: "SAO PAULO"
+  branch: null
+  swift: CLCBBRRJ
+    
+- name: "COMPANHIA PROVIDENCIA INDUSTRIA E COMERCIO"
+  city: "SAO JOSE DOS PINHAIS"
+  branch: null
+  swift: CPICBRP1
+    
+- name: "CONCORDIA SA CVMCC"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: CNCVBRR1
+    
+- name: "CONCORDIA SA CVMCC"
+  city: "SAO PAULO"
+  branch: null
+  swift: CNCVBRR1001
+    
+- name: "CONVENCAO S/A CORRETORA DE VALORES E CAMBIO"
+  city: "SAO PAULO"
+  branch: null
+  swift: CCVCBRS1
+    
+- name: "COOPERATIVA CENTRAL CREDITO RURAL RGS LTDA"
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: CCCRBRR1
+    
+- name: "COOPERATIVA DE CREDITO RURAL DO OESTE LTDA"
+  city: "BAHIA"
+  branch: null
+  swift: CCRLBRB1
+    
+- name: "COTACAO DISTRIBUIDORA DE TITULOS E VALORES MOBS S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: CDTVBRS1
+    
+- name: "CREDIT SUISSE FIRST BOSTON SA CTVM"
+  city: "SAO PAULO"
+  branch: null
+  swift: CSFBBRS1
+    
+- name: "CREDIT SUISSE HEDGING GRIFFO"
+  city: "SAO PAULO"
+  branch: null
+  swift: HEDGBRS1
+    
+- name: "CRUZEIRO DO SUL CORRETORA DE VALORES"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: CSCVBRR1
+    
+- name: "DEUTSCHE BANK CV S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: DEUTBRS1
+    
+- name: "DEUTSCHE BANK S.A. - BANCO ALEMAO"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: DEUTBRSPRJO
+    
+- name: "DEUTSCHE BANK S.A. - BANCO ALEMAO"
+  city: "SAO PAULO"
+  branch: null
+  swift: DEUTBRSP
+    
+- name: "DEUTSCHE BANK S.A. - BANCO ALEMAO"
+  city: "SAO PAULO"
+  branch: null
+  swift: DEUTBRSPCUS
+    
+- name: "DEUTSCHE BANK S.A. - BANCO ALEMAO"
+  city: "SAO PAULO"
+  branch: null
+  swift: DEUTBRSPSPO
+    
+- name: "DISTRIBUIDORA BANK OF BOSTON DTVM S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: DIBDBRS1
+    
+- name: "DOURADA CAMBIO"
+  city: "CURITIBA"
+  branch: null
+  swift: DOABBRP1
+    
+- name: "ELITE CCVM LTDA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ELCCBRR1
+    
+- name: "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS - ECT"
+  city: "BRASILIA"
+  branch: null
+  swift: EBCTBRD1
+    
+- name: "EQUITY CP - CCV S/A"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: EQCCBRR1
+    
+- name: "ESTRATEGIA INVESTIMENTOS S/A CVC"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ESTRBRRJ
+    
+- name: "FATOR - DORIA ATHERINO S/A CV"
+  city: "SAO PAULO"
+  branch: null
+  swift: FADABRS1
+    
+- name: "FATOR S.A. CORRETORA DE VALORES"
+  city: "SAO PAULO"
+  branch: null
+  swift: FATOBRS1
+    
+- name: "FIBRA ASSET MANAGEMENT DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: FDTVBRS1
+    
+- name: "FINABANK CORRETORA DE CAMBIO TITULOS E VALORES MOBILIARIOS LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: FCCTBRS1
+    
+- name: "FINASA-SUPLICY C.C.V.M. S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: FISUBRS1
+    
+- name: "FITCH RATINGS BRASIL LTDA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: FRIPBRR1
+    
+- name: "GARANTIA DTVM S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: GADTBRS1
+    
+- name: "GAVEA INVESTIMENTOS LTDA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: GAIVBRR1
+    
+- name: "GBM BRASIL DTVM S.A."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: GBBDBRR1
+    
+- name: "GBTD BRASIL"
+  city: "SAO PAULO"
+  branch: null
+  swift: GBBRBRS1
+    
+- name: "GERACAO CORRETORA DE VALORES LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: GERABRS1
+    
+- name: "GERACAO FUTURO CORRETORA DE VALORES SA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: GFCVBRR1
+    
+- name: "GIB AMERICAS-BRASIL"
+  city: "SAO PAULO"
+  branch: null
+  swift: GIBMBRS1
+    
+- name: "GOLDMAN SACHS DO BRASIL BANCO MULTIPLO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: GOLDBRSP
+    
+- name: "GOLDMAN SACHS DO BRASIL CORRETORA DE VALORES MOBILIARIOS S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: GSBCBRSP
+    
+- name: "GRADUAL C.C.T.V.M. LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: GRADBRS1
+    
+- name: "HAITONG BANCO DE INVESTIMENTODO BRASIL S.A."
+  city: "SAO PAULO"
+  branch: HAITONG SECURITIES
+  swift: BESBBRSPBES
+    
+- name: "HAITONG BANCO DE INVESTIMENTODO BRASIL S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: BESBBRSP
+    
+- name: "HSBC BRASIL S/A - BANCO DE INVESTIMENTO"
+  city: "SAO PAULO"
+  branch: null
+  swift: HSBNBRSS
+    
+- name: "HSBC CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.  HSBC CTVM"
+  city: "SAO PAULO"
+  branch: null
+  swift: HCTVBRS1
+    
+- name: "ICAP DO BRASIL DTVM LTDA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ICBDBRR1
+    
+- name: "ICATU DTVM LTDA."
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ICATBRRJ
+    
+- name: "INDOSUEZ CAPITAL DTVM S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: DTVMBRS1
+    
+- name: "INDOSUEZ W.I. CARR SECURITIES (BRAZIL) DTVM S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: WICABRS1
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA(BRAZIL)"
+  city: "SAO PAULO"
+  branch: null
+  swift: ICBKBRSP
+    
+- name: "ING BANK N.V."
+  city: "SAO PAULO"
+  branch: ASSET TRADING ADMINISTRATION
+  swift: INGBBRSPATA
+    
+- name: "ING BANK N.V."
+  city: "SAO PAULO"
+  branch: null
+  swift: INGBBRSP
+    
+- name: "INTESA SANPAOLO BRASIL S.A. - BANCO MULTIPLO"
+  city: "SAO PAULO"
+  branch: null
+  swift: BCITBRSP
+    
+- name: "INTL FCSTONE DTVM LTDA."
+  city: "SAO PAULO"
+  branch: null
+  swift: ITFDBRSP
+    
+- name: "INTRA S/A CCV"
+  city: "SAO PAULO"
+  branch: null
+  swift: INCVBRS1
+    
+- name: "ITAU ASSET MANAGEMENT"
+  city: "SAO PAULO"
+  branch: null
+  swift: ITSABRS1
+    
+- name: "ITAU UNIBANCO - IAM"
+  city: "SAO PAULO"
+  branch: null
+  swift: ITUIBRS1
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "BELO HORIZONTE"
+  branch: null
+  swift: ITAUBRSPBHE
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "BLUMENAU"
+  branch: null
+  swift: ITAUBRSPBNU
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "CAMPINAS"
+  branch: null
+  swift: ITAUBRSPCAS
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "CURITIBA"
+  branch: null
+  swift: ITAUBRSPCTA
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "JOINVILLE"
+  branch: null
+  swift: ITAUBRSPJVE
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "NOVO HAMBURGO"
+  branch: null
+  swift: ITAUBRSPNHO
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: ITAUBRSPPAE
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: ITAUBRSPRJO
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "SAO PAULO"
+  branch: ASSESSORIA ADR
+  swift: ITAUBRSPADR
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "SAO PAULO"
+  branch: CUSTODIA LOCAL
+  swift: ITAUBRSPLOC
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "SAO PAULO"
+  branch: GERENCIA DE FUNDOS E CARTEIRAS INTERNACIONAL
+  swift: ITAUBRSPINT
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "SAO PAULO"
+  branch: GERENCIA DE FUNDOS E CARTEIRAS INTERNACIONAL
+  swift: ITAUBRSPISS
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "SAO PAULO"
+  branch: HEAD OFFICE
+  swift: ITAUBRSP
+    
+- name: "ITAU UNIBANCO S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: ITAUBRSPSPO
+    
+- name: "ITAU UNIBANCO S/A (SUCCESSOR OF BANCO ITAU BBA S.A.)"
+  city: "BELO HORIZONTE"
+  branch: BELO HORIZONTE BRANCH
+  swift: CBBABRSPBHE
+    
+- name: "ITAU UNIBANCO S/A (SUCCESSOR OF BANCO ITAU BBA S.A.)"
+  city: "CAMPINAS"
+  branch: CAMPINAS BRANCH
+  swift: CBBABRSPCAS
+    
+- name: "ITAU UNIBANCO S/A (SUCCESSOR OF BANCO ITAU BBA S.A.)"
+  city: "PORTO ALEGRE"
+  branch: PORTO ALEGRE BRANCH
+  swift: CBBABRSPPAE
+    
+- name: "ITAU UNIBANCO S/A (SUCCESSOR OF BANCO ITAU BBA S.A.)"
+  city: "RIO DE JANEIRO"
+  branch: RIO DE JANEIRO BRANCH
+  swift: CBBABRSPRJO
+    
+- name: "ITAU UNIBANCO S/A (SUCCESSOR OF BANCO ITAU BBA S.A.)"
+  city: "SAO PAULO"
+  branch: null
+  swift: CBBABRSP
+    
+- name: "JP MORGAN DISTRIBUIDORA"
+  city: "SAO PAULO"
+  branch: null
+  swift: JODIBRS1
+    
+- name: "JPM CCTVM S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: JPCCBRS1
+    
+- name: "JPM COR DE CAM TITU E VAL MOB S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: JPMCBRS1
+    
+- name: "LIBERAL S/A COR DE CAM E VAL MOB"
+  city: "SAO PAULO"
+  branch: null
+  swift: LIBEBRS1
+    
+- name: "MAGLIANO S.A. CORRETORA DE CAMBIO E VALORES MOBILIARIOS"
+  city: "SAO PAULO"
+  branch: null
+  swift: MCALBRS1
+    
+- name: "MERCEDES-BENZ DO BRASIL LTDA"
+  city: "SAO BERNARDO DO CAMPO"
+  branch: INDUSTRIAL ACCOUNTS
+  swift: DABEBRSXIBA
+    
+- name: "MERCEDES-BENZ DO BRASIL LTDA"
+  city: "SAO BERNARDO DO CAMPO"
+  branch: null
+  swift: DABEBRSX
+    
+- name: "MERRILL LYNCH DTVM"
+  city: "SAO PAULO"
+  branch: null
+  swift: MLDTBRS1
+    
+- name: "MERRILL LYNCH S.A. CORRETORA DE TITULOS E VALORES MOBILIARIOS"
+  city: "SAO PAULO"
+  branch: null
+  swift: MLCVBRS1
+    
+- name: "MIDBANK-BANCO DE INVESTIMENTO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: MIINBRS1
+    
+- name: "MIRAE ASSET SECURITIES (BRASIL) C.T.V.M. LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: MACBBRS1
+    
+- name: "MIRAE ASSET SECURITIES (BRASIL) CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS LTDA."
+  city: "SAO PAULO"
+  branch: null
+  swift: MIAEBRSP
+    
+- name: "MOBIS BRASIL FABRICACAO DE AUTO PECAS LTDA."
+  city: "SAO PAULO"
+  branch: null
+  swift: HYMOBRS1
+    
+- name: "MOODY'S AMERICA LATINA LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: MOATBRS1
+    
+- name: "MORGAN STANLEY"
+  city: "SAO PAULO"
+  branch: null
+  swift: MSSPBRS1
+    
+- name: "MS BANK SA BANCO DE CAMBIO"
+  city: "CURITIBA"
+  branch: null
+  swift: MSBOBRPR
+    
+- name: "MULTIPLIC BANCO DE INVESTIMENTO S/A"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: MUBABRS10RJ
+    
+- name: "MULTIPLIC BANCO DE INVESTIMENTO S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: MUBABRS1
+    
+- name: "MULTIPLIC CVM S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: MUCVBRS1
+    
+- name: "NESTLE BRAZIL LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: NESNBRSX
+    
+- name: "NOVA FUTURA D.T.V.M. LTDA."
+  city: "SAO PAULO"
+  branch: null
+  swift: NOFVBRS1
+    
+- name: "NOVACAO S/A CCVM"
+  city: "SAO PAULO"
+  branch: null
+  swift: NOCCBRS1
+    
+- name: "NOVINVEST S/A CVM"
+  city: "SAO PAULO"
+  branch: null
+  swift: NOCVBRS1
+    
+- name: "NOVO BANCO CONTINENTAL S.A."
+  city: "PORTO ALEGRE"
+  branch: null
+  swift: COMEBRRS
+    
+- name: "PARANA BANCO S.A."
+  city: "CURITIBA"
+  branch: null
+  swift: PARABRPR
+    
+- name: "PETRA - PERSONAL TRADER CORRETORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  city: "CURITIBA"
+  branch: null
+  swift: PTRABRP1
+    
+- name: "PIONEER CORRETORA DE CAMBIO LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: PCCMBRS1
+    
+- name: "PLANIBANC CV S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: PLACBRS1
+    
+- name: "PLANNER CORRETORA DE VALORES S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: PLAEBRS1
+    
+- name: "PRIME S/A CORRETORA DE CAMBIO E VALORES"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: PRCCBRR1
+    
+- name: "PROSPER S/A CVC"
+  city: "SAO PAULO"
+  branch: null
+  swift: PRVVBRS1
+    
+- name: "PRUDENTIAL DO BRASIL SEGUROS DE VIDA SA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: PBSVBRR1
+    
+- name: "QUANTIA DTVM LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: QUCCBRR1
+    
+- name: "RABOBANK BRASIL"
+  city: "SAO PAULO"
+  branch: null
+  swift: RABOBRSP
+    
+- name: "RENASCENCA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA."
+  city: "SAO PAULO"
+  branch: null
+  swift: RDTVBRS1
+    
+- name: "RMC S/A SC"
+  city: "SAO PAULO"
+  branch: null
+  swift: RMCRBRS1
+    
+- name: "ROYAL BANK OF CANADA (BRASIL) S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: ROYCBRS1
+    
+- name: "S.HAYATA CORRETORA DE CAMBIO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: SHAYBRS1
+    
+- name: "SAMSUNG ELECTRONICA DA AMAZONIA LTDA."
+  city: "SAO PAULO"
+  branch: SEDA
+  swift: SECTBRS1820
+    
+- name: "SAMSUNG ELECTRONICA DA AMAZONIA LTDA."
+  city: "SAO PAULO"
+  branch: null
+  swift: SECTBRS1
+    
+- name: "SANTANDER BRASIL GESTO DE RECURSOS LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: SBGRBRSP
+    
+- name: "SANTANDER BRASIL S/A CTVM"
+  city: "SAO PAULO"
+  branch: null
+  swift: SABVBRS1
+    
+- name: "SANTANDER SECURITIES SERVICES BRASIL DISTRIBUIDORA DE TTULOS E VALORES MOBILIRIOS S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: SSSBBRSP
+    
+- name: "SCHAHIN CCVM S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: SCHVBRS1
+    
+- name: "SCHRODER INVESTMENT MANAGEMENT BRASIL"
+  city: "SAO PAULO"
+  branch: null
+  swift: SCHRBRS1
+    
+- name: "SCOTIABANK BRASIL S.A.-BANCO MULTIPLO"
+  city: "SAO PAULO"
+  branch: null
+  swift: NOSCBRSP
+    
+- name: "SLW CORRETORA DE VALORES E CAMBIO LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: SCVBBRS1
+    
+- name: "SOCOPA SOCIEDADE CORRETORA PAULISTA S/A."
+  city: "SAO PAULO"
+  branch: null
+  swift: SCPABRS1
+    
+- name: "SPECIAL SETTLEMENT AND CUSTODY SYSTEM (SELIC)"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: SSCSBRR1
+    
+- name: "SPINELLI S/A - CORRETORA DE VALORES MOBILIARIOS E CAMBIO"
+  city: "SAO PAULO"
+  branch: null
+  swift: SCVCBRS1
+    
+- name: "SQUANTO INVESTIMENTOS LTD"
+  city: "SAO PAULO"
+  branch: null
+  swift: SQINBRS1
+    
+- name: "STANDARD CHARTERED BANK (BRASIL) S.A.-BANCO DE INVESTIMENTO"
+  city: "SAO PAULO"
+  branch: null
+  swift: SCBLBRSP
+    
+- name: "STAREXPORT TRADING S.A."
+  city: "SAO BERNARDO DO CAMPO"
+  branch: null
+  swift: DATRBRSX
+    
+- name: "STOCK S/A COR DE CAM E VAL"
+  city: "SAO PAULO"
+  branch: null
+  swift: SCCVBRS1
+    
+- name: "TALARICO CORRETORA DE CAMBIO E TITULOS MOBILIARIOSLTDA."
+  city: "SAO PAULO"
+  branch: null
+  swift: TALABRS1
+    
+- name: "TESE GESTAO DE INVESTIMENTOS LTDA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: TEGIBRR1
+    
+- name: "THE ROYAL BANK OF SCOTLAND BRASIL S.A.-BANCO DE   INVESTIMENTO"
+  city: "SAO PAULO"
+  branch: null
+  swift: RBOSBRS1
+    
+- name: "THECA CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: THECBRS1
+    
+- name: "TITULO CORRETORA DE VALORES S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: TITUBRS1
+    
+- name: "TOV CCTVM LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: TOVCBRS1
+    
+- name: "TOV CORRETORA DE TITULOS, CAMBIO E VALORES MOBILIARIOS LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: TCTCBRS1
+    
+- name: "TRUSTEE INVESTMENTS S/A"
+  city: "SAO PAULO"
+  branch: null
+  swift: TRUIBRSP
+    
+- name: "TS-TRISTAR IMPERIAL, SECURITIES AND FINANCE LTDA SERVICE CENTRE IMPERIAL"
+  city: "GOIANIA"
+  branch: null
+  swift: TISNBRD1
+    
+- name: "UBS BRASIL BANCO DE INVESTIMENTO S.A."
+  city: "SAO PAULO"
+  branch: null
+  swift: UBSWBRSP
+    
+- name: "UBS BRASIL CCTVM"
+  city: "SAO PAULO"
+  branch: null
+  swift: LICTBRS1
+    
+- name: "UM INVESTIMENTOS"
+  city: "SAO PAULO"
+  branch: null
+  swift: UMINBRS1
+    
+- name: "UNIPRIME NORTE DO PARAN  COOPERATIVA D"
+  city: "LONDRINA"
+  branch: null
+  swift: UNPABRPR
+    
+- name: "VOTORANTIM CORRETORA DE TIT E VAL MOB LTDA"
+  city: "SAO PAULO"
+  branch: null
+  swift: VCTMBRSP
+    
+- name: "XP INVESTIMENTOS CCTVM SA"
+  city: "RIO DE JANEIRO"
+  branch: null
+  swift: IVCCBRR1
+    

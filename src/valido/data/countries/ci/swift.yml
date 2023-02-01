@@ -1,0 +1,420 @@
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: ADF
+  swift: AFDBCIABADF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: AFRICA INTEGRITY FUND
+  swift: AFDBCIABAIF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: AFRICAN LEGAL SUPPORT FACILITY
+  swift: AFDBCIABALS
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: AREI
+  swift: AFDBCIABARE
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: GAFSA TRUST FUND
+  swift: AFDBCIABGAF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: MAKING FINANCE
+  swift: AFDBCIABMFW
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: PIDA ACCOUNT
+  swift: AFDBCIABPID
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: RWSSI
+  swift: AFDBCIABRWS
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: TREASURY DEPARTMENT
+  swift: AFDBCIABTRY
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIAB
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABAGT
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABAMI
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABATF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABAWF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABCBF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABDRC
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABFAP
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABFSF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABITF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABLTW
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABMCB
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABMDT
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABMIC
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABNPD
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABNTF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABPRS
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABSEF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABSRF
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABSRP
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABWAT
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFDBCIABZMD
+    
+- name: "AFRILAND FIRST BANK COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: OMFNCIAB
+    
+- name: "ALIOS FINANCE (SAFCA)"
+  city: "ABIDJAN"
+  branch: null
+  swift: SOACCIAB
+    
+- name: "BANK OF AFRICA - COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: AFRICIAB
+    
+- name: "BANQUE ATLANTIQUE COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: ATCICIAB
+    
+- name: "BANQUE ATLANTIQUE COTE D'IVOIRE"
+  city: "SAN PEDRO"
+  branch: null
+  swift: ATCICIABSAN
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "ABENGOUROU"
+  branch: ABENGOUROU BRANCH
+  swift: BCAOCIABABE
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "ABIDJAN"
+  branch: null
+  swift: BCAOCIAB
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "BOUAKE"
+  branch: BOUAKE BRANCH
+  swift: BCAOCIABBOU
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "DALOA"
+  branch: DALOA BRANCH
+  swift: BCAOCIABDAL
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "KORHOGO"
+  branch: KORHOGO BRANCH
+  swift: BCAOCIABKOR
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "MAN"
+  branch: MAN BRANCH
+  swift: BCAOCIABMAN
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "SAN PEDRO"
+  branch: SAN PEDRO BRANCH
+  swift: BCAOCIABSAN
+    
+- name: "BANQUE DABIDJAN, SA."
+  city: "ABIDJAN"
+  branch: null
+  swift: BDAJCIAB
+    
+- name: "BANQUE DE L'HABITAT DE COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: BHCICIAB
+    
+- name: "BANQUE DE L'UNION - COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: BDUTCIAB
+    
+- name: "BANQUE DES DEPOTS DU TRESOR PUBLIC"
+  city: "ABIDJAN"
+  branch: null
+  swift: BQTRCIAD
+    
+- name: "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: PLATEAU
+  swift: BICICIABPLT
+    
+- name: "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: SUD
+  swift: BICICIABSUD
+    
+- name: "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: BICICIAB
+    
+- name: "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: BICICIABBSE
+    
+- name: "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE"
+  city: "BOUAKE"
+  branch: null
+  swift: BICICIABBKE
+    
+- name: "BANQUE MALIENNE DE SOLIDARITE COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: BSOICIAB
+    
+- name: "BANQUE NATIONALE D'INVESTISSEMENT"
+  city: "ABIDJAN"
+  branch: null
+  swift: CSSSCIAB
+    
+- name: "BANQUE REGIONALE DE MARCHES"
+  city: "ABIDJAN"
+  branch: null
+  swift: BRMXCIAB
+    
+- name: "BGFIBANK COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: BGFICIAB
+    
+- name: "BIAO INVESTISSEMENT"
+  city: "ABIDJAN"
+  branch: null
+  swift: BRCICIA1
+    
+- name: "BOURSE DES VALEURS ABIDJAN"
+  city: "ABIDJAN"
+  branch: null
+  swift: XABJCIA1
+    
+- name: "BOURSE REGIONALE DES VALEURS MOBILIERES"
+  city: "ABIDJAN"
+  branch: null
+  swift: BRVICIA1
+    
+- name: "BRIDGE BANK GROUP COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: BGCDCIAB
+    
+- name: "BSIC COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: BSAHCIAB
+    
+- name: "CAISSE NATIONALE DES CAISSE EPARGNE"
+  city: "ABIDJAN"
+  branch: null
+  swift: CNCGCIAB
+    
+- name: "CITIBANK N.A."
+  city: "ABIDJAN"
+  branch: null
+  swift: CITICIAX
+    
+- name: "COFIPA INVESTMENT BANK CI"
+  city: "ABIDJAN"
+  branch: null
+  swift: IBCICIAB
+    
+- name: "CORIS BANK INTERNATIONAL"
+  city: "ABIDJAN"
+  branch: null
+  swift: CORICIAB
+    
+- name: "DIAMONDBANK COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: DBLNCIAB
+    
+- name: "ECOBANK - COTE D'IVOIRE S.A."
+  city: "ABIDJAN"
+  branch: null
+  swift: ECOCCIAB
+    
+- name: "EXPORT-IMPORT BANK OF KOREA, THE"
+  city: "ABIDJAN"
+  branch: null
+  swift: EXIKCIA1
+    
+- name: "GUARANTY TRUST BANK COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: GTBICIAB
+    
+- name: "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)"
+  city: "ABIDJAN"
+  branch: HEAD OFFICE
+  swift: BIAOCIAB
+    
+- name: "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)"
+  city: "BOUAKE"
+  branch: null
+  swift: BIAOCIAB032
+    
+- name: "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)"
+  city: "DALOA"
+  branch: null
+  swift: BIAOCIAB034
+    
+- name: "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)"
+  city: "KORHOGO"
+  branch: null
+  swift: BIAOCIAB033
+    
+- name: "ORABANK COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: ORBKCIAB
+    
+- name: "PARIBAS"
+  city: "ABIDJAN"
+  branch: null
+  swift: PARBCIA1
+    
+- name: "SGI HUDSON AND CIE"
+  city: "ABIDJAN"
+  branch: null
+  swift: SGHUCIA1
+    
+- name: "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: SGCICIAB
+    
+- name: "SOCIETE IVOIRIENNE DE BANQUE"
+  city: "ABIDJAN"
+  branch: SIEGE
+  swift: SIVBCIAB
+    
+- name: "STANBIC BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: SBICCIAB
+    
+- name: "STANDARD CHARTERED BANK COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: SECURITIES SERVICES
+  swift: SCBLCIABSSU
+    
+- name: "STANDARD CHARTERED BANK COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: STORM II
+  swift: SCBLCIABSTM
+    
+- name: "STANDARD CHARTERED BANK COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: SCBLCIAB
+    
+- name: "UNITED BANK FOR AFRICA COTE D'IVOIRE"
+  city: "ABIDJAN"
+  branch: null
+  swift: UNAFCIAB
+    
+- name: "VERSUS BANK"
+  city: "ABIDJAN"
+  branch: null
+  swift: VSBKCIAB
+    

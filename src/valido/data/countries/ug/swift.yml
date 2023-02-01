@@ -1,0 +1,255 @@
+- name: "ABC CAPITAL BANK LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: ABCFUGKA
+    
+- name: "ALT XCHANGE LIMITED."
+  city: "KAMPALA"
+  branch: null
+  swift: ULTXUGK1
+    
+- name: "BANK OF AFRICA-UGANDA LTD."
+  city: "KAMPALA"
+  branch: null
+  swift: AFRIUGKA
+    
+- name: "BANK OF BARODA (UGANDA) LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: BARBUGKA
+    
+- name: "BANK OF INDIA (UGANDA) LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: BKIDUGKA
+    
+- name: "BANK OF UGANDA"
+  city: "KAMPALA"
+  branch: LETTERS OF CREDIT PROCESSING
+  swift: UGBAUGKABKG
+    
+- name: "BANK OF UGANDA"
+  city: "KAMPALA"
+  branch: null
+  swift: UGBAUGKA
+    
+- name: "BARCLAYS BANK OF UGANDA LTD."
+  city: "KAMPALA"
+  branch: null
+  swift: BARCUGKX
+    
+- name: "BRITISH AMERICAN TOBACCO UGANDA LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: BATSUGK1
+    
+- name: "CAIRO INTERNATIONAL BANK LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: CAIEUGKA
+    
+- name: "CENTENARY RURAL DEVELOPMENT BANK LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: CERBUGKA
+    
+- name: "CITIBANK UGANDA LIMITED"
+  city: "KAMPALA"
+  branch: TRADE SERVICES DEPT
+  swift: CITIUGKATRD
+    
+- name: "CITIBANK UGANDA LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: CITIUGKA
+    
+- name: "COMMERCIAL BANK OF AFRICA UGANDA LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: CBAFUGKA
+    
+- name: "CO-OPERATIVE BANK LTD.,THE"
+  city: "KAMPALA"
+  branch: null
+  swift: COPBUGK1
+    
+- name: "CRANE BANK LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: CRANUGKA
+    
+- name: "CRESTED STOCKS AND SECURITIES LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: CRKSUGK1
+    
+- name: "DFCU BANK LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: DFCUUGKA
+    
+- name: "DIAMOND TRUST BANK UGANDA LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: DTKEUGKA
+    
+- name: "EAST AFRICAN DEVELOPMENT BANK"
+  city: "KAMPALA"
+  branch: null
+  swift: AFDEUGKA
+    
+- name: "ECOBANK UGANDA"
+  city: "KAMPALA"
+  branch: null
+  swift: ECOCUGKA
+    
+- name: "ENGIPLAN CONSULTANTS"
+  city: "KAMPALA"
+  branch: null
+  swift: ENCOUGK1
+    
+- name: "EQUITY BANK UGANDA LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: EQBLUGKA
+    
+- name: "EQUITY STOCK BROKERS"
+  city: "KAMPALA"
+  branch: null
+  swift: EQSBUGK1
+    
+- name: "EXIM BANK (UGANDA) LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: EXTNUGKA
+    
+- name: "FINANCE TRUST BANK LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: FTBLUGKA
+    
+- name: "GOLD TRUST BANK"
+  city: "KAMPALA"
+  branch: null
+  swift: GOLTUGK1
+    
+- name: "GUARANTY TRUST BANK (UGANDA) LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: GTBIUGKA
+    
+- name: "HOUSING FINANCE BANK LTD."
+  city: "KAMPALA"
+  branch: null
+  swift: HFINUGKA
+    
+- name: "INTERNATIONAL CREDIT BANK LTD."
+  city: "KAMPALA"
+  branch: null
+  swift: ICFBUGK1
+    
+- name: "KCB BANK UGANDA LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: KCBLUGKA
+    
+- name: "M/D TRANS AFRICA BANK"
+  city: "KAMPALA"
+  branch: null
+  swift: TRARUGK1
+    
+- name: "MBEA BROKERAGE SERVICES (U) LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: MBRSUGK1
+    
+- name: "MERCANTILE CREDIT BANK LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: MCBDUGK1
+    
+- name: "NC BANK UGANDA LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: NINCUGKA
+    
+- name: "NILE BANK LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: NLBKUGK1
+    
+- name: "ORIENT BANK LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: ORINUGKA
+    
+- name: "POSTBANK UGANDA LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: UGPBUGKA
+    
+- name: "SABMILLER UGANDA"
+  city: "KAMPALA"
+  branch: null
+  swift: SABMUGT1
+    
+- name: "SABMILLER UGANDA"
+  city: "KAMPALA"
+  branch: null
+  swift: SABMUGT1NBL
+    
+- name: "SABMILLER UGANDA"
+  city: "KAMPALA"
+  branch: null
+  swift: SABMUGT1RBL
+    
+- name: "STANBIC BANK UGANDA LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: SBICUGKX
+    
+- name: "STANDARD CHARTERED BANK UGANDA LIMITED"
+  city: "KAMPALA"
+  branch: SECURITIES SERVICES UNIT
+  swift: SCBLUGKASSU
+    
+- name: "STANDARD CHARTERED BANK UGANDA LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: SCBLUGKA
+    
+- name: "TOP FINANCE BANK LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: TOPFUGKA
+    
+- name: "TROPICAL BANK LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: LAUBUGK1
+    
+- name: "TROPICAL BANK LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: TROAUGKA
+    
+- name: "TRUST BANK (UGANDA) LIMITED"
+  city: "KAMPALA"
+  branch: null
+  swift: TRBAUGK1
+    
+- name: "UGANDA INSTITUTE OF BANKERS"
+  city: "KAMPALA"
+  branch: null
+  swift: UIDBUGK1
+    
+- name: "UGANDA SECURITIES EXCHANGE LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: USCDUGKA
+    
+- name: "UNITED BANK FOR AFRICA (UGANDA) LTD"
+  city: "KAMPALA"
+  branch: null
+  swift: UNAFUGKA
+    

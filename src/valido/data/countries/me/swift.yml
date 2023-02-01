@@ -1,0 +1,90 @@
+- name: "ADDIKO BANK A.D. PODGORICA"
+  city: "PODGORICA"
+  branch: null
+  swift: HAABMEPG
+    
+- name: "ATLAS BANKA AD"
+  city: "PODGORICA"
+  branch: null
+  swift: ATLMMEP2
+    
+- name: "CENTRAL BANK OF MONTENEGRO"
+  city: "PODGORICA"
+  branch: null
+  swift: CBCGMEB1
+    
+- name: "CENTRALNA BANKA CRNE GORE (CENTRAL BANK OF MONTENEGRO)"
+  city: "PODGORICA"
+  branch: null
+  swift: CBCGMEPG
+    
+- name: "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA"
+  city: "PODGORICA"
+  branch: null
+  swift: CKBCMEPG
+    
+- name: "ERSTE BANK AD PODGORICA"
+  city: "PODGORICA"
+  branch: null
+  swift: OPPOMEPG
+    
+- name: "HIPOTEKARNA BANKA AD"
+  city: "PODGORICA"
+  branch: null
+  swift: HBBAMEPG
+    
+- name: "IBANKMENT DOO"
+  city: "PODGORICA"
+  branch: null
+  swift: IBDOMEP1
+    
+- name: "INVEST BANKA MONTENEGRO AD PODGORICA (FORMALY PLJEVALJSKA BANKA)"
+  city: "PODGORICA"
+  branch: null
+  swift: IBMNMEPG
+    
+- name: "KOMERCIJALNA BANKA AD BUDVA"
+  city: "BUDVA"
+  branch: null
+  swift: KOBBMEP2
+    
+- name: "LOVCEN BANKA AD"
+  city: "PODGORICA"
+  branch: null
+  swift: LOVBMEPG
+    
+- name: "NLB BANKA AD PODGORICA"
+  city: "PODGORICA"
+  branch: null
+  swift: MNBAMEPG
+    
+- name: "NOVA BANKA AD PODGORICA"
+  city: "PODGORICA"
+  branch: null
+  swift: AZMNMEPG
+    
+- name: "PRVA BANKA CRNE GORE AD"
+  city: "PODGORICA"
+  branch: null
+  swift: PRVAMEPG
+    
+- name: "SOCIETE GENERALE BANKA MONTENEGRO"
+  city: "PODGORICA"
+  branch: null
+  swift: PDBPMEPG
+    
+- name: "UNIVERSAL CAPITAL BANK"
+  city: "PODGORICA"
+  branch: null
+  swift: FFBMMEPG
+    
+- name: "ZAPAD BANKA AD PODGORICA"
+  city: "PODGORICA"
+  branch: null
+  swift: ZBCGMEPG
+    
+- name: "ZIRAAT BANK MONTENEGRO"
+  city: "PODGORICA"
+  branch: null
+  swift: TCZBMEPG
+    

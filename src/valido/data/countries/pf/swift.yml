@@ -1,0 +1,55 @@
+- name: "BANQUE DE POLYNESIE"
+  city: "PAPEETE"
+  branch: null
+  swift: BPOLPFTP
+    
+- name: "BANQUE DE TAHITI S.A."
+  city: "PAPEETE"
+  branch: null
+  swift: CEPAPFTP
+    
+- name: "BANQUE PARIBAS POLYNESIE"
+  city: "PAPEETE"
+  branch: null
+  swift: PARBPFT1
+    
+- name: "CAISSE DES DEPOTS ET CONSIGNATIONS"
+  city: "PAPEETE"
+  branch: null
+  swift: CDCGPFTP
+    
+- name: "IEOM PAPEETE"
+  city: "PAPEETE"
+  branch: null
+  swift: INDDPFT1
+    
+- name: "OCEANIENNE DE FINANCEMENT"
+  city: "PAPEETE"
+  branch: null
+  swift: OCFOPFT1
+    
+- name: "OCEOR LEASE TAHITI"
+  city: "PAPEETE"
+  branch: null
+  swift: OCLTPFT1
+    
+- name: "OFFICE POSTES ET TELECOM DE POLYNESIE FR"
+  city: "FAAA"
+  branch: null
+  swift: OFTPPFT1
+    
+- name: "SOCREDO"
+  city: "PAPEETE"
+  branch: null
+  swift: SOCBPFTX
+    
+- name: "SOGELEASE BDP"
+  city: "PAPEETE"
+  branch: null
+  swift: SOGDPFT1
+    
+- name: "TRESOR PUBLIC PAPEETE"
+  city: "PAPEETE"
+  branch: null
+  swift: TRPUPFT1
+    

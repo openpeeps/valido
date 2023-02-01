@@ -1,0 +1,390 @@
+- name: "ABBEY NATIONAL TREASURY INTERNATIONAL LIMITED, ISLE OF MAN"
+  city: "DOUGLAS"
+  branch: null
+  swift: ANILIMDX
+    
+- name: "BALOISE (IOM) LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: BAOMIMD1
+    
+- name: "BANK OF SCOTLAND"
+  city: "DOUGLAS"
+  branch: DOUGLAS (IOM) (R) 12.47.51
+  swift: BOFSIM21007
+    
+- name: "BANK OF SCOTLAND"
+  city: "DOUGLAS"
+  branch: INTERNATIONAL, ISLE OF MAN
+  swift: BOFSIM21IOM
+    
+- name: "BANK OF SCOTLAND"
+  city: "DOUGLAS"
+  branch: ISLE OF MAN MTGS NO 2
+  swift: BOFSIM21001
+    
+- name: "BANK OF SCOTLAND"
+  city: "DOUGLAS"
+  branch: MORTGAGES
+  swift: BOFSIM21IMM
+    
+- name: "BANK OF SCOTLAND"
+  city: "DOUGLAS"
+  branch: null
+  swift: BOFSIM21
+    
+- name: "BANK OF SCOTLAND"
+  city: "DOUGLAS"
+  branch: null
+  swift: BOFSIMA1
+    
+- name: "BARCLAYS BANK PLC"
+  city: "DOUGLAS"
+  branch: BARCLAYS BANK PLC IOM
+  swift: BARCIMD10D6
+    
+- name: "BARCLAYS BANK PLC"
+  city: "DOUGLAS"
+  branch: BPCI LIMITED WOOLWICH IOM
+  swift: BARCIMD10WI
+    
+- name: "BARCLAYS BANK PLC"
+  city: "DOUGLAS"
+  branch: ISLE OF MAN KNIGHTSBRIDGE INTERNATIONAL BANKING CENTRE
+  swift: BARCIMD10D7
+    
+- name: "BARCLAYS BANK PLC"
+  city: "DOUGLAS"
+  branch: PERSONAL BANKING INTERNATIONAL - CUST. A-F (ISLE OF MAN)
+  swift: BARCIMD10D3
+    
+- name: "BARCLAYS BANK PLC"
+  city: "DOUGLAS"
+  branch: PERSONAL BANKING INTERNATIONAL - CUST. G-M (ISLE OF MAN)
+  swift: BARCIMD10D4
+    
+- name: "BARCLAYS BANK PLC"
+  city: "DOUGLAS"
+  branch: PERSONAL BANKING INTERNATIONAL - CUST. N-Z (ISLE OF MAN)
+  swift: BARCIMD10D5
+    
+- name: "BARCLAYS BANK PLC"
+  city: "DOUGLAS"
+  branch: PERSONAL BANKING INTERNATIONAL - ISLE OF MAN
+  swift: BARCIMD10D2
+    
+- name: "BARCLAYS BANK PLC"
+  city: "DOUGLAS"
+  branch: null
+  swift: BARCIMD1
+    
+- name: "BARCLAYS PRIVATE BANK AND TRUST (ISLE OF MAN) LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: BPBLIMD1
+    
+- name: "BARCLAYS PRIVATE CLIENTS INTERNATIONAL LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: BFIMIMD1
+    
+- name: "CAPITAL INTERNATIONAL LIMTED"
+  city: "DOUGLAS"
+  branch: CAPITAL FINANCIAL MARKETS
+  swift: CIGLIMDDCFM
+    
+- name: "CAPITAL INTERNATIONAL LIMTED"
+  city: "DOUGLAS"
+  branch: CAPITAL FUND SERVICES
+  swift: CIGLIMDDCFS
+    
+- name: "CAPITAL INTERNATIONAL LIMTED"
+  city: "DOUGLAS"
+  branch: CAPITAL TREASURY SERVICES
+  swift: CIGLIMDDCTS
+    
+- name: "CAPITAL INTERNATIONAL LIMTED"
+  city: "DOUGLAS"
+  branch: null
+  swift: CIGLIMDD
+    
+- name: "CAPITAL INTERNATIONAL LIMTED"
+  city: "DOUGLAS"
+  branch: null
+  swift: CIGLIMDDCIL
+    
+- name: "CAPITAL INTERNATIONAL LTD"
+  city: "CASTLETOWN"
+  branch: null
+  swift: CAITIMD1
+    
+- name: "CAPITAL INTERNATIONAL LTD - ISLE OF MAN"
+  city: "CASTLETOWN"
+  branch: null
+  swift: CAITIMD1001
+    
+- name: "CAYMAN NATIONAL BANK AND TRUST COMPANY (ISLE OF MAN) LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: CNBTIMDD
+    
+- name: "CELTIC BANK LTD"
+  city: "DOUGLAS"
+  branch: null
+  swift: CELBIMD1
+    
+- name: "CHARLEMAGNE CAPITAL (IOM) LTD"
+  city: "DOUGLAS"
+  branch: null
+  swift: CHPMIMD1
+    
+- name: "CLYDESDALE BANK PLC"
+  city: "DOUGLAS"
+  branch: null
+  swift: CLYDIMD1
+    
+- name: "CONISTER BANK LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: CNNIIMD2
+    
+- name: "EQUILIBRIUM SOLUTIONS LTD"
+  city: "DOUGLAS"
+  branch: null
+  swift: EQSOIMD1
+    
+- name: "FINANTECH LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: FIHTIMD1
+    
+- name: "FLEMING (JERSEY) LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: FLJEIMD1
+    
+- name: "FORTIS (ISLE OF MAN) LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: MPIEIMD1
+    
+- name: "HALIFAX PLC"
+  city: "DOUGLAS"
+  branch: HALIFAX INT
+  swift: HLFXIMD1001
+    
+- name: "HALIFAX PLC"
+  city: "DOUGLAS"
+  branch: ISLE OF MAN (R)
+  swift: HLFXIMD1002
+    
+- name: "HALIFAX PLC"
+  city: "DOUGLAS"
+  branch: null
+  swift: HLFXIMD1
+    
+- name: "HSBC BANK PLC"
+  city: "DOUGLAS"
+  branch: null
+  swift: MIDLIM21
+    
+- name: "HSBC TRUST CORPORATION (ISLE OF MAN) LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: MIDLIMD1
+    
+- name: "ISLE OF MAN BANK"
+  city: "DOUGLAS"
+  branch: ATHOL STREET
+  swift: RBOSIM41ATH
+    
+- name: "ISLE OF MAN BANK"
+  city: "DOUGLAS"
+  branch: EAST REGION
+  swift: RBOSIM41EST
+    
+- name: "ISLE OF MAN BANK"
+  city: "DOUGLAS"
+  branch: PEEL BRANCH
+  swift: RBOSIM41PEL
+    
+- name: "ISLE OF MAN BANK"
+  city: "DOUGLAS"
+  branch: RAMSEY BRANCH
+  swift: RBOSIM41RAM
+    
+- name: "ISLE OF MAN BANK"
+  city: "DOUGLAS"
+  branch: SOUTH REGION
+  swift: RBOSIM41STH
+    
+- name: "ISLE OF MAN BANK"
+  city: "DOUGLAS"
+  branch: null
+  swift: RBOSIMD2
+    
+- name: "KKB LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: KKBBIMD1
+    
+- name: "LAXEY"
+  city: "DOUGLAS"
+  branch: null
+  swift: LAXEIMD1
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "CASTLETOWN"
+  branch: CASTLETOWN (771749)
+  swift: LOYDIMD1005
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "DOUGLAS"
+  branch: ISLE OF MAN OFFSHORE CENTRE
+  swift: LOYDIMD1002
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "DOUGLAS"
+  branch: STRAND STREET, DOUGLAS
+  swift: LOYDIMD1003
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "DOUGLAS"
+  branch: VICTORY HOUSE, DOUGLAS
+  swift: LOYDIMD1001
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: LOYDIMD1
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "RAMSEY"
+  branch: RAMSEY (771746)
+  swift: LOYDIMD1004
+    
+- name: "NATWEST - ISLE OF MAN"
+  city: "DOUGLAS"
+  branch: null
+  swift: RBOSIM31
+    
+- name: "NATWEST - ISLE OF MAN"
+  city: "DOUGLAS"
+  branch: null
+  swift: RBOSIMDD
+    
+- name: "NEDBANK PRIVATE WEALTH LTD."
+  city: "DOUGLAS"
+  branch: null
+  swift: RFLCIMDX
+    
+- name: "OLD MUTUAL INTERNATIONAL IOM LIMITED"
+  city: "ONCHAN"
+  branch: BRANCH OPERATIONS
+  swift: ROKLIMDIOPS
+    
+- name: "OLD MUTUAL INTERNATIONAL IOM LIMITED"
+  city: "ONCHAN"
+  branch: null
+  swift: ROKLIMDI
+    
+- name: "R.L. STOTT"
+  city: "DOUGLAS"
+  branch: null
+  swift: RLSTIMD1
+    
+- name: "RAMSEY CROOKALL AND CO. LTD."
+  city: "DOUGLAS"
+  branch: null
+  swift: RAYCIMD1
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "DOUGLAS"
+  branch: null
+  swift: ROYCIMD1
+    
+- name: "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE"
+  city: "DOUGLAS"
+  branch: null
+  swift: RBOSIMDX
+    
+- name: "ROYAL BANK OF SCOTLAND ISLE OF MAN (PLC)"
+  city: "DOUGLAS"
+  branch: null
+  swift: RBOSIMD1
+    
+- name: "ROYAL BANK OF SCOTLAND ISLE OF MAN (PLC)"
+  city: "DOUGLAS"
+  branch: null
+  swift: RBOSIMD1571
+    
+- name: "ROYAL SKANDIA TREASURY"
+  city: "DOUGLAS"
+  branch: null
+  swift: ROKTIMD1
+    
+- name: "SHEARWATER SECURITIES LIMITED"
+  city: "CASTLETOWN"
+  branch: null
+  swift: SHSRIMD1
+    
+- name: "STANDARD BANK INVESTMENT CORP."
+  city: "DOUGLAS"
+  branch: null
+  swift: SBICIMD1
+    
+- name: "STANDARD BANK ISLE OF MAN LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: SBICIMDX
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LTD, ISLE OF MAN BRANCH"
+  city: "DOUGLAS"
+  branch: null
+  swift: SBZAIMDD
+    
+- name: "STANDARD BANK STOCKBROKERS (IOM) LTD."
+  city: "DOUGLAS"
+  branch: null
+  swift: STBTIMD1
+    
+- name: "STANDARD FINANCE (ISLE OF MAN) LTD"
+  city: "DOUGLAS"
+  branch: null
+  swift: STFIIMD1
+    
+- name: "STARS INTERACTIVE LIMITED"
+  city: "ONCHAN"
+  branch: null
+  swift: RTNLIMDD
+    
+- name: "SUN LIFE GLOBAL MANAGEMENT LIMITED"
+  city: "CASTLETOWN"
+  branch: null
+  swift: SLGNIMD1
+    
+- name: "THOMAS MILLER INVESTMENT (ISLE OF MAN) LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: MIMIIMD1
+    
+- name: "TIBRA STRUCTURED PRODUCTS LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: TISRIMD1
+    
+- name: "TUFTON OCEANIC (ISLE OF MAN) LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: TOSNIMD1
+    
+- name: "ULSTER BANK (I.O.M.) LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: ULSBIMD1
+    
+- name: "W H IRELAND (IOM) LIMITED"
+  city: "DOUGLAS"
+  branch: null
+  swift: IRIOIMD1
+    

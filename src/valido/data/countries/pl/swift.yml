@@ -1,0 +1,1990 @@
+- name: "AIG BANK POLSKA S.A."
+  city: "WROCLAW"
+  branch: null
+  swift: AIPOPLP1
+    
+- name: "ALIOR BANK SPOLKA AKCYJNA"
+  city: "WARSZAWA"
+  branch: BIURO MAKLERSKIE
+  swift: ALBPPLP1BMW
+    
+- name: "ALIOR BANK SPOLKA AKCYJNA"
+  city: "WARSZAWA"
+  branch: null
+  swift: ALBPPLPW
+    
+- name: "AMER SPORTS FINANCIAL SHARED SERVICE SP."
+  city: "KRAKOW"
+  branch: null
+  swift: ASFHPLPK
+    
+- name: "ARCELORMITTAL POLAND SPOLKA AKCYJNA"
+  city: "KATOWICE"
+  branch: null
+  swift: USINPLP1
+    
+- name: "ATLANTIC FUND SERVICES SP. Z O.O."
+  city: "WARSZAWA"
+  branch: null
+  swift: AFSLPLPW
+    
+- name: "BANCO ESPIRITO SANTO DE INVESTIMENTO S.A. SPOLKA AKCYJNA ODDZIAL W POLSCE"
+  city: "WARSZAWA"
+  branch: null
+  swift: ESSIPLP1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "BIELSKO BIALA"
+  branch: BIELSKO BIALA BRANCH
+  swift: PPABPLP1BB1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "BYDGOSZCZ"
+  branch: BYDGOSZCZ BRANCH
+  swift: PPABPLP1BY1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "CZESTOCHOWA"
+  branch: CHESTOCHOWA BRANCH
+  swift: PPABPLP1CZ1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "GDANSK"
+  branch: GDANSK BRANCH
+  swift: PPABPLP1GD1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "GDYNIA"
+  branch: GDYNIA BRANCH
+  swift: PPABPLP1GY1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "GLIWICE"
+  branch: GLIWICE BRANCH
+  swift: PPABPLP1GL1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "KATOWICE"
+  branch: KATOWICE BRANCH
+  swift: PPABPLP1KT1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "KATOWICE"
+  branch: PERSONAL BANKING SUB-BRANCH
+  swift: PPABPLP1KF1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "KIELCE"
+  branch: KIELCE BRANCH
+  swift: PPABPLP1KI1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "KRAKOW"
+  branch: 1ST KRAKOW BRANCH
+  swift: PPABPLP1KR1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "KRAKOW"
+  branch: 2ND KRAKOW BRANCH
+  swift: PPABPLP1KR2
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "KRAKOW"
+  branch: 3RD KRAKOW BRANCH
+  swift: PPABPLP1KR3
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "LODZ"
+  branch: LODZ BRANCH
+  swift: PPABPLP1LD1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "LODZ"
+  branch: PERSONAL BANKING SUB-BRANCH
+  swift: PPABPLP1LF1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "LUBLIN"
+  branch: LUBLIN BRANCH
+  swift: PPABPLP1LU1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "OLSZTYN"
+  branch: null
+  swift: PPABPLP1OL1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "OPOLE"
+  branch: null
+  swift: PPABPLP1OP1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "POZNAN"
+  branch: PERSONAL BANKING SUB-BRANCH
+  swift: PPABPLP1PF1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "POZNAN"
+  branch: POZNAN BRANCH
+  swift: PPABPLP1PO1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "RZESZOW"
+  branch: null
+  swift: PPABPLP1RZ1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "SZCZECIN"
+  branch: SZCZECIN BRANCH
+  swift: PPABPLP1SZ1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "TORUN"
+  branch: null
+  swift: PPABPLP1TO1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "WARSZAWA"
+  branch: 1ST WARSZAWA BRANCH
+  swift: PPABPLP1WA1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "WARSZAWA"
+  branch: 2ND WARSZAWA BRANCH
+  swift: PPABPLP1WA2
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "WARSZAWA"
+  branch: 3RD WARSZAWA BRANCH
+  swift: PPABPLP1WA3
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "WARSZAWA"
+  branch: 4TH WARSZAWA BRANCH
+  swift: PPABPLP1WA4
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "WARSZAWA"
+  branch: PERSONAL BANKING SUB-BRANCH 2
+  swift: PPABPLP1WF6
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "WARSZAWA"
+  branch: PERSONAL BANKING SUB-BRANCH 4
+  swift: PPABPLP1WF4
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: PPABPLPK
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "WROCLAW"
+  branch: PERSONAL BANKING SUB-BRANCH
+  swift: PPABPLP1WR2
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "WROCLAW"
+  branch: WROCLAW BRANCH
+  swift: PPABPLP1WR1
+    
+- name: "BANK BGZ BNP PARIBAS S.A."
+  city: "ZAKOPANE"
+  branch: ZAKOPANE BRANCH
+  swift: PPABPLP1ZK1
+    
+- name: "BANK BPH SA"
+  city: "GDANSK"
+  branch: null
+  swift: BPHKPLPK
+    
+- name: "BANK BPH SA"
+  city: "KRAKOW"
+  branch: BIURO MAKLERSKIE BANKU BPH SA
+  swift: BPHKPLP1BMK
+    
+- name: "BANK BPH SA"
+  city: "WARSZAWA"
+  branch: CUSTODY DEPARTMENT
+  swift: BPHKPLPKCUS
+    
+- name: "BANK GOSPODARSTWA KRAJOWEGO"
+  city: "WARSZAWA"
+  branch: null
+  swift: GOSKPLPW
+    
+- name: "BANK HANDLOWY W WARSZAWIE SA"
+  city: "WARSZAWA"
+  branch: WARSAW COMMODITY CLEARING HOUSE MESSAGES EXCHANGE ONLY
+  swift: CITIPLPXCCH
+    
+- name: "BANK HANDLOWY W WARSZAWIE SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: CITIPLPX
+    
+- name: "BANK INICJATYW SPOLECZNO-EKONOMICZNYCH S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: BISPPLP1
+    
+- name: "BANK MILLENNIUM S.A."
+  city: "WARSZAWA"
+  branch: CUSTODY DEPARTMENT
+  swift: BIGBPLPWCUS
+    
+- name: "BANK MILLENNIUM S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: BIGBPLPW
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "BIALYSTOK"
+  branch: null
+  swift: EBOSPLPW216
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "BIELSKO BIALA"
+  branch: null
+  swift: EBOSPLPW261
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "BYDGOSZCZ"
+  branch: null
+  swift: EBOSPLPW018
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "CHELM"
+  branch: null
+  swift: EBOSPLPWCHA
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "CZESTOCHOWA"
+  branch: null
+  swift: EBOSPLPW005
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "ELBLAG"
+  branch: null
+  swift: EBOSPLPW274
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "GDANSK"
+  branch: null
+  swift: EBOSPLPW089
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "JELENIA GORA"
+  branch: JELENIA GORA
+  swift: EBOSPLPW199
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "KATOWICE"
+  branch: null
+  swift: EBOSPLPW119
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "KIELCE"
+  branch: null
+  swift: EBOSPLPWKIA
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "KONIN"
+  branch: null
+  swift: EBOSPLPW232
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "KOSZALIN"
+  branch: null
+  swift: EBOSPLPW034
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "KRAKOW"
+  branch: null
+  swift: EBOSPLPW106
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "LEGNICA"
+  branch: null
+  swift: EBOSPLPW258
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "LODZ"
+  branch: null
+  swift: EBOSPLPW245
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "LOMZA"
+  branch: null
+  swift: EBOSPLPWLOA
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "LUBLIN"
+  branch: null
+  swift: EBOSPLPW135
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "OBORNIKI WIELKOPOLKIE"
+  branch: null
+  swift: EBOSPLPW210
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "OLSZTYN"
+  branch: null
+  swift: EBOSPLPW063
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "OPOLE"
+  branch: null
+  swift: EBOSPLPW229
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "OSTROW WIELKOPOLSKI"
+  branch: null
+  swift: EBOSPLPW223
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "PILA"
+  branch: null
+  swift: EBOSPLPWPIA
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "PLOCK"
+  branch: null
+  swift: EBOSPLPW290
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "POZNAN"
+  branch: null
+  swift: EBOSPLPW047
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "RZESZOW"
+  branch: null
+  swift: EBOSPLPW122
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "SUWALKI"
+  branch: null
+  swift: EBOSPLPWSUA
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "SZCZECIN"
+  branch: null
+  swift: EBOSPLPW076
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "TARNOW"
+  branch: null
+  swift: EBOSPLPW252
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "TORUN"
+  branch: null
+  swift: EBOSPLPW304
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "WARSZAWA"
+  branch: CORPORATE CLIENTS UNIT
+  swift: EBOSPLPW017
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "WARSZAWA"
+  branch: I/O WARSZAWA
+  swift: EBOSPLPW102
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "WARSZAWA"
+  branch: II/O WARSZAWA
+  swift: EBOSPLPW157
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "WARSZAWA"
+  branch: III/O WARSZAWA
+  swift: EBOSPLPW287
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: EBOSPLPW
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "WLOCLAWEK"
+  branch: null
+  swift: EBOSPLPW050
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "WROCLAW"
+  branch: null
+  swift: EBOSPLPW021
+    
+- name: "BANK OCHRONY SRODOWISKA S.A."
+  city: "ZAMOSC"
+  branch: null
+  swift: EBOSPLPWZAA
+    
+- name: "BANK OF CHINA (LUXEMBOURG) S.A. POLAND BRANCH"
+  city: "WARSZAWA"
+  branch: null
+  swift: BKCHPLPX
+    
+- name: "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA"
+  city: "KRAKOW"
+  branch: KRAKOW REGIONAL OFFICE
+  swift: PKOPPLPWKRA
+    
+- name: "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA"
+  city: "WARSZAWA"
+  branch: CUSTODY
+  swift: PKOPPLPWCUS
+    
+- name: "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA"
+  city: "WARSZAWA"
+  branch: HEAD OFFICE
+  swift: PKOPPLPW
+    
+- name: "BANK POLSKIEJ SPOLDZIELCZOSCI SPOLKA AKCYJNA"
+  city: "WARSZAWA"
+  branch: null
+  swift: POLUPLPR
+    
+- name: "BANK SPOLDZIELCZO-LUDOWY W ELBLAGU"
+  city: "ELBLAG"
+  branch: null
+  swift: SBLEPLP1
+    
+- name: "BANK SPOLDZIELCZY BIALYSTOK"
+  city: "BIALYSTOK"
+  branch: null
+  swift: BSBAPLP1
+    
+- name: "BANK SPOLDZIELCZY GLOWACZOW"
+  city: "GLOWACZOW"
+  branch: null
+  swift: SPWCPLP1
+    
+- name: "BANK SPOLDZIELCZY HALINOW"
+  city: "HALINOW"
+  branch: null
+  swift: SPHLPLP1
+    
+- name: "BANK SPOLDZIELCZY ILOW"
+  city: "ILOW"
+  branch: null
+  swift: SPILPLP1
+    
+- name: "BANK SPOLDZIELCZY MAZOWSZE W PLOCKU"
+  city: "PLOCK"
+  branch: null
+  swift: SPMPPLP1
+    
+- name: "BANK SPOLDZIELCZY NADARZYN"
+  city: "NADARZYN"
+  branch: null
+  swift: SPNDPLP1
+    
+- name: "BANK SPOLDZIELCZY 'PA-CO-BANK'"
+  city: "PABIANICE"
+  branch: null
+  swift: SOPBPLP1
+    
+- name: "BANK SPOLDZIELCZY RZEMIOSLA W KRAKOWIE"
+  city: "KRAKOW"
+  branch: null
+  swift: SPZKPLP1
+    
+- name: "BANK SPOLDZIELCZY RZEMIOSLA W LODZI"
+  city: "LODZ"
+  branch: null
+  swift: BSRLPLP1
+    
+- name: "BANK SPOLDZIELCZY W BELCHATOWIE"
+  city: "BELCHATOW"
+  branch: null
+  swift: SBELPLP1
+    
+- name: "BANK SPOLDZIELCZY W BELSKU DUZYM"
+  city: "BELSK DUZY"
+  branch: null
+  swift: BELDPLP1
+    
+- name: "BANK SPOLDZIELCZY W BIALOBRZEGACH"
+  city: "BIALOBRZEGI"
+  branch: null
+  swift: BSBIPLP1
+    
+- name: "BANK SPOLDZIELCZY W BRANSKU"
+  city: "BRANSK"
+  branch: null
+  swift: SPBNPLP1
+    
+- name: "BANK SPOLDZIELCZY W BRODNICY"
+  city: "BRODNICA"
+  branch: null
+  swift: SPBOPLP1
+    
+- name: "BANK SPOLDZIELCZY W BRODNICY"
+  city: "BRODNICA"
+  branch: null
+  swift: SPBOPLPW
+    
+- name: "BANK SPOLDZIELCZY W CHEMNIE"
+  city: "CHELMNO"
+  branch: null
+  swift: CULMPLP1
+    
+- name: "BANK SPOLDZIELCZY W CHYNOWIE"
+  city: "CHYNOW"
+  branch: null
+  swift: SPCYPLP1
+    
+- name: "BANK SPOLDZIELCZY W DZIALDOWIE Z/S W LIDZBARKU"
+  city: "LIDZBARK"
+  branch: null
+  swift: DZLKPLP1
+    
+- name: "BANK SPOLDZIELCZY W GABINIE"
+  city: "GABIN"
+  branch: null
+  swift: SPGBPLP1
+    
+- name: "BANK SPOLDZIELCZY W GASOCINIE"
+  city: "GASOCIN"
+  branch: null
+  swift: GASBPLP1
+    
+- name: "BANK SPOLDZIELCZY W GLINOJECKU"
+  city: "GLINOJECK"
+  branch: null
+  swift: SPGIPLP1
+    
+- name: "BANK SPOLDZIELCZY W GLOWNIE"
+  city: "GLOWNO"
+  branch: null
+  swift: BSGLPLP1
+    
+- name: "BANK SPOLDZIELCZY W GOWOROWIE"
+  city: "GOWOROWO"
+  branch: null
+  swift: BSGOPLP1
+    
+- name: "BANK SPOLDZIELCZY W GROJCU"
+  city: "GROJEC"
+  branch: null
+  swift: BSGJPLP1
+    
+- name: "BANK SPOLDZIELCZY W GRUDUSKU"
+  city: "GRUDUSK"
+  branch: null
+  swift: BSGRPLP1
+    
+- name: "BANK SPOLDZIELCZY W HAJNOWCE"
+  city: "HAJNOWKA"
+  branch: null
+  swift: HAJNPLP1
+    
+- name: "BANK SPOLDZIELCZY W KADZIDLE"
+  city: "KADZIDLO"
+  branch: null
+  swift: SPDDPLP1
+    
+- name: "BANK SPOLDZIELCZY W KLESZCZOWIE"
+  city: "KLESZCZOW"
+  branch: null
+  swift: KLESPLP1
+    
+- name: "BANK SPOLDZIELCZY W KROSNIEWICACH"
+  city: "KROSNIEWICE"
+  branch: null
+  swift: BSKRPLP1
+    
+- name: "BANK SPOLDZIELCZY W LAPACH"
+  city: "LAPY"
+  branch: null
+  swift: BSLPPLP1
+    
+- name: "BANK SPOLDZIELCZY W LESZNOWOLI"
+  city: "LESZNOWOLA"
+  branch: null
+  swift: BSLCPLP1
+    
+- name: "BANK SPOLDZIELCZY W LIPNIE"
+  city: "LIPNO"
+  branch: null
+  swift: LIPNPLP1
+    
+- name: "BANK SPOLDZIELCZY W LIPSKU"
+  city: "LIPSKO"
+  branch: null
+  swift: SLIPPLP1
+    
+- name: "BANK SPOLDZIELCZY W MALBORKU"
+  city: "MALBORK"
+  branch: null
+  swift: SPMLPLP1
+    
+- name: "BANK SPOLDZIELCZY W MLAWIE"
+  city: "MLAWA"
+  branch: null
+  swift: BSMLPLP1
+    
+- name: "BANK SPOLDZIELCZY W MSZCZONOWIE"
+  city: "MSZCZONOW"
+  branch: null
+  swift: MSZCPLP1
+    
+- name: "BANK SPOLDZIELCZY W NASIELSKU"
+  city: "NASIELSK"
+  branch: null
+  swift: SPNIPLP1
+    
+- name: "BANK SPOLDZIELCZY W OPOCZNIE"
+  city: "OPOCZNO"
+  branch: null
+  swift: SPOPPLP1
+    
+- name: "BANK SPOLDZIELCZY W OSTROLECE"
+  city: "OSTROLEKA"
+  branch: null
+  swift: OSTRPLP1
+    
+- name: "BANK SPOLDZIELCZY W PIONKACH"
+  city: "PIONKI"
+  branch: null
+  swift: BSPIPLP1
+    
+- name: "BANK SPOLDZIELCZY W PRZEDBORZU"
+  city: "PRZEDBORZ"
+  branch: null
+  swift: SPERPLP1
+    
+- name: "BANK SPOLDZIELCZY W PRZYSUSZE"
+  city: "PRZYSUCHA"
+  branch: null
+  swift: MGRZPLP1
+    
+- name: "BANK SPOLDZIELCZY W PULTUSKU"
+  city: "PULTUSK"
+  branch: null
+  swift: SPPUPLP1
+    
+- name: "BANK SPOLDZIELCZY W RACIAZU"
+  city: "RACIAZ"
+  branch: null
+  swift: BSRAPLP1
+    
+- name: "BANK SPOLDZIELCZY W SKARYSZEWIE"
+  city: "SKARYSZEW"
+  branch: null
+  swift: SKARPLP1
+    
+- name: "BANK SPOLDZIELCZY W SOKOLACH"
+  city: "SOKOLY"
+  branch: null
+  swift: BSSOPLP1
+    
+- name: "BANK SPOLDZIELCZY W STRYKOWIE"
+  city: "STRYKOW"
+  branch: null
+  swift: SSTYPLP1
+    
+- name: "BANK SPOLDZIELCZY W STRZEGOWIE"
+  city: "STRZEGOWO"
+  branch: null
+  swift: BSSTPLP1
+    
+- name: "BANK SPOLDZIELCZY W TARNOBRZEGU"
+  city: "TARNOBRZEG"
+  branch: null
+  swift: SPTOPLP1
+    
+- name: "BANK SPOLDZIELCZY W TERESINIE"
+  city: "TERESIN"
+  branch: null
+  swift: BSTRPLP1
+    
+- name: "BANK SPOLDZIELCZY W WARCE"
+  city: "WARKA"
+  branch: null
+  swift: BSWRPLP1
+    
+- name: "BANK SPOLDZIELCZY W WASEWIE"
+  city: "WASEWO"
+  branch: null
+  swift: WASWPLP1
+    
+- name: "BANK SPOLDZIELCZY W WISKITKACH"
+  city: "WISKITKI"
+  branch: null
+  swift: SPWSPLP1
+    
+- name: "BANK SPOLDZIELCZY W ZUROMINIE"
+  city: "ZUROMIN"
+  branch: null
+  swift: SPZUPLP1
+    
+- name: "BANK SPOLDZIELCZY W ZWOLENIU"
+  city: "ZWOLEN"
+  branch: null
+  swift: SPZOPLP1
+    
+- name: "BANK SPOLDZIELCZY 'WSPOLNA PRACA' W KUTNIE"
+  city: "KUTNO"
+  branch: null
+  swift: BSWPPLP1
+    
+- name: "BANK SPOLDZIELCZY ZIEMI LECZYCKIEJ W LECZYCY"
+  city: "LECZYCA"
+  branch: null
+  swift: SZLLPLP1
+    
+- name: "BANK SPOLDZIELCZY ZIEMI LOWICKIEJ W LOWICZU"
+  city: "LOWICZ"
+  branch: null
+  swift: BSZLPLP1
+    
+- name: "BANK SPOLDZIELCZY ZIEMI PIOTRKOWSKIEJ"
+  city: "PIOTRKOW TRYBUNALSKI"
+  branch: null
+  swift: ZIPIPLP1
+    
+- name: "BANK SPOWDZIELCZY W CZERSKU"
+  city: "CZERSK"
+  branch: null
+  swift: SPCEPLP1
+    
+- name: "BANK SPOWDZIELCZY W SZYDWOWCU"
+  city: "SZYDLOWIEC"
+  branch: null
+  swift: BSSZPLP1
+    
+- name: "BANK ZACHODNI WBK SA"
+  city: "POZNAN"
+  branch: BZWBK BROKERAGE HOUSE
+  swift: WBKPPLPPCBM
+    
+- name: "BANK ZACHODNI WBK SA"
+  city: "WROCLAW"
+  branch: BZWBK CCP CLEARING
+  swift: WBKPPLP1CCP
+    
+- name: "BANK ZACHODNI WBK SA"
+  city: "WROCLAW"
+  branch: HEAD OFFICE
+  swift: WBKPPLPP
+    
+- name: "BESKIDZKI DOM MAKLERSKI SA"
+  city: "BIELSKO BIALA"
+  branch: null
+  swift: BEDMPLP1
+    
+- name: "BIURO MAKLERSKIE BANK DNB NORD POLSKA S.A."
+  city: "RADOM"
+  branch: null
+  swift: BMDNPLP1
+    
+- name: "BNP PARIBAS S.A. BRANCH IN POLAND"
+  city: "WARSZAWA"
+  branch: null
+  swift: BNPAPLPX
+    
+- name: "BNP PARIBAS SECURITIES POLAND BRANCH"
+  city: "WARSZAWA"
+  branch: null
+  swift: PARBPLPX
+    
+- name: "BONDSPOT S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: BONPPLP9
+    
+- name: "BS BIEZUN"
+  city: "BIEZUN"
+  branch: null
+  swift: BIEZPLP1
+    
+- name: "BS NOWY STAW"
+  city: "NOWY STAW"
+  branch: null
+  swift: NOSWPLP1
+    
+- name: "BS STARA BIALA"
+  city: "STARA BIALA"
+  branch: null
+  swift: STIIPLP1
+    
+- name: "BS STRZELCE"
+  city: "STRZELCE"
+  branch: null
+  swift: STRZPLP1
+    
+- name: "BS ZYCHLIN"
+  city: "ZYCHLIN"
+  branch: null
+  swift: ZCCHPLP1
+    
+- name: "BZ WBK AIB ASSET MANAGEMENT S.A."
+  city: "POZNAN"
+  branch: null
+  swift: WASMPLP1
+    
+- name: "CAIXABANK, S.A. (SPOLKA AKCYJNA) ODDZIAL W POLSCE"
+  city: "WARSZAWA"
+  branch: null
+  swift: CAIXPLPW
+    
+- name: "CASPAR ASSET MANAGEMENT PLC"
+  city: "POZNAN"
+  branch: null
+  swift: CSSNPLP1
+    
+- name: "CENTRAL BROKERAGE OFFICE PEKAO S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: CBOPPLP1
+    
+- name: "CHINA CONSTRUCTION BANK(EUROPE)WARSAW BRANCH"
+  city: "WARSZAWA"
+  branch: null
+  swift: PCBCPLPW
+    
+- name: "CINKCIARZ.PL SP. Z O.O."
+  city: "ZIELONA GORA"
+  branch: null
+  swift: CINKPLPZ
+    
+- name: "COMMERCIAL UNION INVESTMENT MANAGEMENT (POLSKA) SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: CUIMPLP1
+    
+- name: "CONOTOXIA SP. Z O.O."
+  city: "ZIELONA GORA"
+  branch: null
+  swift: CONPPLPW
+    
+- name: "CREDIT AGRICOLE BANK POLSKA S.A."
+  city: "WROCLAW"
+  branch: null
+  swift: AGRIPLPR
+    
+- name: "CTBS S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: CTBSPLP1
+    
+- name: "DANSKE BANK A/S S.A. ODZIAL W POLSCE"
+  city: "WARSZAWA"
+  branch: null
+  swift: DABAPLPW
+    
+- name: "DB SECURITIES S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: SCCUPLP1
+    
+- name: "DEUTSCHE BANK POLSKA S.A"
+  city: "WARSZAWA"
+  branch: null
+  swift: DEUTPL21
+    
+- name: "DEUTSCHE BANK POLSKA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: DEUTPLPX
+    
+- name: "DNB BANK POLSKA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: MHBFPLPW
+    
+- name: "DOM INWESTYCYJNY BRE BANKU S.A.(BRE SECURITIES S.A.)"
+  city: "WARSZAWA"
+  branch: null
+  swift: DIBRPLP1
+    
+- name: "DOM INWESTYCYJNY INVESTORS S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: DOIIPLP1
+    
+- name: "DOM INWESTYCYJNY NEHREBETIUS S.A."
+  city: "KRAKOW"
+  branch: null
+  swift: DOINPLP1
+    
+- name: "DOM INWESTYCYJNY XELION SP. Z O.O."
+  city: "WARSZAWA"
+  branch: null
+  swift: DOIXPLP1
+    
+- name: "DOM MAKLERSKI AFS"
+  city: "WARSZAWA"
+  branch: null
+  swift: DMAFPLP1
+    
+- name: "DOM MAKLERSKI AMERBROKERS SPOWKA AKCYJNA"
+  city: "WARSZAWA"
+  branch: null
+  swift: DOMAPLP1
+    
+- name: "DOM MAKLERSKI BANKU BPS S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: DOMSPLP1
+    
+- name: "DOM MAKLERSKI BANKU HANDLOWEGO SPOWKA AKCYJNA"
+  city: "WARSZAWA"
+  branch: null
+  swift: DOMHPLP1
+    
+- name: "DOM MAKLERSKI BANKU OCHRONY SRODOWISKA SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: DMOSPLP1
+    
+- name: "DOM MAKLERSKI BZ WBK S.A."
+  city: "POZNAN"
+  branch: null
+  swift: DOMWPLP1
+    
+- name: "DOM MAKLERSKI DFP SP. Z O.O."
+  city: "LODZ"
+  branch: null
+  swift: DMDPPLP1
+    
+- name: "DOM MAKLERSKI IDM SPOWKA AKCYJNA"
+  city: "KRAKOW"
+  branch: null
+  swift: DOMDPLP1
+    
+- name: "DOM MAKLERSKI NAVIGATOR SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: DOMNPLP1
+    
+- name: "DOM MAKLERSKI PEKAO"
+  city: "WARSZAWA"
+  branch: null
+  swift: DOMKPLP1
+    
+- name: "DOM MAKLERSKI PENETRATOR SA"
+  city: "KRAKOW"
+  branch: null
+  swift: DOMPPLP1
+    
+- name: "DOM MAKLERSKI POLONIA NET SA (BROKERAGE HOUSE)"
+  city: "KRAKOW"
+  branch: null
+  swift: DMPNPLP1
+    
+- name: "DOM MAKLERSKI RAIFFEISEN BANK POLSKA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: DMRPPLP1
+    
+- name: "DOM MAKLERSKI TMS BROKERS S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: DMTBPLP1
+    
+- name: "DORADZTWO DLA POLSKICH PRZEDSIEBIORSTW SECURITIES S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: DDPPPLP1
+    
+- name: "EBURY PARTNERS UK LIMITED"
+  city: "WARSZAWA"
+  branch: null
+  swift: EBPAPLP1
+    
+- name: "ENGLAND.PL SP. Z O.O."
+  city: "KOSZALIN"
+  branch: null
+  swift: ENGAPLP1
+    
+- name: "'ERSTE SECURITIES POLSKA' SPOWKA AKCYJNA"
+  city: "WARSZAWA"
+  branch: null
+  swift: ERSPPLP1
+    
+- name: "EURO BANK S.A."
+  city: "WROCLAW"
+  branch: null
+  swift: EBSAPLPR
+    
+- name: "EURO BANK S.A. INTERNATIONAL PMTS"
+  city: "WROCLAW"
+  branch: null
+  swift: EBSAPLPW
+    
+- name: "EURORATING SP. Z O.O."
+  city: "WARSZAWA"
+  branch: null
+  swift: EUOTPLP1
+    
+- name: "EXPRESS BANK SPOLDZIELCZY W RZESZOWIE"
+  city: "RZESZOW"
+  branch: null
+  swift: EXSRPLP1
+    
+- name: "FCA-GROUP BANK POLSKA SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: FBPLPLPW
+    
+- name: "FIRST INTERNATIONAL TRADERS DOM MAKLERSKI SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: FITMPLP1
+    
+- name: "FITCH POLSKA SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: FRIPPLP1
+    
+- name: "GALPERIN SOLUTION LIMITED LIABILITY COMPANY"
+  city: "WARSZAWA"
+  branch: null
+  swift: GASIPLP1
+    
+- name: "GETIN NOBLE BANK SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: GBGCPLPK
+    
+- name: "HAITONG BANK S.A., SPOLKA AKCYJNA ODDZIAL W POLSCE"
+  city: "WARSZAWA"
+  branch: null
+  swift: ESSIPLPX
+    
+- name: "HSBC BANK POLSKA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: HSBCPLPS
+    
+- name: "HSBC BANK POLSKA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: HSBCPLPW
+    
+- name: "ICAP (POLAND)SP. Z O.O."
+  city: "WARSZAWA"
+  branch: null
+  swift: ICPLPLP1
+    
+- name: "ICBC POLAND BRANCH"
+  city: "WARSZAWA"
+  branch: null
+  swift: ICBKPLPW
+    
+- name: "IDEA BANK S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: IEEAPLP1
+    
+- name: "IDEA BANK SPOLKA AKCYJNA"
+  city: "WARSZAWA"
+  branch: null
+  swift: IEEAPLPA
+    
+- name: "INC RATING SP. Z O.O."
+  city: "POZNAN"
+  branch: null
+  swift: RATIPLP1
+    
+- name: "ING BANK SLASKI SA"
+  city: "KATOWICE"
+  branch: null
+  swift: INGBPLPW
+    
+- name: "ING INVESTMENT MANAGEMENT (POLSKA) S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: IIMPPLP1
+    
+- name: "ING SECURITIES SPOWKA AKCYJNA W WARSZAWIE"
+  city: "WARSZAWA"
+  branch: null
+  swift: INURPLP1
+    
+- name: "ING TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: ITFIPLP1
+    
+- name: "INTESA SANPAOLO SPA"
+  city: "WARSZAWA"
+  branch: null
+  swift: BCITPLPW
+    
+- name: "INVESTORS DOM MAKLERSKI S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: IDMAPLP1
+    
+- name: "IPAGOO LLP, SPOLKA PARTNERSKA ODDZIAL"
+  city: "LODZ"
+  branch: null
+  swift: IPAGPLPL
+    
+- name: "IPOPEMA SECURITIES S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: IPSEPLP1
+    
+- name: "KBC SECURITIES N.V. BRANCH IN POLAND"
+  city: "WARSZAWA"
+  branch: null
+  swift: KBSEPLP1
+    
+- name: "KDPW CCP"
+  city: "WARSZAWA"
+  branch: null
+  swift: KCCPPLPW
+    
+- name: "KDPW CCP"
+  city: "WARSZAWA"
+  branch: null
+  swift: KCCPPLPWASI
+    
+- name: "KDPW CCP"
+  city: "WARSZAWA"
+  branch: null
+  swift: KCCPPLPWOTC
+    
+- name: "KDPW S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: KDPWPLPW
+    
+- name: "KOMPANIA PIWOWARSKA S.A."
+  city: "POZNAN"
+  branch: null
+  swift: KOPWPLP1
+    
+- name: "KOMPANIA PIWOWARSKA S.A."
+  city: "POZNAN"
+  branch: null
+  swift: KOPWPLP1KPW
+    
+- name: "KRAJOWA IZBA ROZLICZENIOWA S.A. (KIR S.A.)"
+  city: "WARSZAWA"
+  branch: null
+  swift: EKIRPLP1
+    
+- name: "KRAJOWA IZBA ROZLICZENIOWA S.A. (KIR S.A.)"
+  city: "WARSZAWA"
+  branch: null
+  swift: EKIRPLPD
+    
+- name: "KRAJOWA SPOLDZIELCZA KASA OSZCZEDNOSCIOWO-KREDYTOWA"
+  city: "SOPOT"
+  branch: null
+  swift: SKOKPLPW
+    
+- name: "KRAKOWSKI BANK SPOLDZIELCZY"
+  city: "KRAKOW"
+  branch: null
+  swift: KRSPPLP2
+    
+- name: "KRAKOWSKI BANK SPOLDZIELCZY"
+  city: "KRAKOW"
+  branch: null
+  swift: KRSPPLPK
+    
+- name: "KURPIOWSKI BANK SPOLDZIELCZY W MYSZYNCU"
+  city: "MYSZYNIEC"
+  branch: null
+  swift: SPYYPLP1
+    
+- name: "LEGG MASON ZARZADZANIE AKTYWAMI S.A"
+  city: "WARSZAWA"
+  branch: null
+  swift: LMZAPLP1
+    
+- name: "LG DISPLAY POLAND SP. ZO.O."
+  city: "WROCLAW"
+  branch: null
+  swift: LGDTPLP1
+    
+- name: "LUKAS BANK"
+  city: "TARNOWSKIE GORY"
+  branch: null
+  swift: LUKSPLP1
+    
+- name: "MBANK HIPOTECZNY SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: RHBHPLPW
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "BIALYSTOK"
+  branch: BIALYSTOK BRANCH
+  swift: BREXPLPWBIA
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "BIELSKO BIALA"
+  branch: BIELSKO BIALA BRANCH
+  swift: BREXPLPWBIB
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "BYDGOSZCZ"
+  branch: BYDGOSZCZ BRANCH
+  swift: BREXPLPWBYD
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "CZESTOCHOWA"
+  branch: CZESTOCHOWA BRANCH
+  swift: BREXPLPWCZE
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "GDANSK"
+  branch: null
+  swift: BREXPLPWGDA
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "GDYNIA"
+  branch: GDYNIA BRANCH
+  swift: BREXPLPWGDY
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "GORZOW WIELKOPOLSKI"
+  branch: GORZOW WIELKOPOLSKI BRANCH
+  swift: BREXPLPWGOR
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "KALISZ"
+  branch: KALISZ BRANCH
+  swift: BREXPLPWKAL
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "KATOWICE"
+  branch: REGIONAL OPERATION CENTER
+  swift: BREXPLPWRCO
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "KATOWICE"
+  branch: null
+  swift: BREXPLPWKAT
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "KIELCE"
+  branch: KIELCE BRANCH
+  swift: BREXPLPWKIE
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "KOSZALIN"
+  branch: CORPORATE BRANCH
+  swift: BREXPLPWKOS
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "KRAKOW"
+  branch: null
+  swift: BREXPLPWKRA
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "LODZ"
+  branch: MOBILE BANKING
+  swift: BREXPLPWOMB
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "LODZ"
+  branch: RETAIL BANKING
+  swift: BREXPLPWMBK
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "LODZ"
+  branch: RETAIL BANKING
+  swift: BREXPLPWMUL
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "LODZ"
+  branch: null
+  swift: BREXPLPWLOD
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "LUBLIN"
+  branch: null
+  swift: BREXPLPWLUB
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "NOWY SACZ"
+  branch: CORPORATE BRANCH
+  swift: BREXPLPWNWS
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "OLSZTYN"
+  branch: CORPORATE BRANCH
+  swift: BREXPLPWOLS
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "OPOLE"
+  branch: OPOLE BRANCH
+  swift: BREXPLPWOPO
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "POZNAN"
+  branch: null
+  swift: BREXPLPWPOZ
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "RYBNIK"
+  branch: RYBNIK BRANCH
+  swift: BREXPLPWRYB
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "RZESZOW"
+  branch: RZESZOW BRANCH
+  swift: BREXPLPWRZE
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "SZCZECIN"
+  branch: CORPORATE BRANCH
+  swift: BREXPLPWSZC
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "TORUN"
+  branch: CORPORATE BRANCH
+  swift: BREXPLPWTOR
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "WALBRZYCH"
+  branch: CORPORATE BRANCH
+  swift: BREXPLPWWAL
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "WARSZAWA"
+  branch: BRANCH
+  swift: BREXPLPWWA1
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "WARSZAWA"
+  branch: CORPORATE BRANCH
+  swift: BREXPLPWWA4
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "WARSZAWA"
+  branch: CUSTODY DEPARTMENT
+  swift: BREXPLPWCUS
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "WARSZAWA"
+  branch: DOM MAKLERSKI MBANKU S.A.
+  swift: BREXPLPWMDM
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "WARSZAWA"
+  branch: HEAD OFFICE
+  swift: BREXPLPW
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "WARSZAWA"
+  branch: WARSZAWA II BRANCH
+  swift: BREXPLPWWA2
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "WARSZAWA"
+  branch: WARSZAWA III BRANCH
+  swift: BREXPLPWWA3
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "WROCLAW"
+  branch: null
+  swift: BREXPLPWWRO
+    
+- name: "MBANK S.A. (FORMERLY BRE BANK S.A.)"
+  city: "ZIELONA GORA"
+  branch: ZIELONA GORA BRANCH
+  swift: BREXPLPWZIE
+    
+- name: "MERCEDES-BENZ BANK POLSKA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: MBBPPLPW
+    
+- name: "MERCURIUS DOM MAKLERSKI SP. Z.O.O."
+  city: "WARSZAWA"
+  branch: null
+  swift: MDMZPLP1
+    
+- name: "MILLENNIUM DOM MAKLERSKI S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: MDOMPLP1
+    
+- name: "MUFG BANK (EUROPE) N.V. S.A. ODDZIAL W POLSCE (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (POLSKA) S.A.)"
+  city: "WARSZAWA"
+  branch: null
+  swift: BOTKPLPW
+    
+- name: "MUFG BANK (EUROPE) N.V. S.A. ODDZIAL W POLSCE (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (POLSKA) S.A.)"
+  city: "WARSZAWA"
+  branch: null
+  swift: BOTKPLPWSTL
+    
+- name: "NARODOWY BANK POLSKI"
+  city: "WARSZAWA"
+  branch: HEAD OFFICE
+  swift: NBPLPLPW
+    
+- name: "NARODOWY BANK POLSKI"
+  city: "WARSZAWA"
+  branch: INTERNAL ROUTING
+  swift: NBPLPLPWKIR
+    
+- name: "NARODOWY BANK POLSKI"
+  city: "WARSZAWA"
+  branch: PLN - RTGS ONLY
+  swift: NBPLPLPDDSP
+    
+- name: "NARODOWY BANK POLSKI"
+  city: "WARSZAWA"
+  branch: T2S AUTO-COLLAT.
+  swift: NBPLPLPWSEA
+    
+- name: "NARODOWY BANK POLSKI"
+  city: "WARSZAWA"
+  branch: T2S AUTO-COLLAT.
+  swift: NBPLPLPWSEB
+    
+- name: "NARODOWY BANK POLSKI"
+  city: "WARSZAWA"
+  branch: T2S OPERATIONS
+  swift: NBPLPLPWCRD
+    
+- name: "NARODOWY BANK POLSKI"
+  city: "WARSZAWA"
+  branch: null
+  swift: NBPLPLPA
+    
+- name: "NARODOWY BANK POLSKI"
+  city: "WARSZAWA"
+  branch: null
+  swift: NBPLPLPD
+    
+- name: "NARODOWY BANK POLSKI"
+  city: "WARSZAWA"
+  branch: null
+  swift: NBPLPLPWBAN
+    
+- name: "NATIONAL DEPOSITORY FOR SECURITIES (KDPW SA)"
+  city: "WARSZAWA"
+  branch: null
+  swift: KDPWPLPA
+    
+- name: "NEST BANK S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: NESBPLPW
+    
+- name: "NEST BANK S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: NESBPLPWFMB
+    
+- name: "NOBLE BANK S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: NBLLPLP1
+    
+- name: "OKLY SPA ZOO"
+  city: "WARSZAWA"
+  branch: null
+  swift: OKLZPLP1
+    
+- name: "OPERA DOM MAKLERSKI SPOWKA Z OGRANICZONA ODPOWIEDZIALNOSCIA"
+  city: "WARSZAWA"
+  branch: null
+  swift: ODMSPLP1
+    
+- name: "OPERA-KWIATKOWSKI I WSPOLNICY SPOLKA KOMANDYTOWOAKCYJNA"
+  city: "WARSZAWA"
+  branch: null
+  swift: OWSKPLP1
+    
+- name: "PANSTWOWE PRZEDSIEBIORSTWO UZYTECZNOSCI PUBLICZNEJ 'POCZTA POLSKA'"
+  city: "WARSZAWA"
+  branch: null
+  swift: POPOPLP1
+    
+- name: "PAYSERA LT UAB"
+  city: "WARSZAWA"
+  branch: null
+  swift: EVIUPLP1
+    
+- name: "PEKAO BANK HIPOTECZNY SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: HYVEPLP2
+    
+- name: "PKO BANK HIPOTECZNY SA"
+  city: "GDYNIA"
+  branch: null
+  swift: BPKHPLPG
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "BIALYSTOK"
+  branch: PKO O.REGIONALNY W BIALYMSTOKU
+  swift: BPKOPLPWBIA
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "BYDGOSZCZ"
+  branch: ODDZIAL BYDGOSZCZ
+  swift: BPKOPLPWTOB
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "GDYNIA"
+  branch: I/O GDYNIA
+  swift: BPKOPLPWGDG
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "GORZOW WIELKOPOLSKI"
+  branch: I/O GORZOW WIELKOPOLSKI
+  swift: BPKOPLPWGOA
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "KATOWICE"
+  branch: ODDZIAL KATOWICE
+  swift: BPKOPLPWKAB
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "KRAKOW"
+  branch: ODDZIAL KRAKOW
+  swift: BPKOPLPWKRD
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "LODZ"
+  branch: ODDZIAL LODZ
+  swift: BPKOPLPWLDA
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "LUBLIN"
+  branch: ODDZIAL LUBLIN
+  swift: BPKOPLPWLUA
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "OLSZTYN"
+  branch: ODDZIAL OLSZTYN
+  swift: BPKOPLPWOLS
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "POZNAN"
+  branch: ODDZIAL POZNAN
+  swift: BPKOPLPWPOA
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "WARSZAWA"
+  branch: CUSTODY SERVICES DIVISION
+  swift: BPKOPLPWCSD
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "WARSZAWA"
+  branch: HEAD OFFICE - TREASURY DEPARTMENT
+  swift: BPKOPLPWTDH
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "WARSZAWA"
+  branch: ODDZIAL WARSZAWA
+  swift: BPKOPLPWWAA
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "WARSZAWA"
+  branch: PKO BP SECURITIES
+  swift: BPKOPLPWSEC
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: BPKOPLPW
+    
+- name: "PKO BANK POLSKI S.A."
+  city: "WROCLAW"
+  branch: ODDZIAL WROCLAW
+  swift: BPKOPLPWWRD
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO ABSOLUTNEJ STOPY ZWROTU EUROPA WSCHOD-ZACHOD FIZ
+  swift: PTFIPLPWASZ
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO BEZPIECZNA LOKATA I FIZ
+  swift: PTFIPLPWFBL
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO EUROPA WSCHOD-ZACHOD FIZ
+  swift: PTFIPLPWEWZ
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO GLOBALNEGO DOCHODU FIZ
+  swift: PTFIPLPWFGD
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO GLOBALNEJ MAKROEKONOMII FIZ
+  swift: PTFIPLPWFGM
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO GLOBALNEJ STRATEGII FIZ
+  swift: PTFIPLPWFGS
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO MULTI STRATEGIA FIZ
+  swift: PTFIPLPWFMS
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO OBLIGACJI WYSOKODOCHODOWYCH GLOBALNY
+  swift: PTFIPLPWFOW
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI DYWIDENDOWYCH GLOBALNY
+  swift: PTFIPLPWADG
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI MALYCH I SREDNICH SPOLEK
+  swift: PTFIPLPWAMS
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI NOWA EUROPA
+  swift: PTFIPLPWANE
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI PLUS
+  swift: PTFIPLPWFAP
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKOW WSCHODZACYCH
+  swift: PTFIPLPWARW
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKU AMERYKANSKIEGO
+  swift: PTFIPLPWARA
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKU AZJI I PACYFIKU
+  swift: PTFIPLPWAAP
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKU EUROPEJSKIEGO
+  swift: PTFIPLPWARE
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKU JAPONSKIEGO
+  swift: PTFIPLPWARJ
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKU ZLOTA
+  swift: PTFIPLPWARZ
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO DOBR LUKSUSOWYCH GLOBALNY
+  swift: PTFIPLPWFDL
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO INFRASTRUKTURY BUDOWNICTWA GLOBAL
+  swift: PTFIPLPWFIB
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO MEDYCYNY I DEMOGRAFII GLOBALNY
+  swift: PTFIPLPWMDG
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO OBLIGACJI DLUGOTERMINOWYCH
+  swift: PTFIPLPWFOD
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO PAPIEROW DLUZNYCH PLUS
+  swift: PTFIPLPWPDP
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO PAPIEROW DLUZNYCH USD
+  swift: PTFIPLPWDUS
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO SKARBOWY
+  swift: PTFIPLPWFSK
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO STABILNEGO WZROSTU
+  swift: PTFIPLPWFSW
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO STRATEGICZNEJ ALOKACJI
+  swift: PTFIPLPWFSA
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO SUROWCOW GLOBALNY
+  swift: PTFIPLPWSUR
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO TECHNOLOGII I INNOWACJI GLOBALNY
+  swift: PTFIPLPWECH
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PARASOLOWY FIO SUBFUNDUSZ PKO ZROWNOWAZONY
+  swift: PTFIPLPWFZR
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO PLYNNOSCIOWY SFIO
+  swift: PTFIPLPWFPL
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO SPOLEK INNOWACYJNYCH GLOBALNY FIZ
+  swift: PTFIPLPWSIG
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO STRATEGII DLUZNYCH FIZ
+  swift: PTFIPLPWFSD
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: PKO STRATEGII OBLIGACYJNYCH FIZ
+  swift: PTFIPLPWFSO
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: ZEBEZPIECZENIA EMERYTALNEGO FIO SUBFUNDUSZ PKO ZABEZPIECZENIA EME
+  swift: PTFIPLPWE20
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: ZEBEZPIECZENIA EMERYTALNEGO FIO SUBFUNDUSZ PKO ZABEZPIECZENIA EME
+  swift: PTFIPLPWE30
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: ZEBEZPIECZENIA EMERYTALNEGO FIO SUBFUNDUSZ PKO ZABEZPIECZENIA EME
+  swift: PTFIPLPWE40
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: ZEBEZPIECZENIA EMERYTALNEGO FIO SUBFUNDUSZ PKO ZABEZPIECZENIA EME
+  swift: PTFIPLPWE50
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: ZEBEZPIECZENIA EMERYTALNEGO FIO SUBFUNDUSZ PKO ZABEZPIECZENIA EME
+  swift: PTFIPLPWE60
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: PTFIPLP1
+    
+- name: "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: PTFIPLPW
+    
+- name: "PLUS BANK S.A."
+  city: "WARSZAWA"
+  branch: HEAD OFFICE
+  swift: IVSEPLPP
+    
+- name: "POCZTOWY BANK SA"
+  city: "BYDGOSZCZ"
+  branch: null
+  swift: POCZPLP4
+    
+- name: "PODKARPACKI BANK SPOLDZIELCZY"
+  city: "SANOK"
+  branch: null
+  swift: PODSPLA1
+    
+- name: "PODKARPACKI BANK SPOLDZIELCZY"
+  city: "SANOK"
+  branch: null
+  swift: PODSPLP1
+    
+- name: "POLISH-AMERICAN MORTGAGE BANK INC."
+  city: "WARSZAWA"
+  branch: null
+  swift: PAMBPLP1
+    
+- name: "POLUDNIOWO-MAZOWIECKI BS W JEDLINSKU"
+  city: "JEDLINSK"
+  branch: null
+  swift: SPJEPLP1
+    
+- name: "POWIATOWY BANK SPOLDZIELCZY W KEDZIERZYNIE-KOZLU"
+  city: "KEDZIERZYN-KOZLE"
+  branch: null
+  swift: POSDPLP1
+    
+- name: "POWIATOWY BANK SPOLDZIELCZY W TOMASZOWIE MAZOWIECKIM"
+  city: "INOWLODZ"
+  branch: null
+  swift: PBSTPLP1
+    
+- name: "PROSERVICE FINTECO SP Z O.O."
+  city: "WARSZAWA"
+  branch: null
+  swift: PSATPLPW
+    
+- name: "PZU ASSET MANAGEMET SA"
+  city: "WARSZAWA"
+  branch: null
+  swift: PZUAPLP1
+    
+- name: "RAIFFEISEN BANK POLSKA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: RCBWPLPW
+    
+- name: "RBS BANK (POLSKA) S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: ABNAPLPW
+    
+- name: "SAMSUNG ELECTRONICS POLAND CO."
+  city: "WARSZAWA"
+  branch: SEPOL
+  swift: SECTPLP14D0
+    
+- name: "SAMSUNG ELECTRONICS POLAND CO."
+  city: "WARSZAWA"
+  branch: null
+  swift: SECTPLP1
+    
+- name: "SAMSUNG ELECTRONICS POLAND CO."
+  city: "WRONKI"
+  branch: null
+  swift: SECTPLP14N1
+    
+- name: "SANTANDER CONSUMER BANK SA"
+  city: "WROCLAW"
+  branch: null
+  swift: SCFBPLPW
+    
+- name: "SECUS ASSET MANAGEMENT SA"
+  city: "KATOWICE"
+  branch: null
+  swift: SESNPLP1
+    
+- name: "SGB-BANK S.A. (FORMERLY GOSPODARCZY BANK WIELKOPOLSKI S.A.)"
+  city: "POZNAN"
+  branch: null
+  swift: GBWCPLPP
+    
+- name: "SKANDIA ZYCIE TOWARZYSTWO UBEZPIERC"
+  city: "WARSZAWA"
+  branch: null
+  swift: SZTUPLP1
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB, SPOLKA AKCYJNA, ODDZIAL W POLSCE"
+  city: "WARSZAWA"
+  branch: null
+  swift: ESSEPLPW
+    
+- name: "SOCIETE GENERALE SPOLKA AKCYJNA ODDZIAL W POLSCE"
+  city: "WARSZAWA"
+  branch: null
+  swift: SOGEPLPW
+    
+- name: "SUPREMA SECURITIES S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: SUSRPLP1
+    
+- name: "SVENSKA HANDELSBANKEN AB SPOLKA AKCYJNA ODDZIAL W POLSCE"
+  city: "WARSZAWA"
+  branch: null
+  swift: HANDPLPW
+    
+- name: "THE POLISH REGISTRY OF ALLOWANCES"
+  city: "WARSZAWA"
+  branch: null
+  swift: POROPLP1
+    
+- name: "TOYOTA BANK POLSKA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: TOBAPLPW
+    
+- name: "TRIGON DOM MAKLERSKI S.A."
+  city: "KRAKOW"
+  branch: null
+  swift: TROMPLP1
+    
+- name: "TUIR WARTA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: WARTPLPW
+    
+- name: "UNICREDIT CA IB POLSKA SPOKA AKCYJNA"
+  city: "WARSZAWA"
+  branch: null
+  swift: UPSAPLP1
+    
+- name: "VANQUIS BANK LIMITED (SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCI)"
+  city: "WARSZAWA"
+  branch: null
+  swift: VANQPLP1
+    
+- name: "VOLKSWAGEN BANK"
+  city: "WARSZAWA"
+  branch: null
+  swift: VOWAPLP1
+    
+- name: "VOLKSWAGEN BANK POLSKA S.A."
+  city: "WARSZAWA"
+  branch: null
+  swift: VOWAPLP9
+    
+- name: "VW POZNAN"
+  city: "POZNAN"
+  branch: null
+  swift: POZNPLP1
+    
+- name: "WARSAW STOCK EXCHANGE"
+  city: "WARSZAWA"
+  branch: null
+  swift: XWARPLP1
+    
+- name: "WOOD AND COMPANY FINANCIAL SERVICES A.S. POLISH BRANCH"
+  city: "WARSZAWA"
+  branch: null
+  swift: WCFSPLP1
+    
+- name: "X-TRADE BROKERS DOM MAKLERSKI SPOWKA AKCYJNA"
+  city: "WARSZAWA"
+  branch: null
+  swift: TBDMPLP1
+    
+- name: "ZULAWSKI BANK SPOLDZIELCZY"
+  city: "NOWY DWOR GDANSKI"
+  branch: null
+  swift: ZUSPPLP1
+    

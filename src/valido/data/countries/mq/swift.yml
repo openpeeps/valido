@@ -1,0 +1,60 @@
+- name: "BANQUE NATIONALE DE PARIS SUCCURSALE DE FORT DE FRANCE"
+  city: "FORT DE FRANCE"
+  branch: null
+  swift: BNPAMQMX
+    
+- name: "C.C.P.B ANTILLE GUYANE"
+  city: "FORT DE FRANCE"
+  branch: null
+  swift: CCNGMQM1
+    
+- name: "CAISSE EPARGNE MARTINIQUE"
+  city: "FORT DE FRANCE"
+  branch: null
+  swift: CAEQMQM1
+    
+- name: "CAISSE EPARGNE PREVOYANCE MARTINIQUE"
+  city: "FORT DE FRANCE"
+  branch: null
+  swift: CERIMQM1
+    
+- name: "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE LA MARTINIQUE ET DE LA GUYANE"
+  city: "LE LAMENTIN"
+  branch: null
+  swift: CGRLMQM1
+    
+- name: "CREDIT AGRICOLE"
+  city: "FORT DE FRANCE"
+  branch: null
+  swift: AGRIMQMX
+    
+- name: "CREDIT AGRICOLE"
+  city: "LE LAMENTIN"
+  branch: null
+  swift: AGRIMQMXLEL
+    
+- name: "CREDIT MUTUEL-CAISSE FEDERALE ANTILLES GUYANE"
+  city: "FORT DE FRANCE"
+  branch: null
+  swift: CMCIMQM1
+    
+- name: "GROUPE BERNARD HAYOT"
+  city: "LE LAMENTIN"
+  branch: null
+  swift: GBHAMQMM
+    
+- name: "SOCIETE GENERALE DE BANQUE AUX ANTILLES"
+  city: "FORT DE FRANCE"
+  branch: null
+  swift: SOGEMQM1
+    
+- name: "SOCIETE MARTINIQUAISE DE FINT-SOMAFI"
+  city: "LE LAMENTIN"
+  branch: null
+  swift: SMFSMQM1
+    
+- name: "SOFIAG"
+  city: "FORT DE FRANCE"
+  branch: null
+  swift: SOAIMQM1
+    

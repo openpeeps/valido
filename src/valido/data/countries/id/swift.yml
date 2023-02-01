@@ -1,0 +1,3860 @@
+- name: "ABADI PRISMA EKAMANDIRI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ABPEIDJ1
+    
+- name: "ABADI SEKURITAS ADIMASA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ABSDIDJ1
+    
+- name: "ADITHYA SECURINVEST, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ADISIDJ1
+    
+- name: "AGRIDHANASATYA PERMATA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: AGRPIDJ1
+    
+- name: "AGUNG CAHAYA CENDANA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: AGCCIDJ1
+    
+- name: "AGUNG SECURITIES INDONESIA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: AGSIIDJ1
+    
+- name: "AKSARA KENCANA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: AKSKIDJ1
+    
+- name: "AKSARA KENCANA, PT"
+  city: "SURABAYA"
+  branch: null
+  swift: AKSKIDJ10JD
+    
+- name: "ALDIRACITA CORPOTAMA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ALDCIDJ1
+    
+- name: "AMCOL SEKURINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: AMCEIDJ1
+    
+- name: "AMSINDO NUSANTARA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: AMSNIDJ1
+    
+- name: "ANEKA KELOLADANA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ANEKIDJ1
+    
+- name: "ANEKAREKSA SECURITIES CORP, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ANESIDJ1
+    
+- name: "ANTAR DHANA MASA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ANDMIDJ1
+    
+- name: "ANUGERAH SECURINDO INDAH, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ANSIIDJ1
+    
+- name: "APERDI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: APERIDJ1
+    
+- name: "ARBUTHNOT LATHAM BANK LTD."
+  city: "JAKARTA"
+  branch: null
+  swift: ALABIDJ1
+    
+- name: "ARGA ARTHA SECURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ARAEIDJ1
+    
+- name: "ARTA GITASEJAHTERA SEKURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ARGSIDJ1
+    
+- name: "ARTHA ADYANUGRAHA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ARTDIDJ1
+    
+- name: "ARTHA DWIPA PERSADA PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ARDPIDJ1
+    
+- name: "ARTHA SECURITIES PRIMA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ARSRIDJ1
+    
+- name: "ARYA PRADA SEKURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ARPSIDJ1
+    
+- name: "ARYA SHINTA FINANCE"
+  city: "JAKARTA"
+  branch: null
+  swift: ARSFIDJ1
+    
+- name: "ASEAM INDONESIA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ASEIIDJ1
+    
+- name: "ASIA KAPITALINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ASITIDJ1
+    
+- name: "ASIAN DEVELOPMENT BANK"
+  city: "JAKARTA"
+  branch: null
+  swift: ASDBIDJ1
+    
+- name: "ASIANA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ASIUIDJ1
+    
+- name: "ASJAYA INDOSURYA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ASNSIDJ1
+    
+- name: "ASPAC UPPINDO,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ASPUIDJ1
+    
+- name: "ASPRINA PRIMA SENTOSA,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ASPNIDJ1
+    
+- name: "ASTRA SECURITIES,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ASTSIDJ1
+    
+- name: "BAHAMINDO GUNA"
+  city: "JAKARTA"
+  branch: null
+  swift: BAHGIDJ1
+    
+- name: "BAHANA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BAEUIDJ1
+    
+- name: "BAKRIE SECURITIES"
+  city: "JAKARTA"
+  branch: null
+  swift: BAKSIDJ1
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED"
+  city: "JAKARTA"
+  branch: null
+  swift: BKKBIDJA
+    
+- name: "BANK AGUNG ASIA"
+  city: "JAKARTA"
+  branch: null
+  swift: AGASIDJ1
+    
+- name: "BANK ANZ INDONESIA, P.T."
+  city: "JAKARTA"
+  branch: null
+  swift: ANZBIDJX
+    
+- name: "BANK ARTA NIAGA KENCANA"
+  city: "SURABAYA"
+  branch: null
+  swift: ARNKIDJ1
+    
+- name: "BANK ARTHA GRAHA INTERNASIONAL TBK, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ARTGIDJA
+    
+- name: "BANK BNP PARIBAS INDONESIA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BNPAIDJA
+    
+- name: "BANK CENTRAL ASIA"
+  city: "JAKARTA"
+  branch: null
+  swift: CENAIDJA
+    
+- name: "BANK CTBC INDONESIA, PT"
+  city: "BANDUNG"
+  branch: BANDUNG BRANCH
+  swift: CTCBIDJABDG
+    
+- name: "BANK CTBC INDONESIA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: CTCBIDJA
+    
+- name: "BANK CTBC INDONESIA, PT"
+  city: "SURABAYA"
+  branch: SURABAYA BRANCH
+  swift: CTCBIDJASBY
+    
+- name: "BANK DBS INDONESIA, PT"
+  city: "JAKARTA"
+  branch: JAKARTA BRANCH
+  swift: DBSBIDJAIBD
+    
+- name: "BANK DBS INDONESIA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DBSBIDJA
+    
+- name: "BANK DBS INDONESIA, PT"
+  city: "SURABAYA"
+  branch: SYRABAYA BRANCH
+  swift: DBSBIDJASBY
+    
+- name: "BANK DKI, PT."
+  city: "JAKARTA"
+  branch: null
+  swift: BDKIIDJA
+    
+- name: "BANK INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: INDOIDJA
+    
+- name: "BANK JASA ARTA PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DJARIDJ1
+    
+- name: "BANK JATENG"
+  city: "SEMARANG"
+  branch: null
+  swift: PDJGIDJA
+    
+- name: "BANK KESAWAN PT TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: KESBIDS1
+    
+- name: "BANK MANDIRI (PERSERO), PT"
+  city: "BANDUNG"
+  branch: BILLS PROCESSING CENTER BANDUNG
+  swift: BMRIIDJA852
+    
+- name: "BANK MANDIRI (PERSERO), PT"
+  city: "JAKARTA"
+  branch: BILLS PROCESSING CENTER JAKARTA
+  swift: BMRIIDJA107
+    
+- name: "BANK MANDIRI (PERSERO), PT"
+  city: "JAKARTA"
+  branch: HEAD OFFICE-CUSTODIAL SERVICES
+  swift: BMRIIDJACUS
+    
+- name: "BANK MANDIRI (PERSERO), PT"
+  city: "JAKARTA"
+  branch: HEAD OFFICE-EXPORT/IMPORT DEPT
+  swift: BMRIIDJAEXM
+    
+- name: "BANK MANDIRI (PERSERO), PT"
+  city: "JAKARTA"
+  branch: HEAD OFFICE-SETTLEMENT DEPT
+  swift: BMRIIDJASTL
+    
+- name: "BANK MANDIRI (PERSERO), PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BMRIIDJA
+    
+- name: "BANK MANDIRI (PERSERO), PT"
+  city: "MEDAN"
+  branch: BILLS PROCESSING CENTER MEDAN
+  swift: BMRIIDJA853
+    
+- name: "BANK MANDIRI (PERSERO), PT"
+  city: "SEMARANG"
+  branch: BILLS PROCESSING CENTER SEMARANG
+  swift: BMRIIDJA854
+    
+- name: "BANK MANDIRI (PERSERO), PT"
+  city: "SURABAYA"
+  branch: BILLS PROCESSING CENTER SURABAYA
+  swift: BMRIIDJA851
+    
+- name: "BANK MAYINDO PERTAMA"
+  city: "JAKARTA"
+  branch: null
+  swift: MAPEIDJ1
+    
+- name: "BANK MEGA PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MEGAIDJA
+    
+- name: "BANK MEGA PT. TBK."
+  city: "JAKARTA"
+  branch: null
+  swift: KBNKIDJ1
+    
+- name: "BANK MESTIKA DHARMA"
+  city: "MEDAN"
+  branch: null
+  swift: BMDMIDJA
+    
+- name: "BANK MITRANIAGA PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MGABIDJ1
+    
+- name: "BANK MIZUHO INDONESIA, PT."
+  city: "JAKARTA"
+  branch: null
+  swift: MHCCIDJA
+    
+- name: "BANK NASIONAL"
+  city: "BUKITTINGGI"
+  branch: null
+  swift: NBNKIDJ1
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "AMBON"
+  branch: AMBON BRANCH
+  swift: BNINIDJAABN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BALIGE"
+  branch: BALIGE BRANCH
+  swift: BNINIDJABLG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BALIKPAPAN"
+  branch: BALIKPAPAN BRANCH
+  swift: BNINIDJABPN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BALIKPAPAN"
+  branch: PANDANSARI BRANCH
+  swift: BNINIDJAPSB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANDA ACEH"
+  branch: BANDA ACEH BRANCH
+  swift: BNINIDJABDA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANDAR LAMPUNG"
+  branch: BANDAR LAMPUNG BRANCH
+  swift: BNINIDJABDL
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANDUNG"
+  branch: AHMAD YANI BRANCH
+  swift: BNINIDJAAYI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANDUNG"
+  branch: BANDUNG BRANCH
+  swift: BNINIDJABDG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANDUNG"
+  branch: IKIP BANDUNG BRANCH
+  swift: BNINIDJAIKB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANDUNG"
+  branch: ITB BRANCH
+  swift: BNINIDJAITB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANDUNG"
+  branch: JALAN JENDRAL SUDIRMAN BRANCH
+  swift: BNINIDJAJJS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANDUNG"
+  branch: JALAN PERINTIS KEMERDEKAAN BANDUNG BRANCH
+  swift: BNINIDJAJPK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANDUNG"
+  branch: UNPAD BR. BDG.
+  swift: BNINIDJAUPB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANGKO"
+  branch: BANGKO BRANCH
+  swift: BNINIDJABKO
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANJAR"
+  branch: BANJAR BRANCH
+  swift: BNINIDJABJR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANJARBARU"
+  branch: BANJARBARU BRANCH
+  swift: BNINIDJABBR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANJARMASIN"
+  branch: BANJARMASIN BRANCH
+  swift: BNINIDJABMS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANJARMASIN"
+  branch: PANGERAN ANTASARI BRANCH
+  swift: BNINIDJAPAB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BANYUWANGI"
+  branch: BANYUWANGI BRANCH
+  swift: BNINIDJABWI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BARABAI"
+  branch: BARABAI BRANCH
+  swift: BNINIDJABBI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BATAM"
+  branch: BATAM BRANCH
+  swift: BNINIDJABTM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BATURAJA"
+  branch: BATURAJA BRANCH
+  swift: BNINIDJABTR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BAU-BAU"
+  branch: BAU-BAU BRANCH
+  swift: BNINIDJABAU
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BEKASI"
+  branch: BEKASI BRANCH
+  swift: BNINIDJABKS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BELAWAN"
+  branch: BELAWAN BRANCH
+  swift: BNINIDJABLW
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BENGKULU"
+  branch: BENGKULU BRANCH
+  swift: BNINIDJABKL
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BIAK"
+  branch: BIAK BRANCH
+  swift: BNINIDJABIK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BIMA"
+  branch: BIMA BRANCH
+  swift: BNINIDJABMA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BIREUN"
+  branch: BIREUN BRANCH
+  swift: BNINIDJABRN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BITUNG"
+  branch: BITUNG BRANCH
+  swift: BNINIDJABIT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BLITAR"
+  branch: BLITAR BRANCH
+  swift: BNINIDJABLT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BOGOR"
+  branch: BOGOR BRANCH
+  swift: BNINIDJABGR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BOJONEGORO"
+  branch: BOJONEGORO BRANCH
+  swift: BNINIDJABRO
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BONDOWOSO"
+  branch: BONDOWOSO BRANCH
+  swift: BNINIDJABDO
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "BUKITTINGGI"
+  branch: BUKITTINGGI BRANCH
+  swift: BNINIDJABTG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "CEPU"
+  branch: CEPU BRANCH
+  swift: BNINIDJACPU
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "CIAMIS"
+  branch: CIAMIS BRANCH
+  swift: BNINIDJACAM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "CIANJUR"
+  branch: CIANJUR BRANCH
+  swift: BNINIDJACJR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "CIKAMPEK"
+  branch: CIKAMPEK BRANCH
+  swift: BNINIDJACKP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "CILACAP"
+  branch: CILACAP BRANCH
+  swift: BNINIDJACLP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "CILEGON"
+  branch: CILEGON BRANCH
+  swift: BNINIDJACLG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "CIMAHI"
+  branch: CIMAHI BDG. BRANCH
+  swift: BNINIDJACMI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "CIREBON"
+  branch: CIREBON BRANCH
+  swift: BNINIDJACRB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "DENPASAR"
+  branch: DENPASAR BRANCH
+  swift: BNINIDJADPS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "DENPASAR"
+  branch: RENON BRANCH
+  swift: BNINIDJARNN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "DEPOK"
+  branch: MARGONDA BRANCH
+  swift: BNINIDJAMGD
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "DILI"
+  branch: DILI-EAST TIM
+  swift: BNINIDJADLI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "DUMAI"
+  branch: DUMAI BRANCH
+  swift: BNINIDJADMI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "ENDE"
+  branch: ENDE BR. NTT.
+  swift: BNINIDJAEND
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "GARUT"
+  branch: GARUT BRANCH
+  swift: BNINIDJAGRT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "GORONTALO"
+  branch: GORONTALO BRANCH
+  swift: BNINIDJAGTL
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "GRESIK"
+  branch: GRESIK BRANCH
+  swift: BNINIDJAGRK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "GUNUNG SITOLI"
+  branch: GUNUNG SITOLI BRANCH
+  swift: BNINIDJAGST
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "INDRAMAYU"
+  branch: INDRAMAYU BRANCH
+  swift: BNINIDJAIDR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: BANDARA SUKARNO HATTA BRANCH
+  swift: BNINIDJABSH
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: DAAN MOGOT BRANCH
+  swift: BNINIDJADMG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: DUKUH BAWAH LANDMARK BRANCH
+  swift: BNINIDJADKB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: FATMAWATI BRANCH
+  swift: BNINIDJAFMI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: GAMBIR BRANCH
+  swift: BNINIDJAGBR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: GUNUNG SAHARI BRANCH
+  swift: BNINIDJAGNS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: HARMONI BRANCH
+  swift: BNINIDJAHMN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: HEAD OFFICE FINANCIAL ANALYSIS AND CONTROL DIVISION
+  swift: BNINIDJAAPK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: HEAD OFFICE INTERNATIONAL DIVISION
+  swift: BNINIDJADLN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: JAKARTA KOTA BRANCH
+  swift: BNINIDJAJKT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: JAKARTA PUSAT BRANCH
+  swift: BNINIDJAJPU
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: JALAN RASUNA SAID BRANCH
+  swift: BNINIDJAJRS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: JATINEGARA BRANCH
+  swift: BNINIDJAJNG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: KEBAYORAN BARU BRANCH
+  swift: BNINIDJAKBY
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: KRAMAT BRANCH
+  swift: BNINIDJAKRM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: KREKOT BRANCH
+  swift: BNINIDJAKRK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: MANGGA DUA BRANCH
+  swift: BNINIDJAMDA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: MATRAMAN BRANCH
+  swift: BNINIDJAMTR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: MEDAN MERDEKA TIMUR BRANCH
+  swift: BNINIDJAMDT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: MENTENG BRANCH
+  swift: BNINIDJAMTG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: MERDEKA SELATAN BRANCH
+  swift: BNINIDJAMDS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: MH THAMRIN BRANCH
+  swift: BNINIDJAMHT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: PASAR BARU BRANCH
+  swift: BNINIDJAPBU
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: PASAR KOJA BRANCH
+  swift: BNINIDJAPKJ
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: PASAR MAYESTIK BRANCH
+  swift: BNINIDJAPMK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: PASAR MINGGU BRANCH
+  swift: BNINIDJAPSM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: PECENONGAN BRANCH
+  swift: BNINIDJAPCG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: PETOJO BRANCH
+  swift: BNINIDJAPTJ
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: PONDOK INDAH MALL BRANCH
+  swift: BNINIDJAPIM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: RATU PLAZA
+  swift: BNINIDJARPZ
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: RAWAMANGUN BRANCH
+  swift: BNINIDJARWM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: ROA MALAKA BRANCH
+  swift: BNINIDJARMA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: SEMANGGI BRANCH
+  swift: BNINIDJASGI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: SENAYAN BRANCH
+  swift: BNINIDJASNY
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: SENEN BRANCH
+  swift: BNINIDJASNN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: SYNDICATION DIVISION
+  swift: BNINIDJASJK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: TANAH ABANG BRANCH
+  swift: BNINIDJATAB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: TANJUNG PRIOK BRANCH
+  swift: BNINIDJATPR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: TEBET BRANCH
+  swift: BNINIDJATEB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: TREASURY DIVISION
+  swift: BNINIDJATRS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: UI DEPOK BRANCH
+  swift: BNINIDJAUID
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: WISMA ARGO MANUNGGAL BRANCH
+  swift: BNINIDJAWAM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: WISMA EMPAT NAM BRANCH
+  swift: BNINIDJAWEN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: null
+  swift: BNINIDJA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAKARTA"
+  branch: null
+  swift: BNINIDJAHII
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAMBI"
+  branch: JAMBI BRANCH
+  swift: BNINIDJAJBI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JAYAPURA"
+  branch: JAYAPURA BRANCH
+  swift: BNINIDJAJPA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JEMBER"
+  branch: JEMBER BRANCH
+  swift: BNINIDJAJBR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JEPARA"
+  branch: JEPARA BRANCH
+  swift: BNINIDJAJPR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "JOMBANG"
+  branch: JOMBANG BRANCH
+  swift: BNINIDJAJBG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KABANJAHE"
+  branch: KABANJAHE BRANCH
+  swift: BNINIDJAKJH
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KARAWANG"
+  branch: KARAWANG BRANCH
+  swift: BNINIDJAKWG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KAYU AGUNG"
+  branch: KAYU AGUNG BRANCH
+  swift: BNINIDJAKYA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KEBUMEN"
+  branch: KEBUMEN BRANCH
+  swift: BNINIDJAKBM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KEDIRI"
+  branch: KEDIRI BRANCH
+  swift: BNINIDJAKDI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KENDARI"
+  branch: KENDARI BRANCH
+  swift: BNINIDJAKDR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KETAPANG"
+  branch: KETAPANG BRANCH
+  swift: BNINIDJAKPG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KLATEN"
+  branch: KLATEN BRANCH
+  swift: BNINIDJAKLA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KOTABARU PULAU LAUT"
+  branch: KOTABARU P. LAUT BRANCH
+  swift: BNINIDJAKTU
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KOTABUMI"
+  branch: KOTA BUMI BANCH
+  swift: BNINIDJAKTI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KOTAMOBAGU"
+  branch: KOTAMOBAGU BRANCH
+  swift: BNINIDJAKTM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KUALA TANJUNG"
+  branch: KUALA TANJUNG BRANCH
+  swift: BNINIDJAKTJ
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KUALAKAPUAS"
+  branch: KUALAKAPUAS BRANCH
+  swift: BNINIDJAKKP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KUALATUNGKAL"
+  branch: KUALATUNGKAL BRANCH
+  swift: BNINIDJAKLT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KUDUS"
+  branch: KUDUS BRANCH
+  swift: BNINIDJAKDS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KUNINGAN"
+  branch: KUNINGAN BRANCH
+  swift: BNINIDJAKNG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "KUPANG"
+  branch: KUPANG BRANCH - EAST NUSATENGGARA
+  swift: BNINIDJAKPA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "LANGSA"
+  branch: LANGSA BRANCH
+  swift: BNINIDJALGS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "LEGIAN"
+  branch: LEGIAN BRANCH
+  swift: BNINIDJALGA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "LHOKSEUMAWE"
+  branch: LHOKSEUMAWE BRANCH
+  swift: BNINIDJALSW
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "LUBUKLINGGAU"
+  branch: LUBUKLINGGAU BRANCH
+  swift: BNINIDJALLG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "LUMAJANG"
+  branch: LUMAJANG BRANCH
+  swift: BNINIDJALMJ
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "LUWUK"
+  branch: LUWUK BRANCH
+  swift: BNINIDJALWK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MADIUN"
+  branch: MADIUN BRANCH
+  swift: BNINIDJAMAD
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MAGELANG"
+  branch: MAGELANG BRANCH
+  swift: BNINIDJAMGL
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MAJALAYA"
+  branch: MAJALAYA BRANCH
+  swift: BNINIDJAMJL
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MALANG"
+  branch: MALANG BRANCH
+  swift: BNINIDJAMLG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MALANG"
+  branch: UNIBRAW BR. MLG.
+  swift: BNINIDJAUBM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MANADO"
+  branch: MANADO BRANCH
+  swift: BNINIDJAMDO
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MANADO"
+  branch: PS. KANAKA BRANCH
+  swift: BNINIDJAKNK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MANOKWARI"
+  branch: MANOKWARI BRANCH
+  swift: BNINIDJAMWI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MATARAM"
+  branch: MATARAM BRANCH
+  swift: BNINIDJAMTA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MAUMERE"
+  branch: MAUMERE BRANCH
+  swift: BNINIDJAMRE
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MEDAN"
+  branch: JL. SUTOMO MEDAN BRANCH
+  swift: BNINIDJAJSM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MEDAN"
+  branch: MEDAN BRANCH
+  swift: BNINIDJAMDN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MEDAN"
+  branch: UNIV. SUMUT BRANCH
+  swift: BNINIDJAUSU
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "METRO"
+  branch: METRO BRANCH
+  swift: BNINIDJAMET
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "MEULABOH"
+  branch: MEULABOH BRANCH
+  swift: BNINIDJAMBO
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "NUNUKAN"
+  branch: NUNUKAN BRANCH
+  swift: BNINIDJANNK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PADANG"
+  branch: AHMAD YANI PADANG BRANCH
+  swift: BNINIDJAAYP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PADANG"
+  branch: IMAM BONJOL BRANCH
+  swift: BNINIDJAIBP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PADANG"
+  branch: PADANG BRANCH
+  swift: BNINIDJAPDG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PADANG SIDEMPUAN"
+  branch: PADANG SIDEMPUAN BRANCH
+  swift: BNINIDJAPDS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PALANGKARAYA"
+  branch: PALANGKARAYA BRANCH
+  swift: BNINIDJAPRY
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PALEMBANG"
+  branch: BOOM BARU BRANCH
+  swift: BNINIDJABBP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PALEMBANG"
+  branch: JEMBATAN AMPERA PALEMBANG BRANCH
+  swift: BNINIDJAJAP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PALEMBANG"
+  branch: MUSI PALEMBANG BRANCH
+  swift: BNINIDJAMSP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PALEMBANG"
+  branch: PALEMBANG BRANCH
+  swift: BNINIDJAPBG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PALOPO"
+  branch: PALOPO BRANCH
+  swift: BNINIDJAPLP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PALU"
+  branch: PALU BRANCH
+  swift: BNINIDJAPLU
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PAMEKASAN"
+  branch: PAMEKASAN BRANCH
+  swift: BNINIDJAPKN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PANGKAL PINANG"
+  branch: PANGKAL PINANG BRANCH
+  swift: BNINIDJAPKP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PANGKALAN BUN"
+  branch: PANGKALAN BUN BRANCH
+  swift: BNINIDJAPKB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PANJANG"
+  branch: PANJANG BRANCH
+  swift: BNINIDJAPJG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PARE-PARE"
+  branch: PARE-PARE BRANCH
+  swift: BNINIDJAPRE
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PASURUAN"
+  branch: PASURUAN BRANCH
+  swift: BNINIDJAPSN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PATI"
+  branch: PATI BRANCH
+  swift: BNINIDJAPTI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PAYAKUMBUH"
+  branch: PAYAKUMBUH BRANCH
+  swift: BNINIDJAPYK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PEKALONGAN"
+  branch: PEKALONGAN BRANCH
+  swift: BNINIDJAPKL
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PEKANBARU"
+  branch: PASAR PUSAT PEKANBARU BRANCH
+  swift: BNINIDJAPPP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PEKANBARU"
+  branch: PEKANBARU BRANCH
+  swift: BNINIDJAPBR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PEMANGKAT"
+  branch: PEMANGKAT BRANCH
+  swift: BNINIDJAPMT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PEMATANG SIANTAR"
+  branch: PEMATANG SIANTAR BRANCH
+  swift: BNINIDJAPMS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "POLEWALI"
+  branch: POLEWALI BRANCH
+  swift: BNINIDJAPLW
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PONOROGO"
+  branch: PONOROGO BRANCH
+  swift: BNINIDJAPON
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PONTIANAK"
+  branch: PONTIANAK BRANCH
+  swift: BNINIDJAPNK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "POSO"
+  branch: POSO BRANCH
+  swift: BNINIDJAPSO
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PRABUMULIH"
+  branch: PRABUMULIH BRANCH
+  swift: BNINIDJAPBM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PROBOLINGGO"
+  branch: PROBOLINGGO BRANCH
+  swift: BNINIDJAPRB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PURBALINGGA"
+  branch: PURBALINGGA BRANCH
+  swift: BNINIDJAPBL
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PURWAKARTA"
+  branch: PURWAKARTA BRANCH
+  swift: BNINIDJAPWK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PURWOKERTO"
+  branch: PURWOKERTO BRANCH
+  swift: BNINIDJAPWO
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "PURWOREJO"
+  branch: PURWOREJO BRANCH
+  swift: BNINIDJAPWR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "RANGKAS BIBITUNG"
+  branch: RANGKASBITUNG BRANCH
+  swift: BNINIDJARKB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "RENGAT"
+  branch: RENGAT BRANCH
+  swift: BNINIDJARGT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SALATIGA"
+  branch: SALATIGA BRANCH
+  swift: BNINIDJASLG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SAMARINDA"
+  branch: SAMARINDA BRANCH
+  swift: BNINIDJASMD
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SAMPIT"
+  branch: SAMPIT BRANCH
+  swift: BNINIDJASPT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SELAT PANJANG"
+  branch: SELAT PANJANG BRANCH
+  swift: BNINIDJASLP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SEMARANG"
+  branch: KARANGAYU BRANCH
+  swift: BNINIDJAKRU
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SEMARANG"
+  branch: SEMARANG BRANCH
+  swift: BNINIDJASMG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SEMARANG"
+  branch: UNDIP BR. SMG.
+  swift: BNINIDJAUDS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SENGKANG"
+  branch: SENGKANG BRANCH
+  swift: BNINIDJASKG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SERANG"
+  branch: SERANG BRANCH
+  swift: BNINIDJASRG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SIBOLGA"
+  branch: SIBOLGA BRANCH
+  swift: BNINIDJASBG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SIDOARJO"
+  branch: SIDOARJO BRANCH
+  swift: BNINIDJASDA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SIGLI"
+  branch: SIGLI BRANCH
+  swift: BNINIDJASGL
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SINGARAJA"
+  branch: SINGARAJA BRANCH
+  swift: BNINIDJASGR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SINGKAWANG"
+  branch: SINGKAWANG BRANCH
+  swift: BNINIDJASKW
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SITUBONDO"
+  branch: SITUBONDO BRANCH
+  swift: BNINIDJASTB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SORONG"
+  branch: SORONG BRANCH
+  swift: BNINIDJASOR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SUBANG"
+  branch: SUBANG BRANCH
+  swift: BNINIDJASUB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SUKABUMI"
+  branch: SUKABUMI BRANCH
+  swift: BNINIDJASKM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SUMBAWA BESAR"
+  branch: SUMBAWA BESAR BRANCH
+  swift: BNINIDJASBW
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SUMEDANG"
+  branch: SUMEDANG BRANCH
+  swift: BNINIDJASDG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SUMENEP"
+  branch: SUMENEP BRANCH
+  swift: BNINIDJASMP
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SUNGAIPENUH"
+  branch: SUNGAIPENUH BRANCH
+  swift: BNINIDJASPN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SURABAYA"
+  branch: AIRLANGGA UNIVERSITY BRANCH
+  swift: BNINIDJAUAS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SURABAYA"
+  branch: JEMBATAN MERAH BRANCH
+  swift: BNINIDJAJTM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SURABAYA"
+  branch: KUSUMA BANGSA BRANCH
+  swift: BNINIDJAKBS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SURABAYA"
+  branch: SURABAYA BRANCH
+  swift: BNINIDJASBY
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SURABAYA"
+  branch: TANJUNG PERAK BRANCH
+  swift: BNINIDJATPK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SURABAYA"
+  branch: URIP SUMOHARJO BRANCH
+  swift: BNINIDJAUSM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SURAKARTA"
+  branch: PASAR KLEWER SURAKARTA BRANCH
+  swift: BNINIDJAPKS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SURAKARTA"
+  branch: SURAKARTA BRANCH
+  swift: BNINIDJASLO
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "SURAKARTA"
+  branch: UNIV.SEBELAS MARET BRANCH
+  swift: BNINIDJASMR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TAHUNA"
+  branch: TAHUNA BRANCH
+  swift: BNINIDJATHN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TANGERANG"
+  branch: TANGERANG BRANCH
+  swift: BNINIDJATRG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TANJUNG KARANG"
+  branch: TANJUNG KARANG BRANCH
+  swift: BNINIDJATKR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TANJUNG PINANG"
+  branch: TANJUNG PINANG BRANCH
+  swift: BNINIDJATPN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TANJUNGREDEB"
+  branch: TANJUNGREDEB BRANCH
+  swift: BNINIDJATRB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TARAKAN"
+  branch: TARAKAN BRANCH
+  swift: BNINIDJATRN
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TASIKMALAYA"
+  branch: TASIKMALAYA BRANCH
+  swift: BNINIDJATMA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TEBINGTINGGI"
+  branch: TEBINGTINGGI BRANCH
+  swift: BNINIDJATTI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TEGAL"
+  branch: TEGAL BRANCH
+  swift: BNINIDJATGL
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TEMANGGUNG"
+  branch: TEMANGGUNG BRANCH
+  swift: BNINIDJATMG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TEMBILAHAN"
+  branch: TEMBILAHAN BRANCH
+  swift: BNINIDJATBH
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TERNATE"
+  branch: TERNATE BRANCH
+  swift: BNINIDJATNT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TG. BALAI"
+  branch: TANJUNG BALAI KARIMUN BRANCH
+  swift: BNINIDJATBK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TG. BALAI ASAHAN"
+  branch: TG. BALAI ASAHAN
+  swift: BNINIDJATBA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TOBELO"
+  branch: TOBELO BRANCH
+  swift: BNINIDJATBL
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TOLI-TOLI"
+  branch: TOLI-TOLI BRANCH
+  swift: BNINIDJATLI
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TUBAN"
+  branch: TUBAN BRANCH - EAST JAVA
+  swift: BNINIDJATUB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "TULUNGAGUNG"
+  branch: TULUNGAGUNG
+  swift: BNINIDJATLA
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "UJUNG PANDANG"
+  branch: MATTOANGIN BRANCH
+  swift: BNINIDJAMAT
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "UJUNG PANDANG"
+  branch: UJUNG PANDANG BRANCH
+  swift: BNINIDJAUPG
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "WATANSOPPENG"
+  branch: WATANSOPPENG BRANCH
+  swift: BNINIDJAWTS
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "WONOGIRI"
+  branch: WONOGIRI BRANCH
+  swift: BNINIDJAWGR
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "WONOKROMO"
+  branch: WONOKROMO BRANCH
+  swift: BNINIDJAWNK
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "WONOSOBO"
+  branch: WONOSOBO BRANCH
+  swift: BNINIDJAWSB
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "YOGYAKARTA"
+  branch: UGM BRANCH
+  swift: BNINIDJAUGM
+    
+- name: "BANK NEGARA INDONESIA - PT (PERSERO)"
+  city: "YOGYAKARTA"
+  branch: YOGYAKARTA BRANCH
+  swift: BNINIDJAYGY
+    
+- name: "BANK NUSANTARA PARAHYANGAN"
+  city: "BANDUNG"
+  branch: null
+  swift: NUPAIDJ6
+    
+- name: "BANK OF AMERICA, N.A. JAKARTA BRANCH"
+  city: "JAKARTA"
+  branch: null
+  swift: BOFAID2X
+    
+- name: "BANK OF AMERICA, N.A. JAKARTA BRANCH"
+  city: "JAKARTA"
+  branch: null
+  swift: BOFAID2XGRC
+    
+- name: "BANK OF CHINA, JAKARTA BRANCH"
+  city: "JAKARTA"
+  branch: null
+  swift: BKCHIDJA
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "JAKARTA"
+  branch: JAKARTA BRANCH
+  swift: BOTKIDJX
+    
+- name: "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR"
+  city: "SAMARINDA"
+  branch: null
+  swift: PDKTIDJA
+    
+- name: "BANK PERK. SURYA KENCANA"
+  city: "SURABAYA"
+  branch: null
+  swift: PESKIDJ1
+    
+- name: "BANK RESONA PERDANIA PT."
+  city: "JAKARTA"
+  branch: null
+  swift: BPIAIDJA
+    
+- name: "BANK SINARMAS"
+  city: "JAKARTA"
+  branch: null
+  swift: SBJKIDJA
+    
+- name: "BANK SRI PARTHA PT"
+  city: "AMLAPURA"
+  branch: KABUPATEN KARANGASEM
+  swift: SIPAIDB10B6
+    
+- name: "BANK SRI PARTHA PT"
+  city: "BANGLI"
+  branch: KABUPATEN BANGLI
+  swift: SIPAIDB10B4
+    
+- name: "BANK SRI PARTHA PT"
+  city: "DENPASAR"
+  branch: KABUPATEN BADUNG
+  swift: SIPAIDB10B2
+    
+- name: "BANK SRI PARTHA PT"
+  city: "DENPASAR"
+  branch: null
+  swift: SIPAIDB1
+    
+- name: "BANK SRI PARTHA PT"
+  city: "KLUNGKUNG"
+  branch: KABUPATEN KLUNGKUNG
+  swift: SIPAIDB10B5
+    
+- name: "BANK SRI PARTHA PT"
+  city: "NEGARA"
+  branch: KABUPATEN JEMBERANA
+  swift: SIPAIDB10B8
+    
+- name: "BANK SRI PARTHA PT"
+  city: "PELIATAN"
+  branch: KABUPATEN GIANYAR
+  swift: SIPAIDB10B3
+    
+- name: "BANK SRI PARTHA PT"
+  city: "SINGARAJA"
+  branch: KABUPATEN BULELENG
+  swift: SIPAIDB10B7
+    
+- name: "BANK SRI PARTHA PT"
+  city: "TABANAN"
+  branch: KABUPATEN TABANAN
+  swift: SIPAIDB10BT
+    
+- name: "BANK SUMITOMO MITSUI INDONESIA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SUNIIDJA
+    
+- name: "BANK SWAGUNA PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SWABIDJ1
+    
+- name: "BANK TABUNGAN NEGARA (PERSERO), PT."
+  city: "JAKARTA"
+  branch: HEAD OFFICE
+  swift: BTANIDJA
+    
+- name: "BANK TABUNGAN NEGARA (PERSERO), PT."
+  city: "MEDAN"
+  branch: null
+  swift: BTANIDJ10SS
+    
+- name: "BANK TABUNGAN NEGARA (PERSERO), PT."
+  city: "SURABAYA"
+  branch: null
+  swift: BTANIDJ10JD
+    
+- name: "BANK WINDU KENTJANA"
+  city: "JAKARTA"
+  branch: null
+  swift: WIKEIDJ1
+    
+- name: "BAPINDO BUMI SEKURITAS,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BABSIDJ1
+    
+- name: "BCA SEKURITAS PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DINUIDJ1
+    
+- name: "BDNI SEKURITAS"
+  city: "JAKARTA"
+  branch: null
+  swift: BDNSIDJ1
+    
+- name: "BINA TATALAKSANA PASIFIK PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BITPIDJ1
+    
+- name: "BINAARTHA PARAMA,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BINRIDJ1
+    
+- name: "BINAARTHA PARAMA,PT"
+  city: "SURABAYA"
+  branch: null
+  swift: BINRIDJ10JD
+    
+- name: "BINTANGMAKMUR SECURINDO,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BINSIDJ1
+    
+- name: "BOMAR SECURITIES PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BOMSIDJ1
+    
+- name: "BORESIA,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BOREIDJ1
+    
+- name: "BT PRIMA SECURITIES INDONESIA PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PRSIIDJ1
+    
+- name: "BUANA SECURITIES,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BUAEIDJ1
+    
+- name: "BUANAMAS INVESTINDO,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BUAIIDJ1
+    
+- name: "BUMI ARTA SECURINDO,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BUACIDJ1
+    
+- name: "BURSA BERJANGKA JAKARTA (JAKARTA FUTURES EXCHANGE)"
+  city: "JAKARTA"
+  branch: null
+  swift: XBBJIDJ1
+    
+- name: "BZW NIAGA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: BZNSIDJ1
+    
+- name: "CEF ANDROMEDA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: CEASIDJ1
+    
+- name: "CITIBANK, N.A."
+  city: "BANDUNG"
+  branch: null
+  swift: CITIIDJXBDG
+    
+- name: "CITIBANK, N.A."
+  city: "JAKARTA"
+  branch: null
+  swift: CITIIDJX
+    
+- name: "CITIBANK, N.A."
+  city: "MEDAN"
+  branch: null
+  swift: CITIIDJXMDN
+    
+- name: "CITIBANK, N.A."
+  city: "SURABAYA"
+  branch: null
+  swift: CITIIDJXSBY
+    
+- name: "CITRAMAS SECURINDO,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: CITUIDJ1
+    
+- name: "CLSA SEKURITAS INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: CLSAIDJ1
+    
+- name: "CROSBY INDONESIA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: CROIIDJ1
+    
+- name: "DAIWA INDONESIA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DAIUIDJ1
+    
+- name: "DANA GAJAH SAKTI,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DAGSIDJ1
+    
+- name: "DANAMETRO SEKURITAS,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DANSIDJ1
+    
+- name: "DANAMON SECURITAS,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DANEIDJ1
+    
+- name: "DANASAKTI SECURITIES"
+  city: "JAKARTA"
+  branch: null
+  swift: DANRIDJ1
+    
+- name: "DEEMTE ARTADHARMA"
+  city: "SURABAYA"
+  branch: null
+  swift: DEEMIDJ1
+    
+- name: "DEUTSCHE BANK AG"
+  city: "JAKARTA"
+  branch: DBJK INVESTMENT BANKING OPS
+  swift: DEUTIDJAIBO
+    
+- name: "DEUTSCHE BANK AG"
+  city: "JAKARTA"
+  branch: DEUTSCHE SECURITIES INDONESIA
+  swift: DEUTIDJADSI
+    
+- name: "DEUTSCHE BANK AG"
+  city: "JAKARTA"
+  branch: null
+  swift: DEUTIDJA
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SURABAYA"
+  branch: SURABAYA BRANCH
+  swift: DEUTIDJA001
+    
+- name: "DEUTSCHE MORGAN GRENFELL INDONESIA,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MGIAIDJ1
+    
+- name: "DHANA PASIFIK SECURITAS,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DHPSIDJ1
+    
+- name: "DHANA TUNGGAL BINASATYA,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DHATIDJ1
+    
+- name: "DHANADAYA ANUGERAH, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DHANIDJ1
+    
+- name: "DHANAMAS BUANA WIRASTA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DHBWIDJ1
+    
+- name: "DHANAWIBAWA ARTHA CEMERLANG"
+  city: "JAKARTA"
+  branch: null
+  swift: DWACIDJ1
+    
+- name: "DHARMA FINANCE CORP"
+  city: "JAKARTA"
+  branch: null
+  swift: DHAFIDJ1
+    
+- name: "DHARMALA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DHSPIDJ1
+    
+- name: "DWIDANA PERMAI SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DWPSIDJ1
+    
+- name: "DWIDANA SAKTI SEKURINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DWSSIDJ1
+    
+- name: "DWIPANCA RIJEKI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: DWIIIDJ1
+    
+- name: "E-CAPITAL SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SURAIDJ1
+    
+- name: "EFICORP SEKURITAS PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SATSIDJ1
+    
+- name: "ERDHIKA MUALATAMA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ERMSIDJ1
+    
+- name: "EXIM SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: EXISIDJ1
+    
+- name: "EXPORT-IMPORT BANK OF KOREA, THE"
+  city: "JAKARTA"
+  branch: null
+  swift: EXIKIDJ1
+    
+- name: "FINAN CORPINDO NUSA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: FICNIDJ1
+    
+- name: "FLORETA PURWA ARTHA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: FLPAIDJ1
+    
+- name: "FPB ASIA LIMITED"
+  city: "JAKARTA"
+  branch: null
+  swift: FPASIDJ1
+    
+- name: "GANDA SURYA SEKURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: GASSIDJ1
+    
+- name: "GANDA SURYA SEKURITAS, PT"
+  city: "SURABAYA"
+  branch: null
+  swift: GASSIDJ10JD
+    
+- name: "GARUDAPARA INVESINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: GARIIDJ1
+    
+- name: "GAWANG REJEKI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: GAWRIDJ1
+    
+- name: "GENTAPASTADO ABADI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: GENDIDJ1
+    
+- name: "HALIM INDONESIA BANK,PT."
+  city: "SURABAYA"
+  branch: null
+  swift: HAINIDJ1
+    
+- name: "HARPAKENCANA SEKURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: HARKIDJ1
+    
+- name: "HARUMDANA SEKURITAS PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SEKHIDJ1
+    
+- name: "HENAN PUTIHRAI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: HENPIDJ1
+    
+- name: "HSBC SECURITIES INDONESIA PT."
+  city: "JAKARTA"
+  branch: null
+  swift: HSSEIDJ1
+    
+- name: "ICHIYOSHI ALFA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: ICASIDJ1
+    
+- name: "IFIBANK"
+  city: "JAKARTA"
+  branch: null
+  swift: IFIBIDJ1
+    
+- name: "INDO PREMIER SECURITIES"
+  city: "JAKARTA"
+  branch: null
+  swift: INPUIDJ1
+    
+- name: "INDOCITRA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INDRIDJ1
+    
+- name: "INDOFINANCIA PRATAMA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INDPIDJ1
+    
+- name: "INDONESIA EXIMBANK"
+  city: "JAKARTA"
+  branch: null
+  swift: BEXIIDJA
+    
+- name: "INDONESIA STOCK EXCHANGE"
+  city: "JAKARTA"
+  branch: null
+  swift: XJKTIDJ1
+    
+- name: "INDOVER SEKURITAS CO., PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INDKIDJ1
+    
+- name: "INDOVERSE SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INDTIDJ1
+    
+- name: "INDOVEST SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INOSIDJ1
+    
+- name: "INFINITY INVESTAMA,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: NUSCIDJ1
+    
+- name: "INTAN ARTHA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INTHIDJ1
+    
+- name: "INTERASIA SEKURITINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INTDIDJ1
+    
+- name: "INTERINDO DANAPRAYA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INTYIDJ1
+    
+- name: "INTER-PACIFIC SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INSSIDJ1
+    
+- name: "INTI FIKASA SEKURINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INFEIDJ1
+    
+- name: "INTI TELADAN ARTHASWADATA,PT"
+  city: "SURABAYA"
+  branch: null
+  swift: INTLIDJ1
+    
+- name: "INTISEKURITI INVESTAMA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: INTMIDJ1
+    
+- name: "J.P MORGAN SECURITIES INDONESIA JAKARTA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: CHASIDS1
+    
+- name: "JAKARTA NEGOTIATED BOARD"
+  city: "JAKARTA"
+  branch: null
+  swift: XJNBIDJ1
+    
+- name: "JALUR ARTHA WAHANA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: JAAWIDJ1
+    
+- name: "JARDINE FLEMING"
+  city: "JAKARTA"
+  branch: null
+  swift: JFLEIDJ1
+    
+- name: "JASA JAKARTA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: JAJSIDJ1
+    
+- name: "JASABANDA GARTA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: JASGIDJ1
+    
+- name: "JASEREH UTAMA PT"
+  city: "JAKARTA"
+  branch: null
+  swift: JAUTIDJ1
+    
+- name: "JPMORGAN CHASE BANK, N.A., JAKARTA BRANCH"
+  city: "JAKARTA"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASIDJXENQ
+    
+- name: "JPMORGAN CHASE BANK, N.A., JAKARTA BRANCH"
+  city: "JAKARTA"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASIDJXKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., JAKARTA BRANCH"
+  city: "JAKARTA"
+  branch: null
+  swift: CHASIDJX
+    
+- name: "KAPITA SEKURINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: KAPSIDJ1
+    
+- name: "KAPITALINDO UTAMA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: KAPUIDJ1
+    
+- name: "KARTIKA INVESTINDO PT"
+  city: "JAKARTA"
+  branch: null
+  swift: KARIIDJ1
+    
+- name: "KES SINARMAS SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: KESUIDJ1
+    
+- name: "KESTREL SEKURITAS INDONESIA,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: KESIIDJ1
+    
+- name: "KHARISMA MULATAMA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: KHAMIDJ1
+    
+- name: "KIM ENG SECURITIES, P.T."
+  city: "JAKARTA"
+  branch: null
+  swift: KMESIDJ1
+    
+- name: "KUSTODIAN SENTRAL EFEK INDONESIA PT"
+  city: "JAKARTA"
+  branch: null
+  swift: KSEIIDJA
+    
+- name: "KWIK CHANDRA MARTOATMODJO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: KWCMIDJ1
+    
+- name: "LAMGANDA CITRA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: LACSIDJ1
+    
+- name: "LAYANG MEGA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: LAYMIDJ1
+    
+- name: "LAYANG MEGA, PT"
+  city: "SURABAYA"
+  branch: null
+  swift: LAYMIDJ10JD
+    
+- name: "LUMBUNG PERSADA KHATULISTIWA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: LUPKIDJ1
+    
+- name: "MADAH PACIFIC, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MADPIDJ1
+    
+- name: "MAHKOTA BANK"
+  city: "JAKARTA"
+  branch: null
+  swift: MAAKIDJ1
+    
+- name: "MAKEFIN, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MAKEIDJ1
+    
+- name: "MAKINDO SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SEMAIDJ1
+    
+- name: "MAKSURINDO,PT"
+  city: "SURABAYA"
+  branch: null
+  swift: MAKUIDJ1
+    
+- name: "MALYSA ANUGRAH, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MALNIDJ1
+    
+- name: "MARYLOONE MENTARI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MARNIDJ1
+    
+- name: "MASHILL SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MAHUIDJ1
+    
+- name: "MEGA INVESTA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MEGNIDJ1
+    
+- name: "MENTARI SECURINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MENEIDJ1
+    
+- name: "MERINCORP SECURINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MEREIDJ1
+    
+- name: "METRO SUKMA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MESEIDJ1
+    
+- name: "METROPOLITAN SECURINVEST, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: METSIDJ1
+    
+- name: "MIFCOR SEKURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MIFSIDJ1
+    
+- name: "MITRA DUTA SECURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MIDUIDJ1
+    
+- name: "MITRA TATADHANA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MITAIDJ1
+    
+- name: "MITRACONVEST, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MITRIDJ1
+    
+- name: "MUAMALAT"
+  city: "SEMARANG"
+  branch: null
+  swift: MUAMIDJ1
+    
+- name: "MUARA SECURITIES"
+  city: "JAKARTA"
+  branch: null
+  swift: MULMIDJ1
+    
+- name: "MULTI PENGELOLA DANAPRIMA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MUPDIDJ1
+    
+- name: "MULTICOR SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MULSIDJ1
+    
+- name: "MULTIPRAKARSA INVESTAMA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MULIIDJ1
+    
+- name: "MURNI SEGARA LESTARI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MUSLIDJ1
+    
+- name: "NAMALATU RONESINA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: NAMRIDJ1
+    
+- name: "NATIN BANK"
+  city: "JAKARTA"
+  branch: null
+  swift: NNBKIDJ1
+    
+- name: "NATURA PACIFIC, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: NATPIDJ1
+    
+- name: "NIAGA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: NIASIDJ1
+    
+- name: "NIKI ASIA SECURINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: NIAEIDJ1
+    
+- name: "NIKKO SECURITIES INDONESIA PT"
+  city: "JAKARTA"
+  branch: null
+  swift: NIKKIDJ1
+    
+- name: "OCBC SIKAP SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: OCSSIDJ1
+    
+- name: "P. T. NOMURA INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: NOMIIDJ1
+    
+- name: "P.T. BANK MULTI ARTA SENTOSA"
+  city: "JAKARTA"
+  branch: null
+  swift: BMSEIDJA
+    
+- name: "P.T. MERCEDES-BENZ DISTRIBUTION INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: DADIIDJA
+    
+- name: "P.T. MERCEDES-BENZ INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: DABEIDJA
+    
+- name: "P.T. SAMSUNG ELECTRONICS INDONESIA"
+  city: "BEKASI"
+  branch: SEIN
+  swift: SECTIDJ1570
+    
+- name: "P.T. SAMSUNG ELECTRONICS INDONESIA"
+  city: "BEKASI"
+  branch: null
+  swift: SECTIDJ1
+    
+- name: "P.T. SAMSUNG ELECTRONICS INDONESIA"
+  city: "JAKARTA"
+  branch: STIN
+  swift: SECTIDJ1571
+    
+- name: "PAN INDONESIA BANK PT."
+  city: "JAKARTA"
+  branch: null
+  swift: PINBIDJA
+    
+- name: "PANCASUMBER DHANAMANDIRI,PT"
+  city: "SURABAYA"
+  branch: null
+  swift: PANMIDJ1
+    
+- name: "PANDURAMA SEKURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PANEIDJ1
+    
+- name: "PANIN CAPITAL, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PANCIDJ1
+    
+- name: "PANIN CAPITAL, PT"
+  city: "SURABAYA"
+  branch: null
+  swift: PANCIDJ10JD
+    
+- name: "PARAMITRA ALFA SEKURITAS"
+  city: "JAKARTA"
+  branch: null
+  swift: PEKUIDL1
+    
+- name: "PARAMITRA YAMASEKURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PARYIDJ1
+    
+- name: "PARIBAS ASIA EQUITY, P.T."
+  city: "JAKARTA"
+  branch: null
+  swift: AEHLIDJ1
+    
+- name: "PATRIATAMA DANAMANDIRI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PATDIDJ1
+    
+- name: "PDFCI SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PDFSIDJ1
+    
+- name: "PENDAWA DANA MANDIRI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PEDMIDJ1
+    
+- name: "PENTASENA ARTHASENTOSA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PENRIDJ1
+    
+- name: "PEREGRINE SECURITIES PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PESSIDJ1
+    
+- name: "PIRANTI CIPTADHANA AMERTA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PCASIDJ1
+    
+- name: "POS INDONESIA"
+  city: "BANDUNG"
+  branch: null
+  swift: POIDIDJ1
+    
+- name: "PRANATA INVESINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PRAIIDJ1
+    
+- name: "PRANATA SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PRASIDJ1
+    
+- name: "PRANATA SECURITIES, PT"
+  city: "SURABAYA"
+  branch: null
+  swift: PRASIDJ10JD
+    
+- name: "PRASASTA PAPERASIA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PRAPIDJ1
+    
+- name: "PRATAMA PENAGANARTHA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PRAEIDJ1
+    
+- name: "PRIMASIA SECURITIES PT"
+  city: "JAKARTA"
+  branch: null
+  swift: MANRIDJ1
+    
+- name: "PT ABACUS CAPITAL INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: PTACIDJ1
+    
+- name: "PT AIA FINANCIAL"
+  city: "JAKARTA"
+  branch: null
+  swift: AIACIDJA
+    
+- name: "PT AIA FINANCIAL"
+  city: "TANGERANG"
+  branch: GENERAL INVESTMENT OPERATIONS
+  swift: AIACIDJ1GIO
+    
+- name: "PT ANTABOGA DELTA SEKURITAS INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: ADSIIDJ1
+    
+- name: "PT BANK BRISYARIAH"
+  city: "JAKARTA"
+  branch: null
+  swift: BRISIDJA
+    
+- name: "PT BANK BUMI ARTA TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BBAIIDJA
+    
+- name: "PT BANK CAPITAL INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BCIAIDJA
+    
+- name: "PT BANK CHINA CONSTRUCTION BANK INDONESIA TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BWKIIDJA
+    
+- name: "PT BANK HSBC INDONESIA"
+  city: "BANDUNG"
+  branch: null
+  swift: HSBCIDJABAN
+    
+- name: "PT BANK HSBC INDONESIA"
+  city: "BATAM"
+  branch: null
+  swift: HSBCIDJABAT
+    
+- name: "PT BANK HSBC INDONESIA"
+  city: "JAKARTA"
+  branch: WEALTH BUSINESS SERVICES
+  swift: HSBCIDJAWBS
+    
+- name: "PT BANK HSBC INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: HSBCIDJA
+    
+- name: "PT BANK HSBC INDONESIA"
+  city: "MEDAN"
+  branch: null
+  swift: HSBCIDJAMDN
+    
+- name: "PT BANK HSBC INDONESIA"
+  city: "SEMARANG"
+  branch: null
+  swift: HSBCIDJASEM
+    
+- name: "PT BANK HSBC INDONESIA"
+  city: "SURABAYA"
+  branch: null
+  swift: HSBCIDJASBA
+    
+- name: "PT BANK ICBC INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: ICBKIDJA
+    
+- name: "PT BANK INDEX SELINDO"
+  city: "JAKARTA"
+  branch: null
+  swift: BIDXIDJA
+    
+- name: "PT BANK INDOVEST TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: INDIIDJ1
+    
+- name: "PT BANK MASPION INDONESIA"
+  city: "SURABAYA"
+  branch: null
+  swift: MASDIDJ1
+    
+- name: "PT BANK MAYBANK INDONESIA TBK"
+  city: "JAKARTA"
+  branch: EXPEND CONTROL DEPT.
+  swift: IBBKIDJADEX
+    
+- name: "PT BANK MAYBANK INDONESIA TBK"
+  city: "JAKARTA"
+  branch: JUANDA BRANCH
+  swift: IBBKIDJA138
+    
+- name: "PT BANK MAYBANK INDONESIA TBK"
+  city: "JAKARTA"
+  branch: KALIBESAR BRANCH
+  swift: IBBKIDJA001
+    
+- name: "PT BANK MAYBANK INDONESIA TBK"
+  city: "JAKARTA"
+  branch: PANGLIMA POLIM BRANCH
+  swift: IBBKIDJA008
+    
+- name: "PT BANK MAYBANK INDONESIA TBK"
+  city: "JAKARTA"
+  branch: THAMRIN BRANCH
+  swift: IBBKIDJA003
+    
+- name: "PT BANK MAYBANK INDONESIA TBK"
+  city: "JAKARTA"
+  branch: UUS TREASURY
+  swift: IBBKIDJATRS
+    
+- name: "PT BANK MAYBANK INDONESIA TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: IBBKIDJA
+    
+- name: "PT BANK MAYBANK SYARIAH INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: MBBEIDJA
+    
+- name: "PT BANK OCBC NISP TBK"
+  city: "BANDUNG"
+  branch: ASIA AFRIKA BRANCH
+  swift: NISPIDJ1BDG
+    
+- name: "PT BANK OCBC NISP TBK"
+  city: "BATAM"
+  branch: null
+  swift: NISPIDJ1BTM
+    
+- name: "PT BANK OCBC NISP TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: NISPIDJA
+    
+- name: "PT BANK OCBC NISP TBK"
+  city: "SEMARANG"
+  branch: null
+  swift: NISPIDJ1SMG
+    
+- name: "PT BANK OCBC NISP TBK"
+  city: "SURABAYA"
+  branch: null
+  swift: NISPIDJ1SBY
+    
+- name: "PT BANK PANIN DUBAI SYARIAH, TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: PNBSIDJA
+    
+- name: "PT BANK PERMATA, TBK"
+  city: "BANDUNG"
+  branch: null
+  swift: BBBAIDJ10J6
+    
+- name: "PT BANK PERMATA, TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BBBAIDJA
+    
+- name: "PT BANK PERMATA, TBK"
+  city: "MEDAN"
+  branch: null
+  swift: BBBAIDJ10SS
+    
+- name: "PT BANK PERMATA, TBK"
+  city: "SEMARANG"
+  branch: null
+  swift: BBBAIDJ10J8
+    
+- name: "PT BANK PERMATA, TBK"
+  city: "SURABAYA"
+  branch: null
+  swift: BBBAIDJ10JD
+    
+- name: "PT BANK QNB INDONESIA TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: AWANIDJA
+    
+- name: "PT BANK RIAU KEPRI"
+  city: "PEKANBARU"
+  branch: null
+  swift: PDRIIDJA
+    
+- name: "PT BANK SYARIAH MANDIRI"
+  city: "JAKARTA"
+  branch: null
+  swift: BSMDIDJA
+    
+- name: "PT BANK TABUNGAN PENSIUNAN NASIONAL TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BTPNIDJA
+    
+- name: "PT BANK UOB INDONESIA"
+  city: "BANDUNG"
+  branch: null
+  swift: BBIJIDJA004
+    
+- name: "PT BANK UOB INDONESIA"
+  city: "DENPASAR"
+  branch: DENPASAR BRANCH
+  swift: BBIJIDJ10BD
+    
+- name: "PT BANK UOB INDONESIA"
+  city: "DENPASAR"
+  branch: null
+  swift: BBIJIDJ1024
+    
+- name: "PT BANK UOB INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: BBIJIDJA
+    
+- name: "PT BANK UOB INDONESIA"
+  city: "MEDAN"
+  branch: null
+  swift: BBIJIDJA002
+    
+- name: "PT BANK UOB INDONESIA"
+  city: "SURABAYA"
+  branch: null
+  swift: BBIJIDJA003
+    
+- name: "PT BENTOEL INTERNASIONAL INVESTAMA"
+  city: "JAKARTA"
+  branch: null
+  swift: BATSIDA1
+    
+- name: "PT BENTOEL PRIMA"
+  city: "MALANG"
+  branch: null
+  swift: BATSID21
+    
+- name: "PT BHAKTI INVESTAMA, TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BHANIDJ1
+    
+- name: "PT BNP PARIBAS INVESTMENT PARTNERS"
+  city: "JAKARTA"
+  branch: null
+  swift: BPIEIDJ1
+    
+- name: "PT BUANA CAPITAL"
+  city: "JAKARTA"
+  branch: null
+  swift: BUNCIDJ1
+    
+- name: "PT CIMB SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: GOHOIDJ1
+    
+- name: "PT CREDIT SUISSE SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: CRESIDJ1
+    
+- name: "PT DANATAMA MAKMUR SECURITIES"
+  city: "JAKARTA"
+  branch: null
+  swift: DANMIDJ1
+    
+- name: "PT EASTSPRING INVESTMENTS INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: EAIIIDJ1
+    
+- name: "PT FITCH RATINGS INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: FRIPIDJ1
+    
+- name: "PT KRESNA GRAHA SEKURITAS TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: KGSTIDJ1
+    
+- name: "PT LIPPO SECURITIES TBK"
+  city: "TANGERANG"
+  branch: null
+  swift: LIPSIDJ1
+    
+- name: "PT MACQUARIE CAPITAL SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: IBSEIDJ1
+    
+- name: "PT MERRILL LYNCH SEKURITAS INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: MLIOIDJ1
+    
+- name: "PT PACIFIC 2000 INVESTINDO"
+  city: "JAKARTA"
+  branch: null
+  swift: STOIIDJ1
+    
+- name: "PT RBS ASIA SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: HGASIDJ1
+    
+- name: "PT RHB OSK SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: ONSNIDJ1
+    
+- name: "PT SARIJAYA PERMANA SEKURITAS"
+  city: "JAKARTA"
+  branch: null
+  swift: TEDAIDJ1
+    
+- name: "PT SCHRODER INVESTMENT MANAGEMENT INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: SIMDIDJ1
+    
+- name: "PT SUN LIFE INDONESIA SERVICES"
+  city: "JAKARTA"
+  branch: null
+  swift: SLISIDJ1
+    
+- name: "PT SUPRA SECURINVEST"
+  city: "JAKARTA"
+  branch: null
+  swift: SUPEIDJ1
+    
+- name: "PT TRIMEGAH SECURITIES TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: TRSSIDJ1
+    
+- name: "PT UBS SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: SBWIIDJ1
+    
+- name: "PT UBS SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: SBWNIDJ1
+    
+- name: "PT. BANK AGRIS"
+  city: "JAKARTA"
+  branch: null
+  swift: AGSSIDJA
+    
+- name: "PT. BANK BNI SYARIAH"
+  city: "JAKARTA"
+  branch: null
+  swift: SYNIIDJA
+    
+- name: "PT. BANK BUKOPIN, TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BBUKIDJA
+    
+- name: "PT. BANK CIMB NIAGA, TBK."
+  city: "BANDUNG"
+  branch: LEMBONG BRANCH
+  swift: BNIAIDJ10J6
+    
+- name: "PT. BANK CIMB NIAGA, TBK."
+  city: "JAKARTA"
+  branch: GAJAH MADA REGIONAL OFFICE
+  swift: BNIAIDJAGMA
+    
+- name: "PT. BANK CIMB NIAGA, TBK."
+  city: "JAKARTA"
+  branch: HEAD OFFICE OPERATION
+  swift: BNIAIDJA
+    
+- name: "PT. BANK CIMB NIAGA, TBK."
+  city: "JAKARTA"
+  branch: THAMRIN BRANCH
+  swift: BNIAIDJATHM
+    
+- name: "PT. BANK CIMB NIAGA, TBK."
+  city: "LAMPUNG"
+  branch: LAMPUNG BRANCH
+  swift: BNIAIDJ10S2
+    
+- name: "PT. BANK CIMB NIAGA, TBK."
+  city: "MEDAN"
+  branch: MEDAN BRANCH
+  swift: BNIAIDJ10SS
+    
+- name: "PT. BANK CIMB NIAGA, TBK."
+  city: "SEMARANG"
+  branch: SEMARANG BRANCH
+  swift: BNIAIDJASMG
+    
+- name: "PT. BANK CIMB NIAGA, TBK."
+  city: "SURABAYA"
+  branch: TUNUNGAN BRANCH
+  swift: BNIAIDJATUN
+    
+- name: "PT. BANK CIMB NIAGA, TBK."
+  city: "UJUNG PANDANG"
+  branch: UJUNG PANDANG BRANCH
+  swift: BNIAIDJ10D2
+    
+- name: "PT. BANK COMMONWEALTH"
+  city: "JAKARTA"
+  branch: null
+  swift: BICNIDJA
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "BALIKPAPAN"
+  branch: L/C DEPARTMENT
+  swift: BDINIDJABPN
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "BANDUNG"
+  branch: BANDUNG OTISTA BRANCH
+  swift: BDINIDJAOTI
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: CORPORATE LC PROCESSING CENTRE
+  swift: BDINIDJACLC
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: CUSTODIAL SERVICES
+  swift: BDINIDJACUS
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: FINANCIAL INSTITUTIONS CORRESPONDENT BANKING
+  swift: BDINIDJAIFI
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: INTERNATIONAL REMITTANCE
+  swift: BDINIDJARMT
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: L/C PROCESSING CENTER - MAKASSAR
+  swift: BDINIDJAMKS
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: LC CENTRE
+  swift: BDINIDJALCC
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: P. JAYAKARTA BRANCH
+  swift: BDINIDJ10J3
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: TRANSACTIONS PROCESSING CENTRE
+  swift: BDINIDJATPC
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: TREASURY OPERATIONS
+  swift: BDINIDJATRS
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BDINIDJA
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "MEDAN"
+  branch: MEDAN-ISKANDARMUDA BRANCH
+  swift: BDINIDJAMIM
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "MERAUKE"
+  branch: L/C DEPARTMENT-MEARUKE
+  swift: BDINIDJAMRK
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "SEMARANG"
+  branch: SEMARANG PEMUDA BRANCH
+  swift: BDINIDJASPM
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "SOLO"
+  branch: SOLO SRATEN BRANCH
+  swift: BDINIDJASSR
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "SURABAYA"
+  branch: L/C PROCESSING CENTRE SURABAYA
+  swift: BDINIDJASBY
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "TANJUNG PINANG"
+  branch: LC DEPARTMENT
+  swift: BDINIDJATJP
+    
+- name: "PT. BANK DANAMON INDONESIA, TBK"
+  city: "YOGYAKARTA"
+  branch: L/C DEPARTMENT-YOGYAKARTA
+  swift: BDINIDJAYGY
+    
+- name: "PT. BANK GANESHA"
+  city: "JAKARTA"
+  branch: null
+  swift: GNESIDJA
+    
+- name: "PT. BANK HAGAKITA"
+  city: "JAKARTA"
+  branch: null
+  swift: BHAGIDS1
+    
+- name: "PT. BANK JATIM"
+  city: "SURABAYA"
+  branch: null
+  swift: BJTMIDJA
+    
+- name: "PT. BANK JTRUST INDONESIA TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: CICTIDJA
+    
+- name: "PT. BANK KEB HANA INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: HNBNIDJA
+    
+- name: "PT. BANK MASPION INDONESIA"
+  city: "SURABAYA"
+  branch: null
+  swift: MASDIDJS
+    
+- name: "PT. BANK MAYAPADA INTERNATIONAL TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: MAYAIDJA
+    
+- name: "PT. BANK MAYORA"
+  city: "JAKARTA"
+  branch: null
+  swift: MAYOIDJA
+    
+- name: "PT. BANK MEGA SYARIAH"
+  city: "JAKARTA"
+  branch: null
+  swift: BMSIIDJA
+    
+- name: "PT. BANK MUAMALAT INDONESIA , TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: MUABIDJA
+    
+- name: "PT. BANK NATIONALNOBU"
+  city: "JAKARTA"
+  branch: null
+  swift: NOBUIDJA
+    
+- name: "PT. BANK NISP TBK"
+  city: "ANDIR"
+  branch: BANDUNG BRANCH
+  swift: NISPID610J4
+    
+- name: "PT. BANK NISP TBK"
+  city: "BOGOR"
+  branch: BOGOR BRANCH
+  swift: NISPID610J3
+    
+- name: "PT. BANK NISP TBK"
+  city: "CIMAHI"
+  branch: CIMAHI BRANCH
+  swift: NISPID610J5
+    
+- name: "PT. BANK NISP TBK"
+  city: "JAKARTA"
+  branch: HEAD OFFICE
+  swift: NISPID61
+    
+- name: "PT. BANK OF INDIA INDONESIA,TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BKIDIDJA
+    
+- name: "PT. BANK PEMBANGUNAN DAERAH BALI"
+  city: "DENPASAR"
+  branch: null
+  swift: ABALIDBS
+    
+- name: "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN, TBK"
+  city: "BANDUNG"
+  branch: null
+  swift: PDJBIDJA
+    
+- name: "PT. BANK PEMBANGUNAN DAERAH SUMATERA SELATAN"
+  city: "PALEMBANG"
+  branch: null
+  swift: BSSPIDSP
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "AMBON"
+  branch: AMBON BRANCH
+  swift: BRINIDJA001
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "BAGAN SIAPI-API"
+  branch: BAGAN SIAPI-API BRANCH
+  swift: BRINIDJA002
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "BANDA ACEH"
+  branch: BANDA ACEH BRANCH
+  swift: BRINIDJA037
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "BANDUNG"
+  branch: ASIA AFRIKA BRANCH
+  swift: BRINIDJA005
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "BANDUNG"
+  branch: DEWI SARTIKA BRANCH
+  swift: BRINIDJA286
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "BANJARMASIN"
+  branch: BANJARMASIN BRANCH
+  swift: BRINIDJA003
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "BATAM"
+  branch: BATAM BRANCH
+  swift: BRINIDJA331
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "BENGKALIS"
+  branch: BENGKALIS BRANCH
+  swift: BRINIDJA189
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "BIAK"
+  branch: BIAK BRANCH
+  swift: BRINIDJA308
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "BONTANG"
+  branch: BONTANG BRANCH
+  swift: BRINIDJA333
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "CIREBON"
+  branch: CIREBON BRANCH
+  swift: BRINIDJA107
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "DILI"
+  branch: DILI BRANCH
+  swift: BRINIDJA317
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "DUMAI"
+  branch: DUMAI BRANCH
+  swift: BRINIDJA159
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "GRESIK"
+  branch: GRESIK BRANCH
+  swift: BRINIDJA026
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: CUSTODIAN BRI
+  swift: BRINIDJACUS
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: CUT MUTIAH BRANCH
+  swift: BRINIDJA230
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: FATMAWATI BRANCH
+  swift: BRINIDJA330
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: GATOT SUBROTO BRANCH
+  swift: BRINIDJA359
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: HAYAM WURUK BRANCH
+  swift: BRINIDJA332
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: JAKARTA KOTA BRANCH
+  swift: BRINIDJA019
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: JATINEGARA BRANCH
+  swift: BRINIDJA122
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: KCK - SPECIAL BRANCH
+  swift: BRINIDJA206
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: KEBAYORAN BARU BRANCH
+  swift: BRINIDJA193
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: KRAMAT BRANCH
+  swift: BRINIDJA335
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: KREKOT BRANCH
+  swift: BRINIDJA261
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: OTISTA BRANCH
+  swift: BRINIDJA340
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: PASAR PAGI BRANCH
+  swift: BRINIDJA346
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: ROXI BRANCH
+  swift: BRINIDJA338
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: TANAH ABANG BRANCH
+  swift: BRINIDJA018
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: TANJUNG PRIOK BRANCH
+  swift: BRINIDJA186
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: TRADE FINANCE PROCESSING CENTRE JAKARTA I
+  swift: BRINIDJA370
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: VETERAN BRANCH
+  swift: BRINIDJA329
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BRINIDJA
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BRINIDJATRY
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JAMBI"
+  branch: JAMBI BRANCH
+  swift: BRINIDJA020
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "JEMBER"
+  branch: JEMBER BRANCH
+  swift: BRINIDJA021
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "KEDIRI"
+  branch: KEDIRI BRANCH
+  swift: BRINIDJA033
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "KENDARI"
+  branch: KENDARI BRANCH
+  swift: BRINIDJA192
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "KOTABARU"
+  branch: KOTABARU BRANCH
+  swift: BRINIDJA127
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "KUDUS"
+  branch: KUDUS BRANCH
+  swift: BRINIDJA038
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "KUPANG"
+  branch: KUPANG BRANCH
+  swift: BRINIDJA039
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "LANGSA"
+  branch: LANGSA BRANCH
+  swift: BRINIDJA042
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "LHOKSEUMAWE"
+  branch: LHOKSEUMAWE BRANCH
+  swift: BRINIDJA043
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "LUWUK"
+  branch: LUWUK BRANCH
+  swift: BRINIDJA167
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "MALANG"
+  branch: MALANG BRANCH
+  swift: BRINIDJA051
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "MANADO"
+  branch: MANADO BRANCH
+  swift: BRINIDJA054
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "MATARAM"
+  branch: MATARAM BRANCH
+  swift: BRINIDJA052
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "MEDAN"
+  branch: MEDAN PEMUDA BRANCH
+  swift: BRINIDJA336
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "MEDAN"
+  branch: MEDAN PUTRI HIJAU BRANCH
+  swift: BRINIDJA053
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "METRO"
+  branch: METRO BRANCH
+  swift: BRINIDJA130
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "PADANG"
+  branch: PADANG BRANCH
+  swift: BRINIDJA058
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "PALEMBANG"
+  branch: PALEMBANG BRANCH
+  swift: BRINIDJA059
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "PANGKAL PINANG"
+  branch: PANGKAL PINANG BRANCH
+  swift: BRINIDJA063
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "PANGKALAN BUN"
+  branch: PANGKALAN BUN BRANCH
+  swift: BRINIDJA282
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "PEKANBARU"
+  branch: PEKANBARU BRANCH
+  swift: BRINIDJA170
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "PEMATANG SIANTAR"
+  branch: PEMATANG SIANTAR BRANCH
+  swift: BRINIDJA113
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "PONTIANAK"
+  branch: PONTIANAK BRANCH
+  swift: BRINIDJA071
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "RABA-BIMA"
+  branch: RABA-BIMA BRANCH
+  swift: BRINIDJA079
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "RENGAT"
+  branch: RENGAT BRANCH
+  swift: BRINIDJA284
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "SAMARINDA"
+  branch: SAMARINDA BRANCH
+  swift: BRINIDJA082
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "SAMPIT"
+  branch: SAMPIT BRANCH
+  swift: BRINIDJA163
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "SEMARANG"
+  branch: PATTIMURA BRANCH
+  swift: BRINIDJA083
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "SIDOARJO"
+  branch: SIDOARJO BRANCH
+  swift: BRINIDJA086
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "SOLO"
+  branch: SLAMET RIYADI BRANCH
+  swift: BRINIDJA097
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "SUKABUMI"
+  branch: SUKABUMI BRANCH
+  swift: BRINIDJA092
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "SURABAYA"
+  branch: KALIASIN BRANCH
+  swift: BRINIDJA096
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "SURABAYA"
+  branch: PAHLAWAN BRANCH
+  swift: BRINIDJA211
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "SURABAYA"
+  branch: RAJAWALI BRANCH
+  swift: BRINIDJA172
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "SURABAYA"
+  branch: TANJUNG PERAK BRANCH
+  swift: BRINIDJA328
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "TANGERANG"
+  branch: TANGERANG BRANCH
+  swift: BRINIDJA120
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "TANJUNG KARANG"
+  branch: TANJUNG KARANG BRANCH
+  swift: BRINIDJA098
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "TANJUNG PANDAN"
+  branch: TANJUNG PANDAN BRANCH
+  swift: BRINIDJA131
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "TANJUNG PINANG"
+  branch: TANJUNG PINANG BRANCH
+  swift: BRINIDJA174
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "TEBINGTINGGI"
+  branch: TEBINGTINGGI BRANCH
+  swift: BRINIDJA283
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "TEGAL"
+  branch: TEGAL BRANCH
+  swift: BRINIDJA101
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "TELUK BETUNG"
+  branch: TELUK BETUNG BRANCH
+  swift: BRINIDJA285
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "TEMBILAHAN"
+  branch: TEMBILAHAN BRANCH
+  swift: BRINIDJA175
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "TERNATE"
+  branch: TERNATE BRANCH
+  swift: BRINIDJA103
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "UJUNG PANDANG"
+  branch: ACHMAD YANI BRANCH
+  swift: BRINIDJA050
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO), TBK"
+  city: "UJUNG PANDANG"
+  branch: SOMBA OPU BRANCH
+  swift: BRINIDJA343
+    
+- name: "PT. BANK RAKYAT INDONESIA AGRONIAGA TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: AGTBIDJA
+    
+- name: "PT. BANK SBI INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: SBIDIDJA
+    
+- name: "PT. BANK SHINHAN INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: SHBKIDJA
+    
+- name: "PT. BANK SUMUT"
+  city: "MEDAN"
+  branch: null
+  swift: PDSUIDSA
+    
+- name: "PT. BANK VICTORIA INTERNASIONAL, TBK"
+  city: "JAKARTA"
+  branch: null
+  swift: BVICIDJA
+    
+- name: "PT. BINTANG PESONA JAGAT"
+  city: "MALANG"
+  branch: null
+  swift: BATSID31
+    
+- name: "PT. BNP PARIBAS SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: PBPEIDJ1
+    
+- name: "PT. BPD SUMATERA BARAT (BANK NAGARI)"
+  city: "PADANG"
+  branch: null
+  swift: PDSBIDSP
+    
+- name: "PT. BUMIPUTERA CAPITAL INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: FISNIDJ1
+    
+- name: "PT. CIPTADANA SECURITIES"
+  city: "JAKARTA"
+  branch: null
+  swift: CIUEIDJ1
+    
+- name: "PT. CITIGROUP SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: CITIIDX1
+    
+- name: "PT. DANAREKSA SEKURITAS"
+  city: "JAKARTA"
+  branch: null
+  swift: DANCIDJ1
+    
+- name: "PT. DANAREKSA SEKURITAS"
+  city: "SURABAYA"
+  branch: null
+  swift: DANCIDJ10JD
+    
+- name: "PT. LAUTANDHANA SECURINDO"
+  city: "JAKARTA"
+  branch: null
+  swift: LAUSIDJ1
+    
+- name: "PT. MAHAKARYA ARTHA SECURITIES"
+  city: "JAKARTA"
+  branch: null
+  swift: MAASIDJ1
+    
+- name: "PT. MANDIRI SEKURITAS"
+  city: "JAKARTA"
+  branch: null
+  swift: MASKIDJ1
+    
+- name: "PT. OPTIMA KHARYA CAPITAL SECURITIES"
+  city: "JAKARTA"
+  branch: null
+  swift: SHKSIDJ1
+    
+- name: "PT. PANIN SEKURITAS TBK."
+  city: "JAKARTA"
+  branch: null
+  swift: PANUIDJ1
+    
+- name: "PT. PERUSAHAAN DAGANG AND INDUSTRI TRESNO"
+  city: "MALANG"
+  branch: null
+  swift: BATSIDJ1
+    
+- name: "PT. PERUSAHAAN DAGANG SUBURAMAN"
+  city: "MALANG"
+  branch: null
+  swift: BATSIDB1
+    
+- name: "PT. SUN LIFE FINANCIAL INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: SLFIIDJ1
+    
+- name: "PT. WATERFRONT SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: PARIIDJ1
+    
+- name: "PT.BANK MNC INTERNASIONAL TBK."
+  city: "JAKARTA"
+  branch: null
+  swift: BUMIIDJA
+    
+- name: "PT.PHILLIP SECURITIES INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: PHSPIDJ1
+    
+- name: "PUTERA MASTER SEKURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PUMSIDJ1
+    
+- name: "PUTRA JUANG SEKUPINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PUJSIDJ1
+    
+- name: "PUTRA SARIDAYA PERSADA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: PUSPIDJ1
+    
+- name: "RABOBANK INDONESIA"
+  city: "JAKARTA"
+  branch: null
+  swift: RABOIDJA
+    
+- name: "RAMAYANA ARTHA PERKASA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: RAASIDJ1
+    
+- name: "RASHID HUSSAIN SECURITIES PT"
+  city: "JAKARTA"
+  branch: null
+  swift: RHUSIDJ1
+    
+- name: "RAVINDO SECURITAMA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: RAVSIDJ1
+    
+- name: "REDIALINDO MANDIRI, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: REDMIDJ1
+    
+- name: "REKAPRIMA SEKURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: REKSIDJ1
+    
+- name: "RITA WIJAYA KENCANA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: RIWKIDJ1
+    
+- name: "SAFINDO MEDIADANA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SAFMIDJ1
+    
+- name: "SAKA CARRY SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SACCIDJ1
+    
+- name: "SANYO PRIMARINDO SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SAPSIDJ1
+    
+- name: "SARANA EFEKINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SAREIDJ1
+    
+- name: "SASSOON SECURITIES LIMITED, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SASRIDJ1
+    
+- name: "SEKURINDO PRATAMA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SEKPIDJ1
+    
+- name: "SEKURITAS INDO PASIFIK INVESTASI,PT"
+  city: "SURABAYA"
+  branch: null
+  swift: SEIPIDJ1
+    
+- name: "SEKURITAS INDOPASIFIC INV., PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SEIIIDJ1
+    
+- name: "SEMESTA INDOVEST, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SEMIIDJ1
+    
+- name: "SERTIVIA SECURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SERCIDJ1
+    
+- name: "SERUNI TUNGGAL, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SERNIDJ1
+    
+- name: "SERUNI TUNGGAL, PT"
+  city: "SURABAYA"
+  branch: null
+  swift: SERNIDJ10JD
+    
+- name: "SIGMA BATARA PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SIGBIDJ1
+    
+- name: "SINARMAS SEKURITAS, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SINKIDJ1
+    
+- name: "SRIKANDI SECURITIES INVESINDO, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SRSIIDJ1
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "BANDUNG"
+  branch: BANDUNG BRANCH
+  swift: SCBLIDJXBDG
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "JAKARTA"
+  branch: PT SCSI
+  swift: SCBLIDJXIDX
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "JAKARTA"
+  branch: null
+  swift: SCBLIDJX
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "MEDAN"
+  branch: MEDAN BRANCH
+  swift: SCBLIDJXMDN
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SEMARANG"
+  branch: SEMARANG BRANCH
+  swift: SCBLIDJXSMG
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SURABAYA"
+  branch: SURABAYA BRANCH
+  swift: SCBLIDJXSBY
+    
+- name: "STANDARD CHARTERED IND., PT"
+  city: "JAKARTA"
+  branch: null
+  swift: STCIIDJ1
+    
+- name: "SUCORINVEST CENTRAL GANI PT"
+  city: "JAKARTA"
+  branch: null
+  swift: SUCGIDJ1
+    
+- name: "SUCORINVEST CENTRAL GANI PT"
+  city: "SURABAYA"
+  branch: null
+  swift: SUCGIDJ10JD
+    
+- name: "SUMBER ARTHA INVESINDO,PT"
+  city: "SURABAYA"
+  branch: null
+  swift: SUAIIDJ1
+    
+- name: "SURABAYA ARTHA INVESINDO,PT"
+  city: "SURABAYA"
+  branch: null
+  swift: SUANIDJ1
+    
+- name: "SURABAYA STOCK EXCHANGE"
+  city: "JAKARTA"
+  branch: null
+  swift: XSURIDJ1
+    
+- name: "SWADANA CIPTA EFEKINDO"
+  city: "JAKARTA"
+  branch: null
+  swift: SWADIDJ1
+    
+- name: "TATAGUNA SARANA EFEK"
+  city: "JAKARTA"
+  branch: null
+  swift: TASFIDJ1
+    
+- name: "TEGARDINAMIKA ABADI"
+  city: "JAKARTA"
+  branch: null
+  swift: TEGAIDJ1
+    
+- name: "TIFA SECURITIES"
+  city: "JAKARTA"
+  branch: null
+  swift: TIFAIDJ1
+    
+- name: "TOBELI PASIFIK,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: TOBEIDJ1
+    
+- name: "TRANSPACIFIC SECURINDO PT"
+  city: "JAKARTA"
+  branch: null
+  swift: TRAEIDJ1
+    
+- name: "TUNAS PERDANA SECURINDO"
+  city: "JAKARTA"
+  branch: null
+  swift: TUNPIDJ1
+    
+- name: "TUNASMULIA"
+  city: "SURABAYA"
+  branch: null
+  swift: TUNAIDJ1
+    
+- name: "TUNASMULIA INVESINDOKARSA"
+  city: "JAKARTA"
+  branch: null
+  swift: TUNMIDJ1
+    
+- name: "UNISECURINDO"
+  city: "JAKARTA"
+  branch: null
+  swift: UNIRIDJ1
+    
+- name: "UOB KAY HIAN SECURITIES, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: UKHEIDJ1
+    
+- name: "VICKERS BALLAS TAMARA PT."
+  city: "JAKARTA"
+  branch: null
+  swift: TRSEIDJ1
+    
+- name: "VICTORIA SEKURITAS PT."
+  city: "JAKARTA"
+  branch: null
+  swift: TASMIDJ1
+    
+- name: "W.I. CARR INDONESIA,PT"
+  city: "JAKARTA"
+  branch: null
+  swift: WICAIDJ1
+    
+- name: "WARDLEY JAMES CAPEL IND. PT"
+  city: "JAKARTA"
+  branch: null
+  swift: WJCAIDJ1
+    
+- name: "WOORI BANK, INDONESIA P.T. JAKARTA"
+  city: "BANDUNG"
+  branch: null
+  swift: HVBKIDJA
+    
+- name: "YAMA BANK"
+  city: "JAKARTA"
+  branch: null
+  swift: BYAMIDJ1
+    
+- name: "YUANTA SECURITIES INDONESIA, PT"
+  city: "JAKARTA"
+  branch: null
+  swift: AMIDIDJ1
+    

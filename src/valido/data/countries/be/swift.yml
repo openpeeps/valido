@@ -1,0 +1,3255 @@
+- name: "AAREAL BANK AG"
+  city: "BRUSSELS"
+  branch: null
+  swift: AARBBEB1
+    
+- name: "ABE CLEARING SAS/EBA CLEARING"
+  city: "BRUSSELS"
+  branch: null
+  swift: EBACBEBB
+    
+- name: "ABE CLEARING SAS/EBA CLEARING"
+  city: "BRUSSELS"
+  branch: null
+  swift: EBATBEBB
+    
+- name: "ABK BANK, DIVISIE VAN BANK J. VAN BREDA EN CO NV"
+  city: "ANTWERPEN"
+  branch: null
+  swift: ABERBE22
+    
+- name: "ABN AMRO BANK N.V. BELGIAN BRANCH"
+  city: "ANTWERPEN"
+  branch: INTERNATIONAL DIAMOND AND JEWELRY GROUP
+  swift: ABNABE2AIDJ
+    
+- name: "ABN AMRO BANK N.V. BELGIAN BRANCH"
+  city: "ANTWERPEN"
+  branch: MONEYOU
+  swift: ABNABE2AMYO
+    
+- name: "ABN AMRO BANK N.V. BELGIAN BRANCH"
+  city: "BERCHEM"
+  branch: INTERNATIONAL PRIVATE CLIENTS DEPARTMENT
+  swift: ABNABE2AIPC
+    
+- name: "ABN AMRO BANK N.V. BELGIAN BRANCH"
+  city: "BERCHEM"
+  branch: null
+  swift: ABNABE2A
+    
+- name: "ACCORD"
+  city: "LA HULPE"
+  branch: null
+  swift: ACCOBEB3
+    
+- name: "ADIENT BELGIUM BVBA"
+  city: "ASSENEDE"
+  branch: null
+  swift: JCAEBE9A
+    
+- name: "AG INSURANCE"
+  city: "BRUSSELS"
+  branch: null
+  swift: ISSUBEB1
+    
+- name: "AGFA-GEVAERT NV"
+  city: "MORTSEL"
+  branch: null
+  swift: AGFGBEBB
+    
+- name: "ALENA SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: ALENBEB1
+    
+- name: "ANHEUSER-BUSCH INBEV NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: ABIXBEBB
+    
+- name: "ARGENTA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: ARSPBE22
+    
+- name: "ASSOCIATED STOCKBROKERS, BVBA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: ASSTBE21
+    
+- name: "ATTIJARIWAFA BANK (FORMERLY WAFABANK)"
+  city: "ANTWERPEN"
+  branch: null
+  swift: WAFABEBBANT
+    
+- name: "ATTIJARIWAFA BANK (FORMERLY WAFABANK)"
+  city: "BRUSSELS"
+  branch: TARGET2
+  swift: WAFABEBBTG2
+    
+- name: "ATTIJARIWAFA BANK (FORMERLY WAFABANK)"
+  city: "BRUSSELS"
+  branch: null
+  swift: WAFABEBB
+    
+- name: "AUDI NV"
+  city: "ANTWERPEN"
+  branch: null
+  swift: AUETBE21
+    
+- name: "AUXIFINA SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: AUXIBEB1
+    
+- name: "AVEVE SA"
+  city: "MERKSEM"
+  branch: null
+  swift: AVEVBE21
+    
+- name: "AXA BANK BELGIUM"
+  city: "BERCHEM"
+  branch: null
+  swift: AXABBE22
+    
+- name: "AXA BELGIUM"
+  city: "WATERMAEL BOITSFORT"
+  branch: null
+  swift: AXBIBEBB
+    
+- name: "B AND BT NV"
+  city: "ANTWERPEN"
+  branch: WOMMELGEM
+  swift: BNDDBE21326
+    
+- name: "B AND BT NV"
+  city: "ANTWERPEN"
+  branch: null
+  swift: BNDDBE21
+    
+- name: "BANCA MONTE PASCHI BELGIO"
+  city: "BRUSSELS"
+  branch: null
+  swift: BMPBBEBB
+    
+- name: "BANCA MONTE PASCHI BELGIO"
+  city: "BRUSSELS"
+  branch: null
+  swift: BMPBBEBBTGT
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "BRUSSELS"
+  branch: TARGET2
+  swift: BBVABEBBTG2
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: BBVABEBB
+    
+- name: "BANCO SANTANDER CENTRAL HISPANO"
+  city: "BRUSSELS"
+  branch: null
+  swift: BSCHBEBR
+    
+- name: "BANCONTACT-MISTERCASH SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: BCMCBEBB
+    
+- name: "BANK DELEN NV"
+  city: "ANTWERPEN"
+  branch: null
+  swift: DELEBE22
+    
+- name: "BANK DELEN NV"
+  city: "ANTWERPEN"
+  branch: null
+  swift: DELEBE22NRA
+    
+- name: "BANK DELEN NV"
+  city: "ANTWERPEN"
+  branch: null
+  swift: DELEBE22THE
+    
+- name: "BANK J. VAN BREDA AND CO NV"
+  city: "ANTWERPEN"
+  branch: null
+  swift: JVBABE22
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED, BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: RESERVE ACCOUNT ONLY
+  swift: BOFABE3XRES
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED, BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: BOFABE3X
+    
+- name: "BANK OF BARODA (BRUSSELS BRANCH)"
+  city: "BRUSSELS"
+  branch: TARGET
+  swift: BARBBEBBTGT
+    
+- name: "BANK OF BARODA (BRUSSELS BRANCH)"
+  city: "BRUSSELS"
+  branch: null
+  swift: BARBBEBB
+    
+- name: "BANK OF CHINA (LUXEMBOURG) S.A. BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: BANK OF CHINA(LUXEMBOURG) S.A. BRUSSELS BRANCH
+  swift: BKCHBEBBTG2
+    
+- name: "BANK OF CHINA (LUXEMBOURG) S.A. BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: BKCHBEBB
+    
+- name: "BANK OF INDIA"
+  city: "ANTWERPEN"
+  branch: BOI ANTWERP
+  swift: BKIDBE22BOI
+    
+- name: "BANK OF INDIA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: BKIDBE22
+    
+- name: "BANK OF NEW YORK (LUXEMBOURG)SA, THE"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEB1
+    
+- name: "BANQUE BCP S.A. LUXEMBOURG-SUCCURSALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: BMECBEB1
+    
+- name: "BANQUE CENTRALE POPULAIRE SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: BCPOBEB1
+    
+- name: "BANQUE CHAABI DU MAROC"
+  city: "BRUSSELS"
+  branch: null
+  swift: BCDMBEBB
+    
+- name: "BANQUE DE LUXEMBOURG, SUCCURSALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: BLUXBEBB
+    
+- name: "BANQUE DEGROOF PETERCAM SA/NV (FORMERLY BANQUE DEGROOF)"
+  city: "BRUSSELS"
+  branch: TARGET 2 SECURITIES PARTICIPATION
+  swift: DEGRBEBBTG2
+    
+- name: "BANQUE DEGROOF PETERCAM SA/NV (FORMERLY BANQUE DEGROOF)"
+  city: "BRUSSELS"
+  branch: null
+  swift: DEGRBEBB
+    
+- name: "BANQUE DEGROOF PETERCAM SA/NV (FORMERLY PETERCAM SA)"
+  city: "BRUSSELS"
+  branch: BACK -OFFICE CLIENTS NOT IN CUSTODY
+  swift: PECSBEBB009
+    
+- name: "BANQUE DEGROOF PETERCAM SA/NV (FORMERLY PETERCAM SA)"
+  city: "BRUSSELS"
+  branch: null
+  swift: PECSBEBB
+    
+- name: "BANQUE DREZE"
+  city: "VERVIERS"
+  branch: null
+  swift: BDREBE41
+    
+- name: "BANQUE ENI S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: ENIBBEBB
+    
+- name: "BANQUE NAGELMACKERS S.A. - BANK NAGELMACKERS NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: BNAGBEBB
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: ACCOUNTS DIVISION
+  swift: NBBEBEBB273
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: BACK OFFICE DIVISION
+  swift: NBBEBEBB243
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: BELGIAN TREASURY
+  swift: NBBEBEBBTRE
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: CEC TECHNICAL ACCOUNT
+  swift: NBBEBEBBCEC
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: CURRENT ACCOUNTS DIVISION
+  swift: NBBEBEBB203
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: DEBT AGENCY B
+  swift: NBBEBEBBDAB
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: DEBT AGENCY E
+  swift: NBBEBEBBDAE
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: EUROCLEAR SETTLEMENT SERVICES
+  swift: NBBEBEBBEOC
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: HOOFDKAS CAISSE CENTRALE
+  swift: NBBEBEBBHCC
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: NBB/ESES CONTINGENCY ACCOUNT
+  swift: NBBEBEBBCAC
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: NBB-SSS
+  swift: NBBEBEBB223
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: SECURITIES CLEARING SYSTEM
+  swift: NBBEBEBB216
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: WITHOLDING TAX
+  swift: NBBEBEBBWTX
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: ECMSBEBB
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: ECMSBEBBCCB
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: NBBEBEBB
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: NBBEBEBBCON
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: NBBEBEBBDCK
+    
+- name: "BANQUE NATIONALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: NBBEBEBBGLB
+    
+- name: "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE, BELGIANBRANCH"
+  city: "BRUSSELS"
+  branch: TARGET 2
+  swift: PRIBBEBBTG2
+    
+- name: "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE, BELGIANBRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: PRIBBEBB
+    
+- name: "BANQUE PSA FINANCE SUCCURSALE EN BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: PSABBEB1
+    
+- name: "BAUDOUX VERTONGEN ET CIE"
+  city: "BRUSSELS"
+  branch: null
+  swift: BAUVBEB1
+    
+- name: "BEECKMANS, VAN GAVER ET CIE, SCS"
+  city: "ANTWERPEN"
+  branch: null
+  swift: BGHVBE21
+    
+- name: "BELFIUS BANK SA/NV"
+  city: "BRUSSELS"
+  branch: HEAD OFFICE
+  swift: GKCCBEBB
+    
+- name: "BELGIAN NATIONAL REGISTRY"
+  city: "BRUSSELS"
+  branch: null
+  swift: BENGBEB1
+    
+- name: "BELHYPERION"
+  city: "BRUSSELS"
+  branch: null
+  swift: BELHBEB1
+    
+- name: "BEMO HOLDING SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: BEMBBEB1
+    
+- name: "BEOBANK NV/SA"
+  city: "BRUSSELS"
+  branch: TARGET2
+  swift: CTBKBEBXTGT
+    
+- name: "BEOBANK NV/SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: CTBKBEBX
+    
+- name: "BEURS VAN ANTWERPEN (ANTWERP STOCK EXCHANGE)"
+  city: "ANTWERPEN"
+  branch: null
+  swift: XANTBE21
+    
+- name: "BHW BAUSPARKASSE AG"
+  city: "BRUSSELS"
+  branch: null
+  swift: BHBEBEB1
+    
+- name: "BINCKBANK NV"
+  city: "ANTWERPEN"
+  branch: null
+  swift: BIBLBE21
+    
+- name: "BIOPARTICIPATIONS SA"
+  city: "MARQUAIN"
+  branch: null
+  swift: BIOABE71
+    
+- name: "BKCP SECURITIES NV"
+  city: "KNOKKE-HEIST"
+  branch: null
+  swift: BUSSBE81
+    
+- name: "BMCE EUROSERVICES"
+  city: "BRUSSELS"
+  branch: null
+  swift: BMEUBEB1
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "AALST"
+  branch: null
+  swift: GEBABEBB01A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "ANTWERPEN"
+  branch: null
+  swift: GEBABEBB18A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "ARLON"
+  branch: null
+  swift: GEBABEBB02A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "BRUGGE"
+  branch: null
+  swift: GEBABEBB13A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "BRUSSELS"
+  branch: ALL BELGIAN OFFICES
+  swift: GEBABEBB
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "BRUSSELS"
+  branch: EQUITY TRADING LSE
+  swift: GEBABEBBLDN
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "BRUSSELS"
+  branch: HEAD OFFICE
+  swift: GEBABEBB36A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "BRUSSELS"
+  branch: INTERNAL PROCESS ACCOUNT
+  swift: GEBABEBBIPA
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "BRUSSELS"
+  branch: PROPRIETARY TRADING EQUITIES
+  swift: GEBABEBBSSD
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "BRUSSELS"
+  branch: null
+  swift: GEBABEBB00A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "BRUSSELS"
+  branch: null
+  swift: GEBABEBBALM
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "BRUSSELS"
+  branch: null
+  swift: GEBABEBBDBK
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "CHARLEROI"
+  branch: null
+  swift: GEBABEBB03A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "GENK"
+  branch: null
+  swift: GEBABEBB08E
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "GENT"
+  branch: null
+  swift: GEBABEBB05A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "HASSELT"
+  branch: null
+  swift: GEBABEBB14A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "HUY"
+  branch: null
+  swift: GEBABEBB07B
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "KORTRIJK"
+  branch: null
+  swift: GEBABEBB04A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "LA LOUVIERE"
+  branch: null
+  swift: GEBABEBB06A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "LEUVEN"
+  branch: null
+  swift: GEBABEBB08A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "LIEGE"
+  branch: null
+  swift: GEBABEBB07A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "MECHELEN"
+  branch: null
+  swift: GEBABEBB08B
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "MONS"
+  branch: null
+  swift: GEBABEBB09A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "NAMUR"
+  branch: null
+  swift: GEBABEBB10A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "NINOVE"
+  branch: null
+  swift: GEBABEBB18B
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "NIVELLES"
+  branch: null
+  swift: GEBABEBB06B
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "ROESELARE"
+  branch: null
+  swift: GEBABEBB05B
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "SINT-NIKLAAS"
+  branch: null
+  swift: GEBABEBB01B
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "TIENEN"
+  branch: null
+  swift: GEBABEBB08C
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "TOURNAI"
+  branch: null
+  swift: GEBABEBB11A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "TURNHOUT"
+  branch: null
+  swift: GEBABEBB08D
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "VERVIERS"
+  branch: null
+  swift: GEBABEBB12A
+    
+- name: "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)"
+  city: "WAREMME"
+  branch: null
+  swift: GEBABEBB07C
+    
+- name: "BNP PARIBAS IP BELGIUM SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: FIMGBEBB
+    
+- name: "BNP PARIBAS PRIVATE BANK"
+  city: "BRUSSELS"
+  branch: null
+  swift: BPPBBEB1
+    
+- name: "BNP PARIBAS SECURITIES SERVICES,"
+  city: "BRUSSELS"
+  branch: null
+  swift: PARBBEB1
+    
+- name: "BNP PARIBAS SECURITIES SERVICES,"
+  city: "BRUSSELS"
+  branch: null
+  swift: PARBBEBH
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1000
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1001
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1002
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1003
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1004
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1005
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1006
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1007
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1008
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1009
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1010
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1011
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1012
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1013
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1014
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1015
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1016
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1017
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1018
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1019
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1020
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1021
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1022
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1023
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1024
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1025
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1026
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1027
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1028
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1029
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1030
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1031
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1032
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1033
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1034
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1035
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1036
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1037
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1038
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1039
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1040
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1041
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1042
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1043
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1044
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1045
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1046
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1047
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1048
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1049
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1050
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1051
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1052
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1053
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1054
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1055
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1056
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1057
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1058
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1059
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: BRUSSELS
+  swift: PARBBEB1060
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: null
+  swift: PARBBEBZ
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BELGIUM"
+  city: "BRUSSELS"
+  branch: null
+  swift: PARBBEBZISI
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: PARIBAS MULTIDIRECT CUSTODY AND CLEARING.MDCC
+  swift: PARBBEBZMDC
+    
+- name: "BNY MELLON CSD SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: GCSDBEBB
+    
+- name: "BOREALIS FINANCIAL SERVICES NV"
+  city: "MECHELEN"
+  branch: null
+  swift: BOALBE22
+    
+- name: "BPOST"
+  city: "BRUSSELS"
+  branch: null
+  swift: PCHQBEBB
+    
+- name: "BPOST BANK-BPOST BANQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: BPOTBEBE
+    
+- name: "BPOSTBANK-BPOSTBANQUE"
+  city: "BRUSSELS"
+  branch: RESTRICTED USE
+  swift: BPOTBEB1ISA
+    
+- name: "BPOSTBANK-BPOSTBANQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: BPOTBEB1
+    
+- name: "BRANQUART COSTERMANS SECURITIES SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: BCSEBEB1
+    
+- name: "BRUGS LEENKREDIET BVBA"
+  city: "BRUSSELS"
+  branch: null
+  swift: BRLEBEB1
+    
+- name: "BRUSSELS EXCHANGES CLEARING HOUSE NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: XBFOBEB1
+    
+- name: "BUY WAY PERSONAL FINANCE SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: BUYWBEBB
+    
+- name: "BYBLOS BANK EUROPE S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: BYBBBEBB
+    
+- name: "CA INDOSUEZ WEALTH (EUROPE), BELGIUM BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: CVMCBEBB
+    
+- name: "CACEIS BANK, BELGIUM BRANCH"
+  city: "BRUSSELS"
+  branch: FUNDS OF FUNDS
+  swift: ISAEBEBBFOF
+    
+- name: "CACEIS BANK, BELGIUM BRANCH"
+  city: "BRUSSELS"
+  branch: TARGET
+  swift: ISAEBEBBTGT
+    
+- name: "CACEIS BANK, BELGIUM BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: ISAEBEBB
+    
+- name: "CACEIS BELGIUM"
+  city: "BRUSSELS"
+  branch: null
+  swift: FNETBEBB
+    
+- name: "CAISSE D'EPARGNE DE LA VILLE DE NIVELLES"
+  city: "NIVELLES"
+  branch: null
+  swift: CEVNBEB1
+    
+- name: "CAISSE D'EPARGNE LA FAMILLE"
+  city: "BRUSSELS"
+  branch: null
+  swift: FCECBEB1
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: ESES MIGRATION
+  swift: ESESBEBBMIG
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: ESIDC
+  swift: ESESBEBBCSD
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: ISSUER AGENT COUPON
+  swift: ESESBEBBIAC
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: ISSUER AGENT DIVIDEND
+  swift: ESESBEBBIAD
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: SECURITIES AND COUPON CENTER
+  swift: ESESBEBBSCC
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: TARGET2
+  swift: ESESBEBBT2X
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: null
+  swift: ESESBEBB
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: null
+  swift: ESESBEBBFDB
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: null
+  swift: ESESBEBBINT
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: null
+  swift: ESESBEBBLE1
+    
+- name: "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES"
+  city: "BRUSSELS"
+  branch: null
+  swift: ESESBEBBLE2
+    
+- name: "CANDRIAM BELGIUM"
+  city: "BRUSSELS"
+  branch: null
+  swift: DXAMBEBB
+    
+- name: "CAPITAL AND FINANCE ASSET MANAGEMENT SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: CFENBEB1
+    
+- name: "CAPITAL AT WORK SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: CAPWBEBB
+    
+- name: "CARDIF LEVEN"
+  city: "BRUSSELS"
+  branch: null
+  swift: CAFVBEB1
+    
+- name: "CARFIN SA"
+  city: "LOUVAIN-LA-NEUVE"
+  branch: null
+  swift: CARGBEBL
+    
+- name: "CARREFOUR FINANCE SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: CAFIBEBB
+    
+- name: "CATERPILLAR FINANCE FRANCE SA"
+  city: "BRUSSELS"
+  branch: SUCCURSALE BELGE
+  swift: CAFFBEB1
+    
+- name: "CBC BANQUE S.A."
+  city: "BRUSSELS"
+  branch: ALL OFFICES
+  swift: CREGBEBB
+    
+- name: "CBC BANQUE S.A."
+  city: "BRUSSELS"
+  branch: BIC ONLY USED FOR OPEN MARKET TRANSACTIONS AND MONETARY RESERVE
+  swift: CREGBEBBTGT
+    
+- name: "CBC BANQUE S.A."
+  city: "BRUSSELS"
+  branch: BIC TO BE USED IN THE NBB-SSS FOR IDENTIFYING CBC CLIENT ACCOUNT
+  swift: CREGBEBBNBB
+    
+- name: "CBP QUILVEST S.A. (LUXEMBOURG) SUCCURSALE BELGIQUE"
+  city: "SINT-DENIJS-WESTREM"
+  branch: null
+  swift: CBPXBE99
+    
+- name: "CELIO INTERNATIONAL"
+  city: "BRUSSELS"
+  branch: null
+  swift: CEINBEBB
+    
+- name: "CELS SECURITIES N.V."
+  city: "BRUSSELS"
+  branch: null
+  swift: GUSEBEB1
+    
+- name: "CENTEA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: HSAABE21
+    
+- name: "CENTRALE KREDIETVERLENING"
+  city: "WAREGEM"
+  branch: null
+  swift: CEKVBE81
+    
+- name: "CENTRE FOR EXCHANGE AND CLEARING"
+  city: "BRUSSELS"
+  branch: null
+  swift: BCSMBEB1
+    
+- name: "CENTRE FOR EXCHANGE AND CLEARING"
+  city: "BRUSSELS"
+  branch: null
+  swift: BCSMBEB1STT
+    
+- name: "CENTURY INVESTMENT"
+  city: "ANTWERPEN"
+  branch: null
+  swift: CEIPBE21
+    
+- name: "CHEVRON PHILLIPS CHEMICALS INTERNATIONAL NV"
+  city: "OVERIJSE"
+  branch: null
+  swift: CPCHBEBB
+    
+- name: "CHOPPINET SPRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: CHOCBEB1
+    
+- name: "CITIBANK EUROPE PLC BELGIUM BRANCH"
+  city: "BRUSSELS"
+  branch: CITIBANK EUROPE PLC BELGIUM
+  swift: CITIBEBXSEC
+    
+- name: "CITIBANK EUROPE PLC BELGIUM BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: CITIBEBX
+    
+- name: "CLEARNET BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: CLIQBEB1
+    
+- name: "CM-CIC BELGIUM"
+  city: "BRUSSELS"
+  branch: CM-CIC BANQUE TRANSATLANTIQUE
+  swift: CMCIBEB1BTB
+    
+- name: "CM-CIC BELGIUM"
+  city: "BRUSSELS"
+  branch: null
+  swift: CMCIBEB1
+    
+- name: "CM-CIC BELGIUM"
+  city: "DIEGEM"
+  branch: CM-CIC SECURITIES BELGIUM
+  swift: CMCIBEB1SEC
+    
+- name: "CODABOX SA"
+  city: "LEUVEN"
+  branch: null
+  swift: CDBXBE33
+    
+- name: "COMMERZBANK AG,THE,BRUSSELS BRANCH"
+  city: "ANTWERPEN"
+  branch: null
+  swift: COBABEB1022
+    
+- name: "COMMERZBANK AG,THE,BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: ADMINISTRATION
+  swift: COBABEBXTBU
+    
+- name: "COMMERZBANK AG,THE,BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: COBABEBX
+    
+- name: "COMMERZBANK AG,THE,BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: COBABEBXTSU
+    
+- name: "CPH BANQUE"
+  city: "TOURNAI"
+  branch: null
+  swift: CPHBBE75
+    
+- name: "CPH BANQUE"
+  city: "TOURNAI"
+  branch: null
+  swift: CPHBBE75TG2
+    
+- name: "CREDIBE SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: OCCHBEB1
+    
+- name: "CREDIMO N.V."
+  city: "ASSE"
+  branch: null
+  swift: CREOBEB1
+    
+- name: "CREDISHOP S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: CREPBEB1
+    
+- name: "CREDIT AGRICOLE CIB BELGIUM"
+  city: "BRUSSELS"
+  branch: TARGET 2
+  swift: CRLYBEBBTG2
+    
+- name: "CREDIT AGRICOLE CIB BELGIUM"
+  city: "BRUSSELS"
+  branch: null
+  swift: CRLYBEBB
+    
+- name: "CREDIT EUROPE BANK N.V. ANTWERP BRANCH"
+  city: "ANTWERPEN"
+  branch: TARGET2 TECHNICAL BIC
+  swift: FBHLBE22TG2
+    
+- name: "CREDIT EUROPE BANK N.V. ANTWERP BRANCH"
+  city: "ANTWERPEN"
+  branch: null
+  swift: FBHLBE22
+    
+- name: "CRELAN SA/NV (FORMERLY CREDIT AGRICOLE SA/LANDBOUWKREDIET NV)"
+  city: "BRUSSELS"
+  branch: null
+  swift: NICABEBB
+    
+- name: "CRISTAL BELGIUM"
+  city: "WILLEBROEK"
+  branch: null
+  swift: CRSLBE22
+    
+- name: "CYTEC BELGIUM BVBA"
+  city: "DIEGEM"
+  branch: null
+  swift: CYTEBEBB
+    
+- name: "DAMIEN COURTENS, SPRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: DAMCBEB1
+    
+- name: "DAVENPORT VERMOGENSBEHEER NV"
+  city: "ROESELARE"
+  branch: null
+  swift: DAVRBE81
+    
+- name: "DE BOODT ET CIE, GCV"
+  city: "BRUSSELS"
+  branch: null
+  swift: DBOOBEB1
+    
+- name: "DE BUCK EN CIE N.V."
+  city: "GENT"
+  branch: null
+  swift: DBUCBE91
+    
+- name: "DE MOFFARTS, ROLIN JACQUEMYNS S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: MOFFBEB1
+    
+- name: "DE MULDER"
+  city: "BEERSE"
+  branch: null
+  swift: DMULBEB1
+    
+- name: "DE POSSON ET CIE"
+  city: "BRUSSELS"
+  branch: null
+  swift: POSSBEB1
+    
+- name: "DECLERCQ AND CO G.C.V. BEURSVENNOOTSCHAP"
+  city: "ANTWERPEN"
+  branch: null
+  swift: DEGBBEB1
+    
+- name: "DEGROOF SECURITIES, S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: DEGFBEB1
+    
+- name: "DELANDE ET CIE SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: DELNBEB1
+    
+- name: "DELTA BEURSVENNOOTSCHAP, BVBA"
+  city: "GENT"
+  branch: null
+  swift: BONVBE91
+    
+- name: "DEMIR-HALK BANK (NEDERLAND) N.V. BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: DHBNBEBB
+    
+- name: "DEMIR-HALK BANK (NEDERLAND) N.V. BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: DHBNBEBBTG2
+    
+- name: "DEUTSCHE BANK A.G."
+  city: "ANTWERPEN"
+  branch: null
+  swift: DEUTBEBEANT
+    
+- name: "DEUTSCHE BANK A.G."
+  city: "BRUSSELS"
+  branch: null
+  swift: DEUTBEBE
+    
+- name: "DEUTSCHE BANK A.G."
+  city: "BRUSSELS"
+  branch: null
+  swift: DEUTBEBEUNP
+    
+- name: "DEXIA SECURITIES BELGIUM SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: BASCBEB1
+    
+- name: "DIERICKX LEYS EN CIE EFFECTENBANK NV"
+  city: "ANTWERPEN"
+  branch: null
+  swift: DIERBE21
+    
+- name: "DRIEGE EN CO, BVBA"
+  city: "GENT"
+  branch: null
+  swift: DRIEBE91
+    
+- name: "EASDAQ S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: XEASBEB1
+    
+- name: "ECONOCOM FINANCE SNC"
+  city: "BRUSSELS"
+  branch: null
+  swift: ECFCBEBB
+    
+- name: "EDF INVESTISSEMENTS GROUPE"
+  city: "BRUSSELS"
+  branch: null
+  swift: EDFRBEB1
+    
+- name: "ELECTRABEL SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: ELERBEB1
+    
+- name: "ENERGY EUROPE INVEST"
+  city: "BRUSSELS"
+  branch: null
+  swift: ENEIBEB1
+    
+- name: "EPBF"
+  city: "WATERMAEL BOITSFORT"
+  branch: null
+  swift: EPBFBEBB
+    
+- name: "ES SECURITIES"
+  city: "BRUSSELS"
+  branch: null
+  swift: SECUBEB1
+    
+- name: "ETAMINT"
+  city: "BRUSSELS"
+  branch: null
+  swift: ETAMBEBB
+    
+- name: "ETEX S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: ETEXBEBB
+    
+- name: "ETHIAS DROIT COMMUN, ASSOCIATION D'ASS. MUTUELLES"
+  city: "LIEGE"
+  branch: null
+  swift: ETHDBE44
+    
+- name: "ETHIAS SA"
+  city: "LIEGE"
+  branch: null
+  swift: NAETBE21
+    
+- name: "ETHIAS VIE, ASSOCIATION D'ASSURANCES MUTUELLES"
+  city: "LIEGE"
+  branch: null
+  swift: ETHVBE44
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: BUSINESS BRANCH
+  swift: MGTCBEBEE16
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: BUSINESS BRANCH
+  swift: MGTCBEBEE17
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: ESES IMPACT EB
+  swift: MGTCBEBEEB2
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: ESES IMPACT EB
+  swift: MGTCBEBEEBE
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: ESES IMPACT EB
+  swift: MGTCBEBEEF2
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: ESES IMPACT EB
+  swift: MGTCBEBEEFR
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: ESES IMPACT EB
+  swift: MGTCBEBEEN2
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: ESES IMPACT EB
+  swift: MGTCBEBEENL
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: EUROCLEAR BELGIUM/CIK SETTLEMENT EXCLUSIVELY
+  swift: MGTCBEBEE01
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: FUNDS SIX SIS
+  swift: MGTCBEBEFNS
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: FUNDSETTLE
+  swift: MGTCBEBEFND
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT BIC
+  swift: MGTCBEBEL13
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT BIC
+  swift: MGTCBEBEL14
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL01
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL02
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL03
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL04
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL05
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL06
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL07
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL08
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL09
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL10
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL11
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: LCH CLIENT
+  swift: MGTCBEBEL12
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBE
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBECLT
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBEE14
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBEECL
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET01
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET02
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET03
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET04
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET05
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET06
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET07
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET08
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET09
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET10
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET11
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET12
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET13
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET14
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET15
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET16
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET17
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET18
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET19
+    
+- name: "EUROCLEAR BANK S.A / N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: MGTCBEBET20
+    
+- name: "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)"
+  city: "BRUSSELS"
+  branch: DOMESTIC INVESTMENT FUNDS SETTLEMENT
+  swift: CIKBBEBBDIF
+    
+- name: "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)"
+  city: "BRUSSELS"
+  branch: EBE - ESIDC
+  swift: CIKBBEBB013
+    
+- name: "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)"
+  city: "BRUSSELS"
+  branch: ESES ACPT 1
+  swift: CIKBBEBBEA1
+    
+- name: "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)"
+  city: "BRUSSELS"
+  branch: ESES ACPT 2
+  swift: CIKBBEBBEA2
+    
+- name: "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)"
+  city: "BRUSSELS"
+  branch: ESES ACPT 3
+  swift: CIKBBEBBEA3
+    
+- name: "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)"
+  city: "BRUSSELS"
+  branch: ESES MIGRATION
+  swift: CIKBBEBBMIG
+    
+- name: "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)"
+  city: "BRUSSELS"
+  branch: SETTLEMENT DEPARTMENT
+  swift: CIKBBEBBCLR
+    
+- name: "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)"
+  city: "BRUSSELS"
+  branch: null
+  swift: CIKBBEBB
+    
+- name: "EUROCLEAR SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: TRGGBEB1
+    
+- name: "EURONEXT BRUSSELS NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: ENXBBEB1
+    
+- name: "EUROP ASSISTANCE BELGIUM SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: EUALBEB1
+    
+- name: "EUROPABANK N.V."
+  city: "GENT"
+  branch: null
+  swift: EURBBE99
+    
+- name: "EUROPEAN COMMISSION (DG BUDGET)"
+  city: "BRUSSELS"
+  branch: null
+  swift: EUCOBEBB
+    
+- name: "EUROPEAN COMMISSION (DG BUDGET)"
+  city: "BRUSSELS"
+  branch: null
+  swift: EUCOBEBBSRB
+    
+- name: "EURVEST S.A."
+  city: "NIVELLES"
+  branch: null
+  swift: ERVTBEBN
+    
+- name: "EVI"
+  city: "ANTWERPEN"
+  branch: null
+  swift: FVLBBE2E
+    
+- name: "F. DELCOUR, A. VANCRAYEBECK ET F. SACRE, SPRL"
+  city: "LIEGE"
+  branch: null
+  swift: DEVSBE41
+    
+- name: "F. VAN LANSCHOT BANKIERS BELGIE N.V."
+  city: "ANTWERPEN"
+  branch: null
+  swift: FVLBBE22
+    
+- name: "F. VAN LANSCHOT BANKIERS BELGIE N.V."
+  city: "ANTWERPEN"
+  branch: null
+  swift: FVLBBE22001
+    
+- name: "FAGRON N.V."
+  city: "WAREGEM"
+  branch: null
+  swift: FGRNBE88
+    
+- name: "FCE BANK PLC"
+  city: "ANTWERPEN"
+  branch: null
+  swift: FCEFBE21
+    
+- name: "FIMASER"
+  city: "BRUSSELS"
+  branch: null
+  swift: FMMSBEB1
+    
+- name: "FINACOR"
+  city: "BRUSSELS"
+  branch: null
+  swift: FINRBEB1
+    
+- name: "FINANCIERE REMY COINTREAU SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: FRCSBEBB
+    
+- name: "FINPARTNER"
+  city: "BERCHEM"
+  branch: null
+  swift: FNNPBE21
+    
+- name: "FORD CREDIT EUROPE PLC"
+  city: "ANTWERPEN"
+  branch: null
+  swift: FORDBE21
+    
+- name: "FPS HEALTH"
+  city: "BRUSSELS"
+  branch: null
+  swift: FPHEBEB1
+    
+- name: "FUJI BANK, LTD., THE, BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: FUJIBEB1
+    
+- name: "GESTRABEL, SPRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: GEBLBEB1
+    
+- name: "GOETHALS EN CO, GCV"
+  city: "AALST"
+  branch: null
+  swift: GOETBE91
+    
+- name: "GOFFIN - LANNOY ET CIE, S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: GOLABEB1
+    
+- name: "GOLD COMMODITIES FOREX"
+  city: "ALSEMBERG"
+  branch: null
+  swift: GOCFBEB1
+    
+- name: "GROUP S - SOCIAAL SECRETARIAAT V.Z.W"
+  city: "BRUSSELS"
+  branch: null
+  swift: GSSSBEB1
+    
+- name: "HABIB BANK LTD."
+  city: "BRUSSELS"
+  branch: null
+  swift: HABBBEBB
+    
+- name: "HABIB BANK LTD."
+  city: "BRUSSELS"
+  branch: null
+  swift: HABBBEBB001
+    
+- name: "HEWLETT-PACKARD BELGIUM S.P.R.L./ B.V.B.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: HEBBBEB1
+    
+- name: "HEWLETT-PACKARD COORDINATION CENTER C.V.B.A./S.C.R.L."
+  city: "BRUSSELS"
+  branch: null
+  swift: HCCCBEB1
+    
+- name: "HOULIHAN ROVERS S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: HNRSBEB1
+    
+- name: "HSBC BANK PLC"
+  city: "BRUSSELS"
+  branch: SEPA DIRECT DEBITS
+  swift: HSBCBEBBSDD
+    
+- name: "HSBC BANK PLC"
+  city: "BRUSSELS"
+  branch: null
+  swift: HSBCBEBB
+    
+- name: "HULPKAS VOOR VOLKSKREDIET N.V."
+  city: "AALST"
+  branch: null
+  swift: HUVVBE91
+    
+- name: "HYPOTHEEK-, BELEGGINGSMAATSCHAPPIJ EN SPAARBANK"
+  city: "ANTWERPEN"
+  branch: null
+  swift: HBMSBE21
+    
+- name: "HYPOTHEEKMAATSCHAPPIJ DE BEIDE VLAANDEREN NV"
+  city: "KORTEMARK"
+  branch: null
+  swift: HYBVBE81
+    
+- name: "IBA PHARMA SPRL"
+  city: "LOUVAIN-LA-NEUVE"
+  branch: null
+  swift: IBAPBEBL
+    
+- name: "IBANFIRST"
+  city: "BRUSSELS"
+  branch: null
+  swift: FXBBBEBB
+    
+- name: "ICICI BANK UK PLC"
+  city: "ANTWERPEN"
+  branch: null
+  swift: ICICBE2X
+    
+- name: "IMAGOR N.V."
+  city: "BRUSSELS"
+  branch: null
+  swift: IGORBEBB
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A., BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: NBB REQUIRED RESERVES
+  swift: ICBKBEBBTG2
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A., BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: ICBKBEBB
+    
+- name: "ING BANK NV BELGIAN BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: INGBBEB1
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA) ANTWERPEN"
+  city: "ANTWERPEN"
+  branch: null
+  swift: BBRUBEBB200
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), AALST"
+  city: "AALST"
+  branch: null
+  swift: BBRUBEBB930
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUGGE"
+  city: "BRUGGE"
+  branch: null
+  swift: BBRUBEBB800
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUSSELS"
+  city: "BRUSSELS"
+  branch: ALL BRANCHES
+  swift: BBRUBEBB
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUSSELS"
+  city: "BRUSSELS"
+  branch: BRANCH
+  swift: BBRUBEBB100
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUSSELS"
+  city: "BRUSSELS"
+  branch: CONTINUOUS LINKED SETTLEMENT
+  swift: BBRUBEBBCLS
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUSSELS"
+  city: "BRUSSELS"
+  branch: HEAD OFFICE
+  swift: BBRUBEBB010
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUSSELS"
+  city: "BRUSSELS"
+  branch: MT940 ROUTING INDIA
+  swift: BBRUBEBBVYS
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), CHARLEROI"
+  city: "CHARLEROI"
+  branch: null
+  swift: BBRUBEBB600
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), GENT"
+  city: "GENT"
+  branch: null
+  swift: BBRUBEBB900
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), HASSELT"
+  city: "HASSELT"
+  branch: null
+  swift: BBRUBEBB350
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), KORTRIJK"
+  city: "KORTRIJK"
+  branch: null
+  swift: BBRUBEBB850
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), LEUVEN"
+  city: "LEUVEN"
+  branch: null
+  swift: BBRUBEBB300
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), LIEGE"
+  city: "LIEGE"
+  branch: null
+  swift: BBRUBEBB400
+    
+- name: "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), MONS"
+  city: "MONS"
+  branch: null
+  swift: BBRUBEBB700
+    
+- name: "IRIS SECURITIES, STE. COOP."
+  city: "BRUSSELS"
+  branch: null
+  swift: IRISBEB1
+    
+- name: "ISABEL NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: ISAZBEB1
+    
+- name: "J. QUATANNENS EN CO NV"
+  city: "ANZEGEM"
+  branch: null
+  swift: QUATBE81
+    
+- name: "J.P. MORGAN EUROPE LIMITED"
+  city: "BRUSSELS"
+  branch: null
+  swift: CHASBEE1
+    
+- name: "J.P. MORGAN INTERNATIONAL BANK LIMITED"
+  city: "BRUSSELS"
+  branch: BRUSSELS BRANCH
+  swift: JPMGBEBBTG2
+    
+- name: "J.P. MORGAN INTERNATIONAL BANK LIMITED"
+  city: "BRUSSELS"
+  branch: MOM DEPARTMENT
+  swift: JPMGBEBBMOM
+    
+- name: "J.P. MORGAN INTERNATIONAL BANK LIMITED"
+  city: "BRUSSELS"
+  branch: null
+  swift: JPMGBEBB
+    
+- name: "JC GENERAL SERVICES CVBA"
+  city: "BEERSE"
+  branch: null
+  swift: JOJOBE22
+    
+- name: "JOHNSON CONTROLS INTERNATIONAL NV"
+  city: "DIEGEM"
+  branch: null
+  swift: JOCIBEBB
+    
+- name: "JPMORGAN CHASE BANK, N.A., BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: BRUSSELS BRANCH
+  swift: CHASBEBXTG2
+    
+- name: "JPMORGAN CHASE BANK, N.A., BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASBEBXENQ
+    
+- name: "JPMORGAN CHASE BANK, N.A., BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASBEBXKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: CHASBEBX
+    
+- name: "KBC ASSET MANAGEMENT"
+  city: "BRUSSELS"
+  branch: null
+  swift: KBCABEBB
+    
+- name: "KBC BANK N.V. BC DIAMANT"
+  city: "ANTWERPEN"
+  branch: null
+  swift: ADIABE22
+    
+- name: "KBC BANK NV"
+  city: "AALST"
+  branch: null
+  swift: KREDBEBB250
+    
+- name: "KBC BANK NV"
+  city: "ANTWERPEN"
+  branch: TRADE FIN. ANTWERP
+  swift: KREDBEBB022
+    
+- name: "KBC BANK NV"
+  city: "BRUSSELS"
+  branch: CLS SERVICES
+  swift: KREDBEBBCLS
+    
+- name: "KBC BANK NV"
+  city: "BRUSSELS"
+  branch: TO IDENTIFY SEP. CASH ACCOUNT (FOR LCH.REPOCLEAR LONDON) WITHIN NBB
+  swift: KREDBEBBLCH
+    
+- name: "KBC BANK NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: KREDBEBB
+    
+- name: "KBC BANK NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: KREDBEBB100
+    
+- name: "KBC BANK NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: KREDBEBB387
+    
+- name: "KBC BANK NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: KREDBEBBCLE
+    
+- name: "KBC BANK NV"
+  city: "GENT"
+  branch: TRADE FIN. FLANDERS
+  swift: KREDBEBB085
+    
+- name: "KBC BANK NV"
+  city: "TIENEN"
+  branch: null
+  swift: KREDBEBB460
+    
+- name: "KBC LEASE HOLDING NV"
+  city: "LEUVEN"
+  branch: null
+  swift: FDCOBEB1
+    
+- name: "KBC SECURITIES N.V."
+  city: "ANTWERPEN"
+  branch: BIC TO IDENTIFY CASHACCOUNT AT NBB (USED FOR CLEARSTREAM BANKING LUX
+  swift: KBSEBE22CBL
+    
+- name: "KBC SECURITIES N.V."
+  city: "BRUSSELS"
+  branch: null
+  swift: KBSEBE22
+    
+- name: "KBC SECURITIES N.V."
+  city: "BRUSSELS"
+  branch: null
+  swift: KBSEBE22882
+    
+- name: "KEMPEN EN CO. BELGIE"
+  city: "ANTWERPEN"
+  branch: null
+  swift: KECOBE21
+    
+- name: "KEYTRADE BANK SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: KEYTBEBB
+    
+- name: "KEYTRADE BANK SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: KEYTBEBBADM
+    
+- name: "KREFIMA N.V./S.A."
+  city: "ANTWERPEN"
+  branch: null
+  swift: KREFBE21
+    
+- name: "LA CAMBRE FUNDS BRUXELLES"
+  city: "BRUSSELS"
+  branch: null
+  swift: CAFXBEB1
+    
+- name: "LAWAISSE PHILIPPE EN CO, GCV"
+  city: "KORTRIJK"
+  branch: null
+  swift: LWAIBE81
+    
+- name: "LAZARD FRERES GESTION BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: LFGBBEB1
+    
+- name: "LE PEIGNE"
+  city: "BRUSSELS"
+  branch: null
+  swift: LPEIBEBB
+    
+- name: "LEDENT EN CO."
+  city: "KNOKKE-HEIST"
+  branch: null
+  swift: LDENBE81
+    
+- name: "LEEN- EN DEPOSITOKAS"
+  city: "IEPER"
+  branch: null
+  swift: LEDSBE81
+    
+- name: "LELEUX ASSOCIATED BROKERS"
+  city: "BRUSSELS"
+  branch: null
+  swift: LABEBEBB
+    
+- name: "LELEUX ASSOCIATED BROKERS SA"
+  city: "SOIGNIES"
+  branch: null
+  swift: JLECBE71
+    
+- name: "LELEUX PARTNERS SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: LEPSBEB1
+    
+- name: "LEO STEVENS EN CIE BVBA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: LSTVBE21
+    
+- name: "LIEKENS R."
+  city: "ANTWERPEN"
+  branch: null
+  swift: LIEKBE21
+    
+- name: "LOGE ET ASSOCIES, SPRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: LOGEBEB1
+    
+- name: "LOGINVEST SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: LOGIBEB1
+    
+- name: "LOMBARD ODIER (EUROPE) S.A."
+  city: "BRUSSELS"
+  branch: NDP DEPT
+  swift: LOCYBEBBNDP
+    
+- name: "LOMBARD ODIER (EUROPE) S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: LOCYBEBB
+    
+- name: "M .FINANCE DEBT AGENCY BELGIUM"
+  city: "BRUSSELS"
+  branch: null
+  swift: FDABBEB1
+    
+- name: "MAGOTTEAUX FINANCIAL CENTER"
+  city: "CHAUDFONTAINE"
+  branch: null
+  swift: MGTOBE44
+    
+- name: "MAPFRE RE"
+  city: "BRUSSELS"
+  branch: null
+  swift: MPPFBEB1
+    
+- name: "MEDIRECT BANK"
+  city: "BRUSSELS"
+  branch: null
+  swift: MBWMBEBB
+    
+- name: "MELICE ET CIE"
+  city: "BRUSSELS"
+  branch: null
+  swift: MELCBEB1
+    
+- name: "MELIS EN CO, VOF"
+  city: "MELSELE"
+  branch: null
+  swift: MELSBE91
+    
+- name: "MERIT CAPITAL"
+  city: "BERCHEM"
+  branch: null
+  swift: MEPTBE21
+    
+- name: "MICHEL GOFFIN ET CIE S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: MIGOBEB1
+    
+- name: "MIGNON HANART DECLERCK SPRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: MDELBEB1
+    
+- name: "MIZUHO BANK EUROPE N.V., BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: TARGET NBB
+  swift: MHCBBEBBTGT
+    
+- name: "MIZUHO BANK EUROPE N.V., BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: MHCBBEBB
+    
+- name: "MKG-BANK BELGIEN (BRANCH OF MCE BANK GMBH)"
+  city: "KONTICH"
+  branch: null
+  swift: MBBMBE21
+    
+- name: "MOBIS PARTS EUROPE N.V."
+  city: "LUMMEN"
+  branch: null
+  swift: HYMOBE31
+    
+- name: "MONABANQ SOCIETE ANONYME"
+  city: "TOURNAI"
+  branch: null
+  swift: COVEBE71
+    
+- name: "MONEYTRANS PAYMENT SERVICES"
+  city: "BRUSSELS"
+  branch: null
+  swift: MTPSBEBB
+    
+- name: "MOUSE COMPUTER SERVICES"
+  city: "HALLE"
+  branch: null
+  swift: MCSVBEB1
+    
+- name: "MTS ASSOCIATED MARKETS"
+  city: "BRUSSELS"
+  branch: null
+  swift: BMTSBEBB
+    
+- name: "MUFG BANK (EUROPE) N.V. BRUSSELS BRANCH (FORMERLY THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.)"
+  city: "BRUSSELS"
+  branch: BRUSSELS BRANCH
+  swift: BOTKBEBX
+    
+- name: "MUFG BANK (EUROPE) N.V. BRUSSELS BRANCH (FORMERLY THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.)"
+  city: "BRUSSELS"
+  branch: null
+  swift: BOTKBEBXT2B
+    
+- name: "MUNTERS ROGER ET CIE"
+  city: "BRUSSELS"
+  branch: null
+  swift: MUROBEB1
+    
+- name: "N.V. CREDITMAR"
+  city: "ANTWERPEN"
+  branch: MAATSCHAPPELIJKE ZETEL
+  swift: CRARBE21
+    
+- name: "NATEUS NV"
+  city: "ANTWERPEN"
+  branch: null
+  swift: NANLBE21
+    
+- name: "NATIXIS BANK (LUXEMBOURG) SUCCURSALE DE BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: NATXBEB1
+    
+- name: "NEDEE AND CO C.V."
+  city: "BRUSSELS"
+  branch: null
+  swift: NEDEBEB1
+    
+- name: "NEXANS SERVICES SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: NEXABEBB
+    
+- name: "NIBC BANK N.V"
+  city: "BRUSSELS"
+  branch: null
+  swift: DNIBBE21
+    
+- name: "NJR INVESTMENT"
+  city: "BRUSSELS"
+  branch: null
+  swift: NJRIBEB1
+    
+- name: "NLMK BELGIUM HOLDINGS SA"
+  city: "LA LOUVIERE"
+  branch: null
+  swift: NLMKBE6L
+    
+- name: "NV IKEA SERVICE CENTRE SA"
+  city: "ZAVENTEM"
+  branch: null
+  swift: IKEABEBB
+    
+- name: "OMEGA PHARMA CAPITAL NV"
+  city: "NAZARETH"
+  branch: null
+  swift: OMEGBE9A
+    
+- name: "OONEX"
+  city: "BRUSSELS"
+  branch: null
+  swift: OONXBEB1
+    
+- name: "OPTION TRADING COMPANY SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: OTCSBEB1
+    
+- name: "ORBIT PRIVATE ASSET MANAGEMENT SARL"
+  city: "ANTWERPEN"
+  branch: null
+  swift: OPAABE21
+    
+- name: "P AND V ASSURANCES"
+  city: "BRUSSELS"
+  branch: null
+  swift: ASUUBEB1
+    
+- name: "P. SPRIET EN CO, BVBA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: SPRIBE21
+    
+- name: "P.E. SECURITIES, SPRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: PESCBEB1
+    
+- name: "PH. ET Y. DE COSTER SPRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: PYDEBEB1
+    
+- name: "PIRE ET CIE SA"
+  city: "CHARLEROI"
+  branch: null
+  swift: PIREBE61
+    
+- name: "PUILAETCO DEWAAY PRIVATE BANKERS"
+  city: "BRUSSELS"
+  branch: TARGET2
+  swift: PUILBEBBTG2
+    
+- name: "PUILAETCO DEWAAY PRIVATE BANKERS"
+  city: "BRUSSELS"
+  branch: null
+  swift: PUILBEBB
+    
+- name: "R. HAVAUX ET CIE, SCS"
+  city: "BRUSSELS"
+  branch: null
+  swift: HAVABEB1
+    
+- name: "R.B. ET F. ROPSY ET CIE, SPRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: ROPSBEB1
+    
+- name: "RABOBANK ANTWERP"
+  city: "ANTWERPEN"
+  branch: ONLY USE ON REQUEST
+  swift: RABOBE22TAR
+    
+- name: "RABOBANK ANTWERP"
+  city: "ANTWERPEN"
+  branch: null
+  swift: RABOBE22
+    
+- name: "RABOBANK ANTWERP (CORPORATE BANK)"
+  city: "BERCHEM"
+  branch: null
+  swift: RABOBE23
+    
+- name: "RAMPELBERGS ET CIE SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: RMPLBEB1
+    
+- name: "RBC INVESTOR SERVICES BELGIUM"
+  city: "BRUSSELS"
+  branch: FUND ADMINISTRATION
+  swift: DXFSBEBBFAD
+    
+- name: "RBC INVESTOR SERVICES BELGIUM"
+  city: "BRUSSELS"
+  branch: SHAREHOLDERS SERVICES
+  swift: DXFSBEBBSHS
+    
+- name: "RBC INVESTOR SERVICES BELGIUM"
+  city: "BRUSSELS"
+  branch: null
+  swift: DXFSBEBB
+    
+- name: "RECORD BANK NV"
+  city: "GENT"
+  branch: null
+  swift: HBKABE22
+    
+- name: "RECORD BANK NV"
+  city: "GENT"
+  branch: null
+  swift: HBKABE22TA2
+    
+- name: "RECTICEL S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: RECLBEBB
+    
+- name: "REMY FRERES ET FILS S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: REFFBEB1
+    
+- name: "REYERS BEAUVOIS DE VILLENFAGNE SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: RETSBEB1
+    
+- name: "RIGA ET CIE, S.A."
+  city: "WAVRE"
+  branch: null
+  swift: RIGABEB1
+    
+- name: "ROBECO"
+  city: "BRUSSELS"
+  branch: null
+  swift: RBCOBEB1
+    
+- name: "RONFLETTE ET CIE, SPRL"
+  city: "CHARLEROI"
+  branch: null
+  swift: RONFBE61
+    
+- name: "ROTHSCHILD BELGIQUE"
+  city: "BRUSSELS"
+  branch: TECH. PARTICIPANT
+  swift: RCBPBEBBTG2
+    
+- name: "ROTHSCHILD BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: RCBPBEBB
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: ADMINISTRATION SERVICES
+  swift: SWHQBEBBADS
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: BROADCAST REQUESTS ONLY
+  swift: SWHQBEBBBCT
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: CORPORATE EVENTS DEPARTMENT
+  swift: SWHQBEBBEVE
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: CUSTOMER BILLING SERVICES
+  swift: SWHQBEBBBIL
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: END-TO-END ORDERING DEPARTMENT
+  swift: SWHQBEBBE2E
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: FINANCE DIVISION
+  swift: SWHQBEBBFIN
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: GENERAL MANAGEMENT
+  swift: SWHQBEBBGMT
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: INTERFACES TECHNICAL SUPPORT DEPARTMENT
+  swift: SWHQBEBBTSD
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: MARKETING
+  swift: SWHQBEBBMKT
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: MEMBERSHIP MANAGEMENT
+  swift: SWHQBEBBMEM
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: PRODUCT MANAGEMENT DIVISION
+  swift: SWHQBEBBPRM
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: QUALITY ENGINEERING DEPARTMENT
+  swift: SWHQBEBBQED
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: S.W.I.F.T. TRANSITION TEAM
+  swift: SWHQBEBBTTT
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: SALES DIVISION - GENERAL
+  swift: SWHQBEBBSAL
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: SHAREHOLDING
+  swift: SWHQBEBBSHR
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: STANDARDS DEPARTMENT
+  swift: SWHQBEBBSTD
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: SWIFT LOGISTICS DEPT
+  swift: SWHQBEBBLOG
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: SWIFT TRAINING DEPARTMENT
+  swift: SWHQBEBBEDU
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: SWIFTNET FIN MIGRATION
+  swift: SWHQBEBBSNF
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: TELECOM. PROJECTS
+  swift: SWHQBEBBTLC
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: null
+  swift: AFFEBEB3
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: null
+  swift: SWHQBEBB
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: null
+  swift: SWHQBEBB111
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: null
+  swift: SWHQBEBBODD
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: null
+  swift: SWHQBEBBREF
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: null
+  swift: SWLIBEBB
+    
+- name: "S.W.I.F.T. HEADQUARTERS"
+  city: "LA HULPE"
+  branch: null
+  swift: SWTDBEBB
+    
+- name: "SAGIP S.A. (S.A. DE GESTION, D'INVESTISSEMENT ET DE PARTICIPATION)"
+  city: "BRUSSELS"
+  branch: null
+  swift: BNPABEBS
+    
+- name: "SAMSUNG ELECTRONICS BENELUX BELGIUM"
+  city: "VILVOORDE"
+  branch: SEBN-B
+  swift: SECTBEB14B2
+    
+- name: "SAMSUNG ELECTRONICS BENELUX BELGIUM"
+  city: "VILVOORDE"
+  branch: null
+  swift: SECTBEB1
+    
+- name: "SANTANDER BENELUX SA"
+  city: "BRUSSELS"
+  branch: RETAIL ACTIVITY
+  swift: BSCHBEBBRET
+    
+- name: "SANTANDER BENELUX SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: BSCHBEBB
+    
+- name: "SANTANDER BENELUX SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: BSCHBEBBBLX
+    
+- name: "SAXO BANK BELGIQUE"
+  city: "BRUSSELS"
+  branch: null
+  swift: SAXBBEB1
+    
+- name: "SBMS S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: SBMSBEBB
+    
+- name: "SCA CAPITAL NV"
+  city: "DIEGEM"
+  branch: null
+  swift: SCCPBEBB
+    
+- name: "SCHRETLEN AND CO. N.V."
+  city: "ANTWERPEN"
+  branch: null
+  swift: SCRTBE21
+    
+- name: "SG PRIVATE BANKING BELGIUM"
+  city: "GENT"
+  branch: null
+  swift: SGPBBE99
+    
+- name: "SG PRIVATE BANKING BELGIUM"
+  city: "GENT"
+  branch: null
+  swift: SGPBBE99TG2
+    
+- name: "SHIZUOKA BANK (EUROPE) S.A."
+  city: "BRUSSELS"
+  branch: EUROMARKET
+  swift: SHIZBEBBTG2
+    
+- name: "SHIZUOKA BANK (EUROPE) S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: SHIZBEBB
+    
+- name: "SIBEKA, SOCIETE D'ENTREPRISE ET D'INVESTISSEMENTS SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: SSDDBEB1
+    
+- name: "SIRIUS INTERNATIONAL INSURANCE CORP"
+  city: "LIEGE"
+  branch: null
+  swift: SIIIBE41
+    
+- name: "SOCIETE FINANCIERE ET DE GESTION TEXAF SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: TSFGBEB1
+    
+- name: "SOCIETE FINANCIERE ET FONCIERE"
+  city: "BRUSSELS"
+  branch: null
+  swift: SOFFBEB1
+    
+- name: "SOCIETE FINANCIERE G.P. PHILIPPSON ET CO SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: SOFPBEB1
+    
+- name: "SOCIETE GENERALE (BELGIAN HEAD OFFICE)"
+  city: "BRUSSELS"
+  branch: BELGIAN HEAD OFFICE
+  swift: SGABBEB2
+    
+- name: "SOCIETE GENERALE (BELGIAN HEAD OFFICE)"
+  city: "BRUSSELS"
+  branch: BRANCH
+  swift: SGABBEB2BRU
+    
+- name: "SOCIETE GENERALE (BELGIAN HEAD OFFICE)"
+  city: "BRUSSELS"
+  branch: SG BRUXELLES TRADE SERVICES
+  swift: SGABBEB2TRA
+    
+- name: "SOCIETE GENERALE (BELGIAN HEAD OFFICE)"
+  city: "BRUSSELS"
+  branch: null
+  swift: SGABBEB2TG2
+    
+- name: "SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION SCRL"
+  city: "BRUSSELS"
+  branch: IPS
+  swift: IPSTBEBB600
+    
+- name: "SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION SCRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: IPSTBEBB
+    
+- name: "SOCIETY FOR WORLDWIDE INTERBANKFINANCIAL TELECOMMUNICATION SCRL"
+  city: "LA HULPE"
+  branch: null
+  swift: IPSVBEBB
+    
+- name: "SOFIHOLDING SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: SOFIBEB1
+    
+- name: "SOLVAY S.A"
+  city: "BRUSSELS"
+  branch: null
+  swift: SOLVBEBB
+    
+- name: "STATE BANK OF INDIA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: SBINBE2X
+    
+- name: "STATE BANK OF INDIA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: SBINBE2X668
+    
+- name: "STATE STREET BANK EUROPE LTD."
+  city: "BRUSSELS"
+  branch: null
+  swift: SBOSBEB1
+    
+- name: "STORA FINACIAL SERVICES (BRUSSELS)"
+  city: "BRUSSELS"
+  branch: null
+  swift: SFSRBEB1
+    
+- name: "SUCCURSALE CREDIT FONCIER DE FRANCE"
+  city: "BRUSSELS"
+  branch: null
+  swift: CFFRBEB1
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "BRUSSELS"
+  branch: RESTRICTED USE FOR TARGET 2 BRUSSELS ONLY
+  swift: SMBCBEBBGEB
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "BRUSSELS"
+  branch: null
+  swift: SMBCBEBB
+    
+- name: "SWIFT HEADQUARTERS"
+  city: "BRUSSELS"
+  branch: SECURITY MANAGEMENT CENTRE
+  swift: SWHQBECACIO
+    
+- name: "SWIFT HEADQUARTERS"
+  city: "BRUSSELS"
+  branch: null
+  swift: SWHTBEBBAC1
+    
+- name: "SWIFT HEADQUARTERS"
+  city: "BRUSSELS"
+  branch: null
+  swift: SWHTBEBBAC2
+    
+- name: "SWIFT HEADQUARTERS"
+  city: "BRUSSELS"
+  branch: null
+  swift: SWHTBEBBAC3
+    
+- name: "SWIFT HEADQUARTERS"
+  city: "LA HULPE"
+  branch: ENCRYPTOR ACKNOWLEDGEMENT
+  swift: SWHQBECAENC
+    
+- name: "SWIFT HEADQUARTERS"
+  city: "LA HULPE"
+  branch: S.W.I.F.T. CARD MANAGEMENT CENTER
+  swift: SWHQBECACMC
+    
+- name: "SWIFT HEADQUARTERS"
+  city: "LA HULPE"
+  branch: S.W.I.F.T. KEY CERTIFICATE CENTER
+  swift: SWHQBECACKC
+    
+- name: "SWIFT HEADQUARTERS"
+  city: "LA HULPE"
+  branch: null
+  swift: SWHTBEBB
+    
+- name: "TESSENDERLO GROUP N.V. - S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: MMMVBEBB
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: ALLIANZ DISCRETIONARY MANDATES
+  swift: IRVTBEBBADM
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: GLOBAL BROKERAGE
+  swift: IRVTBEBBBKR
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: GLOBAL SECURITIES SERVICES DEPT.
+  swift: IRVTBEBBGSS
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: INTERNATIONAL MASTER CUSTODY
+  swift: IRVTBEBBIMC
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: RESERVE BANK MANAGEMENT
+  swift: IRVTBEBBTG2
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBB
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBB01
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBB02
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBB03
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBB04
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBB05
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBB06
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBB07
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBBNY
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBBSK
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBDCP
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBICP
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBLUX
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: IRVTBEBBSER
+    
+- name: "THE BANK OF NEW YORK MELLON, BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: 3RD PARTY FUNDS ORDERS EXECUTION SERVICE
+  swift: BNYMBEBBFND
+    
+- name: "THE BANK OF NEW YORK MELLON, BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: RESERVE BANK MANAGEMENT
+  swift: BNYMBEBBTG2
+    
+- name: "THE BANK OF NEW YORK MELLON, BRUSSELS BRANCH"
+  city: "BRUSSELS"
+  branch: null
+  swift: BNYMBEBB
+    
+- name: "THIBAUT LUC EN CO FINANCIERS NW"
+  city: "ANTWERPEN"
+  branch: null
+  swift: THLFBE21
+    
+- name: "THIEREN EN CO, VEG"
+  city: "ANTWERPEN"
+  branch: null
+  swift: THIEBE21
+    
+- name: "TRAX NAAMLOZE VENNOOTSCHAP"
+  city: "MECHELEN"
+  branch: null
+  swift: TRAXBE21
+    
+- name: "TRIODOS BANK"
+  city: "BRUSSELS"
+  branch: null
+  swift: TRIOBEBB
+    
+- name: "TRIODOS BANK"
+  city: "BRUSSELS"
+  branch: null
+  swift: TRIOBEBBTG2
+    
+- name: "TUNZ.COM"
+  city: "BRUSSELS"
+  branch: null
+  swift: TUNZBEB1
+    
+- name: "U.B.B., SC"
+  city: "BRUSSELS"
+  branch: null
+  swift: SUBCBEB1
+    
+- name: "UMICORE FINANCIAL SERVICES"
+  city: "BRUSSELS"
+  branch: null
+  swift: UMSFBEBB
+    
+- name: "UNION BANK OF INDIA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: UBINBE22
+    
+- name: "UNION BANK OF INDIA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: UBINBE22AWP
+    
+- name: "UNITED TAIWAN BANK S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: UTWBBEBB
+    
+- name: "UNITED TAIWAN BANK S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: UTWBBEBBTGT
+    
+- name: "UPAR"
+  city: "ANTWERPEN"
+  branch: null
+  swift: UPANBE21
+    
+- name: "V. HERMANS, SPRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: VHERBEB1
+    
+- name: "VAN BAUWEL AND CO"
+  city: "ANTWERPEN"
+  branch: null
+  swift: BAUWBE21
+    
+- name: "VAN DE PUT AND CO PRIVATE BANKERS"
+  city: "ANTWERPEN"
+  branch: null
+  swift: VAPEBE21
+    
+- name: "VAN DE PUT AND CO PRIVATE BANKERS"
+  city: "ANTWERPEN"
+  branch: null
+  swift: VAPEBE22
+    
+- name: "VAN GLABBEEK EN CO BVBA BEURSVENNOOTSCHAP"
+  city: "ANTWERPEN"
+  branch: null
+  swift: VGLABE21
+    
+- name: "VAN GOETHEM EN CO"
+  city: "ANTWERPEN"
+  branch: null
+  swift: VGOEBE21
+    
+- name: "VAN GOOLEN EN CO BVBA"
+  city: "ANTWERPEN"
+  branch: null
+  swift: VOBVBE21
+    
+- name: "VAN HERREWEGHE, SPRL"
+  city: "BRUSSELS"
+  branch: null
+  swift: VHRRBEB1
+    
+- name: "VANHERREWEGHE"
+  city: "BRUSSELS"
+  branch: null
+  swift: VANHBEB1
+    
+- name: "VDK BANK"
+  city: "GENT"
+  branch: null
+  swift: VDSPBE22
+    
+- name: "VDK SPAARBANK NV"
+  city: "GENT"
+  branch: null
+  swift: VDSPBE91
+    
+- name: "VERCAMMEN EN CO, CGV"
+  city: "LIER"
+  branch: null
+  swift: VCAMBEB1
+    
+- name: "VERHAEGEN, GOOSSENS, DE ROECK EN CO NAAMLOZE VENNOOTSCHAP"
+  city: "ANTWERPEN"
+  branch: null
+  swift: VEGRBE21
+    
+- name: "VF EUROPE BVBA"
+  city: "BORNEM"
+  branch: null
+  swift: VFCOBE2B
+    
+- name: "VIATOUR, DE COCK, HERMESSE ET DEBLANC, S.A."
+  city: "LIEGE"
+  branch: null
+  swift: VDHDBE41
+    
+- name: "VOLKSWAGEN BANK GMBH"
+  city: "DIEGEM"
+  branch: null
+  swift: VOWABEB1
+    
+- name: "VOLKSWAGEN FINANCE BELGIUM"
+  city: "BRUSSELS"
+  branch: null
+  swift: VOFBBEB1
+    
+- name: "VOLKSWAGEN GROUP SERVICES SA/NV"
+  city: "BRUSSELS"
+  branch: null
+  swift: VWAGBEBB
+    
+- name: "WABCO FINANCIAL SERVICES BVBA"
+  city: "BRUSSELS"
+  branch: null
+  swift: WABCBEBB
+    
+- name: "WAL.AGRI SA"
+  city: "SOMBREFFE"
+  branch: null
+  swift: WALGBE61
+    
+- name: "WEEKERS ET PARTNERS, S.A."
+  city: "BRUSSELS"
+  branch: null
+  swift: WEEKBEB1
+    
+- name: "WEGHSTEEN EN DRIEGE NV"
+  city: "GENT"
+  branch: null
+  swift: WBDWBE91
+    
+- name: "WEGHSTEEN N.V."
+  city: "BRUGGE"
+  branch: null
+  swift: WEGHBE88
+    
+- name: "WINTERTHUR ASSURANCES"
+  city: "BRUSSELS"
+  branch: null
+  swift: WIAUBEB1
+    
+- name: "WORLDLINE SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: ATWSBEBB
+    
+- name: "WPP GROUP SERVICES SNC"
+  city: "BRUSSELS"
+  branch: null
+  swift: WPPGBEBB
+    
+- name: "WULLAERT EN CO SA"
+  city: "BRUSSELS"
+  branch: null
+  swift: YWULBEB1
+    
+- name: "ZOETIS TREASURY CENTER BVBA FINANCIAL DEPARTMENT"
+  city: "ZAVENTEM"
+  branch: null
+  swift: ZOETBEBB
+    

@@ -1,0 +1,80 @@
+- name: "ALLIED CHARTERED BANK"
+  city: "MUTSAMUDU"
+  branch: null
+  swift: ALCHKMK1
+    
+- name: "BANQUE CENTRALE DES COMOROS"
+  city: "MORONI"
+  branch: null
+  swift: COCBKMKM
+    
+- name: "BANQUE FEDERALE DE COMMERCE"
+  city: "MORONI"
+  branch: null
+  swift: BFDCKMKM
+    
+- name: "BANQUE POUR L'INDUSTRIE ET LE COMMERCE DES COMORES"
+  city: "MORONI"
+  branch: null
+  swift: BICCKMKM
+    
+- name: "CASTAGNA BANK LIMITED"
+  city: "FOMBONI"
+  branch: null
+  swift: CSTGKMK1
+    
+- name: "CORIOLIS BANKING CORPORATION"
+  city: "FOMBONI"
+  branch: null
+  swift: CLORKMK1
+    
+- name: "DYNAST PREMIER BANK LIMITED"
+  city: "MUTSAMUDU"
+  branch: null
+  swift: DYPEKMK1
+    
+- name: "EXIM BANK COMORES LTD"
+  city: "MORONI"
+  branch: null
+  swift: EXTNKMKM
+    
+- name: "FOREIGN FINANCE BANK LIMITED"
+  city: "ANJOUAN"
+  branch: null
+  swift: FOFNKMK1
+    
+- name: "INTERCONTINENTAL CREDIT BANK LTD"
+  city: "MUTSAMUDU"
+  branch: null
+  swift: ITCEKMK1
+    
+- name: "INTERNATIONAL FINANCE BANK"
+  city: "MUTSAMUDU"
+  branch: null
+  swift: ITFNKMK1
+    
+- name: "MAGNATE PREMIER PRIVATE BANK LTD"
+  city: "MUTSAMUDU"
+  branch: null
+  swift: MAEVKMK1
+    
+- name: "NYSB, INC"
+  city: "MUTSAMUDU"
+  branch: null
+  swift: NYSBKMK1
+    
+- name: "SNPSF (SOCIETE NATIONALE DES POSTES)"
+  city: "MORONI"
+  branch: null
+  swift: HAHMKMKM
+    
+- name: "STAR BANK LIMITED"
+  city: "MUTSAMUDU"
+  branch: null
+  swift: TARRKMK1
+    
+- name: "WALL STREET BANK"
+  city: "MUTSAMUDU"
+  branch: null
+  swift: WSBOKMK1
+    

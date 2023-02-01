@@ -1,0 +1,65 @@
+- name: "CENTRALE BANK VAN SURINAME"
+  city: "PARAMARIBO"
+  branch: null
+  swift: CBVSSRPA
+    
+- name: "CENTRALE BANK VAN SURINAME"
+  city: "PARAMARIBO"
+  branch: null
+  swift: CBVSSRPASUR
+    
+- name: "COOPERATIEVE SPAAR-EN KREDIETBANK GODO G.A."
+  city: "PARAMARIBO"
+  branch: null
+  swift: GODOSRPA
+    
+- name: "DSB BANK ALSO KNOWN AS DE SURINAAMSCHE BANK N.V. PARAMARIBO SR"
+  city: "PARAMARIBO"
+  branch: null
+  swift: SURBSRPA
+    
+- name: "FINABANK N.V."
+  city: "PARAMARIBO"
+  branch: null
+  swift: FBNASRPA
+    
+- name: "FINATRUST, DE TRUSTBANK N.V."
+  city: "PARAMARIBO"
+  branch: null
+  swift: ICTBSRPA
+    
+- name: "HAKRINBANK N.V."
+  city: "PARAMARIBO"
+  branch: null
+  swift: HAKRSRPA
+    
+- name: "LANDBOUWBANK N.V."
+  city: "PARAMARIBO"
+  branch: null
+  swift: LBNKSRPA
+    
+- name: "REPUBLIC BANK (SURINAME) N.V."
+  city: "PARAMARIBO"
+  branch: null
+  swift: RBNKSRPA
+    
+- name: "SOUTHERN COMMERCIAL BANK NV"
+  city: "PARAMARIBO"
+  branch: null
+  swift: SOUOSRPP
+    
+- name: "SURICHANGE BANK N.V."
+  city: "PARAMARIBO"
+  branch: null
+  swift: SURCSRPA
+    
+- name: "SURINAAMSE POSTSPAARBANK"
+  city: "PARAMARIBO"
+  branch: null
+  swift: SDPOSRPA
+    
+- name: "SURINAAMSE VOLKSCREDIETBANK"
+  city: "PARAMARIBO"
+  branch: null
+  swift: VCBSSRPA
+    

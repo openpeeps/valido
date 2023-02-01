@@ -1,0 +1,10 @@
+- name: "ANZ AMERIKA SAMOA BANK"
+  city: "PAGO PAGO"
+  branch: null
+  swift: ANZBASPA
+    
+- name: "BANK OF HAWAII - AMERICAN SAMOA BRANCH"
+  city: "FAGATOGO"
+  branch: null
+  swift: BOHIASP1
+    

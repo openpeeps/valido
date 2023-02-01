@@ -1,0 +1,100 @@
+- name: "ACBA-CREDIT AGRICOLE BANK CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: AGCAAM22
+    
+- name: "AMERIABANK (FORMERLY ARMIMPEXBANK)"
+  city: "YEREVAN"
+  branch: null
+  swift: ARMIAM22
+    
+- name: "ANELIK BANK CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: ANIKAM22
+    
+- name: "ARARATBANK OJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: ARMCAM22
+    
+- name: "ARDSHINBANK CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: ASHBAM22
+    
+- name: "ARMBUSINESSBANK"
+  city: "YEREVAN"
+  branch: null
+  swift: ARMNAM22
+    
+- name: "ARMECONOMBANK"
+  city: "YEREVAN"
+  branch: null
+  swift: ARECAM22
+    
+- name: "ARMSWISSBANK CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: ARSJAM22
+    
+- name: "ARTSAKHBANK CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: ARTSAM22
+    
+- name: "BYBLOS BANK ARMENIA CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: BYBAAM22
+    
+- name: "CENTRAL BANK OF ARMENIA"
+  city: "YEREVAN"
+  branch: null
+  swift: CBRAAM22
+    
+- name: "CONVERSE BANK CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: COVBAM22
+    
+- name: "CREDIT-SERVICE BANK"
+  city: "YEREVAN"
+  branch: null
+  swift: CRDTAM21
+    
+- name: "EVOCABANK CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: PRMLAM22
+    
+- name: "HAYPOST CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: HACJAM21
+    
+- name: "HSBC BANK ARMENIA CLOSED JOINT STOCK COMPANY"
+  city: "YEREVAN"
+  branch: null
+  swift: MIDLAM22
+    
+- name: "INECO JOINT STOCK BANK"
+  city: "YEREVAN"
+  branch: null
+  swift: INJSAM22
+    
+- name: "MELLAT BANK CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: BKMTAM22
+    
+- name: "UNIBANK O.J.S.C"
+  city: "YEREVAN"
+  branch: null
+  swift: UNIJAM22
+    
+- name: "VTB BANK (ARMENIA) CJSC"
+  city: "YEREVAN"
+  branch: null
+  swift: ARMJAM22
+    

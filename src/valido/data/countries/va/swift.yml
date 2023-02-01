@@ -1,0 +1,15 @@
+- name: "AMMINISTRAZIONE DEL PATRIMONIO DELLA SEDE APOSTOLICA"
+  city: "VATICAN CITY"
+  branch: null
+  swift: APDEVAVA
+    
+- name: "ISTITUTO PER LE OPERE DI RELIGIONE"
+  city: "VATICAN CITY"
+  branch: null
+  swift: IOPRVAVX
+    
+- name: "POSTE VATICANE"
+  city: "CITTA DEL VATICANO"
+  branch: null
+  swift: VATIVAV1
+    

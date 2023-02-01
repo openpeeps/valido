@@ -1,0 +1,75 @@
+- name: "BANQUE NATIONALE DE PARIS SUCCURSALE DE POINTE A PITRE"
+  city: "BASSE TERRE"
+  branch: null
+  swift: BNPAGPGXBAS
+    
+- name: "BANQUE NATIONALE DE PARIS SUCCURSALE DE POINTE A PITRE"
+  city: "POINTE-A-PITRE"
+  branch: null
+  swift: BNPAGPGX
+    
+- name: "CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DES ANTILLES FRANCAISES)"
+  city: "BAIE MAHAULT"
+  branch: null
+  swift: BDAFGPGX
+    
+- name: "CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DES ANTILLES FRANCAISES)"
+  city: "POINTE-A-PITRE"
+  branch: COMEX GUADELOUPE
+  swift: BDAFGPGX971
+    
+- name: "CAISSE EPARGNE PREVOYANCE GUADELOUPE"
+  city: "ABYMES"
+  branch: null
+  swift: CEPGGPG1
+    
+- name: "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE GUADELOUPE"
+  city: "ABYMES"
+  branch: null
+  swift: CGCTGPG1
+    
+- name: "CAISSE REGIONALE DE CREDIT MARITIME MUTUEL D'OUTRE MER"
+  city: "POINTE-A-PITRE"
+  branch: null
+  swift: CMDMGPG1
+    
+- name: "CREDIT AGRICOLE"
+  city: "BASSE TERRE"
+  branch: null
+  swift: AGRIGPGXBTR
+    
+- name: "CREDIT AGRICOLE"
+  city: "POINTE-A-PITRE"
+  branch: null
+  swift: AGRIGPGX
+    
+- name: "CREDIT MODERNE ANTILLES"
+  city: "BAIE MAHAULT"
+  branch: null
+  swift: CRMSGPG1
+    
+- name: "SOCIETE ANONYME DE GESTION ET DE FINANCEMENT - SAGEFI"
+  city: "ABYMES"
+  branch: null
+  swift: SGFAGPG1
+    
+- name: "SOCIETE GENERALE DE BANQUE AUX ANTILLES"
+  city: "POINTE-A-PITRE"
+  branch: GUADELOUPE BRANCH
+  swift: SOGEGPGPGUA
+    
+- name: "SOCIETE GENERALE DE BANQUE AUX ANTILLES"
+  city: "POINTE-A-PITRE"
+  branch: null
+  swift: SOGEGPGP
+    
+- name: "SOCIETE GENERALE DE BANQUE AUX ANTILLES"
+  city: "POINTE-A-PITRE"
+  branch: null
+  swift: SOGEGPGPMAR
+    
+- name: "SOCIETE GUADELOUPEENNE DE FINANCEMENT - SOGUAFI"
+  city: "BAIE MAHAULT"
+  branch: null
+  swift: SGFOGPG1
+    

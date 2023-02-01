@@ -1,0 +1,120 @@
+- name: "B.I.C.I. DU GABON"
+  city: "LIBREVILLE"
+  branch: ADL BRANCH
+  swift: BICIGALXADL
+    
+- name: "B.I.C.I. DU GABON"
+  city: "LIBREVILLE"
+  branch: MONT-BOUET BRANCH
+  swift: BICIGALXMBT
+    
+- name: "B.I.C.I. DU GABON"
+  city: "LIBREVILLE"
+  branch: OLOUMI BRANCH
+  swift: BICIGALXOLO
+    
+- name: "B.I.C.I. DU GABON"
+  city: "LIBREVILLE"
+  branch: null
+  swift: BICIGALX
+    
+- name: "B.I.C.I. DU GABON"
+  city: "MOANDA"
+  branch: MOANDA BRANCH
+  swift: BICIGALXMDA
+    
+- name: "B.I.C.I. DU GABON"
+  city: "PORT GENTIL"
+  branch: null
+  swift: BICIGALXPOG
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GABON"
+  city: "FRANCEVILLE"
+  branch: AGENCE DE FRANCEVILLE
+  swift: BEACGALI520
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GABON"
+  city: "LIBREVILLE"
+  branch: null
+  swift: BEACGALI
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GABON"
+  city: "OYEM"
+  branch: AGENCE DE OYEM
+  swift: BEACGALI530
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GABON"
+  city: "PORT GENTIL"
+  branch: AGENCE DE PORT GENTIL
+  swift: BEACGALI510
+    
+- name: "BANQUE GABONAISE DE DEVELOPPEMENT"
+  city: "LIBREVILLE"
+  branch: null
+  swift: BGADGALI
+    
+- name: "BGFIBANK"
+  city: "LIBREVILLE"
+  branch: null
+  swift: BGFIGALI
+    
+- name: "BGFIBANK"
+  city: "LIBREVILLE"
+  branch: null
+  swift: BGFIGALIBKZ
+    
+- name: "BGFIBANK"
+  city: "LIBREVILLE"
+  branch: null
+  swift: BGFIGALIMAL
+    
+- name: "BGFIBANK"
+  city: "LIBREVILLE"
+  branch: null
+  swift: BGFIGALIOWD
+    
+- name: "BGFIBANK"
+  city: "LIBREVILLE"
+  branch: null
+  swift: BGFIGALIPOG
+    
+- name: "BGFIBANK"
+  city: "LIBREVILLE"
+  branch: null
+  swift: BGFIGALIPTN
+    
+- name: "CITIBANK N.A."
+  city: "LIBREVILLE"
+  branch: TRADE SERVICES DEPT.
+  swift: CITIGALXTRD
+    
+- name: "CITIBANK N.A."
+  city: "LIBREVILLE"
+  branch: null
+  swift: CITIGALX
+    
+- name: "ECOBANK GABON"
+  city: "LIBREVILLE"
+  branch: null
+  swift: ECOCGALI
+    
+- name: "GABON-POSTE"
+  city: "LIBREVILLE"
+  branch: null
+  swift: CCPGGALI
+    
+- name: "ORABANK GABON"
+  city: "LIBREVILLE"
+  branch: null
+  swift: ORBKGALI
+    
+- name: "UBA GABON"
+  city: "LIBREVILLE"
+  branch: null
+  swift: UNAFGALI
+    
+- name: "UNION GABONAISE DE BANQUE"
+  city: "LIBREVILLE"
+  branch: null
+  swift: UGABGALI
+    

@@ -1,0 +1,190 @@
+- name: "BANCO BAC SAN JOSE"
+  city: "SAN JOSE"
+  branch: null
+  swift: BSNJCRSJ
+    
+- name: "BANCO BCT S.A."
+  city: "SAN JOSE"
+  branch: FOREIGN EXCHANGE DEPARTMENT
+  swift: CCIOCRSJBBI
+    
+- name: "BANCO BCT S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: CCIOCRSJ
+    
+- name: "BANCO CATHAY DE COSTA RICA, S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: KTAYCRSJ
+    
+- name: "BANCO CENTRAL DE COSTA RICA"
+  city: "SAN JOSE"
+  branch: null
+  swift: BCCRCRSJ
+    
+- name: "BANCO CREDITO AGRICOLA DE CARTAGO"
+  city: "CARTAGO"
+  branch: null
+  swift: BCACCRS1
+    
+- name: "BANCO CREDITO AGRICOLA DE CARTAGO"
+  city: "SAN JOSE"
+  branch: null
+  swift: BCACCRSJ
+    
+- name: "BANCO DAVIVIENDA (COSTA RICA), S.A."
+  city: "SAN JOSE"
+  branch: TRADING ADM
+  swift: BXBACRSJDP1
+    
+- name: "BANCO DAVIVIENDA (COSTA RICA), S.A."
+  city: "SAN JOSE"
+  branch: TRADING
+  swift: BXBACRSJDPR
+    
+- name: "BANCO DAVIVIENDA (COSTA RICA), S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: BXBACRSJ
+    
+- name: "BANCO DE COSTA RICA"
+  city: "SAN JOSE"
+  branch: null
+  swift: BCRICRSJ
+    
+- name: "BANCO DEL ISTMO (COSTA RICA) S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: BALYCRS1
+    
+- name: "BANCO GENERAL (COSTA RICA), S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: BAGECRSJ
+    
+- name: "BANCO IMPROSA, S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: BIMPCRSJ
+    
+- name: "BANCO INTERNACIONAL DE EXPORTACION S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: BAIECRS1
+    
+- name: "BANCO LAFISE S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: BCCECRSJ
+    
+- name: "BANCO NACIONAL DE COSTA RICA"
+  city: "SAN JOSE"
+  branch: null
+  swift: BNCRCRSJ
+    
+- name: "BANCO NACIONAL DE COSTA RICA"
+  city: "SAN JOSE"
+  branch: null
+  swift: BNCRCRSJGCI
+    
+- name: "BANCO POPULAR Y DE DESARROLLO COMUNAL"
+  city: "SAN JOSE"
+  branch: null
+  swift: BPDCCRSJ
+    
+- name: "BANCO PROMERICA"
+  city: "SAN JOSE"
+  branch: null
+  swift: PRMKCRSJ
+    
+- name: "BASS AMERICAS S.A."
+  city: "HEREDIA"
+  branch: null
+  swift: BATSCR21
+    
+- name: "BATCCA PARK INVERSIONES INMOBILIARIAS, S.A."
+  city: "HEREDIA"
+  branch: null
+  swift: BATSCR41
+    
+- name: "BATCCA SERVICIOS S.A."
+  city: "HEREDIA"
+  branch: null
+  swift: BATSCRS1
+    
+- name: "BCT VALORES PUESTO DE BOLSA SA"
+  city: "SAN JOSE"
+  branch: null
+  swift: BVPBCRS1
+    
+- name: "BRITISH AMERICAN TOBACCO CENTRAL AMERICA S.A., SUCURSAL COSTA RICA"
+  city: "SAN JOAQUIN"
+  branch: null
+  swift: BATSCR51
+    
+- name: "CENTRAL DE VALORES, S.A. (CEVAL)"
+  city: "SAN JOSE"
+  branch: null
+  swift: CEVCCRS1
+    
+- name: "COMPANIA FINANCIERA DE LONDRES LTDA."
+  city: "SAN JOSE"
+  branch: null
+  swift: FILOCRS1
+    
+- name: "COOPENAE"
+  city: "SAN JOSE"
+  branch: null
+  swift: CPOPCRS1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS"
+  city: "SAN JOSE"
+  branch: null
+  swift: CAOVCRS1
+    
+- name: "CORPORACION FRANCO-AMERICANA DE FINANZAS(COSTA RICA) S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: FAFCCRS1
+    
+- name: "FINANCIERA G AND T CONTINENTAL COSTA RICA S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: FCCRCRS1
+    
+- name: "FITCH COSTA RICA CALIFICADORA DE RIESGO S.A."
+  city: "SAN JOSE"
+  branch: null
+  swift: FRIPCRS1
+    
+- name: "GRUPO MUTUAL ALAJUELA-LA VIVIENDA DE AHORRO Y PRESTAMO"
+  city: "ALAJUELA"
+  branch: null
+  swift: GMAVCRS1
+    
+- name: "INSTITUTO COSTARRICENSE DE ELECTRICIDAD"
+  city: "SAN JOSE"
+  branch: null
+  swift: ICELCRSJ
+    
+- name: "INSTITUTO NACIONAL DE SEGUROS"
+  city: "SAN JOSE"
+  branch: null
+  swift: ISNSCRS1
+    
+- name: "PRIVAL BANK (COSTA RICA) S.A."
+  city: "SAN PEDRO"
+  branch: null
+  swift: BDSOCRSJ
+    
+- name: "SCOTIABANK DE COSTA RICA"
+  city: "SAN JOSE"
+  branch: null
+  swift: NOSCCRSJ
+    
+- name: "THE BANK OF NOVA SCOTIA (COSTA RICA) S.A. (FORMERLY BANCO CITIBANK DE COSTA RICA S.A.)"
+  city: "SAN JOSE"
+  branch: null
+  swift: BACUCRSJ
+    

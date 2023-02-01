@@ -1,0 +1,7295 @@
+- name: "ADABANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ADABTRIS
+    
+- name: "AK PORTFOY YONETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: POYNTRI1
+    
+- name: "AK YATIRIM MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: YAMGTRI1
+    
+- name: "AKBANK T.A.S."
+  city: "ADANA"
+  branch: null
+  swift: AKBKTRIS002
+    
+- name: "AKBANK T.A.S."
+  city: "ANKARA"
+  branch: null
+  swift: AKBKTRIS005
+    
+- name: "AKBANK T.A.S."
+  city: "ANTALYA"
+  branch: null
+  swift: AKBKTRIS056
+    
+- name: "AKBANK T.A.S."
+  city: "BURSA"
+  branch: null
+  swift: AKBKTRIS043
+    
+- name: "AKBANK T.A.S."
+  city: "DENIZLI"
+  branch: DENIZLI BRANCH
+  swift: AKBKTRIS012
+    
+- name: "AKBANK T.A.S."
+  city: "GAZIANTEP"
+  branch: null
+  swift: AKBKTRIS057
+    
+- name: "AKBANK T.A.S."
+  city: "ISKENDERUN"
+  branch: null
+  swift: AKBKTRIS035
+    
+- name: "AKBANK T.A.S."
+  city: "ISTANBUL"
+  branch: BAHCEKAPI BRANCH
+  swift: AKBKTRIS004
+    
+- name: "AKBANK T.A.S."
+  city: "ISTANBUL"
+  branch: BEYOGLU BRANCH
+  swift: AKBKTRIS039
+    
+- name: "AKBANK T.A.S."
+  city: "ISTANBUL"
+  branch: GALATA BRANCH
+  swift: AKBKTRIS019
+    
+- name: "AKBANK T.A.S."
+  city: "ISTANBUL"
+  branch: INTERNATIONAL OPERATIONS
+  swift: AKBKTRIS888
+    
+- name: "AKBANK T.A.S."
+  city: "ISTANBUL"
+  branch: KADIKOY BRANCH
+  swift: AKBKTRIS020
+    
+- name: "AKBANK T.A.S."
+  city: "ISTANBUL"
+  branch: MAIN BRANCH
+  swift: AKBKTRIS192
+    
+- name: "AKBANK T.A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: AKBKTRIS
+    
+- name: "AKBANK T.A.S."
+  city: "IZMIR"
+  branch: null
+  swift: AKBKTRIS006
+    
+- name: "AKBANK T.A.S."
+  city: "IZMIT"
+  branch: null
+  swift: AKBKTRIS066
+    
+- name: "AKBANK T.A.S."
+  city: "KOCAELI"
+  branch: TREASURY OPERATIONS
+  swift: AKBKTRIS999
+    
+- name: "AKBANK T.A.S."
+  city: "MERSIN"
+  branch: MERSIN FREE ZONE BRANCH
+  swift: AKBKTRIS622
+    
+- name: "AKBANK T.A.S."
+  city: "MERSIN"
+  branch: null
+  swift: AKBKTRIS018
+    
+- name: "AKBANK T.A.S."
+  city: "SAMSUN"
+  branch: null
+  swift: AKBKTRIS059
+    
+- name: "AKDENIZ MENKUL DE ERLER TICARET A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: AKMDTRI1
+    
+- name: "AKS MENKUL DE ERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: AKMETRI1
+    
+- name: "AKTIF YATIRIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: CAYTTRIS
+    
+- name: "AKTIF YATIRIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: CAYTTRIS001
+    
+- name: "AKTIF YATIRIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: CAYTTRIS002
+    
+- name: "AKTIF YATIRIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: CAYTTRIS003
+    
+- name: "ALAN MENKUL DE ERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: ALMDTRI1
+    
+- name: "ALAN SECURITIES INC."
+  city: "ISTANBUL"
+  branch: null
+  swift: ALSITRI1
+    
+- name: "ALBARAKA TURK PARTICIPATION BANK"
+  city: "ISTANBUL"
+  branch: null
+  swift: BTFHTRIS
+    
+- name: "ALI ALPAY MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: AAMDTRI1
+    
+- name: "ALTAY MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: ALMETRI1
+    
+- name: "ALTERNATIF YATIRIM AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: ALMITRI1
+    
+- name: "ALTERNATIFBANK A.S."
+  city: "ANKARA"
+  branch: ANKARA BRANCH
+  swift: ALFBTRIS909
+    
+- name: "ALTERNATIFBANK A.S."
+  city: "BURSA"
+  branch: BURSA BRANCH
+  swift: ALFBTRIS908
+    
+- name: "ALTERNATIFBANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ALFBTRIS
+    
+- name: "ALTERNATIFBANK A.S."
+  city: "IZMIR"
+  branch: IZMIR BRANCH
+  swift: ALFBTRIS907
+    
+- name: "ANADOLU HAYAT EMEKLILIK AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: ANHETRI1
+    
+- name: "ANADOLUBANK A.S."
+  city: "ISTANBUL"
+  branch: TUZLA FREE ZONE BRANCH
+  swift: ANDLTRISTUZ
+    
+- name: "ANADOLUBANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ANDLTRIS
+    
+- name: "ANKARA EMEKLILIK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ANEMTRI1
+    
+- name: "ARAB TURKISH BANK"
+  city: "ISTANBUL"
+  branch: null
+  swift: ATUBTRIS
+    
+- name: "ARIGIL MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ARMRTRI1
+    
+- name: "ARTI MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: ARMLTRI1
+    
+- name: "ASBANK LTD."
+  city: "MERSIN"
+  branch: CENTRAL BRANCH
+  swift: ASBNTR21
+    
+- name: "ASIA PACIFIC BANKING GROUP TURKEY"
+  city: "ISTANBUL"
+  branch: null
+  swift: APGTTRI1
+    
+- name: "ATA INVEST INC"
+  city: "ISTANBUL"
+  branch: null
+  swift: ATASTRI1
+    
+- name: "ATA MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: ATMDTRI1
+    
+- name: "AZ GLOBAL PORTFOY YONETIMI AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: GLPYTRI1
+    
+- name: "BAB MENKUL DE ERLER TICARETI AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: BAMDTRI1
+    
+- name: "BANK MELLAT"
+  city: "ANKARA"
+  branch: ANKARA BRANCH
+  swift: BKMTTRIS100
+    
+- name: "BANK MELLAT"
+  city: "ISTANBUL"
+  branch: ISTANBUL (TURKEY) MAIN BRANCH
+  swift: BKMTTRIS
+    
+- name: "BANK MELLAT"
+  city: "IZMIR"
+  branch: IZMIR BANCH
+  swift: BKMTTRIS200
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ TURKEY A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: BOTKTRIS
+    
+- name: "BANKPOZITIF KREDI VE KALKINMA BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: BPTRTRIS
+    
+- name: "BARAN MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: BAEETRI1
+    
+- name: "BASAK MENKUL DEGERLER A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: BAEGTRI1
+    
+- name: "BASKENT SECURITIES, INC."
+  city: "ISTANBUL"
+  branch: null
+  swift: BAUETRI1
+    
+- name: "BAYINDIR MENKUL DE ERLER A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: BAKDTRI1
+    
+- name: "BENDER MENKUL DEGERLER A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: BMDGTRI1
+    
+- name: "BETA MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: BEMDTRI1
+    
+- name: "BGC PARTNERS MENKUL DEGERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: BPMRTRI1
+    
+- name: "BIRIKIM MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: BIMDTRI1
+    
+- name: "BIRLESIK FON BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: BAYDTRIS
+    
+- name: "BIZIM MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: BIMRTRI1
+    
+- name: "BRITISH AMERICAN TOBACCO TUTUN MAMULLERI SANAYI VE TICARET ANONIM SIRKETI"
+  city: "ISTANBUL"
+  branch: null
+  swift: BATSTRI1
+    
+- name: "BUMERANG MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: BUMETRI1
+    
+- name: "BURGAN BANK A.S."
+  city: "ISTANBUL"
+  branch: A.H.L. SERBEST BOLGE BRANCH
+  swift: TEKFTRIS970
+    
+- name: "BURGAN BANK A.S."
+  city: "ISTANBUL"
+  branch: FACTORING
+  swift: TEKFTRIS946
+    
+- name: "BURGAN BANK A.S."
+  city: "ISTANBUL"
+  branch: HEAD OFFICE
+  swift: TEKFTRIS901
+    
+- name: "BURGAN BANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TEKFTRIS
+    
+- name: "BURGAN BANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TEKFTRISSEC
+    
+- name: "CA DAS MENKUL DE ERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: CAMGTRI1
+    
+- name: "CAMIS MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: CAMDTRI1
+    
+- name: "CAN MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: CAMETRI1
+    
+- name: "CANDY GROUP INTERNATIONAL LTD MERKEZI DUBAI TURKIYE ISTANBUL SUBESI"
+  city: "ISTANBUL"
+  branch: null
+  swift: CGIMTRI1
+    
+- name: "CENSA MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: CEMDTRI1
+    
+- name: "CEROS MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: CERSTRI1
+    
+- name: "CITI MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TEMDTRI1
+    
+- name: "CITIBANK A.S."
+  city: "ANKARA"
+  branch: null
+  swift: CITITRIXANK
+    
+- name: "CITIBANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: CITITRIX
+    
+- name: "CITIBANK A.S."
+  city: "IZMIR"
+  branch: null
+  swift: CITITRIXIZM
+    
+- name: "CYPRUS CREDIT BANK LTD."
+  city: "ISTANBUL"
+  branch: NISANTASI BRANCH
+  swift: CYCRTRI1
+    
+- name: "CYPRUS INTEC BANK"
+  city: "MERSIN"
+  branch: null
+  swift: CYIOTR21
+    
+- name: "DATEK SECURITIES INC."
+  city: "ISTANBUL"
+  branch: null
+  swift: DSBPTRI1
+    
+- name: "DELTA MENKUL DE ERLER A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: DEMDTRI1
+    
+- name: "DEMIR FAKTORING A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: DEFKTRI1
+    
+- name: "DEMIR YATIRIM MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: DYNRTRI1
+    
+- name: "DENGE MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: DEMETRI1
+    
+- name: "DENIZ PORTFOEY YOENETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: DEPYTRT1
+    
+- name: "DENIZ YATIRIM MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: DYULTRI1
+    
+- name: "DENIZBANK A.S."
+  city: "ADANA"
+  branch: ADANA BRANCH
+  swift: DENITRIS940
+    
+- name: "DENIZBANK A.S."
+  city: "ADANA"
+  branch: ADANA CARSI
+  swift: DENITRIS234
+    
+- name: "DENIZBANK A.S."
+  city: "ADANA"
+  branch: KUZEY ADANA
+  swift: DENITRIS323
+    
+- name: "DENIZBANK A.S."
+  city: "ADANA"
+  branch: YUREGIR
+  swift: DENITRIS327
+    
+- name: "DENIZBANK A.S."
+  city: "ADAPAZARI"
+  branch: ADAPAZARI BRANCH
+  swift: DENITRIS201
+    
+- name: "DENIZBANK A.S."
+  city: "ADIYAMAN"
+  branch: ADIYAMAN
+  swift: DENITRIS338
+    
+- name: "DENIZBANK A.S."
+  city: "AFYON"
+  branch: AFYON
+  swift: DENITRIS212
+    
+- name: "DENIZBANK A.S."
+  city: "AKSARAY"
+  branch: AKSARAY
+  swift: DENITRIS336
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: ANKARA BASKENT OZEL BANKACILIK MERKEZI
+  swift: DENITRIS341
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: ANKARA BRANCH
+  swift: DENITRIS909
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: BAHCELIEVELER BRANCH
+  swift: DENITRIS979
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: BASKENT UNIVERSITESI
+  swift: DENITRIS343
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: CANKAYA BRANCH
+  swift: DENITRIS965
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: CEBECI
+  swift: DENITRIS216
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: GAZIOSMANPASA BRANCH
+  swift: DENITRIS910
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: GIMAT BRANCH
+  swift: DENITRIS218
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: KECIOREN
+  swift: DENITRIS362
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: MITHATPASA
+  swift: DENITRIS271
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: OSTIM
+  swift: DENITRIS310
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: POLATLI
+  swift: DENITRIS352
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: SINCAN
+  swift: DENITRIS373
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: SITELER ANKARA
+  swift: DENITRIS320
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: ULUS BRANCH
+  swift: DENITRIS933
+    
+- name: "DENIZBANK A.S."
+  city: "ANKARA"
+  branch: YILDIZ BRANCH
+  swift: DENITRIS211
+    
+- name: "DENIZBANK A.S."
+  city: "ANTAKYA"
+  branch: ANTAKYA BRANCH
+  swift: DENITRIS972
+    
+- name: "DENIZBANK A.S."
+  city: "ANTALYA"
+  branch: AKDENIZ TICARI MERKEZ
+  swift: DENITRIS368
+    
+- name: "DENIZBANK A.S."
+  city: "ANTALYA"
+  branch: ALANYA CARSI
+  swift: DENITRIS291
+    
+- name: "DENIZBANK A.S."
+  city: "ANTALYA"
+  branch: ANTALYA BRANCH
+  swift: DENITRIS916
+    
+- name: "DENIZBANK A.S."
+  city: "ANTALYA"
+  branch: ANTALYA CARSI
+  swift: DENITRIS289
+    
+- name: "DENIZBANK A.S."
+  city: "ANTALYA"
+  branch: ANTALYA HAL
+  swift: DENITRIS275
+    
+- name: "DENIZBANK A.S."
+  city: "ANTALYA"
+  branch: DEMRE
+  swift: DENITRIS296
+    
+- name: "DENIZBANK A.S."
+  city: "ANTALYA"
+  branch: GAZIPASA
+  swift: DENITRIS297
+    
+- name: "DENIZBANK A.S."
+  city: "ANTALYA"
+  branch: KUMLUCA
+  swift: DENITRIS235
+    
+- name: "DENIZBANK A.S."
+  city: "ANTALYA"
+  branch: LARA
+  swift: DENITRIS333
+    
+- name: "DENIZBANK A.S."
+  city: "ANTALYA"
+  branch: SIDE
+  swift: DENITRIS292
+    
+- name: "DENIZBANK A.S."
+  city: "AYDIN"
+  branch: CINE
+  swift: DENITRIS280
+    
+- name: "DENIZBANK A.S."
+  city: "AYDIN"
+  branch: GERMENCIK
+  swift: DENITRIS279
+    
+- name: "DENIZBANK A.S."
+  city: "AYDIN"
+  branch: INCIRLIOVA
+  swift: DENITRIS256
+    
+- name: "DENIZBANK A.S."
+  city: "AYDIN"
+  branch: KUSADASI BRANCH
+  swift: DENITRIS997
+    
+- name: "DENIZBANK A.S."
+  city: "AYDIN"
+  branch: KUSADASI CARSI
+  swift: DENITRIS287
+    
+- name: "DENIZBANK A.S."
+  city: "AYDIN"
+  branch: NAZILLI
+  swift: DENITRIS994
+    
+- name: "DENIZBANK A.S."
+  city: "AYDIN"
+  branch: SOKE
+  swift: DENITRIS259
+    
+- name: "DENIZBANK A.S."
+  city: "BALIKESIR"
+  branch: AYVALIK
+  swift: DENITRIS254
+    
+- name: "DENIZBANK A.S."
+  city: "BALIKESIR"
+  branch: BALIKESIR BRANCH
+  swift: DENITRIS962
+    
+- name: "DENIZBANK A.S."
+  city: "BALIKESIR"
+  branch: BANDIRMA
+  swift: DENITRIS236
+    
+- name: "DENIZBANK A.S."
+  city: "BALIKESIR"
+  branch: EDREMIT
+  swift: DENITRIS255
+    
+- name: "DENIZBANK A.S."
+  city: "BATMAN"
+  branch: BATMAN
+  swift: DENITRIS251
+    
+- name: "DENIZBANK A.S."
+  city: "BOLU"
+  branch: BOLU
+  swift: DENITRIS982
+    
+- name: "DENIZBANK A.S."
+  city: "BURSA"
+  branch: BURSA BRANCH
+  swift: DENITRIS908
+    
+- name: "DENIZBANK A.S."
+  city: "BURSA"
+  branch: BURSA HEYKEL BRANCH
+  swift: DENITRIS947
+    
+- name: "DENIZBANK A.S."
+  city: "BURSA"
+  branch: BURSA YILDIRIM
+  swift: DENITRIS316
+    
+- name: "DENIZBANK A.S."
+  city: "BURSA"
+  branch: CEKIRGE BRANCH
+  swift: DENITRIS989
+    
+- name: "DENIZBANK A.S."
+  city: "BURSA"
+  branch: INEGOL
+  swift: DENITRIS334
+    
+- name: "DENIZBANK A.S."
+  city: "CANAKKALE"
+  branch: CANAKKALE
+  swift: DENITRIS237
+    
+- name: "DENIZBANK A.S."
+  city: "CORUM"
+  branch: CORUM
+  swift: DENITRIS968
+    
+- name: "DENIZBANK A.S."
+  city: "DENIZLI"
+  branch: DENIZLI BRANCH
+  swift: DENITRIS917
+    
+- name: "DENIZBANK A.S."
+  city: "DENIZLI"
+  branch: HALK CADDESI
+  swift: DENITRIS313
+    
+- name: "DENIZBANK A.S."
+  city: "DIYARBAKIR"
+  branch: DAGKAPI
+  swift: DENITRIS359
+    
+- name: "DENIZBANK A.S."
+  city: "DIYARBAKIR"
+  branch: DIYARBAKIR BRANCH
+  swift: DENITRIS941
+    
+- name: "DENIZBANK A.S."
+  city: "DIYARBAKIR"
+  branch: SILOPI
+  swift: DENITRIS202
+    
+- name: "DENIZBANK A.S."
+  city: "DUZCE"
+  branch: DUZCE
+  swift: DENITRIS335
+    
+- name: "DENIZBANK A.S."
+  city: "EDIRNE"
+  branch: EDIRNE
+  swift: DENITRIS969
+    
+- name: "DENIZBANK A.S."
+  city: "ELAZIG"
+  branch: ELAZIG BRANCH
+  swift: DENITRIS967
+    
+- name: "DENIZBANK A.S."
+  city: "ERZURUM"
+  branch: ERZURUM
+  swift: DENITRIS315
+    
+- name: "DENIZBANK A.S."
+  city: "ESKISEHIR"
+  branch: ESKISEHIR BRANCH
+  swift: DENITRIS988
+    
+- name: "DENIZBANK A.S."
+  city: "ESKISEHIR"
+  branch: ESKISEHIR SANAYI
+  swift: DENITRIS360
+    
+- name: "DENIZBANK A.S."
+  city: "GAZIANTEP"
+  branch: GAZIANTEP BRANCH
+  swift: DENITRIS939
+    
+- name: "DENIZBANK A.S."
+  city: "GIRESUN"
+  branch: GIRESUN
+  swift: DENITRIS330
+    
+- name: "DENIZBANK A.S."
+  city: "ISKENDERUN"
+  branch: ISKENDERUN BRANCH
+  swift: DENITRIS954
+    
+- name: "DENIZBANK A.S."
+  city: "ISPARTA"
+  branch: ISPARTA
+  swift: DENITRIS974
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: 1.LEVENT BRANCH
+  swift: DENITRIS963
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: 4.LEVENT BRANCH
+  swift: DENITRIS984
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: A.H.L. FREE ZONE BRANCH
+  swift: DENITRIS239
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: AKSARAY BRANCH
+  swift: DENITRIS961
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ALTIN BORSASI
+  swift: DENITRIS281
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ALTIYOL BRANCH
+  swift: DENITRIS245
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ALTUNIZADE BRANCH
+  swift: DENITRIS993
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ATAKOY BRANCH
+  swift: DENITRIS920
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ATRIUM
+  swift: DENITRIS927
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: AVCILAR BRANCH
+  swift: DENITRIS929
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: AYAZAGA BRANCH
+  swift: DENITRIS985
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BAGCILAR
+  swift: DENITRIS238
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BAHCELIEVLER
+  swift: DENITRIS936
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BAHCESEHIR UNIVERSITESI
+  swift: DENITRIS378
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BAKIRKOY BRANCH
+  swift: DENITRIS912
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BAKIRKOY CARSI
+  swift: DENITRIS204
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BANKALAR CADDESI
+  swift: DENITRIS355
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BASAKSEHIR
+  swift: DENITRIS349
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BAYRAMPASA BRANCH
+  swift: DENITRIS925
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BEBEK BRANCH
+  swift: DENITRIS937
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BESIKTAS
+  swift: DENITRIS308
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BESYUZEVLER
+  swift: DENITRIS240
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BEYLIKDUZU BRANCH
+  swift: DENITRIS242
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BEYOGLU BRANCH
+  swift: DENITRIS975
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: BUYUKADA
+  swift: DENITRIS346
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: CAGLAYAN BRANCH
+  swift: DENITRIS246
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: CARSI IKITELLI
+  swift: DENITRIS247
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: CIFTEHAVUZLAR
+  swift: DENITRIS337
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: DEMIRCILER SITESI
+  swift: DENITRIS321
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: DUDULLU BRANCH
+  swift: DENITRIS992
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ELMADAG BRANCH
+  swift: DENITRIS905
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ETILER BRANCH
+  swift: DENITRIS923
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: FATIH BRANCH
+  swift: DENITRIS971
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: FINDIKZADE
+  swift: DENITRIS244
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: GOP BRANCH
+  swift: DENITRIS219
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: GOZTEPE ISTASYON BRANCH
+  swift: DENITRIS252
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: GUNESLI BRANCH
+  swift: DENITRIS918
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: GUNGOREN BRANCH
+  swift: DENITRIS227
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: HARBIYE BRANCH
+  swift: DENITRIS206
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: IKITELLI BRANCH
+  swift: DENITRIS221
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ISTINYE
+  swift: DENITRIS344
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ISTOC
+  swift: DENITRIS329
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: KADIKOY BRANCH
+  swift: DENITRIS956
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: KARAKOY BRANCH
+  swift: DENITRIS902
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: KARTAL BRANCH
+  swift: DENITRIS911
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: KARTAL CARSI BRANCH
+  swift: DENITRIS958
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: KAVACIK BRANCH
+  swift: DENITRIS241
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: KAZASKER BRANCH
+  swift: DENITRIS924
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: KERESTECILER SITESI
+  swift: DENITRIS374
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: KIZILTOPRAK BRANCH
+  swift: DENITRIS921
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: KOZYATAGI BRANCH
+  swift: DENITRIS906
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: KUCUKYALI
+  swift: DENITRIS318
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: LEVENT BRANCH
+  swift: DENITRIS945
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: MALTEPE BRANCH
+  swift: DENITRIS932
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: MASLAK BRANCH
+  swift: DENITRIS210
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: MECIDIYEKOY
+  swift: DENITRIS326
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: MEGA CENTER
+  swift: DENITRIS261
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: MERCAN SUBESI
+  swift: DENITRIS303
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: MERTER BRANCH
+  swift: DENITRIS966
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: MODA
+  swift: DENITRIS314
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: NISANTASI BRANCH
+  swift: DENITRIS996
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: NURUOSMANIYE
+  swift: DENITRIS243
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ORTAKOY
+  swift: DENITRIS322
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: OTOCENTER
+  swift: DENITRIS357
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: OZEL BANKACILIK MERKEZI
+  swift: DENITRIS340
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: PENDIK BRANCH
+  swift: DENITRIS223
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: PERPA
+  swift: DENITRIS276
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: RAMI
+  swift: DENITRIS224
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: SAHRAYICEDIT
+  swift: DENITRIS324
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: SASKINBAKKAL BRANCH
+  swift: DENITRIS225
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: SEFAKOY BRANCH
+  swift: DENITRIS957
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: SIRINEVLER BRANCH
+  swift: DENITRIS944
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: SUADIYE BRANCH
+  swift: DENITRIS926
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: SULTANCIFTLIGI
+  swift: DENITRIS306
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: SULTANHAMAM BRANCH
+  swift: DENITRIS904
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: TOPCULAR BRANCH
+  swift: DENITRIS226
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: TOPKAPI SANAYI
+  swift: DENITRIS317
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: TREASURY OPERATIONS DIVISION
+  swift: DENITRIS915
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: TUZLA TERSANE BRANCH
+  swift: DENITRIS248
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: UMRANIYE BRANCH
+  swift: DENITRIS952
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: UMRANIYE SANAYII
+  swift: DENITRIS372
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: USKUDAR BRANCH
+  swift: DENITRIS986
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: VOSTRO DEPARTMENT
+  swift: DENITRIS134
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: YESILKOY BRANCH
+  swift: DENITRIS922
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: YESILYURT BRANCH
+  swift: DENITRIS931
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ZEYTINBURNU BRANCH
+  swift: DENITRIS977
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: ZINCIRLIKUYU BRANCH
+  swift: DENITRIS914
+    
+- name: "DENIZBANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: DENITRIS
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: ALSANCAK BRANCH
+  swift: DENITRIS919
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: BALCOVA
+  swift: DENITRIS353
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: BERGAMA
+  swift: DENITRIS272
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: BORNOVA BRANCH
+  swift: DENITRIS942
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: BUCA
+  swift: DENITRIS309
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: EGE OZEL BANKACILIK MERKEZI
+  swift: DENITRIS342
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: EGE SERBEST BOLGE BRANCH
+  swift: DENITRIS970
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: GAZIEMIR
+  swift: DENITRIS361
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: HATAY IZMIR
+  swift: DENITRIS976
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: ISIKKENT
+  swift: DENITRIS278
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: IZMIR BRANCH
+  swift: DENITRIS907
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: IZMIR GIDA CARSISI BRANCH
+  swift: DENITRIS208
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: KARABAGLAR BRANCH
+  swift: DENITRIS998
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: KARSIYAKA
+  swift: DENITRIS948
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: MENEMEN
+  swift: DENITRIS274
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: MIMAR KEMALETTIN
+  swift: DENITRIS277
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: ODEMIS
+  swift: DENITRIS257
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: SAIR ESREF
+  swift: DENITRIS286
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: TIRE
+  swift: DENITRIS260
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIR"
+  branch: TORBALI
+  swift: DENITRIS258
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIT"
+  branch: GEBZE BRANCH
+  swift: DENITRIS978
+    
+- name: "DENIZBANK A.S."
+  city: "IZMIT"
+  branch: IZMIT BRANCH
+  swift: DENITRIS200
+    
+- name: "DENIZBANK A.S."
+  city: "KAHRAMANMARAS"
+  branch: KAHRAMANMARAS BRANCH
+  swift: DENITRIS207
+    
+- name: "DENIZBANK A.S."
+  city: "KARABUK"
+  branch: KARABUK BRANCH
+  swift: DENITRIS222
+    
+- name: "DENIZBANK A.S."
+  city: "KAYSERI"
+  branch: KAYSERI BRANCH
+  swift: DENITRIS943
+    
+- name: "DENIZBANK A.S."
+  city: "KIRIKKALE"
+  branch: KIRIKKALE
+  swift: DENITRIS354
+    
+- name: "DENIZBANK A.S."
+  city: "KIRKLARELI"
+  branch: LULEBURGAZ
+  swift: DENITRIS953
+    
+- name: "DENIZBANK A.S."
+  city: "KONYA"
+  branch: KONYA BRANCH
+  swift: DENITRIS949
+    
+- name: "DENIZBANK A.S."
+  city: "KONYA"
+  branch: MEVLANA
+  swift: DENITRIS311
+    
+- name: "DENIZBANK A.S."
+  city: "KONYA"
+  branch: YENI TOPTANCILAR BRANCH
+  swift: DENITRIS229
+    
+- name: "DENIZBANK A.S."
+  city: "KUTAHYA"
+  branch: KUTAHYA
+  swift: DENITRIS249
+    
+- name: "DENIZBANK A.S."
+  city: "MALATYA"
+  branch: MALATYA BRANCH
+  swift: DENITRIS980
+    
+- name: "DENIZBANK A.S."
+  city: "MANISA"
+  branch: AKHISAR
+  swift: DENITRIS262
+    
+- name: "DENIZBANK A.S."
+  city: "MANISA"
+  branch: ALASEHIR
+  swift: DENITRIS263
+    
+- name: "DENIZBANK A.S."
+  city: "MANISA"
+  branch: MANISA BRANCH
+  swift: DENITRIS928
+    
+- name: "DENIZBANK A.S."
+  city: "MANISA"
+  branch: SALIHLI
+  swift: DENITRIS266
+    
+- name: "DENIZBANK A.S."
+  city: "MANISA"
+  branch: SARIGOL
+  swift: DENITRIS295
+    
+- name: "DENIZBANK A.S."
+  city: "MANISA"
+  branch: TURGUTLU
+  swift: DENITRIS325
+    
+- name: "DENIZBANK A.S."
+  city: "MERSIN"
+  branch: ANAMUR
+  swift: DENITRIS300
+    
+- name: "DENIZBANK A.S."
+  city: "MERSIN"
+  branch: MERSIN BRANCH
+  swift: DENITRIS955
+    
+- name: "DENIZBANK A.S."
+  city: "MERSIN"
+  branch: MERSIN SERBEST BOLGE BRANCH
+  swift: DENITRIS990
+    
+- name: "DENIZBANK A.S."
+  city: "MERSIN"
+  branch: METROPOL
+  swift: DENITRIS365
+    
+- name: "DENIZBANK A.S."
+  city: "MERSIN"
+  branch: SILIFKE
+  swift: DENITRIS347
+    
+- name: "DENIZBANK A.S."
+  city: "MERSIN"
+  branch: TARSUS HAL
+  swift: DENITRIS350
+    
+- name: "DENIZBANK A.S."
+  city: "MERSIN"
+  branch: TARSUS
+  swift: DENITRIS312
+    
+- name: "DENIZBANK A.S."
+  city: "MUGLA"
+  branch: BODRUM BRANCH
+  swift: DENITRIS964
+    
+- name: "DENIZBANK A.S."
+  city: "MUGLA"
+  branch: CARSI BODRUM
+  swift: DENITRIS267
+    
+- name: "DENIZBANK A.S."
+  city: "MUGLA"
+  branch: DALAMAN HAVALIMANI
+  swift: DENITRIS367
+    
+- name: "DENIZBANK A.S."
+  city: "MUGLA"
+  branch: FETHIYE
+  swift: DENITRIS217
+    
+- name: "DENIZBANK A.S."
+  city: "MUGLA"
+  branch: MILAS
+  swift: DENITRIS264
+    
+- name: "DENIZBANK A.S."
+  city: "MUGLA"
+  branch: ORTACA
+  swift: DENITRIS265
+    
+- name: "DENIZBANK A.S."
+  city: "NEVSEHIR"
+  branch: GOREME
+  swift: DENITRIS364
+    
+- name: "DENIZBANK A.S."
+  city: "NEVSEHIR"
+  branch: NEVSEHIR
+  swift: DENITRIS231
+    
+- name: "DENIZBANK A.S."
+  city: "NEVSEHIR"
+  branch: URGUP
+  swift: DENITRIS288
+    
+- name: "DENIZBANK A.S."
+  city: "ORDU"
+  branch: ORDU BRANCH
+  swift: DENITRIS987
+    
+- name: "DENIZBANK A.S."
+  city: "RIZE"
+  branch: RIZE
+  swift: DENITRIS348
+    
+- name: "DENIZBANK A.S."
+  city: "SAMSUN"
+  branch: BAFRA
+  swift: DENITRIS356
+    
+- name: "DENIZBANK A.S."
+  city: "SAMSUN"
+  branch: SAMSUN BRANCH
+  swift: DENITRIS983
+    
+- name: "DENIZBANK A.S."
+  city: "SANLIURFA"
+  branch: SANLIURFA
+  swift: DENITRIS233
+    
+- name: "DENIZBANK A.S."
+  city: "SANLIURFA"
+  branch: ZAHIRECILER BORSASI
+  swift: DENITRIS345
+    
+- name: "DENIZBANK A.S."
+  city: "SIVAS"
+  branch: SIVAS BRANCH
+  swift: DENITRIS995
+    
+- name: "DENIZBANK A.S."
+  city: "TEKIRDAG"
+  branch: CORLU BRANCH
+  swift: DENITRIS938
+    
+- name: "DENIZBANK A.S."
+  city: "TEKIRDAG"
+  branch: TEKIRDAG
+  swift: DENITRIS331
+    
+- name: "DENIZBANK A.S."
+  city: "TOKAT"
+  branch: TOKAT
+  swift: DENITRIS351
+    
+- name: "DENIZBANK A.S."
+  city: "TRABZON"
+  branch: TRABZON BRANCH
+  swift: DENITRIS903
+    
+- name: "DENIZBANK A.S."
+  city: "USAK"
+  branch: USAK BRANCH
+  swift: DENITRIS209
+    
+- name: "DENIZBANK A.S."
+  city: "VAN"
+  branch: VAN
+  swift: DENITRIS250
+    
+- name: "DENIZBANK A.S."
+  city: "ZONGULDAK"
+  branch: KARADENIZ EREGLI BRANCH
+  swift: DENITRIS946
+    
+- name: "DENIZBANK A.S."
+  city: "ZONGULDAK"
+  branch: ZONGULDAK
+  swift: DENITRIS213
+    
+- name: "DERBORSA MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: DEMGTRI1
+    
+- name: "DEUTSCHE BANK A.S."
+  city: "ISTANBUL"
+  branch: CUSTODY SERVICES
+  swift: DEUTTRISCUS
+    
+- name: "DEUTSCHE BANK A.S."
+  city: "ISTANBUL"
+  branch: PRIVATE BANKING DEPARTMENT
+  swift: DEUTTRISPBC
+    
+- name: "DEUTSCHE BANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: DEUTTRIS
+    
+- name: "DEUTSCHE BANK ANONIM SIRKETI"
+  city: "ISTANBUL"
+  branch: null
+  swift: TUMETRI1
+    
+- name: "DEUTSCHE BANK ISTANBUL"
+  city: "ISTANBUL"
+  branch: CUSTODY DEPARTMENT
+  swift: BKTRTRISCUS
+    
+- name: "DEUTSCHE BANK ISTANBUL"
+  city: "ISTANBUL"
+  branch: GLOBAL MARKETS
+  swift: BKTRTRISGFX
+    
+- name: "DEUTSCHE BANK ISTANBUL"
+  city: "ISTANBUL"
+  branch: null
+  swift: BKTRTRIS
+    
+- name: "DILER YATIRIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: DYAKTRIS
+    
+- name: "DIS YATIRIM MENKUL DE ERLER A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: DYKLTRI1
+    
+- name: "DUENYA MENKUL DE ERLER A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: DUMDTRI1
+    
+- name: "ECO TRADE AND DEVELOPMENT BANK"
+  city: "ISTANBUL"
+  branch: null
+  swift: ECTVTRIS
+    
+- name: "ECZACIBASI MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ECZATRI1
+    
+- name: "ECZACIBASI MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: EZMDTRI1
+    
+- name: "ECZACIBASI-UBP PORTFOEY YOENETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ECPYTRI1
+    
+- name: "EFG ISTANBUL MENKUL DE ERLER ANONIM SIRKETI"
+  city: "ISTANBUL"
+  branch: null
+  swift: ISMETRI1
+    
+- name: "EGE YATIRIM MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: EYMDTRI1
+    
+- name: "EGEMEN MENKUL DEGERLER"
+  city: "IZMIR"
+  branch: null
+  swift: EGMDTR21
+    
+- name: "EKINCILER INVESTMENT AND SECURITIES INC"
+  city: "ISTANBUL"
+  branch: null
+  swift: EKISTRI1
+    
+- name: "EKINCILER MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: EKMDTRI1
+    
+- name: "EKINCILER YATIRIM MENKUL DE ERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: EYMGTRI1
+    
+- name: "EKOL MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: EKMETRI1
+    
+- name: "EKSPO FAKTORING A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: EKSFTRI2
+    
+- name: "EKSPRES YATIRIM MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: EYMETRI1
+    
+- name: "ERSTE SECURITIES ISTANBUL MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ESIETRI1
+    
+- name: "EVGIN MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: EVMDTRI1
+    
+- name: "EVIS MENKUL DE ERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: EVMETRI1
+    
+- name: "FAISAL ISLAMIC BANK OF KIBRIS"
+  city: "MERSIN"
+  branch: null
+  swift: FAIKTR21
+    
+- name: "FIBABANKA A.S."
+  city: "ISTANBUL"
+  branch: HEAD OFFICE
+  swift: FBHLTRIS
+    
+- name: "FINANS PORTFOEY YOENETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: FIPYTRI1
+    
+- name: "FINANS YATIRIM MENKUL DE ERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: FYMDTRI1
+    
+- name: "FINANSBANK A.S."
+  city: "ADANA"
+  branch: ADANA BRANCH
+  swift: FNNBTRISADA
+    
+- name: "FINANSBANK A.S."
+  city: "ANKARA"
+  branch: ANKARA BRANCH
+  swift: FNNBTRISANK
+    
+- name: "FINANSBANK A.S."
+  city: "ANKARA"
+  branch: NECATIBEY BRANCH
+  swift: FNNBTRISNCT
+    
+- name: "FINANSBANK A.S."
+  city: "ANKARA"
+  branch: SITELER BRANCH
+  swift: FNNBTRISSIT
+    
+- name: "FINANSBANK A.S."
+  city: "ANKARA"
+  branch: ULUS BRANCH
+  swift: FNNBTRISAUS
+    
+- name: "FINANSBANK A.S."
+  city: "ANTAKYA"
+  branch: ANTAKYA BRANCH
+  swift: FNNBTRISATK
+    
+- name: "FINANSBANK A.S."
+  city: "ANTALYA"
+  branch: ANTALYA BRANCH
+  swift: FNNBTRISANT
+    
+- name: "FINANSBANK A.S."
+  city: "ANTALYA"
+  branch: MANAVGAT BRANCH
+  swift: FNNBTRISMNV
+    
+- name: "FINANSBANK A.S."
+  city: "AYDIN"
+  branch: KUSADASI BRANCH
+  swift: FNNBTRISKUS
+    
+- name: "FINANSBANK A.S."
+  city: "BALIKESIR"
+  branch: BALIKESIR BRANCH
+  swift: FNNBTRISBLS
+    
+- name: "FINANSBANK A.S."
+  city: "BURSA"
+  branch: BURSA BRANCH
+  swift: FNNBTRISBUR
+    
+- name: "FINANSBANK A.S."
+  city: "DENIZLI"
+  branch: DENIZLI BRANCH
+  swift: FNNBTRISDEN
+    
+- name: "FINANSBANK A.S."
+  city: "DIYARBAKIR"
+  branch: DIYARBAKIR BRANCH
+  swift: FNNBTRISDIY
+    
+- name: "FINANSBANK A.S."
+  city: "ESKISEHIR"
+  branch: ESKISEHIR BRANCH
+  swift: FNNBTRISESK
+    
+- name: "FINANSBANK A.S."
+  city: "GAZIANTEP"
+  branch: GAZIANTEP BRANCH
+  swift: FNNBTRISGZT
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: ALTUNIZADE BRANCH
+  swift: FNNBTRISALT
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: ATATURK HAVALIMANI FREE ZONE BRANCH, ISTANBUL
+  swift: FNNBTRISAHL
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: AVCILAR BRANCH
+  swift: FNNBTRISAVC
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: BAYRAMPASA BRANCH
+  swift: FNNBTRISBAY
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: ELMADAG BRANCH
+  swift: FNNBTRISELM
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: GAYRETTEPE BRANCH
+  swift: FNNBTRISGAY
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: GAZIOSMANPASA BRANCH
+  swift: FNNBTRISIGP
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: GUNESLI BRANCH
+  swift: FNNBTRISGUN
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: HEAD OFFICE OPERATIONS CENTER
+  swift: FNNBTRISOPS
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: IKITELLI BRANCH
+  swift: FNNBTRISIKT
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: IMES BRANCH
+  swift: FNNBTRISIMS
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: KARAKOY BRANCH
+  swift: FNNBTRISKRK
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: KARTAL BRANCH
+  swift: FNNBTRISKTL
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: KOZYATAGI BRANCH
+  swift: FNNBTRISKOZ
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: LEVENT SANAYI BRANCH
+  swift: FNNBTRISLSA
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: MAIN BRANCH AND HEAD OFFICE
+  swift: FNNBTRIS
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: MASLAK BRANCH-ISTANBUL
+  swift: FNNBTRISMSL
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: MECIDIYEKOY BRANCH
+  swift: FNNBTRISMEC
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: MERTER BRANCH
+  swift: FNNBTRISMRT
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: SULTANHAMAM BRANCH
+  swift: FNNBTRISSUL
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: TOPKAPI BRANCH
+  swift: FNNBTRISTPK
+    
+- name: "FINANSBANK A.S."
+  city: "ISTANBUL"
+  branch: TREASURY OPERATIONS
+  swift: FNNBTRISTRO
+    
+- name: "FINANSBANK A.S."
+  city: "IZMIR"
+  branch: BORNOVA BRANCH-IZMIR
+  swift: FNNBTRISBRN
+    
+- name: "FINANSBANK A.S."
+  city: "IZMIR"
+  branch: GAZIEMIR BRANCH
+  swift: FNNBTRISGMR
+    
+- name: "FINANSBANK A.S."
+  city: "IZMIR"
+  branch: IZMIR BRANCH
+  swift: FNNBTRISIZM
+    
+- name: "FINANSBANK A.S."
+  city: "IZMIR"
+  branch: TOPTANCILAR CARSISI BRANCH
+  swift: FNNBTRISTOC
+    
+- name: "FINANSBANK A.S."
+  city: "KAHRAMANMARAS"
+  branch: KAHRAMANMARAS BRANCH
+  swift: FNNBTRISKHM
+    
+- name: "FINANSBANK A.S."
+  city: "KAYSERI"
+  branch: KAYSERI BRANCH
+  swift: FNNBTRISKYS
+    
+- name: "FINANSBANK A.S."
+  city: "KAYSERI"
+  branch: KAYSERI SANAYI BRANCH
+  swift: FNNBTRISKSN
+    
+- name: "FINANSBANK A.S."
+  city: "KOCAELI"
+  branch: GEBZE BRANCH
+  swift: FNNBTRISGEB
+    
+- name: "FINANSBANK A.S."
+  city: "KOCAELI"
+  branch: IZMIT BRANCH
+  swift: FNNBTRISKOC
+    
+- name: "FINANSBANK A.S."
+  city: "KONYA"
+  branch: KONYA BRANCH
+  swift: FNNBTRISKNY
+    
+- name: "FINANSBANK A.S."
+  city: "MALATYA"
+  branch: MALATYA BRANCH
+  swift: FNNBTRISMLT
+    
+- name: "FINANSBANK A.S."
+  city: "MANISA"
+  branch: MANISA BRANCH
+  swift: FNNBTRISMAN
+    
+- name: "FINANSBANK A.S."
+  city: "MERSIN"
+  branch: MERSIN BRANCH
+  swift: FNNBTRISMRS
+    
+- name: "FINANSBANK A.S."
+  city: "MUGLA"
+  branch: BODRUM BRANCH
+  swift: FNNBTRISBOD
+    
+- name: "FINANSBANK A.S."
+  city: "MUGLA"
+  branch: MARMARIS BRANCH
+  swift: FNNBTRISMAR
+    
+- name: "FINANSBANK A.S."
+  city: "SAKARYA"
+  branch: ADAPAZARI BRANCH
+  swift: FNNBTRISADP
+    
+- name: "FINANSBANK A.S."
+  city: "SAMSUN"
+  branch: SAMSUN BRANCH
+  swift: FNNBTRISSAM
+    
+- name: "FINANSBANK A.S."
+  city: "SANLIURFA"
+  branch: SANLIURFA BRANCH
+  swift: FNNBTRISURF
+    
+- name: "FINANSBANK A.S."
+  city: "TRABZON"
+  branch: TRABZON BRANCH
+  swift: FNNBTRISTRB
+    
+- name: "FINANSCORP FINANSMAN YATIRIM"
+  city: "ISTANBUL"
+  branch: null
+  swift: FIFATRI1
+    
+- name: "FINBA MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: FIMDTRI1
+    
+- name: "FITCH TURKEY FINANSAL DERECELENDIRME HIZEMETLERI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: FRIPTRI1
+    
+- name: "FORM MENKUL DE ERLER A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: FOMDTRI1
+    
+- name: "FORTIS PORTFOEY YOENETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: FOPYTRI1
+    
+- name: "FORTIS YATIRIM MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: FYMETRI1
+    
+- name: "FORTRESS BANK I.B.U LTD"
+  city: "YENI SEHIR"
+  branch: null
+  swift: FOIITR21
+    
+- name: "GALATA SECURITIES INC."
+  city: "ISTANBUL"
+  branch: null
+  swift: GALSTRI1
+    
+- name: "GARANTI MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: GAMDTRI1
+    
+- name: "GARANTI PORTFOEY YOENETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: GAPYTRI1
+    
+- name: "GARANTI YATIRIM MENKUL KIYMETLER ANONIMSIRKETI"
+  city: "ISTANBUL"
+  branch: null
+  swift: GYMKTRI1
+    
+- name: "GEDIK YATIRIM MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: GEMDTRI1
+    
+- name: "GEDIK YATIRIM ORTAKLI I A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: GEISTRI1
+    
+- name: "GENBORSA MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: GEMETRI1
+    
+- name: "GFC GENERAL FINANS MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: GGFMTRI1
+    
+- name: "GLOBAL MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: GLOSTRI1
+    
+- name: "GSD YATIRIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: GSDBTRIS
+    
+- name: "GUEVEN MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: GUMETRI1
+    
+- name: "GUNEY MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: GUMDTRI1
+    
+- name: "HABIB BANK LTD."
+  city: "ISTANBUL"
+  branch: null
+  swift: HABBTRIS
+    
+- name: "HEDEF MENKUL DE ERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: HEMDTRI1
+    
+- name: "HSBC BANK A.S."
+  city: "ISTANBUL"
+  branch: CHEQUE AND CLEARING CENTER
+  swift: HSBCTRIX002
+    
+- name: "HSBC BANK A.S."
+  city: "ISTANBUL"
+  branch: CUSTODY AND CLEARING
+  swift: HSBCTRIX113
+    
+- name: "HSBC BANK A.S."
+  city: "ISTANBUL"
+  branch: FC CUSTOMER PAYMENTS
+  swift: HSBCTRIX933
+    
+- name: "HSBC BANK A.S."
+  city: "ISTANBUL"
+  branch: FOREIGN OPERATIONS CENTER
+  swift: HSBCTRIX956
+    
+- name: "HSBC BANK A.S."
+  city: "ISTANBUL"
+  branch: INTERNATIONAL DIVISION
+  swift: HSBCTRIX001
+    
+- name: "HSBC BANK A.S."
+  city: "ISTANBUL"
+  branch: SECURITIES
+  swift: HSBCTRIXHYM
+    
+- name: "HSBC BANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: HSBCTRIX
+    
+- name: "HSBC PORTFOEY YOENETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: HSPYTRI1
+    
+- name: "HSBC YATIRIM MENKUL DEGERLER A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: HSBYTRIS
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ADANA"
+  branch: ADANA BRANCH
+  swift: ICBKTRISADN
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ANKARA"
+  branch: ANKARA BRANCH
+  swift: ICBKTRISANK
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ANKARA"
+  branch: NECATIQBEY BRANCH
+  swift: ICBKTRISNEC
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ANKARA"
+  branch: OSTIM
+  swift: ICBKTRISOST
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ANTAKYA"
+  branch: ANTAKYA
+  swift: ICBKTRISATK
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ANTALYA"
+  branch: ANTALYA BRANCH
+  swift: ICBKTRISANT
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "AYDIN"
+  branch: AYDIN
+  swift: ICBKTRISAYD
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "BALIKESIR"
+  branch: BALIKESIR
+  swift: ICBKTRISBAL
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "BURSA"
+  branch: BURSA BRANCH
+  swift: ICBKTRISBUR
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "DENIZLI"
+  branch: DENIZLI BRANCH
+  swift: ICBKTRISDNZ
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ESKISEHIR"
+  branch: ESKISEHIR BRANCH
+  swift: ICBKTRISESK
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISKENDERUN"
+  branch: ISKENDERUN
+  swift: ICBKTRISISK
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: AVCILAR BRANCH
+  swift: ICBKTRISAVC
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: BAKIRKOY
+  swift: ICBKTRISBKY
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: BAYRAMPASA BRANCH
+  swift: ICBKTRISBYP
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: BESIKTAS
+  swift: ICBKTRISBSK
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: DALYAN
+  swift: ICBKTRISDLY
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: E-5 KUCUKYALI
+  swift: ICBKTRISMTP
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: ETILER
+  swift: ICBKTRISETL
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: GUNESLI BRANCH
+  swift: ICBKTRISGUN
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: IKITELLI
+  swift: ICBKTRISIKT
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: ISTANBUL DERI S.B. BRANCH
+  swift: ICBKTRISTZL
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: KADIKOY BRANCH
+  swift: ICBKTRISKDK
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: KOZYATAGI
+  swift: ICBKTRISKZY
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: LEVENT BRANCH
+  swift: ICBKTRISLVT
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: MAIN BRANCH
+  swift: ICBKTRISMER
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: MALTEPE
+  swift: ICBKTRISMAL
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: MERTER BRANCH
+  swift: ICBKTRISBAK
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: MODA BRANCH
+  swift: ICBKTRISMOD
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: PANGALTI BRANCH
+  swift: ICBKTRISPNG
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: TAKSIM
+  swift: ICBKTRISTKM
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: TEKSTILKENT
+  swift: ICBKTRISTKS
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: TESVIKIYE BRANCH
+  swift: ICBKTRISTSV
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: UMRANIYE BRANCH
+  swift: ICBKTRISUMR
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: null
+  swift: ICBKTRIS
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "IZMIR"
+  branch: BORNOVA BRANCH
+  swift: ICBKTRISBOR
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "IZMIR"
+  branch: BOSTANLI
+  swift: ICBKTRISBST
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "IZMIR"
+  branch: IZMIR BRANCH
+  swift: ICBKTRISIZM
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "KAYSERI"
+  branch: KAYSERI BRANCH
+  swift: ICBKTRISKYS
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "KONYA"
+  branch: KONYA BRANCH
+  swift: ICBKTRISKON
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "MERSIN"
+  branch: MERSIN
+  swift: ICBKTRISMRS
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "MUGLA"
+  branch: BODRUM
+  swift: ICBKTRISBOD
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "SAMSUN"
+  branch: SAMSUN
+  swift: ICBKTRISSMS
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "TRABZON"
+  branch: TRABZON
+  swift: ICBKTRISTRB
+    
+- name: "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)"
+  city: "USAK"
+  branch: USAK
+  swift: ICBKTRISUSK
+    
+- name: "IKTISAT YATIRIM MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: IYMDTRI1
+    
+- name: "INFO MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: IMDGTRI1
+    
+- name: "INFO SECURITIES INC"
+  city: "ISTANBUL"
+  branch: null
+  swift: INSRTRI1
+    
+- name: "INFO YATIRIM A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: INYATRI1
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ADANA"
+  branch: ADANA OZEL BANKACILIK BRANCH
+  swift: INGBTRIS381
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ADANA"
+  branch: ADANA TICARI BRANCH
+  swift: INGBTRIS260
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ADANA"
+  branch: KUCUKSAAT BRANCH
+  swift: INGBTRIS205
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ADANA"
+  branch: SEYHAN BRANCH
+  swift: INGBTRIS736
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ADANA"
+  branch: TURGUT OZAL BULVARI BRANCH
+  swift: INGBTRIS446
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ADAPAZARI"
+  branch: ADAPAZARI BRANCH
+  swift: INGBTRIS169
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "AFYON"
+  branch: AFYONKARAHISAR BRANCH
+  swift: INGBTRIS181
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "AKHISAR"
+  branch: AKHISAR BRANCH
+  swift: INGBTRIS113
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "AKSARAY"
+  branch: AKSARAY BRANCH
+  swift: INGBTRIS297
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ALANYA"
+  branch: ALANYA BRANCH
+  swift: INGBTRIS146
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ALIAGA"
+  branch: ALIAGA BRANCH
+  swift: INGBTRIS313
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "AMASYA"
+  branch: AMASYA BRANCH
+  swift: INGBTRIS274
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: ANKARA CORPORATE BRANCH
+  swift: INGBTRIS213
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: ANKARA OPTIMUM
+  swift: INGBTRIS359
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: ANKARA OZEL BANKACILIK MERKEZ BRANCH
+  swift: INGBTRIS714
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: ANKARA TICARI BRANCH
+  swift: INGBTRIS212
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: BAHCELIEVLER BRANCH
+  swift: INGBTRIS190
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: CEBECI BRANCH
+  swift: INGBTRIS209
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: CETIN EMEC BRANCH
+  swift: INGBTRIS278
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: DIKMEN BRANCH
+  swift: INGBTRIS499
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: ETIMESGUT BRANCH
+  swift: INGBTRIS720
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: KAZIM KARABEKIR BRANCH
+  swift: INGBTRIS211
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: KECIOREN BRANCH
+  swift: INGBTRIS441
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: KIZILAY BRANCH
+  swift: INGBTRIS299
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: KIZILAY METRO BRANCH
+  swift: INGBTRIS340
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: KUCUKESAT BRANCH
+  swift: INGBTRIS270
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: OSTIM BRANCH
+  swift: INGBTRIS174
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: PURSAKLAR BRANCH
+  swift: INGBTRIS727
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: SASMAZ BRANCH
+  swift: INGBTRIS670
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: SITELER BRANCH
+  swift: INGBTRIS308
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: TUNALI HILMI BRANCH
+  swift: INGBTRIS207
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: TURAN GUNES BRANCH
+  swift: INGBTRIS151
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: ULUS BRANCH
+  swift: INGBTRIS246
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: UMITKOY BRANCH
+  swift: INGBTRIS315
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: YENIMAHALLE BRANCH
+  swift: INGBTRIS418
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANKARA"
+  branch: YENISEHIR BRANCH
+  swift: INGBTRIS279
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANTAKYA"
+  branch: ANTAKYA BRANCH
+  swift: INGBTRIS176
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANTALYA"
+  branch: ANTALYA AKDENIZ BRANCH
+  swift: INGBTRIS193
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANTALYA"
+  branch: ANTALYA BRANCH
+  swift: INGBTRIS286
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANTALYA"
+  branch: ANTALYA OZEL BANKACILIK MERKEZI BRANCH
+  swift: INGBTRIS690
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANTALYA"
+  branch: ANTALYA TICARI BRANCH
+  swift: INGBTRIS434
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANTALYA"
+  branch: CALLI BRANCH
+  swift: INGBTRIS479
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANTALYA"
+  branch: KONYAALTI BRANCH
+  swift: INGBTRIS653
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ANTALYA"
+  branch: LARA BRANCH
+  swift: INGBTRIS429
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "AYDIN"
+  branch: AYDIN BRANCH
+  swift: INGBTRIS114
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "AYVALIK"
+  branch: AYVALIK BRANCH
+  swift: INGBTRIS277
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BALIKESIR"
+  branch: BALIKESIR BRANCH
+  swift: INGBTRIS129
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BANDIRMA"
+  branch: BANDIRMA BRANCH
+  swift: INGBTRIS215
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BARTIN"
+  branch: BARTIN BRANCH
+  swift: INGBTRIS337
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BATMAN"
+  branch: BATMAN BRANCH
+  swift: INGBTRIS295
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BERGAMA"
+  branch: BERGAMA BRANCH
+  swift: INGBTRIS115
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BODRUM"
+  branch: BODRUM BRANCH
+  swift: INGBTRIS145
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BOLU"
+  branch: BOLU BRANCH
+  swift: INGBTRIS216
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURDUR"
+  branch: BURDUR BRANCH
+  swift: INGBTRIS298
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: BESEVLER SANAYI BRANCH
+  swift: INGBTRIS454
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: BURSA BRANCH
+  swift: INGBTRIS256
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: BURSA CALI YOLU BRANCH
+  swift: INGBTRIS733
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: BURSA CORPORATE BRANCH
+  swift: INGBTRIS724
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: BURSA KESTEL OSB BRANCH
+  swift: INGBTRIS732
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: DEMIRTAS ORGANIZE SANAYI BRANCH
+  swift: INGBTRIS660
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: GEMLIK BRANCH
+  swift: INGBTRIS685
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: HEYKEL BRANCH
+  swift: INGBTRIS217
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: INEGOL BRANCH
+  swift: INGBTRIS666
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: NILUFER BRANCH
+  swift: INGBTRIS651
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: OZLUCE BRANCH
+  swift: INGBTRIS686
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "BURSA"
+  branch: YILDIRIM BRANCH
+  swift: INGBTRIS450
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "CANAKKALE"
+  branch: CANAKKALE BRANCH
+  swift: INGBTRIS281
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "CESME"
+  branch: ALACATI BRANCH
+  swift: INGBTRIS305
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "CESME"
+  branch: CESME BRANCH
+  swift: INGBTRIS128
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "CIZRE"
+  branch: CIZRE BRANCH
+  swift: INGBTRIS314
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "CORLU"
+  branch: CORLU BRANCH
+  swift: INGBTRIS156
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "CORUM"
+  branch: CORUM BRANCH
+  swift: INGBTRIS179
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "DENIZLI"
+  branch: BAYRAMYERI BRANCH
+  swift: INGBTRIS681
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "DENIZLI"
+  branch: DENIZLI BRANCH
+  swift: INGBTRIS116
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "DIYARBAKIR"
+  branch: DICLEKENT BRANCH
+  swift: INGBTRIS431
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "DIYARBAKIR"
+  branch: DIYARBAKIR BRANCH
+  swift: INGBTRIS194
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "DIYARBAKIR"
+  branch: KAYAPINAR BRANCH
+  swift: INGBTRIS778
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "DUZCE"
+  branch: DUZCE BRANCH
+  swift: INGBTRIS282
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "EDIRNE"
+  branch: EDIRNE BRANCH
+  swift: INGBTRIS218
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ELAZIG"
+  branch: ELAZIG BRANCH
+  swift: INGBTRIS219
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ERZINCAN"
+  branch: ERZINCAN BRANCH
+  swift: INGBTRIS220
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ERZURUM"
+  branch: ERZURUM BRANCH
+  swift: INGBTRIS290
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ESKISEHIR"
+  branch: ESKISEHIR BRANCH
+  swift: INGBTRIS138
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ESKISEHIR"
+  branch: ESKISEHIR ORGANIZE SANAYI BRANCH
+  swift: INGBTRIS440
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ESKISEHIR"
+  branch: KOPRUBASI BRANCH
+  swift: INGBTRIS726
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "FETHIYE"
+  branch: FETHIYE BRANCH
+  swift: INGBTRIS117
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "GAZIANTEP"
+  branch: GATEM BRANCH
+  swift: INGBTRIS652
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "GAZIANTEP"
+  branch: GAZIANTEP BRANCH
+  swift: INGBTRIS188
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "GAZIANTEP"
+  branch: GAZIANTEP TICARI BRANCH
+  swift: INGBTRIS721
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "GAZIANTEP"
+  branch: SIREHAN BRANCH
+  swift: INGBTRIS377
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "GAZIANTEP"
+  branch: SUBURCU BRANCH
+  swift: INGBTRIS135
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "GEBZE"
+  branch: GEBZE BRANCH
+  swift: INGBTRIS164
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "GIRESUN"
+  branch: GIRESUN BRANCH
+  swift: INGBTRIS275
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "GOLCUK"
+  branch: GOLCUK BRANCH
+  swift: INGBTRIS331
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISKENDERUN"
+  branch: ISKENDERUN BRANCH
+  swift: INGBTRIS133
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISPARTA"
+  branch: ISPARTA BRANCH
+  swift: INGBTRIS152
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: 4. LEVENT BRANCH
+  swift: INGBTRIS199
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ACIBADEM BRANCH
+  swift: INGBTRIS398
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: AKSARAY BRANCH
+  swift: INGBTRIS249
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ALEMDAG CADDESI BRANCH
+  swift: INGBTRIS475
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ANADOLU YAKASI CORPORATE BRANCH
+  swift: INGBTRIS264
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ARNAVUTKOY BRANCH
+  swift: INGBTRIS710
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ATASEHIR BRANCH
+  swift: INGBTRIS657
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ATATURK CADDESI BRANCH
+  swift: INGBTRIS183
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: AVCILAR CARSI BRANCH
+  swift: INGBTRIS237
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BAGCILAR BRANCH
+  swift: INGBTRIS222
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BAGDAT CADDESI OZEL BANKACILIK CENTRAL BRANCH
+  swift: INGBTRIS713
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BAHCEKAPI BRANCH
+  swift: INGBTRIS195
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BAHCELIEVLER ISTANBUL BRANCH
+  swift: INGBTRIS250
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BAHCESEHIR BRANCH
+  swift: INGBTRIS445
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BAKIRKOY BRANCH
+  swift: INGBTRIS106
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BAKIRKOY INCIRLI BRANCH
+  swift: INGBTRIS716
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BAYRAMPASA BRANCH
+  swift: INGBTRIS255
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BEBEK BRANCH
+  swift: INGBTRIS184
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BESIKTAS BRANCH
+  swift: INGBTRIS196
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BESYUZEVLER BRANCH
+  swift: INGBTRIS458
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BEYAZIT BRANCH
+  swift: INGBTRIS307
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BEYKENT BRANCH
+  swift: INGBTRIS731
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BEYLIKDUZU BRANCH
+  swift: INGBTRIS658
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BEYLIKDUZU TICARI BRANCH
+  swift: INGBTRIS161
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: BUYUKCEKMECE BRANCH
+  swift: INGBTRIS224
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: CADDEBOSTAN BRANCH
+  swift: INGBTRIS147
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: CAGLAYAN BRANCH
+  swift: INGBTRIS265
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: CEKMEKOY BRANCH
+  swift: INGBTRIS718
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: DUDULLU BRANCH
+  swift: INGBTRIS366
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ESENLER BRANCH
+  swift: INGBTRIS730
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ESENYURT BRANCH
+  swift: INGBTRIS200
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: FATIH BRANCH
+  swift: INGBTRIS227
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: FLORYA BRANCH
+  swift: INGBTRIS228
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: GAZIOSMANPASA BRANCH
+  swift: INGBTRIS192
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: GOKTURK BRANCH
+  swift: INGBTRIS323
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: GOZTEPE-ISTANBUL
+  swift: INGBTRIS395
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: GULTEPE BRANCH
+  swift: INGBTRIS451
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: GUNESLI BRANCH
+  swift: INGBTRIS263
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: HADIMKOY YOLU CADDESI BRANCH
+  swift: INGBTRIS229
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: HALKALI BRANCH
+  swift: INGBTRIS782
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: HEAD OFFICE
+  swift: INGBTRIS
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: I.A.H.L. FREE ZONE BRANCH
+  swift: INGBTRIS504
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: IKITELLI BRANCH
+  swift: INGBTRIS328
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: IMES BRANCH
+  swift: INGBTRIS433
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: IMES TICARI BRANCH
+  swift: INGBTRIS225
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ISTANBUL ANADOLU TICARI BRANCH
+  swift: INGBTRIS221
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ISTANBUL AVRUPA TICARI BRANCH
+  swift: INGBTRIS142
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ISTOC BRANCH
+  swift: INGBTRIS457
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: KADIKOY ISKELE BRANCH
+  swift: INGBTRIS230
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: KALAMIS BRANCH
+  swift: INGBTRIS191
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: KARTAL BANCH
+  swift: INGBTRIS177
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: KAVACIK BRANCH
+  swift: INGBTRIS442
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: KAZASKER BRANCH
+  swift: INGBTRIS198
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: KUCUKBAKKALKOY BRANCH 
+  swift: INGBTRIS676
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: KUCUKYALI BRANCH
+  swift: INGBTRIS472
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: KURTKOY BRANCH
+  swift: INGBTRIS496
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: LEVENT BRANCH
+  swift: INGBTRIS178
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: MAIN BRANCH
+  swift: INGBTRIS247
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: MALTEPE BRANCH
+  swift: INGBTRIS159
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: MASLAK BRANCH
+  swift: INGBTRIS779
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: MASLAK OZEL BANKACILIK CENTRAL BRANCH
+  swift: INGBTRIS719
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: MASLAK TICARI BRANCH
+  swift: INGBTRIS455
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: MECIDIYEKOY BRANCH
+  swift: INGBTRIS107
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: MEGA CENTER BRANCH
+  swift: INGBTRIS487
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: MERTER BRANCH
+  swift: INGBTRIS235
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: NISANTASI BRANCH
+  swift: INGBTRIS186
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: PENDIK BRANCH
+  swift: INGBTRIS234
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: SANCAKTEPE BRANCH
+  swift: INGBTRIS780
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: SARIYER BRANCH
+  swift: INGBTRIS680
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: SEFAKOY BRANCH
+  swift: INGBTRIS443
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: SILIVRI BRANCH
+  swift: INGBTRIS494
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: SISLI BRANCH
+  swift: INGBTRIS202
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: SOGANLIK BRANCH
+  swift: INGBTRIS396
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: SULTANBEYLI BRANCH
+  swift: INGBTRIS484
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: SULTANGAZI BRANCH
+  swift: INGBTRIS725
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: TAKSIM BRANCH
+  swift: INGBTRIS223
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: TOPCULAR BRANCH
+  swift: INGBTRIS160
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: TOPKAPI TICARI BRANCH
+  swift: INGBTRIS143
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: TREASURY OPERATIONS
+  swift: INGBTRIS005
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: TUMSAN SANAYI SITESI BRANCH
+  swift: INGBTRIS449
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: TUZLA ICMELER
+  swift: INGBTRIS696
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: UMRANIYE BRANCH
+  swift: INGBTRIS158
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: USKUDAR BRANCH
+  swift: INGBTRIS266
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: YENIBOSNA TICARI BRANCH
+  swift: INGBTRIS335
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: YILDIZPOSTA BRANCH
+  swift: INGBTRIS253
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ISTANBUL"
+  branch: ZEYTINBURNU BRANCH
+  swift: INGBTRIS203
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: ATATURK ORGANIZE SANAYI BRANCH
+  swift: INGBTRIS267
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: BORNOVA BRANCH
+  swift: INGBTRIS154
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: BOSTANLI BRANCH
+  swift: INGBTRIS153
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: CAMDIBI BRANCH
+  swift: INGBTRIS170
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: GAZIEMIR BRANCH
+  swift: INGBTRIS650
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: GIDA CARSISI BRANCH
+  swift: INGBTRIS109
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: HATAY/IZMIR BRANCH
+  swift: INGBTRIS102
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: IZMIR BRANCH
+  swift: INGBTRIS262
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: IZMIR OZEL BANKACILIK MERKEZ BRANCH
+  swift: INGBTRIS482
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: IZMIR TICARI BRANCH
+  swift: INGBTRIS439
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: KARABAGLAR BRANCH
+  swift: INGBTRIS268
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: KARSIYAKA BRANCH
+  swift: INGBTRIS103
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: KARSIYAKA CARSI BRANCH
+  swift: INGBTRIS306
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: KEMALPASA BRANCH
+  swift: INGBTRIS438
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: SIRINYER BRANCH
+  swift: INGBTRIS483
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: UCKUYULAR BRANCH
+  swift: INGBTRIS172
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIR"
+  branch: YENIGUN BRANCH
+  swift: INGBTRIS240
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIT"
+  branch: IZMIT BRANCH
+  swift: INGBTRIS257
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIT"
+  branch: IZMIT HURRIYET CADDESI BRANCH
+  swift: INGBTRIS687
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "IZMIT"
+  branch: KOCAELI BRANCH
+  swift: INGBTRIS656
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KAHRAMANMARAS"
+  branch: KAHRAMANMARAS BRANCH
+  swift: INGBTRIS175
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KARABUK"
+  branch: KARABUK BRANCH
+  swift: INGBTRIS241
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KARADENIZ EREGLI"
+  branch: KARADENIZ EREGLI BRANCH
+  swift: INGBTRIS327
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KARAMAN"
+  branch: KARAMAN BRANCH
+  swift: INGBTRIS287
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KARS"
+  branch: KARS BRANCH
+  swift: INGBTRIS293
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KASTAMONU"
+  branch: KASTAMONU BRANCH
+  swift: INGBTRIS280
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KAYSERI"
+  branch: KAYSERI BRANCH
+  swift: INGBTRIS136
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KAYSERI"
+  branch: KAYSERI SIVAS CADDESI BRANCH
+  swift: INGBTRIS654
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KAYSERI"
+  branch: YENI SANAYI BRANCH
+  swift: INGBTRIS410
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KESAN"
+  branch: KESAN BRANCH
+  swift: INGBTRIS312
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KIRIKKALE"
+  branch: KIRIKKALE BRANCH
+  swift: INGBTRIS289
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KIRKLARELI"
+  branch: KIRKLARELI BRANCH
+  swift: INGBTRIS273
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KIRSEHIR"
+  branch: KIRSEHIR BRANCH
+  swift: INGBTRIS283
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KOCAELI"
+  branch: GEBZE CORPORATE BRANCH
+  swift: INGBTRIS373
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KOCAELI"
+  branch: IBRAHIMAGA CADDESI BRANCH
+  swift: INGBTRIS729
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KONYA"
+  branch: KONYA BRANCH
+  swift: INGBTRIS137
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KONYA"
+  branch: KONYA BUSAN SANAYI BRANCH
+  swift: INGBTRIS667
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KONYA"
+  branch: KONYA TICARI BRANCH
+  swift: INGBTRIS668
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KUSADASI"
+  branch: KUSADASI BRANCH
+  swift: INGBTRIS149
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "KUTAHYA"
+  branch: KUTAHYA BRANCH
+  swift: INGBTRIS288
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "LULEBURGAZ"
+  branch: LULEBURGAZ BRANCH
+  swift: INGBTRIS370
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MALATYA"
+  branch: MALATYA BRANCH
+  swift: INGBTRIS112
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MALATYA"
+  branch: MALATYA CEVREYOLU BRANCH
+  swift: INGBTRIS735
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MANAVGAT"
+  branch: MANAVGAT BRANCH
+  swift: INGBTRIS296
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MANISA"
+  branch: MANISA BRANCH
+  swift: INGBTRIS118
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MANISA"
+  branch: MANISA SANAYI BRANCH
+  swift: INGBTRIS390
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MANISA"
+  branch: TURGUTLU BRANCH
+  swift: INGBTRIS673
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MARDIN"
+  branch: MARDIN BRANCH
+  swift: INGBTRIS320
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MARMARIS"
+  branch: MARMARIS BRANCH
+  swift: INGBTRIS157
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MERSIN"
+  branch: MERSIN BRANCH
+  swift: INGBTRIS134
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MERSIN"
+  branch: METROPOL BRANCH
+  swift: INGBTRIS436
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MERSIN"
+  branch: MEZITLI BRANCH
+  swift: INGBTRIS677
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MERSIN"
+  branch: POZCU BRANCH
+  swift: INGBTRIS500
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "MUGLA"
+  branch: MUGLA BRANCH
+  swift: INGBTRIS120
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "NAZILLI"
+  branch: NAZILLI BRANCH
+  swift: INGBTRIS121
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "NEVSEHIR"
+  branch: NEVSEHIR BRANCH
+  swift: INGBTRIS292
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "NIGDE"
+  branch: NIGDE BRANCH
+  swift: INGBTRIS284
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ODEMIS"
+  branch: ODEMIS BRANCH
+  swift: INGBTRIS122
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ORDU"
+  branch: ORDU BRANCH
+  swift: INGBTRIS243
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "OSMANIYE"
+  branch: OSMANIYE BRANCH
+  swift: INGBTRIS272
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "POLATLI"
+  branch: POLATLI BRANCH
+  swift: INGBTRIS271
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "RIZE"
+  branch: RIZE BRANCH
+  swift: INGBTRIS244
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SALIHLI"
+  branch: SALIHLI BRANCH
+  swift: INGBTRIS123
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SAMSUN"
+  branch: ATAKUM BRANCH
+  swift: INGBTRIS781
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SAMSUN"
+  branch: CIFTLIK BRANCH
+  swift: INGBTRIS490
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SAMSUN"
+  branch: GULSAN BRANCH
+  swift: INGBTRIS734
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SAMSUN"
+  branch: SAMSUN BRANCH
+  swift: INGBTRIS139
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SANLIURFA"
+  branch: SANLIURFA BRANCH
+  swift: INGBTRIS180
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SIIRT"
+  branch: SIIRT BRANCH
+  swift: INGBTRIS353
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SINCAN"
+  branch: SINCAN BRANCH
+  swift: INGBTRIS448
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SIVAS"
+  branch: SIVAS BRANCH
+  swift: INGBTRIS245
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SOKE"
+  branch: SOKE BRANCH
+  swift: INGBTRIS276
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "SOMA"
+  branch: SOMA BRANCH
+  swift: INGBTRIS124
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "TARSUS"
+  branch: TARSUS BRANCH
+  swift: INGBTRIS242
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "TAVSANLI"
+  branch: TAVSANLI BRANCH
+  swift: INGBTRIS309
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "TEKIRDAG"
+  branch: CERKEZKOY BRANCH
+  swift: INGBTRIS489
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "TEKIRDAG"
+  branch: TEKIRDAG BRANCH
+  swift: INGBTRIS248
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "TOKAT"
+  branch: TOKAT BRANCH
+  swift: INGBTRIS285
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "TRABZON"
+  branch: TRABZON BRANCH
+  swift: INGBTRIS173
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "TRABZON"
+  branch: TRABZON DEGIRMENDERE BRANCH
+  swift: INGBTRIS689
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "URLA"
+  branch: URLA BRANCH
+  swift: INGBTRIS126
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "USAK"
+  branch: USAK BRANCH
+  swift: INGBTRIS127
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "VAN"
+  branch: VAN BRANCH
+  swift: INGBTRIS291
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "YALOVA"
+  branch: YALOVA BRANCH
+  swift: INGBTRIS324
+    
+- name: "ING BANK A.S. (FORMERLY OYAK BANK A.S.)"
+  city: "ZONGULDAK"
+  branch: ZONGULDAK BRANCH
+  swift: INGBTRIS182
+    
+- name: "ING MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ABMDTRI1
+    
+- name: "INTESA SANPAOLO ISTANBUL BRANCH"
+  city: "ISTANBUL"
+  branch: null
+  swift: BCITTRIS
+    
+- name: "IS INVESTMENT"
+  city: "ISTANBUL"
+  branch: null
+  swift: IVSMTRI1
+    
+- name: "IS PORTFOEY YOENETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: POYETRI1
+    
+- name: "IS YATIRIM MENKUL DEGERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: ISISTRIS
+    
+- name: "IS YATIRIM ORTAKLI I A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: YAORTRI1
+    
+- name: "ISIKLAR MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ISMDTRI1
+    
+- name: "ISTANBUL MENKUL KIYMETLER BORSASI"
+  city: "ISTANBUL"
+  branch: null
+  swift: XISTTRI1
+    
+- name: "ISTANBUL TAKAS VE SAKLAMA BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TVSBTRIS
+    
+- name: "JPMORGAN CHASE BANK, N.A., ISTANBUL BRANCH"
+  city: "ISTANBUL"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASTRISENQ
+    
+- name: "JPMORGAN CHASE BANK, N.A., ISTANBUL BRANCH"
+  city: "ISTANBUL"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASTRISKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., ISTANBUL BRANCH"
+  city: "ISTANBUL"
+  branch: null
+  swift: CHASTRIS
+    
+- name: "KAPITAL MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: KMDGTRI1
+    
+- name: "KARON MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: KAMDTRI1
+    
+- name: "KIBRIS KREDI BANKASI LTD."
+  city: "ISTANBUL"
+  branch: null
+  swift: KKIBTRI1
+    
+- name: "KOC ALLIANZ HAYAT VE EMEKLILIK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: KAHETRI1
+    
+- name: "KOC FINANSAL KIRALAMA ANONIM SIRKETI"
+  city: "ISTANBUL"
+  branch: null
+  swift: KFIKTRI1
+    
+- name: "KOC PORTFOY YONETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: KOPYTRI1
+    
+- name: "KOC YATIRIM MENKUL DE ERLER A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: KOMDTRI1
+    
+- name: "KORFEZ YATIRIM MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: KYMDTRI1
+    
+- name: "KUVEYT TURK KATILIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: KTEFTRIS
+    
+- name: "MED MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: MEMDTRI1
+    
+- name: "MEKSA MENKUL DE ERLER TICARET AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: MEMETRI1
+    
+- name: "MENKA MENKUL DE ERLER TICARETI AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: MEMGTRI1
+    
+- name: "MERKEZ MENKUL DE ERLER AS"
+  city: "ANKARA"
+  branch: null
+  swift: MEMLTR21
+    
+- name: "MERKEZI HOLLANDA TURKIYE ISTANBUL SUBESI"
+  city: "ISTANBUL"
+  branch: null
+  swift: BATSTR31
+    
+- name: "MERKEZI KAYIT KURULUSU A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: MKKCTRIS
+    
+- name: "MERRILL LYNCH YATIRIM BANK AS"
+  city: "ISTANBUL"
+  branch: MLYB
+  swift: MEYYTRISMLB
+    
+- name: "MERRILL LYNCH YATIRIM BANK AS"
+  city: "ISTANBUL"
+  branch: TREASURY
+  swift: MEYYTRISIST
+    
+- name: "MERRILL LYNCH YATIRIM BANK AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: MEYYTRIS
+    
+- name: "MERRILL LYNCH YATIRIM BANK AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: MEYYTRISMMD
+    
+- name: "MERT MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: MEMRTRI1
+    
+- name: "MOBIS AUTOMOTIVE AND MODULE INDUSTRY A.S"
+  city: "IZMIT"
+  branch: null
+  swift: HYMOTR21
+    
+- name: "MONDIAL PRIVATE BANK"
+  city: "MERSIN"
+  branch: null
+  swift: MORETR21
+    
+- name: "MORGAN STANLEY MENKUL DEGERLER ANONIM SIRKETI"
+  city: "ISTANBUL"
+  branch: null
+  swift: MSMDTRIS
+    
+- name: "MURAD KURAN MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: MKMDTRI1
+    
+- name: "MUSTAFA YILMAZ MENKUL DE ERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: MYMDTRI1
+    
+- name: "NUROL INVESTMENT BANK INC. (NUROL YATIRIM BANKASI A.S.)"
+  city: "ISTANBUL"
+  branch: null
+  swift: NUROTRIS
+    
+- name: "NUROL MENKUL KIYMETLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: NMKYTRI1
+    
+- name: "ODEABANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ODEATRIS
+    
+- name: "OENCEKI ISMI STOK MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TMDGTRI1
+    
+- name: "OENCUE MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ONMDTRI1
+    
+- name: "OENER MENKUL DE ERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: ONMGTRI1
+    
+- name: "ONDER MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: ONMETRI1
+    
+- name: "OYAK MENKUL DEGERELER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: OYMDTRI1
+    
+- name: "OYAK YATIRIM YATIRIM MENKUL DEG. A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: OYYMTRI1
+    
+- name: "PARK YATIRIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: PAYATRI1
+    
+- name: "PARK-RAYMOND JAMES SECURITIES"
+  city: "ISTANBUL"
+  branch: null
+  swift: PRJSTRI1
+    
+- name: "PASHA YATIRIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: PAHATRIS
+    
+- name: "PAY MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: PAMDTRI1
+    
+- name: "PHILLIPCAPITAL MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: HAMDTRI1
+    
+- name: "PIRAMIT MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: PIMDTRI1
+    
+- name: "POLEN MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: POMDTRI1
+    
+- name: "PRIM MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: PRMDTRI1
+    
+- name: "RABOBANK ANONIM SIRKETI"
+  city: "ISTANBUL"
+  branch: null
+  swift: RABOTRIS
+    
+- name: "RAHIM INTERNATIONAL BANK"
+  city: "MERSIN"
+  branch: null
+  swift: RAITTR21
+    
+- name: "ROZAK DEMIR PROFIL TICARET VE SANAYI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: RDPTTRI1
+    
+- name: "SALAHSUN HEKIMOGLU MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: SHMDTRI1
+    
+- name: "SAMSUNG ELECTRONICS ISTANBUL MARKETING AND TRADING LTD COMPANY"
+  city: "ISTANBUL"
+  branch: null
+  swift: SECTTRI1
+    
+- name: "SAMSUNG ELECTRONICS ISTANBUL MARKETING AND TRADING LTD COMPANY"
+  city: "ISTANBUL"
+  branch: null
+  swift: SECTTRI1750
+    
+- name: "SAN MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: SAMDTRI1
+    
+- name: "SAYILGAN MENKUL DE ERLER TICARETI AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: SAMGTRI1
+    
+- name: "SEKER YATIRIM MENKUL DE ERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: SYMDTRI1
+    
+- name: "SEKERBANK T.A.S."
+  city: "ADANA"
+  branch: null
+  swift: SEKETR21022
+    
+- name: "SEKERBANK T.A.S."
+  city: "BURSA"
+  branch: null
+  swift: SEKETR2102B
+    
+- name: "SEKERBANK T.A.S."
+  city: "DENIZLI"
+  branch: null
+  swift: SEKETR2102D
+    
+- name: "SEKERBANK T.A.S."
+  city: "ISTANBUL"
+  branch: ATATURK HAVA LIMANI BRANCH
+  swift: SEKETR2AAHL
+    
+- name: "SEKERBANK T.A.S."
+  city: "ISTANBUL"
+  branch: ISTANBUL
+  swift: SEKETR2AAIS
+    
+- name: "SEKERBANK T.A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: SEKETR2A
+    
+- name: "SEKERBANK T.A.S."
+  city: "KAYSERI"
+  branch: SERBEST BOLGE
+  swift: SEKETR2AKSB
+    
+- name: "SEKERBANK T.A.S."
+  city: "MERSIN"
+  branch: null
+  swift: SEKETR2102M
+    
+- name: "SETATBORSA MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: SEMDTRI1
+    
+- name: "SHELL"
+  city: "IZMIR"
+  branch: null
+  swift: HHELTR21
+    
+- name: "SINAI YATIRIM VE KREDI BANKASI A.O."
+  city: "ISTANBUL"
+  branch: null
+  swift: SYKBTRI1
+    
+- name: "SOCIETE GENERALE"
+  city: "ISTANBUL"
+  branch: null
+  swift: SOGETRIS
+    
+- name: "STANDARD CHARTERED YATIRIM BANKASI TURK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: SCBLTRIS
+    
+- name: "STOK MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: STMDTRI1
+    
+- name: "STRATEJI MENKUL DE ERLER A. S"
+  city: "ISTANBUL"
+  branch: null
+  swift: STSETRI1
+    
+- name: "STRATEJI MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: STMETRI1
+    
+- name: "T.GARANTI BANKASI A.S.(PORTFOY SAKLAMA)"
+  city: "ISTANBUL"
+  branch: null
+  swift: TGASTRI1
+    
+- name: "TACIRLER MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TAMRTRI1
+    
+- name: "TAIB YATIRIM MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TYMDTRI1
+    
+- name: "TAKSIM MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TAMDTRI1
+    
+- name: "TAN MENKUL DE ERLER TICARETI"
+  city: "ISTANBUL"
+  branch: null
+  swift: TAMETRI1
+    
+- name: "TEB PORTFOEY YOENETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TEPYTRI1
+    
+- name: "TEB YATIRIM MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TYMETRI1
+    
+- name: "TEKFEN MENKUL KIYMETLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TEMKTRI1
+    
+- name: "TEKTAS MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: TAMGTRI1
+    
+- name: "TOROS MENKUL DE ERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: TOMDTRI1
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: ADANA ATIKOP BRANCH
+  swift: TEBUTRIS535
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: ADANA BRANCH
+  swift: TEBUTRIS026
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: ADANA CARSI BRANCH
+  swift: TEBUTRIS445
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: ADANA CUKUROVA BRANCH
+  swift: TEBUTRIS524
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: ADANA MOBILYACILAR BRANCH
+  swift: TEBUTRIS269
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: ADANA TOROS BRANCH
+  swift: TEBUTRIS446
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: ATATURK CADDESI ADANA BRANCH
+  swift: TEBUTRIS117
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: BARKAL BRANCH
+  swift: TEBUTRIS164
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: CEYHAN BRANCH
+  swift: TEBUTRIS656
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: CUKUROVA KURUMSAL BRANCH
+  swift: TEBUTRIS359
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: SARICAM BRANCH
+  swift: TEBUTRIS312
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: SAYDAM CADDESI BRANCH
+  swift: TEBUTRIS206
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: YENI ADANA BRANCH
+  swift: TEBUTRIS573
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADANA"
+  branch: YUREGIR BRANCH
+  swift: TEBUTRIS156
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ADIYAMAN"
+  branch: ADIYAMAN BRANCH
+  swift: TEBUTRIS281
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AFYON"
+  branch: AFYON BRANCH
+  swift: TEBUTRIS116
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AFYON"
+  branch: AFYON KADINANA BRANCH
+  swift: TEBUTRIS510
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AFYON"
+  branch: EMIRDAG BRANCH
+  swift: TEBUTRIS755
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AKSARAY"
+  branch: AKSARAY BRANCH
+  swift: TEBUTRIS354
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ALANYA"
+  branch: ALANYA BRANCH
+  swift: TEBUTRIS108
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AMASYA"
+  branch: AMASYA BRANCH
+  swift: TEBUTRIS687
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AMASYA"
+  branch: MERZIFON BRANCH
+  swift: TEBUTRIS323
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: ANKARA 4. KOLORDU BRANCH
+  swift: TEBUTRIS285
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: ANKARA BRANCH
+  swift: TEBUTRIS006
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: ANKARA MALTEPE BRANCH
+  swift: TEBUTRIS616
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: ANKARA OSTIM BRANCH
+  swift: TEBUTRIS453
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: BALGAT BRANCH
+  swift: TEBUTRIS150
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: BASKENT KURUMSAL BRANCH
+  swift: TEBUTRIS456
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: CANKAYA ANKARA BRANCH
+  swift: TEBUTRIS382
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: CETIN EMEC BRANCH
+  swift: TEBUTRIS342
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: CUBUK BRANCH
+  swift: TEBUTRIS761
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: CUKURAMBAR BRANCH
+  swift: TEBUTRIS517
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: DEMETEVLER BRANCH
+  swift: TEBUTRIS670
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: DIKMEN BRANCH
+  swift: TEBUTRIS627
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: ETIMESGUT  BRANCH
+  swift: TEBUTRIS252
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: GAZIOSMANPASA ANKARA BRANCH
+  swift: TEBUTRIS101
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: GIMAT BRANCH
+  swift: TEBUTRIS230
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: IKINCISITE BRANCH
+  swift: TEBUTRIS474
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: IVEDIK BRANCH
+  swift: TEBUTRIS167
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: IVEDIK ORGANIZE BRANCH
+  swift: TEBUTRIS548
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: KAZIM KARABEKIR BRANCH
+  swift: TEBUTRIS309
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: KECIOREN BRANCH
+  swift: TEBUTRIS308
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: KIZILAY BRANCH
+  swift: TEBUTRIS138
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: MESRUTIYET CADDESI  BRANCH
+  swift: TEBUTRIS105
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: MITHATPASA BRANCH
+  swift: TEBUTRIS344
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: MUSTAFA KEMAL BRANCH
+  swift: TEBUTRIS426
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: NATO YOLU BRANCH
+  swift: TEBUTRIS716
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: NECATIBEY BRANCH
+  swift: TEBUTRIS136
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: ORTA ANADOLU KURUMSAL BRANCH
+  swift: TEBUTRIS057
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: OSTIM BRANCH
+  swift: TEBUTRIS124
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: POLATLI BRANCH
+  swift: TEBUTRIS657
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: POLATLI TOPCU VE FUZE OKULU KOMUTANLIGI BRANCH
+  swift: TEBUTRIS701
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: SASMAZ BRANCH
+  swift: TEBUTRIS239
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: SINCAN BRANCH
+  swift: TEBUTRIS191
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: SITELER BRANCH
+  swift: TEBUTRIS141
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: SOGUTOZU BRANCH
+  swift: TEBUTRIS682
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: TUNALI HILMI BRANCH
+  swift: TEBUTRIS311
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: ULUCANLAR BRANCH
+  swift: TEBUTRIS499
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: ULUS ANKARA BRANCH
+  swift: TEBUTRIS034
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: UMITKOY BRANCH
+  swift: TEBUTRIS226
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANKARA"
+  branch: YILDIZ BRANCH
+  swift: TEBUTRIS163
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTAKYA"
+  branch: ANTAKYA BRANCH
+  swift: TEBUTRIS073
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: AKDENIZ SANAYI BRANCH
+  swift: TEBUTRIS204
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: AKDENIZ UNIVERSITESI BRANCH
+  swift: TEBUTRIS732
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: ALANYA MAHMUTLAR BRANCH
+  swift: TEBUTRIS173
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: ALANYA SANAYI BRANCH
+  swift: TEBUTRIS604
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: ANTALYA BRANCH
+  swift: TEBUTRIS025
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: ANTALYA ETILER BRANCH
+  swift: TEBUTRIS188
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: ANTALYA MURATPASA BRANCH
+  swift: TEBUTRIS387
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: ANTALYA SANAYI BRANCH
+  swift: TEBUTRIS560
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: ANTALYA TOPTANCI HALI BRANCH
+  swift: TEBUTRIS318
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: ASPENDOS KURUMSAL BRANCH
+  swift: TEBUTRIS282
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: FENER BRANCH
+  swift: TEBUTRIS293
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: GULLUK BRANCH
+  swift: TEBUTRIS256
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: KALKAN BRANCH
+  swift: TEBUTRIS744
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: KEMER BRANCH
+  swift: TEBUTRIS174
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: KEPEZ BRANCH
+  swift: TEBUTRIS704
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: KONYAALTI BRANCH 
+  swift: TEBUTRIS172
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: KUMLUCA BRANCH
+  swift: TEBUTRIS331
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: LARA BRANCH
+  swift: TEBUTRIS115
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: MANAVGAT BRANCH
+  swift: TEBUTRIS107
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: MANAVGAT CARSI BRANCH
+  swift: TEBUTRIS478
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: SERIK BRANCH
+  swift: TEBUTRIS330
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: SIRINYALI BRANCH
+  swift: TEBUTRIS462
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: UNCALI BRANCH
+  swift: TEBUTRIS275
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ANTALYA"
+  branch: YENIKOY ANTALYA BRANCH
+  swift: TEBUTRIS353
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ARTVIN"
+  branch: HOPA BRANCH
+  swift: TEBUTRIS290
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AYDIN"
+  branch:  DIDIM BRANCH
+  swift: TEBUTRIS154
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AYDIN"
+  branch: AYDIN BRANCH
+  swift: TEBUTRIS075
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AYDIN"
+  branch: AYDIN CARSI BRANCH
+  swift: TEBUTRIS512
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AYDIN"
+  branch: CINE BRANCH
+  swift: TEBUTRIS735
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AYDIN"
+  branch: KUSADASI BRANCH
+  swift: TEBUTRIS477
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AYDIN"
+  branch: NAZILLI BRANCH
+  swift: TEBUTRIS321
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "AYDIN"
+  branch: SOKE BRANCH
+  swift: TEBUTRIS659
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BALIKESIR"
+  branch: AYVALIK BRANCH
+  swift: TEBUTRIS714
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BALIKESIR"
+  branch: BALIKESIR BRANCH
+  swift: TEBUTRIS077
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BALIKESIR"
+  branch: BALIKESIR CARSI BRANCH
+  swift: TEBUTRIS498
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BALIKESIR"
+  branch: BANDIRMA BRANCH
+  swift: TEBUTRIS351
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BALIKESIR"
+  branch: EDREMIT BRANCH
+  swift: TEBUTRIS190
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BALIKESIR"
+  branch: GONEN BRANCH
+  swift: TEBUTRIS660
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BARTIN"
+  branch: BARTIN BRANCH
+  swift: TEBUTRIS677
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BATMAN"
+  branch: BATMAN BRANCH
+  swift: TEBUTRIS328
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BILECIK"
+  branch: BOZUYUK BRANCH
+  swift: TEBUTRIS686
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BITLIS"
+  branch: TATVAN BRANCH
+  swift: TEBUTRIS681
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BOLU"
+  branch: BOLU BRANCH
+  swift: TEBUTRIS142
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURDUR"
+  branch: BUCAK BRANCH
+  swift: TEBUTRIS347
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURDUR"
+  branch: BURDUR BRANCH
+  swift: TEBUTRIS273
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: ALTIPARMAK BRANCH
+  swift: TEBUTRIS363
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: BESEVLER SANAYI BRANCH
+  swift: TEBUTRIS120
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: BURSA ATATURK CADDESI BRANCH
+  swift: TEBUTRIS532
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: BURSA BRANCH
+  swift: TEBUTRIS017
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: BURSA CEKIRGE BRANCH
+  swift: TEBUTRIS465
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: BURSA CUMHURIYET CADDESI BRANCH
+  swift: TEBUTRIS587
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: BURSA ORGANIZE SANAYI BRANCH
+  swift: TEBUTRIS384
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: BURSA OTOSANAYI SITESI BRANCH
+  swift: TEBUTRIS272
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: BURSA SERBEST BOLGE BRANCH
+  swift: TEBUTRIS065
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: BURSA YENISEHIR SUBESI
+  swift: TEBUTRIS726
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: DEMIRTAS BRANCH
+  swift: TEBUTRIS298
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: DEMIRTAS ORGANIZE SANAYI BRANCH
+  swift: TEBUTRIS457
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: GARAJLAR BRANCH
+  swift: TEBUTRIS165
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: GAZCILAR BRANCH
+  swift: TEBUTRIS162
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: GEMLIK BRANCH
+  swift: TEBUTRIS193
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: HEYKEL BRANCH
+  swift: TEBUTRIS151
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: HURRIYET BRANCH
+  swift: TEBUTRIS297
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: INEGOL BRANCH 
+  swift: TEBUTRIS266
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: KARACABEY BRANCH
+  swift: TEBUTRIS291
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: KESTEL BRANCH
+  swift: TEBUTRIS315
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: MARMARA KURUMSAL BRANCH
+  swift: TEBUTRIS058
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: NILUFER BRANCH
+  swift: TEBUTRIS103
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: ORHANGAZI BRANCH
+  swift: TEBUTRIS369
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: OZLUCE BRANCH
+  swift: TEBUTRIS579
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "BURSA"
+  branch: YILDIRIM BRANCH
+  swift: TEBUTRIS280
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "CANAKKALE"
+  branch: BAYRAMIC SUBESI
+  swift: TEBUTRIS727
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "CANAKKALE"
+  branch: BIGA BRANCH
+  swift: TEBUTRIS277
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "CANAKKALE"
+  branch: CANAKKALE ANAFARTALAR BRANCH
+  swift: TEBUTRIS534
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "CANAKKALE"
+  branch: CANAKKALE BRANCH
+  swift: TEBUTRIS185
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "CANKIRI"
+  branch: CANKIRI BRANCH
+  swift: TEBUTRIS673
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "CORUM"
+  branch: CORUM BRANCH
+  swift: TEBUTRIS144
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DENIZLI"
+  branch: ACIPAYAM BRANCH
+  swift: TEBUTRIS742
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DENIZLI"
+  branch: BAYRAMYERI BRANCH
+  swift: TEBUTRIS098
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DENIZLI"
+  branch: CINAR BRANCH
+  swift: TEBUTRIS199
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DENIZLI"
+  branch: DENIZLI BRANCH
+  swift: TEBUTRIS019
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DENIZLI"
+  branch: DENIZLI CIVRIL BRANCH
+  swift: TEBUTRIS684
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DENIZLI"
+  branch: DENIZLI SANAYI BRANCH
+  swift: TEBUTRIS551
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DENIZLI"
+  branch: DENIZLI SARAYLAR BRANCH
+  swift: TEBUTRIS388
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DIYARBAKIR"
+  branch: DIYARBAKIR BRANCH
+  swift: TEBUTRIS128
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DIYARBAKIR"
+  branch: DIYARBAKIR KAYAPINAR BRANCH
+  swift: TEBUTRIS599
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DIYARBAKIR"
+  branch: DIYARBAKIR SUR BRANCH
+  swift: TEBUTRIS480
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DIYARBAKIR"
+  branch: OFIS BRANCH
+  swift: TEBUTRIS303
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "DUZCE"
+  branch: DUZCE BRANCH
+  swift: TEBUTRIS287
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "EDIRNE"
+  branch: EDIRNE BRANCH
+  swift: TEBUTRIS213
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "EDIRNE"
+  branch: KESAN BRANCH
+  swift: TEBUTRIS294
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "EDIRNE"
+  branch: TRAKYA UNIVERSITESI SUBESI
+  swift: TEBUTRIS745
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "EDIRNE"
+  branch: UZUNKOPRU BRANCH
+  swift: TEBUTRIS693
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ELAZIG"
+  branch: ELAZIG BRANCH
+  swift: TEBUTRIS161
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ELAZIG"
+  branch: ELAZIG HURRIYET CADDESI BRANCH
+  swift: TEBUTRIS602
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ERZINCAN"
+  branch: ERZINCAN BRANCH
+  swift: TEBUTRIS316
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ERZURUM"
+  branch: ERZURUM BRANCH
+  swift: TEBUTRIS148
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ESKISEHIR"
+  branch: ESKISEHIR BAGLAR BRANCH
+  swift: TEBUTRIS567
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ESKISEHIR"
+  branch: ESKISEHIR BRANCH
+  swift: TEBUTRIS041
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ESKISEHIR"
+  branch: ESKISEHIR IKI EYLUL CADDESI BRANCH
+  swift: TEBUTRIS413
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ESKISEHIR"
+  branch: SAKARYA BRANCH
+  swift: TEBUTRIS227
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ESKISEHIR"
+  branch: TEKSAN BRANCH
+  swift: TEBUTRIS184
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "GAZIANTEP"
+  branch: GAZIANTEP BRANCH
+  swift: TEBUTRIS028
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "GAZIANTEP"
+  branch: GAZIANTEP INCILIPINAR BRANCH
+  swift: TEBUTRIS409
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "GAZIANTEP"
+  branch: GUNEYDOGU ANADOLU KURUMSAL BRANCH
+  swift: TEBUTRIS358
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "GAZIANTEP"
+  branch: SEHITKAMIL GAZIANTEP BRANCH
+  swift: TEBUTRIS097
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "GAZIANTEP"
+  branch: SIREHANI BRANCH
+  swift: TEBUTRIS337
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "GAZIANTEP"
+  branch: SUBURCU BRANCH
+  swift: TEBUTRIS196
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "GEBZE"
+  branch: GEBZE BRANCH
+  swift: TEBUTRIS035
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "GIRESUN"
+  branch: GIRESUN BRANCH
+  swift: TEBUTRIS270
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "HATAY"
+  branch: ISKENDERUN BRANCH 
+  swift: TEBUTRIS085
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ICEL"
+  branch: MERSIN POZCU BRANCH
+  swift: TEBUTRIS584
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ICEL"
+  branch: MEZITLI BRANCH
+  swift: TEBUTRIS255
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ICEL"
+  branch: TARSUS MAKAM BRANCH
+  swift: TEBUTRIS466
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISPARTA"
+  branch: ISPARTA BRANCH
+  swift: TEBUTRIS243
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: 4. LEVENT BRANCH
+  swift: TEBUTRIS049
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ACIBADEM BRANCH
+  swift: TEBUTRIS183
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: AKSARAY ISTANBUL BRANCH
+  swift: TEBUTRIS072
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ALIBEYKOY BRANCH
+  swift: TEBUTRIS561
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ALTIYOL BRANCH
+  swift: TEBUTRIS087
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ALTUNIZADE BRANCH
+  swift: TEBUTRIS095
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ATASEHIR BRANCH
+  swift: TEBUTRIS435
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ATRIUM BRANCH
+  swift: TEBUTRIS472
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: AVCILAR BORUSAN BRANCH 
+  swift: TEBUTRIS222
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: AVCILAR BRANCH
+  swift: TEBUTRIS074
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: AVCILAR CARSI BRANCH
+  swift: TEBUTRIS241
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: AVCILAR E-5 BRANCH
+  swift: TEBUTRIS597
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BAGCILAR BRANCH
+  swift: TEBUTRIS176
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BAHCELIEVLER BRANCH
+  swift: TEBUTRIS234
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BAHCESEHIR BRANCH
+  swift: TEBUTRIS076
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BAKIRKOY BRANCH 
+  swift: TEBUTRIS014
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BAKIRKOY MEYDAN BRANCH
+  swift: TEBUTRIS393
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BANKALAR CADDESI BRANCH
+  swift: TEBUTRIS212
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BATI ATASEHIR BRANCH
+  swift: TEBUTRIS674
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BAYRAMPASA BRANCH
+  swift: TEBUTRIS022
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BEBEK BRANCH
+  swift: TEBUTRIS048
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BESIKTAS BRANCH
+  swift: TEBUTRIS078
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BESIKTAS CARSI BRANCH
+  swift: TEBUTRIS542
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BESYUZEVLER BRANCH
+  swift: TEBUTRIS079
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BEYAZIT BRANCH
+  swift: TEBUTRIS123
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BEYKENT BRANCH
+  swift: TEBUTRIS637
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BEYKENT UNIVERSITESI BRANCH
+  swift: TEBUTRIS663
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BEYLIKDUZU BRANCH
+  swift: TEBUTRIS047
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BEYLIKDUZU E-5 BRANCH
+  swift: TEBUTRIS407
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BEYOGLU BRANCH
+  swift: TEBUTRIS451
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BOGAZICI KURUMSAL BRANCH
+  swift: TEBUTRIS432
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BORUSAN ISTINYE SUBESI
+  swift: TEBUTRIS317
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BOSTANCI E-5 BRANCH
+  swift: TEBUTRIS431
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BUYUKCEKMECE BRANCH
+  swift: TEBUTRIS189
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CADDEBOSTAN BRANCH
+  swift: TEBUTRIS110
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CAGLAYAN BRANCH
+  swift: TEBUTRIS157
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CASH MANAGEMENT DIVISION
+  swift: TEBUTRISCMD
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CEKMEKOY BRANCH
+  swift: TEBUTRIS143
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CENGELKOY BRANCH
+  swift: TEBUTRIS341
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CEPTETEB BRANCH
+  swift: TEBUTRIS929
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CEVIZLI BRANCH
+  swift: TEBUTRIS562
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CIFTEHAVUZLAR BRANCH
+  swift: TEBUTRIS134
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CIHANGIR BRANCH
+  swift: TEBUTRIS235
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: COLLECTIVE CUSTODY BRANCH
+  swift: TEBUTRIS931
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: DAVUTPASA BRANCH
+  swift: TEBUTRIS096
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: DEMIRCILER SITESI BRANCH
+  swift: TEBUTRIS221
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: DES SANAYI BRANCH
+  swift: TEBUTRIS179
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: DUDULLU BRANCH
+  swift: TEBUTRIS721
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: EMINONU BRANCH
+  swift: TEBUTRIS029
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ERENKOY BRANCH
+  swift: TEBUTRIS389
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ESENLER BRANCH
+  swift: TEBUTRIS609
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ESENYURT BRANCH
+  swift: TEBUTRIS336
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ETILER BRANCH
+  swift: TEBUTRIS016
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: FATIH BRANCH
+  swift: TEBUTRIS335
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: FINDIKZADE BRANCH
+  swift: TEBUTRIS430
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: FLORYA BRANCH
+  swift: TEBUTRIS202
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: GOKTURK BRANCH
+  swift: TEBUTRIS699
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: GOZTEPE ISTANBUL BRANCH
+  swift: TEBUTRIS146
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: GULTEPE BRANCH
+  swift: TEBUTRIS214
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: GUNESLI BRANCH
+  swift: TEBUTRIS039
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: GUNESLI GULBAHAR CADDESI BRANCH
+  swift: TEBUTRIS404
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: HADIMKOY BRANCH
+  swift: TEBUTRIS119
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: HARBIYE BRANCH
+  swift: TEBUTRIS380
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: HASANPASA BRANCH
+  swift: TEBUTRIS523
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: HAZNEDAR BAHCELIEVLER BRANCH
+  swift: TEBUTRIS434
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: HEAD OFFICE
+  swift: TEBUTRIS
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ICERENKOY BRANCH
+  swift: TEBUTRIS152
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: IHLAMURKUYU BRANCH
+  swift: TEBUTRIS468
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: IKITELLI BRANCH
+  swift: TEBUTRIS060
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: IKITELLI ORGANIZE SANAYI BRANCH
+  swift: TEBUTRIS460
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: IMES SANAYI SITESI BRANCH
+  swift: TEBUTRIS061
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: IMSAN BRANCH
+  swift: TEBUTRIS228
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ISTANBUL ANADOLU KURUMSAL BRANCH
+  swift: TEBUTRIS536
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ISTANBUL ATATURK HAVALIMANI BRANCH
+  swift: TEBUTRIS655
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ISTANBUL GAZIOSMANPASA BRANCH
+  swift: TEBUTRIS186
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ISTANBUL KURUMSAL BRANCH
+  swift: TEBUTRIS012
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ISTANBUL ULUS BRANCH
+  swift: TEBUTRIS220
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ISTOC BRANCH
+  swift: TEBUTRIS197
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KADIKOY CARSI BRANCH
+  swift: TEBUTRIS452
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KAGITHANE BRANCH
+  swift: TEBUTRIS476
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KALAMIS  BRANCH
+  swift: TEBUTRIS042
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KAPALICARSI BRANCH
+  swift: TEBUTRIS440
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KARAKOY BRANCH
+  swift: TEBUTRIS139
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KARTAL CARSI BRANCH
+  swift: TEBUTRIS140
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KASIMPASA BRANCH
+  swift: TEBUTRIS554
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KAVACIK BRANCH
+  swift: TEBUTRIS155
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KAYNARCA BRANCH
+  swift: TEBUTRIS278
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KAZASKER BRANCH
+  swift: TEBUTRIS111
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KERESTECILER SITESI BRANCH
+  swift: TEBUTRIS408
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KIRAC BRANCH
+  swift: TEBUTRIS654
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KIZILTOPRAK BRANCH
+  swift: TEBUTRIS489
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KOSUYOLU BRANCH
+  swift: TEBUTRIS563
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KOZYATAGI BRANCH
+  swift: TEBUTRIS056
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KOZYATAGI KURUMSAL BRANCH
+  swift: TEBUTRIS018
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KUCUKBAKKALKOY BRANCH
+  swift: TEBUTRIS558
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KUCUKSU BRANCH
+  swift: TEBUTRIS377
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KURTKOY BRANCH
+  swift: TEBUTRIS187
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KUYUBASI BRANCH
+  swift: TEBUTRIS302
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KUYUMCUKENT BRANCH
+  swift: TEBUTRIS271
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: LALELI BRANCH
+  swift: TEBUTRIS210
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: LALELI BRANCH
+  swift: TEBUTRIS500
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: LEVENT CARSI BRANCH
+  swift: TEBUTRIS112
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: LIBADIYE BRANCH
+  swift: TEBUTRIS653
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MACKA BRANCH
+  swift: TEBUTRIS045
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MALTEPE ATATURK CADDESI BRANCH
+  swift: TEBUTRIS630
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MALTEPE BRANCH
+  swift: TEBUTRIS121
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MALTEPE CARSI ISTANBUL BRANCH
+  swift: TEBUTRIS773
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MALTEPE E-5 BRANCH
+  swift: TEBUTRIS441
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MASLAK BRANCH
+  swift: TEBUTRIS129
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MASLAK SANAYI BRANCH
+  swift: TEBUTRIS406
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MECIDIYEKOY BRANCH
+  swift: TEBUTRIS064
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MECIDIYEKOY BRANCH
+  swift: TEBUTRIS427
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MEGA CENTER BRANCH
+  swift: TEBUTRIS180
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MERCAN BRANCH
+  swift: TEBUTRIS449
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: MERTER BRANCH
+  swift: TEBUTRIS032
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: NURUOSMANIYE BRANCH
+  swift: TEBUTRIS254
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ORTAKLAR CADDESI BRANCH
+  swift: TEBUTRIS125
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ORTAKOY BRANCH
+  swift: TEBUTRIS130
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: OSMANBEY BRANCH
+  swift: TEBUTRIS013
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: OZEL BANKACILIK MERKEZI BRANCH
+  swift: TEBUTRIS070
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: PENDIK BRANCH
+  swift: TEBUTRIS131
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: PENDIK E5 BRANCH
+  swift: TEBUTRIS037
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: PERPA BRANCH
+  swift: TEBUTRIS127
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: RUMELI KURUMSAL BRANCH
+  swift: TEBUTRIS636
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SANAYI MAHALLESI BRANCH
+  swift: TEBUTRIS424
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SANTRAL UMRANIYE BRANCH
+  swift: TEBUTRIS402
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SARIGAZI BRANCH
+  swift: TEBUTRIS343
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SARIYER BRANCH
+  swift: TEBUTRIS201
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SEFAKOY BRANCH
+  swift: TEBUTRIS122
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SEFAKOY HALKALI CADDESI BRANCH
+  swift: TEBUTRIS418
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SENESENEVLER BRANCH
+  swift: TEBUTRIS487
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SEYRANTEPE BRANCH
+  swift: TEBUTRIS618
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SILIVRI BRANCH
+  swift: TEBUTRIS261
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SIRINEVLER BRANCH
+  swift: TEBUTRIS233
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SIRKECI BRANCH
+  swift: TEBUTRIS391
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SISLI MEYDAN BRANCH
+  swift: TEBUTRIS383
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SOGANLIK BRANCH
+  swift: TEBUTRIS596
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SUADIYE BRANCH
+  swift: TEBUTRIS015
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SULTANBEYLI BRANCH
+  swift: TEBUTRIS194
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: SULTANGAZI BRANCH
+  swift: TEBUTRIS606
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TAHTAKALE BRANCH
+  swift: TEBUTRIS147
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TEB PORTFOY LOAN (FX) PARTICIPATION FUND
+  swift: TEBUTRISSUK
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TEB SECURITIES SERV ICES
+  swift: TEBUTRIS930
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TERAZIDERE BRANCH
+  swift: TEBUTRIS614
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TOPCULAR BRANCH
+  swift: TEBUTRIS178
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TOPKAPI BRANCH
+  swift: TEBUTRIS528
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TRAKYA KURUMSAL BRANCH
+  swift: TEBUTRIS055
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TREASURY AND FOREIGN TRADE TRANSACTIONS
+  swift: TEBUTRISINT
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TUZLA BRANCH
+  swift: TEBUTRIS236
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TUZLA DENIZ HARP OKULU BRANCH
+  swift: TEBUTRIS320
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TUZLA OSB BRANCH
+  swift: TEBUTRIS218
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TUZLA PIYADE OKULU BRANCH
+  swift: TEBUTRIS350
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: UMRANIYE BRANCH
+  swift: TEBUTRIS043
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: UMRANIYE SANAYI BRANCH
+  swift: TEBUTRIS610
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: USKUDAR BRANCH
+  swift: TEBUTRIS132
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: VALIKONAGI BRANCH
+  swift: TEBUTRIS219
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: YEDITEPE KURUMSAL BRANCH
+  swift: TEBUTRIS538
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: YENIBOSNA BRANCH
+  swift: TEBUTRIS329
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: YENIKOY BRANCH
+  swift: TEBUTRIS251
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: YESILKOY BRANCH
+  swift: TEBUTRIS054
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: YILDIZ POSTA BRANCH
+  swift: TEBUTRIS392
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ZEKERIYAKOY BRANCH
+  swift: TEBUTRIS370
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ZEYTINBURNU BRANCH
+  swift: TEBUTRIS093
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ZEYTINBURNU BRANCH
+  swift: TEBUTRIS521
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: 4. SANAYI BRANCH
+  swift: TEBUTRIS345
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: A.O.S.B IZMIR BRANCH
+  swift: TEBUTRIS067
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: ALIAGA BRANCH
+  swift: TEBUTRIS211
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: ALSANCAK BRANCH
+  swift: TEBUTRIS455
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: BALCOVA BRANCH
+  swift: TEBUTRIS216
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: BAYINDIR BRANCH
+  swift: TEBUTRIS725
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: BERGAMA BRANCH
+  swift: TEBUTRIS697
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: BORNOVA BRANCH
+  swift: TEBUTRIS100
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: BORNOVA CARSI BRANCH
+  swift: TEBUTRIS398
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: BOSTANLI BRANCH
+  swift: TEBUTRIS231
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: BUCA BRANCH
+  swift: TEBUTRIS696
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: CAMDIBI BRANCH
+  swift: TEBUTRIS577
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: CARSI BRANCH
+  swift: TEBUTRIS066
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: CESME BRANCH
+  swift: TEBUTRIS248
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: CIGLI BRANCH
+  swift: TEBUTRIS555
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: DOKUZ EYLUL UNIVERSITESI BRANCH
+  swift: TEBUTRIS753
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: EGE KURUMSAL BRANCH
+  swift: TEBUTRIS068
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: EGE UNIVERSITESI BRANCH
+  swift: TEBUTRIS754
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: GAZIEMIR BRANCH
+  swift: TEBUTRIS279
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: GIRNE BULVARI BRANCH
+  swift: TEBUTRIS086
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: GUNDOGDU BRANCH
+  swift: TEBUTRIS069
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: HATAY IZMIR BRANCH
+  swift: TEBUTRIS322
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: IZMIR 1.SANAYI BRANCH
+  swift: TEBUTRIS208
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: IZMIR BRANCH
+  swift: TEBUTRIS040
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: IZMIR CANKAYA BRANCH
+  swift: TEBUTRIS200
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: IZMIR GOZTEPE BRANCH
+  swift: TEBUTRIS160
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: KARABAGLAR BRANCH
+  swift: TEBUTRIS053
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: KARSIYAKA BRANCH
+  swift: TEBUTRIS394
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: KEMALPASA BRANCH
+  swift: TEBUTRIS051
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: KONAK BRANCH
+  swift: TEBUTRIS296
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: MANAVKUYU BRANCH
+  swift: TEBUTRIS625
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: MENDERES BRANCH
+  swift: TEBUTRIS771
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: MENEMEN BRANCH
+  swift: TEBUTRIS229
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: MONTRO BRANCH
+  swift: TEBUTRIS381
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: NARLIDERE BRANCH
+  swift: TEBUTRIS703
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: ODEMIS BRANCH
+  swift: TEBUTRIS249
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: PINARBASI BRANCH
+  swift: TEBUTRIS050
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: SIRINYER BRANCH
+  swift: TEBUTRIS276
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: TIRE BRANCH
+  swift: TEBUTRIS253
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: TOPTANCILAR CARSISI IZMIR BRANCH
+  swift: TEBUTRIS319
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "IZMIR"
+  branch: TORBALI BRANCH
+  swift: TEBUTRIS356
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAHRAMANMARAS"
+  branch: ELBISTAN BRANCH
+  swift: TEBUTRIS685
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAHRAMANMARAS"
+  branch: KAHRAMANMARAS BRANCH
+  swift: TEBUTRIS031
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAHRAMANMARAS"
+  branch: KAHRAMANMARAS CARSI BRANCH
+  swift: TEBUTRIS486
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KARABUK"
+  branch: KARABUK BRANCH
+  swift: TEBUTRIS283
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KARAMAN"
+  branch: KARAMAN BRANCH
+  swift: TEBUTRIS672
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KARS"
+  branch: IGDIR BRANCH
+  swift: TEBUTRIS678
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KARS"
+  branch: KARS BRANCH
+  swift: TEBUTRIS378
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KASTAMONU"
+  branch: KASTOMONU BRANCH
+  swift: TEBUTRIS268
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAYSERI"
+  branch: DEVELI BRANCH
+  swift: TEBUTRIS763
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAYSERI"
+  branch: KAYSERI BRANCH
+  swift: TEBUTRIS023
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAYSERI"
+  branch: KAYSERI CARSI BRANCH
+  swift: TEBUTRIS405
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAYSERI"
+  branch: KAYSERI ESKI SANAYI BRANCH
+  swift: TEBUTRIS572
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAYSERI"
+  branch: KAYSERI KURUMSAL BRANCH
+  swift: TEBUTRIS593
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAYSERI"
+  branch: KAYSERI SANAYI BRANCH
+  swift: TEBUTRIS170
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAYSERI"
+  branch: KOCASINAN KAYSERI BRANCH
+  swift: TEBUTRIS713
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KAYSERI"
+  branch: YESILHISAR BRANCH
+  swift: TEBUTRIS764
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KIRIKKALE"
+  branch: KIRIKKALE BRANCH
+  swift: TEBUTRIS379
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KIRKLARELI"
+  branch: KIRKLARELI BRANCH
+  swift: TEBUTRIS339
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KIRKLARELI"
+  branch: LULEBURGAZ BRANCH
+  swift: TEBUTRIS205
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KIRSEHIR"
+  branch: KIRSEHIR BRANCH
+  swift: TEBUTRIS668
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: ALEMDAR BRANCH
+  swift: TEBUTRIS348
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: BEKIRPASA BRANCH
+  swift: TEBUTRIS313
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: CARSI IZMIT BRANCH
+  swift: TEBUTRIS416
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: DARICA BRANCH
+  swift: TEBUTRIS722
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: GEBZE AKSE SAPAGI BRANCH
+  swift: TEBUTRIS683
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: GEBZE CARSI BRANCH
+  swift: TEBUTRIS411
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: GEBZE E5 BRANCH
+  swift: TEBUTRIS244
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: GEBZE ORGANIZE SANAYI BOLGESI BRANCH
+  swift: TEBUTRIS734
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: GOLCUK BRANCH
+  swift: TEBUTRIS217
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: IZMIT BRANCH
+  swift: TEBUTRIS020
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: IZMIT KORFEZ BRANCH
+  swift: TEBUTRIS326
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KOCAELI"
+  branch: IZMIT KUCUK SANAYI BRANCH
+  swift: TEBUTRIS306
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KONYA"
+  branch: AKSEHIR BRANCH
+  swift: TEBUTRIS286
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KONYA"
+  branch: BUSAN SANAYI SITESI BRANCH
+  swift: TEBUTRIS118
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KONYA"
+  branch: CUMRA BRANCH
+  swift: TEBUTRIS728
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KONYA"
+  branch: KONYA BRANCH
+  swift: TEBUTRIS030
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KONYA"
+  branch: KONYA BUGDAY PAZARI BRANCH
+  swift: TEBUTRIS708
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KONYA"
+  branch: KONYA EREGLI BRANCH
+  swift: TEBUTRIS260
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KONYA"
+  branch: MEVLANA BRANCH
+  swift: TEBUTRIS257
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KONYA"
+  branch: ZAFER SANAYI BRANCH
+  swift: TEBUTRIS225
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KUTAHYA"
+  branch: KUTAHYA BRANCH
+  swift: TEBUTRIS643
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "KUTAHYA"
+  branch: TAVSANLI BRANCH
+  swift: TEBUTRIS712
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MALATYA"
+  branch: INONU CADDESI MALATYA BRANCH
+  swift: TEBUTRIS245
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MALATYA"
+  branch: MALATYA BRANCH
+  swift: TEBUTRIS089
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MALATYA"
+  branch: MALATYA CARSI BRANCH
+  swift: TEBUTRIS690
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MANISA"
+  branch: AKHISAR BRANCH
+  swift: TEBUTRIS259
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MANISA"
+  branch: ALASEHIR BRANCH
+  swift: TEBUTRIS664
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MANISA"
+  branch: KULA BRANCH
+  swift: TEBUTRIS756
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MANISA"
+  branch: MANISA BRANCH
+  swift: TEBUTRIS114
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MANISA"
+  branch: MANISA SANAYI BRANCH
+  swift: TEBUTRIS203
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MANISA"
+  branch: SALIHLI BRANCH
+  swift: TEBUTRIS192
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MANISA"
+  branch: SARIGOL BRANCH
+  swift: TEBUTRIS723
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MANISA"
+  branch: SARUHANLI BRANCH
+  swift: TEBUTRIS724
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MANISA"
+  branch: SOMA BRANCH
+  swift: TEBUTRIS340
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MANISA"
+  branch: TURGUTLU BRANCH
+  swift: TEBUTRIS292
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MARDIN"
+  branch: MARDIN BRANCH
+  swift: TEBUTRIS327
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MERSIN"
+  branch: ANAMUR BRANCH
+  swift: TEBUTRIS304
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MERSIN"
+  branch: ERDEMLI BRANCH
+  swift: TEBUTRIS702
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MERSIN"
+  branch: MERSIN BRANCH
+  swift: TEBUTRIS038
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MERSIN"
+  branch: MERSIN CAMLIBEL BRANCH
+  swift: TEBUTRIS385
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MERSIN"
+  branch: MERSIN CARSI BRANCH
+  swift: TEBUTRIS444
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MERSIN"
+  branch: MERSIN TOPTANCILAR SITESI BRANCH
+  swift: TEBUTRIS652
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MERSIN"
+  branch: METROPOL MERSIN BRANCH
+  swift: TEBUTRIS352
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MERSIN"
+  branch: MUT BRANCH
+  swift: TEBUTRIS746
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MERSIN"
+  branch: SILIFKE BRANCH
+  swift: TEBUTRIS688
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MERSIN"
+  branch: TARSUS BRANCH
+  swift: TEBUTRIS237
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: AKSAZ BRANCH
+  swift: TEBUTRIS240
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: BODRUM BRANCH
+  swift: TEBUTRIS106
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: BODRUM GUMBET BRANCH
+  swift: TEBUTRIS314
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: FETHIYE BRANCH
+  swift: TEBUTRIS133
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: FETHIYE INONU BULVARI BRANCH
+  swift: TEBUTRIS168
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: FETHIYE LIKYA BRANCH
+  swift: TEBUTRIS496
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: FETHIYE SEYDIKEMER BRANCH
+  swift: TEBUTRIS709
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: KARYA BODRUM BRANCH
+  swift: TEBUTRIS419
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: MARMARIS BRANCH
+  swift: TEBUTRIS102
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: MILAS BRANCH
+  swift: TEBUTRIS665
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: MUGLA BRANCH
+  swift: TEBUTRIS258
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "MUGLA"
+  branch: YALIKAVAK BRANCH
+  swift: TEBUTRIS692
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "NEVSEHIR"
+  branch: NEVSEHIR BRANCH
+  swift: TEBUTRIS694
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "NIGDE"
+  branch: NIGDE BRANCH
+  swift: TEBUTRIS166
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ORDU"
+  branch: FATSA BRANCH
+  swift: TEBUTRIS153
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ORDU"
+  branch: ORDU BRANCH
+  swift: TEBUTRIS182
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ORDU"
+  branch: UNYE BRANCH
+  swift: TEBUTRIS698
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "OSMANIYE"
+  branch: KADIRLI BRANCH
+  swift: TEBUTRIS689
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "OSMANIYE"
+  branch: OSMANIYE BRANCH
+  swift: TEBUTRIS642
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "RIZE"
+  branch: RIZE BRANCH
+  swift: TEBUTRIS195
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAKARYA"
+  branch: ADAPAZARI BRANCH
+  swift: TEBUTRIS113
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAKARYA"
+  branch: ADAPAZARI CARSI BRANCH
+  swift: TEBUTRIS505
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAKARYA"
+  branch: ERENLER SANAYI BRANCH
+  swift: TEBUTRIS288
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAKARYA"
+  branch: GEYVE BRANCH
+  swift: TEBUTRIS752
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAMSUN"
+  branch: BAFRA BRANCH
+  swift: TEBUTRIS333
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAMSUN"
+  branch: CARSAMBA BRANCH
+  swift: TEBUTRIS158
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAMSUN"
+  branch: SAMSUN BRANCH
+  swift: TEBUTRIS090
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAMSUN"
+  branch: SAMSUN CIFTLIK BRANCH
+  swift: TEBUTRIS198
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAMSUN"
+  branch: SAMSUN MECIDIYE BRANCH
+  swift: TEBUTRIS494
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAMSUN"
+  branch: SAMSUN SANAYI BRANCH
+  swift: TEBUTRIS181
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SAMSUN"
+  branch: VEZIRKOPRU BRANCH
+  swift: TEBUTRIS760
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SANLIURFA"
+  branch: SANLIURFA BRANCH
+  swift: TEBUTRIS135
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SANLIURFA"
+  branch: SANLIURFA SARAYONU CADDESI BRANCH
+  swift: TEBUTRIS423
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SIIRT"
+  branch: SIIRT BRANCH
+  swift: TEBUTRIS671
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SINOP"
+  branch: SINOP BRANCH
+  swift: TEBUTRIS691
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "SIVAS"
+  branch: SIVAS BRANCH
+  swift: TEBUTRIS247
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TEKIRDAG"
+  branch: CERKEZKOY BRANCH
+  swift: TEBUTRIS284
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TEKIRDAG"
+  branch: CORLU BRANCH
+  swift: TEBUTRIS109
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TEKIRDAG"
+  branch: CORLU CARSI BRANCH
+  swift: TEBUTRIS289
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TEKIRDAG"
+  branch: HAYRABOLU BRANCH
+  swift: TEBUTRIS733
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TEKIRDAG"
+  branch: MALKARA BRANCH
+  swift: TEBUTRIS730
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TEKIRDAG"
+  branch: TEKIRDAG BRANCH
+  swift: TEBUTRIS224
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TEKIRDAG"
+  branch: TEKIRDAG KOPRUBASI BRANCH
+  swift: TEBUTRIS676
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TOKAT"
+  branch: TOKAT BRANCH
+  swift: TEBUTRIS651
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TOKAT"
+  branch: TOKAT ERBAA BRANCH
+  swift: TEBUTRIS711
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TOKAT"
+  branch: ZILE BRANCH
+  swift: TEBUTRIS743
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TRABZON"
+  branch: AKCAABAT BRANCH
+  swift: TEBUTRIS177
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TRABZON"
+  branch: DEGIRMENDERE TRABZON BRANCH
+  swift: TEBUTRIS242
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "TRABZON"
+  branch: TRABZON BRANCH
+  swift: TEBUTRIS091
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "USAK"
+  branch: USAK BRANCH
+  swift: TEBUTRIS092
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "USAK"
+  branch: USAK CARSI BRANCH
+  swift: TEBUTRIS518
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "VAN"
+  branch: VAN BRANCH
+  swift: TEBUTRIS215
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "VAN"
+  branch: VAN YUZUNCU YIL UNIVERSITESI BRANCH
+  swift: TEBUTRIS710
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "YALOVA"
+  branch: YALOVA BRANCH
+  swift: TEBUTRIS310
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "YALOVA"
+  branch: YALOVA ISKELE BRANCH
+  swift: TEBUTRIS559
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "YOZGAT"
+  branch: BOGAZLIYAN BRANCH
+  swift: TEBUTRIS738
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "YOZGAT"
+  branch: SORGUN BRANCH
+  swift: TEBUTRIS731
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "YOZGAT"
+  branch: YOZGAT BRANCH
+  swift: TEBUTRIS700
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ZONGULDAK"
+  branch: KARADENIZ EREGLISI BRANCH
+  swift: TEBUTRIS088
+    
+- name: "TURK EKONOMI BANKASI A.S."
+  city: "ZONGULDAK"
+  branch: ZONGULDAK BRANCH
+  swift: TEBUTRIS634
+    
+- name: "TURKISH BANK A.S."
+  city: "ISTANBUL"
+  branch: FOREIGN OPERATIONS DEPARTMENT
+  swift: TUBATRISTBL
+    
+- name: "TURKISH BANK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TUBATRIS
+    
+- name: "TURKIYE CUMHURIYET MERKEZ BANKASI (CENTRAL BANK OF THE REPUBLIC OF TURKEY)"
+  city: "ANKARA"
+  branch: null
+  swift: TCMBTR2A
+    
+- name: "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S."
+  city: "ANKARA"
+  branch: CORPORATE BANKING BRANCH
+  swift: TCZBTR2AANK
+    
+- name: "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S."
+  city: "ANKARA"
+  branch: HEAD OFFICE
+  swift: TCZBTR2A
+    
+- name: "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S."
+  city: "ANTALYA"
+  branch: ANTALYA FREE TRADE ZONE BRANCH
+  swift: TCZBTR2AANT
+    
+- name: "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S."
+  city: "ISTANBUL"
+  branch: FX/MM OPERATIONS
+  swift: TCZBTR2AFEX
+    
+- name: "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S."
+  city: "ISTANBUL"
+  branch: HEAD OFFICE FOREIGN OPERATIONS BRANCH
+  swift: TCZBTR2AIST
+    
+- name: "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S."
+  city: "IZMIR"
+  branch: IZMIR CORPORATE BANKING BRANCH
+  swift: TCZBTR2AIZM
+    
+- name: "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S."
+  city: "MERSIN"
+  branch: MERSIN FREE TRADE ZONE BRANCH
+  swift: TCZBTR2AMER
+    
+- name: "TURKIYE FINANS KATILIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: AFKBTRIS
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BAKIRKOY CORPORATE BANKING OPERATIONS DIVISION
+  swift: TGBATRIS382
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: BASKENT CORPORATE BANKING OPERATIONS DIVISION
+  swift: TGBATRIS384
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CHEQUE AND PROMISSORY NOTE PROCESSING DIVISION
+  swift: TGBATRIS987
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ISTANBUL CORPORATE BANKING OPERATIONS DIVISION
+  swift: TGBATRIS381
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: KOZYATAGI CORPORATE BANKING OPERATIONS DIVISION
+  swift: TGBATRIS383
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: RECONCILIATIONS DIVISION
+  swift: TGBATRIS986
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TREASURY PLANNING AND OPERATIONS DIVISION
+  swift: TGBATRIS982
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: TRY VOSTRO ACCOUNTS SERVICES
+  swift: TGBATRIS093
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TGBATRIS
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "IZMIR"
+  branch: AEGEAN FREE ZONE BRANCH
+  swift: TGBATRIS489
+    
+- name: "TURKIYE GARANTI BANKASI A.S."
+  city: "MERSIN"
+  branch: MERSIN FREE ZONE BRANCH
+  swift: TGBATRIS310
+    
+- name: "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)"
+  city: "ISTANBUL"
+  branch: FINANCIAL INSTITUTIONS AND SUBSIDIARIES DEPARTMENT
+  swift: TRHBTR2AFIS
+    
+- name: "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)"
+  city: "ISTANBUL"
+  branch: HALK YATIRIM MENKUL DEGERLER A.S
+  swift: TRHBTR2AINV
+    
+- name: "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)"
+  city: "ISTANBUL"
+  branch: NATIONAL CHEQUE EXCHANGE DEPARTMENT
+  swift: TRHBTR2ATKS
+    
+- name: "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)"
+  city: "ISTANBUL"
+  branch: RECONCILIATION DIVISION
+  swift: TRHBTR2ARCN
+    
+- name: "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)"
+  city: "ISTANBUL"
+  branch: SWIFT DEPARTMENT
+  swift: TRHBTR2ASWF
+    
+- name: "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)"
+  city: "ISTANBUL"
+  branch: TREASURY OPERATIONS
+  swift: TRHBTR2ATRY
+    
+- name: "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)"
+  city: "ISTANBUL"
+  branch: null
+  swift: TRHBTR2A
+    
+- name: "TURKIYE IHRACAT KREDI BANKASI (TURK EXIMBANK)"
+  city: "ANKARA"
+  branch: EFIL 4 CREDIT
+  swift: TIKBTR2AKRD
+    
+- name: "TURKIYE IHRACAT KREDI BANKASI (TURK EXIMBANK)"
+  city: "ISTANBUL"
+  branch: null
+  swift: TIKBTR2A
+    
+- name: "TURKIYE IS BANKASI A.S."
+  city: "ISTANBUL"
+  branch: ALL TURKEY OFFICES
+  swift: ISBKTRIS
+    
+- name: "TURKIYE IS BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CUSTODY DEPARTMENT
+  swift: ISBKTRISCUS
+    
+- name: "TURKIYE IS BANKASI A.S."
+  city: "ISTANBUL"
+  branch: LC'S, COLLECTIONS AND TREASURY TRANSACTIONS
+  swift: ISBKTRISINT
+    
+- name: "TURKIYE IS BANKASI A.S."
+  city: "ISTANBUL"
+  branch: PORTFOLIO MANAGEMENT
+  swift: ISBKTRISISP
+    
+- name: "TURKIYE KALKINMA BANKASI A.S."
+  city: "ANKARA"
+  branch: null
+  swift: TKBNTR2A
+    
+- name: "TURKIYE SINAI KALKINMA BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: TSKBTRIS
+    
+- name: "TURKIYE SISE VE CAM FABRIKALARI A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: SSCMTRIS
+    
+- name: "TURKIYE TURIZIM YATIRIM DIS TICARET BANKASI AS"
+  city: "ANKARA"
+  branch: null
+  swift: TTYDTR21
+    
+- name: "TURKIYE TURIZIM YATIRIM DIS TICARET BANKASI AS"
+  city: "ANTALYA"
+  branch: null
+  swift: TTYDTR2102T
+    
+- name: "TURKIYE TURIZIM YATIRIM DIS TICARET BANKASI AS"
+  city: "IZMIR"
+  branch: null
+  swift: TTYDTR2102I
+    
+- name: "TURKIYE VAKIFLAR BANKASI T.A.O."
+  city: "ANKARA"
+  branch: CUSTODY MAIN BRANCH
+  swift: TVBATR2ACUS
+    
+- name: "TURKIYE VAKIFLAR BANKASI T.A.O."
+  city: "ANKARA"
+  branch: TREASURY DEPARTMENT
+  swift: TVBATR2AFEX
+    
+- name: "TURKIYE VAKIFLAR BANKASI T.A.O."
+  city: "ISTANBUL"
+  branch: ATATURK HAVA LIMANI (A.H.L.) FREE ZONE
+  swift: TVBATR2A320
+    
+- name: "TURKIYE VAKIFLAR BANKASI T.A.O."
+  city: "ISTANBUL"
+  branch: ISTANBUL DERI  VE ENDUSTRI FREE ZONE
+  swift: TVBATR2A358
+    
+- name: "TURKIYE VAKIFLAR BANKASI T.A.O."
+  city: "ISTANBUL"
+  branch: ISTANBUL DIS OPERASYONLAR MUDURLUGU
+  swift: TVBATR2A596
+    
+- name: "TURKIYE VAKIFLAR BANKASI T.A.O."
+  city: "ISTANBUL"
+  branch: null
+  swift: TVBATR2A
+    
+- name: "TURKIYE VAKIFLAR BANKASI T.A.O."
+  city: "IZMIR"
+  branch: EGE FREE ZONE
+  swift: TVBATR2A337
+    
+- name: "TURKIYE VAKIFLAR BANKASI T.A.O."
+  city: "MERSIN"
+  branch: MERSIN FREE ZONE
+  swift: TVBATR2A304
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ADANA"
+  branch: ADANA BRANCH
+  swift: TBNKTRIS036
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ADAPAZARI"
+  branch: ADAPAZARI BRANCH
+  swift: TBNKTRIS052
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ANKARA"
+  branch: ANKARA/SOGUTOZU BRANCH
+  swift: TBNKTRIS047
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ANKARA"
+  branch: ANKARA-OSTIM BRANCH
+  swift: TBNKTRIS037
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ANKARA"
+  branch: BAKANLIKLAR BRANCH
+  swift: TBNKTRIS022
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ANTALYA"
+  branch: ANTALYA BRANCH
+  swift: TBNKTRIS010
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "BURSA"
+  branch: BURSA BRANCH
+  swift: TBNKTRIS030
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "DENIZLI"
+  branch: DENIZLI BRANCH
+  swift: TBNKTRIS042
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ESKISEHIR"
+  branch: ESKISEHIR BRANCH
+  swift: TBNKTRIS051
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "GAZIANTEP"
+  branch: GAZIANTEP BRANCH
+  swift: TBNKTRIS040
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: ALTUNIZADE BRANCH
+  swift: TBNKTRIS048
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: ATATURK AIRPORT FREE TRADE ZONE BRANCH
+  swift: TBNKTRIS017
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: AVCILAR BRANCH
+  swift: TBNKTRIS044
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: BAYRAMPASA BRANCH
+  swift: TBNKTRIS029
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: BEYLIKDUZU BRANCH
+  swift: TBNKTRIS032
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: CADDEBOSTAN BRANCH
+  swift: TBNKTRIS039
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: DOLAYOBA BRANCH
+  swift: TBNKTRIS043
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: DUDULLU BRANCH
+  swift: TBNKTRIS034
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: ETILER BRANCH
+  swift: TBNKTRIS015
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: GUNESLI BRANCH
+  swift: TBNKTRIS025
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: KADIKOY BRANCH
+  swift: TBNKTRIS023
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: KARTAL E-5 BRANCH
+  swift: TBNKTRIS049
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: KOZYATAGI BRANCH
+  swift: TBNKTRIS026
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: LEVENT BRANCH
+  swift: TBNKTRIS033
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: LEVENT CARSI BRANCH
+  swift: TBNKTRIS050
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: MERKEZ BRANCH
+  swift: TBNKTRIS004
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "ISTANBUL"
+  branch: null
+  swift: TBNKTRIS
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "IZMIR"
+  branch: IZMIR BRANCH
+  swift: TBNKTRIS035
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "KAYSERI"
+  branch: KAYSERI BRANCH
+  swift: TBNKTRIS041
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "KOCAELI"
+  branch: GEBZE BRANCH
+  swift: TBNKTRIS031
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "KOCAELI"
+  branch: IZMIT BRANCH
+  swift: TBNKTRIS045
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "KONYA"
+  branch: KONYA BRANCH
+  swift: TBNKTRIS028
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "MANAVGAT"
+  branch: MANAVGAT BRANCH
+  swift: TBNKTRIS027
+    
+- name: "TURKLAND BANK A.S. (T-BANK)"
+  city: "SAMSUN"
+  branch: SAMSUN BRANCH
+  swift: TBNKTRIS046
+    
+- name: "UBS MENKUL DEGERLER AS"
+  city: "ISTANBUL"
+  branch: null
+  swift: ARMGTRI1
+    
+- name: "UNICORN CAPITAL MENKUL DE ERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: IYMETRI1
+    
+- name: "UNICREDIT MENKUL DEGERLER A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: UNMDTRI1
+    
+- name: "UNLU MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: DUUSTRI1
+    
+- name: "VAKIF KATILIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: VAKFTRIS
+    
+- name: "YAPI KREDI EMEKLILIK A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: YAKETRI1
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: AHL FREE ZONE BRANCH
+  swift: YAPITRIS612
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: AUDIT DEPARTMENT
+  swift: YAPITRISAUD
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CHEQUE DEPARTMENT
+  swift: YAPITRISCHQ
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: COMMUNICATION DEPARTMENT
+  swift: YAPITRISCOM
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CORRESPONDENT DEPARTMENT
+  swift: YAPITRISCOR
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: CREDIT CARDS DEPARTMENT
+  swift: YAPITRISCRC
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: FAKTORING
+  swift: YAPITRISFAC
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: FX/MM OPERATIONS
+  swift: YAPITRISFEX
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: HEAD OFFICE
+  swift: YAPITRIS072
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: INQUIRY DEPARTMENT
+  swift: YAPITRISINQ
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: INVESTMENT
+  swift: YAPITRISINV
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: PAY AND RECEIVE DEPARTMENT
+  swift: YAPITRISPNR
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: RECONCILIATION DEPARTMENT
+  swift: YAPITRISREC
+    
+- name: "YAPI VE KREDI BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: YAPITRIS
+    
+- name: "YATIRIM FINANSMAN MENKUL DE ERLER A.S"
+  city: "ISTANBUL"
+  branch: null
+  swift: YFMDTRI1
+    
+- name: "YENER KAYA MENKUL DEGERLER"
+  city: "ISTANBUL"
+  branch: null
+  swift: YKMDTRI1
+    
+- name: "YESILADA BANK LTD."
+  city: "MERSIN"
+  branch: null
+  swift: YESITR21
+    
+- name: "YILDIRIM HOLDING A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: YLDMTRIS
+    
+- name: "ZIRAAT KATILIM BANKASI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ZKBATRIS
+    
+- name: "ZIRAAT PORTFOEY YOENETIMI A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ZIPYTRI1
+    
+- name: "ZORLU HOLDING A.S."
+  city: "ISTANBUL"
+  branch: null
+  swift: ZOHLTRIS
+    

@@ -1,0 +1,55 @@
+- name: "BANQUE FRANCAISE COMMERCIALE DE L'OCEAN INDIEN"
+  city: "SAINT DENIS"
+  branch: null
+  swift: BFCORERX
+    
+- name: "BNP PARIBAS LA REUNION"
+  city: "LE PORT"
+  branch: null
+  swift: BNPARERXPOR
+    
+- name: "BNP PARIBAS LA REUNION"
+  city: "SAINT DENIS"
+  branch: null
+  swift: BNPARERX
+    
+- name: "CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DE LA REUNION)"
+  city: "SAINT DENIS"
+  branch: null
+  swift: REUBRERX
+    
+- name: "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE LA REUNION"
+  city: "SAINT DENIS"
+  branch: null
+  swift: CGRARER1
+    
+- name: "CREDIT AGRICOLE"
+  city: "LE PORT"
+  branch: null
+  swift: AGRIRERXLEO
+    
+- name: "CREDIT AGRICOLE"
+  city: "SAINT DENIS"
+  branch: null
+  swift: AGRIRERX
+    
+- name: "CREDIT AGRICOLE"
+  city: "SAINT LOUIS"
+  branch: LA REUNION BRANCH
+  swift: AGRIRERXSNL
+    
+- name: "OCEOR LEASE REUNION"
+  city: "SAINT DENIS"
+  branch: null
+  swift: OCLRRER1
+    
+- name: "SOCIETE FINANCIERE POUR LE DEVELOPPEMENT DE LA REUNION"
+  city: "SAINT DENIS"
+  branch: null
+  swift: SODIRER1
+    
+- name: "SOCIETE REUNIONNAISE DE FINT-SOREFI"
+  city: "SAINT DENIS"
+  branch: null
+  swift: SORFRER1
+    

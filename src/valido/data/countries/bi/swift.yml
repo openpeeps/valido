@@ -1,0 +1,85 @@
+- name: "BANQUE BURUNDAISE POUR LE COMMERCE ET L'INVESTISSEMENT"
+  city: "BUJUMBURA"
+  branch: null
+  swift: BUCIBIBI
+    
+- name: "BANQUE COMMERCIALE DU BURUNDI"
+  city: "BUJUMBURA"
+  branch: null
+  swift: BCBUBIBI
+    
+- name: "BANQUE DE CREDIT DE BUJUMBURA"
+  city: "BUJUMBURA"
+  branch: null
+  swift: BCRBBIBI
+    
+- name: "BANQUE DE GESTION ET DE FINANCEMENT"
+  city: "BUJUMBURA"
+  branch: null
+  swift: BKGFBIBI
+    
+- name: "BANQUE DE LA REPUBLIQUE DU BURUNDI"
+  city: "BUJUMBURA"
+  branch: null
+  swift: BRBUBIB2
+    
+- name: "BANQUE DE LA REPUBLIQUE DU BURUNDI"
+  city: "BUJUMBURA"
+  branch: null
+  swift: BRBUBIBI
+    
+- name: "CAISSE CENTRALE DE MOBILISATION ET DE FINANCEMENT"
+  city: "BUJUMBURA"
+  branch: null
+  swift: CCMFBIB1
+    
+- name: "CAISSE D'EPARGNE DU BURUNDI"
+  city: "BUJUMBURA"
+  branch: null
+  swift: CADBBIB1
+    
+- name: "CENTRAL BANK OF BURUNDI"
+  city: "BUJUMBURA"
+  branch: null
+  swift: CBBBBIB1
+    
+- name: "CRDB BANK BURUNDI S.A"
+  city: "BUJUMBURA"
+  branch: null
+  swift: CORUBIBU
+    
+- name: "DIAMOND TRUST BANK BURUNDI S.A"
+  city: "BUJUMBURA"
+  branch: null
+  swift: DTKEBIBI
+    
+- name: "ECOBANK BURUNDI"
+  city: "BUJUMBURA"
+  branch: null
+  swift: ECOCBIBI
+    
+- name: "FINBANK"
+  city: "BUJUMBURA"
+  branch: null
+  swift: FIKNBIBI
+    
+- name: "INTERBANK BURUNDI"
+  city: "BUJUMBURA"
+  branch: AVENUE DE L'INDUSTRIE BRANCH
+  swift: IBBUBIBIADI
+    
+- name: "INTERBANK BURUNDI"
+  city: "BUJUMBURA"
+  branch: null
+  swift: IBBUBIBI
+    
+- name: "KCB BANK BURUNDI LIMITED"
+  city: "BUJUMBURA"
+  branch: null
+  swift: KCBLBIBI
+    
+- name: "MERIDIEN BIAO BANK BURUNDI SARL"
+  city: "BUJUMBURA"
+  branch: null
+  swift: MBBSBIB1
+    

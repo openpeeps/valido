@@ -1,0 +1,30 @@
+- name: "ANZ BANKING GROUP LIMITED"
+  city: "NUKU'ALOFA"
+  branch: null
+  swift: ANZBTONN
+    
+- name: "BANK OF SOUTH PACIFIC TONGA LIMITED"
+  city: "NUKU'ALOFA"
+  branch: null
+  swift: BOSPTONU
+    
+- name: "BAT TONGA"
+  city: "TONGA"
+  branch: null
+  swift: BATSTOA1
+    
+- name: "MBF BANK LIMITED"
+  city: "NUKU'ALOFA"
+  branch: null
+  swift: MBFMTONU
+    
+- name: "NATIONAL RESERVE BANK OF TONGA"
+  city: "NUKU'ALOFA"
+  branch: null
+  swift: NRBTTONU
+    
+- name: "TONGA DEVELOPMENT BANK"
+  city: "NUKU'ALOFA"
+  branch: null
+  swift: TODETONU
+    

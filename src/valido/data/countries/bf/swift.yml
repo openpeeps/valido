@@ -1,0 +1,100 @@
+- name: "BANK OF AFRICA - BURKINA FASSO"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: AFRIBFBF
+    
+- name: "BANQUE ATLANTIQUE BURKINA FASO"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: ATBFBFBF
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "BOBO-DIOULASSO"
+  branch: BOBO-DIOULASSO BRANCH
+  swift: BCAOBFBFBOB
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: BCAOBFBF
+    
+- name: "BANQUE COMMERCIALE DU BURKINA"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: BNCFBFBF
+    
+- name: "BANQUE DE L'HABITAT DU BURKINA FASO"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: BHBFBFBF
+    
+- name: "BANQUE DE L'UNION BURKINA FASO"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: BDUGBFBF
+    
+- name: "BANQUE NATIONALE DE DEVELOPPEMENT"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: NDEVBFB1
+    
+- name: "BANQUE POUR LE FINANCEMENT DU COMMERCE ET DES INVESTISSEMENTS DU BURKINA"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: BFCBBFB1
+    
+- name: "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (BURKINA FASO) S.A."
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: BSAHBFBF
+    
+- name: "BICIA DU BURKINA"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: BICIBFBX
+    
+- name: "CAISSE CENTRALE DE COOPERATION ECONOMIQUE"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: CCECBFB1
+    
+- name: "CBAO GROUPE ATTIJARIWAFA BANK BURKINA FASO"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: CBAOBFBG
+    
+- name: "CORIS BANK INTERNATIONAL"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: CORIBFBF
+    
+- name: "DEPOSITAIRE CENTRAL-BANQUE DE REGLEMENT (DCBR BURKINA FASO)"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: DCRCBFB1
+    
+- name: "ECOBANK BURKINA"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: ECOCBFBF
+    
+- name: "LA FINANCIERE DE PROXIMITE SA FIPROXI-SA"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: FIPXBFB1
+    
+- name: "ORABANK BURKINA-FASO"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: ORBKBFBF
+    
+- name: "SOCIETE GENERALE BURKINA FASO"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: SGBBBFBF
+    
+- name: "UBA BURKINA"
+  city: "OUAGADOUGOU"
+  branch: null
+  swift: BIBUBFBF
+    

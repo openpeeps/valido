@@ -1,0 +1,885 @@
+- name: "ABACO CASA DE BOLSA, S.A. DE C.V."
+  city: "GARZA GARCIA"
+  branch: null
+  swift: ACBOMXM10G2
+    
+- name: "ABACO CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: ACBOMXM1
+    
+- name: "ACCIONES Y VALORES DE MEXICO, S.A. DE C.V. CASA DE BOLSA"
+  city: "MEXICO"
+  branch: null
+  swift: ACVLMXMM
+    
+- name: "ACTINVER CASA DE BOLSA SA DE CV"
+  city: "CENTRO DE CIUDAD SANTA FE"
+  branch: null
+  swift: ACAOMXM1
+    
+- name: "AFIN, CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: AFINMXM1
+    
+- name: "AUDI MEXICO"
+  city: "PUEBLA"
+  branch: null
+  swift: AUMXMXM1
+    
+- name: "AUDI MEXICO REAL ESTATE"
+  city: "PUEBLA"
+  branch: null
+  swift: AMREMXM1
+    
+- name: "BANCA AFIRME S.A."
+  city: "MONTERREY"
+  branch: null
+  swift: AFIRMXMT
+    
+- name: "BANCA MIFEL SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO MIFEL"
+  city: "MEXICO"
+  branch: null
+  swift: MIFEMXMM
+    
+- name: "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER"
+  city: "CENTRO DE CIUDAD SANTA FE"
+  branch: null
+  swift: ACIOMXMMACB
+    
+- name: "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER"
+  city: "MEXICO"
+  branch: ACTINVER CASA DE BOLSA MEX-DER
+  swift: ACIOMXMMMMD
+    
+- name: "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER"
+  city: "MEXICO"
+  branch: ADMON.ACTINVER CASA DE BOLSA.
+  swift: ACIOMXMMBRA
+    
+- name: "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER"
+  city: "MEXICO"
+  branch: BANCO ACTINVER, SA MEX-DOL
+  swift: ACIOMXMMPAY
+    
+- name: "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER"
+  city: "MEXICO"
+  branch: null
+  swift: ACIOMXMM
+    
+- name: "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER"
+  city: "MEXICO"
+  branch: null
+  swift: ACIOMXMMFND
+    
+- name: "BANCO AUTOFIN MEXICO"
+  city: "MEXICO"
+  branch: null
+  swift: AUMCMXMM
+    
+- name: "BANCO AZTECA, S.A. INSTITUCION DE BANCA MULTIPLE"
+  city: "MEXICO"
+  branch: null
+  swift: AZTKMXMM
+    
+- name: "BANCO AZTECA, S.A. INSTITUCION DE BANCA MULTIPLE"
+  city: "MEXICO"
+  branch: null
+  swift: AZTKMXMMEKT
+    
+- name: "BANCO AZTECA, S.A. INSTITUCION DE BANCA MULTIPLE"
+  city: "MEXICO"
+  branch: null
+  swift: AZTKMXMMTVA
+    
+- name: "BANCO BASE SA INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BASE"
+  city: "SAN PEDRO GARZA GARCIA"
+  branch: null
+  swift: BBSEMXMX
+    
+- name: "BANCO CREDIT SUISSE (MEXICO) S.A."
+  city: "MEXICO"
+  branch: null
+  swift: CSFBMXMM
+    
+- name: "BANCO CREDIT SUISSE (MEXICO) S.A."
+  city: "MEXICO"
+  branch: null
+  swift: CSFBMXMMVIS
+    
+- name: "BANCO DE CREDITO RURAL DEL GOLFO S.N.C."
+  city: "VERACRUZ"
+  branch: null
+  swift: RUGOMXM1
+    
+- name: "BANCO DE CREDITO RURAL DEL GOLFO S.N.C."
+  city: "VILLAHERMOSA"
+  branch: null
+  swift: RUGOMXM10M4
+    
+- name: "BANCO DE CREDITO RURAL DEL GOLFO S.N.C."
+  city: "XALAPA"
+  branch: null
+  swift: RUGOMXM10M3
+    
+- name: "BANCO DE MEXICO"
+  city: "MEXICO"
+  branch: null
+  swift: BDEMMXMF
+    
+- name: "BANCO DE MEXICO"
+  city: "MEXICO"
+  branch: null
+  swift: BDEMMXMM
+    
+- name: "BANCO DE ORIENTE, S A"
+  city: "PUEBLA"
+  branch: null
+  swift: BAORMXM1
+    
+- name: "BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS S.N.C INSTITUCION DE BANCA DE DESARROLLO"
+  city: "MEXICO"
+  branch: null
+  swift: SEFIMXMM
+    
+- name: "BANCO DEL BAJIO, S.A."
+  city: "LEON"
+  branch: null
+  swift: BJIOMXML
+    
+- name: "BANCO INBURSA S.A."
+  city: "MEXICO"
+  branch: null
+  swift: INBUMXMM
+    
+- name: "BANCO INTERACCIONES"
+  city: "MEXICO"
+  branch: null
+  swift: BITEMXMM
+    
+- name: "BANCO INVEX S.A."
+  city: "MEXICO"
+  branch: null
+  swift: INXXMXMM
+    
+- name: "BANCO J.P. MORGAN S.A."
+  city: "MEXICO"
+  branch: FIA MEXICO
+  swift: CHASMXMXOCC
+    
+- name: "BANCO J.P. MORGAN S.A."
+  city: "MEXICO"
+  branch: GLOBAL TREASURY SERVICES
+  swift: CHASMXMXGTS
+    
+- name: "BANCO J.P. MORGAN S.A."
+  city: "MEXICO"
+  branch: null
+  swift: CHASMXMX
+    
+- name: "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE"
+  city: "MEXICO"
+  branch: CUSTODY AND CASH MANAGEMENT
+  swift: MENOMXMTCCM
+    
+- name: "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE"
+  city: "MEXICO"
+  branch: null
+  swift: MENOMXMT
+    
+- name: "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE"
+  city: "MEXICO"
+  branch: null
+  swift: MENOMXMTMEX
+    
+- name: "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE"
+  city: "MONTERREY,N.L."
+  branch: DERIVATIVES
+  swift: MENOMXMTDER
+    
+- name: "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE"
+  city: "MONTERREY,N.L."
+  branch: FOREIGN EXCHANGE
+  swift: MENOMXMTFEX
+    
+- name: "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE"
+  city: "MONTERREY,N.L."
+  branch: WHOLESALE BANKING
+  swift: MENOMXMTWLS
+    
+- name: "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE"
+  city: "MONTERREY,N.L."
+  branch: WIRE TRANSFER DEPT
+  swift: MENOMXMTPYM
+    
+- name: "BANCO MONEX, S.A."
+  city: "MEXICO"
+  branch: null
+  swift: MONXMXM1TFI
+    
+- name: "BANCO MONEX, S.A."
+  city: "MEXICO"
+  branch: null
+  swift: MONXMXMM
+    
+- name: "BANCO MONEX, S.A. INSTITUCION DE BANCA MULTIPLE"
+  city: "MEXICO"
+  branch: null
+  swift: MNBDMXM1
+    
+- name: "BANCO MULTIVA S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO MULTIVA"
+  city: "MEXICO"
+  branch: null
+  swift: MIMMMXM1
+    
+- name: "BANCO MULTIVA S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO MULTIVA"
+  city: "MEXICO"
+  branch: null
+  swift: MIMMMXMX
+    
+- name: "BANCO NACIONAL DE COMERCIO EXTERIOR, S.N.C."
+  city: "MEXICO"
+  branch: null
+  swift: BNCEMXMM
+    
+- name: "BANCO NACIONAL DE CREDITO RURAL SA"
+  city: "MEXICO"
+  branch: null
+  swift: NCRUMXM1
+    
+- name: "BANCO NACIONAL DE MEXICO S.A."
+  city: "GUADALAJARA"
+  branch: null
+  swift: BNMXMXMMGUA
+    
+- name: "BANCO NACIONAL DE MEXICO S.A."
+  city: "LEON"
+  branch: null
+  swift: BNMXMXMMLEO
+    
+- name: "BANCO NACIONAL DE MEXICO S.A."
+  city: "MEXICO"
+  branch: HEAD OFFICE AND FOR ALL REMAINING UNLISTED BRANCHES
+  swift: BNMXMXMM
+    
+- name: "BANCO NACIONAL DE MEXICO S.A."
+  city: "MEXICO"
+  branch: INTERNATIONAL CUSTODY
+  swift: BNMXMXMMINV
+    
+- name: "BANCO NACIONAL DE MEXICO S.A."
+  city: "MEXICO"
+  branch: MONEY TRANSFER INVESTIGATIONS
+  swift: BNMXMXMMMTI
+    
+- name: "BANCO NACIONAL DE MEXICO S.A."
+  city: "MEXICO"
+  branch: PAYMENT ORDERS DEPT
+  swift: BNMXMXMMPYM
+    
+- name: "BANCO NACIONAL DE MEXICO S.A."
+  city: "MEXICO"
+  branch: VOSTRO ACCOUNTS DEPT
+  swift: BNMXMXMMCVT
+    
+- name: "BANCO NACIONAL DE MEXICO S.A."
+  city: "MONTERREY"
+  branch: null
+  swift: BNMXMXMMMTY
+    
+- name: "BANCO NACIONAL DE MEXICO S.A."
+  city: "PUEBLA"
+  branch: null
+  swift: BNMXMXMMPUE
+    
+- name: "BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S.N.C."
+  city: "MEXICO"
+  branch: null
+  swift: EJERMXMM
+    
+- name: "BANCO NACIONAL PESQUERO Y PORTUARIO, S.N.C."
+  city: "HERMOSILLO"
+  branch: null
+  swift: BNPPMXM1
+    
+- name: "BANCO REGIONAL DE MONTERREY, S.A."
+  city: "SAN PEDRO GARZA GARCIA"
+  branch: null
+  swift: RGIOMXMT
+    
+- name: "BANCO SABADELL S.A., INSTITUCION DE BANCA MULTIPLE"
+  city: "MEXICO"
+  branch: null
+  swift: BSABMXMM
+    
+- name: "BANCO SANTANDER (MEXICO), S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO SANTANDER"
+  city: "MEXICO"
+  branch: SECURITIES SERVICES
+  swift: BMSXMXMMSSS
+    
+- name: "BANCO SANTANDER (MEXICO), S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO SANTANDER"
+  city: "MEXICO"
+  branch: null
+  swift: BMSXMXM1NAS
+    
+- name: "BANCO SANTANDER (MEXICO), S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO SANTANDER"
+  city: "MEXICO"
+  branch: null
+  swift: BMSXMXMM
+    
+- name: "BANCOMER RENTA FIJA INTERNACIONAL"
+  city: "MEXICO"
+  branch: null
+  swift: BCMRMXMMRFI
+    
+- name: "BANK OF AMERICA, MEXICO S.A."
+  city: "MEXICO"
+  branch: null
+  swift: BOFAMXMX
+    
+- name: "BANK OF AMERICA, MEXICO S.A."
+  city: "MEXICO"
+  branch: null
+  swift: BOFAMXMXMEX
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ (MEXICO) S.A."
+  city: "MEXICO"
+  branch: null
+  swift: BOTKMXMX
+    
+- name: "BANSI, SA"
+  city: "GUADALAJARA"
+  branch: null
+  swift: SNABMXM1
+    
+- name: "BARCLAYS BANK MEXICO S.A."
+  city: "MEXICO"
+  branch: null
+  swift: BARCMXMM
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "GUADALAJARA"
+  branch: LETTERS OF CREDIT AND COLLECTIONS DEPARTMENT GUADALAJARA, JAL.
+  swift: BCMRMXMMGUA
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: CARTERA HIPOTECARIA
+  swift: BCMRMXMMHIP
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: COLLECTIONS DEPARTMENT MEXICO, D.F.
+  swift: BCMRMXMMCOL
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: CORRESPONDENT BANKING
+  swift: BCMRMXMMCOR
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: FIDUCIARY DEPARTMENT
+  swift: BCMRMXMMFID
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: FINANCE INTERNATIONAL OPERATIONS
+  swift: BCMRMXMMEXT
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: FOREIGN EXCHANGE DEPARTMENT
+  swift: BCMRMXMMFGN
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: INTERNATIONAL OPERATIONS MEXICO, D.F.
+  swift: BCMRMXMMOPC
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: INTERNATIONAL TREASURY DEPARTMENT
+  swift: BCMRMXMMDIV
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: LETTERS OF CREDIT DEPARTMENT MEXICO D.F.
+  swift: BCMRMXMMDOC
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: PASIVOS MONEDA EXTRANJERA DEPT.
+  swift: BCMRMXMMOPE
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: PAYMENT ORDERS DEPARTMENT
+  swift: BCMRMXMMPYM
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: RECONCILEMENT DEPARTMENT
+  swift: BCMRMXMMREC
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: SECURITIES DEPARTMENT
+  swift: BCMRMXMMSEC
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: TRANSFERENCIAS INTERBANCARIAS NACIONALES
+  swift: BCMRMXMMTIN
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MEXICO"
+  branch: null
+  swift: BCMRMXMM
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "MONTERREY"
+  branch: LETTERS OF CREDIT AND COLLECTIONS DEPARTMENT, MONTERREY, N.L.
+  swift: BCMRMXMMMTY
+    
+- name: "BOLSA MEXICANA DE VALORES, S.A.B. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: XMEXMXM1
+    
+- name: "BTG PACTUAL CASA DE BOLSA, SA. DE CV"
+  city: "MEXICO"
+  branch: null
+  swift: BPAOMXM1
+    
+- name: "CASA DE BOLSA ARKA S.A DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: CBAKMXM1
+    
+- name: "CASA DE BOLSA BANCOMER, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: CBOBMXM1
+    
+- name: "CASA DE BOLSA BANORTE, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: BAOTMXM1
+    
+- name: "CASA DE BOLSA CREDIT SUISSE (MEXICO), S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: CSFBMXMX
+    
+- name: "CASA DE BOLSA DEL VALLE DE MEXICO, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: VALMMXM1
+    
+- name: "CASA DE BOLSA FINAMEX, S.A.B. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: CBFAMXM1
+    
+- name: "CASA DE BOLSA MEXICO, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: CBMXMXM1
+    
+- name: "CASA DE BOLSA PRIME, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: CBPRMXM1
+    
+- name: "CASA DE BOLSA SANTANDER, S.A."
+  city: "MEXICO"
+  branch: null
+  swift: CABDMXM1
+    
+- name: "CASA DE BOLSA UNION SA DE CV"
+  city: "MEXICO"
+  branch: null
+  swift: CABUMXM1
+    
+- name: "CASA DE CAMBIO TIBER SA DE CV"
+  city: "MEXICO"
+  branch: null
+  swift: CTIBMXM1
+    
+- name: "CEMEX S.A.B. DE C.V."
+  city: "SAN PEDRO GARZA GARCIA"
+  branch: null
+  swift: CXCXMXMT
+    
+- name: "CIBANCO SA"
+  city: "MEXICO"
+  branch: FIDUCIARIO
+  swift: CIMXMXMMFID
+    
+- name: "CIBANCO SA"
+  city: "MEXICO"
+  branch: null
+  swift: CIMXMXMM
+    
+- name: "DAIMLER MEXICO, SA DE CV"
+  city: "MEXICO"
+  branch: null
+  swift: DCAGMXMM
+    
+- name: "DEUTSCHE BANK MEXICO, SA"
+  city: "MEXICO"
+  branch: null
+  swift: DEUTMXMM
+    
+- name: "ESTRATEGIA BURSATIL, S.A. DE C.V., CASA DE BOLSA"
+  city: "MEXICO"
+  branch: null
+  swift: ESTBMXM1
+    
+- name: "ESTRATEGIA CAMBIARIA CASE DE CAMBIO S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: ECAMMXM1
+    
+- name: "EVERCORE CASA DE BOLSA SA DE CV"
+  city: "MEXICO"
+  branch: null
+  swift: EVCBMXMM
+    
+- name: "FIMSA CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: FMCBMXM1
+    
+- name: "FINANCIERA CUALLIX, SA DE CV, SOFOM ENR"
+  city: "MONTERREY"
+  branch: null
+  swift: CUAFMXMX
+    
+- name: "FIRST NATIONAL BANK, S.A. DE C.V"
+  city: "TIJUANA"
+  branch: null
+  swift: FNAIMXM1
+    
+- name: "FITCH MEXICO S.A. DE C.V."
+  city: "MONTERREY,N.L."
+  branch: null
+  swift: FRIPMXM1
+    
+- name: "GBM GRUPO BURSATIL MEXICANO, S.A.B. DE C.V. CASA E BOLSA"
+  city: "MEXICO"
+  branch: null
+  swift: GBMSMXM1
+    
+- name: "GBM GRUPO BURSATIL MEXICANO, SA DE CV"
+  city: "MEXICO"
+  branch: null
+  swift: GBMSMXMX
+    
+- name: "GOLDMAN SACHS MEXICO CASA DE BOLSA, SA DE CV"
+  city: "MEXICO"
+  branch: null
+  swift: GOLDMXM1
+    
+- name: "GRUPO CONDUMEX, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: GCONMXMM
+    
+- name: "GRUPO KUO SAB DE CV"
+  city: "MEXICO"
+  branch: null
+  swift: GKUOMXMM
+    
+- name: "GRUPO TELEVISA, S.A.B."
+  city: "MEXICO"
+  branch: null
+  swift: TVSAMXMM
+    
+- name: "HR RATINGS DE MEXICO, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: RAMXMXM1
+    
+- name: "HSBC CASA DE BOLSA, S.A. DE C.V., GRUPO FINANCIERHSBC"
+  city: "MEXICO"
+  branch: null
+  swift: BITLMXM1
+    
+- name: "HSBC MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO HSBC"
+  city: "MEXICO"
+  branch: CLS HSBC MEXICO
+  swift: BIMEMXMMCLS
+    
+- name: "HSBC MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO HSBC"
+  city: "MEXICO"
+  branch: SECURITIES SERVICES CNC MEXICO
+  swift: BIMEMXMM397
+    
+- name: "HSBC MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO HSBC"
+  city: "MEXICO"
+  branch: null
+  swift: BIMEMXMM
+    
+- name: "HYUNDAI MOBIS MEXICO"
+  city: "MONTERREY,N.L."
+  branch: null
+  swift: HYMOMXM1
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MEXICO, S.A."
+  city: "MEXICO"
+  branch: null
+  swift: ICBKMXMM
+    
+- name: "ING BARING GRUPO FINANCIERO (MEXICO) S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: BRRNMXM1
+    
+- name: "INTERACCIONES CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: ICDBMXM1
+    
+- name: "INTERCAM BANCO SA INSTITUCION DE BANCA MULTIPLE INTERCAM GRUPO FINANCIERO"
+  city: "MEXICO"
+  branch: null
+  swift: INTEMXMM
+    
+- name: "INTERCAM CASA DE BOLSA S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: ICABMXMM
+    
+- name: "INVERMEXICO, S.A. DE C.V., CASA DE BOLSA"
+  city: "MEXICO"
+  branch: null
+  swift: INVMMXM1
+    
+- name: "INVERSORA BURSATIL, S.A. DE C.V., CASA DE BOLSA"
+  city: "MEXICO"
+  branch: null
+  swift: IVSBMXM1
+    
+- name: "INVESTA BANK, S.A. INSTITUCION DE BANCA MULTIPLE"
+  city: "MEXICO"
+  branch: null
+  swift: GINSMXMM
+    
+- name: "INVEX CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: IVXBMXM1
+    
+- name: "IXE CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: IXEEMXM1
+    
+- name: "LG DISPLAY REYNOSA SA DE CV"
+  city: "REYNOSA"
+  branch: null
+  swift: LGDRMXM1
+    
+- name: "MASTTRO CAPITAL SAPI DE CV"
+  city: "SAN PEDRO GARZA GARCIA"
+  branch: null
+  swift: MSAAMXM1
+    
+- name: "MERCADO MEXICANO DE DERIVADOS, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: XEMDMXM1
+    
+- name: "MERCURY BANK AND TRUST LTD."
+  city: "MEXICO"
+  branch: null
+  swift: MTRLMXM1
+    
+- name: "METALSA S.A. DE C.V."
+  city: "MONTERREY"
+  branch: null
+  swift: MTASMXMT
+    
+- name: "MEXIVAL BANPAIS CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: MXBCMXM1
+    
+- name: "MIZUHO BANK MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE"
+  city: "MEXICO"
+  branch: null
+  swift: MHBMMXMM
+    
+- name: "MOODY'S DE MEXICO S.A. DE C.V"
+  city: "MEXICO"
+  branch: null
+  swift: MOMXMXM1
+    
+- name: "MORGAN STANLEY"
+  city: "MEXICO"
+  branch: null
+  swift: MSMCMXMM
+    
+- name: "MULTIVALORES CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: MLVLMXM1
+    
+- name: "NACIONAL FINANCIERA, S.N.C."
+  city: "MEXICO"
+  branch: null
+  swift: NFSAMXMM
+    
+- name: "NIKE DE MEXICO, S.DE R.L. DE C.V."
+  city: "GUADALAJARA"
+  branch: null
+  swift: NIKEMXM1
+    
+- name: "OPERADORA DE BOLSA SERFIN, S.A. DE C.V., CASA DE BOLSA"
+  city: "MEXICO"
+  branch: null
+  swift: OPBSMXM1
+    
+- name: "OPERADORA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: OPBOMXM1
+    
+- name: "PROBURSA CASA DE BOLSA, S.A. DE C.V. CASA DE BOLSA"
+  city: "MEXICO"
+  branch: null
+  swift: PBSAMXM1
+    
+- name: "S.D. INDEVAL, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: INDEMXMM
+    
+- name: "S.D. INDEVAL, SA DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: INDEMX21
+    
+- name: "SAMSUNG MEXICANA, S.A. DE C.V."
+  city: "QUERETARO"
+  branch: SEDAM
+  swift: SECTMXM1394
+    
+- name: "SAMSUNG MEXICANA, S.A. DE C.V."
+  city: "TIJUANA"
+  branch: SAMEX
+  swift: SECTMXM1350
+    
+- name: "SAMSUNG MEXICANA, S.A. DE C.V."
+  city: "TIJUANA"
+  branch: SEM
+  swift: SECTMXM1390
+    
+- name: "SAMSUNG MEXICANA, S.A. DE C.V."
+  city: "TIJUANA"
+  branch: null
+  swift: SECTMXM1
+    
+- name: "SANTANDER SERFIN"
+  city: "VERACRUZ"
+  branch: null
+  swift: SAEFMXM1
+    
+- name: "SCOTIA INVERLAT CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: CBOIMXM1
+    
+- name: "SCOTIABANK INVERLAT, S.A."
+  city: "GUADALAJARA"
+  branch: null
+  swift: MBCOMXMMGUA
+    
+- name: "SCOTIABANK INVERLAT, S.A."
+  city: "MEXICO"
+  branch: DEPARTAMENTO DE INVERSION
+  swift: MBCOMXMMINV
+    
+- name: "SCOTIABANK INVERLAT, S.A."
+  city: "MEXICO"
+  branch: SECURITIES DEPARTMENT
+  swift: MBCOMXMMSEC
+    
+- name: "SCOTIABANK INVERLAT, S.A."
+  city: "MEXICO"
+  branch: null
+  swift: MBCOMXMM
+    
+- name: "SCOTIABANK INVERLAT, S.A."
+  city: "MEXICO"
+  branch: null
+  swift: MBCOMXMMFXA
+    
+- name: "SCOTIABANK INVERLAT, S.A."
+  city: "MONTERREY"
+  branch: null
+  swift: MBCOMXMMMTY
+    
+- name: "SCOTIABANK INVERLAT, S.A."
+  city: "PUEBLA"
+  branch: null
+  swift: MBCOMXMMPUE
+    
+- name: "TESORED, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: TESRMXMM
+    
+- name: "UBS CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: UBSWMXMC
+    
+- name: "VACTOR CASA DE BOLSA, S.A. DE C.V."
+  city: "GARZA GARCIA"
+  branch: null
+  swift: VCCBMXG1
+    
+- name: "VALORES BURSATILES DE MEXICO, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: VBMXMXM1
+    
+- name: "VALORES FINAMEX, S.A. DE C.V., CASA DE BOLSA"
+  city: "MEXICO"
+  branch: null
+  swift: VFMXMXM1
+    
+- name: "VALORES MEXICANOS CASA DE BOLSA, S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: VMXSMXM1
+    
+- name: "VALUE, S.A. DE C.V., CASA DE BOLSA"
+  city: "MEXICO"
+  branch: null
+  swift: VACBMXM1
+    
+- name: "VANGUARDIA CASA DE BOLSA"
+  city: "MEXICO"
+  branch: null
+  swift: VACLMXM1
+    
+- name: "VECTOR CASA DE BOLSA, SA DE CV"
+  city: "MONTERREY"
+  branch: null
+  swift: VECRMXMM
+    
+- name: "VOLKSWAGEN DE MEXICO S.A. DE C.V."
+  city: "MEXICO"
+  branch: null
+  swift: VWAGMXMM
+    
+- name: "VW DE MEXICO"
+  city: "PUEBLA"
+  branch: null
+  swift: MEXCMXM1
+    

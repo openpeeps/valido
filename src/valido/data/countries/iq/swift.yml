@@ -1,0 +1,470 @@
+- name: "ABU DHABI ISLAMIC BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: ABDIIQBA
+    
+- name: "AL ARABIYA ISLAMIC BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: ARLMIQBA
+    
+- name: "AL BARAKA TURK KATILIM BANKASI A.S. ERBIL BRANCH"
+  city: "ARBIL"
+  branch: null
+  swift: BTFHIQBA
+    
+- name: "AL IRAQ NOOR ISLAMIC BANK FOR INVESTMENT AND FINANCE"
+  city: "BAGHDAD"
+  branch: null
+  swift: SBIBIQBA
+    
+- name: "AL NIBAL AL ARABYA FOR MONEY TRANSFER"
+  city: "BAGHDAD"
+  branch: null
+  swift: ANATIQBA
+    
+- name: "AL RAFIDAIN BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: RAFBIQBA
+    
+- name: "AL-ASSWAR CO. FOR MONEY TRANSFER"
+  city: "BAGHDAD"
+  branch: null
+  swift: ASWRIQB1
+    
+- name: "AL-BILAD ISLAMIC BANK FOR INVESTMENT AND FINANCE"
+  city: "BAGHDAD"
+  branch: null
+  swift: AIIFIQBA
+    
+- name: "AL-HUDA BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: BHDAIQBA
+    
+- name: "AL-JANOOB ISLAMIC BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: AJILIQBA
+    
+- name: "AL-QABIDH ISLAMIC BANK CO. FOR FINANCE AND INVESTMENT"
+  city: "BAGHDAD"
+  branch: null
+  swift: BMMCIQBA
+    
+- name: "AL-QURTAS ISLAMIC BANK FOR INVESTMENT AND FINANCE"
+  city: "BAGHDAD"
+  branch: null
+  swift: AQSBIQBA
+    
+- name: "ALRAWAHEL ISLAMIC INVESTMENT AND FINANCE BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: IRMTIQBA
+    
+- name: "ARAB BANKING CORPORATION"
+  city: "BAGHDAD"
+  branch: null
+  swift: ABCOIQB1
+    
+- name: "ASHUR INTERNATIONAL BANK FOR INVESTMENT"
+  city: "BAGHDAD"
+  branch: null
+  swift: AIBIIQBA
+    
+- name: "BABYLON BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: BABKIQBA
+    
+- name: "BANK AUDI S.A.L. (IRAQ BRANCHES)"
+  city: "BAGHDAD"
+  branch: null
+  swift: AUDBIQBA
+    
+- name: "BANK MELLI IRAN-IRAQ BRANCH"
+  city: "BAGHDAD"
+  branch: null
+  swift: MELIIQBA
+    
+- name: "BANK OF BAGHDAD"
+  city: "BAGHDAD"
+  branch: null
+  swift: BABIIQBA
+    
+- name: "BANKMED SAL, IRAQ"
+  city: "ARBIL"
+  branch: null
+  swift: MEDLIQBAARB
+    
+- name: "BANKMED SAL, IRAQ"
+  city: "BAGHDAD"
+  branch: null
+  swift: MEDLIQBA
+    
+- name: "BANKMED SAL, IRAQ"
+  city: "BASRAH"
+  branch: BASRAH BRANCH
+  swift: MEDLIQBABAS
+    
+- name: "BANQUE LIBANO-FRANAISE SAL - IRAQ"
+  city: "BAGHDAD"
+  branch: null
+  swift: BLFSIQBA
+    
+- name: "BASRAH INTERNATIONAL BANK FOR INVESTMENT"
+  city: "BAGHDAD"
+  branch: null
+  swift: BIBIIQB1
+    
+- name: "BBAC SAL ERBIL BRANCH"
+  city: "ARBIL"
+  branch: null
+  swift: BBACIQBA
+    
+- name: "BLOM BANK S.A.L."
+  city: "BAGHDAD"
+  branch: null
+  swift: BLOMIQBA
+    
+- name: "BYBLOS BANK SAL IRAQ"
+  city: "ARBIL"
+  branch: null
+  swift: BYBAIQBA
+    
+- name: "BYBLOS BANK SAL IRAQ"
+  city: "BAGHDAD"
+  branch: BYBLOS BANK SAL
+  swift: BYBAIQBABAG
+    
+- name: "BYBLOS BANK SAL IRAQ"
+  city: "BASRAH"
+  branch: null
+  swift: BYBAIQBABAS
+    
+- name: "BYBLOS BANK SAL IRAQ"
+  city: "SULAYMINYA"
+  branch: null
+  swift: BYBAIQBASUL
+    
+- name: "CENTRAL BANK OF IRAQ"
+  city: "BAGHDAD"
+  branch: null
+  swift: CBIRIQBA
+    
+- name: "CIHAN BANK FOR ISLAMIC INVESTMENT AND FINANCE"
+  city: "ARBIL"
+  branch: null
+  swift: CIHBIQBA
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: ADHAMYA BRANCH
+  swift: AUBBIQBA808
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: BASRA BRANCH
+  swift: AUBBIQBA809
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: KADHUMAIN BRANCH
+  swift: AUBBIQBA807
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: KHULANI BRANCH
+  swift: AUBBIQBA802
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: MAIN BRANCH
+  swift: AUBBIQBA810
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: MANSOUR BRANCH
+  swift: AUBBIQBA805
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: PALESTINE BRANCH
+  swift: AUBBIQBA804
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: RASHEED CAMP BRANCH
+  swift: AUBBIQBA806
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: SHORJA BRANCH
+  swift: AUBBIQBA803
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: WATHIQ BRANCH
+  swift: AUBBIQBA801
+    
+- name: "COMMERCIAL BANK OF IRAQ P.S.C."
+  city: "BAGHDAD"
+  branch: null
+  swift: AUBBIQBA
+    
+- name: "CREDIT BANK OF IRAQ"
+  city: "BAGHDAD"
+  branch: null
+  swift: CBIQIQBA
+    
+- name: "CREDIT LIBANAIS SAL"
+  city: "BAGHDAD"
+  branch: null
+  swift: CLIBIQBA
+    
+- name: "DAR ES SALAAM INVESTMENT BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: DSIVIQBA
+    
+- name: "DIJLAH AND FURAT BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: DFDIIQBA
+    
+- name: "ECONOMY BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: ECOOIQB1
+    
+- name: "ECONOMY BANK FOR INVESTMENT AND FINANCE"
+  city: "BAGHDAD"
+  branch: ALSHORJAH
+  swift: ECOVIQBA616
+    
+- name: "ECONOMY BANK FOR INVESTMENT AND FINANCE"
+  city: "BAGHDAD"
+  branch: null
+  swift: ECOVIQBA
+    
+- name: "ELAF ISLAMIC BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: ELAFIQBA
+    
+- name: "ERBIL BANK FOR INVESTMENT AND FINANCE"
+  city: "ARBIL"
+  branch: null
+  swift: EBIFIQBA
+    
+- name: "FRANSABANK SAL, IRAQ BRANCH"
+  city: "BAGHDAD"
+  branch: null
+  swift: FSABIQBA
+    
+- name: "GULF COMMERCIAL BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: GUCEIQBA
+    
+- name: "IBL BANK, SAL"
+  city: "BAGHDAD"
+  branch: null
+  swift: INLEIQBA
+    
+- name: "INDUSTRIAL BANK,THE"
+  city: "BAGHDAD"
+  branch: null
+  swift: IBIQIQB1
+    
+- name: "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE"
+  city: "BAGHDAD"
+  branch: null
+  swift: IDBQIQBA
+    
+- name: "INTERNATIONAL ISLAMIC BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: IRAQIQBA
+    
+- name: "INVESTMENT BANK OF IRAQ"
+  city: "BAGHDAD"
+  branch: null
+  swift: IVBIIQBA
+    
+- name: "IRAQI ISLAMIC BANK FOR INVESTMENT AND DEVELOPMENT"
+  city: "BAGHDAD"
+  branch: null
+  swift: IRIBIQBA
+    
+- name: "IRAQI MIDDLE EAST INVESTMENT BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: IMEBIQBA
+    
+- name: "ISLAMIC COOPERATION BANK FOR DEVELOPMENT AND INVESTMENT"
+  city: "BAGHDAD"
+  branch: RCDFIQBAMLD
+  swift: RCDFIQBAMLD
+    
+- name: "ISLAMIC COOPERATION BANK FOR DEVELOPMENT AND INVESTMENT"
+  city: "BAGHDAD"
+  branch: null
+  swift: RCDFIQBA
+    
+- name: "KARMAL STOCK EXCHANGE"
+  city: "BAGHDAD"
+  branch: null
+  swift: KARMIQB1
+    
+- name: "KURDISTAN INTERNATIONAL BANK"
+  city: "ARBIL"
+  branch: PESHWA (ERBIL)  BRANCH
+  swift: KIBIIQBAERB
+    
+- name: "KURDISTAN INTERNATIONAL BANK"
+  city: "ARBIL"
+  branch: null
+  swift: KIBIIQBA
+    
+- name: "KURDISTAN INTERNATIONAL BANK"
+  city: "BAGHDAD"
+  branch: BAGHDAD BRANCH
+  swift: KIBIIQBABGH
+    
+- name: "KURDISTAN INTERNATIONAL BANK"
+  city: "DUHOK"
+  branch: DUHOK BRANCH
+  swift: KIBIIQBADHK
+    
+- name: "KURDISTAN INTERNATIONAL BANK"
+  city: "SULAYMINYA"
+  branch: SULAYMINYA BRANCH
+  swift: KIBIIQBASUL
+    
+- name: "MANSOUR BANK FOR INVESTMENT"
+  city: "BAGHDAD"
+  branch: null
+  swift: MBIVIQBA
+    
+- name: "MIDDLE EAST AND AFRICA BANK (L.J.S.C)"
+  city: "BAGHDAD"
+  branch: null
+  swift: BAMOIQBA
+    
+- name: "MOSUL BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: MOUUIQBA
+    
+- name: "NATIONAL BANK OF IRAQ"
+  city: "BAGHDAD"
+  branch: null
+  swift: NBIQIQBA
+    
+- name: "NATIONAL ISLAMIC BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: NISBIQBA
+    
+- name: "NORTH BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: NRTTIQBA
+    
+- name: "PARSIAN BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: BKPAIQBA
+    
+- name: "RABEE SECURITIES"
+  city: "BAGHDAD"
+  branch: null
+  swift: RASEIQB1
+    
+- name: "RASHEED BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: RDBAIQBB
+    
+- name: "REAL ESTATE BANK,THE"
+  city: "BAGHDAD"
+  branch: null
+  swift: REEBIQB1
+    
+- name: "REGION TRADE BANK FOR INVESTMENT AND FINANCE (FORMERLY EMERALD BANK)"
+  city: "ARBIL"
+  branch: null
+  swift: RTBAIQBA
+    
+- name: "STANDARD CHARTERED BANK IRAQ BRANCH"
+  city: "BAGHDAD"
+  branch: null
+  swift: SCBLIQBD
+    
+- name: "SUMER COMMERCIAL BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: SUCIIQBA
+    
+- name: "THE BANK OF ISLAMIC WORLD FOR INVESTMENT AND FINANCING, PJSC"
+  city: "BAGHDAD"
+  branch: null
+  swift: WDBKIQBA
+    
+- name: "TRADE BANK OF IRAQ"
+  city: "BAGHDAD"
+  branch: null
+  swift: TRIQIQBA
+    
+- name: "TRANS IRAQ BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: TIRAIQBA
+    
+- name: "TRUST INTERNATIONAL ISLAMIC BANK"
+  city: "BAGHDAD"
+  branch: null
+  swift: MCFTIQBA
+    
+- name: "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S."
+  city: "BAGHDAD"
+  branch: null
+  swift: TCZBIQBA
+    
+- name: "TURKIYE IS BANKASI A.S. ALL IRAQ BRANCHES"
+  city: "ARBIL"
+  branch: null
+  swift: ISBKIQBA
+    
+- name: "TURKIYE VAKIFLAR BANKASI ERBIL BRANCH"
+  city: "ARBIL"
+  branch: null
+  swift: TVBAIQBR
+    
+- name: "UNION BANK OF IRAQ"
+  city: "BAGHDAD"
+  branch: null
+  swift: UNRAIQBA
+    
+- name: "UNITED BANK FOR INVESTMENT"
+  city: "BAGHDAD"
+  branch: null
+  swift: UNTVIQBA
+    
+- name: "UNITED COMPANY FOR FINANCIAL TRANSFER"
+  city: "BAGHDAD"
+  branch: null
+  swift: UCFTIQB1
+    
+- name: "WARKA BANK FOR INVESTMENT AND FINANCE"
+  city: "BAGHDAD"
+  branch: null
+  swift: WAIVIQBA
+    
+- name: "ZAIN IRAQ ISLAMIC BANK FOR INVESTMENT AND FINANCE"
+  city: "BAGHDAD"
+  branch: null
+  swift: BZIIIQBA
+    

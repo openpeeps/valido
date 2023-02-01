@@ -1,0 +1,95 @@
+- name: "BANK OF AFRICA - BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: AFRIBJB1BWB
+    
+- name: "BANK OF AFRICA - BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: AFRIBJBJ
+    
+- name: "BANQUE AFRICAINE POUR L'INDUSTRIE ET LE COMMERCE BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: AFICBJBJ
+    
+- name: "BANQUE ATLANTIQUE DU BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: ATBJBJBJ
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "COTONOU"
+  branch: null
+  swift: BCAOBJBJ
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "PARAKOU"
+  branch: PARAKOU BRANCH
+  swift: BCAOBJBJPAR
+    
+- name: "BANQUE INTERNATIONALE DU BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: BIBEBJBJ
+    
+- name: "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (BENIN) S.A."
+  city: "COTONOU"
+  branch: null
+  swift: BSAHBJBJ
+    
+- name: "BGFIBANK BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: BGFIBJBJ
+    
+- name: "CBAO GROUP ATTIJARIWAFABANK"
+  city: "COTONOU"
+  branch: null
+  swift: CBAOBJBJ
+    
+- name: "CCEI BANK BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: CCEIBJBJ
+    
+- name: "CORIS BANK INTERNATIONAL BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: CORIBJBJ
+    
+- name: "DEPOSITAIRE CENTRAL-BANQUE DE REGLEMENT (DCBR BENIN)"
+  city: "COTONOU"
+  branch: null
+  swift: DCRDBJB1
+    
+- name: "DIAMOND BANK BENIN SA"
+  city: "COTONOU"
+  branch: null
+  swift: DBLNBJBJ
+    
+- name: "DIRECTION GENERALE DU TRESOR ET DE LA COMPTABILITE PUBLIQUE (DGTCP)"
+  city: "COTONOU"
+  branch: null
+  swift: DGTPBJBJ
+    
+- name: "ECOBANK BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: ECOCBJBJ
+    
+- name: "ORABANK BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: ORBKBJBJ
+    
+- name: "SOCIETE GENERALE BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: SOGEBJBJ
+    
+- name: "UNITED BANK FOR AFRICA BENIN"
+  city: "COTONOU"
+  branch: null
+  swift: COBBBJBJ
+    

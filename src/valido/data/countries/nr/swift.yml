@@ -1,0 +1,10 @@
+- name: "BANK OF NAURU"
+  city: "NAURU"
+  branch: null
+  swift: BNAUNRN1
+    
+- name: "EAGLE BANK INC."
+  city: "NAURU"
+  branch: null
+  swift: EGBNNRN1
+    

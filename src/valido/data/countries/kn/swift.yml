@@ -1,0 +1,85 @@
+- name: "BANCLEAR TRUST CORPORATION"
+  city: "CHARLESTOWN"
+  branch: null
+  swift: BAUOKNN1
+    
+- name: "BANK OF NEVIS INTERNATIONAL LIMITED"
+  city: "CHARLESTOWN"
+  branch: null
+  swift: BNEIKNNE
+    
+- name: "BANK OF NEVIS, THE"
+  city: "CHARLESTOWN"
+  branch: null
+  swift: BNEVKNNE
+    
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "BASSETERRE"
+  branch: null
+  swift: NOSCKNSK
+    
+- name: "CENTERLINK, LLC"
+  city: "CHARLESTOWN"
+  branch: null
+  swift: CNLLKNN1
+    
+- name: "EASTERN CARIBBEAN CENTRAL BANK"
+  city: "BASSETERRE"
+  branch: null
+  swift: ECCBKNSK
+    
+- name: "EASTERN CARIBBEAN SECURITIES EXCHANGE LTD"
+  city: "BASSETERRE"
+  branch: null
+  swift: ECSXKNSK
+    
+- name: "EUROWIRE CASH MANAGEMENT TRUST"
+  city: "CHARLESTOWN"
+  branch: null
+  swift: ECMTKNS1
+    
+- name: "EUROWIRE CLEARING CORPORATION"
+  city: "CHARLESTOWN"
+  branch: null
+  swift: EULOKNS1
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED"
+  city: "BASSETERRE"
+  branch: null
+  swift: FCIBKNSK
+    
+- name: "GLOBAL TRADE AIM LIMITED"
+  city: "BASSETERRE"
+  branch: null
+  swift: GLTAKNS1
+    
+- name: "GOVERMENT OF ST. KITTS AND NEVIS"
+  city: "BASSETERRE"
+  branch: null
+  swift: GVKNKNSK
+    
+- name: "MAGNATE PREMIER INVESTMENT BANK LIMITED"
+  city: "BASSETERRE"
+  branch: null
+  swift: MAMSKNS1
+    
+- name: "MAGNATE PREMIER LIMITED"
+  city: "BASSETERRE"
+  branch: null
+  swift: MGPMKNS1
+    
+- name: "RBTT BANK (SKN) LIMITED"
+  city: "CHARLESTOWN"
+  branch: null
+  swift: RBTTKNNE
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "BASSETERRE"
+  branch: null
+  swift: ROYCKNSK
+    
+- name: "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK"
+  city: "BASSETERRE"
+  branch: null
+  swift: KNANKNSK
+    

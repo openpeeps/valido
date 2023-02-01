@@ -1,0 +1,290 @@
+- name: "ALTREE FINANCIAL GROUP LTD."
+  city: "HAMILTON"
+  branch: null
+  swift: ALCUBMHH
+    
+- name: "ATLANTIC INVESTMENT AND DEVELOPMENT"
+  city: "HAMILTON"
+  branch: null
+  swift: ATIDBMH1
+    
+- name: "AXIS SPECIALTY BERMUDA LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: AXSBBMHM
+    
+- name: "BANK OF N.T. BUTTERFIELD AND SON LIMITED, THE"
+  city: "HAMILTON"
+  branch: null
+  swift: BNTBBMHM
+    
+- name: "BERMUDA COMMERCIAL BANK LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: BPBKBMHM
+    
+- name: "BERMUDA MONETARY AUTHORITY"
+  city: "HAMILTON"
+  branch: null
+  swift: BEMABMHM
+    
+- name: "BERMUDA STOCK EXCHANGE LTD, THE"
+  city: "HAMILTON"
+  branch: null
+  swift: XBDABMH1
+    
+- name: "BERMUDA TRUST COMPANY LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: BERTBMH1
+    
+- name: "BLOOMBERG TRADEBOOK (BERMUDA) LTD."
+  city: "HAMILTON"
+  branch: null
+  swift: TBASBMHM
+    
+- name: "BOLTON CAPITAL PARTNERS INTERNATIONAL LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: BCPNBMH1
+    
+- name: "BOSTON RE LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: BOSRBMHM
+    
+- name: "BOSTON RE LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: BOSRBMHMVIS
+    
+- name: "BTG PACTUAL GLOBAL ASSET MANAGEMENT LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: BPGTBMH1
+    
+- name: "BUTTERFIELD TRUST (BERMUDA) LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: BNTBBMHS
+    
+- name: "CAMBUSLANG INVESTMENTS LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: CMILBMH1
+    
+- name: "CASTLE HARBOUR INSURANCE LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: CAHIBMH1
+    
+- name: "CHURCHILL CAPITAL LTD."
+  city: "HAMILTON"
+  branch: null
+  swift: CHCABMH1
+    
+- name: "CLARIEN BANK LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: CAGPBMHM
+    
+- name: "CS LIFE BERMUDA"
+  city: "HAMILTON"
+  branch: null
+  swift: CSLEBMH1
+    
+- name: "DKR IBEX"
+  city: "HAMILTON"
+  branch: null
+  swift: DKIBBMH1
+    
+- name: "DKR OASIS FISCHER GROUP"
+  city: "HAMILTON"
+  branch: null
+  swift: DOFGBMH1
+    
+- name: "EVEREST CAPITAL GLOBAL LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: EVCIBMH1
+    
+- name: "GLENCORE FINANCE (BERMUDA) LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: GFBEBMH1
+    
+- name: "G-TRADE SERVICES LLC"
+  city: "HAMILTON"
+  branch: DIVISION G-PORT
+  swift: GTRDBMH1GPO
+    
+- name: "G-TRADE SERVICES LLC"
+  city: "HAMILTON"
+  branch: null
+  swift: GTRDBMH1
+    
+- name: "HARRINGTON SOUND INSURANCE LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: HSILBMH1
+    
+- name: "HSBC BANK BERMUDA LIMITED"
+  city: "HAMILTON"
+  branch: CORPORATE TRUST SERVICES
+  swift: BBDABMHMCTS
+    
+- name: "HSBC BANK BERMUDA LIMITED"
+  city: "HAMILTON"
+  branch: INVESTMENT DEPT
+  swift: BBDABMHMINV
+    
+- name: "HSBC BANK BERMUDA LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: BBDABMHM
+    
+- name: "HSBC BANK BERMUDA LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: BBDABMHP
+    
+- name: "INVESCO LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: IVZLBMHH
+    
+- name: "KINTORE INVESTMENTS LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: KINTBMH1
+    
+- name: "MARCUARD SPECTRUM LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: MAUMBMH1
+    
+- name: "MERRILL LYNCH REINSURANCE SOLUTIONS"
+  city: "HAMILTON"
+  branch: null
+  swift: MLRIBMHM
+    
+- name: "MF GLOBAL LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: MFGLBMH1
+    
+- name: "MICROSOFT GLOBAL FINANCE"
+  city: "HAMILTON"
+  branch: MICROSOFT GLOBAL BOND
+  swift: MSFTBMH1GLB
+    
+- name: "MICROSOFT GLOBAL FINANCE"
+  city: "HAMILTON"
+  branch: MICROSOFT GLOBAL FINANCE FX
+  swift: MSFTBMH1SPF
+    
+- name: "MICROSOFT GLOBAL FINANCE"
+  city: "HAMILTON"
+  branch: null
+  swift: MSFTBMH1
+    
+- name: "NEPHILA CAPITAL LTD."
+  city: "HAMILTON"
+  branch: null
+  swift: NEPHBMHM
+    
+- name: "NOMURA SECURITIES (BERMUDA) LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: NOSRBMHM
+    
+- name: "NOVARTIS SECURITIES INVESTMENT LTD"
+  city: "HAMILTON"
+  branch: BEFICO
+  swift: NOVRBMHM019
+    
+- name: "NOVARTIS SECURITIES INVESTMENT LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: NOVRBMHM
+    
+- name: "NOVARTIS SECURITIES INVESTMENT LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: NOVRBMHM035
+    
+- name: "ORACLE MANAGEMENT LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: ORMABMH1
+    
+- name: "ORBIS INVESTMENT MANAGEMENT LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: ORIMBMH1
+    
+- name: "P.R.P PERFORMA LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: PRPFBMH1
+    
+- name: "PARSEC TRADING CORP"
+  city: "HAMILTON"
+  branch: null
+  swift: PTRNBMH1
+    
+- name: "RENAISSANCERE HOLDINGS LTD."
+  city: "HAMILTON"
+  branch: null
+  swift: RRHLBMH1
+    
+- name: "ROCHE FINANCIAL INVESTMENTS LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: ROCHBMHM
+    
+- name: "ROCHE INTERTRADE LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: ROCHBMHA
+    
+- name: "SCHRODERS (BERMUDA) LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: SBDABMH1
+    
+- name: "SWISS REINSURANCE COMPANY"
+  city: "HAMILTON"
+  branch: null
+  swift: SWREBMH1
+    
+- name: "TCC MARKETS LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: TCCMBMH1
+    
+- name: "THE ATLANTIC FINANCE COMPANY LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: ATFNBMH1
+    
+- name: "THRACIAN INVESTMENT MANAGERS"
+  city: "HAMILTON"
+  branch: null
+  swift: THIGBMH1
+    
+- name: "TWO AND FIVE INSURANCE COMPANY LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: TFIOBMH1
+    
+- name: "UFG ADVISORS LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: UFADBMH1
+    
+- name: "WORLDWIDE TRANSACTIONS"
+  city: "HAMILTON"
+  branch: null
+  swift: WOTABMH1
+    

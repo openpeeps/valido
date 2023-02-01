@@ -1,0 +1,210 @@
+- name: "BALOISE LIFE LIECHTENSTEIN AG"
+  city: "BALZERS"
+  branch: null
+  swift: BAIHLI21
+    
+- name: "BANK ALPINUM AG"
+  city: "VADUZ"
+  branch: null
+  swift: BALPLI22
+    
+- name: "BANK FRICK AND CO AKTIENGESELLSCHAFT"
+  city: "BALZERS"
+  branch: null
+  swift: BFRILI22
+    
+- name: "BANQUE HAVILLAND (LIECHTENSTEIN) AG"
+  city: "VADUZ"
+  branch: null
+  swift: SFBALI22
+    
+- name: "BENDURA BANK AG"
+  city: "GAMPRIN-BENDERN"
+  branch: null
+  swift: HYIBLI22
+    
+- name: "CS LIFE AND PENSIONS"
+  city: "VADUZ"
+  branch: null
+  swift: LPENLI21
+    
+- name: "CS TRUST LIECHTENSTEIN"
+  city: "VADUZ"
+  branch: null
+  swift: TLIELI21
+    
+- name: "EFG BANK VON ERNST AG"
+  city: "VADUZ"
+  branch: null
+  swift: EFGBLI22
+    
+- name: "EMCORE AG"
+  city: "VADUZ"
+  branch: null
+  swift: EMCOLI21
+    
+- name: "FDS FINANCIAL DATA SERVICES AG"
+  city: "VADUZ"
+  branch: null
+  swift: FDSFLI22
+    
+- name: "GWS CONSULTING GMBH"
+  city: "BALZERS"
+  branch: null
+  swift: GWCGLI21
+    
+- name: "HILTI CORPORATION"
+  city: "SCHAAN"
+  branch: null
+  swift: HILTLI22
+    
+- name: "INTEROGO TREASURY AG"
+  city: "VADUZ"
+  branch: null
+  swift: INUYLI21
+    
+- name: "INTEROGO TREASURY AG"
+  city: "VADUZ"
+  branch: null
+  swift: INUYLI21TRE
+    
+- name: "J AND T INTERNATIONAL ANSTALT"
+  city: "RUGGELL"
+  branch: null
+  swift: ITATLI21
+    
+- name: "KAISER RITTER PARTNER PRIVATBANK AG"
+  city: "VADUZ"
+  branch: null
+  swift: SERBLI22
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: null
+  swift: BLFLLI2X
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: AGX FUNDS
+  swift: BLFLLI2XAGX
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: CONV SHAREKLASSE GBP
+  swift: BLFLLI2X224
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: EQ NAM SHAREKLASSE EUR
+  swift: BLFLLI2X225
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: LGT SLC EQ JP USD B
+  swift: BLFLLI2X252
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: LGT SLC EQ JP USD I1
+  swift: BLFLLI2X253
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: LGT SELECT CONVERTIBLE CHF C
+  swift: BLFLLI2X275
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: LGT SELECT CONVERTIBLE CHF I1
+  swift: BLFLLI2X276
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: LGT SELECT CONVERTIBLE EUR C
+  swift: BLFLLI2X279
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: LGT SELECT CONVERTIBLE EUR I1
+  swift: BLFLLI2X281
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: LGT SELECT CONVERTIBLE GBP C
+  swift: BLFLLI2X283
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: LGT SELECT CONVERTIBLE GBP I1
+  swift: BLFLLI2X314
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: LGT SELECT EQUITY JAPAN USD C
+  swift: BLFLLI2X315
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: M-M CONV. SHAREKLASSE EUR
+  swift: BLFLLI2X495
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: M-M CONV. SHAREKLASSE CHF
+  swift: BLFLLI2X496
+    
+- name: "LGT BANK AG"
+  city: "VADUZ"
+  branch: EX CUSTODY
+  swift: BLFLLI2XEXC
+    
+- name: "LIECHTENSTEINISCHE LANDESBANK AKTIENGESELLSCHAFT"
+  city: "VADUZ"
+  branch: null
+  swift: LILALI2X
+    
+- name: "NEUE BANK AG"
+  city: "VADUZ"
+  branch: null
+  swift: NBANLI22
+    
+- name: "RAIFFEISEN BANK (LIECHTENSTEIN) AG"
+  city: "VADUZ"
+  branch: null
+  swift: RAIBLI22
+    
+- name: "SWISS LIFE (LIECHTENSTEIN) AG"
+  city: "SCHAAN"
+  branch: null
+  swift: SWLCLI22
+    
+- name: "THE NATIONAL EMISSIONS TRADING REGISTRY OF LIECHTENSTEIN"
+  city: "VADUZ"
+  branch: null
+  swift: NETILI21
+    
+- name: "UNION BANK AG"
+  city: "VADUZ"
+  branch: null
+  swift: UNIVLI22
+    
+- name: "VOLKSBANK AG"
+  city: "SCHAAN"
+  branch: null
+  swift: VOAGLI22
+    
+- name: "VP BANK AG"
+  city: "TRIESEN"
+  branch: BUSINESS UNIT LIECHTENSTEIN
+  swift: VPBVLI2XLIC
+    
+- name: "VP BANK AG"
+  city: "VADUZ"
+  branch: null
+  swift: VPBVLI2X
+    
+- name: "WILLIAM BLAIR AND COMPANY"
+  city: "VADUZ"
+  branch: null
+  swift: WIBCLI21
+    

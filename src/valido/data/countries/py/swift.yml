@@ -1,0 +1,220 @@
+- name: "BANCO AMAMBAY S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: AMAMPYPA
+    
+- name: "BANCO ATLAS S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: BNITPYPA
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: BBVAPYPA
+    
+- name: "BANCO BUSAIF S.A. DE INVERSION Y FOMENTO"
+  city: "ASUNCION"
+  branch: null
+  swift: BOUIPYP1
+    
+- name: "BANCO CENTRAL DEL PARAGUAY"
+  city: "ASUNCION"
+  branch: OPERACIONES NACIONALES - DPTO. DE CREDITO Y CTAS. CTES.
+  swift: BCPAPYPXGON
+    
+- name: "BANCO CENTRAL DEL PARAGUAY"
+  city: "ASUNCION"
+  branch: null
+  swift: BCPAPYPB
+    
+- name: "BANCO CENTRAL DEL PARAGUAY"
+  city: "ASUNCION"
+  branch: null
+  swift: BCPAPYPD
+    
+- name: "BANCO CENTRAL DEL PARAGUAY"
+  city: "ASUNCION"
+  branch: null
+  swift: BCPAPYPR
+    
+- name: "BANCO CENTRAL DEL PARAGUAY"
+  city: "ASUNCION"
+  branch: null
+  swift: BCPAPYPX
+    
+- name: "BANCO COMERCIAL PARAGUAYO SA"
+  city: "ASUNCION"
+  branch: null
+  swift: PCOMPYP1
+    
+- name: "BANCO CONTINENTAL SAECA"
+  city: "ASUNCION"
+  branch: null
+  swift: BCNAPYPA
+    
+- name: "BANCO CORPORACION S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: BBCNPYP1
+    
+- name: "BANCO DE DESARROLLO DEL PARAGUAY S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: PADEPYP1
+    
+- name: "BANCO DE INVERSIONES DEL PARAGUAY"
+  city: "ASUNCION"
+  branch: null
+  swift: INVPPYP1
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "ASUNCION"
+  branch: SUCURSAL ASUNCION
+  swift: NACNPYPA
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "CONCEPCION"
+  branch: null
+  swift: NACNPYPA0PC
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "ENCARNACION"
+  branch: null
+  swift: NACNPYPA0PE
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "VILLARRICA"
+  branch: null
+  swift: NACNPYPA0P3
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: BRASPYPX
+    
+- name: "BANCO FAMILIAR S.A.E.C.A."
+  city: "ASUNCION"
+  branch: null
+  swift: FAMIPYPA
+    
+- name: "BANCO FINAMERICA SAECA."
+  city: "ASUNCION"
+  branch: null
+  swift: BAFAPYP1
+    
+- name: "BANCO GENERAL S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: GENBPYP1
+    
+- name: "BANCO GNB PARAGUAY S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: BGNBPYPX
+    
+- name: "BANCO ITAPUA SAECA"
+  city: "ENCARNACION"
+  branch: null
+  swift: BISAPYPE
+    
+- name: "BANCO ITAU PARAGUAY S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: UBBRPYPX
+    
+- name: "BANCO NACIONAL DE FOMENTO"
+  city: "ASUNCION"
+  branch: null
+  swift: BNFAPYPA
+    
+- name: "BANCO NACIONAL DE TRABAJADORES"
+  city: "ASUNCION"
+  branch: null
+  swift: BNTRPYP1
+    
+- name: "BANCO PARA LA COMERCIALIZACION Y LA PRODUCCION SOCIEDAD ANONIMA (BANCOP S.A.)"
+  city: "ASUNCION"
+  branch: null
+  swift: BCOPPYPA
+    
+- name: "BANCO PARAGUAYO ORIENTAL DE INVERSION Y FOMENTO S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: POIFPYP1
+    
+- name: "BANCO REGIONAL S.A.E.C.A."
+  city: "ENCARNACION"
+  branch: null
+  swift: RGSAPYPE
+    
+- name: "BOLPAR SOCIEDAD ANONIMA"
+  city: "ASUNCION"
+  branch: null
+  swift: BOSNPYP1
+    
+- name: "BOLSA DE VALORES Y PRODUCTOS DE ASUNCION S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: XVPAPYP1
+    
+- name: "BRITISH AMERICAN TOBACCO PRODUCTORA DE CIGARILLOS S.A."
+  city: "ASUNCION"
+  branch: null
+  swift: BATSPYP1
+    
+- name: "CITIBANK N.A."
+  city: "ASUNCION"
+  branch: null
+  swift: CITIPYP10PA
+    
+- name: "CITIBANK N.A."
+  city: "CIUDAD DEL ESTE"
+  branch: null
+  swift: CITIPYP10P2
+    
+- name: "CITIBANK N.A."
+  city: "ENCARNACION"
+  branch: null
+  swift: CITIPYP1
+    
+- name: "CRISOL Y ENCARNACIN FINANCIERA S.A."
+  city: "ENCARNACION"
+  branch: null
+  swift: CIEFPYPE
+    
+- name: "FINANCIERA EL COMERCIO S.A.E.C.A."
+  city: "ASUNCION"
+  branch: null
+  swift: COMAPYPA
+    
+- name: "FINANCIERA PARAGUAYO JAPONESA SAECA"
+  city: "ASUNCION"
+  branch: null
+  swift: FIPJPYPA
+    
+- name: "FONPLATA - FONDO FINANCIERO PARA EL DESAROLLO DE LA CUENCA DEL PLATA"
+  city: "ASUNCION"
+  branch: null
+  swift: FOPLPYPA
+    
+- name: "GRUPO INTERNACIONAL DE FINANZAS S.A.E.C.A. (INTERFISA BANCO)"
+  city: "ASUNCION"
+  branch: null
+  swift: IIFAPYPA
+    
+- name: "SUDAMERIS BANK S.A.E.C.A."
+  city: "ASUNCION"
+  branch: null
+  swift: BSUDPYPX
+    
+- name: "SUMMA ASESORIES"
+  city: "ASUNCION"
+  branch: null
+  swift: SUMSPYP1
+    
+- name: "VISION BANCO S.A.E.C.A."
+  city: "ASUNCION"
+  branch: null
+  swift: VISCPYPA
+    

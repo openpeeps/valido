@@ -1,0 +1,45 @@
+- name: "AIB BANK NV"
+  city: "ORANJESTAD"
+  branch: null
+  swift: ANIBAWA1
+    
+- name: "ARUBA BANK, LTD"
+  city: "ORANJESTAD"
+  branch: null
+  swift: ARUBAWAX
+    
+- name: "BANCO DI CARIBE (ARUBA) N.V"
+  city: "ORANJESTAD"
+  branch: null
+  swift: BDCCAWAW
+    
+- name: "CENTRALE BANK VAN ARUBA"
+  city: "ORANJESTAD"
+  branch: null
+  swift: CBARAWAW
+    
+- name: "CARIBBEAN MERCANTILE BANK N.V."
+  city: "ORANJESTAD"
+  branch: null
+  swift: CMBAAWAX
+    
+- name: "FIRSTCARIBBEAN INT'L BANK CAYMAN LTD"
+  city: "ORANJESTAD"
+  branch: null
+  swift: FCIBAWAW
+    
+- name: "INTERBANK ARUBA NV"
+  city: "ORANJESTAD"
+  branch: null
+  swift: IARUAWA1
+    
+- name: "IMTRADEX INTERNATIONAL N.V."
+  city: "ORANJESTAD"
+  branch: null
+  swift: IMIEAWA1
+    
+- name: "RBC ROYAL BANK (ARUBA) N.V. (FORMERLY RBTT BANK ARUBA N.V.)"
+  city: "ORANJESTAD"
+  branch: null
+  swift: RBTTAWAW
+    

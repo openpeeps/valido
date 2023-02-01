@@ -1,0 +1,45 @@
+- name: "BANK OF BARODA (GUYANA) INC."
+  city: "GEORGETOWN"
+  branch: null
+  swift: BARBGYGE
+    
+- name: "BANK OF GUYANA"
+  city: "GEORGETOWN"
+  branch: null
+  swift: GUBAGYGG
+    
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "GEORGETOWN"
+  branch: null
+  swift: NOSCGYGE
+    
+- name: "CITIZENS BANK GUYANA INC"
+  city: "GEORGETOWN"
+  branch: null
+  swift: CBGIGYGG
+    
+- name: "DEMERARA BANK LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: DMBKGYGT
+    
+- name: "DEMERARA TOBACCO COMPANY LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BATSGYG1
+    
+- name: "EXCEL CAPITAL INC."
+  city: "GEORGETOWN"
+  branch: null
+  swift: EXCAGYG1
+    
+- name: "GUYANA BANK FOR TRADE AND INDUSTRY LTD."
+  city: "GEORGETOWN"
+  branch: MAIN BRANCH
+  swift: GUTIGYGE
+    
+- name: "REPUBLIC BANK (GUYANA) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: RBGLGYGG
+    

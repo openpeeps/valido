@@ -1,0 +1,210 @@
+- name: "ASIA GREEN DEVELOPMENT BANK LIMITED"
+  city: "NAY PYI TAW"
+  branch: null
+  swift: AGDBMMMY
+    
+- name: "AUSTRALIA AND NEWZEALAND BANKING GROUP LTD"
+  city: "YANGON"
+  branch: null
+  swift: ANZBMMMY
+    
+- name: "AYA BANK LIMITED"
+  city: "YANGON"
+  branch: null
+  swift: AYABMMMY
+    
+- name: "AYEYARWADDY FARMERS DEVELOPMENT BANK PUBLIC COMPANY LIMITED"
+  city: "YANGON"
+  branch: null
+  swift: AYFDMMMY
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED YANGON BRANCH"
+  city: "YANGON"
+  branch: null
+  swift: BKKBMMMY
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD."
+  city: "YANGON"
+  branch: null
+  swift: BOTKMMMY
+    
+- name: "CENTRAL BANK OF MYANMAR"
+  city: "YANGON"
+  branch: null
+  swift: CBMYMMMY
+    
+- name: "CONSTRUCTION AND HOUSING DEVELOPMENT BANK LTD."
+  city: "YANGON"
+  branch: null
+  swift: CHDDMMMY
+    
+- name: "CO-OPERATIVE BANK LIMITED (PUBLIC BANK)"
+  city: "YANGON"
+  branch: null
+  swift: CPOBMMMY
+    
+- name: "E.SUN COMMERCIAL BANK, LTD., YANGON BRANCH"
+  city: "YANGON"
+  branch: null
+  swift: ESUNMMMY
+    
+- name: "FIRST PRIVATE BANK LIMITED"
+  city: "YANGON"
+  branch: null
+  swift: FPBPMMMY
+    
+- name: "GLOBAL TREASURE BANK PUBLIC COMPANY LTD"
+  city: "YANGON"
+  branch: null
+  swift: MLFBMMMY
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA YANGON BRANCH"
+  city: "YANGON"
+  branch: null
+  swift: ICBKMMMY
+    
+- name: "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM, YANGON BRANCH."
+  city: "YANGON"
+  branch: null
+  swift: BIDVMMMY
+    
+- name: "KANBAWZA BANK LTD"
+  city: "MANDALAY"
+  branch: MANDALAY BRANCH
+  swift: KBZBMMMYMDY
+    
+- name: "KANBAWZA BANK LTD"
+  city: "YANGON"
+  branch: null
+  swift: KBZBMMMY
+    
+- name: "MALAYAN BANKING BERHAD YANGON BRANCH"
+  city: "YANGON"
+  branch: null
+  swift: MBBEMMMY
+    
+- name: "MIZUHO BANK, LTD (YANGON BRANCH)"
+  city: "YANGON"
+  branch: null
+  swift: MHCBMMMY
+    
+- name: "MYANMA APEX BANK LIMITED"
+  city: "YANGON"
+  branch: null
+  swift: MMABMMMY
+    
+- name: "MYANMA ECONOMIC BANK"
+  city: "MANDALAY"
+  branch: MEB(FOREX)MDY
+  swift: MYEBMMMYMDY
+    
+- name: "MYANMA ECONOMIC BANK"
+  city: "YANGON"
+  branch: MEB(FOREX)YGN
+  swift: MYEBMMMYYGN
+    
+- name: "MYANMA ECONOMIC BANK"
+  city: "YANGON"
+  branch: null
+  swift: MYEBMMMY
+    
+- name: "MYANMA FOREIGN TRADE BANK"
+  city: "YANGON"
+  branch: null
+  swift: MFTBMMMY
+    
+- name: "MYANMA INVESTMENT AND COMMERCIAL BANK"
+  city: "YANGON"
+  branch: FULL BRANCH
+  swift: MICBMMMYMAN
+    
+- name: "MYANMA INVESTMENT AND COMMERCIAL BANK"
+  city: "YANGON"
+  branch: null
+  swift: MICBMMMY
+    
+- name: "MYANMAR CITIZENS BANK LIMITED"
+  city: "YANGON"
+  branch: null
+  swift: MCIZMMMY
+    
+- name: "MYANMAR ORIENTAL BANK LIMITED"
+  city: "YANGON"
+  branch: null
+  swift: MYORMMMY
+    
+- name: "MYAWADDY BANK LIMITED"
+  city: "YANGON"
+  branch: null
+  swift: MWDBMMMY
+    
+- name: "OCBC BANK YANGON BRANCH"
+  city: "YANGON"
+  branch: null
+  swift: OCBCMMMY
+    
+- name: "PEOPLE'S BANK"
+  city: "YANGON"
+  branch: null
+  swift: BAPSMMM1
+    
+- name: "RURAL DEVELOPMENT BANK LIMITED"
+  city: "ZABUTHIRI TOWNSHIP"
+  branch: null
+  swift: RDEVMMMY
+    
+- name: "SHINHAN BANK CO., LTD. (YANGON BRANCH)"
+  city: "YANGON"
+  branch: null
+  swift: SHBKMMMY
+    
+- name: "SHWE RURAL AND URBAN DEVELOPMENT BANK"
+  city: "YANGON"
+  branch: null
+  swift: SRUDMMMY
+    
+- name: "SMALL AND MEDIUM INDUSTRIAL DEVELOPMENT BANK"
+  city: "YANGON"
+  branch: null
+  swift: MYIDMMMY
+    
+- name: "STATE BANK OF INDIA, YANGON BRANCH"
+  city: "YANGON"
+  branch: null
+  swift: SBINMMMY
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION YANGON BRANCH"
+  city: "YANGON"
+  branch: null
+  swift: SMBCMMMY
+    
+- name: "TUN COMMERCIAL BANK LTD"
+  city: "YANGON"
+  branch: null
+  swift: TFBKMMMY
+    
+- name: "UNION OF BURMA BANK"
+  city: "YANGON"
+  branch: null
+  swift: UBUBMMM1
+    
+- name: "UNITED AMARA BANK LIMITED"
+  city: "YANGON"
+  branch: null
+  swift: UABMMMMY
+    
+- name: "UNITED OVERSEAS BANK LIMITED, YANGON BRANCH"
+  city: "YANGON"
+  branch: TRANSACTION BANKING
+  swift: UOVBMMMYCMS
+    
+- name: "UNITED OVERSEAS BANK LIMITED, YANGON BRANCH"
+  city: "YANGON"
+  branch: null
+  swift: UOVBMMMY
+    
+- name: "YOMA BANK LIMITED"
+  city: "YANGON"
+  branch: null
+  swift: YOMAMMMY
+    

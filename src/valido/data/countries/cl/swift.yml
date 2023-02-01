@@ -1,0 +1,570 @@
+- name: "AFEX AGENTES DE VALORES LIMITADA"
+  city: "SANTIAGO"
+  branch: null
+  swift: AAVLCLR9
+    
+- name: "BANCHILE CORREDORES DE BOLSA S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: BCOSCLR1
+    
+- name: "BANCO BICE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BICECLRM
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BHIFCLRM
+    
+- name: "BANCO BTG PACTUAL CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BPABCLRM
+    
+- name: "BANCO CENTRAL DE CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BCECCLA1
+    
+- name: "BANCO CENTRAL DE CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BCECCLB1
+    
+- name: "BANCO CENTRAL DE CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BCECCLC1
+    
+- name: "BANCO CENTRAL DE CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BCECCLRD
+    
+- name: "BANCO CENTRAL DE CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BCECCLRF
+    
+- name: "BANCO CENTRAL DE CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BCECCLRM
+    
+- name: "BANCO CONSORCIO"
+  city: "SANTIAGO"
+  branch: null
+  swift: MNEXCLRM
+    
+- name: "BANCO DE CHILE"
+  city: "ANTOFAGASTA"
+  branch: null
+  swift: BCHICLR10R5
+    
+- name: "BANCO DE CHILE"
+  city: "ARICA"
+  branch: null
+  swift: BCHICLR10R3
+    
+- name: "BANCO DE CHILE"
+  city: "CONCEPCION"
+  branch: null
+  swift: BCHICLR10RC
+    
+- name: "BANCO DE CHILE"
+  city: "COYHAIQUE"
+  branch: null
+  swift: BCHICLR10RY
+    
+- name: "BANCO DE CHILE"
+  city: "IQUIQUE"
+  branch: null
+  swift: BCHICLR10R4
+    
+- name: "BANCO DE CHILE"
+  city: "LA SERENA"
+  branch: null
+  swift: BCHICLR10R6
+    
+- name: "BANCO DE CHILE"
+  city: "PUERTO MONTT"
+  branch: null
+  swift: BCHICLR10R8
+    
+- name: "BANCO DE CHILE"
+  city: "PUNTA ARENAS"
+  branch: null
+  swift: BCHICLR10RA
+    
+- name: "BANCO DE CHILE"
+  city: "SANTIAGO"
+  branch: EXPORT
+  swift: BCHICLRMEXP
+    
+- name: "BANCO DE CHILE"
+  city: "SANTIAGO"
+  branch: IMPORT HEAD OFFICE
+  swift: BCHICLRMIMP
+    
+- name: "BANCO DE CHILE"
+  city: "SANTIAGO"
+  branch: IMPORT OTHER SANTIAGO BRANCHES
+  swift: BCHICLRMIOB
+    
+- name: "BANCO DE CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BCHICLRM
+    
+- name: "BANCO DE CHILE"
+  city: "TEMUCO"
+  branch: null
+  swift: BCHICLR10R7
+    
+- name: "BANCO DE CHILE"
+  city: "VALPARAISO"
+  branch: null
+  swift: BCHICLR10RV
+    
+- name: "BANCO DE CHILE"
+  city: "VINA DEL MAR"
+  branch: null
+  swift: BCHICLR10R2
+    
+- name: "BANCO DE CHILE, AS LEGAL SUCCESOR OF CITIBANK CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: CITICLRS
+    
+- name: "BANCO DE CREDITO E INVERSIONES"
+  city: "SANTIAGO"
+  branch: null
+  swift: CREDCLRM
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "SANTIAGO"
+  branch: null
+  swift: NACNCLRM
+    
+- name: "BANCO DE LA PROVINCIA DE BUENOS AIRES"
+  city: "SANTIAGO"
+  branch: null
+  swift: PRBACLR1
+    
+- name: "BANCO DEL ESTADO DE CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BECHCLRM
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: BRASCLRM
+    
+- name: "BANCO FALABELLA"
+  city: "SANTIAGO"
+  branch: null
+  swift: FALACLRM
+    
+- name: "BANCO INTERNACIONAL"
+  city: "SANTIAGO"
+  branch: null
+  swift: BICHCLRM
+    
+- name: "BANCO RIPLEY"
+  city: "SANTIAGO"
+  branch: null
+  swift: RPLYCLRM
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "ANTOFAGASTA"
+  branch: null
+  swift: BSCHCLR10R2
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "ARICA"
+  branch: null
+  swift: BSCHCLR10R3
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "CHILLAN"
+  branch: null
+  swift: BSCHCLR10R4
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "CONCEPCION"
+  branch: null
+  swift: BSCHCLR10R5
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "COYHAIQUE"
+  branch: null
+  swift: BSCHCLR10R6
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "CURICO"
+  branch: null
+  swift: BSCHCLR10R7
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "IQUIQUE"
+  branch: null
+  swift: BSCHCLR10RA
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "LA SERENA"
+  branch: null
+  swift: BSCHCLR10RB
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "PUERTO MONTT"
+  branch: null
+  swift: BSCHCLR10RD
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "PUNTA ARENAS"
+  branch: null
+  swift: BSCHCLR10RE
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "RANCAGUA"
+  branch: null
+  swift: BSCHCLR10RF
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "SANTIAGO"
+  branch: GLOBAL CUSTODY DEPARTMENT
+  swift: BSCHCLRMGST
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BSCHCLRM
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "TALCA"
+  branch: null
+  swift: BSCHCLR10RG
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "TEMUCO"
+  branch: null
+  swift: BSCHCLR10RH
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "VALDIVIA"
+  branch: null
+  swift: BSCHCLR10RJ
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "VALPARAISO"
+  branch: null
+  swift: BSCHCLR10RK
+    
+- name: "BANCO SANTANDER CHILE"
+  city: "VINA DEL MAR"
+  branch: null
+  swift: BSCHCLR10RL
+    
+- name: "BANCO SECURITY"
+  city: "SANTIAGO"
+  branch: null
+  swift: BSCLCLRM
+    
+- name: "BANK OF AMERICA, S.A. SANTIAGO"
+  city: "SANTIAGO"
+  branch: null
+  swift: BOFACLR1
+    
+- name: "BANK OF CHINA, AGENCIA EN CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BKCHCLRM
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "SANTIAGO"
+  branch: SANTIAGO BRANCH
+  swift: BOTKCLRM
+    
+- name: "BBVA CORREDORES DE BOLSA LIMITADA"
+  city: "SANTIAGO"
+  branch: null
+  swift: BCBDCLR1
+    
+- name: "BCI CORREDOR DE BOLSA S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: BCCSCLR1
+    
+- name: "BOLSA DE COMERCIO DE SANTIAGO"
+  city: "SANTIAGO"
+  branch: null
+  swift: XSGOCLR1
+    
+- name: "BTG PACTUAL CHILE S.A. CORREDORES DE BOLSA"
+  city: "SANTIAGO"
+  branch: null
+  swift: CCOACLR1
+    
+- name: "CASA DE MONEDA DE CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: CAMCCLR1
+    
+- name: "CCLV, CONTRAPARTE CENTRAL S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: ECCVCLRM
+    
+- name: "CELFIN S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: CELFCLR1
+    
+- name: "CHINA CONSTRUCTION BANK,  AGENCIA EN CHILE"
+  city: "SANTIAGO"
+  branch: COMMERCIAL CLIENT
+  swift: PCBCCLRMCLR
+    
+- name: "CHINA CONSTRUCTION BANK,  AGENCIA EN CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: PCBCCLRM
+    
+- name: "COMBANC S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: PCCACLRM
+    
+- name: "COMDER CONTRAPARTE CENTRAL S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: CDERCLRG
+    
+- name: "COMDER CONTRAPARTE CENTRAL S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: CDERCLRM
+    
+- name: "CONSORCIO CORREDORES DE BOLSA S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: CNCOCLR1
+    
+- name: "COOPERATIVA DE CONSUMOS E DE AHORROS CARABINEROS DE CHILE LTD."
+  city: "SANTIAGO"
+  branch: null
+  swift: CCACCLR1
+    
+- name: "CORPORACION FOMENTO DE LA PRODUCCION"
+  city: "SANTIAGO"
+  branch: null
+  swift: CFPCCLR1
+    
+- name: "CORPORACION NACIONAL DEL COBRE DE CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: CNCCCLR1
+    
+- name: "DEPOSITO CENTRAL DE VALORES S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: DCVVCLRM
+    
+- name: "DEUTSCHE BANK (CHILE) S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: DEUTCLRM
+    
+- name: "DEUTSCHE SECURITIES CORREDORES DE BOLSA LIMITADA"
+  city: "SANTIAGO"
+  branch: null
+  swift: DSCBCLR1
+    
+- name: "EUROAMERICA CORREDORES DE BOLSA S.A"
+  city: "SANTIAGO"
+  branch: null
+  swift: EUOBCLR1
+    
+- name: "EXPORT-IMPORT BANK OF KOREA, THE"
+  city: "SANTIAGO"
+  branch: null
+  swift: EXIKCLR1
+    
+- name: "FITCH CHILE CLASIFICADORA DE REISGO LTD"
+  city: "SANTIAGO"
+  branch: null
+  swift: FRIPCLR1
+    
+- name: "GBM CORREDORES DE BOLSA LIMITADA"
+  city: "SANTIAGO"
+  branch: null
+  swift: GCBMCLR1
+    
+- name: "HSBC BANK (CHILE)"
+  city: "SANTIAGO"
+  branch: null
+  swift: BLICCLRM
+    
+- name: "IM TRUST S.A. CORREDORES DE BOLSA"
+  city: "SANTIAGO"
+  branch: null
+  swift: TROBCLR1
+    
+- name: "INTERVALORES CORREDORES DE BOLSA LTDA."
+  city: "SANTIAGO"
+  branch: null
+  swift: ITCBCLRM
+    
+- name: "ITAU CHILE ADMINISTRADORA GENERAL DE FONDOS S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: ICDGCLR1
+    
+- name: "ITAU CHILE CORREDOR DE BOLSA LTDA"
+  city: "SANTIAGO"
+  branch: null
+  swift: ICCSCLR1
+    
+- name: "ITAU CORPBANCA (FORMERLY BANCO ITAU CHILE)"
+  city: "SANTIAGO"
+  branch: SECURITY SERVICES
+  swift: ITAUCLRMSSO
+    
+- name: "ITAU CORPBANCA (FORMERLY BANCO ITAU CHILE)"
+  city: "SANTIAGO"
+  branch: null
+  swift: ITAUCLRM
+    
+- name: "ITAU CORPBANCA (FORMERLY CORPBANCA)"
+  city: "SANTIAGO"
+  branch: null
+  swift: CONBCLRM
+    
+- name: "ITAU CORPBANCA CORREDORES DE BOLSA S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: CRRBCLR1
+    
+- name: "J.P. MORGAN CORREDORES DE BOLSA SPA"
+  city: "SANTIAGO"
+  branch: null
+  swift: MOCBCLR1
+    
+- name: "JPMORGAN CHASE BANK, N.A., SANTIAGO BRANCH"
+  city: "SANTIAGO"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASCLRMKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., SANTIAGO BRANCH"
+  city: "SANTIAGO"
+  branch: null
+  swift: CHASCLRM
+    
+- name: "LARRAIN VIAL"
+  city: "SANTIAGO"
+  branch: null
+  swift: LARVCLR1
+    
+- name: "LATCAM PAGOS INTERNACIONALES S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: LPITCLR1
+    
+- name: "MBI CORREDORES DE BOLSA S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: MBCBCLR1
+    
+- name: "MERRILL LYNCH CORREDORES DE BOLSA S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: MLOBCLR1
+    
+- name: "MONEDA CORREDORES DE BOLSA DE BOLSA LIMITADA"
+  city: "SANTIAGO"
+  branch: null
+  swift: MCBBCLR1
+    
+- name: "NEGOCIOS Y VALORES S.A C DE B"
+  city: "SANTIAGO"
+  branch: null
+  swift: NEVACLR1
+    
+- name: "PACIFIC OVERSEAS INTERNATIONAL BANK LIMITED"
+  city: "SANTIAGO"
+  branch: null
+  swift: PAONCLR1
+    
+- name: "PENTA CORREDORES DE BOLSA S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: PCOLCLR1
+    
+- name: "REDBANC S.A"
+  city: "SANTIAGO"
+  branch: null
+  swift: REBCCLR1
+    
+- name: "SAMSUNG ELECTRONICS CHILE LIMITADA (LTDA)"
+  city: "SANTIAGO"
+  branch: SECH
+  swift: SECTCLR1850
+    
+- name: "SAMSUNG ELECTRONICS CHILE LIMITADA (LTDA)"
+  city: "SANTIAGO"
+  branch: null
+  swift: SECTCLR1
+    
+- name: "SANTANDER INVESTMENT S.A. CORREDORES DE BOLSA"
+  city: "SANTIAGO"
+  branch: null
+  swift: SANMCLR1
+    
+- name: "SCOTIA CORREDORA DE BOLSA"
+  city: "SANTIAGO"
+  branch: null
+  swift: CBSCCLR1
+    
+- name: "SCOTIABANK CHILE"
+  city: "ARICA"
+  branch: null
+  swift: BKSACLRM064
+    
+- name: "SCOTIABANK CHILE"
+  city: "CONCEPCION"
+  branch: null
+  swift: BKSACLRM068
+    
+- name: "SCOTIABANK CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BKSACLRM
+    
+- name: "SCOTIABANK CHILE"
+  city: "SANTIAGO"
+  branch: null
+  swift: BKSACLRM055
+    
+- name: "SCOTIABANK CHILE"
+  city: "VALPARAISO"
+  branch: null
+  swift: BKSACLRM061
+    
+- name: "TANNER CORREDORES DE BOLSA"
+  city: "SANTIAGO"
+  branch: null
+  swift: TCBOCLR1
+    
+- name: "TANNER SERVICIOS FINANCIEROS S.A."
+  city: "SANTIAGO"
+  branch: null
+  swift: FTLNCLRM
+    
+- name: "TESORERIA GENERAL DE LA REPUBLICA"
+  city: "SANTIAGO"
+  branch: null
+  swift: TEGECLR1
+    

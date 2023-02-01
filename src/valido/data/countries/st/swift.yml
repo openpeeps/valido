@@ -1,0 +1,40 @@
+- name: "AFRILAND FIRST BANK STP"
+  city: "SAO TOME"
+  branch: null
+  swift: AFFSSTST
+    
+- name: "BANCO CENTRAL DE SAO TOME E PRINCIPE"
+  city: "SAO TOME"
+  branch: null
+  swift: CSTPSTST
+    
+- name: "BANCO INTERNACIONAL DE SAO TOME E PRINCIPE"
+  city: "SAO TOME"
+  branch: null
+  swift: INOISTST
+    
+- name: "BANCO NACIONAL DE SAO TOME E PRINCIPE"
+  city: "SAO TOME"
+  branch: null
+  swift: BNSTSTS1
+    
+- name: "BANCO PRIVADO SAO TOME E PRINCIPE"
+  city: "SAO TOME"
+  branch: null
+  swift: BPACSTST
+    
+- name: "BGFIBANK SAO TOME ET PRINCIPE"
+  city: "SAO TOME"
+  branch: null
+  swift: BGFISTST
+    
+- name: "ECOBANK SAO TOME"
+  city: "SAO TOME"
+  branch: null
+  swift: ECOCSTST
+    
+- name: "ENERGYBANK SAO TOME E PRICIPE S.A"
+  city: "SAO TOME"
+  branch: null
+  swift: ESTPSTST
+    

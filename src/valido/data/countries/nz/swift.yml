@@ -1,0 +1,1045 @@
+- name: "ABN AMRO CRAIGS LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: CRGGNZ21
+    
+- name: "ABN AMRO SECURITIES NZ LIMITED."
+  city: "AUCKLAND"
+  branch: null
+  swift: ABNANZA1
+    
+- name: "ACCESS BROKERAGE LTD"
+  city: "WELLINGTON"
+  branch: null
+  swift: ACCRNZ21
+    
+- name: "ACCIDENT COMPENSATION CORPORATION"
+  city: "WELLINGTON"
+  branch: null
+  swift: ACCNNZ21
+    
+- name: "ACCIDENT COMPENSATION CORPORATION"
+  city: "WELLINGTON"
+  branch: null
+  swift: ACCNNZ2B
+    
+- name: "AI CREDIT FINANCE LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: CEIINZ21
+    
+- name: "ALLIANT PERPETUAL"
+  city: "HAMILTON"
+  branch: null
+  swift: SSBTNZ2A
+    
+- name: "ALLOZY FINANCIAL GROUP LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: ALNUNZ21
+    
+- name: "ALLOZY FINANCIAL TRUST"
+  city: "CHRISTCHURCH"
+  branch: null
+  swift: ALIUNZ21
+    
+- name: "ANTS INTERNATIONAL L.P."
+  city: "AUCKLAND"
+  branch: null
+  swift: ANINNZ21
+    
+- name: "ANZ BANK NEW ZEALAND LIMITED"
+  city: "AUCKLAND"
+  branch: AUCKLAND CENTRAL
+  swift: ANZBNZ22102
+    
+- name: "ANZ BANK NEW ZEALAND LIMITED"
+  city: "CHRISTCHURCH"
+  branch: null
+  swift: ANZBNZ22797
+    
+- name: "ANZ BANK NEW ZEALAND LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: ANZBNZ22
+    
+- name: "ANZ BANK NEW ZEALAND LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: ANZBNZ22058
+    
+- name: "ANZ MCCAUGHAN SECURITIES (NZ) LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: AMCLNZ21
+    
+- name: "ANZ NEW ZEALAND INVESTMENTS LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: ANZINZ21
+    
+- name: "ASB BANK LIMITED"
+  city: "AUCKLAND"
+  branch: ASB GROUP INVESTMENTS
+  swift: ASBBNZ2AGRI
+    
+- name: "ASB BANK LIMITED"
+  city: "AUCKLAND"
+  branch: CLS PAYMENTS ONLY
+  swift: ASBBNZ2ACLS
+    
+- name: "ASB BANK LIMITED"
+  city: "AUCKLAND"
+  branch: FOREIGN EXCHANGE
+  swift: ASBBNZ2AFXD
+    
+- name: "ASB BANK LIMITED"
+  city: "AUCKLAND"
+  branch: INTERNATIONAL TRADE SERVICES
+  swift: ASBBNZ2AITS
+    
+- name: "ASB BANK LIMITED"
+  city: "AUCKLAND"
+  branch: MONEY MARKET
+  swift: ASBBNZ2AMMD
+    
+- name: "ASB BANK LIMITED"
+  city: "AUCKLAND"
+  branch: SECURITIES
+  swift: ASBBNZ2ASEC
+    
+- name: "ASB BANK LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: ASBBNZ2A
+    
+- name: "ASIA PACIFIC BANKING GROUP AUSTRALIA AND NEW ZEALAND"
+  city: "AUCKLAND"
+  branch: null
+  swift: APGTNZ21
+    
+- name: "ASIA PACIFIC FINANCIAL SERVICES LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: APFENZ21
+    
+- name: "AUCKLAND SAVINGS AND LOAN LIMITED"
+  city: "TAURANGA"
+  branch: null
+  swift: AUSLNZ21
+    
+- name: "BALDWIN SMITH AND CO"
+  city: "BLENHEIM"
+  branch: null
+  swift: BALMNZ21
+    
+- name: "BANK OF BARODA (NEW ZELAND) LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: BARBNZ2A
+    
+- name: "BANK OF CHINA (NEW ZEALAND) LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: BKCHNZ22
+    
+- name: "BANK OF INDIA (NEW ZEALAND) LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: BKIDNZ2A
+    
+- name: "BANK OF NEW ZEALAND"
+  city: "AUCKLAND"
+  branch: AUCKLAND
+  swift: BKNZNZ22100
+    
+- name: "BANK OF NEW ZEALAND"
+  city: "CHRISTCHURCH"
+  branch: CHRISTCHURCH
+  swift: BKNZNZ22800
+    
+- name: "BANK OF NEW ZEALAND"
+  city: "DUNEDIN"
+  branch: DUNEDIN
+  swift: BKNZNZ22900
+    
+- name: "BANK OF NEW ZEALAND"
+  city: "WELLINGTON"
+  branch: HEAD OFFICE
+  swift: BKNZNZ22985
+    
+- name: "BANK OF NEW ZEALAND"
+  city: "WELLINGTON"
+  branch: WELLINGTON
+  swift: BKNZNZ22500
+    
+- name: "BANK OF NEW ZEALAND"
+  city: "WELLINGTON"
+  branch: null
+  swift: BKNZNZ22
+    
+- name: "BCB WORLD CLEAR LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: BCWCNZ21
+    
+- name: "BINARY CREDIT LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: BIRRNZ21
+    
+- name: "BISHOP CAMPBELL AND CO"
+  city: "TIMARU"
+  branch: null
+  swift: BISMNZ21
+    
+- name: "BRITISH AMERICAN TOBACCO (NEW ZEALAND) LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: BATSNZA1
+    
+- name: "BROOK ASSET MANAGEMENT"
+  city: "AUCKLAND"
+  branch: null
+  swift: BRENNZ21
+    
+- name: "CC HOLDINGS FINANCIAL SERVICES LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: HOGMNZ21
+    
+- name: "CENTIX CAPITAL LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: CETPNZ21
+    
+- name: "CENTURION FINANCE LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: CENFNZ21
+    
+- name: "CENTURY BANCORP"
+  city: "AUCKLAND"
+  branch: null
+  swift: CEBNNZ21
+    
+- name: "CHARTERED SAVINGS AND LOAN LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: CSLTNZ21
+    
+- name: "CHINA CONSTRUCTION BANK LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: PCBCNZ22
+    
+- name: "CITIBANK NA NEW ZEALAND BRANCH"
+  city: "AUCKLAND"
+  branch: CO-OP
+  swift: CITINZ2XCOP
+    
+- name: "CITIBANK NA NEW ZEALAND BRANCH"
+  city: "AUCKLAND"
+  branch: null
+  swift: CITINZ2X
+    
+- name: "CITIBANK NA NEW ZEALAND BRANCH"
+  city: "WELLINGTON"
+  branch: null
+  swift: CITINZ2102W
+    
+- name: "CITIGROUP GLOBAL MARKETS NEW ZEALAND LTD."
+  city: "WELLINGTON"
+  branch: null
+  swift: SSSANZ21
+    
+- name: "CLAVELL EQUITIES"
+  city: "AUCKLAND"
+  branch: null
+  swift: CLAENZ21
+    
+- name: "CMC MARKETS NZ LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: CMCKNZ2A
+    
+- name: "COGENT INVESTMENT OPERATIONS"
+  city: "WELLINGTON"
+  branch: null
+  swift: COVONZ21
+    
+- name: "CONTINENTAL CAPITAL LTD"
+  city: "TAURANGA"
+  branch: null
+  swift: CNCTNZ21
+    
+- name: "CONTINENTAL FINANCE GROUP LTD"
+  city: "MOUNT MAUNGANUI"
+  branch: null
+  swift: CNFGNZ21
+    
+- name: "CO-OP MONEY NZ"
+  city: "AUCKLAND"
+  branch: null
+  swift: CPNZNZA1
+    
+- name: "COUNTY NATWEST SECURITIES (NEW ZEALAND)"
+  city: "WELLINGTON"
+  branch: null
+  swift: CNSNNZ21
+    
+- name: "CRAIG AND CO LTD"
+  city: "TAURANGA"
+  branch: null
+  swift: CRAINZ21
+    
+- name: "CURRENCY ONLINE LIMITED"
+  city: "CHRISTCHURCH"
+  branch: null
+  swift: CURRNZ21
+    
+- name: "DEUTSCHE MORGAN GRENFELL AUCKLAND NEW ZEALAND"
+  city: "AUCKLAND"
+  branch: null
+  swift: DMGANZ21
+    
+- name: "DEUTSCHE MORGAN GRENFELL WELLINGTON"
+  city: "WELLINGTON"
+  branch: null
+  swift: DMGLNZ21
+    
+- name: "DEUTSCHE SECURITIES NEW ZEALAND LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: DEUSNZ21
+    
+- name: "DEVON FUNDS MANAGEMENT"
+  city: "AUCKLAND"
+  branch: null
+  swift: DEFMNZ21
+    
+- name: "DIRECT BROKING LTD"
+  city: "WELLINGTON"
+  branch: null
+  swift: DIRBNZ21
+    
+- name: "DIXIPAY LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: DIXINZ21
+    
+- name: "EGDEN WIGNALL AND CO"
+  city: "CHRISTCHURCH"
+  branch: null
+  swift: EGDWNZ21
+    
+- name: "ESAM CUSHING AND CO"
+  city: "HASTINGS"
+  branch: null
+  swift: ESAUNZ21
+    
+- name: "EXNESS LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: EXNENZ22
+    
+- name: "FAY, RICHWHITE AND COMPANY LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: FAYRNZ2102A
+    
+- name: "FAY, RICHWHITE AND COMPANY LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: FAYRNZ21
+    
+- name: "FEXCO (NZ) LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: FEXONZ21
+    
+- name: "FGBC LIMITED"
+  city: "TAKAPUNA"
+  branch: null
+  swift: FGCCNZ21
+    
+- name: "FIRST EXCELSIOR LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: FIXCNZ21
+    
+- name: "FIRST NZ CAPITAL EQUITIES LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: FICQNZ21
+    
+- name: "FIRST PACIFIC TRUST LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: FPTUNZ21
+    
+- name: "FISHER AND PAYKEL APPLIANCES LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: FPNZNZ2A
+    
+- name: "FONTERRA CO-OPERATIVE GROUP LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: FONTNZ2A
+    
+- name: "FORSYTH BARR LTD"
+  city: "DUNEDIN"
+  branch: null
+  swift: FORBNZ21
+    
+- name: "GABITES SINCLAIR AND PARTNERS"
+  city: "ASHBURTON"
+  branch: null
+  swift: GABSNZ21
+    
+- name: "GARETH MORGAN INVESTMENTS LIMITED PARTNERSHIP"
+  city: "WELLINGTON"
+  branch: null
+  swift: GMIPNZ21
+    
+- name: "GARLICK AND CO LTD"
+  city: "WELLINGTON"
+  branch: null
+  swift: GARLNZ21
+    
+- name: "GENCO FINANCE LP"
+  city: "AUCKLAND"
+  branch: null
+  swift: GEIANZ21
+    
+- name: "GLENDINNING AND GLENDINNING"
+  city: "PALMERSTON NORTH"
+  branch: null
+  swift: GLEGNZ21
+    
+- name: "GLOBAL FINANCIAL TRUST"
+  city: "LAMBTON"
+  branch: null
+  swift: HECRNZ21
+    
+- name: "GLOBALRE INSURANCE LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: GLIUNZ21
+    
+- name: "GOLDMAN SACHS NEW ZEALAND LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: JBWANZ21
+    
+- name: "GOULD STEELE AND CO"
+  city: "WELLINGTON"
+  branch: null
+  swift: GOUSNZ21
+    
+- name: "GREENSLADES LTD"
+  city: "DUNEDIN"
+  branch: null
+  swift: WIEGNZ21
+    
+- name: "GREG MITCHELL"
+  city: "CHRISTCHURCH"
+  branch: null
+  swift: GMITNZ21
+    
+- name: "GUARDIANS OF NEW ZEALAND SUPERANNUATION"
+  city: "AUCKLAND"
+  branch: null
+  swift: GNZSNZ2A
+    
+- name: "HAMILTON HINDIN GREENE"
+  city: "CHRISTCHURCH"
+  branch: null
+  swift: HAHGNZ21
+    
+- name: "HAMPSHIRE SAVINGS AND LOAN LIMITED"
+  city: "MANLY"
+  branch: null
+  swift: HASONZ21
+    
+- name: "HARBOUR ASSET MANAGEMENT LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: HAAMNZ21
+    
+- name: "HARBOUR ASSET MANAGEMENT LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: HAAMNZ2B
+    
+- name: "HIFX LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: HIFXNZ2A
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "AUCKLAND"
+  branch: CONTINUOUS LINK SETTELMENT DEPARTMENT
+  swift: HSBCNZ2ACLS
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "AUCKLAND"
+  branch: null
+  swift: HSBCNZ2A
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "CHRISTCHURCH"
+  branch: CHRISTCHURCH BRANCH
+  swift: HSBCNZ2ACHC
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "WELLINGTON"
+  branch: WELLINGTON BRANCH
+  swift: HSBCNZ2AWLT
+    
+- name: "IDLYC HOLDINGS TRUST"
+  city: "HAMILTON"
+  branch: null
+  swift: IDHTNZ21
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (NEW ZEALAND) LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: ICBKNZ2A
+    
+- name: "INVESTA SECURITIES LTD."
+  city: "AUCKLAND"
+  branch: null
+  swift: IVSCNZ21
+    
+- name: "ISC FINANCIAL GROUP LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: ISFGNZ21
+    
+- name: "J. ROTHSCHILD PPG SECURITIES LIMITE"
+  city: "AUCKLAND"
+  branch: null
+  swift: RPSLNZ21
+    
+- name: "JARDINE FLEMING NEW ZEALAND LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: JFLENZ21
+    
+- name: "JBWERE (NZ) NOMINEES LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: JBNMNZ21
+    
+- name: "JOHN CHAPMAN"
+  city: "TAUPO"
+  branch: null
+  swift: CHAANZ21
+    
+- name: "JPMORGAN CHASE BANK, N.A., NEW ZEALAND BRANCH"
+  city: "AUCKLAND"
+  branch: WSS LOCAL CUSTODIAN SERVICES
+  swift: CHASNZ2ACCS
+    
+- name: "JPMORGAN CHASE BANK, N.A., NEW ZEALAND BRANCH"
+  city: "WELLINGTON"
+  branch: null
+  swift: CHASNZ2A
+    
+- name: "KIPIE LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: KIPENZ21
+    
+- name: "KIWIBANK LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: KIWINZ22
+    
+- name: "KIWIRAIL HOLDINGS LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: NZRCNZ2W
+    
+- name: "KOOKMIN BANK, AUCKLAND BRANCH"
+  city: "AUCKLAND"
+  branch: null
+  swift: CZNBNZ2A
+    
+- name: "KTEC NZ LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: KTECNZ21
+    
+- name: "KTEC NZ LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: KTECNZ21NRG
+    
+- name: "LAWRENCE MILLTON AND HOWARTH"
+  city: "CHRISTCHURCH"
+  branch: null
+  swift: LAMHNZ21
+    
+- name: "LEGACY CAPITAL TRUST"
+  city: "AUCKLAND"
+  branch: null
+  swift: LECTNZ21
+    
+- name: "LEVERAGED EQUITIES FINANCE LTD"
+  city: "WELLINGTON"
+  branch: null
+  swift: LEEFNZ21
+    
+- name: "LONDON CAPITAL NZ LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: LOAINZ21
+    
+- name: "LR SINGLETON AND CO"
+  city: "HASTINGS"
+  branch: null
+  swift: SINENZ21
+    
+- name: "MACQUARIE EQUITIES NEW ZEALAND LTD"
+  city: "WELLINGTON"
+  branch: null
+  swift: MACQNZ21
+    
+- name: "MACQUARIE SECURITIES NEW ZEALAND LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: MSNZNZ21
+    
+- name: "MAGNATE PREMIER LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: MGPINZ21
+    
+- name: "MAMA SAVINGS TRUST LTD"
+  city: "PAPAKURA"
+  branch: null
+  swift: MAVTNZ21
+    
+- name: "MERCEDES-BENZ FINANCIAL SERVICES NEW ZEALAND LTD."
+  city: "AUCKLAND"
+  branch: null
+  swift: DCFSNZ2A
+    
+- name: "MERCEDES-BENZ NEW ZEALAND LTD."
+  city: "AUCKLAND"
+  branch: null
+  swift: DABENZ2A
+    
+- name: "MERCHANT CREDIT AND GUARANTEE CORPORATION LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: MCGONZ21
+    
+- name: "MERCXYZ ONE LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: MEONNZ21
+    
+- name: "MILFORD ASSET MANAGEMENT"
+  city: "AUCKLAND"
+  branch: null
+  swift: MIANNZ21
+    
+- name: "MILLENNIUM FIXED INCOME (NEW ZEALAND)"
+  city: "AUCKLAND"
+  branch: null
+  swift: MFIWNZ21
+    
+- name: "MMC LIMITED"
+  city: "AUCKLAND"
+  branch: BT/WESTPAC FUNDS MANAGEMENT
+  swift: MMCCNZ21BTW
+    
+- name: "MMC LIMITED"
+  city: "AUCKLAND"
+  branch: MILFORD ASSET MANAGEMENT
+  swift: MMCCNZ21MIL
+    
+- name: "MMC LIMITED"
+  city: "AUCKLAND"
+  branch: MINT ASSET MANAGEMENT
+  swift: MMCCNZ21MIN
+    
+- name: "MMC LIMITED"
+  city: "AUCKLAND"
+  branch: PERPETUAL GUARDIAN TRUST
+  swift: MMCCNZ21PGT
+    
+- name: "MMC LIMITED"
+  city: "AUCKLAND"
+  branch: SALT FUNDS MANAGEMENT
+  swift: MMCCNZ21SLT
+    
+- name: "MMC LIMITED"
+  city: "AUCKLAND"
+  branch: SUNCORP GROUP NZ LTD
+  swift: MMCCNZ21SUN
+    
+- name: "MMC LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: MMCCNZ21
+    
+- name: "MMC LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: MMCCNZ21TYN
+    
+- name: "MMC LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: MMCCNZ23
+    
+- name: "MORGAN DEVERE CORPORATE FINANCE LIMITED"
+  city: "WELLINGTON"
+  branch: ADMINISTRATION
+  swift: MDCFNZ21001
+    
+- name: "MORGAN DEVERE CORPORATE FINANCE LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: MDCFNZ21
+    
+- name: "MUNRO, ALAN RODERICK AND WALDEN, DALE CHARLES"
+  city: "TIMARU"
+  branch: null
+  swift: MUNHNZ21
+    
+- name: "NAPIER CAPITAL LIMITED"
+  city: "NAPIER"
+  branch: null
+  swift: NAAPNZ21
+    
+- name: "NATIONAL FINANCE GROUP LTD"
+  city: "MOUNT MAUNGANUI"
+  branch: null
+  swift: NAFGNZ21
+    
+- name: "NATIONAL NOMINEES LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: NATANZ22
+    
+- name: "NEW ZEALAND EMISSION UNIT REGISTER"
+  city: "WELLINGTON"
+  branch: null
+  swift: NZEUNZ21
+    
+- name: "NEW ZEALAND EXCHANGE LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: NZXCNZ2W
+    
+- name: "NEW ZEALAND FUTURES AND OPTIONS EXCHANGE"
+  city: "AUCKLAND"
+  branch: null
+  swift: XNEENZ21
+    
+- name: "NEW ZEALAND INTERNATIONAL FINANCE LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: NZIFNZ21
+    
+- name: "NEW ZEALAND INTERNATIONAL SAVINGS AND LOAN LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: NZISNZ21
+    
+- name: "NEW ZEALAND STOCK EXCHANGE - AUCKLAND"
+  city: "AUCKLAND"
+  branch: null
+  swift: XAUKNZ21
+    
+- name: "NEW ZEALAND SUPERANNUATION FUND"
+  city: "AUCKLAND"
+  branch: null
+  swift: NZSFNZ21
+    
+- name: "NEW ZEALAND TREASURY"
+  city: "WELLINGTON"
+  branch: null
+  swift: NZTRNZ2W
+    
+- name: "NIKE NEW ZEALAND LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: NIKENZ21
+    
+- name: "NOBLE AND LEE LTD."
+  city: "MATAMATA"
+  branch: null
+  swift: NOBLNZ21
+    
+- name: "NRG MONEY FINANCIAL SERVICES LIMITE"
+  city: "WHANGAREI"
+  branch: null
+  swift: NMFSNZ21
+    
+- name: "NZI CAPITAL SAVINGS LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: NZCANZ21
+    
+- name: "NZIJ STOCKBROKERS LTD"
+  city: "WELLINGTON"
+  branch: null
+  swift: MACENZ21
+    
+- name: "OPT MOBILE LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: OPMONZ21
+    
+- name: "ORD MINNETT GROUP LTD. WELLINGTON"
+  city: "AUCKLAND"
+  branch: null
+  swift: OMGLNZ2102A
+    
+- name: "ORD MINNETT GROUP LTD. WELLINGTON"
+  city: "WELLINGTON"
+  branch: null
+  swift: OMGLNZ21
+    
+- name: "OVERSEAS TRADE FINANCE"
+  city: "AUCKLAND"
+  branch: null
+  swift: OVTFNZ21
+    
+- name: "PACIFIC EAGLE CAPITAL"
+  city: "AUCKLAND"
+  branch: null
+  swift: GEBSNZ2A
+    
+- name: "PACIFIC VENTURE CAPITAL TRUST"
+  city: "AUCKLAND"
+  branch: null
+  swift: PVCTNZ21
+    
+- name: "PANTERRA FINANCIAL SERVICES, LTD."
+  city: "AUCKLAND"
+  branch: null
+  swift: PAIRNZ21
+    
+- name: "PB STANDARD CAPITAL LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: STTPNZ21
+    
+- name: "PHOENIX SOFTWARE CORPORATION LTD"
+  city: "JOHNSONVILLE"
+  branch: null
+  swift: PSCLNZ21
+    
+- name: "PMB INVESTMENTS LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: PMBINZ21
+    
+- name: "R M STORY AND CO"
+  city: "WANGANUI"
+  branch: null
+  swift: STOYNZ21
+    
+- name: "RABOBANK NEW ZEALAND BRANCH"
+  city: "WELLINGTON"
+  branch: null
+  swift: RABONZ2W
+    
+- name: "RABOBANK NEW ZEALAND LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: RABONZ22
+    
+- name: "REGAN AND CO"
+  city: "NEW PLYMOUTH"
+  branch: null
+  swift: REGANZ21
+    
+- name: "RESERVE BANK OF NEW ZEALAND"
+  city: "WELLINGTON"
+  branch: null
+  swift: RBNZNZ22
+    
+- name: "RESERVE BANK OF NEW ZEALAND"
+  city: "WELLINGTON"
+  branch: null
+  swift: RBNZNZ2S
+    
+- name: "RESERVE BANK OF NEW ZEALAND"
+  city: "WELLINGTON"
+  branch: null
+  swift: RBNZNZ2SASA
+    
+- name: "RESERVE BANK OF NEW ZEALAND"
+  city: "WELLINGTON"
+  branch: null
+  swift: RBNZNZ2STIA
+    
+- name: "RESERVE BANK OF NEW ZEALAND"
+  city: "WELLINGTON"
+  branch: null
+  swift: RBNZNZ2W
+    
+- name: "RESERVE BANK OF NEW ZEALAND"
+  city: "WELLINGTON"
+  branch: null
+  swift: RBNZNZ2WACC
+    
+- name: "RESERVE BANK OF NEW ZEALAND"
+  city: "WELLINGTON"
+  branch: null
+  swift: RBNZNZ2WCCY
+    
+- name: "RIEH FINANCIAL LIMITED"
+  city: "PAPAKURA"
+  branch: null
+  swift: RIFLNZ21
+    
+- name: "ROSS, SINCLAIR AND CO."
+  city: "ASHBURTON"
+  branch: null
+  swift: RSSSNZ21
+    
+- name: "SALT FUNDS MANAGEMENT LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: SAUMNZ21
+    
+- name: "SAMSUNG ELECTRONICS NEW ZEALAND LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: SECTNZ21
+    
+- name: "SEAMED FINANCE LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: SENCNZ21
+    
+- name: "SMARTSHARES LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: SMASNZ21
+    
+- name: "SOMERSET SMITH PARTNERS"
+  city: "NAPIER"
+  branch: null
+  swift: SOSRNZ21
+    
+- name: "SOVEREIGN AMERICAN CROWN TRUST"
+  city: "AUCKLAND"
+  branch: null
+  swift: SAORNZ21
+    
+- name: "TEA CUSTODIANS LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: TECDNZ21
+    
+- name: "THE CELESTINE GROUP LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: CEGPNZ21
+    
+- name: "TRADE AND MERCHANT TRUST COMPANY LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: TMTCNZ2A
+    
+- name: "TRILLION PRIVATE WEALTH LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: TRPWNZ21
+    
+- name: "TRUSTEES EXECUTORS LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: TREXNZ22
+    
+- name: "TSB BANK LIMITED"
+  city: "NEW PLYMOUTH"
+  branch: null
+  swift: TSBANZ22
+    
+- name: "UBS NEW ZEALAND LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: BUTWNZ21
+    
+- name: "ULTIMATE FINANCIAL SERVICES LP"
+  city: "AUCKLAND"
+  branch: null
+  swift: ULFSNZ21
+    
+- name: "UNIVERSAL GOLD FINANCE LIMITED"
+  city: "AUCKLAND"
+  branch: null
+  swift: UNGFNZ21
+    
+- name: "VUM FINANCIAL SERVICES LIMITED"
+  city: "NAPIER"
+  branch: null
+  swift: VUFSNZ21
+    
+- name: "WESTERN UNION BUSINESS SOLUTIONS (NEW ZEALAND)"
+  city: "WELLINGTON"
+  branch: null
+  swift: CHFXNZ21
+    
+- name: "WESTPAC NEW ZEALAND LIMITED, A WHOLLY OWNED SUBSIDIARY OF WESTPAC BANKING CORPORATION"
+  city: "AUCKLAND"
+  branch: FOR ALL NEW ZEALAND BRANCHES
+  swift: WPACNZ2W
+    
+- name: "WESTPACTRUST SECURITIES NZ LTD"
+  city: "WELLINGTON"
+  branch: null
+  swift: WTSLNZ21
+    
+- name: "WINSTANLEY AND DICKSON"
+  city: "BLENHEIM"
+  branch: null
+  swift: WINKNZ21
+    
+- name: "WMG YOVICH AND CO"
+  city: "WHANGAREI"
+  branch: null
+  swift: WMGYNZ21
+    
+- name: "WOLF ALLIANCE LTD"
+  city: "AUCKLAND"
+  branch: null
+  swift: WOALNZ21
+    
+- name: "WOLF SPARKASSE"
+  city: "AUCKLAND"
+  branch: null
+  swift: WOLSNZ21
+    
+- name: "WOODWARD PARTNERS SECURITIES LIMITED"
+  city: "WELLINGTON"
+  branch: null
+  swift: WOPSNZ21
+    
+- name: "WORLDCLEAR LTD"
+  city: "HAMILTON"
+  branch: null
+  swift: WORCNZ22
+    
+- name: "WORLDNET FINANCIAL SERVICES LIMITED"
+  city: "HAMILTON"
+  branch: null
+  swift: WOFENZ21
+    
+- name: "YOUNG AND CO"
+  city: "PALMERSTON NORTH"
+  branch: null
+  swift: YOUGNZ21
+    

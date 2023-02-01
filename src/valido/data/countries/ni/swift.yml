@@ -1,0 +1,100 @@
+- name: "BANCO CENTRAL DE NICARAGUA"
+  city: "MANAGUA"
+  branch: null
+  swift: BCNINIMA
+    
+- name: "BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA"
+  city: "MANAGUA"
+  branch: null
+  swift: BCIENIM1
+    
+- name: "BANCO CORPORATIVO, S. A."
+  city: "MANAGUA"
+  branch: null
+  swift: BOFPNIMA
+    
+- name: "BANCO DE AMERICA CENTRAL"
+  city: "MANAGUA"
+  branch: null
+  swift: BAMCNIMA
+    
+- name: "BANCO DE CENTRO AMERICA"
+  city: "MANAGUA"
+  branch: null
+  swift: BCEANIM1
+    
+- name: "BANCO DE CREDITO POPULAR"
+  city: "MANAGUA"
+  branch: null
+  swift: CRPONIM1
+    
+- name: "BANCO DE EXPORTACION"
+  city: "MANAGUA"
+  branch: null
+  swift: EXPTNIM1
+    
+- name: "BANCO DE FINANZAS, S.A.(BDF)"
+  city: "MANAGUA"
+  branch: null
+  swift: BBDFNIMA
+    
+- name: "BANCO DE LA PRODUCCION S.A."
+  city: "MANAGUA"
+  branch: null
+  swift: BAPRNIMA
+    
+- name: "BANCO DE LA VIVIENDA DE NICARAGUA"
+  city: "MANAGUA"
+  branch: null
+  swift: BVISNIM1
+    
+- name: "BANCO DE PRESTAMOS"
+  city: "MANAGUA"
+  branch: null
+  swift: BPRENIM1
+    
+- name: "BANCO EUROPEO DE CENTRO AMERICA, S.A."
+  city: "MANAGUA"
+  branch: null
+  swift: BEUCNIM1
+    
+- name: "BANCO FICOHSA NICARAGUA S.A."
+  city: "MANAGUA"
+  branch: null
+  swift: BUNONIMA
+    
+- name: "BANCO LAFISE BANCENTRO, S.A."
+  city: "MANAGUA"
+  branch: null
+  swift: BCCENIMA
+    
+- name: "BANCO MERCANTIL"
+  city: "MANAGUA"
+  branch: null
+  swift: BMRCNIM1
+    
+- name: "BANCO NACIONAL DE DESARROLLO"
+  city: "MANAGUA"
+  branch: null
+  swift: BNDENIM1
+    
+- name: "BANCO PROCREDIT NICARAGUA"
+  city: "MANAGUA"
+  branch: null
+  swift: PRCBNIMA
+    
+- name: "BRITISH AMERICAN TOBACCO CENTRAL AMERICA S.A., SUCURSAL NICARAGUA"
+  city: "MANAGUA"
+  branch: null
+  swift: BATSNIM1
+    
+- name: "CENTRAL NICARAGUEENSE DE VALORES, S.A."
+  city: "MANAGUA"
+  branch: null
+  swift: CNVCNIM1
+    
+- name: "CITIBANK N.A."
+  city: "MANAGUA"
+  branch: null
+  swift: CITINIM1
+    

@@ -1,0 +1,130 @@
+- name: "AMANBANK (JOINT-STOCK RUSSIAN-KYRGYZ AMANBANK)"
+  city: "BISHKEK"
+  branch: null
+  swift: AJRAKG22
+    
+- name: "BAI-TUSHUM BANK CJSC"
+  city: "BISHKEK"
+  branch: null
+  swift: BBTPKG22
+    
+- name: "BAKAI BANK OJSC"
+  city: "BISHKEK"
+  branch: null
+  swift: BAKAKG22
+    
+- name: "BANK OF ASIA CJSC"
+  city: "BISHKEK"
+  branch: null
+  swift: ASCJKG22
+    
+- name: "BTA BANK CJSC (FORMERLY INEXIMBANK CJSC), BISHKEK,KG"
+  city: "BISHKEK"
+  branch: null
+  swift: EIMBKG22
+    
+- name: "CJSC ECOISLAMICBANK"
+  city: "BISHKEK"
+  branch: null
+  swift: ECBIKG22
+    
+- name: "CJSC FINCA BANK"
+  city: "BISHKEK"
+  branch: null
+  swift: FBANKG22
+    
+- name: "DEMIR KYRGYZ INTERNATIONAL BANK"
+  city: "BISHKEK"
+  branch: null
+  swift: DEMIKG22
+    
+- name: "DOS-CREDOBANK OJSC"
+  city: "BISHKEK"
+  branch: null
+  swift: DOSSKG22
+    
+- name: "EURASIAN SAVINGS BANK, OJSC"
+  city: "BISHKEK"
+  branch: null
+  swift: KYRGKG22
+    
+- name: "FINANCECREDITBANK KAB"
+  city: "BISHKEK"
+  branch: null
+  swift: FIKBKG22
+    
+- name: "INVESTMENT BANK CHANG AN OJSC"
+  city: "BISHKEK"
+  branch: null
+  swift: IBCHKG22
+    
+- name: "KOMPANION BANK CLOSED JOINT-STOCK COMPANY"
+  city: "BISHKEK"
+  branch: null
+  swift: KOMPKG22
+    
+- name: "KYRGYZ INVESTMENT AND CREDIT BANK"
+  city: "BISHKEK"
+  branch: null
+  swift: KICBKG22
+    
+- name: "KYRGYZ-SWISS BANK CJSC"
+  city: "BISHKEK"
+  branch: null
+  swift: KSBCKG22
+    
+- name: "NATIONAL BANK OF PAKISTAN BISHKEK BRANCH"
+  city: "BISHKEK"
+  branch: null
+  swift: NBPAKG22
+    
+- name: "NATIONAL BANK OF THE KYRGYZ REPUBLIC"
+  city: "BISHKEK"
+  branch: null
+  swift: NBKIKG22
+    
+- name: "OJSC AIYL BANK"
+  city: "BISHKEK"
+  branch: null
+  swift: AIYLKG22
+    
+- name: "OJSC COMMERCIAL BANK KYRGYZSTAN"
+  city: "BISHKEK"
+  branch: null
+  swift: KYRSKG22
+    
+- name: "OJSC HALYK BANK KYRGYZSTAN"
+  city: "BISHKEK"
+  branch: null
+  swift: MAKAKG22
+    
+- name: "OJSC KYRGYZKOMMERTSBANK"
+  city: "BISHKEK"
+  branch: null
+  swift: KAKYKG22
+    
+- name: "OJSC RSK BANK"
+  city: "BISHKEK"
+  branch: null
+  swift: SESVKG22
+    
+- name: "OJSC RUSSIAN INVESTMENT BANK"
+  city: "BISHKEK"
+  branch: null
+  swift: RINBKG22
+    
+- name: "OPTIMA BANK OJSC"
+  city: "BISHKEK"
+  branch: null
+  swift: ENEJKG22
+    
+- name: "THE OPEN JOINT-STOCK COMPANY CAPITAL BANK"
+  city: "BISHKEK"
+  branch: null
+  swift: AKILKG22
+    
+- name: "TOLUBAY BANK - CLOSED JOINT STOCK COMPANY"
+  city: "BISHKEK"
+  branch: null
+  swift: TOLUKG22
+    

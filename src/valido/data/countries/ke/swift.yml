@@ -1,0 +1,830 @@
+- name: "AFRICAN BANKING CORPORATION LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: ABCLKENA
+    
+- name: "AFRICAN DEVELOPMENT BANK"
+  city: "NAIROBI"
+  branch: null
+  swift: AFDBKEN1
+    
+- name: "AFRIKA INVESTMENT BANK LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: ASHSKEN1
+    
+- name: "BANK OF AFRICA KENYA LTD"
+  city: "MOMBASA"
+  branch: MOMBASA BRANCH
+  swift: AFRIKENX002
+    
+- name: "BANK OF AFRICA KENYA LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: AFRIKENX
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "ELDORET"
+  branch: ELDORET BRANCH
+  swift: BARBKENAELD
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "KAKAMEGA"
+  branch: KAKAMEGA BRANCH
+  swift: BARBKENAKAK
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "KISUMU"
+  branch: KISUMU BRANCH
+  swift: BARBKENAKIS
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "MERU"
+  branch: MERU BRANCH
+  swift: BARBKENAMER
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "MOMBASA"
+  branch: DIGO ROAD, MOMBASA
+  swift: BARBKENAMOM
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "MOMBASA"
+  branch: MOMBASA ROAD BRANCH
+  swift: BARBKENAMRN
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "MOMBASA"
+  branch: NYALI BRANCH, MOMBASA, KENYA
+  swift: BARBKENANYA
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "NAIROBI"
+  branch: DIAMOND PLAZA
+  swift: BARBKENADIA
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "NAIROBI"
+  branch: INDUSTRIAL AREA BR.
+  swift: BARBKENAIND
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "NAIROBI"
+  branch: NAIROBI MAIN
+  swift: BARBKENANMO
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "NAIROBI"
+  branch: SARIT CENTRE
+  swift: BARBKENASAR
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: BARBKENA
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "NAKURU"
+  branch: NAKURU BRANCH
+  swift: BARBKENANAK
+    
+- name: "BANK OF BARODA (KENYA) LTD"
+  city: "THIKA"
+  branch: THIKA BRANCH
+  swift: BARBKENATHI
+    
+- name: "BANK OF INDIA"
+  city: "ELDORET"
+  branch: ELDORET
+  swift: BKIDKENAELD
+    
+- name: "BANK OF INDIA"
+  city: "KISUMU"
+  branch: KISUMU
+  swift: BKIDKENAKSM
+    
+- name: "BANK OF INDIA"
+  city: "MOMBASA"
+  branch: MOMBASA BR
+  swift: BKIDKENAMSA
+    
+- name: "BANK OF INDIA"
+  city: "MOMBASA"
+  branch: null
+  swift: BKIDKEM1
+    
+- name: "BANK OF INDIA"
+  city: "NAIROBI"
+  branch: INDUSTRIAL AREA BR
+  swift: BKIDKENAIAB
+    
+- name: "BANK OF INDIA"
+  city: "NAIROBI"
+  branch: WESTLANDS BR
+  swift: BKIDKENAWST
+    
+- name: "BANK OF INDIA"
+  city: "NAIROBI"
+  branch: null
+  swift: BKIDKEM10NA
+    
+- name: "BANK OF INDIA"
+  city: "NAIROBI"
+  branch: null
+  swift: BKIDKENA
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "ELDORET"
+  branch: ELDORET BRANCH
+  swift: BARCKENXELD
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "MOMBASA"
+  branch: DIGO ROAD MOMBASA
+  swift: BARCKENXMDR
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "MOMBASA"
+  branch: NKRUMAH ROAD BRANCH
+  swift: BARCKENXMNR
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "NAIROBI"
+  branch: BACK OFFICE PROCESSING CENTRE, BANK HOUSE
+  swift: BARCKENXOCB
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "NAIROBI"
+  branch: CARD CENTRE NAIROBI
+  swift: BARCKENXNCC
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "NAIROBI"
+  branch: DEALERS DEPARTMENT H/O
+  swift: BARCKENXDLR
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "NAIROBI"
+  branch: NAIROBI DISTRIBUTION CENTRE
+  swift: BARCKENXNDC
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "NAIROBI"
+  branch: PAYMENTS AND INTERNATIONAL SERVICES
+  swift: BARCKENXPIS
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "NAIROBI"
+  branch: PLAZA BUSINESS CENTRE
+  swift: BARCKENXNPB
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "NAIROBI"
+  branch: TRADE PROCESSING CENTRE
+  swift: BARCKENXTPC
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "NAIROBI"
+  branch: VOUCHER PROCESSING CENTRE
+  swift: BARCKENXVPC
+    
+- name: "BARCLAYS BANK OF KENYA, LTD."
+  city: "NAIROBI"
+  branch: null
+  swift: BARCKENX
+    
+- name: "BARCLAYTRUST INVESTMENT SERVICES LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: BAIVKEN1
+    
+- name: "BIASHARA BANK OF KENYA LTD."
+  city: "MOMBASA"
+  branch: null
+  swift: BIBKKEN10MB
+    
+- name: "BIASHARA BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: null
+  swift: BIBKKEN1
+    
+- name: "BRITISH AMERICAN TOBACCO AREA LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: BATSKE31
+    
+- name: "BRITISH AMERICAN TOBACCO KENYA LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: BATSKEN1
+    
+- name: "CARITAS MICROFINANCE BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: CRMFKENA
+    
+- name: "CENTRAL BANK OF KENYA"
+  city: "ELDORET"
+  branch: ELDORET BRANCH
+  swift: CBKEKEN1ELD
+    
+- name: "CENTRAL BANK OF KENYA"
+  city: "KISUMU"
+  branch: KISUMU BRANCH
+  swift: CBKEKEN1KSM
+    
+- name: "CENTRAL BANK OF KENYA"
+  city: "MOMBASA"
+  branch: MOMBASA BRANCH
+  swift: CBKEKEN1MSA
+    
+- name: "CENTRAL BANK OF KENYA"
+  city: "NAIROBI"
+  branch: BANKING DIVISION
+  swift: CBKEKENXBKG
+    
+- name: "CENTRAL BANK OF KENYA"
+  city: "NAIROBI"
+  branch: CURRENCY DIVISION
+  swift: CBKEKENXCNY
+    
+- name: "CENTRAL BANK OF KENYA"
+  city: "NAIROBI"
+  branch: NATIONAL DEBT DIVISION
+  swift: CBKEKENXNDO
+    
+- name: "CENTRAL BANK OF KENYA"
+  city: "NAIROBI"
+  branch: null
+  swift: CBKEKENX
+    
+- name: "CENTRAL DEPOSITORY AND SETTLEMENT CORPORATION"
+  city: "NAIROBI"
+  branch: null
+  swift: CDSNKENA
+    
+- name: "CFC FINANCIAL SERVICES LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: CFFSKEN1
+    
+- name: "CHARTERHOUSE BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: CHBLKEN1
+    
+- name: "CHASE BANK (KENYA) LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: CKENKENA
+    
+- name: "CITIBANK N.A. NAIROBI"
+  city: "NAIROBI"
+  branch: TRADE SERVICES DEPARTMENT
+  swift: CITIKENATRD
+    
+- name: "CITIBANK N.A. NAIROBI"
+  city: "NAIROBI"
+  branch: null
+  swift: CITIKENA
+    
+- name: "COMMERCIAL BANK OF AFRICA LTD."
+  city: "NAIROBI"
+  branch: null
+  swift: CBAFKENX
+    
+- name: "CONSOLIDATED BANK OF KENYA LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: CONKKENA
+    
+- name: "CREDIT BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: CRBTKENA
+    
+- name: "CROSSFIELD SECURITIES LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: CRORKEN1
+    
+- name: "DEVELOPMENT BANK OF KENYA LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: DEVKKENA
+    
+- name: "DIAMOND TRUST BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: HEAD OFFICE
+  swift: DTKEKENA
+    
+- name: "DIB BANK KENYA LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: DUIBKENA
+    
+- name: "DISCOUNT SECURITIES LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: DISRKEN1
+    
+- name: "DRUMMOND INVESTMENT BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: FRDRKEN1
+    
+- name: "DYER AND BLAIR LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: DYBRKEN1
+    
+- name: "EAST AFRICAN DEVELOPMENT BANK"
+  city: "NAIROBI"
+  branch: null
+  swift: EADBKEN1
+    
+- name: "EASTERN AND SOUTHERN AFRICAN TRADE AND DEVELOPMENTBANK"
+  city: "NAIROBI"
+  branch: null
+  swift: ESATKENA
+    
+- name: "ECOBANK KENYA LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: ECOCKENA
+    
+- name: "EFG HERMES KENYA LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: EFHKKEN1
+    
+- name: "EQUITY BANK (KENYA) LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: EQBLKENA
+    
+- name: "EQUITY STOCKBROKERS LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: EQSTKEN1
+    
+- name: "EURO BANK"
+  city: "NAIROBI"
+  branch: null
+  swift: EUOOKEN1
+    
+- name: "FAIDA INVESTMENT BANK LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: FASRKEN1
+    
+- name: "FAMILY BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: FABLKENA
+    
+- name: "FAULU MICROFINANCE BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: FAUMKENA
+    
+- name: "FIRST COMMUNITY BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: IFCBKENA
+    
+- name: "GIRO COMMERCIAL BANK LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: GIROKENX
+    
+- name: "GUARANTY TRUST BANK (KENYA) LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: GTBIKENA
+    
+- name: "GUARDIAN BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: GUARKENA
+    
+- name: "GULF AFRICAN BANK LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: GAFRKENA
+    
+- name: "HABIB BANK AG ZURICH"
+  city: "MOMBASA"
+  branch: null
+  swift: HBZUKEN1MSA
+    
+- name: "HABIB BANK AG ZURICH"
+  city: "NAIROBI"
+  branch: null
+  swift: HBZUKENA
+    
+- name: "HAK SECURITIES LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: HAKSKEN1
+    
+- name: "HFC LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: HFCOKENA
+    
+- name: "I AND M BANK LTD"
+  city: "NAIROBI"
+  branch: FUNDS TRANSFER DEPARTMENT
+  swift: IMBLKENAFTR
+    
+- name: "I AND M BANK LTD"
+  city: "NAIROBI"
+  branch: SETTLEMENT DEPARTMENT
+  swift: IMBLKENASTL
+    
+- name: "I AND M BANK LTD"
+  city: "NAIROBI"
+  branch: TRADE FINANCE DEPARTMENT
+  swift: IMBLKENATRD
+    
+- name: "I AND M BANK LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: IMBLKENA
+    
+- name: "IMPERIAL BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: IMPLKENA
+    
+- name: "JAMII BORA BANK LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: CIFIKENA
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "MOMBASA"
+  branch: TREASURY SQUARE
+  swift: KCBLKENX080
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: DOMESTIC MONEY MARKET UNIT
+  swift: KCBLKENXDMM
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: GIGIRI-UNEP BRANCH
+  swift: KCBLKENX012
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: HEAD OFFICE
+  swift: KCBLKENX
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: INDUSTRIAL AREA
+  swift: KCBLKENX002
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: KIPANDE HOUSE
+  swift: KCBLKENX005
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: KISUMU MAIN
+  swift: KCBLKENX077
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: MOI AVENUE
+  swift: KCBLKENX017
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: TREASURY
+  swift: KCBLKENXTMK
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: KCBLKENXCUS
+    
+- name: "KCB BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: KCBLKENXTFS
+    
+- name: "KENYA POST OFFICE SAVINGS BANK"
+  city: "NAIROBI"
+  branch: null
+  swift: KPOBKEN1
+    
+- name: "KENYA WIDE SECURITIES LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: KEWSKEN1
+    
+- name: "KENYA WOMEN MICROFINANCE BANK"
+  city: "NAIROBI"
+  branch: null
+  swift: KWMIKENX
+    
+- name: "KESTREL CAPITAL EAST AFRICA LTD."
+  city: "NAIROBI"
+  branch: null
+  swift: KCEAKEN1
+    
+- name: "MAYFAIR BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: MYBKKENA
+    
+- name: "MIDDLE EAST BANK KENYA LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: MIEKKENA
+    
+- name: "M-ORIENTAL BANK LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: MORBKENA
+    
+- name: "NAIROBI STOCK EXCHANGE"
+  city: "NAIROBI"
+  branch: null
+  swift: XNAIKEN1
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: AWENDO BRANCH
+  swift: NBKEKENX302
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: BUNGOMA BRANCH
+  swift: NBKEKENX957
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: BUSIA BRANCH
+  swift: NBKEKENX828
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: CORPORATE DIVISION
+  swift: NBKEKENX310
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: ELDORET BRANCH
+  swift: NBKEKENX789
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: HARAMBEE AVENUE BRANCH
+  swift: NBKEKENX711
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: HILL PLAZA BRANCH
+  swift: NBKEKENX808
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: HOSPITAL BRANCH
+  swift: NBKEKENX329
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: KAPSABET BRANCH
+  swift: NBKEKENX965
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: KARATINA BRANCH
+  swift: NBKEKENX841
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: KENYATTA AVENUE BRANCH
+  swift: NBKEKENX725
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: KISII BRANCH
+  swift: NBKEKENX815
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: KISUMU BRANCH
+  swift: NBKEKENX761
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: KITALE BRANCH
+  swift: NBKEKENX884
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: KITUI BRANCH
+  swift: NBKEKENX930
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: LIMURU BRANCH
+  swift: NBKEKENX922
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: MERU BRANCH
+  swift: NBKEKENX833
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: MOI AVENUE BRANCH
+  swift: NBKEKENX743
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: MOLO BRANCH
+  swift: NBKEKENX949
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: MOMBASA MOI BRANCH
+  swift: NBKEKENX973
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: MOMBASA NKURUMAH BRANCH
+  swift: NBKEKENX739
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: NAKURU BRANCH
+  swift: NBKEKENX757
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: NAROK BRANCH
+  swift: NBKEKENX868
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: NYERI BRANCH
+  swift: NBKEKENX876
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "NAIROBI"
+  branch: null
+  swift: NBKEKENX
+    
+- name: "NATIONAL BANK OF KENYA LTD."
+  city: "RUIRU"
+  branch: RUIRU BRANCH
+  swift: NBKEKENX337
+    
+- name: "NGENYE KARIUKI AND CO. LTD."
+  city: "NAIROBI"
+  branch: null
+  swift: NGKAKEN1
+    
+- name: "NIC BANK LIMITED"
+  city: "NAIROBI"
+  branch: HEAD OFFICE
+  swift: NINCKENA
+    
+- name: "PANAFRICAN BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: PABLKEN1
+    
+- name: "PARAMOUNT BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: PAUTKENA
+    
+- name: "PRIME BANK LTD."
+  city: "NAIROBI"
+  branch: null
+  swift: PRIEKENX
+    
+- name: "RAFIKI MICROFINANCE BANK"
+  city: "NAIROBI"
+  branch: null
+  swift: RMFBKENA
+    
+- name: "RELIABLE SECURITIES LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: RELSKEN1
+    
+- name: "RENAISSANCE CAPITAL (KENYA) LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: RECYKEN1
+    
+- name: "SABMILLER KENYA"
+  city: "NAIROBI"
+  branch: null
+  swift: SABMKEN1
+    
+- name: "SABMILLER KENYA"
+  city: "NAIROBI"
+  branch: null
+  swift: SABMKEN1CBL
+    
+- name: "SBM BANK (KENYA) LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: FCBLKENA
+    
+- name: "SHAH MUNGE AND PARTNERS LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: SHMPKEN1
+    
+- name: "SIDIAN BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: SIDNKENA
+    
+- name: "SMEP MICROFINANCE BANK"
+  city: "NAIROBI"
+  branch: null
+  swift: SMEPKENA
+    
+- name: "SOLID INVESTMENT SECURITIES LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: SOISKEN1
+    
+- name: "SPIRE BANK LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: EQUAKENA
+    
+- name: "STANBIC BANK KENYA LIMITED"
+  city: "MOMBASA"
+  branch: null
+  swift: SBICKEN10MB
+    
+- name: "STANBIC BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: STRUCTURED PAYMENTS
+  swift: SBICKENXSSP
+    
+- name: "STANBIC BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: SBICKENX
+    
+- name: "STANDARD CHARTERED BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: SECURITIES SERVICES UNIT
+  swift: SCBLKENXSSU
+    
+- name: "STANDARD CHARTERED BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: TRADE
+  swift: SCBLKENXTRD
+    
+- name: "STANDARD CHARTERED BANK KENYA LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: SCBLKENX
+    
+- name: "STANDARD INVESTMENT BANK LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: STSKKEN1
+    
+- name: "SUNTRA INVESTMENT BANK LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: SUSTKEN1
+    
+- name: "THE CO-OPERATIVE BANK OF KENYA LTD"
+  city: "NAIROBI"
+  branch: null
+  swift: KCOOKENA
+    
+- name: "TRANS-NATIONAL BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: TNBLKENA
+    
+- name: "UBA KENYA BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: UNAFKENA
+    
+- name: "VICTORIA COMMERCIAL BANK LIMITED"
+  city: "NAIROBI"
+  branch: null
+  swift: VICMKENA
+    

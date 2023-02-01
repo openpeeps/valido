@@ -1,0 +1,20 @@
+- name: "ANAMETRICS HOLDINGS LIMITED"
+  city: "MAJURO"
+  branch: null
+  swift: ANHDMH22
+    
+- name: "BANK OF HAWAII"
+  city: "MAJURO"
+  branch: null
+  swift: BOHIMH21
+    
+- name: "BANK OF MARSHALL ISLANDS"
+  city: "MAJURO"
+  branch: null
+  swift: BOMDMH22
+    
+- name: "WADIAH CAPITAL LTD"
+  city: "MAJURO"
+  branch: null
+  swift: WACPMH21
+    

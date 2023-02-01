@@ -1,0 +1,395 @@
+- name: "ADDIKO BANK A.D. BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: HAABRSBG
+    
+- name: "AIK BANKA AD"
+  city: "BEOGRAD"
+  branch: null
+  swift: AIKBRS22
+    
+- name: "BANCA INTESA AD, BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: DBDBRSBG
+    
+- name: "BANK OF CHINA SRBIJA A.D. BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: BKCHRSBG
+    
+- name: "BRITISH AMERICAN TOBACCO A.D.VRANJE"
+  city: "VRANJE"
+  branch: null
+  swift: BATSRS21
+    
+- name: "BRITISH AMERICAN TOBACCO SOUTH - EAST EUROPE DOO"
+  city: "BEOGRAD"
+  branch: null
+  swift: BATSRSB1
+    
+- name: "CAPITALONE A.D."
+  city: "BEOGRAD"
+  branch: null
+  swift: CPTORSB1
+    
+- name: "CENTRAL SECURITIES DEPOSITORY AND CLEARING HOUSE"
+  city: "BEOGRAD"
+  branch: null
+  swift: CSDERSB1
+    
+- name: "CREDIT AGRICOLE SRBIJA AD NOVI SAD"
+  city: "NOVI SAD"
+  branch: null
+  swift: MEBARS22
+    
+- name: "DIJAMANT BANKA AD ZRENJANIN"
+  city: "ZRENJANIN"
+  branch: null
+  swift: DIJARS21
+    
+- name: "DIREKTNA BANKA AD KRAGUJEVAC"
+  city: "KRAGUJEVAC"
+  branch: null
+  swift: KRAGRS22
+    
+- name: "EFG SECURITIES A.D. BELGRADE"
+  city: "BEOGRAD"
+  branch: null
+  swift: EFSBRSB1
+    
+- name: "ERSTE BANK A.D. NOVI SAD"
+  city: "NOVI SAD"
+  branch: null
+  swift: GIBARS22
+    
+- name: "EUROBANK AD"
+  city: "BEOGRAD"
+  branch: CUSTODY UNIT
+  swift: ERBKRSBGSEC
+    
+- name: "EUROBANK AD"
+  city: "BEOGRAD"
+  branch: null
+  swift: ERBKRSBG
+    
+- name: "EXPOBANK AD BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: LIKIRSBG
+    
+- name: "GOVERNMENT OF THE REPUBLIC OF SERBIA MINISTRY OF FINANCE"
+  city: "BEOGRAD"
+  branch: null
+  swift: UPSRRSB1
+    
+- name: "HALKBANK A.D. BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: CABARS22
+    
+- name: "JUBMES BANKA A.D. BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: JMBNRSBG
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "BEOGRAD"
+  branch: MAIN BRANCH
+  swift: KOBBRSBGGFB
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: KOBBRSBG
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "CACAK"
+  branch: BRANCH CACAK
+  swift: KOBBRSBGFCA
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "JAGODINA"
+  branch: BRANCH JAGODINA
+  swift: KOBBRSBGFJA
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "KRAGUJEVAC"
+  branch: KRAGUJEVAC BRANCH
+  swift: KOBBRSBGFKG
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "KRALJEVO"
+  branch: BRANCH KRALJEVO
+  swift: KOBBRSBGFKV
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "KRUSEVAC"
+  branch: null
+  swift: KOBBRSBGKRS
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "NIS"
+  branch: MAIN BRANCH NIS
+  swift: KOBBRSBGGFN
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "NOVI PAZAR"
+  branch: NOVI PAZAR BRANCH
+  swift: KOBBRSBGFNP
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "NOVI SAD"
+  branch: NOVI SAD BRANCH
+  swift: KOBBRSBGFNS
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "POZAREVAC"
+  branch: BRANCH  POZAREVAC
+  swift: KOBBRSBGFPO
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "SABAC"
+  branch: SABAC BRANCH
+  swift: KOBBRSBGFSA
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "SOMBOR"
+  branch: BRANCH SOMBOR
+  swift: KOBBRSBGFSO
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "SREMSKA MITROVICA"
+  branch: BRANCH SREMSKA MITROVICA
+  swift: KOBBRSBGFSM
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "SUBOTICA"
+  branch: SUBOTICA BRANCH
+  swift: KOBBRSBGFSU
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "UZICE"
+  branch: BRANCH UZICE
+  swift: KOBBRSBGFUE
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "VALJEVO"
+  branch: VLAJEVO BRANCH
+  swift: KOBBRSBGFVA
+    
+- name: "KOMERCIJALNA BANKA A.D. BEOGRAD"
+  city: "ZRENJANIN"
+  branch: BRANCH ZRENJANIN
+  swift: KOBBRSBGFZR
+    
+- name: "MB BANK A.D. NIS"
+  city: "NIS"
+  branch: null
+  swift: MBBNRS21
+    
+- name: "MEGA-EURO BANKA"
+  city: "BEOGRAD"
+  branch: null
+  swift: MEGBRSB1
+    
+- name: "MIRABANK A.D. BEOGRAD NOVI BEOGRAD"
+  city: "NOVI BEOGRAD"
+  branch: null
+  swift: MRBNRSBG
+    
+- name: "MTS BANKA A.D. BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: KMEBRS2Z
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21001
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21002
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21003
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21004
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21005
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21006
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21007
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21008
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21009
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21PI1
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21UP1
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21UP2
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRS21UP3
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRSBD
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBSRRSBG
+    
+- name: "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)"
+  city: "KOSOVSKA MITROVICA"
+  branch: null
+  swift: NBSRRS21JJ1
+    
+- name: "NLB BANKA A.D. BEOGRAD"
+  city: "NOVI BEOGRAD"
+  branch: null
+  swift: CONARS22
+    
+- name: "OPPORTUNITY BANKA"
+  city: "NOVI SAD"
+  branch: null
+  swift: OPSARS21
+    
+- name: "OPPORTUNITY BANKA A.D. NOVI SAD"
+  city: "NOVI SAD"
+  branch: null
+  swift: OPPBRS22
+    
+- name: "OTP BANKA SRBIJA A.D. NOVI SAD"
+  city: "NOVI SAD"
+  branch: null
+  swift: OTPVRS22
+    
+- name: "PESTERBANKA"
+  city: "NOVI PAZAR"
+  branch: null
+  swift: PESTRS21
+    
+- name: "PIRAEUS BANK AD BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: PIRBRSBG
+    
+- name: "POLJOPRIVREDNO INVESTICIONA BANKA"
+  city: "BEOGRAD"
+  branch: null
+  swift: PIBBRS21
+    
+- name: "POSTAL SAVINGS BANK JSC"
+  city: "BEOGRAD"
+  branch: CORPORATE CUSTOMERS
+  swift: SBPORSBG100
+    
+- name: "POSTAL SAVINGS BANK JSC"
+  city: "BEOGRAD"
+  branch: null
+  swift: SBPORSBG
+    
+- name: "PROCREDIT BANK A.D. BELGRADE"
+  city: "BEOGRAD"
+  branch: null
+  swift: PRCBRSBG
+    
+- name: "RACUNI PRIHODA I RASHODA NBS"
+  city: "BEOGRAD"
+  branch: null
+  swift: NBJORSB1
+    
+- name: "RAIFFEISEN BANKA A.D."
+  city: "BEOGRAD"
+  branch: null
+  swift: RZBSRSBG
+    
+- name: "SBERBANK SRBIJA A.D."
+  city: "BEOGRAD"
+  branch: null
+  swift: SABRRSBG
+    
+- name: "SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: SOGYRSBG
+    
+- name: "SRPSKA BANKA A.D."
+  city: "BEOGRAD"
+  branch: null
+  swift: SRBNRSBG
+    
+- name: "TELENOR BANKA AD"
+  city: "BEOGRAD"
+  branch: null
+  swift: AAAARSBG
+    
+- name: "TS-IMPERIAL CLEARING HOUSE LLC"
+  city: "BEOGRAD"
+  branch: null
+  swift: TCHLRSB1
+    
+- name: "TS-TRISTAR IMPERIAL, INTERNATIONAL CREDIT INSTITUTE LLC"
+  city: "PANCEVO"
+  branch: null
+  swift: TIIERS21
+    
+- name: "UNICREDIT BANK SRBIJA A.D."
+  city: "BEOGRAD"
+  branch: null
+  swift: BACXRSBG
+    
+- name: "VOJVODJANSKA BANKA A.D."
+  city: "NOVI SAD"
+  branch: null
+  swift: VBUBRS22
+    
+- name: "VTB BANKA AD BEOGRAD"
+  city: "BEOGRAD"
+  branch: null
+  swift: MBBGRSBG
+    
+- name: "WISE BROKER AD BELGRADE"
+  city: "BEOGRAD"
+  branch: null
+  swift: WIBBRSB1
+    

@@ -1,0 +1,30 @@
+- name: "BANKNORDIK P/F (FORMERLY FOROYA BANKI P/F)"
+  city: "TORSHAVN"
+  branch: null
+  swift: FIFBFOTX
+    
+- name: "BETRI BANKI P/F"
+  city: "TORSHAVN"
+  branch: null
+  swift: EIKBFOTF
+    
+- name: "FOSSBANKIN"
+  city: "TORSHAVN"
+  branch: null
+  swift: FOSSFO21
+    
+- name: "NORDOYA SPARIKASSI"
+  city: "KLAKSVIK"
+  branch: FAROE ISLANDS BRANCH
+  swift: NOYAFO21149
+    
+- name: "NORDOYA SPARIKASSI"
+  city: "KLAKSVIK"
+  branch: null
+  swift: NOYAFO21
+    
+- name: "SUDUROYAR SPARIKASSI"
+  city: "VAGUR"
+  branch: null
+  swift: SUSPFOT1
+    

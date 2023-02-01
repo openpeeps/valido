@@ -1,0 +1,325 @@
+- name: "AHLI BANK S.A.O.G"
+  city: "MUSCAT"
+  branch: AL HILAL
+  swift: AUBOOMRUALH
+    
+- name: "AHLI BANK S.A.O.G"
+  city: "RUWI"
+  branch: null
+  swift: AUBOOMRU
+    
+- name: "AL AHLIA ASSET MGT CO. (SAOC)"
+  city: "RUWI"
+  branch: null
+  swift: AAMOOMR1
+    
+- name: "AL AMIN SECURITIES COMPANY LLC"
+  city: "RUWI"
+  branch: null
+  swift: ASMLOMR1
+    
+- name: "AL MADINA FINANCIAL AND INVESTMENT SERVICES CO. (S.A.O.G)"
+  city: "RUWI"
+  branch: null
+  swift: MFIEOMR1
+    
+- name: "AL QURUM INVESTMENT SERVICES (SAOC)"
+  city: "RUWI"
+  branch: null
+  swift: QURUOMR1
+    
+- name: "AL SHALMAN SECURITIES CO (SAOG)"
+  city: "MUTTRAH"
+  branch: null
+  swift: SHEAOMR1
+    
+- name: "AL SHUROOQ SECURITIES CO LLC"
+  city: "RUWI"
+  branch: null
+  swift: SHUROMR1
+    
+- name: "ALIZZ ISLAMIC BANK"
+  city: "MUSCAT"
+  branch: null
+  swift: IZZBOMRU
+    
+- name: "BANK DHOFAR (S.A.O.G.)"
+  city: "RUWI"
+  branch: MAISARAH ISLAMIC BANKING SERVICES
+  swift: BDOFOMRUMIB
+    
+- name: "BANK DHOFAR (S.A.O.G.)"
+  city: "RUWI"
+  branch: null
+  swift: BDOFOMRU
+    
+- name: "BANK DHOFAR (S.A.O.G.)"
+  city: "RUWI"
+  branch: null
+  swift: BDOFOMRUTFD
+    
+- name: "BANK MELLI IRAN"
+  city: "MUSCAT"
+  branch: null
+  swift: MELIOMRX
+    
+- name: "BANK NIZWA"
+  city: "MUSCAT"
+  branch: null
+  swift: BNZWOMRX
+    
+- name: "BANK OF BARODA, GREATER MUTTRAH BRANCH"
+  city: "MUTTRAH"
+  branch: MUTRAH BRANCH
+  swift: BARBOMMXMUT
+    
+- name: "BANK OF BARODA, GREATER MUTTRAH BRANCH"
+  city: "MUTTRAH"
+  branch: SALALAH BRANCH
+  swift: BARBOMMXSAL
+    
+- name: "BANK OF BARODA, GREATER MUTTRAH BRANCH"
+  city: "RUWI"
+  branch: null
+  swift: BARBOMMX
+    
+- name: "BANK OF BARODA, GREATER MUTTRAH BRANCH"
+  city: "SOHAR"
+  branch: SOHAR BRANCH
+  swift: BARBOMMXSOH
+    
+- name: "BANK OF BEIRUT S.A.L.- OMAN BRANCH"
+  city: "MUSCAT"
+  branch: null
+  swift: BABEOMRX
+    
+- name: "BANK SOHAR S.A.O.G"
+  city: "RUWI"
+  branch: SOHAR ISLAMIC
+  swift: BSHROMRUISL
+    
+- name: "BANK SOHAR S.A.O.G"
+  city: "RUWI"
+  branch: null
+  swift: BSHROMRU
+    
+- name: "BANKMUSCAT SAOG"
+  city: "MUSCAT"
+  branch: ISLAMIC BANKING
+  swift: BMUSOMRXISL
+    
+- name: "BANKMUSCAT SAOG"
+  city: "MUSCAT"
+  branch: null
+  swift: BMUSOMRX
+    
+- name: "CENTRAL BANK OF OMAN"
+  city: "RUWI"
+  branch: null
+  swift: CBOMOMRU
+    
+- name: "EFG HERMES OMAN LLC"
+  city: "MUSCAT"
+  branch: null
+  swift: EFGHOMM1
+    
+- name: "FINANCIAL SERVICES COMPANY SAOG"
+  city: "RUWI"
+  branch: null
+  swift: FIVOOMR1
+    
+- name: "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI) OMAN MAIN BR"
+  city: "MUSCAT"
+  branch: null
+  swift: NBADOMRX
+    
+- name: "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI) OMAN MAIN BR"
+  city: "MUTTRAH"
+  branch: NATIONAL BANK OF ABU DHABI
+  swift: NBADOMRXCMS
+    
+- name: "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI) OMAN MAIN BR"
+  city: "MUTTRAH"
+  branch: TRADE FINANCE DEPARTMENT
+  swift: NBADOMRXTFO
+    
+- name: "GLOBAL FINANCIAL INVESTMENTS S.A.O.G"
+  city: "MUSCAT"
+  branch: null
+  swift: GFISOMR1
+    
+- name: "GLOBAL FINANCIAL SERVICES CO."
+  city: "RUWI"
+  branch: null
+  swift: FISOOMR1
+    
+- name: "GULF INVESTMENT SERVICES CO. (S.A.O.G)"
+  city: "RUWI"
+  branch: null
+  swift: GISCOMR1
+    
+- name: "HABIB BANK LIMITED"
+  city: "MUTTRAH"
+  branch: null
+  swift: HBZUOMM1
+    
+- name: "HABIB BANK OMAN"
+  city: "RUWI"
+  branch: null
+  swift: HABBOMRX
+    
+- name: "HSBC BANK OMAN S.A.O.G"
+  city: "RUWI"
+  branch: null
+  swift: BBMEOMRX
+    
+- name: "INTERNATIONAL FINANCIAL SERVICES"
+  city: "RUWI"
+  branch: null
+  swift: IFELOMR1
+    
+- name: "MIDDLE EAST BROKERAGE COMPANY"
+  city: "RUWI"
+  branch: null
+  swift: MEBCOMR1
+    
+- name: "MINISTRY OF FINANCE"
+  city: "MUSCAT"
+  branch: null
+  swift: MINIOMRU
+    
+- name: "MUSCAT DEPOSITORY AND SECURITIES REGISTRATION CO SAOC"
+  city: "RUWI"
+  branch: null
+  swift: MDSROMR1
+    
+- name: "MUSCAT SECURITIES MARKET"
+  city: "MUSCAT"
+  branch: null
+  swift: XMUSOMM1
+    
+- name: "MUZN ISLAMIC BANKING TRADING UNDER NATIONAL BANK OF OMAN"
+  city: "RUWI"
+  branch: null
+  swift: MUZNOMR1
+    
+- name: "NATIONAL BANK OF OMAN"
+  city: "MUSCAT"
+  branch: TRADE SERVICES
+  swift: NBOMOMRXTSS
+    
+- name: "NATIONAL BANK OF OMAN"
+  city: "MUSCAT"
+  branch: null
+  swift: NBOMOMRX
+    
+- name: "NATIONAL BANK OF OMAN"
+  city: "RUWI"
+  branch: MUZN ISLAMIC BANKING
+  swift: NBOMOMRXIBS
+    
+- name: "NATIONAL BANK OF OMAN"
+  city: "RUWI"
+  branch: MUZN ISLAMIC TRADE FINANCE
+  swift: NBOMOMRXITF
+    
+- name: "NATIONAL SECURITIES COMPANY SAOG"
+  city: "AL HARTHY COMPLEX"
+  branch: null
+  swift: NASGOMR1
+    
+- name: "OCTAL PETROCHEMICALS FZC"
+  city: "MUSCAT"
+  branch: null
+  swift: OPCFOMRX
+    
+- name: "OMAN AND EMIRATES INVESTMENT HOLDING CO SAOG"
+  city: "RUWI"
+  branch: null
+  swift: OMEMOMR1
+    
+- name: "OMAN AND UAE EXCHANGE CENTRE CO LLC"
+  city: "RUWI"
+  branch: null
+  swift: OUAEOMRU
+    
+- name: "OMAN ARAB BANK SAOC"
+  city: "RUWI"
+  branch: AL-YUSR ISLAMIC BANKING
+  swift: OMABOMRUYSR
+    
+- name: "OMAN ARAB BANK SAOC"
+  city: "RUWI"
+  branch: null
+  swift: OMABOMRU
+    
+- name: "OMAN BANKING CORP."
+  city: "RUWI"
+  branch: null
+  swift: BOGUOMR1
+    
+- name: "OMAN INTERNATIONAL DEVELOPMENT AND INVESTMENT COMPANY SAOG"
+  city: "RUWI"
+  branch: null
+  swift: OIDIOMR1
+    
+- name: "OMAN INVESTMENTS SERVICES (SAOC)"
+  city: "RUWI"
+  branch: null
+  swift: OISOOMR1
+    
+- name: "OMAN SECURITY PORTFOLIO CO. (SAOG)"
+  city: "RUWI"
+  branch: null
+  swift: OSPOOMR1
+    
+- name: "OMAN UNITED EXCHANGE CO. LLC"
+  city: "MUSCAT"
+  branch: null
+  swift: OMUEOMR1
+    
+- name: "QATAR NATIONAL BANK"
+  city: "MUSCAT"
+  branch: null
+  swift: QNBAOMRX
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "RUWI"
+  branch: null
+  swift: SCBLOMRX
+    
+- name: "STATE BANK OF INDIA, MUSCAT, OMAN"
+  city: "MUSCAT"
+  branch: null
+  swift: SBINOMRX
+    
+- name: "STATE GENERAL RESERVE FUND"
+  city: "MUSCAT"
+  branch: null
+  swift: SGRFOMRB
+    
+- name: "STATE GENERAL RESERVE FUND - MINISTRY OF FINANCE"
+  city: "MUSCAT"
+  branch: null
+  swift: SGRFOMR1
+    
+- name: "STATE GENERAL RESERVE FUND - MINISTRY OF FINANCE"
+  city: "MUSCAT"
+  branch: null
+  swift: SGRFOMRA
+    
+- name: "UNITED SECURITIES L.L.C."
+  city: "RUWI"
+  branch: null
+  swift: USECOMR1
+    
+- name: "VISION INVESTMENT SERVICES CO (S.A.O.C)"
+  city: "RUWI"
+  branch: null
+  swift: VISIOMR1
+    
+- name: "VISION SECURITIES COMPANY LLC"
+  city: "MUSCAT"
+  branch: null
+  swift: VSCLOMR1
+    

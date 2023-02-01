@@ -1,0 +1,595 @@
+- name: "AL SALAM BANK ALGERIA"
+  city: "ALGIERS"
+  branch: null
+  swift: SALGDZAL
+    
+- name: "ALGERIA GULF BANK"
+  city: "ALGIERS"
+  branch: null
+  swift: AGUBDZAL
+    
+- name: "ARAB BANK PLC ALGERIA"
+  city: "ALGIERS"
+  branch: null
+  swift: ARABDZAL
+    
+- name: "ARAB BANKING CORPORATION - ALGERIA"
+  city: "ALGIERS"
+  branch: null
+  swift: ABCODZAL
+    
+- name: "BANK OF ALGERIA"
+  city: "ALGIERS"
+  branch: HEAD OFFICE
+  swift: BALGDZAL
+    
+- name: "BANK OF ALGERIA"
+  city: "ALGIERS"
+  branch: SERVICES BANCAIRES ETRANGERS
+  swift: BALGDZALSBE
+    
+- name: "BANK OF ALGERIA"
+  city: "ALGIERS"
+  branch: null
+  swift: BALGDZAP
+    
+- name: "BANQUE DE DEVELOPPEMENT LOCAL"
+  city: "ALGIERS"
+  branch: null
+  swift: BDLODZAL
+    
+- name: "BANQUE DE L'AGRICULTURE ET DE DEVELOPPEMENT RURAL"
+  city: "ALGIERS"
+  branch: null
+  swift: BADRDZAL
+    
+- name: "BANQUE DU MAGHREB ARABE POUR L'INVESTISSEMENT ET LE COMMERCE"
+  city: "ALGIERS"
+  branch: null
+  swift: BMICDZAL
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "AIN TEMOUCHENT"
+  branch: AGENCE AIN TEMOUCHENT
+  swift: BEXADZAL072
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE 113
+  swift: BEXADZAL113
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE AMIROUCHE
+  swift: BEXADZAL012
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE BELCOURT
+  swift: BEXADZAL020
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE BEN M'HIDI
+  swift: BEXADZAL015
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE CAROUBIER NAFTAL
+  swift: BEXADZAL001
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE CHERAGA NAFTAL
+  swift: BEXADZAL008
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE CHERAGA VILLE
+  swift: BEXADZAL004
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE DE TIZI OUZOU
+  swift: BEXADZAL034
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE DELY IBRAHIM
+  swift: BEXADZAL090
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE DES ACCREDITES
+  swift: BEXADZAL017
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE DRARIA
+  swift: BEXADZAL116
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE EL HARRACH
+  swift: BEXADZAL030
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE GUEVARA
+  swift: BEXADZAL010
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE HAMANI
+  swift: BEXADZAL018
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE HASSIBA BEN BOUALI
+  swift: BEXADZAL038
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE HUSSEIN DEY
+  swift: BEXADZAL022
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE HYDRA LES ROSIERS
+  swift: BEXADZAL912
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE HYDRA SITE SONATRACH
+  swift: BEXADZAL005
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE KHEMIS MILIANA
+  swift: BEXADZAL013
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE PALIS DES EXPOSITIONS
+  swift: BEXADZAL016
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE RAVIN
+  swift: BEXADZAL095
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: AGENCE RIAD EL FETH
+  swift: BEXADZAL002
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: BARAKI
+  swift: BEXADZAL089
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: DIRECTION DE LA TRESORERIE
+  swift: BEXADZALDTD
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: DIRECTION DES OPERATIONS AVEC L'ETRANGER - DEPARTEMENT L/C ET NOSTRO
+  swift: BEXADZALDOE
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: DIRECTION DES RELATIONS INTERNATIONALES
+  swift: BEXADZALDRI
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: DIRECTION DU COMMERCE EXTERIEUR
+  swift: BEXADZALDCE
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: EL DJAZAIR
+  swift: BEXADZAL101
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: EL MOURADIA
+  swift: BEXADZAL102
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: ZERALDA
+  swift: BEXADZAL100
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ALGIERS"
+  branch: null
+  swift: BEXADZAL
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ANNABA"
+  branch: AGENCE ANNABA 44
+  swift: BEXADZAL044
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ANNABA"
+  branch: AGENCE ANNABA ASMIDAL
+  swift: BEXADZAL077
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ANNABA"
+  branch: AGENCE ANNABA EL HADJAR
+  swift: BEXADZAL076
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ANNABA"
+  branch: AGENCE ANNABA ELYSA
+  swift: BEXADZAL107
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ANNABA"
+  branch: AGENCE ANNABA REVOLUTION
+  swift: BEXADZAL042
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ARZEW"
+  branch: AGENCE ARZEW LES JARDINS
+  swift: BEXADZAL078
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BATNA"
+  branch: AGENCE BATNA
+  swift: BEXADZAL054
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BATNA"
+  branch: BATNA BOUAKAL
+  swift: BEXADZAL093
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BECHAR"
+  branch: AGENCE BECHAR
+  swift: BEXADZAL071
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BEJAIA"
+  branch: AGENCE BEJAIA 041
+  swift: BEXADZAL041
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BEJAIA"
+  branch: AGENCE DE BEJAIA
+  swift: BEXADZAL040
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BENI SAF"
+  branch: AGENCE BENI SAF
+  swift: BEXADZAL075
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BISKRA"
+  branch: AGENCE BISKRA
+  swift: BEXADZAL056
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BLIDA"
+  branch: AGENCE BENI MERED
+  swift: BEXADZAL025
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BLIDA"
+  branch: AGENCE BLIDA
+  swift: BEXADZAL024
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BLIDA"
+  branch: AGENCE MOUZAIA
+  swift: BEXADZAL027
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BLIDA"
+  branch: OULED YAICH
+  swift: BEXADZAL112
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BORDJ"
+  branch: AGENCE BORDJ
+  swift: BEXADZAL058
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BORDJ BOU ARRERIDJ"
+  branch: AGENCE BORDJ BOU ARRERIDJ 2
+  swift: BEXADZAL109
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BOUFARIK"
+  branch: AGENCE BOUFARIK
+  swift: BEXADZAL019
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BOUIRA"
+  branch: AGENCE BOUIRA
+  swift: BEXADZAL037
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BOUMERDES"
+  branch: AGENCE BOUMERDES 2
+  swift: BEXADZAL111
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BOUMERDES"
+  branch: AGENCE BOUMERDES
+  swift: BEXADZAL082
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BOUMERDES"
+  branch: AGENCE ROUIBA
+  swift: BEXADZAL006
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "BOUSAADA"
+  branch: AGENCE BOUSAADA
+  swift: BEXADZAL086
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "CONSTANTINE"
+  branch: AGENCE CONSTANTINE EL BEY
+  swift: BEXADZAL110
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "CONSTANTINE"
+  branch: AGENCE DE CONSTANTINE
+  swift: BEXADZAL050
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "CONSTANTINE"
+  branch: CONSTANTINE SI EL HAOUES
+  swift: BEXADZAL103
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "DJELFA"
+  branch: AGENCE DJELFA
+  swift: BEXADZAL031
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "EL KHROUB"
+  branch: AGENCE EL KHROUB
+  swift: BEXADZAL039
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "EL MILIA"
+  branch: AGENCE EL MILIA
+  swift: BEXADZAL097
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "EL-OUED"
+  branch: AGENCE EL-OUED
+  swift: BEXADZAL094
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "GHARDAIA"
+  branch: AGENCE GHARDAIA
+  swift: BEXADZAL028
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "GHAZAOUET"
+  branch: AGENCE GHAZAOUET
+  swift: BEXADZAL080
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "GUELMA"
+  branch: AGENCE GUELMA
+  swift: BEXADZAL055
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "HASSI-MESSAOUD"
+  branch: AGENCE DE HASSI-MESSAOUD
+  swift: BEXADZAL033
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "HASSI-MESSAOUD"
+  branch: null
+  swift: BEXADZAL035
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "HASSI-R'MEL"
+  branch: AGENCE HASSI-R'MEL
+  swift: BEXADZAL083
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "IN AMENAS"
+  branch: AGENCE IN AMENAS
+  swift: BEXADZAL092
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "JIJEL"
+  branch: AGENCE JIJEL IBN KHELDOUN
+  swift: BEXADZAL043
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "JIJEL"
+  branch: AGENCE JIJEL
+  swift: BEXADZAL048
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "LAGHOUAT"
+  branch: AGENCE DE LAGHOUAT
+  swift: BEXADZAL029
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "MASCARA"
+  branch: AGENCE MASCARA
+  swift: BEXADZAL067
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "MASCARA"
+  branch: AGENCE MASCARA
+  swift: BEXADZAL067
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "MEDEA"
+  branch: AGENCE MEDEA
+  swift: BEXADZAL026
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "MOSTAGANEM"
+  branch: AGENCE DE MOSTAGANEM
+  swift: BEXADZAL066
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "MOSTAGANEM"
+  branch: MOSTAGANEM CORPORATE
+  swift: BEXADZAL104
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "M'SILA"
+  branch: AGENCE M'SILA
+  swift: BEXADZAL047
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ORAN"
+  branch: AGENCE ARZEW SITE SONATRACH
+  swift: BEXADZAL070
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ORAN"
+  branch: AGENCE ORAN ABDELAKADER
+  swift: BEXADZAL060
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ORAN"
+  branch: AGENCE ORAN KHEMISTI
+  swift: BEXADZAL062
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ORAN"
+  branch: AGENCE ORAN SITE SNS
+  swift: BEXADZAL079
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ORAN"
+  branch: AGENCE ORAN
+  swift: BEXADZAL074
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "ORAN"
+  branch: ORAN EL DJAMEL
+  swift: BEXADZAL081
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "OUARGLA"
+  branch: AGENCE OUARGLA
+  swift: BEXADZAL032
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "OUM EL BOUAGHI"
+  branch: AGENCE OUM EL BOUAGHI
+  swift: BEXADZAL051
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "RELIZANE"
+  branch: AGENCE DE RELIZANE
+  swift: BEXADZAL073
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "SAIDA"
+  branch: AGENCE SAIDA
+  swift: BEXADZAL061
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "SETIF"
+  branch: AGENCE EL EULMA
+  swift: BEXADZAL087
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "SETIF"
+  branch: AGENCE SETIF II
+  swift: BEXADZAL053
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "SETIF"
+  branch: AGENCE SETIF
+  swift: BEXADZAL036
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "SIDI BEL ABBES"
+  branch: AGENCE SIDI BEL ABBES
+  swift: BEXADZAL065
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "SIG"
+  branch: AGENCE SIG
+  swift: BEXADZAL084
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "SKIKDA"
+  branch: AGENCE DE SKIKDA
+  swift: BEXADZAL052
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "SKIKDA"
+  branch: AGENCE SKIKDA SITE SH
+  swift: BEXADZAL085
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "SOUK AHRAS"
+  branch: AGENCE SOUK AHRAS
+  swift: BEXADZAL057
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "TEBESSA"
+  branch: AGENCE TEBESSA
+  swift: BEXADZAL046
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "TIARET"
+  branch: AGENCE DE TIARET
+  swift: BEXADZAL069
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "TIARET"
+  branch: AGENCE TIARET TOUR
+  swift: BEXADZAL108
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "TIZI-OUZOU"
+  branch: AGENCE OUED AISSI
+  swift: BEXADZAL098
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "TLEMCEN"
+  branch: AGENCE EL KIFFANE
+  swift: BEXADZAL096
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "TLEMCEN"
+  branch: AGENCE TLEMCEN INDEPDT
+  swift: BEXADZAL064
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "TLEMCEN"
+  branch: MAGHNIA 114
+  swift: BEXADZAL114
+    
+- name: "BANQUE EXTERIEURE D'ALGERIE"
+  city: "TOUGGOURT"
+  branch: AGENCE DE TOUGGOURT
+  swift: BEXADZAL088
+    
+- name: "BANQUE NATIONALE D'ALGERIE"
+  city: "ALGIERS"
+  branch: null
+  swift: BNALDZAL
+    
+- name: "BANQUE NATIONALE D'ALGERIE"
+  city: "CHLEF"
+  branch: CHLEF
+  swift: BNALDZAL260
+    
+- name: "BANQUE NATIONALE D'ALGERIE"
+  city: "GHARDAIA"
+  branch: GHARDAIA
+  swift: BNALDZAL291
+    

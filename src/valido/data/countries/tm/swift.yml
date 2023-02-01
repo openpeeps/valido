@@ -1,0 +1,60 @@
+- name: "CENTRAL BANK OF TURKMENISTAN, THE"
+  city: "ASHKHABAD"
+  branch: null
+  swift: CBTUTM2A
+    
+- name: "DAYKHANBANK"
+  city: "ASHKHABAD"
+  branch: null
+  swift: BDAYTM22
+    
+- name: "HALKBANK"
+  city: "ASHKHABAD"
+  branch: null
+  swift: HALKTM22
+    
+- name: "JOINT-STOCK COMMERCIAL BANK RYSGAL"
+  city: "ASHKHABAD"
+  branch: null
+  swift: RYSGTM2A
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "ASHKHABAD"
+  branch: null
+  swift: NBPATM22
+    
+- name: "SAVINGS BANK OF TURKMENISTAN"
+  city: "ASHKHABAD"
+  branch: null
+  swift: SATUTM21
+    
+- name: "SENAGAT BANK JSCB"
+  city: "ASHKHABAD"
+  branch: null
+  swift: SENBTM22
+    
+- name: "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN"
+  city: "ASHKHABAD"
+  branch: null
+  swift: SBFETM22
+    
+- name: "STATE COMMERCIAL BANK 'GARASHSYZLYK '"
+  city: "ASHKHABAD"
+  branch: null
+  swift: STCGTM21
+    
+- name: "TURKMEN TURKISH JOINT STOCK COMMERCIAL BANK"
+  city: "ASHKHABAD"
+  branch: null
+  swift: TUTCTM2X
+    
+- name: "TURKMENBANK"
+  city: "ASHKHABAD"
+  branch: null
+  swift: TNBKTM2X
+    
+- name: "TURKMENBASHIBANK"
+  city: "ASHKHABAD"
+  branch: null
+  swift: INVATM2X
+    

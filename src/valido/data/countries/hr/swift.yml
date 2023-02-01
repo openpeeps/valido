@@ -1,0 +1,390 @@
+- name: "ADDIKO BANK D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: HAABHR22
+    
+- name: "AGRAM BROKERI D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: AGBOHR21
+    
+- name: "AKTIV BROKER D.O.O."
+  city: "ZAGREB"
+  branch: null
+  swift: AKBDHR21
+    
+- name: "ALLIANZ B"
+  city: "ZAGREB"
+  branch: null
+  swift: ALLNHR21
+    
+- name: "ANTEA BROKERI D.O.O."
+  city: "ZAGREB"
+  branch: null
+  swift: ANBOHR21
+    
+- name: "AUCTOR D.O.O."
+  city: "ZAGREB"
+  branch: null
+  swift: AUDOHR21
+    
+- name: "BANKA KOVANICA D.D."
+  city: "VARAZDIN"
+  branch: null
+  swift: SKOVHR22
+    
+- name: "BAT HRVATSKA D.O.O."
+  city: "ZAGREB"
+  branch: null
+  swift: BATSHR21
+    
+- name: "BKS BANK AG, GLAVNA PODRUZNICA HRVATSKA"
+  city: "RIJEKA"
+  branch: null
+  swift: BFKKHR22
+    
+- name: "CREDOS D.O.O."
+  city: "ZAGREB"
+  branch: null
+  swift: CDDOHR21
+    
+- name: "CROATIA BANKA D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: CROAHR2X
+    
+- name: "CROATIAN BANK FOR RECONSTRUCTION AND DEVELOPMENT/HBOR/"
+  city: "ZAGREB"
+  branch: null
+  swift: HKBOHR2X
+    
+- name: "ERSTE AND STEIERMAERKISCHE BANK D.D."
+  city: "RIJEKA"
+  branch: null
+  swift: ESBCHR22
+    
+- name: "FIMA SECURITIES LTD"
+  city: "VARAZDIN"
+  branch: null
+  swift: FMVZHR21
+    
+- name: "FINANCIJSKA AGENCIJA"
+  city: "ZAGREB"
+  branch: null
+  swift: FNAGHR22
+    
+- name: "GREENHOUSE GASES NATIONAL REGISTRY"
+  city: "ZAGREB"
+  branch: null
+  swift: GGNRHR21
+    
+- name: "HITA VRIJEDNOSNICE D.D"
+  city: "ZAGREB"
+  branch: null
+  swift: HIVRHR21
+    
+- name: "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)"
+  city: "ZAGREB"
+  branch: DOMESTIC PAYMENT SYSTEM
+  swift: NBHRHR2D
+    
+- name: "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)"
+  city: "ZAGREB"
+  branch: null
+  swift: NBHRHR2X
+    
+- name: "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)"
+  city: "ZAGREB"
+  branch: null
+  swift: NBHRHR2XEUX
+    
+- name: "HRVATSKA POSTANSKA BANKA D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: HPBZHR2X
+    
+- name: "ICAM LTD"
+  city: "ZAGREB"
+  branch: null
+  swift: ICMMHR21
+    
+- name: "IMEX BANKA LTD."
+  city: "SPLIT"
+  branch: null
+  swift: IMXXHR22
+    
+- name: "INTERCAPITAL SECURITIES LTD."
+  city: "ZAGREB"
+  branch: null
+  swift: INUIHR21
+    
+- name: "INTERCAPITAL SECURITIES LTD."
+  city: "ZAGREB"
+  branch: null
+  swift: INUIHR22
+    
+- name: "INTERNATIONAL DISCOVERY LTD"
+  city: "ZAGREB"
+  branch: null
+  swift: IDISHR21
+    
+- name: "ISTARSKA KREDITNA BANKA JOINT STOCK COMPANY"
+  city: "UMAG"
+  branch: null
+  swift: ISKBHR2X
+    
+- name: "J AND T BANKA D.D."
+  city: "VARAZDIN"
+  branch: null
+  swift: VBVZHR22
+    
+- name: "JADRANSKA BANKA D.D. SIBENIK"
+  city: "SIBENIK"
+  branch: null
+  swift: JADRHR2X
+    
+- name: "JUR-PROM MOTO D.O.O."
+  city: "ZAGREB"
+  branch: null
+  swift: JUMDHR21
+    
+- name: "KARLOVACKA BANKA D.D."
+  city: "KARLOVAC"
+  branch: null
+  swift: KALCHR2X
+    
+- name: "KENTBANK D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: KENBHR22
+    
+- name: "KREDITNA BANKA ZAGREB D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: KREZHR2X
+    
+- name: "OTP BANKA HRVATSKA D.D."
+  city: "DUBROVNIK"
+  branch: DUBROVNIK
+  swift: OTPVHR2XDUB
+    
+- name: "OTP BANKA HRVATSKA D.D."
+  city: "PULA"
+  branch: null
+  swift: OTPVHR2XPUL
+    
+- name: "OTP BANKA HRVATSKA D.D."
+  city: "RIJEKA"
+  branch: RIJEKA
+  swift: OTPVHR2XRJK
+    
+- name: "OTP BANKA HRVATSKA D.D."
+  city: "SIBENIK"
+  branch: SIBENIK
+  swift: OTPVHR2XSIB
+    
+- name: "OTP BANKA HRVATSKA D.D."
+  city: "SISAK"
+  branch: null
+  swift: OTPVHR2XSIS
+    
+- name: "OTP BANKA HRVATSKA D.D."
+  city: "SPLIT"
+  branch: null
+  swift: OTPVHR2XSPL
+    
+- name: "OTP BANKA HRVATSKA D.D."
+  city: "ZADAR"
+  branch: null
+  swift: OTPVHR2X
+    
+- name: "OTP BANKA HRVATSKA D.D."
+  city: "ZADAR"
+  branch: null
+  swift: OTPVHR2XZAD
+    
+- name: "OTP BANKA HRVATSKA D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: OTPVHR2XZAG
+    
+- name: "PARTNER BANKA D.D. ZAGREB"
+  city: "ZAGREB"
+  branch: null
+  swift: PAZGHR2X
+    
+- name: "PODRAVSKA BANKA D.D."
+  city: "KOPRIVNICA"
+  branch: null
+  swift: PDKCHR2X
+    
+- name: "PRIMORSKA BANKA D.D RIJEKA"
+  city: "RIJEKA"
+  branch: null
+  swift: SPRMHR22
+    
+- name: "PRIVREDNA BANKA ZAGREB D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: PBZGHR2X
+    
+- name: "RAIFFEISEN INVESTMENT"
+  city: "ZAGREB"
+  branch: null
+  swift: RAIVHR21
+    
+- name: "RAIFFEISENBANK AUSTRIA D.D. ZAGREB"
+  city: "ZAGREB"
+  branch: null
+  swift: RZBHHR2X
+    
+- name: "RAST D.O.O."
+  city: "VARAZDIN"
+  branch: null
+  swift: RSDOHR21
+    
+- name: "SAMOBORSKA BANKA D.D."
+  city: "SAMOBOR"
+  branch: null
+  swift: SMBRHR22
+    
+- name: "SBERBANK D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: VBCRHR22
+    
+- name: "SKDD-CCP SMART CLEAR D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: CCPHHR21
+    
+- name: "SLATINSKA BANKA DD"
+  city: "SLATINA"
+  branch: null
+  swift: SBSLHR2X
+    
+- name: "SPLITSKA BANKA DD"
+  city: "SPLIT"
+  branch: MINIMUM RESERVE REQUIREMENT WITH CNB
+  swift: SOGEHR22MMR
+    
+- name: "SPLITSKA BANKA DD"
+  city: "SPLIT"
+  branch: null
+  swift: SOGEHR22
+    
+- name: "SREDISNJE KLIRINSKO DEPOZITARNO DRUSTVO D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: SDAHHR22
+    
+- name: "STEDBANKA D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: STEDHR22
+    
+- name: "TESLA STEDNA BANKA D.D."
+  city: "ZAGREB"
+  branch: null
+  swift: ASBZHR22
+    
+- name: "VENETO BANKA DD"
+  city: "ZAGREB"
+  branch: null
+  swift: CCBZHR2X
+    
+- name: "ZAGREB STOCK EXCHANGE"
+  city: "ZAGREB"
+  branch: null
+  swift: XZAGHR21
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "BJELOVAR"
+  branch: BJELOVAR BRANCH
+  swift: ZABAHR2XBJE
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "DJURDJEVAC"
+  branch: DJURDJEVAC BRANCH
+  swift: ZABAHR2XDJU
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "DUBROVNIK"
+  branch: DUBROVNIK BRANCH
+  swift: ZABAHR2XDUB
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "KRIZEVCI"
+  branch: KRIZEVCI BRANCH
+  swift: ZABAHR2XKRI
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "MAKARSKA"
+  branch: MAKARSKA BRANCH
+  swift: ZABAHR2XMAK
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "NOVA GRADISKA"
+  branch: NOVA GRADISKA BRANCH
+  swift: ZABAHR2XNOV
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "OSIJEK"
+  branch: OSIJEK BRANCH
+  swift: ZABAHR2XOSI
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "POREC"
+  branch: POREC BRANCH
+  swift: ZABAHR2XPOR
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "PULA"
+  branch: PULA BRANCH
+  swift: ZABAHR2XPUL
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "RIJEKA"
+  branch: RIJEKA BRANCH
+  swift: ZABAHR2XRIJ
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "ROVINJ"
+  branch: ROVINJ BRANCH
+  swift: ZABAHR2XROV
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "SIBENIK"
+  branch: SIBENIK BRANCH
+  swift: ZABAHR2XSIB
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "SPLIT"
+  branch: SPLIT BRANCH
+  swift: ZABAHR2XSPL
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "UMAG"
+  branch: UMAG BRANCH
+  swift: ZABAHR2XUMA
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "VIROVITICA"
+  branch: VIROVITICA BRANCH
+  swift: ZABAHR2XVIR
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "ZABOK"
+  branch: ZABOK BRANCH
+  swift: ZABAHR2XZAB
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "ZADAR"
+  branch: ZADAR BRANCH
+  swift: ZABAHR2XZAD
+    
+- name: "ZAGREBACKA BANKA DD"
+  city: "ZAGREB"
+  branch: null
+  swift: ZABAHR2X
+    

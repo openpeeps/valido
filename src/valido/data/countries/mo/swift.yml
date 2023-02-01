@@ -1,0 +1,165 @@
+- name: "AUTORIDADE MONETARIA DE MACAU"
+  city: "MACAU"
+  branch: null
+  swift: MFAMMOMX
+    
+- name: "BANCO COMERCIAL DE MACAU, S.A."
+  city: "MACAU"
+  branch: null
+  swift: CMACMOMX
+    
+- name: "BANCO COMMERCIAL PORTUGUES"
+  city: "MACAU"
+  branch: null
+  swift: BCOMMOMX
+    
+- name: "BANCO DELTA ASIA S.A."
+  city: "MACAU"
+  branch: null
+  swift: DABGMOMX
+    
+- name: "BANCO NACIONAL ULTRAMARINO, SA"
+  city: "MACAU"
+  branch: null
+  swift: BNULMOMX
+    
+- name: "BANCO WELL LINK, S.A."
+  city: "MACAU"
+  branch: null
+  swift: BESCMOMX
+    
+- name: "BANK OF CHINA, MACAU BRANCH"
+  city: "MACAU"
+  branch: RENMINBI CLEARING CENTRE
+  swift: BKCHMOMX868
+    
+- name: "BANK OF CHINA, MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: BKCHMOMX
+    
+- name: "BANK OF COMMUNICATIONS CO.,LTD. MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: COMMMOMX
+    
+- name: "BANK SINOPAC (FORMERLY INT'L BANK OF TAIPEI)"
+  city: "MACAU"
+  branch: null
+  swift: SINOMOMX
+    
+- name: "CAIXA ECONOMICA POSTAL"
+  city: "MACAU"
+  branch: null
+  swift: CIEPMOMX
+    
+- name: "CAIXA GERAL DE DEPOSITOS, SA - SUCURSAL OFFSHORE DE MACAU"
+  city: "MACAU"
+  branch: null
+  swift: CGDIMOMX
+    
+- name: "CHINA CITIC BANK INTERNATIONAL LIMITED MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: KWHKMOMX
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH"
+  city: "MACAU"
+  branch: RETAIL AND COMMERCIAL
+  swift: CCBQMOMXRTL
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: CCBQMOMX
+    
+- name: "CHINA GUANGFA BANK CO., LTD MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: GDBKMOMX
+    
+- name: "CHONG HING BANK LIMITED MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: LCHBMOMX
+    
+- name: "CITIBANK NA, MACAU"
+  city: "MACAU"
+  branch: null
+  swift: CITIMOMX
+    
+- name: "DBS BANK (HONG KONG) LIMITED, MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: DBSSMOMX
+    
+- name: "DEUTSCHE BANK AG"
+  city: "MACAU"
+  branch: null
+  swift: DEUTMOM1
+    
+- name: "FIRST COMMERCIAL BANK, MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: FCBKMOMX
+    
+- name: "HANG SENG BANK LIMITED,MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: HASEMOMX
+    
+- name: "HUA NAN COMMERCIAL BANK,LTD. MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: HNBKMOMX
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU) LIMITED"
+  city: "MACAU"
+  branch: null
+  swift: ICBKMOMX
+    
+- name: "LUSO INTERNATIONAL BANKING LTD."
+  city: "MACAU"
+  branch: null
+  swift: LUSOMOMX
+    
+- name: "OCBC WING HANG BANK LIMITED"
+  city: "MACAU"
+  branch: null
+  swift: WIHBMOMX
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "MACAU"
+  branch: null
+  swift: SCBLMOMX
+    
+- name: "TAI FUNG BANK LIMITED"
+  city: "MACAU"
+  branch: null
+  swift: TFBLMOMX
+    
+- name: "THE BANK OF EAST ASIA,LIMITED MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: BEASMOMX
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "MACAU"
+  branch: null
+  swift: HSBCMOMX
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "MACAU"
+  branch: null
+  swift: HSBCMOMXAAM
+    
+- name: "THE MACAU CHINESE BANK LIMITED"
+  city: "MACAU"
+  branch: null
+  swift: MCHNMOMX
+    
+- name: "WING LUNG BANK LIMITED MACAU BRANCH"
+  city: "MACAU"
+  branch: null
+  swift: WUBAMOMX
+    

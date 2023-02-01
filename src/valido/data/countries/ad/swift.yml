@@ -1,0 +1,45 @@
+- name: "ANDORRA BANC AGRICOL REIG S.A."
+  city: "LES ESCALDES"
+  branch: null
+  swift: BACAADAD
+    
+- name: "ANDORRA GESTIO AGRICOL REIG SAU"
+  city: "ESCALDES-ENGORDANY"
+  branch: null
+  swift: AAMAADAD
+    
+- name: "BANC SABADELL D'ANDORRA S.A."
+  city: "ANDORRA LA VELLA"
+  branch: null
+  swift: BSANADAD
+    
+- name: "BANCA PRIVADA D'ANDORRA S.A."
+  city: "LES ESCALDES"
+  branch: null
+  swift: CASBADAD
+    
+- name: "CREDIT ANDORRA,S.A."
+  city: "ANDORRA LA VELLA"
+  branch: null
+  swift: CRDAADAD
+    
+- name: "MORA BANC GRUP SA"
+  city: "ANDORRA LA VELLA"
+  branch: null
+  swift: BINAADAD
+    
+- name: "MORA BANC SAU"
+  city: "LES ESCALDES"
+  branch: null
+  swift: BINAADB1
+    
+- name: "RESULT INTERNACIONAL SA"
+  city: "ANDORRA LA VELLA"
+  branch: null
+  swift: RINSADA1
+    
+- name: "VALL BANC"
+  city: "ESCALDES-ENGORDANY"
+  branch: null
+  swift: VALBADAD
+    

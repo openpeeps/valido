@@ -1,0 +1,4400 @@
+- name: "ABERDEEN ASSET MANAGEMENT ASIA LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: ABFMSGS1
+    
+- name: "ABN AMRO BANK N.V. SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: COMMERCIAL AND MERCHANT BANKING
+  swift: ABNASG2ACMB
+    
+- name: "ABN AMRO BANK N.V. SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: INTERNATIONAL PRIVATE CLIENTS DEPARTMENT
+  swift: ABNASG2AIPC
+    
+- name: "ABN AMRO BANK N.V. SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: ABNASG2A
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "SINGAPORE"
+  branch: null
+  swift: ABNCSGSG
+    
+- name: "ABN AMRO CLEARING BANK N.V., SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: FGCISGS1
+    
+- name: "AGRICULTURAL BANK OF CHINA LIMITED, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: ABOCSGSG
+    
+- name: "AIA SINGAPORE PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: GENERAL INVESTMENT OPERATIONS
+  swift: AIACSGG1GIO
+    
+- name: "AIA SINGAPORE PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: AIACSGSG
+    
+- name: "AIA-WALDEN MANAGEMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: AWMPSGS1
+    
+- name: "AL WEALTH PARTNERS PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: WEPPSGS1
+    
+- name: "ALLFUNDS SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: ALLFSGSG
+    
+- name: "ALLIANCE SECURITIES (PTE)"
+  city: "SINGAPORE"
+  branch: null
+  swift: ALLSSGS1
+    
+- name: "AMERICAN EXPRESS INTERNATIONAL INC (SINGAPORE BRANCH)"
+  city: "SINGAPORE"
+  branch: null
+  swift: AEIGSGS1
+    
+- name: "AMFRASER SECURITIES PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: FRSESGS1
+    
+- name: "APS ASSET MANAGEMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: APSMSGS1
+    
+- name: "ARAB BANK PLC"
+  city: "SINGAPORE"
+  branch: null
+  swift: ARABSGSG
+    
+- name: "ARTRADIS FUND MANAGEMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: AFMPSGS1
+    
+- name: "ASC EQUITY PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: ASEPSGS1
+    
+- name: "ASIAN-AMERICAN MERCHANT BANK LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: AAMBSGS1
+    
+- name: "AT ASSET MANAGEMENT PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: ASGPSGS1
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: ANZBSGSX
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: ANZBSGSXAFX
+    
+- name: "AXA ROSENBERG INVESTMENT MANAGEMENT ASIA PACIFIC LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: RAAISGS1
+    
+- name: "AXIS BANK LIMITED"
+  city: "SINGAPORE"
+  branch: INTERNATIONAL PRIVATE BANKING
+  swift: AXISSGSGIPB
+    
+- name: "AXIS BANK LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: AXISSGSG
+    
+- name: "AXIS BANK LIMITED(FORMERLY UTI BANK)"
+  city: "SINGAPORE"
+  branch: null
+  swift: UTIBSGS1
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: BBVASGSG
+    
+- name: "BANCO SANTANDER, S.A. SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: BSCHSGSG
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BKKBSGSG
+    
+- name: "BANK J. SAFRA SARASIN LTD, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: SARASGSG
+    
+- name: "BANK JULIUS BAER AND CO. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BAERSGSG
+    
+- name: "BANK MANDIRI (PERSERO)TBK. PT"
+  city: "SINGAPORE"
+  branch: null
+  swift: BMRISGSG
+    
+- name: "BANK NEGARA INDONESIA (PERSERO) P.T."
+  city: "SINGAPORE"
+  branch: null
+  swift: BNINSGSG
+    
+- name: "BANK OF AMERICA (SINGAPORE) LTD."
+  city: "SINGAPORE"
+  branch: EMERGING MARKETS GROUP
+  swift: BOFASG3XEMG
+    
+- name: "BANK OF AMERICA (SINGAPORE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BOFASG3X
+    
+- name: "BANK OF AMERICA (SINGAPORE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BOFASG3XJVC
+    
+- name: "BANK OF AMERICA (SINGAPORE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BOFASG3XTRY
+    
+- name: "BANK OF AMERICA, N.A. SINGAPORE"
+  city: "SINGAPORE"
+  branch: ASIA CURRENCY UNIT
+  swift: BOFASG2XACU
+    
+- name: "BANK OF AMERICA, N.A. SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: BOFASG2X
+    
+- name: "BANK OF AMERICA, N.A. SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: BOFASG2XGRC
+    
+- name: "BANK OF AMERICA, N.A. SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: BOFASG2XTSY
+    
+- name: "BANK OF BARODA"
+  city: "SINGAPORE"
+  branch: null
+  swift: BARBSGSG
+    
+- name: "BANK OF CHINA LIMITED"
+  city: "SINGAPORE"
+  branch: BANK OF CHINA LIMITED,SINGAPORE BRANCH
+  swift: BKCHSGSGPBG
+    
+- name: "BANK OF CHINA LIMITED"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH (CUSTODY OPERATION)
+  swift: BKCHSGSGCUS
+    
+- name: "BANK OF CHINA LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BKCHSGSG
+    
+- name: "BANK OF COMMUNICATIONS, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: COMMSGSG
+    
+- name: "BANK OF INDIA"
+  city: "SINGAPORE"
+  branch: null
+  swift: BKIDSGSG
+    
+- name: "BANK OF MONTREAL, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: BANK OF MONTREAL SINGAPORE BRANCH - GLOBAL TRADE AND BANKING
+  swift: BOFMSGSGGTB
+    
+- name: "BANK OF MONTREAL, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: BANK OF MONTREAL SINGAPORE BRANCH - PRIVATE BANKING
+  swift: BOFMSGSGPWM
+    
+- name: "BANK OF MONTREAL, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: BANK OF MONTREAL SINGAPORE BRANCH -FX MM
+  swift: BOFMSGSGFXM
+    
+- name: "BANK OF MONTREAL, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: BOFMSGSG
+    
+- name: "BANK OF SINGAPORE LIMITED (FORMERLY ING ASIA PRIVATE BANK LIMITED)"
+  city: "SINGAPORE"
+  branch: null
+  swift: INGPSGSG
+    
+- name: "BANK OF TAIWAN"
+  city: "SINGAPORE"
+  branch: null
+  swift: BKTWSGSG
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: BOTKSGSX
+    
+- name: "BANK OF WESTERN AUSTRALIA LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BKWASGS1
+    
+- name: "BANK PICTET AND CIE (ASIA) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: PICTSGSG
+    
+- name: "BANKING COMPUTER SERVICES PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SACHSGS1
+    
+- name: "BARCLAYS BANK PLC"
+  city: "SINGAPORE"
+  branch: null
+  swift: BARCSGSG
+    
+- name: "BARCLAYS BANK PLC"
+  city: "SINGAPORE"
+  branch: null
+  swift: BARCSGSW
+    
+- name: "BARCLAYS CAPITAL FUTURES (SINGAPORE) PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BZWSSGS1
+    
+- name: "BARING SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SEBRSGS1
+    
+- name: "BLOCSEC PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: BLPTSGS1
+    
+- name: "BNP PARIBAS - SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: BNPP SINGAPORE (WEALTH MANAGEMENT)
+  swift: BNPASGSGWMB
+    
+- name: "BNP PARIBAS - SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: COMMODITY FINANCE OPERATION CENTRE
+  swift: BNPASGSGGCG
+    
+- name: "BNP PARIBAS - SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: BNPASGSG
+    
+- name: "BNP PARIBAS - SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: BNPASGSGONG
+    
+- name: "BNP PARIBAS CAPITAL (SINGAPORE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BNPSSGS1
+    
+- name: "BNP PARIBAS SECURITIES (SINGAPORE) PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BPESSGS1
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S ESI
+  swift: PARBSGSGESI
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 151
+  swift: PARBSG21151
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 152
+  swift: PARBSG21152
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 153
+  swift: PARBSG21153
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 154
+  swift: PARBSG21154
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 155
+  swift: PARBSG21155
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 156
+  swift: PARBSG21156
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 157
+  swift: PARBSG21157
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 158
+  swift: PARBSG21158
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 159
+  swift: PARBSG21159
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 160
+  swift: PARBSG21160
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 161
+  swift: PARBSG21161
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 162
+  swift: PARBSG21162
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 163
+  swift: PARBSG21163
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 164
+  swift: PARBSG21164
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 165
+  swift: PARBSG21165
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 166
+  swift: PARBSG21166
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 167
+  swift: PARBSG21167
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 168
+  swift: PARBSG21168
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 169
+  swift: PARBSG21169
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 170
+  swift: PARBSG21170
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 171
+  swift: PARBSG21171
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 172
+  swift: PARBSG21172
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 173
+  swift: PARBSG21173
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 174
+  swift: PARBSG21174
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 175
+  swift: PARBSG21175
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 176
+  swift: PARBSG21176
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 177
+  swift: PARBSG21177
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 178
+  swift: PARBSG21178
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 179
+  swift: PARBSG21179
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 180
+  swift: PARBSG21180
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 181
+  swift: PARBSG21181
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 182
+  swift: PARBSG21182
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 183
+  swift: PARBSG21183
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 184
+  swift: PARBSG21184
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 185
+  swift: PARBSG21185
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 186
+  swift: PARBSG21186
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 187
+  swift: PARBSG21187
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 188
+  swift: PARBSG21188
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 189
+  swift: PARBSG21189
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 190
+  swift: PARBSG21190
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 191
+  swift: PARBSG21191
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 192
+  swift: PARBSG21192
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 193
+  swift: PARBSG21193
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 194
+  swift: PARBSG21194
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 195
+  swift: PARBSG21195
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 196
+  swift: PARBSG21196
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 197
+  swift: PARBSG21197
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 198
+  swift: PARBSG21198
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 199
+  swift: PARBSG21199
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 200
+  swift: PARBSG21200
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 201
+  swift: PARBSG21201
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 202
+  swift: PARBSG21202
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 203
+  swift: PARBSG21203
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 204
+  swift: PARBSG21204
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 205
+  swift: PARBSG21205
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 206
+  swift: PARBSG21206
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 207
+  swift: PARBSG21207
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 208
+  swift: PARBSG21208
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 209
+  swift: PARBSG21209
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 210
+  swift: PARBSG21210
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 211
+  swift: PARBSG21211
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 212
+  swift: PARBSG21212
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 213
+  swift: PARBSG21213
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 214
+  swift: PARBSG21214
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 215
+  swift: PARBSG21215
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 216
+  swift: PARBSG21216
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 217
+  swift: PARBSG21217
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 218
+  swift: PARBSG21218
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 219
+  swift: PARBSG21219
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 220
+  swift: PARBSG21220
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 221
+  swift: PARBSG21221
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 222
+  swift: PARBSG21222
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 223
+  swift: PARBSG21223
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 224
+  swift: PARBSG21224
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 225
+  swift: PARBSG21225
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 226
+  swift: PARBSG21226
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 227
+  swift: PARBSG21227
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 228
+  swift: PARBSG21228
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 229
+  swift: PARBSG21229
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 230
+  swift: PARBSG21230
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 231
+  swift: PARBSG21231
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 232
+  swift: PARBSG21232
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 233
+  swift: PARBSG21233
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 234
+  swift: PARBSG21234
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 235
+  swift: PARBSG21235
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 236
+  swift: PARBSG21236
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 237
+  swift: PARBSG21237
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 238
+  swift: PARBSG21238
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 239
+  swift: PARBSG21239
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 240
+  swift: PARBSG21240
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 241
+  swift: PARBSG21241
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 242
+  swift: PARBSG21242
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 243
+  swift: PARBSG21243
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 244
+  swift: PARBSG21244
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 245
+  swift: PARBSG21245
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 246
+  swift: PARBSG21246
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 247
+  swift: PARBSG21247
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 248
+  swift: PARBSG21248
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 249
+  swift: PARBSG21249
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: BP2S SINGAPORE 250
+  swift: PARBSG21250
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: GLOBAL CUSTODY
+  swift: PARBSGSGISI
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: KAWAN - BP2S SINGAPORE
+  swift: PARBSGSGMOO
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21000
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21001
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21002
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21003
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21004
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21005
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21006
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21007
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21008
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21009
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21010
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21011
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21012
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21013
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21014
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21015
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21016
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21017
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21018
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21019
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21020
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21021
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21022
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21023
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21024
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21025
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21026
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21027
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21028
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21029
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21030
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21031
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21032
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21033
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21034
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21035
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21036
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21037
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21038
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21039
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21040
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21048
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21049
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21050
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21051
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21052
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21053
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21054
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21055
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21056
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21057
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21058
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21059
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21060
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21061
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21062
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21063
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21064
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21065
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21066
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21067
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21068
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21069
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21070
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21071
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21072
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21073
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21074
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21075
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21076
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21077
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21078
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21079
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21080
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21081
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21082
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21083
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21084
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21085
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21086
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21087
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21088
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21089
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21090
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21091
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21092
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21093
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21094
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21095
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21096
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21097
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21098
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21099
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21100
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21101
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21102
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21103
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21104
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21105
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21106
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21107
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21108
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21109
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21110
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21111
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21112
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21113
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21114
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21115
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21116
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21117
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21118
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21119
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21120
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21121
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21122
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21123
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21124
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21125
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21126
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21127
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21128
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21129
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21130
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21131
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21132
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21133
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21134
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21135
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21136
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21137
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21138
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21139
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21140
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21141
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21142
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21143
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21144
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21145
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21146
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21147
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21148
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21149
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: SINGAPORE
+  swift: PARBSG21150
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: BPTSSGSG
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSG21
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSG21041
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSG21042
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSG21043
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSG21044
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSG21045
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSG21046
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSG21047
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSG21BLK
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSG21SCH
+    
+- name: "BNP PARIBAS SECURITIES SERVICES SA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PARBSGSG
+    
+- name: "BNP PARIBAS TRUST SERVICES SINGAPORE LIMITED  (TRUST AND TA ONLY)"
+  city: "SINGAPORE"
+  branch: null
+  swift: BNPTSGSG
+    
+- name: "BNP PRIME PEREGRINE"
+  city: "SINGAPORE"
+  branch: null
+  swift: BNPGSGS1
+    
+- name: "BORDIER AND CIE (SINGAPORE) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: BORDSGSX
+    
+- name: "BP SINGAPORE PTE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BPSISGSG
+    
+- name: "BPI INTERNATIONAL FINANCE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BPIISGS1
+    
+- name: "BRIDGE CAPITAL"
+  city: "SINGAPORE"
+  branch: null
+  swift: BRPTSGS1
+    
+- name: "BRITISH AMERICAN TOBACCO (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: BATSSG21
+    
+- name: "BRITISH AMERICAN TOBACCO MARKETING (SINGAPORE)PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: BATSSGS1
+    
+- name: "BRONTE INVESTMENT MANAGEMENT (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: BIMNSGS1
+    
+- name: "BT BROKERAGE AND ASSOCIATES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BTBASGS1
+    
+- name: "BT FUTURES (SINGAPORE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BTFSSGS1
+    
+- name: "BTIG SINGAPORE PTE. LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BTSPSGS1
+    
+- name: "BTM FUTURES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BOTFSGS1
+    
+- name: "BULLION VENTURA INVESTMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: INFORMATION AND TECHNOLOGY
+  swift: BVIPSGS1ITM
+    
+- name: "BULLION VENTURA INVESTMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: BVIPSGS1
+    
+- name: "BW MARITIME PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: BWMASGSG
+    
+- name: "CA INDOSUEZ (SWITZERLAND) SA, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: AGRISG2X
+    
+- name: "CANADIAN IMPERIAL BANK OF COMMERCE"
+  city: "SINGAPORE"
+  branch: null
+  swift: CIBCSGSG
+    
+- name: "CANTOR FITZGERALD (SINGAPORE) CAPITAL MARKETS LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CFSPSGS1
+    
+- name: "CANTOR FITZGERALD (SINGAPORE) CAPITAL MARKETS LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CFSPSGSX
+    
+- name: "CAPITAL HOUSE INVESTMENT MANAGEMENT (SINGAPORE) PTE"
+  city: "SINGAPORE"
+  branch: null
+  swift: CHNGSGS1
+    
+- name: "CARGILL FINANCIAL SERVICES ASIA PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CFSASGS1
+    
+- name: "CARGILL TSF ASIA PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: CTSFSGSG
+    
+- name: "CASHCARDONE PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: CHPESGS1
+    
+- name: "CATHAY UNITED BANK SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: UWCBSGSG
+    
+- name: "CAZENOVE AND CO. (SINGAPORE) PTE. LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CAZESGS1
+    
+- name: "CEF (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CESLSGS1
+    
+- name: "CENTRAL PACIFIC FINANCE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: CEPFSGS1
+    
+- name: "CHANG HWA COMMERCIAL BANK LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: CCBCSGSG
+    
+- name: "CHARTERED ASSET MANAGEMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CATPSGS1
+    
+- name: "CHASE INVESTMENT BANK (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CIBSSGS1
+    
+- name: "CHINA CITIC BANK INTERNATIONAL LIMITED SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: KWHKSGSG
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: PCBCSGSG
+    
+- name: "CHINA MERCHANTS BANK SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: PRIVATE BANKING CENTER
+  swift: CMBCSGSGPBD
+    
+- name: "CHINA MERCHANTS BANK SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: CMBCSGSG
+    
+- name: "CIMB BANK BERHAD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CIBBSGSG
+    
+- name: "CIMB SECURITIES (SINGAPORE) PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: GKGTSGS1
+    
+- name: "CIMB-GK RESEARCH PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: JGRPSGS1
+    
+- name: "CITIBANK SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CITISG21
+    
+- name: "CITIBANK SINGAPORE LTD"
+  city: "SINGAPORE"
+  branch: GLOBAL CONSUMER BANKING UNIT
+  swift: CITISGSGGCB
+    
+- name: "CITIBANK,N.A."
+  city: "SINGAPORE"
+  branch: CC1
+  swift: CITISGSGCC1
+    
+- name: "CITIBANK,N.A."
+  city: "SINGAPORE"
+  branch: CDP - FOR PRE-AUTHORISED CDP LIMITED USE ONLY
+  swift: CITISGSGCDP
+    
+- name: "CITIBANK,N.A."
+  city: "SINGAPORE"
+  branch: EMFX CONFIRMATIONS
+  swift: CITISGSGEFX
+    
+- name: "CITIBANK,N.A."
+  city: "SINGAPORE"
+  branch: NRI TSU
+  swift: CITISGSGNRI
+    
+- name: "CITIBANK,N.A."
+  city: "SINGAPORE"
+  branch: PRIVATE BANKING GROUP
+  swift: CITISGSGPBG
+    
+- name: "CITIBANK,N.A."
+  city: "SINGAPORE"
+  branch: RECON TRADE
+  swift: CITISGSGDFA
+    
+- name: "CITIBANK,N.A."
+  city: "SINGAPORE"
+  branch: SINGAPORE (HUB)
+  swift: CITISGSGHUB
+    
+- name: "CITIBANK,N.A."
+  city: "SINGAPORE"
+  branch: null
+  swift: CITISGSG
+    
+- name: "CITICORP INTERNATIONAL SINGAPORE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: CISISGS1
+    
+- name: "CITIGROUP GLOBAL MARKETS SINGAPORE PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SBSPSGS1
+    
+- name: "CITIGROUP GLOBAL MARKETS SINGAPORE SECURITIES PTE.LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SSBGSGS1
+    
+- name: "CLARIDEN ASSET MANAGEMENT (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CAMSSGS1
+    
+- name: "CLARIDEN LEU LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CLARSGS1
+    
+- name: "CLSA ASIA PRODUCTS PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CSPPSGS1
+    
+- name: "CLSA SINGAPORE PTE LTD."
+  city: "SINGAPORE"
+  branch: CLSA GLOBAL MARKETS PTE LTD
+  swift: CLSSSGSGCHV
+    
+- name: "CLSA SINGAPORE PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: CLSSSGSG
+    
+- name: "CMC MARKETS SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CMCKSGSG
+    
+- name: "COMMERCIAL UNION ASSET MANAGEMENT (SINGAPORE) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CUAASGS1
+    
+- name: "COMMERZBANK AG, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: COBASGSX
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA"
+  city: "SINGAPORE"
+  branch: null
+  swift: CTBASGSG
+    
+- name: "CONDUIT SECURITIES PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: MCAPSGSG
+    
+- name: "CREDIT AGRICOLE CIB"
+  city: "SINGAPORE"
+  branch: COMMODITY
+  swift: CRLYSGSGCOM
+    
+- name: "CREDIT AGRICOLE CIB"
+  city: "SINGAPORE"
+  branch: OPTIM.NET - MT940
+  swift: CRLYSGSG940
+    
+- name: "CREDIT AGRICOLE CIB"
+  city: "SINGAPORE"
+  branch: null
+  swift: CRLYSGSG
+    
+- name: "CREDIT AGRICOLE CIB MERCHANT BANK ASIA LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: IASISGS1
+    
+- name: "CREDIT INDUSTRIEL ET COMMERCIAL - SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: CMCISGSG
+    
+- name: "CREDIT LYONNAIS INTERNATIONAL ASSET MANAGEMENT (S) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CLIASGS1
+    
+- name: "CREDIT LYONNAIS ROUSE (PTE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: ROUSSGS1
+    
+- name: "CREDIT SUISSE (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CSFBSGSX
+    
+- name: "CREDIT SUISSE (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CSFBSGSXVIS
+    
+- name: "CREDIT SUISSE AG, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: CRESSGSG
+    
+- name: "CREDIT SUISSE AG, SINGAPORE PRIVATE BANKING"
+  city: "SINGAPORE"
+  branch: null
+  swift: CSPBSGSG
+    
+- name: "CREDIT SUISSE FIRST BOSTON (SINGAPORE) FUTURES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: FBSFSGS1
+    
+- name: "CREDIT SUISSE FIRST BOSTON PACIFIC LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CSFBSGP1
+    
+- name: "CREDIT SUISSE SECURITIES (SINGAPORE) PTE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CSFBSGSE
+    
+- name: "CREDIT SUISSE SECURITIES (SINGAPORE) PTE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CSFBSGSEVIS
+    
+- name: "CREDIT SUISSE SECURITIES (SINGAPORE) PTE. LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BZWPSGS1
+    
+- name: "CTBC BANK CO., LTD., SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: CTCBSGSG
+    
+- name: "CYS EXPRESS EXCHANGE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CYSSSGS1
+    
+- name: "DAIMLER SOUTH EAST ASIA PTE.LTD."
+  city: "SINGAPORE"
+  branch: INDUSTRIAL ACCOUNTS
+  swift: DCAGSGSGIBA
+    
+- name: "DAIMLER SOUTH EAST ASIA PTE.LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DCAGSGSG
+    
+- name: "DAIMLER SOUTH EAST ASIA PTE.LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DCAGSGSGTWN
+    
+- name: "DAIWA ASSET MANAGEMENT (SINGAPORE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DAMLSGS1
+    
+- name: "DAIWA CAPITAL MARKETS FUTURES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: DAWASGS1
+    
+- name: "DAIWA CAPITAL MARKETS INVESTMENT SERVICES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: DAWSSGS1
+    
+- name: "DAIWA CAPITAL MARKETS SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: DASMSGSG
+    
+- name: "DAIWA INSTITUTE OF RESEARCH (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: DIRSSGS1
+    
+- name: "DAIWA SB INVESTMENTS (SINGAPORE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DICMSGS1
+    
+- name: "DBS BANK LTD."
+  city: "SINGAPORE"
+  branch: DERIVATIVES OPERATION DEPARTMENT
+  swift: DBSSSGSGDOD
+    
+- name: "DBS BANK LTD."
+  city: "SINGAPORE"
+  branch: INVESTMENT BANKING DEPARTMENT
+  swift: DBSSSGSGIBD
+    
+- name: "DBS BANK LTD."
+  city: "SINGAPORE"
+  branch: LA REP OFFICE
+  swift: DBSSSGSGLAO
+    
+- name: "DBS BANK LTD."
+  city: "SINGAPORE"
+  branch: PCG - PRIVATE BANKING DEPARTMENT
+  swift: DBSSSGSGPCG
+    
+- name: "DBS BANK LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DBSSSGSG
+    
+- name: "DBS CAPITAL INVESTMENTS LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: DBCISGS1
+    
+- name: "DBS GROUP HOLDINGS"
+  city: "SINGAPORE"
+  branch: null
+  swift: DBGHSGSG
+    
+- name: "DBS TRADING (PTE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DBSTSGS1
+    
+- name: "DBS VICKERS SECURITIES (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: DBSESGSG
+    
+- name: "DBSN SERVICES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DBSNSGS1
+    
+- name: "DEUTSCHE ASIA AND PARTNERS SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: MGAPSGS1
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SINGAPORE"
+  branch: CASH ADMIN
+  swift: DEUTSGSREBP
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SINGAPORE"
+  branch: REGIONAL HEAD OFFICE
+  swift: DEUTSGSR
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: DEUTSGSGCUS
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: DEUTSGSGGMO
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SINGAPORE"
+  branch: null
+  swift: DEUTSGSG
+    
+- name: "DEUTSCHE BANK AG"
+  city: "SINGAPORE"
+  branch: null
+  swift: DEUTSGSGDIA
+    
+- name: "DEUTSCHE BANK AG (PRIVATE BANKING)"
+  city: "SINGAPORE"
+  branch: null
+  swift: DEUTSGSP
+    
+- name: "DKSH MANAGEMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: DKSHSGSG
+    
+- name: "DNB ASIA LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DNBASGSGMER
+    
+- name: "DNB BANK ASA, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: DNBASGSG
+    
+- name: "DOW FINANCIAL SERVICES INC. SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: DFSISGS1
+    
+- name: "DUET"
+  city: "SINGAPORE"
+  branch: null
+  swift: DUETSGS1
+    
+- name: "DVB BANK SE"
+  city: "SINGAPORE"
+  branch: null
+  swift: DVKBSG31
+    
+- name: "DVB GROUP MERCHANT BANK (ASIA) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: DVKBSGSG
+    
+- name: "DYMON ASIA CAPITAL"
+  city: "SINGAPORE"
+  branch: null
+  swift: DMACSGS1
+    
+- name: "DYNAMIC OIL TRADING (SINGAPORE) PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DOTISGS1
+    
+- name: "DYSTAR SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: DSPTSGSG
+    
+- name: "DZ BANK AG, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: GENOSGSG
+    
+- name: "E.SUN COMMERCIAL BANK, LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: ESUNSGSG
+    
+- name: "EASTERN TRUST AND WEALTH PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: ETWESGS1
+    
+- name: "EASTSPRING INVESTMENTS SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: ESINSGSG
+    
+- name: "ECICS INVESTMENTS PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: ECIPSGS1
+    
+- name: "EFFISSIMO CAPITAL MANAGEMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: ECMPSGS1
+    
+- name: "EFG BANK AG SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: EFGBSGSG
+    
+- name: "ELLIOTT AND CARMEN GROUP LLP"
+  city: "SINGAPORE"
+  branch: null
+  swift: ECGLSGS1
+    
+- name: "ELLIOTT AND CARMEN INTERNATIONAL LLP"
+  city: "SINGAPORE"
+  branch: null
+  swift: ECQLSGS1
+    
+- name: "EMIRATES NBD BANK PJSC (ENBD)"
+  city: "SINGAPORE"
+  branch: null
+  swift: EBILSGSG
+    
+- name: "FIL INVESTMENT MANAGEMENT (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: FIISSGS1
+    
+- name: "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI)"
+  city: "SINGAPORE"
+  branch: null
+  swift: FGBMSGSG
+    
+- name: "FIRST COMMERCIAL BANK, LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: FCBKSGSG
+    
+- name: "FITCH RATINGS SINGAPORE PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: FRIPSGS1
+    
+- name: "FLEX LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: FLEISGSG
+    
+- name: "FPB ASIA LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: FPASSGS1
+    
+- name: "FRASER AND NEAVE, LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: FANLSGSG
+    
+- name: "FRASERS CENTREPOINT LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: FCPLSGSG
+    
+- name: "FULLERTON (PRIVATE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: THPLSGSG
+    
+- name: "FULLERTON FUND MANAGEMENT COMPANY LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: FFMCSGSG
+    
+- name: "GALENA ASSET MANAGEMENT (ASIA) PTE . LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: GANSSGS1
+    
+- name: "GIC PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: TBC
+  swift: GSICSGSGBAC
+    
+- name: "GIC PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: TBC
+  swift: GSICSGSGCAC
+    
+- name: "GIC PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: TBC
+  swift: GSICSGSGHAC
+    
+- name: "GIC PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: GSICSGSG
+    
+- name: "GN HEARING PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: HEPESGSG
+    
+- name: "GOLDMAN SACHS (SINGAPORE) PTE"
+  city: "SINGAPORE"
+  branch: null
+  swift: GSSGSGSG
+    
+- name: "GOLDMAN SACHS ASSET MANAGEMENT INTL SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: GSAMSGS1
+    
+- name: "GOLDMAN SACHS FUTURES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: GSFSSGS1
+    
+- name: "GOOGLE ASIA PACIFIC PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: GOOGSGS1
+    
+- name: "GORDIAN CAPITAL SINGAPORE PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: GCSPSGS1
+    
+- name: "GOWIN IBANQ PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: GOIPSGS1
+    
+- name: "GRABTAXI HOLDINGS PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: GHPESGSG
+    
+- name: "GRAND ORIENT SECURITIES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: GOSESGS1
+    
+- name: "GUOCOLAND RETAIL MANAGEMENT PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: FCFMSGS1
+    
+- name: "HABIB BANK LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: HABBSGSG
+    
+- name: "HANG SENG BANK LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: HASESGSG
+    
+- name: "HARLOW, UEDA, SASSOON (SINGAPORE) PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: HUSISGS1
+    
+- name: "HAVENPORT ASSET MANAGEMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: HVPASGS1
+    
+- name: "HAVENPORT ASSET MANAGEMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: LMAMSGS1
+    
+- name: "HELVETIC INVESTMENTS PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: HIPLSGSG
+    
+- name: "HEWLETT-PACKARD SINGAPORE (PRIVATE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: HESISGS1
+    
+- name: "HEWLETT-PACKARD SINGAPORE (SALES) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: HSSPSGS1
+    
+- name: "HITACHI INTERNATIONAL TREASURY LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: HITLSGSG
+    
+- name: "HITACHI INTERNATIONAL TREASURY LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: HITLSGSGHKB
+    
+- name: "HL BANK, SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: HLBBSGSG
+    
+- name: "HSBC BANK (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: HSBCSGS2
+    
+- name: "HSBC FUTURES (SINGAPORE) PTE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: HSBCSGS1
+    
+- name: "HSBC GLOBAL ASSET MANAGEMENT (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: HSMSSGS1
+    
+- name: "HSBC INSTITUTIONAL TRUST SERVICES (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: GLOBAL CUSTODY ASIA
+  swift: BBDASGSXGCA
+    
+- name: "HSBC INSTITUTIONAL TRUST SERVICES (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BBDASGSX
+    
+- name: "HSBC SECURITIES (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: HJCSSGSG
+    
+- name: "HSH NORDBANK AG"
+  city: "SINGAPORE"
+  branch: null
+  swift: HSHNSGSG
+    
+- name: "HUA NAN COMMERCIAL BANK, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: HNBKSGSG
+    
+- name: "ICAP AP (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: APPLSGS1
+    
+- name: "ICBC STANDARD BANK PLC, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: SBSASGSG
+    
+- name: "ICE CLEAR SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: ICIPSGSG
+    
+- name: "ICICI BANK LIMITED"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: ICICSGSGCTS
+    
+- name: "ICICI BANK LIMITED"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: ICICSGSGIPB
+    
+- name: "ICICI BANK LIMITED"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: ICICSGSGMOG
+    
+- name: "ICICI BANK LIMITED"
+  city: "SINGAPORE"
+  branch: SMXCC
+  swift: ICICSGSGSMS
+    
+- name: "ICICI BANK LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: ICICSGSG
+    
+- name: "ICICI BANK LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: ICICSGSGCOP
+    
+- name: "ICICI BANK LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: ICICSGSGRET
+    
+- name: "IIFL SECURITIES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: IIFLSGS1
+    
+- name: "INDIAN BANK"
+  city: "SINGAPORE"
+  branch: null
+  swift: IDIBSGSG
+    
+- name: "INDIAN OVERSEAS BANK"
+  city: "SINGAPORE"
+  branch: null
+  swift: IOBASGSG
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA"
+  city: "SINGAPORE"
+  branch: RMB CLEARING BANK
+  swift: ICBKSGSGCLR
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA"
+  city: "SINGAPORE"
+  branch: null
+  swift: ICBKSGSG
+    
+- name: "ING ASSET MANAGEMENT (SINGAPORE) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: INAASGS1
+    
+- name: "ING BANK N.V."
+  city: "SINGAPORE"
+  branch: null
+  swift: INGBSGSG
+    
+- name: "ING BARINGS SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: INBNSGS1
+    
+- name: "ING FUTURES AND OPTIONS (SINGAPORE) PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: INGFSGS1
+    
+- name: "INSTINCT ASSET MANAGEMENT"
+  city: "SINGAPORE"
+  branch: null
+  swift: ISATSGS1
+    
+- name: "INSTINET SINGAPORE SERVICES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: ISSPSGS1
+    
+- name: "INTERNATIONAL EXCHANGE CO (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: HIEESGSG
+    
+- name: "INTERNATIONAL SOS PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: ISOSSGSG
+    
+- name: "INTESA SANPAOLO S.P.A. (FORMER SANPAOLO IMI), SINGAPORE BRANCH, SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: BCITSGSG
+    
+- name: "INVESCO ASSET MANAGEMENT SINGAPORE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: GTMGSGS1
+    
+- name: "INVESTMENT COMPANY OF THE PEOPLE'S REPUBLIC OF CHINA (SINGAPORE) PTE LTD., SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: PBOCSGSG
+    
+- name: "IPP FINANCIAL ADVISERS PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: IPPPSGS1
+    
+- name: "ITOCHU CAPITAL AND INVESTMENT (ASIA) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: ICISSGS1
+    
+- name: "IVALDI CAPITAL PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: IVCPSGS1
+    
+- name: "IVENIO HOLDINGS PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: IVHPSGS1
+    
+- name: "J.P. MORGAN (S.E.A.) LIMITED"
+  city: "SINGAPORE"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CMSESGSGKEY
+    
+- name: "J.P. MORGAN (S.E.A.) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CMSESGSG
+    
+- name: "J.P. MORGAN SECURITES SINGAPORE PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: JPSESGS1
+    
+- name: "J.P. MORGAN SECURITIES ASIA PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: JPMSSGS1
+    
+- name: "JARDINE FLEMING SINGAPORE SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: JFSSSGS1
+    
+- name: "JL CAPITAL PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CPPESGS1
+    
+- name: "JOHNSON 1888 PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: JPTESGS1
+    
+- name: "JP MORGAN CHASE BANK NA, SINGAPORE PRIVATE BANK"
+  city: "SINGAPORE"
+  branch: null
+  swift: CHASSGSP
+    
+- name: "JP MORGAN FUTURES INC."
+  city: "SINGAPORE"
+  branch: null
+  swift: MFCSSGS1
+    
+- name: "JPMORGAN CHASE BANK, N.A."
+  city: "SINGAPORE"
+  branch: FX TRADER SUPPORT, SINGAPORE
+  swift: CHASSGSGTRO
+    
+- name: "JPMORGAN CHASE BANK, N.A."
+  city: "SINGAPORE"
+  branch: PRIVATE BANKING DEPARTMENT
+  swift: CHASSGSGPBI
+    
+- name: "JPMORGAN CHASE BANK, N.A."
+  city: "SINGAPORE"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASSGSGKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A."
+  city: "SINGAPORE"
+  branch: null
+  swift: CHASSGSG
+    
+- name: "KANKAKU (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: NKMSSGS1
+    
+- name: "KBC BANK SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: KREDSGSX
+    
+- name: "KEB HANA BANK SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: KOEXSGSG
+    
+- name: "KEPPEL BULLION AND FUTURES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: KEPPSGS1
+    
+- name: "KEPPEL CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: KEPCSGSG
+    
+- name: "KEPPEL SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: KEPSSGS1
+    
+- name: "KEYSIGHT TECHNOLOGIES SINGAPORE (HOLDINGS) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: KSIGSGSG
+    
+- name: "KHATTAR CAPITAL INTERNATIONAL PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SAPTSGS1
+    
+- name: "KIM ENG FUTURES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: KMEFSGS1
+    
+- name: "KIM ENG SECURITIES PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: KMESSGS1
+    
+- name: "KIMCO JAPAN LONG SHORT"
+  city: "SINGAPORE"
+  branch: null
+  swift: KJLSSGS1
+    
+- name: "KIMCO MAC"
+  city: "SINGAPORE"
+  branch: null
+  swift: KIMCSGS1
+    
+- name: "KLEINWORT BENSON RESEARCH (ASIA) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: KBRASGS1
+    
+- name: "KRUNG THAI BANK PLC, SINGAPORE BRAN CH"
+  city: "SINGAPORE"
+  branch: null
+  swift: KRTHSGSG
+    
+- name: "KULICKE AND SOFFA PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: KUSPSGSG
+    
+- name: "LABRADOR REAL ESTATE PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: LREPSGS1
+    
+- name: "LAND BANK OF TAIWAN, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: LBOTSGSG
+    
+- name: "LANDESBANK BADEN-WUERTTEMBERG"
+  city: "SINGAPORE"
+  branch: null
+  swift: SOLASGSG
+    
+- name: "LEE AND CO (STOCK AND SHARE BROKERS) PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: LEECSGS1
+    
+- name: "LEHMAN BROTHERS CAPITAL ASIA PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: LBCASGS1
+    
+- name: "LEHMAN BROTHERS PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: LEBPSGS1
+    
+- name: "LEHMAN BROTHERS PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: LSINSGS1
+    
+- name: "LEHMAN BROTHERS SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: LBPSSGS1
+    
+- name: "LG DISPLAY SINGAPORE PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: LGDTSGS1
+    
+- name: "LGT BANK (SINGAPORE) LTD."
+  city: "SINGAPORE"
+  branch: EX CUSTODY
+  swift: BLFLSGSGEXC
+    
+- name: "LGT BANK (SINGAPORE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BLFLSGSG
+    
+- name: "LIANHE INVESTMENTS PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: LHIVSGL1
+    
+- name: "LIM AND TAN SECURITIES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: LIMTSGS1
+    
+- name: "LION GLOBAL INVESTORS LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: OAMLSGSG
+    
+- name: "LLOYDS BANK PLC, SINGAPORE"
+  city: "SINGAPORE"
+  branch: MONEY MARKETS
+  swift: LOYDSGSAMKT
+    
+- name: "LLOYDS BANK PLC, SINGAPORE"
+  city: "SINGAPORE"
+  branch: TRADE SERVICES
+  swift: LOYDSGSATRD
+    
+- name: "LLOYDS BANK PLC, SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: LLCMSGSAMKT
+    
+- name: "LLOYDS BANK PLC, SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: LLCMSGSATRD
+    
+- name: "LLOYDS BANK PLC, SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: LOYDSGSA
+    
+- name: "LLOYDS BANK PLC, SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: LOYDSGSG
+    
+- name: "LLOYDS MERCHANT BANK ASIA LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: HSAMSGS1
+    
+- name: "LOMBARD ODIER (SINGAPORE) LTD"
+  city: "SINGAPORE"
+  branch: NDP DEPT
+  swift: LOCYSGSGNDP
+    
+- name: "LOMBARD ODIER (SINGAPORE) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: LOCYSGSG
+    
+- name: "LSI TECHNOLOGIES SINGAPORE PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: LTSPSGS1
+    
+- name: "LTCB MERCHANT BANK (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: LMBSSGS1
+    
+- name: "LUM CHANG SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: LUMCSGS1
+    
+- name: "MACQUARIE BANK LIMITED, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: MACQSGSG
+    
+- name: "MACQUARIE CAPITAL SECURITIES (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: BSSLSGS1
+    
+- name: "MALAYAN BANKING BERHAD"
+  city: "SINGAPORE"
+  branch: REGIONAL WEALTH MANAGEMENT
+  swift: MBBESGSGRWM
+    
+- name: "MALAYAN BANKING BERHAD"
+  city: "SINGAPORE"
+  branch: null
+  swift: MBBESGSG
+    
+- name: "MANULIFE (SINGAPORE) PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: MFCTSGSG
+    
+- name: "MANULIFE ASSET MANAGEMENT (SINGAPORE) PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: MSMNSGS1
+    
+- name: "MARKETAXESS SINGAPORE PTE. LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: MRSPSGS1
+    
+- name: "MARTIN-BIERBAUM (SINGAPORE) PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BIEMSGS1
+    
+- name: "MAYBANK KIM ENG SECURITIES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: MKEESGS1
+    
+- name: "MAYWOOD ASSET MANAGEMENT PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: MSMPSGS1
+    
+- name: "MAYWOOD ASSET MANAGEMENT PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: MSMPSGSG
+    
+- name: "MBL MERCHANT BANK (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: MMBSSGS1
+    
+- name: "M-DAQ CASHPORT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: MDCPSGSG
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: ICBCSGSG
+    
+- name: "MERCEDES-BENZ FINANCIAL SERVICES SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: DFISSGSG
+    
+- name: "MERRILL LYNCH (SINGAPORE) PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: MLSSSGSG
+    
+- name: "MERRILL LYNCH (SINGAPORE) PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: MLSSSGSGIND
+    
+- name: "MERRILL LYNCH MARKETS SINGAPORE PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: MLMSSGSG
+    
+- name: "MERRILL LYNCH SINGAPORE COMMODITIES PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: MLFSSGS1
+    
+- name: "MF GLOBAL SINGAPORE PTE. LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: MFGLSGS1
+    
+- name: "MF GLOBAL SINGAPORE PTE. LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SCFTSGS1
+    
+- name: "MGEC GROUP PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: MGGPSGS1
+    
+- name: "MILLENNIUM SECURITIES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: MISTSGS1
+    
+- name: "MINEX CORPORATION SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: MINXSGS1
+    
+- name: "MITSUBISHI UFJ SECURITIES (SINGAPORE), LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BOISSGS1
+    
+- name: "MITSUBISHI UFJ TRUST AND BANKING CORPORATION"
+  city: "SINGAPORE"
+  branch: null
+  swift: MTBCSGSG
+    
+- name: "MIZUHO BANK, LTD. SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: MHCBSGSG
+    
+- name: "MIZUHO FUTURES (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: FUJISGS1
+    
+- name: "MONETARY AUTHORITY OF SINGAPORE (THE)"
+  city: "SINGAPORE"
+  branch: null
+  swift: MASGSGSM
+    
+- name: "MONETARY AUTHORITY OF SINGAPORE, THE"
+  city: "SINGAPORE"
+  branch: null
+  swift: MASGSGSG
+    
+- name: "MOODY'S SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: MOITSGS1
+    
+- name: "MORGAN STANLEY ASIA INTERNATIONAL LIMITED"
+  city: "SINGAPORE"
+  branch: MORGAN STANLEY AG, SINGAPORE BRANCH - FX TREASURY
+  swift: MSSASGSGCTR
+    
+- name: "MORGAN STANLEY ASIA INTERNATIONAL LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: MSSASGSG
+    
+- name: "MORGAN STANLEY INVESTMENT MANAGEMENT COMPANY"
+  city: "SINGAPORE"
+  branch: null
+  swift: MSAMSGSX
+    
+- name: "N.M. ROTHSCHILD AND SONS (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: ROTHSGS1
+    
+- name: "NATIONAL AUSTRALIA BANK"
+  city: "SINGAPORE"
+  branch: null
+  swift: NATASGSG
+    
+- name: "NATIONAL BANK OF KUWAIT S.A.K.P"
+  city: "SINGAPORE"
+  branch: null
+  swift: NBOKSGSG
+    
+- name: "NATIXIS"
+  city: "SINGAPORE"
+  branch: null
+  swift: NATXSGSG
+    
+- name: "NATWEST FUTURES (ASIA) PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: NATWSGS1
+    
+- name: "NEW JAPAN MECHANT BANK (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: NJMBSGS1
+    
+- name: "NEW JAPAN SECURITIES"
+  city: "SINGAPORE"
+  branch: null
+  swift: NJSCSGS1
+    
+- name: "NIBC BANK LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DNIBSGS1
+    
+- name: "NIKE GLOBAL TRADING B.V. SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: NIKESG21
+    
+- name: "NIKE GLOBAL TRADING PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: NGTPSGS1
+    
+- name: "NIKE SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: NIKESGS1
+    
+- name: "NIKKO ASSET MANAGEMENT SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: NCMSSGS1
+    
+- name: "NIKKO FUTURES (SINGAPORE) PTE LTD., THE"
+  city: "SINGAPORE"
+  branch: null
+  swift: NIKOSGS1
+    
+- name: "NIKKO SECURITIES (SINGAPORE) PTE LTD.,THE"
+  city: "SINGAPORE"
+  branch: null
+  swift: NIKKSGS1
+    
+- name: "NIPPON CREDIT BANK LTD., THE"
+  city: "SINGAPORE"
+  branch: null
+  swift: NCBTSGS1
+    
+- name: "NITTAN MARSHALLS (SINGAPORE) PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: MSPLSGS1
+    
+- name: "NOBLE RESOURCES PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: NOEPSGS1
+    
+- name: "NOMURA ASSET MANAGEMENT SINGAPORE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: NOCMSGSG
+    
+- name: "NOMURA FUTURES (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: NOMRSGS1
+    
+- name: "NOMURA INVESTMENTS (SINGAPORE) PTE"
+  city: "SINGAPORE"
+  branch: null
+  swift: NOISSGSG
+    
+- name: "NOMURA RESEARCH INSTITUTE (SINGAPORE) PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: NRISSGS1
+    
+- name: "NOMURA SECURITIES SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: NOMSSGS1
+    
+- name: "NOMURA SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SNOMSGL1
+    
+- name: "NOMURA SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SNOMSGSG
+    
+- name: "NORDDEUTSCHE LANDESBANK GIROZENTRALE"
+  city: "SINGAPORE"
+  branch: null
+  swift: NOLASGSG
+    
+- name: "NORDEA BANK AB SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: NDEASGSG
+    
+- name: "NORDEA BANK SA SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: NDPBSGSG
+    
+- name: "NORINCHUKIN BANK, THE"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: NOCUSGSG
+    
+- name: "NORTHERN TRUST COMPANY"
+  city: "SINGAPORE"
+  branch: null
+  swift: CNORSGSG
+    
+- name: "NTUC INCOME INSURANCE CO-OPERATIVE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: NIICSGS1
+    
+- name: "NTUC INCOME INSURANCE CO-OPERATIVE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: NIICSGSA
+    
+- name: "O.W. BUNKER FAR EAST (SINGAPORE) PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: BFESSGS1
+    
+- name: "OCBC BULLION AND FUTURES LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: OCBCSGS1
+    
+- name: "OCBC INVESTMENT RESEARCH PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: OIRPSGS1
+    
+- name: "OCBC NOMINEE PTE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: OCNPSGS1
+    
+- name: "OCBC SECURITIES PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: OCSESGS1
+    
+- name: "OCBC SECURITIES PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: OCSPSGSG
+    
+- name: "ONG AND COMPANY PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: ONGCSGS1
+    
+- name: "ONG AND COMPANY PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: ONCOSGS1
+    
+- name: "ONG FIRST TRADITION PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: OFCFSGS1
+    
+- name: "ONG RESEARCH PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: ONRPSGS1
+    
+- name: "OUB BULLION AND FUTURES LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: OUBFSGS1
+    
+- name: "OUB SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: OUSPSGS1
+    
+- name: "OVERSEA-CHINESE BANKING CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: GLOBAL COMMODITY FINANCE
+  swift: OCBCSGSGGCF
+    
+- name: "OVERSEA-CHINESE BANKING CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: OCBCSGSG
+    
+- name: "OVERSEA-CHINESE BANKING CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: OCBCSGSGBRN
+    
+- name: "OWW CAPITAL PARTNERS PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: OWWMSGS1
+    
+- name: "PAA CAPITAL PTE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: PAPPSGS1
+    
+- name: "PAMA (SINGAPORE) PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: PSPLSGS1
+    
+- name: "PANASONIC ASIA PACIFIC PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: PANASGS1
+    
+- name: "PARIBAS PRIVATE BANKING ASIA LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: PPBASGS1
+    
+- name: "PARKWAY MUNDA CAPITAL CORPORATION"
+  city: "SINGAPORE"
+  branch: null
+  swift: PMCCSGS1
+    
+- name: "PAYPRO SVF PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: PAVPSGS1
+    
+- name: "PEGASUS ASIA FUND"
+  city: "SINGAPORE"
+  branch: null
+  swift: PEAFSGS1
+    
+- name: "PEGASUS TAIWAN"
+  city: "SINGAPORE"
+  branch: null
+  swift: PETASGS1
+    
+- name: "PEREGRINE SECURITIES SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: PSSPSGS1
+    
+- name: "PETREDEC INTERNATIONAL PTE LTD FINANCIAL DEPARTMENT"
+  city: "SINGAPORE"
+  branch: null
+  swift: PINPSGSG
+    
+- name: "PHEIM ASSET MANAGEMENT (ASIA) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: PAMASGS1
+    
+- name: "PHILIPPINE NATIONAL BANK-SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: PNBMSGSG
+    
+- name: "PHILLIP FUTURES PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: PHFUSGS1
+    
+- name: "PHILLIP SECURITIES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: PHSESGS1
+    
+- name: "PHILLIP SECURITIES RESEARCH PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: PSRPSGS1
+    
+- name: "POWERGAS LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: POEGSGS1
+    
+- name: "PROA PARTNERS PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: PPPLSGSG
+    
+- name: "PRUDENTIAL ASSET MANAGEMENT SINGAPORE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: PAMGSGS1
+    
+- name: "PRUDENTIAL PORTFOLIO MANAGERS SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: PPMLSGS1
+    
+- name: "PRUDENTIAL-BACHE FUTURES ASIA PACIFIC LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: PBFASGS1
+    
+- name: "PT. BANK RAKYAT INDONESIA (PERSERO) TBK., SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: BRINSGSG
+    
+- name: "PURE COMMERCE (S) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: PURESGS1
+    
+- name: "QATAR NATIONAL BANK QNB"
+  city: "SINGAPORE"
+  branch: null
+  swift: QNBASGSG
+    
+- name: "RABOBANK SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: RABOSGSG
+    
+- name: "RAFFLES NOMINEES (PTE.) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SCBLSG21
+    
+- name: "RAIFFEISEN BANK INTERNATIONAL AG SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: RZBASGS1
+    
+- name: "RBC INVESTOR SERVICES TRUST SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: DTSSSGSG
+    
+- name: "REFCO (SINGAPORE) PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: REFCSGS1
+    
+- name: "RELIANCE ASSET MANAGEMENT (SG) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: RAAPSGS1
+    
+- name: "REPUBLIC NATIONAL BANK OF NEW YORK (SINGAPORE)LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BLICSGS1
+    
+- name: "RESONA MERCHANT BANK ASIA LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: AFCMSGSG
+    
+- name: "REUTERS TRANSACTION SERVICES LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: RTSLSGS1
+    
+- name: "RHB BANK BERHAD"
+  city: "SINGAPORE"
+  branch: MAIN BRANCH
+  swift: RHBBSGSG
+    
+- name: "RHB SECURITIES SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: DASPSGS1
+    
+- name: "RHB-CATHAY SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: RHBCSGS1
+    
+- name: "RICHARD CHANDLER SINGAPORE PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: OGSLSGS1
+    
+- name: "ROTHSCHILD ASSET MANAGEMENT (S) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: ROAMSGS1
+    
+- name: "ROTHSCHILD BULLION AND FINANCIAL FUTURES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: RBFFSGS1
+    
+- name: "ROTHSCHILD VENTURES ASIA PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: RVAPSGS1
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "SINGAPORE"
+  branch: WEALTH MANAGEMENT
+  swift: ROYCSGSGGSS
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "SINGAPORE"
+  branch: null
+  swift: ROYCSGSG
+    
+- name: "ROYAL BANK OF SCOTLAND PLC"
+  city: "SINGAPORE"
+  branch: SINGAPORE ASIA MERCHANT DEPT
+  swift: RBOSSGSGEQT
+    
+- name: "ROYAL BANK OF SCOTLAND PLC"
+  city: "SINGAPORE"
+  branch: null
+  swift: RBOSSGSG
+    
+- name: "ROYAL BANK OF SCOTLAND PLC"
+  city: "SINGAPORE"
+  branch: null
+  swift: RBOSSGSGNWB
+    
+- name: "ROYAL BANK OF SCOTLAND PLC"
+  city: "SINGAPORE"
+  branch: null
+  swift: RBOSSGSGRSI
+    
+- name: "S.W.I.F.T"
+  city: "SINGAPORE"
+  branch: null
+  swift: SWHQSGSG
+    
+- name: "SAL INDUSTRIAL LEASING LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: INLLSGS1
+    
+- name: "SAMSUNG ASIA PTE LTD."
+  city: "SINGAPORE"
+  branch: SAPL
+  swift: SECTSGS1540
+    
+- name: "SAMSUNG ASIA PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SECTSGS1
+    
+- name: "SAMSUNG ASSET MANAGEMENT(SINGAPORE) PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SASGSGS1
+    
+- name: "SAMSUNG C AND T SINGAPORE PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SCNTSGS1
+    
+- name: "SAMSUNG SECURITIES (SINGAPORE) PTE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SSIPSGS1
+    
+- name: "SANTANDER INVESTMENT SERVICES"
+  city: "SINGAPORE"
+  branch: null
+  swift: SAIVSGS1
+    
+- name: "SANWA FUTURES (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SFSTSGS1
+    
+- name: "SANYO MERCHANT BANK LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SAMKSGS1
+    
+- name: "SASSOON FINANCIAL FUTURES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SASSSGS1
+    
+- name: "SBCI AND ASSOCIATES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: ASSSSGS1
+    
+- name: "SCHRODER AND CO (ASIA) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SALISGSG
+    
+- name: "SCHRODER INVESTMENT MANAGEMENT (SINGAPORE) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SIMNSGSG
+    
+- name: "SCHRODER SECURITIES (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SSSPSGS1
+    
+- name: "SEED VENTURES MANAGEMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SVMPSGS1
+    
+- name: "SEMBAWANG CAPITAL PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SECESGS1
+    
+- name: "SEPL-PULAU BUKOM"
+  city: "SINGAPORE"
+  branch: null
+  swift: SEBUSGS1
+    
+- name: "SG ASSET MANAGEMENT (SINGAPORE) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SGAMSGS1
+    
+- name: "SG SECURITIES (SINGAPORE) CUSTODIAL SERVICES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SGSCSGS1
+    
+- name: "SG SECURITIES (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SGSESGSG
+    
+- name: "SHANGHAI PUDONG DEVELOPMENT BANK CO.,LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SPDBSGSG
+    
+- name: "SHELL EASTERN PETROLEUM PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SEPPSGS1
+    
+- name: "SHINHAN BANK, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: SHBKSGSG
+    
+- name: "SIAM COMMERCIAL BANK PCL, THE"
+  city: "SINGAPORE"
+  branch: null
+  swift: SICOSGSG
+    
+- name: "SILVER METIS"
+  city: "SINGAPORE"
+  branch: null
+  swift: SIEESGS1
+    
+- name: "SINGAPORE COMMODITY EXCHANGE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: XSCESGS1
+    
+- name: "SINGAPORE DISTRICT COOLING PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SPDCSGS1
+    
+- name: "SINGAPORE EXCHANGE DERIVATIVES CLEARING LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: XSIMSGSG
+    
+- name: "SINGAPORE EXCHANGE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: XSESSGS1
+    
+- name: "SINGAPORE EXCHANGE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: XSESSGS2
+    
+- name: "SINGAPORE INSTITUTE OF POWER AND GAS PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SIPGSGS1
+    
+- name: "SINGAPORE POWER INTERNATIONAL PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SPLPSGS1
+    
+- name: "SINGAPORE POWER LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SGPLSGSG
+    
+- name: "SIVANTOS PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: BSTHSGSG
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL)"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: ESSESGSG
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL)"
+  city: "SINGAPORE"
+  branch: null
+  swift: ESSESGSGCLS
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN S.A."
+  city: "SINGAPORE"
+  branch: null
+  swift: ESSESGSP
+    
+- name: "SMBC NIKKO SECURITIES (SINGAPORE) PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: NKSCSGSG
+    
+- name: "SMITH NEW COURT (SINGAPORE) PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SNCOSGS1
+    
+- name: "SMITH NEW COURT SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SNCPSGS1
+    
+- name: "SMRT CAPITAL PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SMRCSGSG
+    
+- name: "SOCIETE GENERALE"
+  city: "SINGAPORE"
+  branch: null
+  swift: SOGESGSG
+    
+- name: "SOCIETE GENERALE BANK AND TRUST, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: SGBTSGS1
+    
+- name: "SP CAPITAL LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CTLISGS1
+    
+- name: "SP DIGITAL PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: DIPTSGS1
+    
+- name: "SP ERESOURCES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: ERPTSGS1
+    
+- name: "SP GLOBAL SOLUTION PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: GSPTSGS1
+    
+- name: "SP INNOVATION PTE.LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: INPDSGS1
+    
+- name: "SP ONE PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: ONPTSGS1
+    
+- name: "SP POWERASSETS LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: POWASGS1
+    
+- name: "SP POWERASSETS LIMITED (AS TRUSTEE MANAGER OF SP CROSS ISLAND TUNNEL TRUST)"
+  city: "SINGAPORE"
+  branch: null
+  swift: TLTTSGS1
+    
+- name: "SP POWERGRID LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: POWGSGS1
+    
+- name: "SP SERVICES LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SRVCSGS1
+    
+- name: "SP TELECOMMUNICATIONS PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: TELPSGS1
+    
+- name: "SP TRAINING AND CONSULTANCY COMPANY PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: TCOCSGS1
+    
+- name: "SPCOMM PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SMPTSGS1
+    
+- name: "SPCONNECT PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SCNESGS1
+    
+- name: "SPI ENERGY INVESTMENTS PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SNIESGS1
+    
+- name: "SPL PROPERTY PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SPYTSGS1
+    
+- name: "SPT NET PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: STNPSGS1
+    
+- name: "ST CAPITAL LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CAPASGS1
+    
+- name: "STANDARD CHARTERED (2000) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SCMASGS1
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SINGAPORE"
+  branch: COMMON DEPOSITORY
+  swift: SCBLSGSGCDP
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SINGAPORE"
+  branch: FM ASSET SERVICING
+  swift: SCBLSGSGZOP
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SINGAPORE"
+  branch: LOANS DEPARTMENT
+  swift: SCBLSGS1ZLA
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SINGAPORE"
+  branch: LRM
+  swift: SCBLSGSGFTL
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SINGAPORE"
+  branch: SECURITIES SERVICES - GLOBAL PROCESSING ENTITY
+  swift: SCBLSGSGGPE
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SINGAPORE"
+  branch: SINGAPORE PRIVATE BANK
+  swift: SCBLSGSGZPB
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SINGAPORE"
+  branch: null
+  swift: SCBLSGSG
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SINGAPORE"
+  branch: null
+  swift: SCBLSGSGEQI
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "SINGAPORE"
+  branch: null
+  swift: SCBLSGSGFIN
+    
+- name: "STANDARD CHARTERED BANK (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SCBLSG22
+    
+- name: "STATE BANK OF INDIA"
+  city: "SINGAPORE"
+  branch: null
+  swift: SBINSGSG
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: INVESTMENT OPERATIONS DIVISION
+  swift: SBOSSGSXAGE
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: INVESTMENT SERVICES DIVISION
+  swift: SBOSSGSXAGC
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: INVESTMENT SERVICES DIVISION
+  swift: SBOSSGSXAGD
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: TRANSFER AGENCY SINGAPORE
+  swift: SBOSSGSXTAD
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: SBOSSGSX
+    
+- name: "STATE STREET GLOBAL ADVISORS SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: SSGASG21
+    
+- name: "SUEZ APAC MANAGEMENT (S) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SAMPSGS1
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "SINGAPORE"
+  branch: null
+  swift: SMBCSGSG
+    
+- name: "SUMITOMO MITSUI TRUST BANK, LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: STBCSGSG
+    
+- name: "SUMMIT SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SUSESGS1
+    
+- name: "SUN HUNG KAI BULLION AND FUTURES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SUHKSGS1
+    
+- name: "SUN HUNG KAI SECURITIES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SHKESGS1
+    
+- name: "SVENSKA HANDELSBANKEN, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: HANDSGSG
+    
+- name: "SWISS ASIA FINANCIAL SERVICES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SSIVSG21
+    
+- name: "SWISS REINSURANCE COMPANY, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: SWRESGS1
+    
+- name: "SYMPHONY"
+  city: "SINGAPORE"
+  branch: null
+  swift: SYMHSGS1
+    
+- name: "TAIPEI FUBON COMMERCIAL BANK CO.,LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: TPBKSGSG
+    
+- name: "TAISHIN INTERNATIONAL BANK CO.,LTD. SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: TSIBSGSG
+    
+- name: "TAT LEE SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: TATESGS1
+    
+- name: "TEMASEK HOLDINGS (PRIVATE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: TEHOSGS1
+    
+- name: "TEMPLETON ASSET MANAGEMENT LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: TIMISGSG
+    
+- name: "TEMPLETON ASSET MANAGEMENT LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: TIMISGSGBEM
+    
+- name: "THE BANK OF EAST ASIA LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: BEASSGSG
+    
+- name: "THE BANK OF NEW YORK MELLON, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: IRVTSGSX
+    
+- name: "THE BANK OF NOVA SCOTIA, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: NOSCSGSG
+    
+- name: "THE BANK OF NOVA SCOTIA, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: NOSCSGSGGFI
+    
+- name: "THE BANK OF NOVA SCOTIA, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: NOSCSGSGIMM
+    
+- name: "THE CENTRAL DEPOSITORY (PTE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: CDPLSGSG
+    
+- name: "THE CENTRAL DEPOSITORY (PTE) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CDPLSGSH
+    
+- name: "THE HOKKOKU BANK,LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: HKOKSGSG
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: CLS DIVISION
+  swift: HSBCSGSGCLS
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: CUSTODY AND CLEARING
+  swift: HSBCSGSGCNC
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: GLOBAL WEALTH SOLUTION
+  swift: HSBCSGSGGWS
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: PRIVATE BANKING DIVISION
+  swift: HSBCSGSGPBD
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: SD WEALTH
+  swift: HSBCSGSGWBS
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: TREASURY SETTLEMENT OPERATIONS
+  swift: HSBCSGSGFEX
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: HSBCSGSG
+    
+- name: "THE ISLAMIC BANK OF ASIA LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: TIBASGSG
+    
+- name: "THE IYO BANK, LTD. SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: IYOBSGSG
+    
+- name: "THE KOREA DEVELOPMENT BANK,SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: KODBSGSG
+    
+- name: "THE ROYAL BANK OF SCOTLAND ASIA SECURITIES (SINGAPORE) PTE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: AASLSG21
+    
+- name: "THE ROYAL BANK OF SCOTLAND PLC SINGAPORE (FORMERLY KNOWN AS RBS NV)"
+  city: "SINGAPORE"
+  branch: ACCESS ONLINE ASIA
+  swift: ABNASGSGAOA
+    
+- name: "THE ROYAL BANK OF SCOTLAND PLC SINGAPORE (FORMERLY KNOWN AS RBS NV)"
+  city: "SINGAPORE"
+  branch: null
+  swift: ABNASGSG
+    
+- name: "THE SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: SCSBSGSG
+    
+- name: "TLB BULLION AND FUTURES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: TLBFSGS1
+    
+- name: "TOKIO MARINE ASSET MANAGEMENT INTERNATIONAL PTE. LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: TMAJSGS1
+    
+- name: "TORONTO DOMINION (SOUTH EAST ASIA) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: TDOMSG2S
+    
+- name: "TORONTO DOMINION BANK"
+  city: "SINGAPORE"
+  branch: null
+  swift: TDOMSGSG
+    
+- name: "TRADITION SINGAPORE (PTE) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: OTSPSGS1
+    
+- name: "TRANSPAC CAPITAL PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: TRCPSGS1
+    
+- name: "TRANSTECH VENTURE MANAGEMENT PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: TVMPSGS1
+    
+- name: "TSANG AND ONG STOCKBROKERS (PTE) LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: TSANSGS1
+    
+- name: "TSANG AND ONG STOCKBROKERS PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: TORPSGS1
+    
+- name: "TULLETT LIBERTY PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: TTDPSGS1
+    
+- name: "TULLETT PREBON (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: PRYLSGS1
+    
+- name: "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES"
+  city: "SINGAPORE"
+  branch: null
+  swift: UBAFSGSX
+    
+- name: "UBS AG SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: CLS BUSINNESS ONLY
+  swift: UBSWSGSGCLS
+    
+- name: "UBS AG SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: SINGAPORE BRANCH
+  swift: UBSWSGSG
+    
+- name: "UBS AG SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: SWIFT FOR CORPORATE
+  swift: UBSWSGSGCIC
+    
+- name: "UBS ASSET MANAGEMENT (SINGAPORE) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: UBSASGSG
+    
+- name: "UBS FUTURES SINGAPORE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: ABNASGF1
+    
+- name: "UBS SECURITIES PTE. LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: WSSPSGS1
+    
+- name: "UBS WARBURG AND ASSOCIATES (SINGAPORE) NOMINEES PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: SASPSGS1
+    
+- name: "UCO BANK"
+  city: "SINGAPORE"
+  branch: null
+  swift: UCBASGSG
+    
+- name: "UNICREDIT BANK AG SINGAPORE BRANCH (HYPOVEREINSBANK AG SINGAPORE BRANCH)"
+  city: "SINGAPORE"
+  branch: null
+  swift: BVBESGSG
+    
+- name: "UNION BANCAIRE PRIVEE UBP SA SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: UBPGSGSX
+    
+- name: "UNITED OVERSEAS BANK LIMITED"
+  city: "SINGAPORE"
+  branch: BANKNOTES DEPARTMENT
+  swift: UOVBSGSGBNS
+    
+- name: "UNITED OVERSEAS BANK LIMITED"
+  city: "SINGAPORE"
+  branch: BULLION, BROKERAGE AND CLEARING
+  swift: UOVBSGSGBBC
+    
+- name: "UNITED OVERSEAS BANK LIMITED"
+  city: "SINGAPORE"
+  branch: CUSTODY SERVICES DIVISION
+  swift: UOVBSGSGCSD
+    
+- name: "UNITED OVERSEAS BANK LIMITED"
+  city: "SINGAPORE"
+  branch: TRANSACTION BANKING
+  swift: UOVBSGSGCMS
+    
+- name: "UNITED OVERSEAS BANK LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: UOVBSGSG
+    
+- name: "UOB ASIA LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: UMBISGS1
+    
+- name: "UOB BULLION AND FUTURES LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: UOBFSGS1
+    
+- name: "UOB KAY HIAN PTE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: KHPLSGSG
+    
+- name: "UOB SECURITIES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: UOBSSGS1
+    
+- name: "UOB VENTURE MANAGEMENT PRIVATE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: UVMPSGS1
+    
+- name: "VERIZON ASIA PACIFIC HOLDINGS PTE."
+  city: "SINGAPORE"
+  branch: null
+  swift: VZAPSGSG
+    
+- name: "VERTEX MANAGEMENT PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: VEMPSGS1
+    
+- name: "VICKERS BALLAS INVESTMENTS RESEARCH PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: VIBRSGS1
+    
+- name: "VITOL ASIA PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: VTOASGSG
+    
+- name: "VOLVO TREASURY ASIA LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: VTALSGS1
+    
+- name: "VP BANK (SINGAPORE) LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: VPBVSGS1
+    
+- name: "VTB CAPITAL PLC, SINGAPORE BRANCH"
+  city: "SINGAPORE"
+  branch: null
+  swift: MNBLSGSG
+    
+- name: "WAKO MERCHANT BANK (SINGAPORE) LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: WMBSSGS1
+    
+- name: "WARDLEY BROKING SERVICES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: WBSSSGS1
+    
+- name: "WELLS FARGO BANK MINNESOTA NA"
+  city: "SINGAPORE"
+  branch: null
+  swift: NWNBSGS1
+    
+- name: "WELLS FARGO BANK, NA"
+  city: "SINGAPORE"
+  branch: null
+  swift: PNBPSGSG
+    
+- name: "WEST MERCHANT BANK LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: WMBLSGS1
+    
+- name: "WESTERN UNION BUSINESS SOLUTIONS (SINGAPORE) PTE LTD"
+  city: "SINGAPORE"
+  branch: null
+  swift: CHFXSGSG
+    
+- name: "WESTPAC BANKING CORPORATION"
+  city: "SINGAPORE"
+  branch: null
+  swift: WPACSGSG
+    
+- name: "WESTPAC BANKING CORPORATION"
+  city: "SINGAPORE"
+  branch: null
+  swift: WPACSGSGTRD
+    
+- name: "WESTPAC BANKING CORPORATION"
+  city: "SINGAPORE"
+  branch: null
+  swift: WPACSGSGTSY
+    
+- name: "WESTPAC SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: WPACSGSL
+    
+- name: "WESTPAC SINGAPORE LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: WPACSGSLTSY
+    
+- name: "WILMAR INTERNATIONAL LIMITED"
+  city: "SINGAPORE"
+  branch: null
+  swift: WILMSGSG
+    
+- name: "WOORI BANK, SINGAPORE"
+  city: "SINGAPORE"
+  branch: null
+  swift: HVBKSGSG
+    
+- name: "YAMAICHI FUTURES PTE LTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: YAMASGS1
+    
+- name: "YAMAICHI SECURITIES (SINGAPORE) PTELTD."
+  city: "SINGAPORE"
+  branch: null
+  swift: YASESGS1
+    

@@ -1,0 +1,65 @@
+- name: "ARTON BANK CORPORATION"
+  city: "ROSEAU"
+  branch: null
+  swift: ARTNDMDM
+    
+- name: "BANDENIA BANK AND TRUST INC"
+  city: "ROSEAU"
+  branch: null
+  swift: BNTSDMD1
+    
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "ROSEAU"
+  branch: null
+  swift: NOSCDMDM
+    
+- name: "BARNETT CAPITAL BANK"
+  city: "ROSEAU"
+  branch: null
+  swift: BCBKDMDM
+    
+- name: "COMMONWEALTH BANK AND TRUST LIMITED"
+  city: "ROSEAU"
+  branch: null
+  swift: CMWBDMDM
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED"
+  city: "ROSEAU"
+  branch: null
+  swift: FCIBDMDM
+    
+- name: "FORT BANK INC."
+  city: "ROSEAU"
+  branch: null
+  swift: FRTTDMDM
+    
+- name: "GOVERNMENT OF DOMINICA"
+  city: "ROSEAU"
+  branch: null
+  swift: GVDMDMDM
+    
+- name: "NATIONAL BANK OF DOMINICA"
+  city: "ROSEAU"
+  branch: null
+  swift: NCDMDMDM
+    
+- name: "PAXUM BANK LIMITED"
+  city: "ROSEAU"
+  branch: null
+  swift: PAXUDMDM
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "ROSEAU"
+  branch: null
+  swift: ROYCDMDM
+    
+- name: "STANDARD COMMERCE BANK LTD."
+  city: "CANEFIELD"
+  branch: null
+  swift: STDMDMDM
+    
+- name: "ZUMA BANK CORPORATION"
+  city: "ROSEAU"
+  branch: null
+  swift: ZUMADMDM
+    

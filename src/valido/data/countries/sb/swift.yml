@@ -1,0 +1,30 @@
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "HONIARA"
+  branch: null
+  swift: ANZBSBSB
+    
+- name: "BANK OF SOUTH PACIFIC LIMITED"
+  city: "HONIARA"
+  branch: null
+  swift: BOSPSBSB
+    
+- name: "BRED BANK SOLOMON"
+  city: "HONIARA"
+  branch: null
+  swift: BREDSBSB
+    
+- name: "CENTRAL BANK OF SOLOMON ISLANDS"
+  city: "HONIARA"
+  branch: null
+  swift: CBSISBSB
+    
+- name: "PAN OCEANIC BANK LIMITED"
+  city: "HONIARA"
+  branch: null
+  swift: POBBSBSB
+    
+- name: "SOLOMON ISLANDS TOBACCO COMPANY LIMITED"
+  city: "HONIARA"
+  branch: null
+  swift: BATSSBA1
+    

@@ -1,0 +1,95 @@
+- name: "BANK OF AFRICA NIGER"
+  city: "NIAMEY"
+  branch: null
+  swift: AFRINENI
+    
+- name: "BANQUE AGRICOLE DU NIGER"
+  city: "NIAMEY"
+  branch: null
+  swift: BANENENI
+    
+- name: "BANQUE ATLANTIQUE NIGER"
+  city: "NIAMEY"
+  branch: null
+  swift: ATNENENI
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "MARADI"
+  branch: MARADI BRANCH
+  swift: BCAONENIMAR
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "NIAMEY"
+  branch: null
+  swift: BCAONENI
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "ZINDER"
+  branch: ZINDER BRANCH
+  swift: BCAONENIZIN
+    
+- name: "BANQUE COMMERCIALE DU NIGER"
+  city: "NIAMEY"
+  branch: null
+  swift: BCDNNENI
+    
+- name: "BANQUE COMMERCIALE DU NIGER S.A."
+  city: "NIAMEY"
+  branch: null
+  swift: BALNNEN1
+    
+- name: "BANQUE INTERNATIONALE POUR L'AFRIQUE AU NIGER"
+  city: "NIAMEY"
+  branch: null
+  swift: BIANNENI
+    
+- name: "BANQUE INTERNATIONALE POUR LE COMMERCE ET INDUSTRIE DU NIGER"
+  city: "NIAMEY"
+  branch: null
+  swift: INNINEN1
+    
+- name: "BANQUE ISLAMIQUE DU NIGER POUR LE COMMERCE ET L'INVESTISSEMENT"
+  city: "NIAMEY"
+  branch: null
+  swift: BICVNENI
+    
+- name: "BANQUE REGIONALE DE MARCHES"
+  city: "NIAMEY"
+  branch: null
+  swift: BRMXNENI
+    
+- name: "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (NIGER) S.A."
+  city: "NIAMEY"
+  branch: null
+  swift: BSAHNENI
+    
+- name: "CBAO GROUPE ATTIJARIWAFA BANK"
+  city: "NIAMEY"
+  branch: null
+  swift: CBAONENI
+    
+- name: "CITIBANK NIGERIA LIMITED"
+  city: "NIAMEY"
+  branch: null
+  swift: NIBANEN1
+    
+- name: "DEPOSITAIRE CENTRAL-BANQUE DE REGLEMENT (DCBR NIGER)"
+  city: "NIAMEY"
+  branch: null
+  swift: DCRRNEN1
+    
+- name: "ECOBANK NIGER ECN"
+  city: "NIAMEY"
+  branch: null
+  swift: ECOCNENI
+    
+- name: "ORABANK NIGER"
+  city: "NIAMEY"
+  branch: null
+  swift: ORBKNENI
+    
+- name: "SOCIETE NIGERIENNE DE BANQUE"
+  city: "NIAMEY"
+  branch: null
+  swift: SOCNNENI
+    

@@ -1,0 +1,205 @@
+- name: "BANCO ANGOLANO DE INVESTIMENTOS, SA"
+  city: "LUANDA"
+  branch: null
+  swift: BAIPAOLU
+    
+- name: "BANCO ANGOLANO NEGOCIOS E COMERCIO"
+  city: "LUANDA"
+  branch: null
+  swift: ANCEAOLU
+    
+- name: "BANCO BIC, S.A."
+  city: "LUANDA"
+  branch: null
+  swift: BCCBAOLU
+    
+- name: "BANCO CAIXA GERAL DE ANGOLA"
+  city: "LUANDA"
+  branch: null
+  swift: BCGAAOLU
+    
+- name: "BANCO COMERCIAL ANGOLANO"
+  city: "LUANDA"
+  branch: null
+  swift: COMLAOLU
+    
+- name: "BANCO COMERCIAL DO HUAMBO"
+  city: "HUAMBO"
+  branch: null
+  swift: BCHUAOLU
+    
+- name: "BANCO DE DESENVOLVIMENTO DE ANGOLA"
+  city: "LUANDA"
+  branch: null
+  swift: BDAAAOLU
+    
+- name: "BANCO DE FOMENTO ANGOLA SA"
+  city: "LUANDA"
+  branch: null
+  swift: BFABAOL1
+    
+- name: "BANCO DE FOMENTO SARL ANGOLA"
+  city: "LUANDA"
+  branch: null
+  swift: BFMXAOLU
+    
+- name: "BANCO DE INVESTIMENTO RURAL, S.A."
+  city: "MALANJE"
+  branch: null
+  swift: BIRVAOLU
+    
+- name: "BANCO DE NEGOCIOS INTERNACIONAL"
+  city: "LUANDA"
+  branch: null
+  swift: BNICAOLU
+    
+- name: "BANCO DE NEGOCIOS INTERNACIONAL"
+  city: "LUANDA"
+  branch: null
+  swift: BNICAOLU052
+    
+- name: "BANCO DE POUPANCA E CREDITO SARL"
+  city: "LUANDA"
+  branch: null
+  swift: CGDIAOL1
+    
+- name: "BANCO ECONOMICO, S.A."
+  city: "LUANDA"
+  branch: null
+  swift: BESCAOLU
+    
+- name: "BANCO KWANZA INVEST SA"
+  city: "LUANDA"
+  branch: null
+  swift: BKIAAOLU
+    
+- name: "BANCO MILLENNIUM ATLANTICO, S.A."
+  city: "LUANDA"
+  branch: null
+  swift: PRTLAOLU
+    
+- name: "BANCO MILLENNIUM ATLANTICO, S.A. (FORMERLY BANCO MILLENNIUM ANGOLA SA)"
+  city: "LUANDA"
+  branch: null
+  swift: BCOMAOLU
+    
+- name: "BANCO NACIONAL DE ANGOLA"
+  city: "LUANDA"
+  branch: T2S WAVE 1
+  swift: BNANAOLU975
+    
+- name: "BANCO NACIONAL DE ANGOLA"
+  city: "LUANDA"
+  branch: null
+  swift: BNANAOLD
+    
+- name: "BANCO NACIONAL DE ANGOLA"
+  city: "LUANDA"
+  branch: null
+  swift: BNANAOLU
+    
+- name: "BANCO POSTAL, S.A."
+  city: "LUANDA"
+  branch: null
+  swift: POTAAOLU
+    
+- name: "BANCO PRESTIGIO, SA."
+  city: "LUANDA"
+  branch: null
+  swift: PRTSAOLU
+    
+- name: "BANCO PUNGO ANDONGO SA"
+  city: "LUANDA"
+  branch: null
+  swift: PUADAOLU
+    
+- name: "BANCO REGIONAL DO KEVE, SARL"
+  city: "LUANDA"
+  branch: null
+  swift: BRDKAOLU
+    
+- name: "BANCO SOL SARL"
+  city: "LUANDA"
+  branch: null
+  swift: SOLOAOLU
+    
+- name: "BANCO VALOR BANK"
+  city: "LUANDA"
+  branch: null
+  swift: BVBXAOLU
+    
+- name: "BANCO VTB AFRICA, S.A."
+  city: "LUANDA"
+  branch: null
+  swift: VTBLAOLU
+    
+- name: "BANCO YETU, S.A."
+  city: "LUANDA"
+  branch: null
+  swift: YETUAOLU
+    
+- name: "BANK OF CHINA LIMITED LUANDA BRANCH"
+  city: "LUANDA"
+  branch: null
+  swift: BKCHAOLU
+    
+- name: "BCI - BANCO DE COMERCIO E INDUSTRIA"
+  city: "LUANDA"
+  branch: null
+  swift: BCIDAOLU
+    
+- name: "BMF-BANCO BAI MICROFINANCAS, SARL"
+  city: "LUANDA"
+  branch: null
+  swift: NOSAAOLU
+    
+- name: "BOLSA DE DIVIDA E VALORES DE ANGOLA BODIVA SOCIEDADE GESTORA DE MERCADOS REGULAMENTADOS SA"
+  city: "LUANDA"
+  branch: null
+  swift: BDVAAOLU
+    
+- name: "BPC-BANCO DE POUPANCA E CREDITO"
+  city: "LUANDA"
+  branch: null
+  swift: BPCLAOLU
+    
+- name: "BRITISH AMERICAN TOBACCO ANGOLA LTD"
+  city: "LUANDA"
+  branch: null
+  swift: BATSAOL1
+    
+- name: "CREDISUL - BANCO DE CREDITO DO SUL SA"
+  city: "LUANDA"
+  branch: null
+  swift: CDTSAOLU
+    
+- name: "FINIBANCO ANGOLA S.A"
+  city: "LUANDA"
+  branch: null
+  swift: FBCOAOLU
+    
+- name: "MINISTERIO DAS FINANCAS"
+  city: "LUANDA"
+  branch: null
+  swift: MDFNAOLU
+    
+- name: "SOCIEDADA INDUSTRIAL TABACOS ANGOLA LDA"
+  city: "BENGUELA"
+  branch: null
+  swift: BATSAO41
+    
+- name: "SOCIEDADE UNIFICANDA TABACOS ANGOLA LDA"
+  city: "LUANDA"
+  branch: null
+  swift: BATSAO31
+    
+- name: "STANDARD BANK DE ANGOLA S.A."
+  city: "LUANDA"
+  branch: null
+  swift: SBICAOLU
+    
+- name: "STANDARD CHARTERED BANK ANGOLA SA"
+  city: "LUANDA"
+  branch: null
+  swift: SCBLAOLU
+    

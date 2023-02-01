@@ -1,0 +1,195 @@
+- name: "ACLEDA BANK (LAO) LTD"
+  city: "VIENTIANE"
+  branch: null
+  swift: ACLBLALA
+    
+- name: "AGRICULTURAL PROMOTION BANK"
+  city: "VIENTIANE"
+  branch: null
+  swift: AGPBLALA
+    
+- name: "ANZ BANK (LAO) LIMITED"
+  city: "VIENTIANE"
+  branch: null
+  swift: ANZBLALA
+    
+- name: "BANGKOK BANK PLC, VIENTIANE BRANCH"
+  city: "VIENTIANE"
+  branch: null
+  swift: BKKBLALA
+    
+- name: "BANK OF AYUDHYA PCL VIENTIANE BRANCH"
+  city: "VIENTIANE"
+  branch: null
+  swift: AYUDLALA
+    
+- name: "BANK OF CHINA LIMITED VIENTIANE BRANCH"
+  city: "VIENTIANE"
+  branch: null
+  swift: BKCHLALA
+    
+- name: "BANK OF THE LAO P.D.R."
+  city: "VIENTIANE"
+  branch: null
+  swift: LPDRLALA
+    
+- name: "BANQUE FRANCO-LAO LTD"
+  city: "VIENTIANE"
+  branch: null
+  swift: BFLLLALA
+    
+- name: "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC"
+  city: "KHAMMOUANE"
+  branch: KHAMMOUANE BRANCH
+  swift: COEBLALAKMN
+    
+- name: "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC"
+  city: "LUANGNAMTHA"
+  branch: LUANGNAMTHA BRANCH
+  swift: COEBLALALNT
+    
+- name: "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC"
+  city: "LUANGPRABANG"
+  branch: LUANGPRABANG BRANCH
+  swift: COEBLALALBP
+    
+- name: "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC"
+  city: "OUDOMXAY"
+  branch: OUDOMXAY BRANCH
+  swift: COEBLALAODX
+    
+- name: "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC"
+  city: "PAKSE"
+  branch: CHAMPASACK BRANCH
+  swift: COEBLALACPS
+    
+- name: "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC"
+  city: "SAVANNAKHET"
+  branch: SAVANNAKHET BRANCH
+  swift: COEBLALASVN
+    
+- name: "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC"
+  city: "VIENTIANE"
+  branch: null
+  swift: COEBLALA
+    
+- name: "CANADIA BANK LAO CO LTD."
+  city: "VIENTIANE"
+  branch: null
+  swift: CADILALA
+    
+- name: "FIRST COMMERCIAL BANK LTD, VIENTIANE BRANCH"
+  city: "VIENTIANE"
+  branch: null
+  swift: FCBKLALA
+    
+- name: "INDOCHINA BANK LTD"
+  city: "VIENTIANE"
+  branch: null
+  swift: IDCBLALA
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED VIENTIANE BRANCH"
+  city: "VIENTIANE"
+  branch: null
+  swift: ICBKLALA
+    
+- name: "INTERNATIONAL COMMERCIAL BANK (LAO) LTD"
+  city: "VIENTIANE"
+  branch: null
+  swift: LICBLALA
+    
+- name: "JOINT DEVELOPMENT BANK"
+  city: "VIENTIANE"
+  branch: null
+  swift: JDBKLALA
+    
+- name: "KASIKORNTHAI BANK LIMITED"
+  city: "VIENTIANE"
+  branch: null
+  swift: KASILALA
+    
+- name: "LAO CHINA BANK CO., LTD."
+  city: "VIENTIANE"
+  branch: null
+  swift: LCNBLALA
+    
+- name: "LAO CONSTRUCTION BANK"
+  city: "VIENTIANE"
+  branch: null
+  swift: LCBVLALA
+    
+- name: "LAO CONSTRUCTION BANK LIMITED"
+  city: "VIENTIANE"
+  branch: null
+  swift: LCONLAL1
+    
+- name: "LAO DEVELOPMENT BANK"
+  city: "VIENTIANE"
+  branch: null
+  swift: LDBBLALA
+    
+- name: "LAO SAMSUNG ELECTRONICS SOLE CO., LTD."
+  city: "VIENTIANE"
+  branch: null
+  swift: SECTLA21
+    
+- name: "LAO-VIET BANK"
+  city: "CHAMPASAK"
+  branch: CHAMPASAK BRANCH
+  swift: LAOVLALACPS
+    
+- name: "LAO-VIET BANK"
+  city: "VIENTIANE"
+  branch: null
+  swift: LAOVLALA
+    
+- name: "MAGNATE PREMIER PB LIMITED"
+  city: "VIENTIANE"
+  branch: null
+  swift: MGPRLAL1
+    
+- name: "MARUHAN JAPAN BANK LAO CO., LTD"
+  city: "VIENTIANE"
+  branch: null
+  swift: MJBLLALA
+    
+- name: "MAYBANK LAO"
+  city: "VIENTIANE"
+  branch: null
+  swift: MBBELALA
+    
+- name: "PHONGSAVANH BANK LTD"
+  city: "VIENTIANE"
+  branch: null
+  swift: PSVBLALA
+    
+- name: "PUBLIC BANK, VIENTIANE BRANCH, LAO P.D.R."
+  city: "VIENTIANE"
+  branch: null
+  swift: PBBELALA
+    
+- name: "RHB BANK LAO LIMITED"
+  city: "VIENTIANE"
+  branch: null
+  swift: RHBBLALA
+    
+- name: "SAIGON HANOI COMMERCIAL JOINT STOCK BANK LAOS BRANCH"
+  city: "CHAMPASAK"
+  branch: null
+  swift: SHBALALA
+    
+- name: "SIAM COMMERCIAL BANK PCL., THE"
+  city: "VIENTIANE"
+  branch: null
+  swift: SICOLALA
+    
+- name: "ST BANK CO. LTD"
+  city: "VIENTIANE"
+  branch: null
+  swift: STBDLALA
+    
+- name: "VIETINBANK LAO LIMITED"
+  city: "VIENTIANE"
+  branch: null
+  swift: ICBVLALA
+    

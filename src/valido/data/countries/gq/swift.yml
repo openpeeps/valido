@@ -1,0 +1,55 @@
+- name: "BANCO NACIONAL DE GUINEA ECUATORIAL (BANGE)"
+  city: "MALABO"
+  branch: null
+  swift: NAGCGQGQ
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GUINEE EQUATORIALE"
+  city: "BATA"
+  branch: AGENCE DE BATA
+  swift: BEACGQGQ610
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GUINEE EQUATORIALE"
+  city: "MALABO"
+  branch: null
+  swift: BEACGQGQ
+    
+- name: "BGFIBANK GUINEE EQUATORIALE"
+  city: "MALABO"
+  branch: null
+  swift: BGFIGQGQ
+    
+- name: "CCEI BANK GE"
+  city: "BATA"
+  branch: BATA
+  swift: CCEIGQGQBAT
+    
+- name: "CCEI BANK GE"
+  city: "BATA"
+  branch: EBIEBYIN
+  swift: CCEIGQGQEBI
+    
+- name: "CCEI BANK GE"
+  city: "BATA"
+  branch: MONGOMO
+  swift: CCEIGQGQMON
+    
+- name: "CCEI BANK GE"
+  city: "MALABO"
+  branch: null
+  swift: CCEIGQGQ
+    
+- name: "COMMERCIAL BANK GUINEA ECUATORIAL"
+  city: "MALABO"
+  branch: null
+  swift: CBGMGQG1
+    
+- name: "ECOBANK GUINEE EQUATORIALE"
+  city: "MALABO"
+  branch: null
+  swift: ECOCGQGQ
+    
+- name: "SOCIETE GENERALE DE BANQUE EN GUINEE EQUATORIALE"
+  city: "MALABO"
+  branch: null
+  swift: SGGEGQGQ
+    

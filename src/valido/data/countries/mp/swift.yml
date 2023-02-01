@@ -1,0 +1,20 @@
+- name: "ALLIED MERCANTILE BANK CORPORATION"
+  city: "SAIPAN"
+  branch: null
+  swift: ALMPMPMP
+    
+- name: "BANK OF HAWAII"
+  city: "SAIPAN"
+  branch: null
+  swift: BOHIMPM1
+    
+- name: "BANK OF SAIPAN"
+  city: "SAIPAN"
+  branch: null
+  swift: BSAIMPM1
+    
+- name: "BANK OF GUAM"
+  city: "SAIPAN"
+  branch: null
+  swift: GMBKMPM1
+    

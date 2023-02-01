@@ -1,0 +1,6380 @@
+- name: "ABU DHABI ISLAMIC BANK - EGYPT"
+  city: "CAIRO"
+  branch: null
+  swift: ABDIEGCA
+    
+- name: "AFRICAN EXPORT IMPORT BANK"
+  city: "CAIRO"
+  branch: HEAD OFFICE
+  swift: AFXMEGCA
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: DEIBEGCX215
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: SIDI-BISHR BRANCH
+  swift: DEIBEGCX223
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: CENTRAL OPERATIONS
+  swift: DEIBEGCX016
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: DOWNTOWN
+  swift: DEIBEGCX110
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL-HARAM BRANCH
+  swift: DEIBEGCX128
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: GIZA - DOKKI BRANCH
+  swift: DEIBEGCX024
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: DEIBEGCX032
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MAADI BRANCH
+  swift: DEIBEGCX059
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MERGHANY BRANCH
+  swift: DEIBEGCX075
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MOHANDESSIN BRANCH
+  swift: DEIBEGCX083
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: SHUBRA BRANCH
+  swift: DEIBEGCX040
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: null
+  swift: DEIBEGCX
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "DOMIAT"
+  branch: DOMIAT BRANCH
+  swift: DEIBEGCX527
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "EL MANSOURA"
+  branch: EL MANSOURA BRANCH
+  swift: DEIBEGCX518
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "EL MENIA"
+  branch: EL MENIA BRANCH
+  swift: DEIBEGCX718
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: DEIBEGCX621
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "SUEZ"
+  branch: SUEZ BRANCH
+  swift: DEIBEGCX613
+    
+- name: "AHLI UNITED BANK (EGYPT) S.A.E."
+  city: "TANTA"
+  branch: TANTA BRANCH
+  swift: DEIBEGCX319
+    
+- name: "AL AHLI BANK OF KUWAIT - EGYPT S.A.E."
+  city: "6TH OF OCTOBER"
+  branch: null
+  swift: ECBAEGCA
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "6TH OF OCTOBER"
+  branch: 6TH OCTOBER BRANCH
+  swift: ABRKEGCAOCT
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "AL GHARBIAH"
+  branch: TANTA BRANCH
+  swift: ABRKEGCATAN
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "AL MANSORA"
+  branch: MANSORA BRANCH
+  swift: ABRKEGCAMAN
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: ABRKEGCAAZA
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "ALEXANDRIA"
+  branch: BORG AL ARAB BRANCH
+  swift: ABRKEGCABRG
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "ALEXANDRIA"
+  branch: RSHDOY
+  swift: ABRKEGCARSH
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "ALEXANDRIA"
+  branch: SMOHA BRANCH
+  swift: ABRKEGCASOM
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "ALEXANDRIA"
+  branch: STANLY BRANCH
+  swift: ABRKEGCASTN
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "ALEXANDRIA"
+  branch: null
+  swift: ABRKEGC10AL
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: 5TH SETTLEMENT BRANCH
+  swift: ABRKEGCAFSB
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: ADLY BRANCH
+  swift: ABRKEGCAALF
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: AKKAD BRANCH
+  swift: ABRKEGCAAKD
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: AL AZHAR BRANCH
+  swift: ABRKEGCAZHR
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: ALMANIAL BRANCH CAIRO
+  swift: ABRKEGCAMNL
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: GARDEN CITY BRANCH
+  swift: ABRKEGCACAI
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: HELIOPOLICE BRANCH
+  swift: ABRKEGCAMRG
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: INTERNATIONAL GARDEN BRANCH
+  swift: ABRKEGCAHDW
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: MAADI BRANCH
+  swift: ABRKEGCAMAD
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: MADINATY BRANCH
+  swift: ABRKEGCAMDN
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: ABRKEGCANSR
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: NEW MAADI BRANCH
+  swift: ABRKEGCALSK
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: REAHAB BRANCH
+  swift: ABRKEGCARHB
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: SANT FATIMA BRANCH
+  swift: ABRKEGCASFM
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: SHOBRA BRANCH
+  swift: ABRKEGCASHB
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "CAIRO"
+  branch: null
+  swift: ABRKEGCAABS
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: AHMED ORABI BRANCH
+  swift: ABRKEGCAORA
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: CORRESPONDANTS DEPARTMENT
+  swift: ABRKEGCACOR
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: DOKKI BRANCH
+  swift: ABRKEGCADOK
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: FINANCIAL DEPARTMENT
+  swift: ABRKEGCAMAL
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: HEAD OFFICE
+  swift: ABRKEGCA
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: KING FAISAL BRANCH
+  swift: ABRKEGCAFSL
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: LC DEPARTMENT
+  swift: ABRKEGCALCG
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: MOHANDSEEN BRANCH
+  swift: ABRKEGCAMOH
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: MOHYEE ELDIN ABOU EL EZZ BRANCH
+  swift: ABRKEGCAEZZ
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: PYRAMIDS BRANCH
+  swift: ABRKEGCAHRM
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: SHEIKH ZAYED BRANCH
+  swift: ABRKEGCAZYD
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "GIZA"
+  branch: TEST KEY DEPARTMENT
+  swift: ABRKEGCATKY
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "NORTH SINAI"
+  branch: SHARM ELSHEIKH BRANCH
+  swift: ABRKEGCASHM
+    
+- name: "ALBARAKA BANK EGYPT"
+  city: "THE TENTH OF RAMADAN"
+  branch: 10TH RAMADAN BRANCH
+  swift: ABRKEGCAASH
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "6TH OF OCTOBER"
+  branch: 6TH OCTOBER BRANCH
+  swift: ARAIEGCXOCT
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: ARAIEGCXALX
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "ALEXANDRIA"
+  branch: null
+  swift: ARAIEGCXALE
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "BOURG EL ARAB"
+  branch: null
+  swift: ARAIEGCXBRG
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: 10TH RAMADAN BRANCH
+  swift: ARAIEGCXASH
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: B.O DEALING ROOM
+  swift: ARAIEGCXOPR
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: BUDGET
+  swift: ARAIEGCXBUD
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: CAIRO BRANCH
+  swift: ARAIEGCXCAI
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: CUSTODY
+  swift: ARAIEGCXSEC
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: DOCUMENTARY COLLECTIONS
+  swift: ARAIEGCXCOL
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: GOLF BRANCH
+  swift: ARAIEGCXGLF
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: HEAD OFFICE
+  swift: ARAIEGCX
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: ARAIEGCXHEL
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: MAADI BRANCH
+  swift: ARAIEGCXMAA
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: MOHANDSEEN BRANCH
+  swift: ARAIEGCXMOH
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: TRANSFERS
+  swift: ARAIEGCXTRF
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: WESTER UNION
+  swift: ARAIEGCXWUN
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: null
+  swift: ARAIEGCXALF
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: null
+  swift: ARAIEGCXDOC
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: null
+  swift: ARAIEGCXDOK
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: null
+  swift: ARAIEGCXGRD
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: null
+  swift: ARAIEGCXHLP
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: null
+  swift: ARAIEGCXMRG
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: null
+  swift: ARAIEGCXTWN
+    
+- name: "ARAB AFRICAN INTERNATIONAL BANK"
+  city: "TANTA"
+  branch: null
+  swift: ARAIEGCXTNT
+    
+- name: "ARAB BANK PLC"
+  city: "6TH OF OCTOBER"
+  branch: 6TH OF OCTOBER BRANCH
+  swift: ARABEGCXOCT
+    
+- name: "ARAB BANK PLC"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: ARABEGCXALX
+    
+- name: "ARAB BANK PLC"
+  city: "ALEXANDRIA"
+  branch: SPORTING BRANCH
+  swift: ARABEGCXSPR
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: ALI AMEEN BRANCH
+  swift: ARABEGCXAMN
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: ALI AMEEN BRANCH
+  swift: ARABEGCXNSA
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: ARAB BANK PLC NOZHA
+  swift: ARABEGCXNOZ
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: CAIRO BRANCH
+  swift: ARABEGCXCAI
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: CENTRAL OPERATION UNIT
+  swift: ARABEGCXCOU
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: DOKKI BRANCH
+  swift: ARABEGCXDKI
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: EGYPT AREA MANAGEMENT - CAIRO
+  swift: ARABEGCX
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: EL MOKATAM BRANCH
+  swift: ARABEGCXMKT
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: EL-GOMHORIA BRANCH
+  swift: ARABEGCXGMH
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: EL-HEGAZ BRANCH
+  swift: ARABEGCXHGZ
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: EL-MOHANDESSEEN BRANCH
+  swift: ARABEGCXMHD
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: EL-TAHRIR BRANCH
+  swift: ARABEGCXTHR
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: ARABEGCXHEL
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: MAADI BRANCH
+  swift: ARABEGCXMDI
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: NASR BRANCH
+  swift: ARABEGCXNSR
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: SHOUBRA BRANCH
+  swift: ARABEGCXSHO
+    
+- name: "ARAB BANK PLC"
+  city: "CAIRO"
+  branch: ZAMALEK BRANCH
+  swift: ARABEGCXZMK
+    
+- name: "ARAB BANK PLC"
+  city: "GIZA"
+  branch: AL HARAM BRANCH
+  swift: ARABEGCXHRM
+    
+- name: "ARAB BANK PLC"
+  city: "GIZA"
+  branch: EL-THAWRA BRANCH
+  swift: ARABEGCXSAW
+    
+- name: "ARAB BANK PLC"
+  city: "SHARM EL SHEIKH"
+  branch: SHARM-ELSHEIKH BRANCH
+  swift: ARABEGCXSHR
+    
+- name: "ARAB BANK PLC"
+  city: "THE TENTH OF RAMADAN"
+  branch: THE TENTH OF RAMADAN BRANCH
+  swift: ARABEGCXRMD
+    
+- name: "ARAB BANKING CORPORATION EGYPT"
+  city: "CAIRO"
+  branch: null
+  swift: EAABEGCX
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "6TH OF OCTOBER"
+  branch: 6TH OF OCTOBER
+  swift: ARIBEGCX009
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: ARIBEGCX002
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: HEAD OFFICE
+  swift: ARIBEGCX001
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: HELIOPOLICE BRANCH
+  swift: ARIBEGCX005
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: LOCAL BANK DEPARTMENT
+  swift: ARIBEGCXLBR
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: MOHANDISEEN BRANCH
+  swift: ARIBEGCX008
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: MONEY OPER. DEPT.
+  swift: ARIBEGCXMOP
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: ARIBEGCX004
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: SARWAT BRANCH
+  swift: ARIBEGCX007
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: TAHRIR BRANCH
+  swift: ARIBEGCX003
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "CAIRO"
+  branch: null
+  swift: ARIBEGCX
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "MAADI"
+  branch: MAADI BRANCH
+  swift: ARIBEGCX011
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: ARIBEGCX006
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "SHARM EL SHEIKH"
+  branch: SHARM EL SHEIKH BRANCH
+  swift: ARIBEGCX012
+    
+- name: "ARAB INTERNATIONAL BANK"
+  city: "SHEIKH ZAYED CITY"
+  branch: SHEIKH ZAYED BRANCH
+  swift: ARIBEGCX010
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "6TH OF OCTOBER"
+  branch: 6TH OF OCTOBER BRANCH
+  swift: AINBEGCAMAR
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "AL OBOUR"
+  branch: EL OBOUR BRANCH
+  swift: AINBEGCAOBR
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: AINBEGCAALX
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA FOR ISLAMIC OPERATION BRANCH
+  swift: AINBEGCAALI
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "ARISH"
+  branch: 10RAMADAN BRANCH
+  swift: AINBEGCA10R
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: 5ST BRANCH
+  swift: AINBEGCA5ST
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: CAIRO BRANCH
+  swift: AINBEGCACAI
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: FAISAL BRANCH
+  swift: AINBEGCAFSL
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: GIZA BRANCH
+  swift: AINBEGCAGIZ
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: AINBEGCAHEL
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: KORNISH BRANCH
+  swift: AINBEGCAKOR
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: MAADI BRANCH
+  swift: AINBEGCAMAD
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: NASR CITY
+  swift: AINBEGCANSR
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: SHOUBRA BRANCH
+  swift: AINBEGCASHB
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: TRADE FINANCE CENTER
+  swift: AINBEGCATFC
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: ZAMALEK FOR ISLAMIC OPERATION BRANCH
+  swift: AINBEGCAZMK
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "CAIRO"
+  branch: null
+  swift: AINBEGCA
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "EL MENIA"
+  branch: EL MENIA BRANCH
+  swift: AINBEGCAMIN
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "GIZA"
+  branch: MOHANDESIN BRANCH
+  swift: AINBEGCAMOH
+    
+- name: "ARAB INVESTMENT BANK"
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: AINBEGCAPSD
+    
+- name: "ARQAAM SECURITIES BROKERAGE, S.A.E. EGYPT"
+  city: "CAIRO"
+  branch: null
+  swift: ARQAEGCA
+    
+- name: "ATTIJARIWAFA BANK EGYPT S.A.E"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: BCBIEGCX003
+    
+- name: "ATTIJARIWAFA BANK EGYPT S.A.E"
+  city: "CAIRO"
+  branch: MOHANDESIEN BRANCH
+  swift: BCBIEGCX005
+    
+- name: "ATTIJARIWAFA BANK EGYPT S.A.E"
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: BCBIEGCX004
+    
+- name: "ATTIJARIWAFA BANK EGYPT S.A.E"
+  city: "CAIRO"
+  branch: null
+  swift: BCBIEGCX
+    
+- name: "BANK AUDI SAE"
+  city: "CAIRO"
+  branch: null
+  swift: AUDBEGCA
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: ALEXEGCX001
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: CENTRAL  REMITTANCES
+  swift: ALEXEGCXRMT
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: COMPLIANCE
+  swift: ALEXEGCXAML
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: FINANCIAL  INSTITUTIONS
+  swift: ALEXEGCXFID
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: INVESTMENT DEPARTMENT
+  swift: ALEXEGCX005
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: LETTERS  OF  CREDIT   CAIRO
+  swift: ALEXEGCXTFC
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: LETTERS OF GURANTEE  CAIRO
+  swift: ALEXEGCXLGC
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: LOAN  OPERATIONS
+  swift: ALEXEGCXLOP
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: LOCAL  RECONCILIATIONS
+  swift: ALEXEGCXACC
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: MUSKI BRANCH
+  swift: ALEXEGCX004
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: SHERIF BRANCH
+  swift: ALEXEGCX003
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "CAIRO"
+  branch: null
+  swift: ALEXEGCX
+    
+- name: "BANK OF ALEXANDRIA S A E"
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: ALEXEGCX002
+    
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "CAIRO"
+  branch: null
+  swift: NOSCEGCA
+    
+- name: "BANQUE DU CAIRE"
+  city: "6TH OF OCTOBER"
+  branch: 6 OCTOBER
+  swift: BCAIEGCX606
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: AGAMY BRANCH
+  swift: BCAIEGCX250
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: BAB SEDRAH
+  swift: BCAIEGCX285
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: BACKUS BRANCH
+  swift: BCAIEGCX220
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: BORG EL ARAB BRANCH
+  swift: BCAIEGCX255
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: EBRAHEMIYA BRANCH
+  swift: BCAIEGCX231
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: EL EKBALL BRANCH
+  swift: BCAIEGCX290
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: EL WARDIAN BRANCH
+  swift: BCAIEGCX201
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: GLIM BRANCH
+  swift: BCAIEGCX260
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: MONTAZAH BRANCH
+  swift: BCAIEGCX280
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: SALAH SALEM BRANCH
+  swift: BCAIEGCX210
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: SAMOUHA BRANCH
+  swift: BCAIEGCX270
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: SESOSTREES BRANCH
+  swift: BCAIEGCX200
+    
+- name: "BANQUE DU CAIRE"
+  city: "ALEXANDRIA"
+  branch: SPORTING BRANCH
+  swift: BCAIEGCX230
+    
+- name: "BANQUE DU CAIRE"
+  city: "ASSUIT"
+  branch: ABU TEEG
+  swift: BCAIEGCX760
+    
+- name: "BANQUE DU CAIRE"
+  city: "ASSUIT"
+  branch: ASSUIT BRANCH
+  swift: BCAIEGCX640
+    
+- name: "BANQUE DU CAIRE"
+  city: "ASWAN"
+  branch: ABU SIMBAL
+  swift: BCAIEGCX750
+    
+- name: "BANQUE DU CAIRE"
+  city: "ASWAN"
+  branch: ASWAN BRANCH
+  swift: BCAIEGCX660
+    
+- name: "BANQUE DU CAIRE"
+  city: "ASWAN"
+  branch: EDFO
+  swift: BCAIEGCX710
+    
+- name: "BANQUE DU CAIRE"
+  city: "BANI SUEF"
+  branch: BENI SOWIF BRANCH
+  swift: BCAIEGCX620
+    
+- name: "BANQUE DU CAIRE"
+  city: "BANI SUEF"
+  branch: EHNASYA BRANCH
+  swift: BCAIEGCX621
+    
+- name: "BANQUE DU CAIRE"
+  city: "BANI SUEF"
+  branch: SAMASTTA
+  swift: BCAIEGCX740
+    
+- name: "BANQUE DU CAIRE"
+  city: "BEIRA"
+  branch: DAMANHOUR BRANCH
+  swift: BCAIEGCX480
+    
+- name: "BANQUE DU CAIRE"
+  city: "BEIRA"
+  branch: DELENGAT
+  swift: BCAIEGCX483
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: 19 ADLY BRANCH
+  swift: BCAIEGCX030
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: 26 JUL. BRANCH
+  swift: BCAIEGCX095
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: ABBASIA BRANCH
+  swift: BCAIEGCX035
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: AIRPORT BRANCH
+  swift: BCAIEGCX150
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: AL OBOUR BRANCH
+  swift: BCAIEGCX585
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: AL OROUBA
+  swift: BCAIEGCX151
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: ALFY BRANCH
+  swift: BCAIEGCX040
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: AMIRIA
+  swift: BCAIEGCX120
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: AWKAF
+  swift: BCAIEGCX033
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: AZHAR BRANCH
+  swift: BCAIEGCX060
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: DAHER BRANCH
+  swift: BCAIEGCX130
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: FAYOUM BRANCH
+  swift: BCAIEGCX610
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: FOREIGN RELATIONS DEPARTMENT
+  swift: BCAIEGCX011
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: GIZA - DOKKI BRANCH
+  swift: BCAIEGCX034
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: HELIOPLIS BRANCH
+  swift: BCAIEGCX070
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: HELWAN
+  swift: BCAIEGCX180
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: HORRIYA
+  swift: BCAIEGCX072
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: KALUOB
+  swift: BCAIEGCX401
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: KASR EL-NEEL BRANCH
+  swift: BCAIEGCX020
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: KHLOUSY
+  swift: BCAIEGCX101
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: LAKKANY
+  swift: BCAIEGCX073
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: MAADI BRANCH
+  swift: BCAIEGCX111
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: MAGDA BUILDING
+  swift: BCAIEGCX608
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: MIDAN ELSAIDA
+  swift: BCAIEGCX085
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: MISR ALKADIMA
+  swift: BCAIEGCX110
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: MOHANDESSEEN
+  swift: BCAIEGCX602
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: NASR CITY
+  swift: BCAIEGCX190
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: NEW MAADI
+  swift: BCAIEGCX112
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: NOUBAR
+  swift: BCAIEGCX170
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: PLAN DEPARTMENT
+  swift: BCAIEGCX008
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: RAMSIS BRANCH
+  swift: BCAIEGCX090
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: ROXY
+  swift: BCAIEGCX140
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: SABTIA
+  swift: BCAIEGCX160
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: SAIDA ZAINAB BRANCH
+  swift: BCAIEGCX080
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: SARWAT BRANCH
+  swift: BCAIEGCX045
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: SETTLEMENT DEPARTMENT
+  swift: BCAIEGCX013
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: SHEBIN EL KOUM
+  swift: BCAIEGCX470
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: SHOUBRA BRANCH
+  swift: BCAIEGCX100
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: TALAAT HARB
+  swift: BCAIEGCX055
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: YOUSSEF ABBAS BRANCH
+  swift: BCAIEGCX195
+    
+- name: "BANQUE DU CAIRE"
+  city: "CAIRO"
+  branch: null
+  swift: BCAIEGCX
+    
+- name: "BANQUE DU CAIRE"
+  city: "DOMIAT"
+  branch: DAMIETA BRANCH
+  swift: BCAIEGCX440
+    
+- name: "BANQUE DU CAIRE"
+  city: "DOMIAT"
+  branch: NEW DAMIETA
+  swift: BCAIEGCX445
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL BEHIRRA"
+  branch: ABO EL MATAMIR
+  swift: BCAIEGCX570
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL BEHIRRA"
+  branch: HOUCH EISSA
+  swift: BCAIEGCX481
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL DAKAHLIAA"
+  branch: BELKAS
+  swift: BCAIEGCX423
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL DAKAHLIAA"
+  branch: GOMHOURIA
+  swift: BCAIEGCX593
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL DAKAHLIAA"
+  branch: MANZALA
+  swift: BCAIEGCX520
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL DAKAHLIAA"
+  branch: MEIT GHAMR
+  swift: BCAIEGCX430
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL DAKAHLIAA"
+  branch: SENBELLAWEIN
+  swift: BCAIEGCX424
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL DAKAHLIAA"
+  branch: SHERBIN
+  swift: BCAIEGCX421
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL DAKAHLIAA"
+  branch: TALKHA
+  swift: BCAIEGCX422
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL FAYOUM"
+  branch: ATSA BRANCH
+  swift: BCAIEGCX611
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL FAYOUM"
+  branch: SANNORIS
+  swift: BCAIEGCX612
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL GHARBIAA"
+  branch: KAFR EL ZAYAT
+  swift: BCAIEGCX451
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL GHARBIAA"
+  branch: SOUK NASSER
+  swift: BCAIEGCX452
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL KHARGA"
+  branch: EL KHARGA
+  swift: BCAIEGCX641
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL MANSOURA"
+  branch: MANSURA BRANCH
+  swift: BCAIEGCX420
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL MENIA"
+  branch: MALAWI
+  swift: BCAIEGCX635
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL MENIA"
+  branch: MENIA BRANCH
+  swift: BCAIEGCX630
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL MENOUFIAA"
+  branch: BAGOUR
+  swift: BCAIEGCX591
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL MENOUFIAA"
+  branch: EL SADAT
+  swift: BCAIEGCX594
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL MENOUFIAA"
+  branch: MENOUF
+  swift: BCAIEGCX510
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL SHARKIAA"
+  branch: DIARB NEGM
+  swift: BCAIEGCX550
+    
+- name: "BANQUE DU CAIRE"
+  city: "EL SHARKIAA"
+  branch: MENIA EL KAMH
+  swift: BCAIEGCX592
+    
+- name: "BANQUE DU CAIRE"
+  city: "GHARBIA"
+  branch: ZEFTA
+  swift: BCAIEGCX540
+    
+- name: "BANQUE DU CAIRE"
+  city: "GHARDAIA"
+  branch: MEHALLA BRANCH
+  swift: BCAIEGCX460
+    
+- name: "BANQUE DU CAIRE"
+  city: "GHARDAIA"
+  branch: TANTA BRANCH
+  swift: BCAIEGCX450
+    
+- name: "BANQUE DU CAIRE"
+  city: "GIZA"
+  branch: AL HARAM BRANCH
+  swift: BCAIEGCX607
+    
+- name: "BANQUE DU CAIRE"
+  city: "GIZA"
+  branch: GIZA
+  swift: BCAIEGCX600
+    
+- name: "BANQUE DU CAIRE"
+  city: "GIZA"
+  branch: MIDAN GIZA
+  swift: BCAIEGCX605
+    
+- name: "BANQUE DU CAIRE"
+  city: "HURGHADA"
+  branch: HURGHADA
+  swift: BCAIEGCX730
+    
+- name: "BANQUE DU CAIRE"
+  city: "ISMAILIA"
+  branch: EL SALHIA
+  swift: BCAIEGCX560
+    
+- name: "BANQUE DU CAIRE"
+  city: "ISMAILIA"
+  branch: ISMAILIA BRANCH
+  swift: BCAIEGCX320
+    
+- name: "BANQUE DU CAIRE"
+  city: "KAFR EL SHEIKH"
+  branch: DESSOUK
+  swift: BCAIEGCX491
+    
+- name: "BANQUE DU CAIRE"
+  city: "KAFR EL SHEIKH"
+  branch: EL KHOLAFAA EL RASHIDIN
+  swift: BCAIEGCX492
+    
+- name: "BANQUE DU CAIRE"
+  city: "KAFR EL SHEIKH"
+  branch: FOUWAH
+  swift: BCAIEGCX530
+    
+- name: "BANQUE DU CAIRE"
+  city: "KAFR EL SHEIKH"
+  branch: KAFR EL SHEIKH BRANCH
+  swift: BCAIEGCX490
+    
+- name: "BANQUE DU CAIRE"
+  city: "KENA"
+  branch: KENA BRANCH
+  swift: BCAIEGCX670
+    
+- name: "BANQUE DU CAIRE"
+  city: "KENA"
+  branch: KOUS
+  swift: BCAIEGCX700
+    
+- name: "BANQUE DU CAIRE"
+  city: "KENA"
+  branch: NAGH HAMMADI
+  swift: BCAIEGCX680
+    
+- name: "BANQUE DU CAIRE"
+  city: "LUXOR"
+  branch: LOUXOR BRANCH
+  swift: BCAIEGCX690
+    
+- name: "BANQUE DU CAIRE"
+  city: "MARSA MATROUH"
+  branch: MARSA MATROUH
+  swift: BCAIEGCX500
+    
+- name: "BANQUE DU CAIRE"
+  city: "MENOUF"
+  branch: BERKET EL SABAA
+  swift: BCAIEGCX471
+    
+- name: "BANQUE DU CAIRE"
+  city: "MENOUF"
+  branch: TALA
+  swift: BCAIEGCX472
+    
+- name: "BANQUE DU CAIRE"
+  city: "PORT SAID"
+  branch: PORT FOUAD BRANCH
+  swift: BCAIEGCX330
+    
+- name: "BANQUE DU CAIRE"
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: BCAIEGCX300
+    
+- name: "BANQUE DU CAIRE"
+  city: "QALIOBIA"
+  branch: BANHA BRANCH
+  swift: BCAIEGCX400
+    
+- name: "BANQUE DU CAIRE"
+  city: "QALIOBIA"
+  branch: KAFR SHOKR BRANCH
+  swift: BCAIEGCX402
+    
+- name: "BANQUE DU CAIRE"
+  city: "SAFAGA"
+  branch: SAFAGA
+  swift: BCAIEGCX672
+    
+- name: "BANQUE DU CAIRE"
+  city: "SHARJAH"
+  branch: 10 TH RAMADAN BRANCH
+  swift: BCAIEGCX590
+    
+- name: "BANQUE DU CAIRE"
+  city: "SHARJAH"
+  branch: ZAGAZIG BRANCH
+  swift: BCAIEGCX410
+    
+- name: "BANQUE DU CAIRE"
+  city: "SHARKYA"
+  branch: ABO KEBIR BRANCH
+  swift: BCAIEGCX413
+    
+- name: "BANQUE DU CAIRE"
+  city: "SHARKYA"
+  branch: BELBEIS BRANCH
+  swift: BCAIEGCX412
+    
+- name: "BANQUE DU CAIRE"
+  city: "SHARKYA"
+  branch: FAKKOUS BRANCH
+  swift: BCAIEGCX414
+    
+- name: "BANQUE DU CAIRE"
+  city: "SHARKYA"
+  branch: HESSEINYIA BRANCH
+  swift: BCAIEGCX411
+    
+- name: "BANQUE DU CAIRE"
+  city: "SHARKYA"
+  branch: LEWAA BRANCH
+  swift: BCAIEGCX415
+    
+- name: "BANQUE DU CAIRE"
+  city: "SOHAG"
+  branch: GERGA
+  swift: BCAIEGCX720
+    
+- name: "BANQUE DU CAIRE"
+  city: "SOHAG"
+  branch: SOHAG BRANCH
+  swift: BCAIEGCX650
+    
+- name: "BANQUE DU CAIRE"
+  city: "SOUTH SINAI"
+  branch: ARISH BRANCH
+  swift: BCAIEGCX350
+    
+- name: "BANQUE DU CAIRE"
+  city: "SOUTH SINAI"
+  branch: NOWAIBA BRANCH
+  swift: BCAIEGCX340
+    
+- name: "BANQUE DU CAIRE"
+  city: "SOUTH SINAI"
+  branch: SHARM SHEIKH BRANCH
+  swift: BCAIEGCX360
+    
+- name: "BANQUE DU CAIRE"
+  city: "SUEZ"
+  branch: SUEZ BRANCH
+  swift: BCAIEGCX310
+    
+- name: "BANQUE MISR"
+  city: "ALEXANDRIA"
+  branch: AHMED ORABI BRANCH
+  swift: BMISEGCX372
+    
+- name: "BANQUE MISR"
+  city: "ALEXANDRIA"
+  branch: ATTAREEN BRANCH
+  swift: BMISEGCX408
+    
+- name: "BANQUE MISR"
+  city: "ALEXANDRIA"
+  branch: BORG EL-SELSELA
+  swift: BMISEGCXALX
+    
+- name: "BANQUE MISR"
+  city: "ALEXANDRIA"
+  branch: TALAAT HARB MAIN BRANCH
+  swift: BMISEGCX401
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: CAIRO BRANCH
+  swift: BMISEGCX101
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: DAR EL KADAA BRANCH
+  swift: BMISEGCX375
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: EL TAWFIKIA BRANCH
+  swift: BMISEGCX388
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: KASR EL AINI BRANCH
+  swift: BMISEGCX381
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: KASR EL NIL BRANCH
+  swift: BMISEGCX107
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: MOHAMED ROUSHDY BRANCH
+  swift: BMISEGCX371
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: MOSTAFA KAMEL BRANCH
+  swift: BMISEGCX105
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: NIL REGION
+  swift: BMISEGCXNIL
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: OVERSEAS BRANCH
+  swift: BMISEGCX140
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: null
+  swift: BMISEGCX
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: null
+  swift: BMISEGCX155
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: null
+  swift: BMISEGCXCOL
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: null
+  swift: BMISEGCXFCC
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: null
+  swift: BMISEGCXGDR
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: null
+  swift: BMISEGCXREC
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: null
+  swift: BMISEGCXTBO
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: null
+  swift: BMISEGCXTFC
+    
+- name: "BANQUE MISR"
+  city: "CAIRO"
+  branch: null
+  swift: BMISEGCXTRF
+    
+- name: "BANQUE MISR"
+  city: "PORT SAID"
+  branch: EL GOMHORIA ST. BRANCH
+  swift: BMISEGCX373
+    
+- name: "BANQUE MISR"
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: BMISEGCX413
+    
+- name: "BELTONE SECURITIES BROKERAGE S.A.E"
+  city: "CAIRO"
+  branch: BELTONE AM
+  swift: BELTEGCABAM
+    
+- name: "BELTONE SECURITIES BROKERAGE S.A.E"
+  city: "CAIRO"
+  branch: null
+  swift: BELTEGCA
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "6TH OF OCTOBER"
+  branch: 6 TH OCTOBER
+  swift: MRBAEGCX014
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: MRBAEGCX006
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "ALEXANDRIA"
+  branch: MANCHIA
+  swift: MRBAEGCX025
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "ALEXANDRIA"
+  branch: MONTAZA
+  swift: MRBAEGCX020
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "ALEXANDRIA"
+  branch: SHATBY
+  swift: MRBAEGCX013
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "ALEXANDRIA"
+  branch: SMOUHA
+  swift: MRBAEGCX036
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "ALEXANDRIA"
+  branch: SPORTING BRANCH
+  swift: MRBAEGCX003
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: ABBASIA
+  swift: MRBAEGCX016
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: EL OBOUR
+  swift: MRBAEGCX033
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: MRBAEGCX004
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: KHALIFA ALMAAMOUN
+  swift: MRBAEGCX022
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: MANIAL BRANCH
+  swift: MRBAEGCX029
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: MOHANDSEEN BRANCH
+  swift: MRBAEGCX005
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: MRBAEGCX009
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: NEW CAIRO
+  swift: MRBAEGCX023
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: NEW MAADI
+  swift: MRBAEGCX024
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: OPERA BRANCH
+  swift: MRBAEGCX008
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: OROUBA
+  swift: MRBAEGCX021
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: SHOUBRA
+  swift: MRBAEGCX019
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: ZAMALEK BRANCH
+  swift: MRBAEGCX002
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: null
+  swift: MRBAEGCX
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "CAIRO"
+  branch: null
+  swift: MRBAEGCX030
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "DOMIAT"
+  branch: DOMYAT
+  swift: MRBAEGCX017
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "EL MENIA"
+  branch: EL MENIA
+  swift: MRBAEGCX035
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "GIZA"
+  branch: DOKKI
+  swift: MRBAEGCX012
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "GIZA"
+  branch: MOSADAK
+  swift: MRBAEGCX032
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "GIZA"
+  branch: PYRAMIDS
+  swift: MRBAEGCX027
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "GIZA"
+  branch: SHEIKH ZAYED
+  swift: MRBAEGCX031
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "GIZA"
+  branch: null
+  swift: MRBAEGB1
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "HELIOPOLIS"
+  branch: EL SHERATON
+  swift: MRBAEGCX038
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "HURGHADA"
+  branch: HURGHADA BRANCH
+  swift: MRBAEGCX007
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "ISMAILIA"
+  branch: ISMAILIA
+  swift: MRBAEGCX018
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "MAADI"
+  branch: MAADI
+  swift: MRBAEGCX010
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "MANSURA"
+  branch: MANSORA
+  swift: MRBAEGCX015
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "PORT SAID"
+  branch: PORT SAID
+  swift: MRBAEGCX026
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "SHARM EL SHEIKH"
+  branch: SHARM ELSHEIKH
+  swift: MRBAEGCX011
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "SUEZ"
+  branch: SUEZ BRANCH
+  swift: MRBAEGCX034
+    
+- name: "BLOM BANK EGYPT S.A.E."
+  city: "TANTA"
+  branch: TANTA
+  swift: MRBAEGCX028
+    
+- name: "CAIRO AND ALEXANDRIA STOCK EXCHANGES"
+  city: "CAIRO"
+  branch: null
+  swift: XCAIEGC1
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: CBEGEGCXALX
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "ALEXANDRIA"
+  branch: CBE ALEXANDRIA BRANCH
+  swift: CBEGEGCAALX
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: BACK OFFICE FOR DEALING ROOM
+  swift: CBEGEGCXBKO
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: BOOK ENTRY SYSTEM TEST AND TRAINNING
+  swift: CBEGEGCABES
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: BOOK ENTRY SYSTEM
+  swift: CBEGEGCXBES
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: CBE AS AN ASA  TEST AND TRAINNING
+  swift: CBEGEGCAASA
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: CBE AS AN ASA
+  swift: CBEGEGCXASA
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: CCP FOR THE RTGS
+  swift: CBEGEGCACCP
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: CENTRAL SECURITIES DEPOSITORY
+  swift: CBEGEGCXCSD
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: COLLATERAL MANAGEMENT SYSTEM
+  swift: CBEGEGCXCMS
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: SECURITIES DEPARTMENT
+  swift: CBEGEGCXSMK
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: THE CCH
+  swift: CBEGEGCX001
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: THE CCP FOR THE RTGS
+  swift: CBEGEGCXCCP
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: THE TIA
+  swift: CBEGEGCX002
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "CAIRO"
+  branch: null
+  swift: CBEGEGCX
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "PORT SAID"
+  branch: CBE PORT SAID BRANCH
+  swift: CBEGEGCAPRT
+    
+- name: "CENTRAL BANK OF EGYPT CAIRO"
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: CBEGEGCXPOS
+    
+- name: "CHASE MANHATTAN BANK, CAIRO"
+  city: "CAIRO"
+  branch: null
+  swift: CHASEGC1
+    
+- name: "CITIBANK CAIRO"
+  city: "ALEXANDRIA"
+  branch: null
+  swift: CITIEGCXALE
+    
+- name: "CITIBANK CAIRO"
+  city: "CAIRO"
+  branch: TRADE SERVICES DEPARTMENT
+  swift: CITIEGCXTRD
+    
+- name: "CITIBANK CAIRO"
+  city: "CAIRO"
+  branch: null
+  swift: CITIEGCX
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "AL OBOUR"
+  branch: AL OBOUR BRANCH
+  swift: CIBEEGCX118
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: AGAMI BRANCH
+  swift: CIBEEGCX194
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA PORT BRANCH
+  swift: CIBEEGCX068
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: AZARITA BRANCH
+  swift: CIBEEGCX178
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: BOURG EL ARAB
+  swift: CIBEEGCX021
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: COUNTRY CLUB
+  swift: CIBEEGCX043
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: EL DEKHILA BRANCH
+  swift: CIBEEGCX046
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: FOUAD ST. ALEX. BRANCH
+  swift: CIBEEGCX158
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: FREE ZONE
+  swift: CIBEEGCX047
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: FREE ZONE-INVS.CLX
+  swift: CIBEEGCX071
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: GREEN PLAZA
+  swift: CIBEEGCX042
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: KAFR ABDO BRANCH
+  swift: CIBEEGCX041
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: LAGOON BRANCH
+  swift: CIBEEGCX088
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: LOURAN
+  swift: CIBEEGCX044
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: MANSHIA BRANCH
+  swift: CIBEEGCX008
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: MANSHIA SQUARE
+  swift: CIBEEGCX121
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: MIAMI BRANCH
+  swift: CIBEEGCX124
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: MONTAZA BRANCH
+  swift: CIBEEGCX187
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: PHAROS UNIVERSITY BRANCH
+  swift: CIBEEGCX087
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: PORTO MARINA BRANCH
+  swift: CIBEEGCX061
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: ROUSHDY BRANCH
+  swift: CIBEEGCX009
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: SAN STEFANO BRANCH
+  swift: CIBEEGCX056
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: SARAYA SEMOHA
+  swift: CIBEEGCX089
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: SMOUHA BRANCH
+  swift: CIBEEGCX034
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: SULTAN HUSSEIN BRANCH
+  swift: CIBEEGCX003
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ALEXANDRIA"
+  branch: WABOUR EL MAYAA BRANCH
+  swift: CIBEEGCX190
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ASWAN"
+  branch: ASWAN BRANCH
+  swift: CIBEEGCX030
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "BANI SUEF"
+  branch: BANI SWIF BRANCH
+  swift: CIBEEGCX186
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch:  NEW ZAMALEK BRANCH
+  swift: CIBEEGCX140
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch:  SUN CITY BRANCH
+  swift: CIBEEGCX126
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: 57357 CANCER HOSPITAL BR
+  swift: CIBEEGCX122
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ABASSIA BRANCH
+  swift: CIBEEGCX072
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ABBAS EL AKAD BRANCH
+  swift: CIBEEGCX014
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ABDEL KHALEK THARWAT BRANCH
+  swift: CIBEEGCX116
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ABDEL MONEEM RYAD BRANCH
+  swift: CIBEEGCX193
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ABDEL RAZEK EL-SANHOURY
+  swift: CIBEEGCX110
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ABU DAWOOD EL-ZAHRY
+  swift: CIBEEGCX109
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: AGHAKHAN BRANCH
+  swift: CIBEEGCX143
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: AIRPORT BRANCH
+  swift: CIBEEGCX029
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: AL-HARAS EL-GOMHORY
+  swift: CIBEEGCX105
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: AMERICANA PLAZA
+  swift: CIBEEGCX149
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ARABELLA
+  swift: CIBEEGCX129
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ARKADIA BRANCH
+  swift: CIBEEGCX033
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ASSUIT BRANCH
+  swift: CIBEEGCX059
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: BADR DRY BRANCH
+  swift: CIBEEGCX181
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: CAIRO FESTIVAL CITY
+  swift: CIBEEGCX152
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: CHEQUE PROCESSING CENTER
+  swift: CIBEEGCXCPC
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: CITY SQUARE BRANCH
+  swift: CIBEEGCX207
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: CITY STARS
+  swift: CIBEEGCX086
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: CORNICH EL MAADI BRANCH
+  swift: CIBEEGCX153
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: CUSTODY DEPARTMENT
+  swift: CIBEEGCX888
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: DISTRICT BRANCH
+  swift: CIBEEGCX169
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: DOWN TOWN
+  swift: CIBEEGCX005
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL ASHRAAF BRANCH
+  swift: CIBEEGCX054
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL DOKKI BRANCH
+  swift: CIBEEGCX080
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL HAMMAD MALL BRANCH
+  swift: CIBEEGCX154
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL MANIAL BRANCH
+  swift: CIBEEGCX120
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL MARGHANI BRANCH
+  swift: CIBEEGCX199
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL MERAAG BRANCH
+  swift: CIBEEGCX196
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL MOKATTAM BRANCH
+  swift: CIBEEGCX097
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL NASR BRANCH
+  swift: CIBEEGCX020
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL NOZHA EL GEDIDA BRANCH
+  swift: CIBEEGCX162
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL REHAB BRANCH
+  swift: CIBEEGCX091
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL SEID BRANCH
+  swift: CIBEEGCX025
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL SHAMS CLUB BRANCH
+  swift: CIBEEGCX024
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL TAGAMOAA EL AWAL BRANCH
+  swift: CIBEEGCX146
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL TAYARAN BRANCH
+  swift: CIBEEGCX200
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL TESEEN BRANCH
+  swift: CIBEEGCX145
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL THAWRA BRANCH
+  swift: CIBEEGCX081
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL-HEGAZ BRANCH
+  swift: CIBEEGCX115
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: EL-TAGAMOU EL-KHAMES
+  swift: CIBEEGCX111
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: GERMAN CHAMBER BRANCH
+  swift: CIBEEGCX053
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: GESR EL SUEZ BRANCH
+  swift: CIBEEGCX157
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: GEZIERA BRANCH
+  swift: CIBEEGCX174
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: GEZIRET ELARAB BRANCH
+  swift: CIBEEGCX176
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: GLOBAL TRANSACTION SECTION
+  swift: CIBEEGCXGTS
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: GRAND MALL BRANCH
+  swift: CIBEEGCX018
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: GUC BRANCH
+  swift: CIBEEGCX048
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: HADAYEK EL KOBBA BRANCH
+  swift: CIBEEGCX137
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: CIBEEGCX006
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: HELWAN BRANCH
+  swift: CIBEEGCX192
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: INTERCONTINENTAL BRANCH
+  swift: CIBEEGCX058
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: INTERNATIONAL TRADE FINANCE
+  swift: CIBEEGCXITF
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: J.W. MARRIOT
+  swift: CIBEEGCX049
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: JOSEPH TITO BRANCH
+  swift: CIBEEGCX206
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: KASR EL NIL BRANCH
+  swift: CIBEEGCX060
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: KATTAMEYA RESIDENCE
+  swift: CIBEEGCX132
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: LEBANON BRANCH
+  swift: CIBEEGCX038
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: LOANS DEPARTMENT
+  swift: CIBEEGCXLON
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MAADI BRANCH
+  swift: CIBEEGCX012
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MADINATY
+  swift: CIBEEGCX134
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MASADAK BRANCH
+  swift: CIBEEGCX013
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MASPIRO
+  swift: CIBEEGCX045
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MERRYLAND BRANCH
+  swift: CIBEEGCX031
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MIN.OF FOREIGN AFFAIRS
+  swift: CIBEEGCX062
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MOBTADAIAN BRANCH
+  swift: CIBEEGCX010
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MOHANDESSEIN BRANCH
+  swift: CIBEEGCX004
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MOSKY
+  swift: CIBEEGCX148
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MOSSADAK BRANCH
+  swift: CIBEEGCX171
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MOSTAFA NAHAS BRANCH
+  swift: CIBEEGCX175
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: MOSTORAD BRANCH
+  swift: CIBEEGCX016
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: CIBEEGCX136
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: NEW ARKEDIA BRANCH
+  swift: CIBEEGCX205
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: NEW MAADI
+  swift: CIBEEGCX094
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: NOVA PARK BRANCH
+  swift: CIBEEGCX055
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: OBOUR BUILDINGS BRANCH
+  swift: CIBEEGCX177
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: OBOUR CITY 2
+  swift: CIBEEGCX151
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: PALM HILLS BRANCH
+  swift: CIBEEGCX163
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: QATAR BRANCH
+  swift: CIBEEGCX077
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: RABWA BRANCH
+  swift: CIBEEGCX135
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: RAMSIS BRANCH
+  swift: CIBEEGCX083
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: REMITTENCES INQUIRY
+  swift: CIBEEGCXINQ
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: SARAYAT EL-MAADI
+  swift: CIBEEGCX092
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: SEMIRAMIS BRANCH
+  swift: CIBEEGCX022
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: SHERATON HELIOPOLIS
+  swift: CIBEEGCX127
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: SHOUBRA BRANCH 
+  swift: CIBEEGCX067
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: SODIC TRIP
+  swift: CIBEEGCX150
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: TRIUMPH BRANCH
+  swift: CIBEEGCX032
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ZAHRAA EL MAADI BRANCH
+  swift: CIBEEGCX160
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: ZAMALEK BRANCH
+  swift: CIBEEGCX007
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: null
+  swift: CIBEEGCX
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: null
+  swift: CIBEEGCX078
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "CAIRO"
+  branch: null
+  swift: CIBEEGCX079
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "DAHAB"
+  branch: DAHAB BRANCH
+  swift: CIBEEGCX040
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "DAMANHOUR"
+  branch: DAMANHOUR BRANCH
+  swift: CIBEEGCX057
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "DAMIETA"
+  branch: NEW DAMIETTA BRANCH
+  swift: CIBEEGCX142
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "DOMIAT"
+  branch: DAMIETA BRANCH
+  swift: CIBEEGCX039
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "DOMIAT"
+  branch: DAMIETA PORT BRANCH
+  swift: CIBEEGCX035
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "EL DAKAHLIAA"
+  branch: MEET GHAMR BRANCH
+  swift: CIBEEGCX164
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "EL MAHALA EL KOBRA"
+  branch: MAHALLA BRANCH
+  swift: CIBEEGCX125
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "EL MANSOURA"
+  branch: AL MANSOURA BRANCH
+  swift: CIBEEGCX015
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "EL MANSOURA"
+  branch: EL GOMHORYA BRANCH
+  swift: CIBEEGCX096
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "EL MANSOURA"
+  branch: NEW MANSOURA BRANCH
+  swift: CIBEEGCX195
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "EL MENIA"
+  branch: MENIA BRANCH
+  swift: CIBEEGCX082
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "EL SADAT CITY"
+  branch: SADAT BRANCH
+  swift: CIBEEGCX028
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "EL ZAGAZIG"
+  branch: EL-ZAGAZIG
+  swift: CIBEEGCX107
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "EL-ABBASSIA"
+  branch: EL TOGAREEN SYNDICATE  BRANCH
+  swift: CIBEEGCX166
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "GIZA"
+  branch: AL HARAM BRANCH
+  swift: CIBEEGCX102
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "GIZA"
+  branch: FUTURE UNIVERSITY BRANCH
+  swift: CIBEEGCX103
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "GIZA"
+  branch: GIZA BRANCH
+  swift: CIBEEGCX001
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "GIZA"
+  branch: HEAD OFFICE
+  swift: CIBEEGCX085
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "GIZA"
+  branch: MESAHA BRANCH
+  swift: CIBEEGCX184
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "GIZA"
+  branch: NEW HARAM BRANCH
+  swift: CIBEEGCX139
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HELIOPOLIS"
+  branch: EL KHALIFA EL MAAMOUN
+  swift: CIBEEGCX156
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HELIOPOLIS"
+  branch: EL KORBA BRANCH
+  swift: CIBEEGCX188
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HELIOPOLIS"
+  branch: MISR ELGEDIDA BRANCH
+  swift: CIBEEGCX172
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HELIOPOLIS"
+  branch: MORBAA ELWOZARAA BRANCH
+  swift: CIBEEGCX204
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HURGHADA"
+  branch: EL BASHA HOTEL
+  swift: CIBEEGCX052
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HURGHADA"
+  branch: EL GOUNA BRANCH 
+  swift: CIBEEGCX050
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HURGHADA"
+  branch: HURGHADA BRANCH
+  swift: CIBEEGCX019
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HURGHADA"
+  branch: HURGHADA BRANCH
+  swift: CIBEEGCX076
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HURGHADA"
+  branch: MAKADI BAY
+  swift: CIBEEGCX051
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HURGHADA"
+  branch: MARINA ABU TIG
+  swift: CIBEEGCX189
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HURGHADA"
+  branch: SPLANADA BRANCH
+  swift: CIBEEGCX069
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "HURGHADA"
+  branch: SUNRISE BRANCH
+  swift: CIBEEGCX104
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "ISMAILIA"
+  branch: ISMAILIA
+  swift: CIBEEGCX108
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "KAFR EL ZAYAT"
+  branch: KAFR ELZAYAT BRANCH
+  swift: CIBEEGCX202
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "KAFR ELSHIGH"
+  branch: KAFR EL SHEIKH BRANCH
+  swift: CIBEEGCX180
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "LUXOR"
+  branch: LUXOR BRANCH
+  swift: CIBEEGCX026
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "MAADI"
+  branch: EL LASELKI BRANCH
+  swift: CIBEEGCX179
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "MAADI"
+  branch: MAADI TOWERS BRANCH
+  swift: CIBEEGCX173
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "MARSA ALAM"
+  branch: KAHRAMANA BRANCH
+  swift: CIBEEGCX112
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "MARSA ALAM"
+  branch: KAHRMANA MARSA ALAM
+  swift: CIBEEGCX073
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "MARSA MATROUH"
+  branch: MARSA MATROUH
+  swift: CIBEEGCX114
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "NEW CAIRO"
+  branch: MEDICARE BRANCH
+  swift: CIBEEGCX203
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "NEW CAIRO"
+  branch: MIVIDA BRANCH
+  swift: CIBEEGCX191
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "NEW CAIRO"
+  branch: WATER WAY BRANCH
+  swift: CIBEEGCX185
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "PORT SAID"
+  branch: PORT FOUAD BRANCH
+  swift: CIBEEGCX197
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: CIBEEGCX002
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "PORT SAID"
+  branch: PORTSAID CORNISH BRANCH
+  swift: CIBEEGCX208
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "PORT SAID"
+  branch: SHIPPING  OPERATION
+  swift: CIBEEGCXSHP
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "QALIOBIA"
+  branch: BANHA BRANCH
+  swift: CIBEEGCX144
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "QUESNA"
+  branch: QUESNA BRANCH
+  swift: CIBEEGCX037
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SHARM EL SHEIKH"
+  branch: EL-HADABA BRANCH
+  swift: CIBEEGCX131
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SHARM EL SHEIKH"
+  branch: NABQ BAY BRANCH
+  swift: CIBEEGCX063
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SHARM EL SHEIKH"
+  branch: SHARM EL SHEIKH BRANCH
+  swift: CIBEEGCX027
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SHARM EL SHEIKH"
+  branch: TABA BRANCH
+  swift: CIBEEGCX113
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SHARM EL SHEIKH"
+  branch: TIRAN CENTER BRANCH
+  swift: CIBEEGCX064
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SHIBIN EL KOM"
+  branch: SHEBEEN EL KOUM
+  swift: CIBEEGCX183
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SHOROUK"
+  branch: BUE BRANCH
+  swift: CIBEEGCX165
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SHOROUK"
+  branch: EL SHEROUK CITY BRANCH
+  swift: CIBEEGCX155
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SOHAG"
+  branch: SOHAG BRANCH
+  swift: CIBEEGCX138
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SOUTH SINAI"
+  branch: TOUR SINAI
+  swift: CIBEEGCX170
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SUEZ"
+  branch: PORT TAWFIK BRANCH
+  swift: CIBEEGCX075
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SUEZ"
+  branch: SOKHNA PORT
+  swift: CIBEEGCX147
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SUEZ"
+  branch: SUEZ BRANCH
+  swift: CIBEEGCX036
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "SUEZ"
+  branch: TEDA SUEZ BRANCH
+  swift: CIBEEGCX161
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "TANTA"
+  branch: 57357 TANTA BRANCH
+  swift: CIBEEGCX168
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "TANTA"
+  branch: TANTA BRANCH
+  swift: CIBEEGCX011
+    
+- name: "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+  city: "THE TENTH OF RAMADAN"
+  branch: TENTH OF RAMADAN BRANCH
+  swift: CIBEEGCX023
+    
+- name: "COMMERCIAL INTERNATIONAL BROKERAGE COMPANY"
+  city: "CAIRO"
+  branch: null
+  swift: CIBOEGCX
+    
+- name: "CREDIT AGRICOLE EGYPT"
+  city: "CAIRO"
+  branch: HEAD OFFICE
+  swift: AGRIEGCX
+    
+- name: "CREDIT FONCIER EGYPTIEN"
+  city: "CAIRO"
+  branch: null
+  swift: CFOEEGC1
+    
+- name: "CREDIT SUISSE"
+  city: "CAIRO"
+  branch: null
+  swift: CRESEGC1
+    
+- name: "DELTA RASMALA SECURITIES"
+  city: "CAIRO"
+  branch: null
+  swift: DEBEEGC1
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "6TH OF OCTOBER"
+  branch: null
+  swift: ARLBEGCAOCT
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: ARLBEGCAALX
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "ALEXANDRIA"
+  branch: TALAT HARB BRANCH
+  swift: ARLBEGCATLH
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "ARISH"
+  branch: null
+  swift: ARLBEGCAARI
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "ASWAN"
+  branch: null
+  swift: ARLBEGCAASW
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "CAIRO"
+  branch: CAIRO BRANCH
+  swift: ARLBEGCACAI
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "CAIRO"
+  branch: EL NASR BRANCH
+  swift: ARLBEGCANSR
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "CAIRO"
+  branch: HELIOPOLIC BRANCH
+  swift: ARLBEGCAHIL
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "CAIRO"
+  branch: HOLWAN BRANCH
+  swift: ARLBEGCAHOL
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "CAIRO"
+  branch: MASHHADY BRANCH
+  swift: ARLBEGCAMOF
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "CAIRO"
+  branch: MOHADESSEN BRANCH
+  swift: ARLBEGCAMOH
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "DOMIAT"
+  branch: null
+  swift: ARLBEGCADIM
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "EL MANSOURA"
+  branch: null
+  swift: ARLBEGCAMAN
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "EL MENIA"
+  branch: null
+  swift: ARLBEGCAMIN
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "EL ZAGAZIG"
+  branch: null
+  swift: ARLBEGCAZAG
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "GIZA"
+  branch: null
+  swift: ARLBEGCA
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "GIZA"
+  branch: null
+  swift: ARLBEGCADOK
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "HURGHADA"
+  branch: null
+  swift: ARLBEGCAHRG
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "ISMAILIA"
+  branch: null
+  swift: ARLBEGCAISM
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "LUXOR"
+  branch: null
+  swift: ARLBEGCALUX
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "MARSA MATROUH"
+  branch: null
+  swift: ARLBEGCAMAT
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "MIT GHAMR"
+  branch: MIT GHAMR NEW BRANCH
+  swift: ARLBEGC1MTG
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "PORT SAID"
+  branch: null
+  swift: ARLBEGCAPOR
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "SHIBIN EL KOM"
+  branch: NEW BRANCH
+  swift: ARLBEGC1SHB
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "SHOROUK"
+  branch: null
+  swift: ARLBEGCASHR
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "TANTA"
+  branch: NEW BRANCH
+  swift: ARLBEGC1TN2
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "TANTA"
+  branch: null
+  swift: ARLBEGCATNT
+    
+- name: "EGYPTIAN BANKS COMPANY FOR TECHNOLOGICAL ADVANCEMENT, SAE"
+  city: "CAIRO"
+  branch: null
+  swift: EBCGEGC1
+    
+- name: "EGYPTIAN FINANCIAL GROUP"
+  city: "CAIRO"
+  branch: null
+  swift: EGFGEGC1
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "6TH OF OCTOBER"
+  branch: null
+  swift: EGGBEGCAOCT
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: EGGBEGCAALX
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "CAIRO"
+  branch: AL-AZHAR
+  swift: EGGBEGCAAZH
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "CAIRO"
+  branch: BILLS CENTER
+  swift: EGGBEGCABLS
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "CAIRO"
+  branch: GARDEN CITY
+  swift: EGGBEGCACAI
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: EGGBEGCAHEL
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "CAIRO"
+  branch: LC'S CENTER
+  swift: EGGBEGCALCS
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "CAIRO"
+  branch: LG'S CENTER
+  swift: EGGBEGCALGS
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "CAIRO"
+  branch: MERGHANY BRANCH
+  swift: EGGBEGCAMER
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "CAIRO"
+  branch: MOHANDSEEN BRANCH
+  swift: EGGBEGCAMOH
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "CAIRO"
+  branch: SPORTING CLUB
+  swift: EGGBEGCAHSC
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "CAIRO"
+  branch: null
+  swift: EGGBEGCA
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "EL MANSOURA"
+  branch: MANSOURA BRANCH
+  swift: EGGBEGCAMAN
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "GIZA"
+  branch: PAY
+  swift: EGGBEGCAPAY
+    
+- name: "EGYPTIAN GULF BANK"
+  city: "THE TENTH OF RAMADAN"
+  branch: THE TENTH OF RAMADAN BRANCH
+  swift: EGGBEGCARAM
+    
+- name: "EGYPTIAN INVESTOR PROTECTION FUND"
+  city: "CAIRO"
+  branch: null
+  swift: EIPFEGCA
+    
+- name: "EGYPTIAN WORKERS BANK"
+  city: "CAIRO"
+  branch: null
+  swift: EWBAEGC1
+    
+- name: "EL SAFWA FOR SECURITIES TRADING"
+  city: "CAIRO"
+  branch: null
+  swift: SASDEGC1
+    
+- name: "EL SALAM CO."
+  city: "CAIRO"
+  branch: null
+  swift: SALMEGC1
+    
+- name: "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: EBILEGCXALX
+    
+- name: "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)"
+  city: "CAIRO"
+  branch: DOKKI BRANCH
+  swift: EBILEGCXDOK
+    
+- name: "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)"
+  city: "CAIRO"
+  branch: GARDEN CITY BRANCH
+  swift: EBILEGCXGAR
+    
+- name: "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)"
+  city: "CAIRO"
+  branch: GLEIM BRANCH
+  swift: EBILEGCXGLM
+    
+- name: "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: EBILEGCXHEL
+    
+- name: "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)"
+  city: "CAIRO"
+  branch: null
+  swift: EBILEGCX
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "6TH OF OCTOBER"
+  branch: OCTOBER BRANCH
+  swift: EXDEEGCXOCT
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "AL OBOUR"
+  branch: AL OBOUR
+  swift: EXDEEGCXOBO
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: BORG EL ARAB
+  swift: EXDEEGCXBRG
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: ROSHDY BRANCH
+  swift: EXDEEGCXRSH
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: SELSELA BRANCH
+  swift: EXDEEGCXALX
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "CAIRO"
+  branch: DOKKI MOSADAK BRANCH
+  swift: EXDEEGCXDOK
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HEAD OFFICE
+  swift: EXDEEGCXHED
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HEGAZ BRANCH
+  swift: EXDEEGCXHEG
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MAIN BRANCH
+  swift: EXDEEGCXMOH
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "CAIRO"
+  branch: NASR CITY
+  swift: EXDEEGCXNCT
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "CAIRO"
+  branch: OROUBA BRANCH
+  swift: EXDEEGCXOBR
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ZAMALEK BRANCH
+  swift: EXDEEGCXZAM
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "CAIRO"
+  branch: null
+  swift: EXDEEGCX
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "GIZA"
+  branch: FISAL
+  swift: EXDEEGCXFSL
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "GIZA"
+  branch: NILE BRANCH
+  swift: EXDEEGCXNIL
+    
+- name: "EXPORT DEVELOPMENT BANK OF EGYPT"
+  city: "THE TENTH OF RAMADAN"
+  branch: RAMADAN BRANCH
+  swift: EXDEEGCXRAM
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "6TH OF OCTOBER"
+  branch: 6TH OF OCTOBER BRANCH
+  swift: FIEGEGCXOCT
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "AL OBOUR"
+  branch: EL-OBOUR
+  swift: FIEGEGCXOBR
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: FIEGEGCXALX
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA II BRANCH
+  swift: FIEGEGCXAX2
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: EL-AGMY BRANCH
+  swift: FIEGEGCXAX4
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: MUNTAZAH
+  swift: FIEGEGCXAX3
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "ASSUIT"
+  branch: ASSUIT BRANCH
+  swift: FIEGEGCXASU
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "ASWAN"
+  branch: ASWAN BRANCH
+  swift: FIEGEGCXASW
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "BANHA"
+  branch: BANHA BRANCH
+  swift: FIEGEGCXBNH
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: 10 OF RAMANDAN CITY
+  swift: FIEGEGCXASH
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AL-AZHAR BRANCH
+  swift: FIEGEGCXAZH
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-SAYDAH ZINAB
+  swift: FIEGEGCXZNB
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: GHAMRA BRANCH
+  swift: FIEGEGCXGHM
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: FIEGEGCXHEL
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: FIEGEGCXNSR
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SHOUBRA
+  swift: FIEGEGCXSHB
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ZEZENIA
+  swift: FIEGEGCXZEN
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: null
+  swift: FIEGEGCX
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: null
+  swift: FIEGEGCXCAI
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "CAIRO"
+  branch: null
+  swift: FIEGEGCXMDN
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "DAMANHOUR"
+  branch: DAMANHOUR BRANCH
+  swift: FIEGEGCXDMN
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "DOMIAT"
+  branch: DAMIETTA BRANCH
+  swift: FIEGEGCXDOM
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "EL FAYOUM"
+  branch: FAYOUM
+  swift: FIEGEGCXFYM
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "EL MAHALA EL KOBRA"
+  branch: EL MAHALA AL KOBRA BRANCH
+  swift: FIEGEGCXMHL
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "EL MANSOURA"
+  branch: AL MANSOURA BRANCH
+  swift: FIEGEGCXMNS
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "EL MENIA"
+  branch: EL-MENIA BRANCH
+  swift: FIEGEGCXMIN
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "EL ZAGAZIG"
+  branch: null
+  swift: FIEGEGCXZAG
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "GIZA"
+  branch: DOKKI BRANCH
+  swift: FIEGEGCXDOK
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "GIZA"
+  branch: EL-HARAM BRANCH
+  swift: FIEGEGCXHRM
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "GIZA"
+  branch: INTERNATIONAL DIVISION
+  swift: FIEGEGCXITD
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "GIZA"
+  branch: null
+  swift: FIEGEGCXMAI
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "ISMAILIA"
+  branch: ISMAILIA BRANCH
+  swift: FIEGEGCXISM
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "KENA"
+  branch: QENA
+  swift: FIEGEGCXQNA
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "PORT SAID"
+  branch: PORT SAID
+  swift: FIEGEGCXPSD
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "SOHAG"
+  branch: SOHAG BRANCH
+  swift: FIEGEGCXSOH
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "SUEZ"
+  branch: SUEZ BRANCH
+  swift: FIEGEGCXSUE
+    
+- name: "FAISAL ISLAMIC BANK OF EGYPT"
+  city: "TANTA"
+  branch: TANTA BRANCH
+  swift: FIEGEGCXTAN
+    
+- name: "FINANCIAL BROKERAGE GROUP"
+  city: "GIZA"
+  branch: null
+  swift: FIBGEGC1
+    
+- name: "FINANCIAL BROKERAGE GROUP (FBG)"
+  city: "CAIRO"
+  branch: ASSETS MANAGEMENT OPERATION
+  swift: EFGHEGCAAMO
+    
+- name: "FINANCIAL BROKERAGE GROUP (FBG)"
+  city: "CAIRO"
+  branch: FINANCIAL BROKERAGE GROUP
+  swift: EFGHEGCAFBG
+    
+- name: "FINANCIAL BROKERAGE GROUP (FBG)"
+  city: "CAIRO"
+  branch: null
+  swift: EFGHEGCA
+    
+- name: "FLEMING MANSOUR SECURITIES BROKERAGE"
+  city: "CAIRO"
+  branch: null
+  swift: FMSREGC1
+    
+- name: "FORTUNE SECURITIES CO."
+  city: "CAIRO"
+  branch: null
+  swift: FOSCEGC1
+    
+- name: "HC BROKERAGE(S.A.E)"
+  city: "GIZA"
+  branch: null
+  swift: HCBREGC1
+    
+- name: "HOUSING AND DEVELOPMENT BANK"
+  city: "CAIRO"
+  branch: MAIN BRANCH
+  swift: HDBKEGCAZAM
+    
+- name: "HOUSING AND DEVELOPMENT BANK"
+  city: "GIZA"
+  branch: null
+  swift: HDBKEGCA
+    
+- name: "HSBC BANK EGYPT S.A.E"
+  city: "MAADI"
+  branch: null
+  swift: EBBKEGCX
+    
+- name: "HSBC JAMES CAPEL BROKERAGE-EGYPT S.A.E."
+  city: "CAIRO"
+  branch: null
+  swift: HJCREGC1
+    
+- name: "HSBC SECURITIES EGYPT S.A.E."
+  city: "CAIRO"
+  branch: null
+  swift: HCESEGC1
+    
+- name: "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: null
+  swift: DIBBEGCA0AL
+    
+- name: "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT"
+  city: "CAIRO"
+  branch: BRANCH
+  swift: DIBBEGCA0C3
+    
+- name: "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT"
+  city: "CAIRO"
+  branch: CAIRO BRANCH
+  swift: DIBBEGCACAI
+    
+- name: "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL SALAAM BRANCH
+  swift: DIBBEGCA0A6
+    
+- name: "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT"
+  city: "CAIRO"
+  branch: FINANCIAL DEPARTMENT
+  swift: DIBBEGCAFIN
+    
+- name: "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HEAD OFFICE - EL GALAA BUILDING
+  swift: DIBBEGCA
+    
+- name: "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HEAD OFFICE - UNICO BUILDING
+  swift: DIBBEGCA0C2
+    
+- name: "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT"
+  city: "PORT SAID"
+  branch: null
+  swift: DIBBEGCA0A5
+    
+- name: "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT"
+  city: "TANTA"
+  branch: null
+  swift: DIBBEGCA03B
+    
+- name: "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT"
+  city: "THE TENTH OF RAMADAN"
+  branch: CITY BRANCH
+  swift: DIBBEGCA0A4
+    
+- name: "LOUXOR BROKERAGE CO"
+  city: "CAIRO"
+  branch: null
+  swift: LOBREGC1
+    
+- name: "MASHREQ BANK"
+  city: "CAIRO"
+  branch: CORPORATE BANK
+  swift: MSHQEGCACBG
+    
+- name: "MASHREQ BANK"
+  city: "CAIRO"
+  branch: RETAIL BANK
+  swift: MSHQEGCARBG
+    
+- name: "MASHREQ BANK"
+  city: "CAIRO"
+  branch: TREASURY
+  swift: MSHQEGCATCM
+    
+- name: "MASHREQ BANK"
+  city: "CAIRO"
+  branch: null
+  swift: MSHQEGCA
+    
+- name: "MCSD MISR FOR CLEARING,DEPOSITORY AND REGISTRY"
+  city: "CAIRO"
+  branch: EGYPTIAN INVESTOR PROTECTION FUND DEPARTMENT 
+  swift: MCSDEGCAIPF
+    
+- name: "MCSD MISR FOR CLEARING,DEPOSITORY AND REGISTRY"
+  city: "CAIRO"
+  branch: null
+  swift: MCSDEGCA
+    
+- name: "MEGA INVESTMENTS SECURITIES"
+  city: "GIZA"
+  branch: null
+  swift: MISHEGC1
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "6TH OF OCTOBER"
+  branch: 6TH OF OCTOBER BRANCH
+  swift: MIDBEGCXOCT
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "6TH OF OCTOBER"
+  branch: UNIVERSITY OF 6 OCTOBER BRANCH
+  swift: MIDBEGCXUNV
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: MIDBEGCXALX
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "BANI SUEF"
+  branch: BANI SWAIF BRANCH
+  swift: MIDBEGCXBNS
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "CAIRO"
+  branch: ADLY BRANCH
+  swift: MIDBEGCXADL
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: MIDBEGCXHLP
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "CAIRO"
+  branch: MAADI BRANCH
+  swift: MIDBEGCXMAD
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: MIDBEGCXNSR
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "CAIRO"
+  branch: NEW CAIRO BR
+  swift: MIDBEGCXNCA
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "DAMIETA"
+  branch: null
+  swift: MIDBEGCXDAM
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "GIZA"
+  branch: ACCOUNTING DEPT.
+  swift: MIDBEGCXACC
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "GIZA"
+  branch: DEALING DEPT.
+  swift: MIDBEGCXDEL
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "GIZA"
+  branch: DOCUMENTARY CREDIT DEPT.
+  swift: MIDBEGCXLCD
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "GIZA"
+  branch: GIZA BRANCH
+  swift: MIDBEGCXGZA
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "GIZA"
+  branch: MOHADESEEN BRANCH
+  swift: MIDBEGCXMHD
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "GIZA"
+  branch: null
+  swift: MIDBEGCX
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: MIDBEGCXPTS
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "SUHAG"
+  branch: SUHAG BR
+  swift: MIDBEGCXSUH
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "TANTA"
+  branch: TANTA BRANCH
+  swift: MIDBEGCXTAT
+    
+- name: "MISR IRAN DEVELOPMENT BANK"
+  city: "THE TENTH OF RAMADAN"
+  branch: THE TENTH OF RAMADAN BRANCH
+  swift: MIDBEGCXRAM
+    
+- name: "MOBIS AUTO PARTS MIDDLE EAST EGYPT"
+  city: "ALEXANDRIA"
+  branch: null
+  swift: HYMOEGA1
+    
+- name: "MOHANDES BANK"
+  city: "CAIRO"
+  branch: null
+  swift: MOHBEGC1
+    
+- name: "MUBASHER SECURITIES"
+  city: "CAIRO"
+  branch: null
+  swift: MUSSEGC1
+    
+- name: "MUBASHER TRADE"
+  city: "CAIRO"
+  branch: null
+  swift: MUBREGC1
+    
+- name: "NAEEM BROKERAGE"
+  city: "GIZA"
+  branch: null
+  swift: NAEEEGC1
+    
+- name: "NASSER SOCIAL BANK"
+  city: "CAIRO"
+  branch: null
+  swift: NSOBEGC1
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: NBADEGCAALX
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA CITY
+  swift: NBADEGCAACC
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "ALEXANDRIA"
+  branch: SAN STEFANO BRANCH
+  swift: NBADEGCASTF
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "ALEXANDRIA"
+  branch: SPORTING BRANCH
+  swift: NBADEGCASPT
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "ASSUIT"
+  branch: ASSIUT BRANCH
+  swift: NBADEGCAASU
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: ABBAS AL AKAAD BRANCH - NASR CITY
+  swift: NBADEGCAAKD
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: CHOUIFAT BRANCH
+  swift: NBADEGCACHF
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: EL OBOUR CITY BRANCH
+  swift: NBADEGCAOBR
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: EL-HEGAZ BRANCH
+  swift: NBADEGCAHGZ
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: GIZA BRANCH
+  swift: NBADEGCAGZA
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: NBADEGCAHLP
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: MAADI BRANCH
+  swift: NBADEGCAMAD
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: MOHANDESSIN BRANCH
+  swift: NBADEGCAMHD
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: NATIONAL BANK OF ABU DHABI, CASH MANAGEMENT SOLUTTION
+  swift: NBADEGCACMS
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: PAYMENTS SERVICES UNIT - CENTRAL OPERATIONS DIVISION
+  swift: NBADEGCAPSU
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: SHOUBRA BRANCH
+  swift: NBADEGCASHB
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: TALAAT HARB BRANCH
+  swift: NBADEGCATHB
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: TFO 
+  swift: NBADEGCATFO
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "CAIRO"
+  branch: null
+  swift: NBADEGCA
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "DOMIAT"
+  branch: DAMIETTA BRANCH
+  swift: NBADEGCADMT
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "EL MANSOURA"
+  branch: MANSOURA BRANCH
+  swift: NBADEGCAMNS
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "GHARBIA"
+  branch: TANTA BRANCH
+  swift: NBADEGCATNT
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "HURGHADA"
+  branch: HURGHADA BRANCH
+  swift: NBADEGCAHUR
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "HURGHADA"
+  branch: SENZO BRANCH
+  swift: NBADEGCASNZ
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "LUXOR"
+  branch: LUXOR BRANCH
+  swift: NBADEGCALUX
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "MAADI"
+  branch: MAADI CITY CENTER - ELKATAMIA ROAD, MAADI
+  swift: NBADEGCAMAC
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "MAADI"
+  branch: MAADI RING ROAD BRANCH
+  swift: NBADEGCAMRR
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: NBADEGCAPSD
+    
+- name: "NATIONAL BANK OF ABU DHABI"
+  city: "SHARM EL SHEIKH"
+  branch: SHARM EL SHEIKH BRANCH
+  swift: NBADEGCASHK
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ABSHEWAI"
+  branch: ABSHEWAI BRANCH
+  swift: NBEGEGCX501
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ABU SEMBEL"
+  branch: ABU SEMBEL BRANCH
+  swift: NBEGEGCX541
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "AL OBOUR"
+  branch: GOLF CITY EL-OBOUR
+  swift: NBEGEGCX041
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: ABUL ABBAS BRANCH
+  swift: NBEGEGCX220
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: AL-AMERIYA BRANCH
+  swift: NBEGEGCX240
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: NBEGEGCX200
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA PORT BRANCH
+  swift: NBEGEGCX228
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA UNIVERSITY BRANCH
+  swift: NBEGEGCX207
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: AL-MANDRA BRANCH
+  swift: NBEGEGCX229
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: BAKOUS BRANCH
+  swift: NBEGEGCX206
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: CAMP SHEZAR
+  swift: NBEGEGCX233
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: DOWN TOWN BRANCH
+  swift: NBEGEGCX227
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: EL HANOVIL BRANCH
+  swift: NBEGEGCX230
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: EL KABARY  BRANCH
+  swift: NBEGEGCX232
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: EL-AGAMI BRANCH
+  swift: NBEGEGCX204
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: EL-EKBAL BRANCH
+  swift: NBEGEGCX203
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: EL-HANSHIA BRANCH
+  swift: NBEGEGCX202
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: EL-MONTAZAH BRANCH
+  swift: NBEGEGCX205
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: EL-SEYOUF BRANCH
+  swift: NBEGEGCX216
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: ELSHALALAT BRANCH
+  swift: NBEGEGCX224
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: LOCAL LETTERS OF GUARANTEE ALEXANDRIA CENTER
+  swift: NBEGEGCX561
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: LOURAN BRANCH
+  swift: NBEGEGCX239
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: MAHATET EL RAML BRANCH
+  swift: NBEGEGCX215
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: MOHARAM BEIK BRANCH
+  swift: NBEGEGCX210
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: MOSTAFA KAMEL BRANCH
+  swift: NBEGEGCX226
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: ROSHDY BRANCH
+  swift: NBEGEGCX236
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: SAN STEFANO BRANCH
+  swift: NBEGEGCX218
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: SEDI GABER EL SHEIKH  BRANCH
+  swift: NBEGEGCX238
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: SEDI GABER STATION BRANCH
+  swift: NBEGEGCX234
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: SIDIBESHR BRANCH
+  swift: NBEGEGCX231
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: SMOUHA BRANCH
+  swift: NBEGEGCX211
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: SOMOHA CLUB BRANCH
+  swift: NBEGEGCX209
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: TAHIA MASR BRANCH
+  swift: NBEGEGCX235
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: TOSSON BRANCH
+  swift: NBEGEGCX201
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: VECTORYA BRANCH
+  swift: NBEGEGCX222
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ALEXANDRIA"
+  branch: ZEIZINIA BRANCH
+  swift: NBEGEGCX208
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASSUIT"
+  branch: ABU TIG BRANCH
+  swift: NBEGEGCX515
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASSUIT"
+  branch: ASSUIT BRANCH
+  swift: NBEGEGCX514
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASSUIT"
+  branch: ASSUIT UNIVERSITY BRANCH
+  swift: NBEGEGCX516
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASSUIT"
+  branch: DAYROOT BRANCH
+  swift: NBEGEGCX536
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASSUIT"
+  branch: EL-KHARGA BRANCH
+  swift: NBEGEGCX544
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASSUIT"
+  branch: EL-KOSSEYA BRANCH
+  swift: NBEGEGCX535
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASSUIT"
+  branch: SAHEL SELIM  BRANCH
+  swift: NBEGEGCX496
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASSUIT"
+  branch: SEDFA BRANCH
+  swift: NBEGEGCX545
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASSUIT"
+  branch: TIBA LUXOR  BRANCH
+  swift: NBEGEGCX497
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASWAN"
+  branch: ASWAN BRANCH
+  swift: NBEGEGCX528
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASWAN"
+  branch: DERAW BRANCH
+  swift: NBEGEGCX534
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASWAN"
+  branch: EDFOU BRANCH
+  swift: NBEGEGCX529
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASWAN"
+  branch: EL-AQAD BRANCH
+  swift: NBEGEGCX531
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ASWAN"
+  branch: KOM OMBO BRANCH
+  swift: NBEGEGCX530
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "BANHA"
+  branch: BANHA BRANCH
+  swift: NBEGEGCX376
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "BANI MAZAR"
+  branch: BANI MAZAR BRANCH
+  swift: NBEGEGCX510
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "BANI SUEF"
+  branch: BANI SUEF BRANCH
+  swift: NBEGEGCX504
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "BANI SUEF"
+  branch: BOSH BRANCH
+  swift: NBEGEGCX507
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "BANI SUEF"
+  branch: EL-FASHN BRANCH
+  swift: NBEGEGCX505
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "BANI SUEF"
+  branch: EL-WASTA BRANCH
+  swift: NBEGEGCX506
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "BANI SUEF"
+  branch: SHARK BENI SUEF BRANCH
+  swift: NBEGEGCX546
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "BELBEIS"
+  branch: BELBEIS BRANCH
+  swift: NBEGEGCX425
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "BOURG EL ARAB"
+  branch: BOURG EL ARAB BRANCH
+  swift: NBEGEGCX217
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: 15 MAY BRANCH
+  swift: NBEGEGCX087
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ABBAS ELAKAD BRANCH
+  swift: NBEGEGCX073
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ABDEL AZIZ AL SOUD BRANCH
+  swift: NBEGEGCX031
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ABO DAWOOD EL ZAHRY
+  swift: NBEGEGCX021
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ABUBAKR ELSEDEEK
+  swift: NBEGEGCX063
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ADAY BRANCH
+  swift: NBEGEGCX170
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AGHAKHAN BRANCH
+  swift: NBEGEGCX156
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AIN SHAMS BRANCH
+  swift: NBEGEGCX131
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AIRPORT BRANCH
+  swift: NBEGEGCX105
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AL AZHAR ISLAMIC DEALING BRANCH
+  swift: NBEGEGCX190
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AL AZHAR UNIVERSITY BRANCH
+  swift: NBEGEGCX143
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AL BATAL AHMED ABD ELAZIZ BRANCH
+  swift: NBEGEGCX082
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AL TAWFIKIA BRANCH
+  swift: NBEGEGCX119
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ALAMERIA
+  swift: NBEGEGCX068
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ALSERAG MALL BRANCH
+  swift: NBEGEGCX072
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AL-TAYARAN BRANCH
+  swift: NBEGEGCX135
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AL-THAWRA BRANCH
+  swift: NBEGEGCX132
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ALWARRAQ
+  swift: NBEGEGCX062
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ARKADIA BRANCH
+  swift: NBEGEGCX075
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: AUTOSTRAD BRANCH
+  swift: NBEGEGCX198
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: BAB EL SHERIA BRANCH
+  swift: NBEGEGCX043
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: BADR CITY BRANCH
+  swift: NBEGEGCX113
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: CAIRO FESTIVAL BRANCH
+  swift: NBEGEGCX094
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: CAPITAL BRANCH
+  swift: NBEGEGCX009
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: CENTRAL TRANSFERS UNIT (CTU)
+  swift: NBEGEGCX595
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: CITY STARS BRANCH
+  swift: NBEGEGCX139
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: COLLECTION CENTRAL UNIT
+  swift: NBEGEGCX594
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: CORNICHE EL MAADI BRANCH
+  swift: NBEGEGCX159
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: DAR-EL-SALAM
+  swift: NBEGEGCX039
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: DEPOSITS AND LIABILITIES SECTOR
+  swift: NBEGEGCX597
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: DOCUMENTARY CREDITS SECTOR
+  swift: NBEGEGCX910
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL ABSIA BRANCH
+  swift: NBEGEGCX109
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL DOKKI BRANCH
+  swift: NBEGEGCX160
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL FAGGALA BRANCH
+  swift: NBEGEGCX008
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL GOLF BRANCH
+  swift: NBEGEGCX138
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL GOMHORYA BRANCH
+  swift: NBEGEGCX315
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL MATTHAF EL ZERAI BRANCH
+  swift: NBEGEGCX180
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL MERGHANY BRANCH
+  swift: NBEGEGCX137
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL MOSKY BRANCH
+  swift: NBEGEGCX101
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL NASR BRANCH
+  swift: NBEGEGCX002
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL NOZHA BRANCH
+  swift: NBEGEGCX102
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL SABAA  OMARAT  BRANCH
+  swift: NBEGEGCX086
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL SAHEL BRANCH
+  swift: NBEGEGCX142
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL SHERIFAIN BRANCH
+  swift: NBEGEGCX006
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL ZAMALEK CLUB BRANCH
+  swift: NBEGEGCX167
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ELAGOUZA BRANCH
+  swift: NBEGEGCX162
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-AREISH BRANCH
+  swift: NBEGEGCX330
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ELBASATIEN BRANCH
+  swift: NBEGEGCX195
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ELBONYAN BRANCH
+  swift: NBEGEGCX095
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-DEMERDASH BRANCH
+  swift: NBEGEGCX133
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ELGIZA BRANCH
+  swift: NBEGEGCX161
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-HAMZAWI BRANCH
+  swift: NBEGEGCX103
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-HEGAZ BRANCH
+  swift: NBEGEGCX115
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-HELMIA EL-GESTIDA BRANCH
+  swift: NBEGEGCX171
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-KHALIFA EL-MAMOUN BRANCH
+  swift: NBEGEGCX130
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-KHANKA BRANCH
+  swift: NBEGEGCX111
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-KHLFAWY BRANCH
+  swift: NBEGEGCX177
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-MOKATTAM BRANCH
+  swift: NBEGEGCX106
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ELOUI BRANCH
+  swift: NBEGEGCX004
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ELREEAYA ELMOTTAKAMLA BRANCH
+  swift: NBEGEGCX193
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ELREHAB BRANCH
+  swift: NBEGEGCX148
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ELSABEEN BRANCH
+  swift: NBEGEGCX085
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-SAWAH BRANCH
+  swift: NBEGEGCX123
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-SAYEDA ZEINAB BRANCH
+  swift: NBEGEGCX154
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-SEBAK BRANCH
+  swift: NBEGEGCX118
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ELSSID CLUB BRANCH
+  swift: NBEGEGCX120
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EL-ZAYTOWN BRANCH
+  swift: NBEGEGCX122
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: EST CAIRO BRANCH
+  swift: NBEGEGCX155
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: FOREIGN DIVISION
+  swift: NBEGEGCX800
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: FOREIGN RECONCILIATION DEPARTMENT
+  swift: NBEGEGCX599
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: GAMAL ELDIN ABU EL MAHASSIN BRANCH
+  swift: NBEGEGCX191
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: GAMAT EL DWAL EL ARABIA ISLAMIC DEALINGS BRANCH
+  swift: NBEGEGCX189
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: GARDEN CITY BRANCH
+  swift: NBEGEGCX157
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: GAZERNAT EL ARAB BRANCH
+  swift: NBEGEGCX149
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: GESR EL-SUEZ BRANCH
+  swift: NBEGEGCX127
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: GEZIRA BRANCH
+  swift: NBEGEGCX088
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HADAYEK EL-KOBBA BRANCH
+  swift: NBEGEGCX108
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HANDASET AL KAHERA BRANCH
+  swift: NBEGEGCX186
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: NBEGEGCX100
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HELWAN BRANCH
+  swift: NBEGEGCX151
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HELWAN STATION BRANCH
+  swift: NBEGEGCX047
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: HIE ELSEFARAT BRANCH
+  swift: NBEGEGCX076
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: INDUSTRIAL DISTRIC 6 OCTOBER
+  swift: NBEGEGCX183
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: INWARD  LETTERS OF GUARANTEE MAIN CENTER
+  swift: NBEGEGCX565
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: INWARD  LETTERS OF GUARANTEE TOWER CENTER
+  swift: NBEGEGCX564
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: KASR EL AINI BRANCH
+  swift: NBEGEGCX150
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: KOM HAMADA BRANCH
+  swift: NBEGEGCX392
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: LOCAL LETTERS OF GUARANTEE CAIRO CENTER
+  swift: NBEGEGCX560
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MAADI BELHORYA
+  swift: NBEGEGCX196
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MADINTY BRANCH
+  swift: NBEGEGCX079
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MAIN BRANCH
+  swift: NBEGEGCX001
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MAKRAM EBID BRANCH
+  swift: NBEGEGCX140
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MANSHIAT ELBAKRY BRANCH
+  swift: NBEGEGCX046
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MASR AND SUDAN
+  swift: NBEGEGCX066
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MERRYLAND BRANCH
+  swift: NBEGEGCX074
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MERSA MATROUH BRANCH
+  swift: NBEGEGCX213
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MISR EL-KADIMA BRANCH
+  swift: NBEGEGCX176
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MISR STATION BR
+  swift: NBEGEGCX081
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MOSTAFA AL - NAHASS BRANCH
+  swift: NBEGEGCX052
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: MUBARAK ACADEMY BRANCH
+  swift: NBEGEGCX145
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: NADI EL MAADI BRANCH
+  swift: NBEGEGCX194
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: NBEGEGCX104
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: NAZIH KHALIFA BRANCH
+  swift: NBEGEGCX128
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: NEKABET ELMOHANDSEEN BRANCH
+  swift: NBEGEGCX124
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: NEW CAIRO BRANCH
+  swift: NBEGEGCX146
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: NORTH CAIRO BRANCH
+  swift: NBEGEGCX110
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: OLYMBIC CENTER MAADI
+  swift: NBEGEGCX033
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: OMER EBN ELKHATAB BRANCH
+  swift: NBEGEGCX144
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: OMRAT EL OUBOR BRANCH
+  swift: NBEGEGCX032
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ORUBA BRANCH
+  swift: NBEGEGCX134
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: OUTWARD  LETTERS OF GUARANTEE  CENTER
+  swift: NBEGEGCX563
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: PETROSPORT BRANCH
+  swift: NBEGEGCX147
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: PYRAMIDS BRANCH
+  swift: NBEGEGCX163
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: PYRAMIZA BRANCH
+  swift: NBEGEGCX169
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: RABAA EL ADAWYA BRANCH
+  swift: NBEGEGCX125
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: RAMSIS BRANCH
+  swift: NBEGEGCX007
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: RISK MANAGEMENT DIVISION
+  swift: NBEGEGCX667
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ROAD EL FARAG BRANCH
+  swift: NBEGEGCX152
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ROXY BRANCH
+  swift: NBEGEGCX126
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SAMA ELMAADI BRANCH
+  swift: NBEGEGCX172
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SARAYAT EL MAADI BRANCH
+  swift: NBEGEGCX158
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SARWAT BRANCH
+  swift: NBEGEGCX003
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SECURITIES ACCOUNTING DEPT
+  swift: NBEGEGCX589
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SECURITIES DEPARTMENT
+  swift: NBEGEGCX820
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SHERATON HELIPOLES BRANCH
+  swift: NBEGEGCX078
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SHOBRA EL-KHEMA BRANCH
+  swift: NBEGEGCX173
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SHOUBRA BRANCH
+  swift: NBEGEGCX153
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SOQ OCT BRANCH
+  swift: NBEGEGCX065
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: SOUK ELGOMLA BRANCH
+  swift: NBEGEGCX136
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: TIBA 2000 BRANCH
+  swift: NBEGEGCX121
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: TOWER BRANCH
+  swift: NBEGEGCX077
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: TREASURY DEPT.,BACK OFFICE
+  swift: NBEGEGCX626
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: TRIUMPH BRANCH
+  swift: NBEGEGCX129
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: YOUSSEF ABBAS BRANCH
+  swift: NBEGEGCX056
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ZAHRAA ALMAADY BRANCH
+  swift: NBEGEGCX096
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: ZAKER HUSSIEN BRANCH
+  swift: NBEGEGCX053
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "CAIRO"
+  branch: null
+  swift: NBEGEGCX
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "DAHAB"
+  branch: DAHAB BRANCH
+  swift: NBEGEGCX353
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "DAMANHOUR"
+  branch: DAMANHOUR BRANCH
+  swift: NBEGEGCX390
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "DESOUK"
+  branch: DESOUK BRANCH
+  swift: NBEGEGCX399
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "DOMIAT"
+  branch: AZBET ELBOURG BRANCH
+  swift: NBEGEGCX409
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "DOMIAT"
+  branch: DOMIAT BRANCH
+  swift: NBEGEGCX410
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "DOMIAT"
+  branch: EL NAHDA BRANCH
+  swift: NBEGEGCX408
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "DOMIAT"
+  branch: EL ZARKA BRANCH
+  swift: NBEGEGCX411
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL BEHIRRA"
+  branch: ABOU HOMOUS BRANCH
+  swift: NBEGEGCX389
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL BEHIRRA"
+  branch: BEHIRRA BRANCH
+  swift: NBEGEGCX237
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL BEHIRRA"
+  branch: EDKO BRANCH
+  swift: NBEGEGCX212
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL BEHIRRA"
+  branch: ETAI ELBAROUD BRANCH
+  swift: NBEGEGCX393
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL BEHIRRA"
+  branch: RASHEED BRANCH
+  swift: NBEGEGCX394
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL DAKAHLIAA"
+  branch: BELQAS BRANCH
+  swift: NBEGEGCX440
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL DAKAHLIAA"
+  branch: DEKERNES BRANCH
+  swift: NBEGEGCX437
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL DAKAHLIAA"
+  branch: EL-MANZALA BRANCH
+  swift: NBEGEGCX436
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL DAKAHLIAA"
+  branch: GAMASA BRANCH
+  swift: NBEGEGCX451
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL DAKAHLIAA"
+  branch: KORNISH MEET GHAMR BRANCH
+  swift: NBEGEGCX449
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL DAKAHLIAA"
+  branch: SHERBIN  BRANCH
+  swift: NBEGEGCX450
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL FAYOUM"
+  branch: EL FAYOUM BRANCH
+  swift: NBEGEGCX500
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL FAYOUM"
+  branch: ELFAYOUM UNIVERSITY
+  swift: NBEGEGCX548
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL FAYOUM"
+  branch: EL-HORRIA BRANCH
+  swift: NBEGEGCX502
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL FAYOUM"
+  branch: KOM OSHEEM BRANCH
+  swift: NBEGEGCX538
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL GHARBIAA"
+  branch: BASYOUN BRANCH
+  swift: NBEGEGCX378
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL GHARBIAA"
+  branch: EL-SANTA BRANCH
+  swift: NBEGEGCX383
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL GHARBIAA"
+  branch: KOTOUR BRANCH
+  swift: NBEGEGCX435
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MAHALA EL KOBRA"
+  branch: EL MAHALA EL KOBRA BRANCH
+  swift: NBEGEGCX380
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MAHALA EL KOBRA"
+  branch: SHOKRY ELKWATLY BRANCH
+  swift: NBEGEGCX448
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MANSOURA"
+  branch: EL DAKAHLIA GOVERNORATE BRANCH
+  swift: NBEGEGCX438
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MANSOURA"
+  branch: EL MANSOURA UNIVERISTY BRANCH
+  swift: NBEGEGCX433
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MANSOURA"
+  branch: ELKHOLAFA ELRASHEDEEN BR
+  swift: NBEGEGCX387
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MANSOURA"
+  branch: MANSOURA BRANCH
+  swift: NBEGEGCX432
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENIA"
+  branch: ABO QURQAS BRANCH
+  swift: NBEGEGCX549
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENIA"
+  branch: EL MENIA BRANCH
+  swift: NBEGEGCX508
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENIA"
+  branch: EL MENIA UNIVERSITY BRANCH
+  swift: NBEGEGCX509
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENIA"
+  branch: MATAY BRANCH
+  swift: NBEGEGCX492
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENOUFIAA"
+  branch: ASHMOON BRANCH
+  swift: NBEGEGCX429
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENOUFIAA"
+  branch: BERKIT ELSABAE BRANCH
+  swift: NBEGEGCX431
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENOUFIAA"
+  branch: EL SHOHADA BRANCH
+  swift: NBEGEGCX418
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENOUFIAA"
+  branch: EL-BAGOUR BRANCH
+  swift: NBEGEGCX414
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENOUFIAA"
+  branch: EL-GALAA BRANCH
+  swift: NBEGEGCX416
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENOUFIAA"
+  branch: MENOFYA UNIVERSITY
+  swift: NBEGEGCX406
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL MENOUFIAA"
+  branch: SERS EL-LAYAAN BRANCH
+  swift: NBEGEGCX419
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL SADAT CITY"
+  branch: EL SADAT CITY BRANCH
+  swift: NBEGEGCX413
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL SENBELAWANE"
+  branch: EL SENBELAWANE BRANCH
+  swift: NBEGEGCX439
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL SHARKIAA"
+  branch: ABOU HAMMAD BRANCH
+  swift: NBEGEGCX423
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL SHARKIAA"
+  branch: ABOUKBEER BRANCH
+  swift: NBEGEGCX428
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL SHARKIAA"
+  branch: AL-YASMIN  BRANCH
+  swift: NBEGEGCX023
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL SHARKIAA"
+  branch: EL-EBRAHIMIA BRANCH
+  swift: NBEGEGCX424
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL SHARKIAA"
+  branch: MASHTOUL ELSOUK BRANCH
+  swift: NBEGEGCX447
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL SHARKIAA"
+  branch: MENIA EL-KAMH BRANCH
+  swift: NBEGEGCX427
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL ZAGAZIG"
+  branch: AHMED ORABY BRANCH
+  swift: NBEGEGCX430
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "EL ZAGAZIG"
+  branch: EL ZAGAZIG BRANCH
+  swift: NBEGEGCX421
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ELBAHR ELAHMAR"
+  branch: EL-KOSEIR BRANCH
+  swift: NBEGEGCX342
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ELBAHR ELAHMAR"
+  branch: MARSA ALAM BRANCH
+  swift: NBEGEGCX346
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ELBAHR ELAHMAR"
+  branch: RAS GHAREB BRANCH
+  swift: NBEGEGCX343
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ELBAHR ELAHMAR"
+  branch: SAFAGA BRANCH
+  swift: NBEGEGCX344
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ELBAHR ELAHMER"
+  branch: ELSHALATEEN BRANCH
+  swift: NBEGEGCX542
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "FAKKOUS"
+  branch: FAKKOUS BRANCH
+  swift: NBEGEGCX426
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GERGA"
+  branch: GERGA BRANCH
+  swift: NBEGEGCX521
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: ABU EL-FEDDA BRANCH
+  swift: NBEGEGCX116
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: AL BARAGIL BRANCH
+  swift: NBEGEGCX069
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: AMERICANA PLAZA   BRANCH
+  swift: NBEGEGCX098
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: AWEL ELHARAM BRANCH
+  swift: NBEGEGCX097
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: BEN EL SARAIAT BRANCH
+  swift: NBEGEGCX036
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: BEVERLY HILLS BRANCH
+  swift: NBEGEGCX055
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: CAIRO UNIVERSITY BRANCH
+  swift: NBEGEGCX164
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: DR ABD EL HALIM MAHMOUD   BRANCH
+  swift: NBEGEGCX089
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: EL BDRASHEEN BRANCH
+  swift: NBEGEGCX166
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: EL JEZERA BRANCH
+  swift: NBEGEGCX054
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: EL MARIOTIA BRANCH
+  swift: NBEGEGCX058
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: EL MUNIB BRANCH
+  swift: NBEGEGCX035
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: EL-BAHR EL-AAZAM BRANCH
+  swift: NBEGEGCX179
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: EL-NIL BRANCH
+  swift: NBEGEGCX165
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: EL-RODA BRANCH
+  swift: NBEGEGCX117
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: EL-SAFF BRANCH
+  swift: NBEGEGCX181
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: EL-TAKAMOL BRANCH
+  swift: NBEGEGCX174
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: EMBABA BRANCH
+  swift: NBEGEGCX168
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: FAISAL BRANCH
+  swift: NBEGEGCX187
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: HADABET ELAHRAM BRANCH
+  swift: NBEGEGCX048
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: MALL MASR BRANCH
+  swift: NBEGEGCX038
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: MARAGHY BRANCH IN AGOUZA
+  swift: NBEGEGCX092
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: MESADAK BRANCH
+  swift: NBEGEGCX185
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: MOHANDSEEN BRANCH
+  swift: NBEGEGCX083
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: MOHEY ELDIN ABO EL EZZ BRANCH
+  swift: NBEGEGCX099
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: NAGUIB MAHFOUZ BRANCH
+  swift: NBEGEGCX049
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: OM EL MASRYEN
+  swift: NBEGEGCX044
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: OMRANIA BRANCH
+  swift: NBEGEGCX064
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: OSIM BRANCH
+  swift: NBEGEGCX045
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: SPHINX BRANCH
+  swift: NBEGEGCX188
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: STAR MALL BRANCH
+  swift: NBEGEGCX037
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "GIZA"
+  branch: WEST SOMID BRANCH
+  swift: NBEGEGCX090
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "HEHIA"
+  branch: HEHIA BRANCH
+  swift: NBEGEGCX444
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "HURGHADA"
+  branch: ELMAMSHA BRANCH
+  swift: NBEGEGCX357
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "HURGHADA"
+  branch: EMPIRE BRANCH
+  swift: NBEGEGCX355
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "HURGHADA"
+  branch: HAY EL SAKALLA BRANCH
+  swift: NBEGEGCX356
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "HURGHADA"
+  branch: HAY EL-DAHAR BRANCH
+  swift: NBEGEGCX347
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "HURGHADA"
+  branch: HURGHADA BRANCH
+  swift: NBEGEGCX341
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ISMAILIA"
+  branch: AL THALATHINY BRANCH
+  swift: NBEGEGCX358
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ISMAILIA"
+  branch: EL ESMAELIA BRANCH
+  swift: NBEGEGCX300
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ISMAILIA"
+  branch: ELTAL ELKEBEER BRANCH
+  swift: NBEGEGCX303
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ISMAILIA"
+  branch: FAYED BRANCH
+  swift: NBEGEGCX302
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ISMAILIA"
+  branch: HAY ELSALAM BRANCH
+  swift: NBEGEGCX304
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ISMAILIA"
+  branch: SUEZ CANAL UNIVERSITY BRANCH
+  swift: NBEGEGCX301
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KAFR EL DAWAR"
+  branch: KAFR EL DAWAR BRANCH
+  swift: NBEGEGCX391
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KAFR EL SHEIKH"
+  branch: KAFR EL SHEIKH BRANCH
+  swift: NBEGEGCX396
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KAFR EL ZAYAT"
+  branch: KAFR EL ZAYAT BRANCH
+  swift: NBEGEGCX385
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KAFR ELSHIGH"
+  branch: BALTEEM BRANCH
+  swift: NBEGEGCX398
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KAFR ELSHIGH"
+  branch: BEYALA BRANCH
+  swift: NBEGEGCX397
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KAFR ELSHIGH"
+  branch: QELLIN BRANCH
+  swift: NBEGEGCX395
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KAFR ELSHIGH"
+  branch: SIDI SALEM BRANCH
+  swift: NBEGEGCX400
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KAFR SAKR"
+  branch: KAFR SAKR BRANCH
+  swift: NBEGEGCX420
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KENA"
+  branch: FARSHOUT BRANCH
+  swift: NBEGEGCX532
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KENA"
+  branch: KENA BRANCH
+  swift: NBEGEGCX523
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KENA"
+  branch: NAKADA BRANCH
+  swift: NBEGEGCX527
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KENA"
+  branch: QEFT BRANCH
+  swift: NBEGEGCX525
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KENA"
+  branch: QOUS BRANCH
+  swift: NBEGEGCX540
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "KENA"
+  branch: SOUTH VALLEY UNIVERSITY
+  swift: NBEGEGCX537
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "LUXOR"
+  branch: ESNA  BRANCH
+  swift: NBEGEGCX495
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "LUXOR"
+  branch: LUXOR BRANCH
+  swift: NBEGEGCX524
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "MAADI"
+  branch: STREET 9 EL MAADI
+  swift: NBEGEGCX061
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "MAGHAGHA"
+  branch: MAGHAGHA BRANCH
+  swift: NBEGEGCX512
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "MALLAWI"
+  branch: MALLAWI BRANCH
+  swift: NBEGEGCX513
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "MANFALOT"
+  branch: MANFALOT BRANCH
+  swift: NBEGEGCX517
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "MARSA ALAM"
+  branch: ELMADINA MARSA ALAM BRANCH
+  swift: NBEGEGCX305
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "MARSA MATROUH"
+  branch: EL HAMAM BRANCH
+  swift: NBEGEGCX223
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "MARSA MATROUH"
+  branch: EL-SALOOM BRANCH
+  swift: NBEGEGCX219
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "MENIA EL KAMH"
+  branch: DIARB NEGM BRANCH
+  swift: NBEGEGCX422
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "MENOUF"
+  branch: MENOUF BRANCH
+  swift: NBEGEGCX417
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "MIT GHAMR"
+  branch: MIT GHAMR BRANCH
+  swift: NBEGEGCX434
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "NAGA HAMMADI"
+  branch: NAGA HAMMADI BRANCH
+  swift: NBEGEGCX526
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "NEW CAIRO"
+  branch: AL QRONFEL BRANCH
+  swift: NBEGEGCX067
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "NEW CAIRO"
+  branch: EL HAMD MALL BRANCH
+  swift: NBEGEGCX051
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "NEW CAIRO"
+  branch: LETTERS OF GUARANTEE CONTROL UNIT
+  swift: NBEGEGCX585
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "NEW CAIRO"
+  branch: WATERWAY BRANCH
+  swift: NBEGEGCX042
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "NEWEBAA"
+  branch: NEWEBAA BRANCH
+  swift: NBEGEGCX352
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "NORTH SINAI"
+  branch: RAFAH BRANCH
+  swift: NBEGEGCX335
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "PORT SAID"
+  branch: 23 JULY BRANCH
+  swift: NBEGEGCX313
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "PORT SAID"
+  branch: EL KUWAIT AVENUE BRANCH
+  swift: NBEGEGCX311
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "PORT SAID"
+  branch: LOCAL LETTERS OF GUARANTEE CANAL  CENTER
+  swift: NBEGEGCX562
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "PORT SAID"
+  branch: PORT FOUAD BRANCH
+  swift: NBEGEGCX312
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: NBEGEGCX310
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "PORT SAID"
+  branch: PORT-SAID-AL GOMROK BRANCH
+  swift: NBEGEGCX314
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "QAHA"
+  branch: QAHA BRANCH
+  swift: NBEGEGCX375
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "QALIOBIA"
+  branch: EL-KANATER ELKHAYRIA BRANCH
+  swift: NBEGEGCX112
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "QALIOBIA"
+  branch: KAFR SHOKR BRANCH
+  swift: NBEGEGCX374
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "QALIOBIA"
+  branch: MANSHEYET ALHORIYA BRANCH
+  swift: NBEGEGCX034
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "QALIOBIA"
+  branch: QALIOB BRANCH
+  swift: NBEGEGCX093
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "QALIOBIA"
+  branch: SAAD ZAGHLOUL BRANCH
+  swift: NBEGEGCX377
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "QALIOBIA"
+  branch: SHEBIN EL KNATER BRANCH
+  swift: NBEGEGCX030
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "QUESNA"
+  branch: MOUBAREK INDUSTRIAL CITY BRANCH
+  swift: NBEGEGCX407
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "QUESNA"
+  branch: QUESNA BRANCH
+  swift: NBEGEGCX415
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SAMALOOT"
+  branch: SAMALOOT BRANCH
+  swift: NBEGEGCX511
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SAMANOUD"
+  branch: SAMANOUD BRANCH
+  swift: NBEGEGCX384
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SHARKYA"
+  branch: AWLAD SAKR BRANCH
+  swift: NBEGEGCX316
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SHARM EL SHEIKH"
+  branch: KHALIG NABAQ BRANCH
+  swift: NBEGEGCX348
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SHARM EL SHEIKH"
+  branch: NAEMA BAY  BRANCH
+  swift: NBEGEGCX349
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SHARM EL SHEIKH"
+  branch: SAVOY SHARM EL SHEIKH  BRANCH
+  swift: NBEGEGCX359
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SHARM EL SHEIKH"
+  branch: SHARM EL SHEIKH BRANCH
+  swift: NBEGEGCX340
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SHIBIN EL KOM"
+  branch: SHEBIN EL KOM BRANCH
+  swift: NBEGEGCX412
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SHOROUK"
+  branch: EL SHOROUK BRANCH
+  swift: NBEGEGCX114
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SHOUBRA"
+  branch: VICTORIA SQUARE
+  swift: NBEGEGCX059
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SOHAG"
+  branch: AKHMIM BRANCH
+  swift: NBEGEGCX499
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SOHAG"
+  branch: EL FATTH BRANCH
+  swift: NBEGEGCX520
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SOHAG"
+  branch: EL-BALYANA BRANCH
+  swift: NBEGEGCX539
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SOHAG"
+  branch: EL-KAWTHER BRANCH
+  swift: NBEGEGCX543
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SOHAG"
+  branch: EL-MARAGHA BRANCH
+  swift: NBEGEGCX518
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SOHAG"
+  branch: SOHAG BRANCH
+  swift: NBEGEGCX519
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SOHAG"
+  branch: SOHAG UNIVERSITY BRANCH
+  swift: NBEGEGCX498
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SOHAG"
+  branch: TAHTA BRANCH
+  swift: NBEGEGCX522
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SOHAG"
+  branch: TEMMA BRANCH
+  swift: NBEGEGCX533
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SOUTH SINAI"
+  branch: EL-TOOR BRANCH
+  swift: NBEGEGCX350
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SUEZ"
+  branch: EL SABBAH BRANCH)
+  swift: NBEGEGCX321
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SUEZ"
+  branch: EL SUEZ BRANCH
+  swift: NBEGEGCX320
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "SUEZ"
+  branch: NORTH SUEZ GULF BRANCH
+  swift: NBEGEGCX354
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "TAMEYA"
+  branch: TAMEYA BRANCH
+  swift: NBEGEGCX503
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "TANTA"
+  branch: ALMOUTASEM
+  swift: NBEGEGCX379
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "TANTA"
+  branch: TANTA BRANCH
+  swift: NBEGEGCX381
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "TANTA"
+  branch: TANTA UNIVERSITY BRANCH
+  swift: NBEGEGCX386
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "THE TENTH OF RAMADAN"
+  branch: EL ASHER MEN RAMADAN BRANCH
+  swift: NBEGEGCX107
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ZAKAZIK"
+  branch: ELNEKABAT BRANCH
+  swift: NBEGEGCX445
+    
+- name: "NATIONAL BANK OF EGYPT"
+  city: "ZEFTA"
+  branch: ZEFTA BRANCH
+  swift: NBEGEGCX382
+    
+- name: "NATIONAL BANK OF GREECE, (EGYPT NETWORK)"
+  city: "GIZA"
+  branch: null
+  swift: ETHNEGCA
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "6TH OF OCTOBER"
+  branch: 6TH OF OCTOBER BRANCH
+  swift: WABAEGCXOCT
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "6TH OF OCTOBER"
+  branch: EL SHEIKH ZAYED BRANCH
+  swift: WABAEGCXZAY
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH FOR ISLAMIC OPERATION
+  swift: WABAEGCXRML
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: WABAEGCXALX
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "ALEXANDRIA"
+  branch: ZEZINYA BRANCH
+  swift: WABAEGCXZIZ
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "CAIRO"
+  branch: CORNISH BRANCH
+  swift: WABAEGCXCOR
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "CAIRO"
+  branch: DOKKI BRANCH FOR ISLAMIC OPERATIONS
+  swift: WABAEGCXDOK
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "CAIRO"
+  branch: GIZA - AL HARAM BRANCH
+  swift: WABAEGCXHAR
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "CAIRO"
+  branch: HEAD OFFICE
+  swift: WABAEGCX
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: WABAEGCXHEL
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "CAIRO"
+  branch: MOHANDSEEN BRANCH
+  swift: WABAEGCXMOH
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: WABAEGCXNCT
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "CAIRO"
+  branch: ROXY BRANCH
+  swift: WABAEGCXROX
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "CAIRO"
+  branch: SARWAT BRANCH
+  swift: WABAEGCXSAR
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "EL MANSOURA"
+  branch: MANSOURA BRANCH
+  swift: WABAEGCXMNS
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "GIZA"
+  branch: ALGALAA BRANCH
+  swift: WABAEGCXGAL
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "SOHAG"
+  branch: SOHAG BRANCH
+  swift: WABAEGCXSOH
+    
+- name: "NATIONAL BANK OF KUWAIT - EGYPT"
+  city: "THE TENTH OF RAMADAN"
+  branch: THE TENTH OF RAMADAN BRANCH
+  swift: WABAEGCXRAM
+    
+- name: "NATIONAL BANK OF OMAN (SAOG)"
+  city: "CAIRO"
+  branch: null
+  swift: NBOMEGCX
+    
+- name: "NATIONAL BANK OF OMAN (SAOG)"
+  city: "CAIRO"
+  branch: null
+  swift: NBOMEGCXCHO
+    
+- name: "NATIONAL INVESTMENT BANK"
+  city: "CAIRO"
+  branch: null
+  swift: NINBEGCA
+    
+- name: "NATIONAL POST ORGANIZATION"
+  city: "CAIRO"
+  branch: null
+  swift: PSTEEGC1
+    
+- name: "PHAROS HOLDING"
+  city: "CAIRO"
+  branch: null
+  swift: PHHOEGC1
+    
+- name: "PHAROS SECURITIES"
+  city: "CAIRO"
+  branch: null
+  swift: PHAREGCA
+    
+- name: "PRIME SECURITIES SAE"
+  city: "CAIRO"
+  branch: null
+  swift: PSSREGC1
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: BDACEGCA003
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "ASSUIT"
+  branch: ASSUIT AND EL WADI EL GIDED BRANCH
+  swift: BDACEGCA088
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "ASWAN"
+  branch: ASWAN BRANCH
+  swift: BDACEGCA097
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "BANHA"
+  branch: KALUBIA BRANCH
+  swift: BDACEGCA013
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "BANI SUEF"
+  branch: BANI SUEF BRANCH
+  swift: BDACEGCA082
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "CAIRO"
+  branch: CAIRO BRANCH
+  swift: BDACEGCA001
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "CAIRO"
+  branch: GIZA BRANCH
+  swift: BDACEGCA002
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "CAIRO"
+  branch: null
+  swift: BDACEGCA
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "DAMANHOUR"
+  branch: EL BEHERA BRANCH
+  swift: BDACEGCA045
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "DOMIAT"
+  branch: DOMIAT BRANCH
+  swift: BDACEGCA057
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "EL FAYOUM"
+  branch: EL FAYOUM BRANCH
+  swift: BDACEGCA084
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "EL MANSOURA"
+  branch: DAKAHLIA BRANCH
+  swift: BDACEGCA050
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "EL MENIA"
+  branch: EL MENIA BRANCH
+  swift: BDACEGCA086
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "ISMAILIA"
+  branch: ISMAILIA BRANCH
+  swift: BDACEGCA064
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "KAFR EL SHEIKH"
+  branch: KAFR EL SHEIKH BRANCH
+  swift: BDACEGCA047
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "KENA"
+  branch: KENA BRANCH
+  swift: BDACEGCA096
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "SHIBIN EL KOM"
+  branch: MONOFILA BRANCH
+  swift: BDACEGCA048
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "SUHAG"
+  branch: SUHAG BRANCH
+  swift: BDACEGCA093
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "TANTA"
+  branch: EL GHARBIA BRANCH
+  swift: BDACEGCA040
+    
+- name: "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT"
+  city: "ZAKAZIK"
+  branch: EL SHARKIA BRANCH
+  swift: BDACEGCA055
+    
+- name: "QATAR NATIONAL BANK ALAHLI S.A.E (QNB ALAHLI)"
+  city: "CAIRO"
+  branch: SGSS
+  swift: QNBAEGCXGSS
+    
+- name: "QATAR NATIONAL BANK ALAHLI S.A.E (QNB ALAHLI)"
+  city: "CAIRO"
+  branch: null
+  swift: QNBAEGCX
+    
+- name: "RAFIDAIN BANK"
+  city: "CAIRO"
+  branch: null
+  swift: RAFBEGC1
+    
+- name: "SIGMA SECURITIES BROKERAGE AND BOOK-KEEPING S.A.E"
+  city: "GIZA"
+  branch: null
+  swift: SSRBEGA1
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "6TH OF OCTOBER"
+  branch: 6TH OF OCTOBER BRANCH
+  swift: SBNKEGCXOCT
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "6TH OF OCTOBER"
+  branch: null
+  swift: SBNKEGCXARM
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "6TH OF OCTOBER"
+  branch: null
+  swift: SBNKEGCXBVR
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "AL OBOUR"
+  branch: AL OBOUR BRANCH
+  swift: SBNKEGCXOBR
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "ALEXANDRIA"
+  branch: LORAN BRANCH
+  swift: SBNKEGCXLRN
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "ALEXANDRIA"
+  branch: null
+  swift: SBNKEGC10AL
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "ALEXANDRIA"
+  branch: null
+  swift: SBNKEGCXALX
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "ALEXANDRIA"
+  branch: null
+  swift: SBNKEGCXSMH
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "ASSUIT"
+  branch: ASSUIT BRANCH
+  swift: SBNKEGCXASI
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: AL AZHER BRANCH
+  swift: SBNKEGCXAZH
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: BOUSTAN BRANCH
+  swift: SBNKEGCXBUS
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: EL MAADI BRANCH
+  swift: SBNKEGCXMDI
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: EL MANIAL BRANCH
+  swift: SBNKEGCXMNL
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: SBNKEGCXHLP
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: MASAKEN SHERATON BRANCH
+  swift: SBNKEGCXSHR
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: SHOBRA BRANCH
+  swift: SBNKEGCXSHB
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: STELA BRANCH
+  swift: SBNKEGCXSTL
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: ZAMALEK BRANCH
+  swift: SBNKEGCXZMK
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: null
+  swift: SBNKEGCX
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: null
+  swift: SBNKEGCXCIC
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: null
+  swift: SBNKEGCXMRG
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "CAIRO"
+  branch: null
+  swift: SBNKEGCXNCA
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "DOMIAT"
+  branch: null
+  swift: SBNKEGCXDMT
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "EL MAHALA EL KOBRA"
+  branch: EL MAHALA EL KOBRA
+  swift: SBNKEGCXMHL
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "EL MANSOURA"
+  branch: null
+  swift: SBNKEGCXMNS
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "GIZA"
+  branch: HARAM BRANCH
+  swift: SBNKEGCXHAR
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "GIZA"
+  branch: SHOOTING CLUB BRANCH
+  swift: SBNKEGCXSHT
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "LUXOR"
+  branch: SAIB BANK LUXOR BRANCH
+  swift: SBNKEGCXLXR
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "PORT SAID"
+  branch: EL NOURS
+  swift: SBNKEGCXNRS
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "PORT SAID"
+  branch: INVESTMENT
+  swift: SBNKEGCXINV
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "PORT SAID"
+  branch: ISLAMIC BRANCH
+  swift: SBNKEGCXISL
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "PORT SAID"
+  branch: null
+  swift: SBNKEGCXSHD
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "SHEIKH ZAYED CITY"
+  branch: EL SHEIKH ZAYED BRANCH
+  swift: SBNKEGCXZYD
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "SUEZ"
+  branch: null
+  swift: SBNKEGCXSUZ
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "TANTA"
+  branch: null
+  swift: SBNKEGCXTAN
+    
+- name: "SOCIETE ARABE INTERNATIONALE DE BANQUE"
+  city: "THE TENTH OF RAMADAN"
+  branch: THE TENTH OF RAMADAN BRANCH
+  swift: SBNKEGCXASH
+    
+- name: "STRATEGY SECURITIES GROUP"
+  city: "CAIRO"
+  branch: null
+  swift: STSGEGC1
+    
+- name: "SUEZ CANAL BANK"
+  city: "6TH OF OCTOBER"
+  branch: 6TH OF OCTOBER CITY BRANCH
+  swift: SUCAEGCXOCT
+    
+- name: "SUEZ CANAL BANK"
+  city: "6TH OF OCTOBER"
+  branch: UNIVERSITY BRANCH
+  swift: SUCAEGCXOCU
+    
+- name: "SUEZ CANAL BANK"
+  city: "AIN EL SOKHNA"
+  branch: AIN SOKHNA BRANCH
+  swift: SUCAEGCXTED
+    
+- name: "SUEZ CANAL BANK"
+  city: "AL OBOUR"
+  branch: AL OBOUR BRANCH
+  swift: SUCAEGCXOBR
+    
+- name: "SUEZ CANAL BANK"
+  city: "ALEXANDRIA"
+  branch: ALAMRIA BRANCH
+  swift: SUCAEGCXAMR
+    
+- name: "SUEZ CANAL BANK"
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA BRANCH
+  swift: SUCAEGCXALX
+    
+- name: "SUEZ CANAL BANK"
+  city: "ALEXANDRIA"
+  branch: SMOHA BRANCH
+  swift: SUCAEGCXSMH
+    
+- name: "SUEZ CANAL BANK"
+  city: "ASSUIT"
+  branch: ASSUIT BRANCH
+  swift: SUCAEGCXASU
+    
+- name: "SUEZ CANAL BANK"
+  city: "BOURG EL ARAB"
+  branch: BOURG EL ARAB BRANCH
+  swift: SUCAEGCXBRG
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: CAIRO BRANCH
+  swift: SUCAEGCXCAI
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: DOKKI BRANCH
+  swift: SUCAEGCXDOK
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: FOSTAT BRANCH
+  swift: SUCAEGCXFOS
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: GARDEN CITY BRANCH
+  swift: SUCAEGCXGRD
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: GIZA BRANCH
+  swift: SUCAEGCXGIZ
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: HELIOPOLIS BRANCH
+  swift: SUCAEGCXHEL
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: MAADI BRANCH
+  swift: SUCAEGCXMAD
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: MOHANDESSEEN BRANCH
+  swift: SUCAEGCXMOH
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: SUCAEGCXNSR
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: NEW CAIRO
+  swift: SUCAEGCXNEC
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: OROUBA BRANCH
+  swift: SUCAEGCXORB
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: SHOBRA BRANCH
+  swift: SUCAEGCXSHB
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: SPHINX BRANCH
+  swift: SUCAEGCXSPH
+    
+- name: "SUEZ CANAL BANK"
+  city: "CAIRO"
+  branch: null
+  swift: SUCAEGCX
+    
+- name: "SUEZ CANAL BANK"
+  city: "DOMIAT"
+  branch: DOMIAT BRANCH
+  swift: SUCAEGCXDOM
+    
+- name: "SUEZ CANAL BANK"
+  city: "EL MANSOURA"
+  branch: EL MANSOURA BRANCH
+  swift: SUCAEGCXMAN
+    
+- name: "SUEZ CANAL BANK"
+  city: "EL MENIA"
+  branch: EL MENIA BRANCH
+  swift: SUCAEGCXMEN
+    
+- name: "SUEZ CANAL BANK"
+  city: "EL SADAT CITY"
+  branch: SADAT BRANCH
+  swift: SUCAEGCXSDT
+    
+- name: "SUEZ CANAL BANK"
+  city: "GIZA"
+  branch: EL MANYAL BRANCH
+  swift: SUCAEGCXMNL
+    
+- name: "SUEZ CANAL BANK"
+  city: "GIZA"
+  branch: MOHANDESEEN 2 BRANCH
+  swift: SUCAEGCXMO2
+    
+- name: "SUEZ CANAL BANK"
+  city: "ISMAILIA"
+  branch: ISMALIA BRANCH
+  swift: SUCAEGCXISM
+    
+- name: "SUEZ CANAL BANK"
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: SUCAEGCXPTS
+    
+- name: "SUEZ CANAL BANK"
+  city: "SHARM EL SHEIKH"
+  branch: SHARM EL SHEIKH BRANCH
+  swift: SUCAEGCXSHR
+    
+- name: "SUEZ CANAL BANK"
+  city: "SUEZ"
+  branch: PORTAWFEK BRANCH
+  swift: SUCAEGCXTWF
+    
+- name: "SUEZ CANAL BANK"
+  city: "SUEZ"
+  branch: SUEZ BRANCH
+  swift: SUCAEGCXSUZ
+    
+- name: "SUEZ CANAL BANK"
+  city: "TANTA"
+  branch: TANTA BRANCH
+  swift: SUCAEGCXTAN
+    
+- name: "SUEZ CANAL BANK"
+  city: "THE TENTH OF RAMADAN"
+  branch: THE TENTH OF RAMADAN BRANCH
+  swift: SUCAEGCXRAM
+    
+- name: "SWISS GROUP FOR SECURITIES BROKERAG"
+  city: "CAIRO"
+  branch: null
+  swift: SGFBEGC1
+    
+- name: "THE UNITED BANK"
+  city: "CAIRO"
+  branch: null
+  swift: UBOEEGCX
+    
+- name: "TRIPLE A SECURITIES CO."
+  city: "CAIRO"
+  branch: null
+  swift: TREEEGC1
+    
+- name: "UNION NATIONAL BANK-EGYPT S.A.E."
+  city: "ALEXANDRIA"
+  branch: EL HORREYA BRANCH
+  swift: UNBEEGCXMAI
+    
+- name: "UNION NATIONAL BANK-EGYPT S.A.E."
+  city: "ALEXANDRIA"
+  branch: GLEEM BRANCH
+  swift: UNBEEGCXGLY
+    
+- name: "UNION NATIONAL BANK-EGYPT S.A.E."
+  city: "ALEXANDRIA"
+  branch: SAAD ZHAGLOUL BRANCH
+  swift: UNBEEGCXSDZ
+    
+- name: "UNION NATIONAL BANK-EGYPT S.A.E."
+  city: "CAIRO"
+  branch: CAIRO BRANCH
+  swift: UNBEEGCXCAI
+    
+- name: "UNION NATIONAL BANK-EGYPT S.A.E."
+  city: "CAIRO"
+  branch: NASR CITY BRANCH
+  swift: UNBEEGCXNCT
+    
+- name: "UNION NATIONAL BANK-EGYPT S.A.E."
+  city: "GIZA"
+  branch: null
+  swift: UNBEEGCX
+    
+- name: "UNION NATIONAL BANK-EGYPT S.A.E."
+  city: "PORT SAID"
+  branch: PORT SAID BRANCH
+  swift: UNBEEGCXPSD
+    
+- name: "UNION NATIONAL BANK-EGYPT S.A.E."
+  city: "SUEZ"
+  branch: SUEZ BRANCH
+  swift: UNBEEGCXSUZ
+    

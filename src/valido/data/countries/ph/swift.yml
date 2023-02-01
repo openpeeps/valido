@@ -1,0 +1,2280 @@
+- name: "1ST MACRO BANK, INC. (A RURAL BANK)"
+  city: "PATEROS"
+  branch: null
+  swift: MCRUPHM1
+    
+- name: "1ST VALLEY BANK INC., A DEVELOPMENT BANK"
+  city: "CAGAYAN DE ORO CITY"
+  branch: null
+  swift: VADVPHM1
+    
+- name: "A AND A SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: SEUUPHM1
+    
+- name: "A.T. DE CASTRO SECURITIES CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: CASUPHM1
+    
+- name: "AAA SOUTHEAST EQUITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: AASQPHM1
+    
+- name: "AB CAPITAL AND INVESTMENT CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: CAVPPHM1
+    
+- name: "ABACUS CAPITAL AND INVESTMENT CORPORATION"
+  city: "PASIG CITY"
+  branch: null
+  swift: ACICPHM1
+    
+- name: "ABACUS SECURITIES CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: ABAEPHM1
+    
+- name: "ABOITIZ EQUITY VENTURES INC."
+  city: "CEBU"
+  branch: null
+  swift: ABTZPH21
+    
+- name: "AGJ SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: AGJSPHM1
+    
+- name: "AGRIBUSINESS RURAL BANK, INC."
+  city: "PASIG CITY"
+  branch: null
+  swift: AGBUPHM1
+    
+- name: "AIG-PHILAM SAVINGS BANK, INC"
+  city: "MANILA"
+  branch: null
+  swift: PHSAPHM1
+    
+- name: "AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES"
+  city: "MAKATI CITY"
+  branch: null
+  swift: AIIPPHM1
+    
+- name: "ALL ASIA SECURITIES MANAGEMENT CORP."
+  city: "CEBU"
+  branch: null
+  swift: AASSPHM1
+    
+- name: "ALL ASIA SECURITIES MANAGEMENT CORP."
+  city: "MANILA"
+  branch: null
+  swift: AASSPHM10MM
+    
+- name: "ALLIED SAVINGS BANK"
+  city: "MAKATI CITY"
+  branch: null
+  swift: ALSGPHM1
+    
+- name: "ALPHA SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: ALPCPHM1
+    
+- name: "AMETHYST SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: AMECPHM1
+    
+- name: "AMON SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: AMONPHM1
+    
+- name: "ANGPING AND ASSOCIATES"
+  city: "MANILA"
+  branch: null
+  swift: ANGPPHM1
+    
+- name: "ANSALDO, GODINEZ AND COMPANY, INC."
+  city: "MANILA"
+  branch: null
+  swift: ANSGPHM1
+    
+- name: "ANSCOR-HAGEDORN SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: ANSCPHM1
+    
+- name: "ARMSTRONG SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: ARMEPHM1
+    
+- name: "ASI SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: ASISPHM1
+    
+- name: "ASIA PACIFIC CAPITAL EQUITIES AND SEC. CORP."
+  city: "QUEZON CITY"
+  branch: null
+  swift: APCEPHM1
+    
+- name: "ASIA UNITED BANK CORPORATION"
+  city: "PASIG CITY"
+  branch: null
+  swift: AUBKPHMM
+    
+- name: "ASIAN DEVELOPMENT BANK"
+  city: "MANILA"
+  branch: null
+  swift: ASDBPHMM
+    
+- name: "ASIAN OCEANIC MERIT SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: AOMSPHM1
+    
+- name: "ASIASEC EQUITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: ASESPHM1
+    
+- name: "ASIATRUST BANK"
+  city: "ANTIPOLO"
+  branch: MASINAG BRANCH
+  swift: ATDBPHM10M5
+    
+- name: "ASIATRUST BANK"
+  city: "ANTIPOLO"
+  branch: null
+  swift: ATDBPHM10M2
+    
+- name: "ASIATRUST BANK"
+  city: "BACOOR"
+  branch: null
+  swift: ATDBPHM10M3
+    
+- name: "ASIATRUST BANK"
+  city: "CALOOCAN CITY"
+  branch: null
+  swift: ATDBPHM10M4
+    
+- name: "ASIATRUST BANK"
+  city: "MANILA"
+  branch: PASONG TAMO BRANCH
+  swift: ATDBPHM10MM
+    
+- name: "ASIATRUST BANK"
+  city: "MANILA"
+  branch: SALCEDO BRANCH
+  swift: ATDBPHM10MB
+    
+- name: "ASIATRUST BANK"
+  city: "PASAY CITY"
+  branch: null
+  swift: ATDBPHM10M7
+    
+- name: "ASIATRUST BANK"
+  city: "QUEZON CITY"
+  branch: DEL MONTE BRANCH
+  swift: ATDBPHM10M8
+    
+- name: "ASIATRUST BANK"
+  city: "QUEZON CITY"
+  branch: NEW MANILA BRANCH
+  swift: ATDBPHM10M6
+    
+- name: "ASIATRUST BANK"
+  city: "QUEZON CITY"
+  branch: ROOSEVELT BRANCH
+  swift: ATDBPHM10MA
+    
+- name: "ASIATRUST BANK"
+  city: "QUEZON CITY"
+  branch: null
+  swift: ATDBPHM1
+    
+- name: "ASIATRUST BANK"
+  city: "SAN JUAN"
+  branch: null
+  swift: ATDBPHM10MC
+    
+- name: "ASIATRUST BANK"
+  city: "SANTIAGO"
+  branch: null
+  swift: ATDBPHM10MD
+    
+- name: "ASIATRUST BANK"
+  city: "TONDO"
+  branch: TUTUBAN CENTERMALL BRANCH
+  swift: ATDBPHM10ME
+    
+- name: "ASIATRUST BANK"
+  city: "VALENZUELA"
+  branch: null
+  swift: ATDBPHM10MF
+    
+- name: "ASIATRUST DEVELOPMENT BANK"
+  city: "QUEZON CITY"
+  branch: null
+  swift: ASDVPHM1
+    
+- name: "ASTRA SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: ASTSPHM1
+    
+- name: "ATC SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: ATCSPHM1
+    
+- name: "ATR-KIM ENG SECURITIES, INC"
+  city: "MANILA"
+  branch: null
+  swift: ATSCPHM1
+    
+- name: "AURORA SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: AURSPHM1
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+  city: "MAKATI CITY"
+  branch: null
+  swift: ANZBPHMX
+    
+- name: "AYALA LAND, INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: AYALPH22
+    
+- name: "B. H. CHUA SECURITIES CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: BHCHPHM1
+    
+- name: "BA SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: BATTPHM1
+    
+- name: "BALANGA RURAL BANK, INC."
+  city: "BALANGA"
+  branch: null
+  swift: BRULPHM1
+    
+- name: "BANCO BAKUN, INC. (A RURAL BANK)"
+  city: "ITOGON"
+  branch: null
+  swift: BKRUPHM1
+    
+- name: "BANCO DE ORO SAVINGS BANK, INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: ORSIPHM1
+    
+- name: "BANCO FILIPINO SAVINGS AND MORTGAGE BANK"
+  city: "MANILA"
+  branch: null
+  swift: FIAOPHM1
+    
+- name: "BANCO SAN VICENTE, INC. (A RURAL BANK)"
+  city: "SAN VICENTE"
+  branch: null
+  swift: SAVRPHM1
+    
+- name: "BANCODIPOLOG, INC."
+  city: "DIPOLOG CITY"
+  branch: null
+  swift: BADGPHM1
+    
+- name: "BANGKO KABAYAN (A RURAL BANK) INC."
+  city: "BATANGAS"
+  branch: null
+  swift: KARUPHM1
+    
+- name: "BANGKO MABUHAY (RURAL BANK OF TANZA (CAVITE), INC."
+  city: "TANZA"
+  branch: null
+  swift: MRTCPHM1
+    
+- name: "BANGKO NUESTRA SENORA DEL PILAR INC. (A RURAL BANK)"
+  city: "SAN SIMON"
+  branch: null
+  swift: NSPRPHM1
+    
+- name: "BANGKO RURAL NG PASACAO (CS), INCORPORATED"
+  city: "PASACAO, CAMARINES SUR"
+  branch: null
+  swift: RUPIPHM1
+    
+- name: "BANGKO SENTRAL NG PILIPINAS"
+  city: "MANILA"
+  branch: null
+  swift: PHCBPHMC
+    
+- name: "BANGKO SENTRAL NG PILIPINAS"
+  city: "MANILA"
+  branch: null
+  swift: PHCBPHMM
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED, MANILA BRANCH"
+  city: "MANILA"
+  branch: null
+  swift: BKKBPHMM
+    
+- name: "BANK DAGANG NASIONAL INDONESIA"
+  city: "MANILA"
+  branch: null
+  swift: DANIPHM1
+    
+- name: "BANK DHARMALA"
+  city: "MANDALUYONG"
+  branch: null
+  swift: BADAPHM1
+    
+- name: "BANK OF AMERICA, N.A. MANILA"
+  city: "MANILA"
+  branch: null
+  swift: BOFAPH2X
+    
+- name: "BANK OF CHINA, MANILA BRANCH"
+  city: "MANILA"
+  branch: null
+  swift: BKCHPHMM
+    
+- name: "BANK OF COMMERCE"
+  city: "MANDALUYONG CITY"
+  branch: null
+  swift: PABIPHMM
+    
+- name: "BANK OF FLORIDA, INC. (A RURAL BANK)"
+  city: "SAN FERNANDO"
+  branch: null
+  swift: FLRUPHM1
+    
+- name: "BANK OF LUBAO (A RURAL BANK) INC."
+  city: "LUBAO"
+  branch: null
+  swift: LURUPHM1
+    
+- name: "BANK OF MAKATI (A SAVINGS BANK), INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: MKRUPHM1
+    
+- name: "BANK OF THE PHILIPPINE ISLANDS"
+  city: "MANILA"
+  branch: TREASURY GROUP
+  swift: BOPIPHMMTRY
+    
+- name: "BANK OF THE PHILIPPINE ISLANDS"
+  city: "MANILA"
+  branch: null
+  swift: BOPIPHMM
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "MANILA"
+  branch: MANILA BRANCH
+  swift: BOTKPHMM
+    
+- name: "BANK ONE SAVINGS AND TRUST CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: ONSTPHM1
+    
+- name: "BARCELON ROXAS SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: BROXPHM1
+    
+- name: "BDO ELITE SAVINGS BANK, INC."
+  city: "TAGUIG CITY"
+  branch: null
+  swift: BDESPHM1
+    
+- name: "BDO NOMURA SECURITIES, INC."
+  city: "MAKATI"
+  branch: null
+  swift: BNSCPHM1
+    
+- name: "BDO PRIVATE BANK INC."
+  city: "MANILA"
+  branch: null
+  swift: BOPBPHMM
+    
+- name: "BDO SECURITIES CORPORATION"
+  city: "MAKATI CITY"
+  branch: null
+  swift: BDSCPHM1
+    
+- name: "BDO UNIBANK, INC."
+  city: "MANILA"
+  branch: null
+  swift: BNORPHMM
+    
+- name: "BELSON SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: BELCPHM1
+    
+- name: "BENJAMIN CO CA AND CO INC."
+  city: "MANILA"
+  branch: null
+  swift: BENJPHM1
+    
+- name: "BERNAD SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: BEREPHM1
+    
+- name: "BFE FINANCIAL SVCS. AND CONSULTANCY, INC."
+  city: "MANILA"
+  branch: null
+  swift: BFSCPHM1
+    
+- name: "BNP PARIBAS PEREGRINE SECURITIES, INC"
+  city: "MANILA"
+  branch: null
+  swift: BPPSPHM1
+    
+- name: "BNP PARIBAS, MANILA OFFSHORE BRANCH"
+  city: "MANILA"
+  branch: null
+  swift: BNPAPHMM
+    
+- name: "BOF, INC. (A RURAL BANK)"
+  city: "SAN FERNANDO"
+  branch: null
+  swift: BORRPHM1
+    
+- name: "BPI CAPITAL CORP."
+  city: "MANILA"
+  branch: null
+  swift: BPAPPHM1
+    
+- name: "BPI CARD FINANCE"
+  city: "MANILA"
+  branch: null
+  swift: BPCNPHM1
+    
+- name: "BPI DIRECT"
+  city: "MANILA"
+  branch: null
+  swift: BPDIPHM1
+    
+- name: "BPI FAMILY BANK"
+  city: "MANILA"
+  branch: null
+  swift: BPFFPHM1
+    
+- name: "BPI FAMILY SAVINGS BANK"
+  city: "MAKATI"
+  branch: null
+  swift: BPFSPHM1
+    
+- name: "BPI GLOBE BANKO INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: BPGOPHM1
+    
+- name: "BPI LEASING CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: BPLIPHM1
+    
+- name: "BPI SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: BPISPHM1
+    
+- name: "BRITISH AMERICAN TOBACCO PHILIPPINES LTD."
+  city: "MUNTINLUPA"
+  branch: null
+  swift: BATSPHM1
+    
+- name: "BSP BRANCH OPEN ACCOUNT SPC"
+  city: "QUEZON CITY"
+  branch: null
+  swift: BBOAPHM1
+    
+- name: "BSP-PFO AMD-PFO HOUSING PROGRAM"
+  city: "MANILA"
+  branch: null
+  swift: BPFCPHM1
+    
+- name: "BSP-PFO CAR PLAN FUND"
+  city: "MANILA"
+  branch: null
+  swift: BCPFPHM1
+    
+- name: "BSP-PFO HOUSING FUND"
+  city: "MANILA"
+  branch: null
+  swift: BHFUPHM1
+    
+- name: "BSP-PFO LONGEVITY TRUST FUND"
+  city: "MANILA"
+  branch: null
+  swift: BLTFPHM1
+    
+- name: "BSP-PFO PROVIDENT FUND"
+  city: "MANILA"
+  branch: null
+  swift: BPRFPHM1
+    
+- name: "BT BROKERAGE (PHILS), INC"
+  city: "MANILA"
+  branch: null
+  swift: BRKPPHM1
+    
+- name: "BUREAU OF THE TREASURY"
+  city: "MANILA"
+  branch: null
+  swift: BUTRPHM1
+    
+- name: "BZW (ASIA) LTD"
+  city: "MANILA"
+  branch: null
+  swift: BWWAPHM1
+    
+- name: "CAMPOS, LANUZA AND CO. INC."
+  city: "MANILA"
+  branch: null
+  swift: CALAPHM1
+    
+- name: "CAMPOS, LANUZA AND CO. INC."
+  city: "MANILA"
+  branch: null
+  swift: CALAPHM10M2
+    
+- name: "CANTILAN BANK, INC. (A RURAL BANK)"
+  city: "CANTILAN"
+  branch: null
+  swift: CNRLPHM1
+    
+- name: "CARD BANK, INC. (A MICROFINANCE ORIENTED RURAL BANK)"
+  city: "SAN PABLO CITY"
+  branch: null
+  swift: CBMFPHM1
+    
+- name: "CARD SME BANK, INC. A THRIFT BANK"
+  city: "SANTO TOMAS"
+  branch: null
+  swift: CRMHPHM1
+    
+- name: "CATHAY SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: CATSPHM1
+    
+- name: "CATHAY UNITED BANK CO., LTD. MANILA BRANCH"
+  city: "MAKATA CITY"
+  branch: null
+  swift: UWCBPHMM
+    
+- name: "CEBUANA LHUILLIER RURAL BANK INC."
+  city: "BACOOR"
+  branch: null
+  swift: CELRPHM1
+    
+- name: "CENTURY SAVINGS BANK CORPORATION"
+  city: "PASIG CITY"
+  branch: null
+  swift: CESNPHM1
+    
+- name: "CENTURY SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: CENEPHM1
+    
+- name: "CHINA BANK SAVINGS, INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: CHSVPHM1
+    
+- name: "CHINA BANKING CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: CHBKPHMM
+    
+- name: "CITIBANK SAVINGS INC."
+  city: "QUEZON CITY"
+  branch: null
+  swift: CITIPH21
+    
+- name: "CITIBANK SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: CIVPPHM1
+    
+- name: "CITIBANK,N.A., MANILA BRANCH"
+  city: "CEBU"
+  branch: null
+  swift: CITIPHMXCBU
+    
+- name: "CITIBANK,N.A., MANILA BRANCH"
+  city: "MAKATI"
+  branch: HEAD OFFICE
+  swift: CITIPHMX
+    
+- name: "CITIBANK,N.A., MANILA BRANCH"
+  city: "MANILA"
+  branch: IBG-TREASURY SERVICES UNIT
+  swift: CITIPHMXTSU
+    
+- name: "CITISECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: CITSPHM1
+    
+- name: "CITY SAVINGS BANK"
+  city: "CEBU CITY"
+  branch: null
+  swift: CIVAPHM1
+    
+- name: "CITYSTATE SAVINGS BANK, INC."
+  city: "PASIG CITY"
+  branch: null
+  swift: CIVVPHM1
+    
+- name: "CITYTRUST SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: CITRPHM1
+    
+- name: "CLASSIC RURAL BANK, INC."
+  city: "BATANGAS"
+  branch: null
+  swift: CLRAPH21
+    
+- name: "COL FINANCIAL GROUP, INC."
+  city: "PASIG CITY"
+  branch: null
+  swift: CFGOPHM1
+    
+- name: "COMMERCIAL BANK OF MANILA"
+  city: "MANILA"
+  branch: null
+  swift: COBMPHM1
+    
+- name: "COMMONWEALTH BANK/SAVINGS AND LOAN"
+  city: "MANILA"
+  branch: null
+  swift: CBSLPHM1
+    
+- name: "CONNELL SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: COSCPHM1
+    
+- name: "COOPERATIVE BANK OF COTABATO"
+  city: "KIDAPAWAN"
+  branch: null
+  swift: CPCTPHM1
+    
+- name: "COOPERATIVE RURAL BANK OF MISAMIS ORIENTAL, INC."
+  city: "CAGAYAN DE ORO CITY"
+  branch: null
+  swift: CUATPHM1
+    
+- name: "CORINTHIAN SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: CORCPHM1
+    
+- name: "COUNTRY BUILDERS BANK INC. (A RURAL BANK)"
+  city: "TAGUIG CITY"
+  branch: null
+  swift: COUKPHM1
+    
+- name: "COYIUTO SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: COYIPHM1
+    
+- name: "CREDIT LYONNAIS SECURITIES PHILIPPINES INC"
+  city: "MANILA"
+  branch: null
+  swift: CLSAPHM1
+    
+- name: "CREDIT MANILA, INC."
+  city: "MANILA"
+  branch: null
+  swift: CMANPHM1
+    
+- name: "CREDIT SUISSE SECURITIES (PHILIPPINES) INC."
+  city: "MAKATI"
+  branch: null
+  swift: CRESPHM1
+    
+- name: "CROSBY SECURITIES (PHILS) INC."
+  city: "MANILA"
+  branch: null
+  swift: CRSEPHM1
+    
+- name: "CTBC BANK (PHILIPPINES) CORP."
+  city: "TAGUIG CITY"
+  branch: null
+  swift: CTCBPHMM
+    
+- name: "CUALOPING SECURITIES CORP"
+  city: "MANILA"
+  branch: null
+  swift: CUASPHM1
+    
+- name: "DAO HENG BANK INC."
+  city: "MANILA"
+  branch: null
+  swift: DHBIPHM1
+    
+- name: "D'ASIAN HILLS BANK INC."
+  city: "MALAYBALAY CITY"
+  branch: null
+  swift: ASIIPHM1
+    
+- name: "DAVID GO SECURITIES CORP"
+  city: "MANILA"
+  branch: null
+  swift: DAVSPHM1
+    
+- name: "DBP-DAIWA CAPITAL MARKETS PHILIPPINES, INC."
+  city: "MANILA"
+  branch: null
+  swift: DBSHPHM1
+    
+- name: "DBP-DAIWA SECURITIES (PHILS.), INC."
+  city: "MANILA"
+  branch: null
+  swift: DSPHPHM1
+    
+- name: "DBS SECURITIES (PHILS) INC"
+  city: "MANILA"
+  branch: null
+  swift: DBSPPHM1
+    
+- name: "DEUTSCHE BANK AG"
+  city: "MANILA"
+  branch: null
+  swift: DEUTPHMM
+    
+- name: "DEUTSCHE BANK AG"
+  city: "MANILA"
+  branch: null
+  swift: DEUTPHMMGMO
+    
+- name: "DEUTSCHE REGIS PARTNERS INC."
+  city: "MANILA"
+  branch: null
+  swift: TWENPHM1
+    
+- name: "DEVELOPMENT BANK OF THE PHILIPPINES"
+  city: "MANILA"
+  branch: null
+  swift: DBPHPHMM
+    
+- name: "DHARMALA SECURITIES (PHILS) INC"
+  city: "MANILA"
+  branch: null
+  swift: DHSPPHM1
+    
+- name: "DIVERSIFIED SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: DIVSPHM1
+    
+- name: "DUMAGUETE CITY DEVELOPMENT BANK,INC"
+  city: "DUMAGUETE"
+  branch: null
+  swift: DCDEPHM1
+    
+- name: "DUNGGANON BANK (A MICROFINANCE THRIFT BANK), INC."
+  city: "BACOLOD CITY"
+  branch: null
+  swift: DUMTPHM1
+    
+- name: "E. CHUA CHIACO SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: CHCSPHM1
+    
+- name: "EAST COAST RURAL BANK OF HAGONOY, INC."
+  city: "HAGONOY"
+  branch: null
+  swift: ECRHPHM1
+    
+- name: "EAST WEST BANKING CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: EWBCPHMM
+    
+- name: "EAST WEST CAPITAL CORP"
+  city: "MANILA"
+  branch: null
+  swift: EAWCPHM1
+    
+- name: "EASTERN SECURITIES DEVELOPMENT CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: EASDPHM1
+    
+- name: "EIB SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: EISEPHM1
+    
+- name: "ENTERPRISE BANK INC. (A THRIFT BANK)"
+  city: "SURIGAO DEL SUR"
+  branch: null
+  swift: ENTHPHM1
+    
+- name: "ENTREPRENEUR RURAL BANK, INC."
+  city: "SAN PEDRO"
+  branch: null
+  swift: ENRUPHM1
+    
+- name: "EQUICOM SAVINGS BANK, INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: EQSNPHM1
+    
+- name: "EQUITABLE SECURITIES (PHILS.) INC."
+  city: "MANILA"
+  branch: null
+  swift: EQSPPHM1
+    
+- name: "EQUITIWORLD SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: EQUSPHM1
+    
+- name: "EVERGREEN STOCK BROKERAGE AND SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: ESBEPHM1
+    
+- name: "F. YAP SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: YAPSPHM1
+    
+- name: "FAR EAST BANK AND TRUST CO, FOREIGN CURRENCY DEPOSIT UNIT (FCDU)"
+  city: "MANILA"
+  branch: null
+  swift: FEBTPHM1
+    
+- name: "FILIDIAN RURAL BANK OF ANTIPOLO,INC"
+  city: "ANTIPOLO"
+  branch: null
+  swift: FRUNPHM1
+    
+- name: "FINVEST SECURITIES CO INC"
+  city: "MANILA"
+  branch: null
+  swift: FINUPHM1
+    
+- name: "FIRST AGRO-INDUSTRIAL RURAL BANK, INC. (FAIRBANK)"
+  city: "BOGO CITY"
+  branch: null
+  swift: FRARPHM1
+    
+- name: "FIRST COMMERCIAL BANK, LTD., MANILA BRANCH"
+  city: "MAKATI CITY"
+  branch: null
+  swift: FCBKPHMM
+    
+- name: "FIRST CONSOLIDATED BANK INC."
+  city: "TAGBILARAN"
+  branch: null
+  swift: FIOOPHM1
+    
+- name: "FIRST INTEGRATED CAPITAL SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: FICEPHM1
+    
+- name: "FIRST METRO INVESTMENT CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: FMICPHM1
+    
+- name: "FIRST METRO SECURITIES BROKERAGE CORPORATION"
+  city: "MAKATI"
+  branch: null
+  swift: FMSOPHM1
+    
+- name: "FIRST MIDLAND RURAL BANK, INC."
+  city: "ILOILO"
+  branch: null
+  swift: FRMRPHM1
+    
+- name: "FIRST ORIENT SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: FIOSPHM1
+    
+- name: "FIRST PACIFIC BANCORP, LLC"
+  city: "VALENZUELA"
+  branch: null
+  swift: FPBCPHM1
+    
+- name: "FIRST PENINSULA SECURITIES CORP"
+  city: "MANILA"
+  branch: null
+  swift: FIPSPHM1
+    
+- name: "FIRST RESSOURCES MANAGEMENT AND SECURITIES CORPORATION,THE"
+  city: "MANILA"
+  branch: null
+  swift: FIRRPHM1
+    
+- name: "FORTUNE SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: FOTRPHM1
+    
+- name: "FPB ASIA LIMITED"
+  city: "MANILA"
+  branch: null
+  swift: FPASPHM1
+    
+- name: "FRANCISCO ORTIGAS SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: FROEPHM1
+    
+- name: "G AND L SECURITIES CO., INC."
+  city: "MANILA"
+  branch: null
+  swift: SERTPHM1
+    
+- name: "G.D. TAN AND CO INC"
+  city: "MANILA"
+  branch: null
+  swift: TANNPHM1
+    
+- name: "G.K. GOH SECURITIES (PHILIPPINES) INC."
+  city: "MANILA"
+  branch: null
+  swift: GKGSPHM1
+    
+- name: "GATEWAY RURAL BANK, INC. (GATEBANK)"
+  city: "BULACAN"
+  branch: null
+  swift: GARKPHM1
+    
+- name: "GE MONEY BANK, INC. (A SAVINGS BANK)"
+  city: "QUEZON CITY"
+  branch: null
+  swift: GEMPPH21
+    
+- name: "GENESIS GLOBAL SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: GEGSPHM1
+    
+- name: "GLOBAL BUSINESS HOLDINGS INC."
+  city: "CEBU"
+  branch: CEBU BRANCH
+  swift: PCBAPHM10MC
+    
+- name: "GLOBAL BUSINESS HOLDINGS INC."
+  city: "DAVAO"
+  branch: DAVAO BRANCH
+  swift: PCBAPHM10MD
+    
+- name: "GLOBAL BUSINESS HOLDINGS INC."
+  city: "MANILA"
+  branch: DASMARINAS BRANCH
+  swift: PCBAPHM10MB
+    
+- name: "GLOBAL BUSINESS HOLDINGS INC."
+  city: "MANILA"
+  branch: PORT AREA BRANCH
+  swift: PCBAPHM10MP
+    
+- name: "GLOBAL BUSINESS HOLDINGS INC."
+  city: "MANILA"
+  branch: null
+  swift: PCBAPHM1
+    
+- name: "GLOBAL BUSINESS HOLDINGS INC."
+  city: "QUEZON CITY"
+  branch: CUBAO BRANCH
+  swift: PCBAPHM10MQ
+    
+- name: "GLOBAL BUSINESS HOLDINGS INC."
+  city: "SAN JUAN"
+  branch: ORTIGAS BRANCH
+  swift: PCBAPHM10MS
+    
+- name: "GLOBALINKS SECURITIES AND STOCKS, INC"
+  city: "MANILA"
+  branch: null
+  swift: GLSTPHM1
+    
+- name: "GLOBE TELECOM, INC."
+  city: "TAGUIG"
+  branch: null
+  swift: GLTEPHMT
+    
+- name: "GOLDSTAR SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: GOLCPHM1
+    
+- name: "GSIS FAMILY BANK"
+  city: "PASIG CITY"
+  branch: null
+  swift: GSFAPHM1
+    
+- name: "GUAGUA RURAL BANK, INC."
+  city: "GUAGUA"
+  branch: null
+  swift: GRBUPHM1
+    
+- name: "GUILD SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: GUISPHM1
+    
+- name: "GUOCO SECURITIES (PHILS) INC"
+  city: "MANILA"
+  branch: null
+  swift: GUSPPHM1
+    
+- name: "H.E. BENNETT SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: BENCPHM1
+    
+- name: "HANG TSUN SECURITIES (PHILS)"
+  city: "MANILA"
+  branch: null
+  swift: HTSPPHM1
+    
+- name: "HDI SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: HDISPHM1
+    
+- name: "HIGHLAND SECURITIES PHILS. INC."
+  city: "MANILA"
+  branch: null
+  swift: HISHPHM1
+    
+- name: "HIYAS BANKING CORPORATION"
+  city: "STA. MARIA"
+  branch: null
+  swift: HIYCPHM1
+    
+- name: "HK SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: SEREPHM1
+    
+- name: "HOME SAVINGS BANK AND TRUST CO."
+  city: "MANILA"
+  branch: null
+  swift: HSBTPHM1
+    
+- name: "HSBC SAVINGS BANK (PHILIPINES) INC."
+  city: "MUNTINLUPA"
+  branch: null
+  swift: HBPHPHMM
+    
+- name: "HUA NAN COMMERCIAL BANK, LTD. MANILA BRANCH"
+  city: "MAKATI CITY"
+  branch: null
+  swift: HNBKPHMM
+    
+- name: "I. ACKERMAN AND CO INC"
+  city: "MANILA"
+  branch: null
+  swift: ACKEPHM1
+    
+- name: "I.B. GIMENEZ SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: GIMSPHM1
+    
+- name: "IGC SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: IGCSPHM1
+    
+- name: "IMPERIAL DE GUZMAN, ABALOS AND CO INC."
+  city: "MANILA"
+  branch: null
+  swift: IMGAPHM1
+    
+- name: "INDOSUEZ W.I. CARR SECURITIES (PHILIPPINES) INC."
+  city: "MANILA"
+  branch: null
+  swift: WICAPHM1
+    
+- name: "INDUSTRIAL BANK OF KOREA, MANILA BRANCH"
+  city: "MANILA"
+  branch: null
+  swift: IBKOPHMM
+    
+- name: "ING BANK N.V."
+  city: "MANILA"
+  branch: null
+  swift: INGBPHMM
+    
+- name: "INSULAR LIFE SAVINGS AND TRUST CO."
+  city: "MANILA"
+  branch: null
+  swift: ILSTPHM1
+    
+- name: "INSULAR SAVERS BANK, INC. (A RURAL BANK)"
+  city: "TAGUIG CITY"
+  branch: null
+  swift: ISVBPHM1
+    
+- name: "INTRA-INVEST SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: INIEPHM1
+    
+- name: "INVESTORS SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: INVUPHM1
+    
+- name: "ISLA BANK (A THRIFT BANK), INC."
+  city: "MANILA"
+  branch: null
+  swift: ISTHPHM1
+    
+- name: "J.M. BARCELON AND CO INC"
+  city: "MANILA"
+  branch: null
+  swift: BARNPHM1
+    
+- name: "J.P. MORGAN SECURITIES PHILIPPINES INC."
+  city: "MANILA"
+  branch: null
+  swift: CHASPHS1
+    
+- name: "JANIUAY RURAL BANK, INC."
+  city: "ILOILO CITY"
+  branch: null
+  swift: JARUPHM1
+    
+- name: "JARDINE FLEMING"
+  city: "MANILA"
+  branch: null
+  swift: JFLEPHM1
+    
+- name: "JENN WOEI SECURITIES, INC"
+  city: "MANILA"
+  branch: null
+  swift: JEWSPHM1
+    
+- name: "JPMORGAN CHASE BANK, N.A., MANILA BRANCH"
+  city: "MANILA"
+  branch: OFFHORE BANKING UNIT
+  swift: CHASPHMMOBU
+    
+- name: "JPMORGAN CHASE BANK, N.A., MANILA BRANCH"
+  city: "MANILA"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASPHMMENQ
+    
+- name: "JPMORGAN CHASE BANK, N.A., MANILA BRANCH"
+  city: "MANILA"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASPHMMKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., MANILA BRANCH"
+  city: "MANILA"
+  branch: null
+  swift: CHASPHMM
+    
+- name: "KATIPUNAN BANK (ZN), INC. A RURAL BANK"
+  city: "DIPOLOG CITY"
+  branch: null
+  swift: KRBFPHM1
+    
+- name: "KEB HANA BANK"
+  city: "MAKATI CITY"
+  branch: null
+  swift: KOEXPHMM
+    
+- name: "KEPPEL BANK PHILIPPINES, INC."
+  city: "MANILA"
+  branch: null
+  swift: KEPHPHM1
+    
+- name: "KEPPEL SECURITIES PHILIPPINES INC"
+  city: "MANILA"
+  branch: null
+  swift: KESPPHM1
+    
+- name: "KERRY SECURITIES (PHILS), INC."
+  city: "MANILA"
+  branch: null
+  swift: KERSPHM1
+    
+- name: "KEY SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: KEYSPHM1
+    
+- name: "KIM ENG SECURITIES PHILIPPINES INC."
+  city: "MANILA"
+  branch: null
+  swift: KMESPHM1
+    
+- name: "L.M. GARCIA AND ASSOCIATES, INC."
+  city: "MANILA"
+  branch: null
+  swift: GARSPHM1
+    
+- name: "LAND BANK OF THE PHILIPPINES"
+  city: "CEBU"
+  branch: null
+  swift: TLBPPHM10MC
+    
+- name: "LAND BANK OF THE PHILIPPINES"
+  city: "DAVAO"
+  branch: null
+  swift: TLBPPHM10M2
+    
+- name: "LAND BANK OF THE PHILIPPINES"
+  city: "GENERAL SANTOS"
+  branch: null
+  swift: TLBPPHM10M4
+    
+- name: "LAND BANK OF THE PHILIPPINES"
+  city: "ILOILO"
+  branch: null
+  swift: TLBPPHM10M3
+    
+- name: "LAND BANK OF THE PHILIPPINES"
+  city: "MANILA"
+  branch: null
+  swift: TLBPPHMM
+    
+- name: "LAND BANK OF THE PHILIPPINES"
+  city: "QUEZON CITY"
+  branch: null
+  swift: TLBPPHM10MQ
+    
+- name: "LARRGO SECURITIES CO INC"
+  city: "MANILA"
+  branch: null
+  swift: LARCPHM1
+    
+- name: "LEGAZPI SAVINGS BANK"
+  city: "LEGAZPI"
+  branch: null
+  swift: LESIPHM1
+    
+- name: "LIMCOMA RURAL BANK INC."
+  city: "BATANGAS"
+  branch: null
+  swift: LIRRPHM1
+    
+- name: "LIPA BANK INC. -A RURAL BANK"
+  city: "LIPA CITY"
+  branch: null
+  swift: LIRUPHM1
+    
+- name: "LITONJUA SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: LITSPHM1
+    
+- name: "LOPEZ, LOCSIN, LEDESMA AND CO INC"
+  city: "MANILA"
+  branch: null
+  swift: LOLLPHM1
+    
+- name: "LUCKY SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: LUCSPHM1
+    
+- name: "LUY'S SECURITIES CO INC"
+  city: "MANILA"
+  branch: null
+  swift: LUYSPHM1
+    
+- name: "LUZON DEVELOPMENT BANK"
+  city: "MANILA"
+  branch: null
+  swift: LUDVPHM1
+    
+- name: "M.D. BONDOC AND CO INC"
+  city: "MANILA"
+  branch: null
+  swift: BONOPHM1
+    
+- name: "MACQUARIE CAPITAL SECURITIES (PHILIPPINES) INC."
+  city: "MANILA"
+  branch: null
+  swift: INBLPHM1
+    
+- name: "MALAYAN BANK SAVINGS AND MORTGAGE BANK"
+  city: "MANILA"
+  branch: null
+  swift: MAARPHM1
+    
+- name: "MANDARIN SECURITIES CORP"
+  city: "MANILA"
+  branch: null
+  swift: MANUPHM1
+    
+- name: "MANILA BANKING CORP."
+  city: "MANILA"
+  branch: null
+  swift: MABCPHM1
+    
+- name: "MANILA ELECTRIC COMPANY"
+  city: "PASIG CITY"
+  branch: null
+  swift: MRALPHMM
+    
+- name: "MARIAN SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: MAIEPHM1
+    
+- name: "MARK SECURITIES CORP"
+  city: "MANILA"
+  branch: null
+  swift: MAKCPHM1
+    
+- name: "MARKET CAPITAL AND SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: MACCPHM1
+    
+- name: "MAYBANK PHILIPPINES, INC"
+  city: "MANILA"
+  branch: null
+  swift: MBBEPHMM
+    
+- name: "MDR SECURITIES, INC"
+  city: "MANILA"
+  branch: null
+  swift: MDRSPHM1
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., MANILA BRANCH"
+  city: "MANILA"
+  branch: null
+  swift: ICBCPHMM
+    
+- name: "MERCANTILE SECURITIES CORP"
+  city: "MANILA"
+  branch: null
+  swift: MERUPHM1
+    
+- name: "MERCHANTS SAVINGS AND LOAN ASSOCIATION, INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: MSLSPHM1
+    
+- name: "MERIDIAN SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: MERTPHM1
+    
+- name: "MERRILL LYNCH SECURITIES PHILIPPINES INC."
+  city: "MANILA"
+  branch: null
+  swift: MLSPPHM1
+    
+- name: "METROBANK CARD CORPORATION (A FINANCE CO.)"
+  city: "MAKATI CITY"
+  branch: null
+  swift: MCCEPHM1
+    
+- name: "METROPOLITAN BANK AND TRUST CO."
+  city: "MANILA"
+  branch: null
+  swift: MBTCPHMM
+    
+- name: "MICROFINANCE MAXIMUM SAVINGS BANK,INC."
+  city: "PUERTO GALERA"
+  branch: null
+  swift: MIMVPHM1
+    
+- name: "MIZUHO BANK, LTD., MANILA BRANCH"
+  city: "MAKATI"
+  branch: null
+  swift: MHCBPHMM
+    
+- name: "MORGAN GRENFELL PHILS SEC. INC."
+  city: "MANILA"
+  branch: null
+  swift: MGPSPHM1
+    
+- name: "MOUNT PEAK SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: MOPSPHM1
+    
+- name: "MULTINATIONAL INVESTMENT BANCORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: MUIAPHM1
+    
+- name: "MUNICIPAL RURAL BANK OF LIBMANAN (CS), INC."
+  city: "CAMARINES SUR"
+  branch: null
+  swift: MURLPHM1
+    
+- name: "NESTLE BUSINESS SERVICES AOA INC"
+  city: "MANILA"
+  branch: null
+  swift: NESNPHMN
+    
+- name: "NEW WORLD SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: NEWCPHM1
+    
+- name: "NIEVES SANCHEZ INC."
+  city: "MANILA"
+  branch: null
+  swift: NIESPHM1
+    
+- name: "NORTHPOINT DEVELOPMENT BANK, INC."
+  city: "SAN PEDRO"
+  branch: null
+  swift: NODVPHM1
+    
+- name: "OCBC SECURITIES (PHILIPPINES) INC."
+  city: "MANILA"
+  branch: null
+  swift: OSPNPHM1
+    
+- name: "ONE NETWORK BANK, INC. (A RURAL BANK)"
+  city: "DAVAO CITY"
+  branch: null
+  swift: ONNRPHM1
+    
+- name: "OPTIMUM DEVELOPEMENT BANK. INC"
+  city: "MANDALUYONG CITY"
+  branch: null
+  swift: OPDVPHM1
+    
+- name: "OPTIMUM SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: OPTMPHM1
+    
+- name: "ORIENTRADE SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: ORIEPHM1
+    
+- name: "ORIX METRO LEASING AND FINANCE CORPORATION"
+  city: "MAKATI CITY"
+  branch: null
+  swift: OMLFPHM1
+    
+- name: "ORMON BANK RB OF MULANAY QUEZON INC."
+  city: "BAY"
+  branch: null
+  swift: ORMQPHM1
+    
+- name: "OVERSEAS UNION BANK LIMITED, MANILA BRANCH"
+  city: "MANILA"
+  branch: null
+  swift: OUBKPHM1
+    
+- name: "PACIFIC ACE SAVINGS BANK"
+  city: "OLONGAPO"
+  branch: null
+  swift: PASVPHM1
+    
+- name: "PACIFIC ASIAN ATLANTIC CAPITAL INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: PATPPHM1
+    
+- name: "PACIFIC BASIN SEC. CO. INC."
+  city: "MANILA"
+  branch: null
+  swift: PACAPHM1
+    
+- name: "PAN ASIA SECURITIES CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: PANIPHM1
+    
+- name: "PAPA SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: PAPSPHM1
+    
+- name: "PARTNER RURAL BANK (COTABATO), INC."
+  city: "PIGCAWAYAN"
+  branch: null
+  swift: PRTOPHM1
+    
+- name: "PCCI SECURITIES BROKERS CORPORATION"
+  city: "MAKATI CITY"
+  branch: null
+  swift: PSBOPHM1
+    
+- name: "PDCP DEVELOPMENT BANK"
+  city: "CEBU"
+  branch: null
+  swift: PRBPPH21
+    
+- name: "PDCP DEVELOPMENT BANK"
+  city: "MANILA"
+  branch: null
+  swift: PRBPPHM1
+    
+- name: "PENBANK A PRIVATE DEVELOPMENT BANK"
+  city: "GENERAL SANTOS"
+  branch: null
+  swift: PEPDPHM1
+    
+- name: "PEREGRINE SECURITIES PHILS INC."
+  city: "MANILA"
+  branch: null
+  swift: PESPPHM1
+    
+- name: "PHILIPPINE BANK OF COMMUNICATIONS"
+  city: "MANILA"
+  branch: null
+  swift: CPHIPHMM
+    
+- name: "PHILIPPINE BUSINESS BANK"
+  city: "CALOOCAN CITY"
+  branch: null
+  swift: PPBUPHMM
+    
+- name: "PHILIPPINE CLEARING HOUSE CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: PCHCPHM1
+    
+- name: "PHILIPPINE COMMERCIAL CAPITAL, INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: PHCCPHM1
+    
+- name: "PHILIPPINE DEPOSITORY AND TRUST CORP. (CUSTODY)"
+  city: "MAKATI CITY"
+  branch: null
+  swift: PDTUPHM1
+    
+- name: "PHILIPPINE DEPOSITORY AND TRUST CORP. (DEPOSITORY)"
+  city: "MAKATI CITY"
+  branch: null
+  swift: PDTDPHM1
+    
+- name: "PHILIPPINE DEPOSITORY AND TRUST CORPORATION"
+  city: "MAKATI CITY"
+  branch: null
+  swift: PDTCPHM1
+    
+- name: "PHILIPPINE DEPOSITORY TRUST CORP"
+  city: "MANILA"
+  branch: null
+  swift: PHCDPHM1
+    
+- name: "PHILIPPINE EQUITY PARTNERS INC."
+  city: "MANILA"
+  branch: null
+  swift: PEQPPHM1
+    
+- name: "PHILIPPINE NATIONAL BANK"
+  city: "MANILA"
+  branch: TREASURY OPERATIONS DIVISION
+  swift: PNBMPHMMTOD
+    
+- name: "PHILIPPINE NATIONAL BANK"
+  city: "MANILA"
+  branch: null
+  swift: PNBMPHMM
+    
+- name: "PHILIPPINE POSTAL CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: PPOSPHM1
+    
+- name: "PHILIPPINE POSTAL SAVINGS BANK, INC"
+  city: "MANILA"
+  branch: null
+  swift: PHSVPHM1
+    
+- name: "PHILIPPINE RESOURCES SAVINGS BANK CORPORATION"
+  city: "PASIG CITY"
+  branch: null
+  swift: PRVRPHM1
+    
+- name: "PHILIPPINE SAVINGS BANK"
+  city: "MANILA"
+  branch: null
+  swift: PHSBPHMM
+    
+- name: "PHILIPPINE STOCK EXCHANGE, INC."
+  city: "PASIG CITY"
+  branch: null
+  swift: XPHSPHM1
+    
+- name: "PHILIPPINE VETERANS BANK"
+  city: "MANILA"
+  branch: null
+  swift: PHVBPHMM
+    
+- name: "PHILIPPINES ASIA EQUITY SEC. INC."
+  city: "MANILA"
+  branch: null
+  swift: PAESPHM1
+    
+- name: "PHILTRUST BANK (PHILIPPINE TRUST COMPANY)"
+  city: "MANILA"
+  branch: null
+  swift: PHTBPHMM
+    
+- name: "PIERCE INTERLINK SEC. INC."
+  city: "MANILA"
+  branch: null
+  swift: PIEIPHM1
+    
+- name: "PLANBANK RURAL BANK OF CANLUBANG PLANTERS, INC."
+  city: "CALAMBA"
+  branch: null
+  swift: PRNPPHM1
+    
+- name: "PLANTERS DEVELOPMENT BANK"
+  city: "MANILA"
+  branch: null
+  swift: PLDEPHM1
+    
+- name: "PLATINUM SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: PLAIPHM1
+    
+- name: "PNB REPUBLIC BANK"
+  city: "MANILA"
+  branch: null
+  swift: RPBAPHM1
+    
+- name: "PNB SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: PNBBPHM1
+    
+- name: "PREMIERE DEVELOPMENT BANK"
+  city: "MANILA"
+  branch: null
+  swift: PRDEPHM1
+    
+- name: "PREMIUM SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: PREMPHM1
+    
+- name: "PROBITY SECURITIES MANAGEMENT CORP."
+  city: "MANILA"
+  branch: null
+  swift: PROTPHM1
+    
+- name: "PRODUCERS SAVINGS BANK CORPORATION ONE SAN MIGUEL AVENUE"
+  city: "PASIG CITY"
+  branch: null
+  swift: PSCOPHM1
+    
+- name: "QUALITY INVESTMENT AND SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: QUISPHM1
+    
+- name: "QUEEN CITY DEVELOPMENT BANK"
+  city: "ILOILO"
+  branch: null
+  swift: QCDFPHM1
+    
+- name: "QUEZON CAPITAL RURAL BANK, INCORPORATED"
+  city: "LUCENA CITY"
+  branch: null
+  swift: QCRIPHM1
+    
+- name: "R AND L INVESTMENTS, INC"
+  city: "MANILA"
+  branch: null
+  swift: RLINPHM1
+    
+- name: "R. NUBLA SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: NUBLPHM1
+    
+- name: "R.S. LIM AND CO. INC."
+  city: "MANILA"
+  branch: null
+  swift: LIMSPHM1
+    
+- name: "RANG-AY BANK (A RURAL BANK), INC."
+  city: "SAN FERNANDO"
+  branch: null
+  swift: RARLPHM1
+    
+- name: "RASHIND HUSSAIN SECURITIES (PHILIPPINES) INC"
+  city: "MANILA"
+  branch: null
+  swift: RAHSPHM1
+    
+- name: "RBS ASIA SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: HGASPHM1
+    
+- name: "RCBC CAPITAL CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: RCCOPHM1
+    
+- name: "RCBC SAVINGS BANK, INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: RCSAPHM1
+    
+- name: "REGINA CAPITAL DEVELOPMENT CORP."
+  city: "MANILA"
+  branch: null
+  swift: REGIPHM1
+    
+- name: "RFM CAPITAL LIMITED"
+  city: "MANILA"
+  branch: null
+  swift: RFCAPHM1
+    
+- name: "RIZAL COMMERCIAL BANKING CORPORATION"
+  city: "MANILA"
+  branch: FOREIGN CURRENCY DEPOSIT UNIT - FCDU
+  swift: RCBCPH21
+    
+- name: "RIZAL COMMERCIAL BANKING CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: RCBCPHMM
+    
+- name: "ROBINSONS BANK CORPORATION"
+  city: "QUEZON CITY"
+  branch: null
+  swift: ROBPPHMQ
+    
+- name: "RTG AND CO. INC."
+  city: "MANILA"
+  branch: null
+  swift: RTGCPHM1
+    
+- name: "RURAL BANK OF CAMALIG (ALBAY) INC."
+  city: "LEGAZPI"
+  branch: null
+  swift: RUCAPHM1
+    
+- name: "RURAL BANK OF CAUAYAN INC."
+  city: "CAUAYAN"
+  branch: null
+  swift: RBCYPHM1
+    
+- name: "RURAL BANK OF DIGOS, INC"
+  city: "DIGOS CITY"
+  branch: null
+  swift: RUDIPHM1
+    
+- name: "RURAL BANK OF GUINOBATAN, INC."
+  city: "GUINOBATAN"
+  branch: null
+  swift: RUGUPHM1
+    
+- name: "RURAL BANK OF JAEN, INC."
+  city: "JAEN"
+  branch: null
+  swift: RUJAPHM1
+    
+- name: "RURAL BANK OF KIAMBA (SARANGANI) INC."
+  city: "KIAMBA"
+  branch: null
+  swift: RUKSPHM1
+    
+- name: "RURAL BANK OF LEBAK (SULTAN KUDARAT) INC."
+  city: "LEBAK"
+  branch: null
+  swift: RLSKPHM1
+    
+- name: "RURAL BANK OF LILOY (ZN), INC"
+  city: "DIPOLOG CITY"
+  branch: null
+  swift: LILOPHM1
+    
+- name: "RURAL BANK OF MABALACAT, INC."
+  city: "MABALACAT"
+  branch: null
+  swift: RUMAPHM1
+    
+- name: "RURAL BANK OF MANGALDAN, INC."
+  city: "MANGALDAN"
+  branch: null
+  swift: RUMNPHM1
+    
+- name: "RURAL BANK OF MIAGAO (ILOILO), INC."
+  city: "MIAGAO"
+  branch: null
+  swift: RUMIPHM1
+    
+- name: "RURAL BANK OF MIDSAYAP, INC."
+  city: "MIDSAYAP"
+  branch: null
+  swift: RUMDPHM1
+    
+- name: "RURAL BANK OF NEW WASHINGTON (AKLAN) INC."
+  city: "NEW WASHINGTON"
+  branch: null
+  swift: RNWAPHM1
+    
+- name: "RURAL BANK OF ODIONGAN INC"
+  city: "BATANGAS"
+  branch: null
+  swift: RUODPHM1
+    
+- name: "RURAL BANK OF PAGBILAO INC."
+  city: "PAGBILAO"
+  branch: null
+  swift: RUPAPHM1
+    
+- name: "RURAL BANK OF PANA-ON (MIS. OCC.) INC."
+  city: "JIMENEZ"
+  branch: null
+  swift: RPMOPHM1
+    
+- name: "RURAL BANK OF PANDI (BULACAN), INC."
+  city: "PANDI"
+  branch: null
+  swift: RPBUPHM1
+    
+- name: "RURAL BANK OF SAN JOSE (CAMARINES SUR), INC."
+  city: "CAMARINES SUR"
+  branch: null
+  swift: RSJCPHM1
+    
+- name: "RURAL BANK OF SAN LUIS (BATANGAS),"
+  city: "SAN LUIS"
+  branch: null
+  swift: RSLSPHM1
+    
+- name: "RURAL BANK OF STA. IGNACIA, INC."
+  city: "SANTA IGNACIA"
+  branch: null
+  swift: RUSGPHM1
+    
+- name: "RURAL BANK OF TANGUB CITY INC."
+  city: "TANGUB"
+  branch: null
+  swift: RUTCPHM1
+    
+- name: "RURAL BANK OF TANJAY, INC."
+  city: "TANJAY CITY"
+  branch: null
+  swift: RUTNPHM1
+    
+- name: "S.J. ROXAS AND COMPANY, INC."
+  city: "MANILA"
+  branch: null
+  swift: SJROPHM1
+    
+- name: "SALISBURY BKT SECURITIES CORPORATION (FORMERLY: PUBLIC SECURITIES CORPORATION)"
+  city: "MAKATI"
+  branch: null
+  swift: PUBLPHM1
+    
+- name: "SAMSUNG ELECTRONICS PHILIPPINES CORP."
+  city: "CALAMBA"
+  branch: SEPHIL
+  swift: SECTPHM15B1
+    
+- name: "SAMSUNG ELECTRONICS PHILIPPINES CORP."
+  city: "TAGUIG"
+  branch: SEPCO
+  swift: SECTPHM15B0
+    
+- name: "SAMSUNG ELECTRONICS PHILIPPINES CORP."
+  city: "TAGUIG"
+  branch: null
+  swift: SECTPHM1
+    
+- name: "SAPPHIRE SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: SAPPPHM1
+    
+- name: "SAVIOUR RURAL BANK, INC."
+  city: "LUBAO"
+  branch: null
+  swift: SAUAPHM1
+    
+- name: "SB EQUITIES INCORPORATED"
+  city: "MANILA"
+  branch: null
+  swift: EQICPHM1
+    
+- name: "SECURED BANK, INC."
+  city: "CAGAYAN DE ORO CITY"
+  branch: null
+  swift: SBRBPHM1
+    
+- name: "SECURITIES SPECIALISTS INC."
+  city: "MANILA"
+  branch: null
+  swift: SECLPHM1
+    
+- name: "SECURITY BANK CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: SETCPHMM
+    
+- name: "SG SECURITIES (PHILIPPINES),INC."
+  city: "MANILA"
+  branch: null
+  swift: SGSEPHM1
+    
+- name: "SHINHAN BANK MANILA BRANCH"
+  city: "TAGUIG CITY"
+  branch: null
+  swift: SHBKPHMM
+    
+- name: "SOLAR SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: SOLRPHM1
+    
+- name: "SOUTH BANK INC"
+  city: "CAGAYAN DE ORO CITY"
+  branch: null
+  swift: SOTTPHM1
+    
+- name: "SQUIRE SECURITIES, INC."
+  city: "MANILA"
+  branch: null
+  swift: SUIRPHM1
+    
+- name: "SSI - SYSTEMS STANDARDS INCORPORATED"
+  city: "MANILA"
+  branch: null
+  swift: SSSTPHM1
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "MAKATI CITY"
+  branch: null
+  swift: SCBLPHMM
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "MANILA"
+  branch: CUSTODIAL DEPARTMENT
+  swift: SCBLPHMMEQI
+    
+- name: "STANDARD SECURITIES CORPORATION"
+  city: "MANILA"
+  branch: null
+  swift: STACPHM1
+    
+- name: "STATE INVESTMENT TRUST, INC."
+  city: "MANDALUYONG CITY"
+  branch: null
+  swift: STIUPHM1
+    
+- name: "STERLING BANK OF ASIA INC."
+  city: "SAN JUAN"
+  branch: null
+  swift: STLAPH22
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION MANILA BRANCH"
+  city: "MAKATI CITY"
+  branch: null
+  swift: SMBCPHMM
+    
+- name: "SUMMA INTERNATIONAL BANK LTD."
+  city: "MANILA"
+  branch: null
+  swift: ILBSPHM1
+    
+- name: "SUMMIT RURAL BANK OF LIPA CITY, INC"
+  city: "LIPA CITY"
+  branch: null
+  swift: SRLCPHM1
+    
+- name: "SUMMIT SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: SUMMPHM1
+    
+- name: "SUN SAVINGS BANK"
+  city: "TALISAY CITY"
+  branch: null
+  swift: SUSVPHM1
+    
+- name: "SUPREME STOCKBROKER INC."
+  city: "MANILA"
+  branch: null
+  swift: SUPMPHM1
+    
+- name: "TA BANK OF THE PHILIPPINES INC."
+  city: "PASIG CITY"
+  branch: null
+  swift: PHIIPHM1
+    
+- name: "TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH"
+  city: "MANILA"
+  branch: null
+  swift: TACBPHMM
+    
+- name: "TANSENGCO AND COMPANY INC."
+  city: "MANILA"
+  branch: null
+  swift: TANGPHM1
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH"
+  city: "CEBU"
+  branch: CEBU BRANCH
+  swift: HSBCPHMMCEB
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH"
+  city: "MANILA"
+  branch: CUSTODY AND CLEARING
+  swift: HSBCPHMMSEC
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH"
+  city: "MANILA"
+  branch: MNL TREASURY DEPARTMENT
+  swift: HSBCPHMMTRY
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH"
+  city: "TAGUIG CITY"
+  branch: null
+  swift: HSBCPHMM
+    
+- name: "THE MANUFACTURERS LIFE INSURANCE CO. (PHILS.), INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: MFCTPHMM
+    
+- name: "THE PALAWAN BANK (PALAWAN DEVELOPMENT BANK, INC.)."
+  city: "PUERTO PRINCESA"
+  branch: null
+  swift: PAPDPHM1
+    
+- name: "THE PHILIPPINE AMERICAN LIFE AND GENERAL INSURANCECOMPANY"
+  city: "TAGUIG"
+  branch: GENERAL INVESTMENT OPERATIONS
+  swift: AIACPHM1GIO
+    
+- name: "THE PHILIPPINE AMERICAN LIFE AND GENERAL INSURANCECOMPANY"
+  city: "TAGUIG"
+  branch: null
+  swift: AIACPHMM
+    
+- name: "THE REAL BANK (A THRIFT BANK), INC."
+  city: "QUEZON CITY"
+  branch: null
+  swift: RETHPHM1
+    
+- name: "TIAONG RURAL BANK, INC."
+  city: "TIAONG"
+  branch: null
+  swift: TRULPHM1
+    
+- name: "TOWER SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: TOWRPHM1
+    
+- name: "TOYOTA FINANCIAL SERVICES PHILIPPINES, CORP."
+  city: "MAKATI CITY"
+  branch: null
+  swift: TFSHPHM1
+    
+- name: "TRADERS ROYAL BANK"
+  city: "MANILA"
+  branch: null
+  swift: TRBFPHM1
+    
+- name: "TRANS-ASIA SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: TRAAPHM1
+    
+- name: "TRANSNATIONAL SECURITIES, INC"
+  city: "MANILA"
+  branch: null
+  swift: TRAOPHM1
+    
+- name: "TRENDLINE SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: TRENPHM1
+    
+- name: "TRI-STATE SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: TRITPHM1
+    
+- name: "UBP SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: UBPPPHM1
+    
+- name: "UBS SECURITIES PHILIPPINES INC"
+  city: "MANILA"
+  branch: null
+  swift: SWDEPHM1
+    
+- name: "UCPB SAVINGS BANK, INC."
+  city: "MAKATI CITY"
+  branch: null
+  swift: UCSVPHM1
+    
+- name: "UCPB SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: CPBBPHM1
+    
+- name: "UNICAPITAL SECURITIES,INC."
+  city: "MANILA"
+  branch: null
+  swift: UCSEPHM1
+    
+- name: "UNION BANK OF THE PHILIPPINES"
+  city: "PASIG CITY"
+  branch: null
+  swift: UBPHPHMM
+    
+- name: "UNITED COCONUT PLANTERS BANK"
+  city: "MANILA"
+  branch: null
+  swift: UCPBPHMM
+    
+- name: "UNITED OVERSEAS BANK LIMITED - MANILA BRANCH"
+  city: "MANILA"
+  branch: null
+  swift: UOVBPHMM
+    
+- name: "UOB-KAY HIAN SECURITIES (PHILIPPINES), INC."
+  city: "MANILA"
+  branch: null
+  swift: UKHCPHM1
+    
+- name: "UY-TIOCO AND CO. INC."
+  city: "MANILA"
+  branch: null
+  swift: TIOCPHM1
+    
+- name: "VALIANT BANK, INC. ( A RURAL BANK)"
+  city: "ILOILO"
+  branch: null
+  swift: VARUPHM1
+    
+- name: "VENTURE SECURITIES INC."
+  city: "MANILA"
+  branch: null
+  swift: VENTPHM1
+    
+- name: "VICENTE GOQUIOLAY AND CO., INC."
+  city: "MANILA"
+  branch: null
+  swift: VICGPHM1
+    
+- name: "VICSAL SECURITIES AND STOCKBROKERAGE INC."
+  city: "MANILA"
+  branch: null
+  swift: VICAPHM1
+    
+- name: "VIGAN BANCO RURAL INCORPORADA"
+  city: "VIGAN"
+  branch: null
+  swift: VGBCPHM1
+    
+- name: "WEALTH DEVELOPMENT BANK"
+  city: "CEBU CITY"
+  branch: null
+  swift: WEDVPHM1
+    
+- name: "WEALTH SECURITIES INC"
+  city: "MANILA"
+  branch: null
+  swift: WEASPHM1
+    
+- name: "WESTIN SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: WESNPHM1
+    
+- name: "WOLFF AND CO. INC."
+  city: "MANILA"
+  branch: null
+  swift: WOLFPHM1
+    
+- name: "WOMENS RURAL BANK, INC."
+  city: "BATANGAS"
+  branch: null
+  swift: WORUPHM1
+    
+- name: "WONG SECURITIES CORP."
+  city: "MANILA"
+  branch: null
+  swift: WONGPHM1
+    
+- name: "WORLD PARTNERS BANK"
+  city: "SAN PEDRO"
+  branch: null
+  swift: WOPAPHM1
+    
+- name: "WORLDSEC INTERNATIONAL SECURITIES PHILIPPINES INC"
+  city: "MANILA"
+  branch: null
+  swift: WISPPHM1
+    
+- name: "YAO AND ZIALCITA INC."
+  city: "MANILA"
+  branch: null
+  swift: YAOZPHM1
+    
+- name: "YAPTINCHAY SEC. INC."
+  city: "MANILA"
+  branch: null
+  swift: YAPTPHM1
+    
+- name: "YU AND COMPANY, INC."
+  city: "MANILA"
+  branch: null
+  swift: YUOYPHM1
+    
+- name: "YU HENG SECURITIES INC."
+  city: "PASAY CITY"
+  branch: null
+  swift: HENEPHM1
+    
+- name: "YUANTA SAVINGS BANK (FORMERLY TONGYANG SAVINGS BANK)"
+  city: "MANILA"
+  branch: null
+  swift: TYBKPHMM
+    
+- name: "ZAMBALES RURAL BANK, INC."
+  city: "OLONGAPO"
+  branch: null
+  swift: ZARUPHM1
+    
+- name: "ZAMBOANGA CITY RURAL BANK, INC."
+  city: "ZAMBOANGA CITY"
+  branch: null
+  swift: ZACRPHM1
+    

@@ -1,0 +1,2340 @@
+- name: "ALBARAKA BANK (PAKISTAN)LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: AIINPKKA
+    
+- name: "ALBARAKA BANK (PAKISTAN)LIMITED"
+  city: "LAHORE"
+  branch: null
+  swift: AIINPKKALHR
+    
+- name: "ALFALAH SECURITIES (PRIVATE) LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: ALEVPKK1
+    
+- name: "ALI HUSSAIN RAJABALI (BROKERS)"
+  city: "KARACHI"
+  branch: null
+  swift: AHRRPKK1
+    
+- name: "ALLIED BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: BLUE AREA BRANCH, CORPORATE BRANCH, ISLAMABAD - 0443
+  swift: ABPAPKKA443
+    
+- name: "ALLIED BANK LIMITED"
+  city: "KARACHI"
+  branch: BRANCH KARACHI (0949)
+  swift: ABPAPKKA949
+    
+- name: "ALLIED BANK LIMITED"
+  city: "KARACHI"
+  branch: EXPORT PROCESSING ZONE BRANCH, (OFF SHORE BANKING UNIT)
+  swift: ABPAPKKAEPZ
+    
+- name: "ALLIED BANK LIMITED"
+  city: "KARACHI"
+  branch: TRADE FACTORY WING, TRADE TOWER, CENTRAL OFFICE, KARACHI.
+  swift: ABPAPKKATFW
+    
+- name: "ALLIED BANK LIMITED"
+  city: "KARACHI"
+  branch: TREASURY OPERATIONS (TROPS), OPERATIONS GROUP, CENTRAL OFFICE
+  swift: ABPAPKKATRY
+    
+- name: "ALLIED BANK LIMITED"
+  city: "LAHORE"
+  branch: CENTRALIZED SWIFT, HEAD OFFICE, LAHORE
+  swift: ABPAPKKA979
+    
+- name: "ALLIED BANK LIMITED"
+  city: "LAHORE"
+  branch: null
+  swift: ABPAPKKA
+    
+- name: "AMERICAN EXPRESS BANK LTD."
+  city: "ISLAMABAD"
+  branch: null
+  swift: AEIBPKK1ISL
+    
+- name: "AMERICAN EXPRESS BANK LTD."
+  city: "KARACHI"
+  branch: null
+  swift: AEIBPKK1
+    
+- name: "AMERICAN EXPRESS BANK LTD."
+  city: "LAHORE"
+  branch: null
+  swift: AEIBPKK1LHE
+    
+- name: "AQEEL KARIM DHEDHI (BROKERS)"
+  city: "KARACHI"
+  branch: null
+  swift: AKDBPKK1
+    
+- name: "ARIF HABIB LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: ARHAPKK1
+    
+- name: "ASKARI BANK LIMITED"
+  city: "RAWALPINDI"
+  branch: AWT PLAZA, RAWALPINDI BRANCH
+  swift: ASCMPKKA001
+    
+- name: "ASKARIBANK LIMITED"
+  city: "FAISALABAD"
+  branch: UNIVERSITY ROAD BRANCH
+  swift: ASCMPKKA009
+    
+- name: "ASKARIBANK LIMITED"
+  city: "GUJRANWALA"
+  branch: GUJRANWALA BRANCH
+  swift: ASCMPKKA012
+    
+- name: "ASKARIBANK LIMITED"
+  city: "GUJRAT"
+  branch: GUJRAT BRANCH
+  swift: ASCMPKKA037
+    
+- name: "ASKARIBANK LIMITED"
+  city: "ISLAMABAD"
+  branch: ISLAMIC BKG BR, BLUE AREA 
+  swift: ASCMPKKA905
+    
+- name: "ASKARIBANK LIMITED"
+  city: "KARACHI"
+  branch: CENTRAL FOREIGN TRADE UNIT
+  swift: ASCMPKKAFT1
+    
+- name: "ASKARIBANK LIMITED"
+  city: "KARACHI"
+  branch: ISLAMIC BKG BR, JODIA BAZAR
+  swift: ASCMPKKA904
+    
+- name: "ASKARIBANK LIMITED"
+  city: "KARACHI"
+  branch: ISLAMIC TREASURY DESK, KHI
+  swift: ASCMPKKAIBT
+    
+- name: "ASKARIBANK LIMITED"
+  city: "KARACHI"
+  branch: SAIMA TRADE TOWER BRANCH
+  swift: ASCMPKKA002
+    
+- name: "ASKARIBANK LIMITED"
+  city: "KARACHI"
+  branch: TREASURY DIVISION
+  swift: ASCMPKKATRY
+    
+- name: "ASKARIBANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: ASCMPKKA
+    
+- name: "ASKARIBANK LIMITED"
+  city: "LAHORE"
+  branch: CENTRAL FOREIGN TRADE UNIT
+  swift: ASCMPKKAFT2
+    
+- name: "ASKARIBANK LIMITED"
+  city: "LAHORE"
+  branch: ISLAMIC BKG BR, WALTON CANTT
+  swift: ASCMPKKA906
+    
+- name: "ASKARIBANK LIMITED"
+  city: "LAHORE"
+  branch: SAT BRANCH
+  swift: ASCMPKKA006
+    
+- name: "ASKARIBANK LIMITED"
+  city: "MULTAN"
+  branch: MULTAN BRANCH
+  swift: ASCMPKKA013
+    
+- name: "ASKARIBANK LIMITED"
+  city: "PESHAWAR"
+  branch: CANTONMENT BRANCH
+  swift: ASCMPKKA004
+    
+- name: "ASKARIBANK LIMITED"
+  city: "PESHAWAR"
+  branch: IBB, PESHAWAR
+  swift: ASCMPKKA902
+    
+- name: "ASKARIBANK LIMITED"
+  city: "QUETTA"
+  branch: CANTONMENT BRANCH
+  swift: ASCMPKKA003
+    
+- name: "ASKARIBANK LIMITED"
+  city: "QUETTA"
+  branch: ISLAMIC BKG BR,JINNAH RD
+  swift: ASCMPKKA903
+    
+- name: "ASKARIBANK LIMITED"
+  city: "RAWALPINDI"
+  branch: CENTRAL FOREIGN TRADE UNIT
+  swift: ASCMPKKAFT3
+    
+- name: "ASKARIBANK LIMITED"
+  city: "RAWALPINDI"
+  branch: HEAD OFFICE, RAWALPINDI 
+  swift: ASCMPKKAHOR
+    
+- name: "ASKARIBANK LIMITED"
+  city: "RAWALPINDI"
+  branch: IBB, RAWALPINDI
+  swift: ASCMPKKA901
+    
+- name: "ASKARIBANK LIMITED"
+  city: "RAWALPINDI"
+  branch: INTERNATIONAL DIVISION
+  swift: ASCMPKKAIND
+    
+- name: "ASKARIBANK LIMITED"
+  city: "SIALKOT"
+  branch: SIALKOT BRANCH
+  swift: ASCMPKKA010
+    
+- name: "AZIZ FIDA HUSSAIN (BROKERS)"
+  city: "KARACHI"
+  branch: null
+  swift: AFHBPKK1
+    
+- name: "B. SALEEM GAZIPURA (BROKERS)"
+  city: "KARACHI"
+  branch: null
+  swift: SAGRPKK1
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "FAISALABAD"
+  branch: FAISALABAD BRANCH
+  swift: BAHLPKKAFSD
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "ISLAMABAD"
+  branch: ISLAMABAD BRANCH
+  swift: BAHLPKKAISL
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "KARACHI"
+  branch: CENTRAL PROCESSING UNIT
+  swift: BAHLPKKACPU
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "KARACHI"
+  branch: EXPORT PROCESSING ZONE BRANCH
+  swift: BAHLPKKAEPZ
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "KARACHI"
+  branch: ISLAMIC BANKING DIVISION
+  swift: BAHLPKKAIBD
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "KARACHI"
+  branch: JODIA BAZAR
+  swift: BAHLPKKAJBZ
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "KARACHI"
+  branch: KARACHI MAIN BRANCH
+  swift: BAHLPKKAKHI
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "KARACHI"
+  branch: L C CENTRE
+  swift: BAHLPKKALCC
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: BAHLPKKA
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "LAHORE"
+  branch: LAHORE BRANCH
+  swift: BAHLPKKALHR
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "MULTAN"
+  branch: MULTAN MAIN BRANCH
+  swift: BAHLPKKAMUL
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "FAISALABAD"
+  branch: PEOPLES COLONY BRANCH
+  swift: ALFHPKKA054
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "ISLAMABAD"
+  branch: F-10 MARKAZ BRANCH
+  swift: ALFHPKKA131
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "KARACHI"
+  branch: CENTRALIZED CLEARING DEPARTMENT
+  swift: ALFHPKKACCL
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "KARACHI"
+  branch: CENTRALIZED EXPORT DEPARTMENT
+  swift: ALFHPKKACED
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "KARACHI"
+  branch: CENTRALIZED GUARANTEES DEPARTMENT
+  swift: ALFHPKKACGD
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "KARACHI"
+  branch: CENTRALIZED IMPORTS DEPARTMENT
+  swift: ALFHPKKACID
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "KARACHI"
+  branch: CENTRALIZED ISLAMIC TRADE
+  swift: ALFHPKKACIT
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "KARACHI"
+  branch: CENTRALIZED REMITTANCE DEPARTMENT
+  swift: ALFHPKKACRD
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "KARACHI"
+  branch: ISLAMIC BANKING, UNI TOWERS BRANCH
+  swift: ALFHPKKA505
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "KARACHI"
+  branch: TREASURY OPERATIONS (CON)
+  swift: ALFHPKKATRY
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: ALFHPKKA
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "LAHORE"
+  branch: GULBERG BRANCH, LAHORE
+  swift: ALFHPKKAGBL
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "MULTAN"
+  branch: QUAID-E-AZAM ROAD BR MULTAN CANTT
+  swift: ALFHPKKA285
+    
+- name: "BANK ALFALAH LIMITED"
+  city: "SIALKOT"
+  branch: SIALKOT BRANCH
+  swift: ALFHPKKASKT
+    
+- name: "BANK OF CHINA LIMITED KARACHI BRANCH"
+  city: "KARACHI"
+  branch: null
+  swift: BKCHPKKA
+    
+- name: "BANK OF KHYBER, THE"
+  city: "ABBOTTABAD"
+  branch: MANSEHRA ROAD BRANCH
+  swift: KHYBPKKAMRA
+    
+- name: "BANK OF KHYBER, THE"
+  city: "ATTOCK"
+  branch: ATTOCK BRANCH
+  swift: KHYBPKKAATT
+    
+- name: "BANK OF KHYBER, THE"
+  city: "FAISALABAD"
+  branch: KOTWALI ROAD BRANCH
+  swift: KHYBPKKAKRF
+    
+- name: "BANK OF KHYBER, THE"
+  city: "FAISALABAD"
+  branch: SOOSAN ROAD BRANCH
+  swift: KHYBPKKASRF
+    
+- name: "BANK OF KHYBER, THE"
+  city: "GUJRANWALA"
+  branch: GUJRANWALA BRANCH
+  swift: KHYBPKKAGJR
+    
+- name: "BANK OF KHYBER, THE"
+  city: "GUJRAT"
+  branch: GUJRAT BRANCH
+  swift: KHYBPKKAGUJ
+    
+- name: "BANK OF KHYBER, THE"
+  city: "ISLAMABAD"
+  branch: ISLAMABAD BRANCH
+  swift: KHYBPKKAISB
+    
+- name: "BANK OF KHYBER, THE"
+  city: "JHELUM"
+  branch: JHELUM BRANCH
+  swift: KHYBPKKAJHE
+    
+- name: "BANK OF KHYBER, THE"
+  city: "KARACHI"
+  branch: CLIFTON BRANCH
+  swift: KHYBPKKACLK
+    
+- name: "BANK OF KHYBER, THE"
+  city: "KARACHI"
+  branch: ISLAMIC BANKING DIVISION
+  swift: KHYBPKKA024
+    
+- name: "BANK OF KHYBER, THE"
+  city: "KARACHI"
+  branch: S.I.T.E BRANCH
+  swift: KHYBPKKASIK
+    
+- name: "BANK OF KHYBER, THE"
+  city: "KARACHI"
+  branch: SHAHRAH-E-FAISAL BRANCH
+  swift: KHYBPKKASFK
+    
+- name: "BANK OF KHYBER, THE"
+  city: "KARACHI"
+  branch: TREASURY OPERATIONS
+  swift: KHYBPKKATRY
+    
+- name: "BANK OF KHYBER, THE"
+  city: "LAHORE"
+  branch: DAVIS ROAD BRANCH
+  swift: KHYBPKKADRL
+    
+- name: "BANK OF KHYBER, THE"
+  city: "LAHORE"
+  branch: FAISAL TOWN BRANCH
+  swift: KHYBPKKAFTL
+    
+- name: "BANK OF KHYBER, THE"
+  city: "LAHORE"
+  branch: JOHAR TOWN BRANCH
+  swift: KHYBPKKAJTL
+    
+- name: "BANK OF KHYBER, THE"
+  city: "LAHORE"
+  branch: M.M. ALAM ROAD BRANCH
+  swift: KHYBPKKAMML
+    
+- name: "BANK OF KHYBER, THE"
+  city: "LAHORE"
+  branch: SHAH ALAM MARKET BRANCH
+  swift: KHYBPKKASAL
+    
+- name: "BANK OF KHYBER, THE"
+  city: "MIRPUR"
+  branch: MIRPUR BRANCH
+  swift: KHYBPKKAMIR
+    
+- name: "BANK OF KHYBER, THE"
+  city: "MULTAN"
+  branch: MULTAN BRANCH
+  swift: KHYBPKKAMUL
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: ASHRAF ROAD BRANCH
+  swift: KHYBPKKAARP
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: CITY BRANCH
+  swift: KHYBPKKACTP
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: G.T. ROAD BRANCH
+  swift: KHYBPKKAGTP
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: HATTAR BRANCH
+  swift: KHYBPKKAHAP
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: HAYATABAD BRANCH
+  swift: KHYBPKKAHYP
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: KHYBER BAZAR BRANCH
+  swift: KHYBPKKAKBP
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: MAIN BRANCH
+  swift: KHYBPKKAPSH
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: SADDAR ROAD BRANCH
+  swift: KHYBPKKASRP
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: UNIVERSITY ROAD BRANCH
+  swift: KHYBPKKAURP
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: WARSAK ROAD BRANCH
+  swift: KHYBPKKAWRP
+    
+- name: "BANK OF KHYBER, THE"
+  city: "PESHAWAR"
+  branch: null
+  swift: KHYBPKKA
+    
+- name: "BANK OF KHYBER, THE"
+  city: "QUETTA"
+  branch: QANDHARI BAZAR BRANCH
+  swift: KHYBPKKAQBQ
+    
+- name: "BANK OF KHYBER, THE"
+  city: "QUETTA"
+  branch: QUETTA BRANCH
+  swift: KHYBPKKAQTA
+    
+- name: "BANK OF KHYBER, THE"
+  city: "RAWALPINDI"
+  branch: BANK ROAD BRANCH
+  swift: KHYBPKKABRR
+    
+- name: "BANK OF KHYBER, THE"
+  city: "RAWALPINDI"
+  branch: JINNAH ROAD BRANCH
+  swift: KHYBPKKAJRR
+    
+- name: "BANK OF KHYBER, THE"
+  city: "SAHIWAL"
+  branch: SAHIWAL BRANCH
+  swift: KHYBPKKASAH
+    
+- name: "BANK OF KHYBER, THE"
+  city: "SARGODHA"
+  branch: SARGODHA BRANCH
+  swift: KHYBPKKASGD
+    
+- name: "BANK OF KHYBER, THE"
+  city: "SIALKOT"
+  branch: SIALKOT BRANCH
+  swift: KHYBPKKASKT
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "FAISALABAD"
+  branch: SMALL D GROUND BRANCH
+  swift: BPUNPKKA010
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "GUJRANWALA"
+  branch: TRUST PLAZA BRANCH
+  swift: BPUNPKKA011
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "KARACHI"
+  branch: CENTRALIZED REMITTANCE UNIT - CRU
+  swift: BPUNPKKACRU
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "KARACHI"
+  branch: TPC KARACHI
+  swift: BPUNPKKA239
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "KARACHI"
+  branch: null
+  swift: BPUNPKKA
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "LAHORE"
+  branch: BANK SQUARE BRANCH
+  swift: BPUNPKKA024
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "LAHORE"
+  branch: M.M TOWER BRANCH, LAHORE
+  swift: BPUNPKKA052
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "LAHORE"
+  branch: MAIN BRANCH
+  swift: BPUNPKKA002
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "MULTAN"
+  branch: NUSRAT ROAD BRANCH
+  swift: BPUNPKKA004
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "PESHAWAR"
+  branch: SADDAR ROAD BRANCH
+  swift: BPUNPKKA241
+    
+- name: "BANK OF PUNJAB, THE"
+  city: "RAWALPINDI"
+  branch: GUL-E-AKRA PLAZA BRANCH
+  swift: BPUNPKKA014
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "KARACHI"
+  branch: KARACHI BRANCH
+  swift: BOTKPKKA
+    
+- name: "BANKISLAMI PAKISTAN LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: BKIPPKKA
+    
+- name: "BHAYANI SECURITIES (PVT) LTD."
+  city: "KARACHI"
+  branch: null
+  swift: KABBPKK1
+    
+- name: "BMA CAPITAL MANAGEMENT LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: BMCMPKK1
+    
+- name: "CENTRAL DEPOSITORY COMPANY OF PAKISTAN LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: CDCPPKK1
+    
+- name: "CITIBANK N.A."
+  city: "FAISALABAD"
+  branch: null
+  swift: CITIPKKXFAI
+    
+- name: "CITIBANK N.A."
+  city: "KARACHI"
+  branch: TRADE SERVICES DEPARTMENT - ALL BRANCHES
+  swift: CITIPKKXTRD
+    
+- name: "CITIBANK N.A."
+  city: "KARACHI"
+  branch: null
+  swift: CITIPKKX
+    
+- name: "CITIBANK N.A."
+  city: "LAHORE"
+  branch: null
+  swift: CITIPKKXLAH
+    
+- name: "CITIBANK N.A."
+  city: "RAWALPINDI"
+  branch: null
+  swift: CITIPKKXRAW
+    
+- name: "DEUTSCHE BANK AG, ISLAMABAD BRANCH"
+  city: "ISLAMABAD"
+  branch: null
+  swift: DEUTPKK1ISL
+    
+- name: "DEUTSCHE BANK AG, KARACHI BRANCH"
+  city: "ISLAMABAD"
+  branch: ISLAMABAD
+  swift: DEUTPKKAISB
+    
+- name: "DEUTSCHE BANK AG, KARACHI BRANCH"
+  city: "KARACHI"
+  branch: null
+  swift: DEUTPKKA
+    
+- name: "DEUTSCHE BANK AG, KARACHI BRANCH"
+  city: "LAHORE"
+  branch: LAHORE BRANCH
+  swift: DEUTPKKALHR
+    
+- name: "DEUTSCHE BANK AG, LAHORE BRANCH"
+  city: "LAHORE"
+  branch: null
+  swift: DEUTPKK102L
+    
+- name: "DUBAI ISLAMIC BANK PAKISTAN LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: DUIBPKKA
+    
+- name: "EFG HERMES PAKISTAN LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: EFHPPKK1
+    
+- name: "ELIXIR SECURITIES PAKISTAN (PVT) LTD"
+  city: "KARACHI"
+  branch: null
+  swift: WICAPKK1
+    
+- name: "FAISAL ISLAMIC BANK OF BAHRAIN"
+  city: "KARACHI"
+  branch: null
+  swift: FAIBPKK1
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "FAISALABAD"
+  branch: FAISALABAD BRANCH
+  swift: FAYSPKKA111
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: F-10 MARKAZ BRANCH
+  swift: FAYSPKKA126
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: ISLAMABAD BLUE AREA BRANCH
+  swift: FAYSPKKA113
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "KARACHI"
+  branch: CLIFTON BRANCH
+  swift: FAYSPKKA118
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "KARACHI"
+  branch: DHA-KARACHI BRANCH
+  swift: FAYSPKKA124
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "KARACHI"
+  branch: GULSHAN-E-IQBAL BRANCH
+  swift: FAYSPKKA119
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "KARACHI"
+  branch: JODIA BAZAR BRANCH
+  swift: FAYSPKKA123
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "KARACHI"
+  branch: SHAHEED-E-MILLAT BRANCH, KARACHI
+  swift: FAYSPKKA127
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: FAYSPKKA
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "LAHORE"
+  branch: DHA-LAHORE BRANCH
+  swift: FAYSPKKA125
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "LAHORE"
+  branch: GULBERG BRANCH
+  swift: FAYSPKKA117
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "LAHORE"
+  branch: LAHORE MALL BRANCH
+  swift: FAYSPKKA112
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "MIRPUR"
+  branch: MIRPUR -AJ AND K- BRANCH
+  swift: FAYSPKKA116
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "MULTAN"
+  branch: MULTAN BRANCH
+  swift: FAYSPKKA121
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "PESHAWAR"
+  branch: PESHAWAR BRANCH
+  swift: FAYSPKKA114
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "QUETTA"
+  branch: QUETTA BRANCH
+  swift: FAYSPKKA115
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "RAWALPINDI"
+  branch: RAWALPINDI BRANCH
+  swift: FAYSPKKA120
+    
+- name: "FAYSAL BANK LIMITED"
+  city: "SIALKOT"
+  branch: SIALKOT BRANCH
+  swift: FAYSPKKA122
+    
+- name: "FIRST CAPITAL EQUITIES LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: FCEQPKK1
+    
+- name: "FIRST WOMEN BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: FWOMPKKA
+    
+- name: "HABIB BANK LIMITED"
+  city: "FAISALABAD"
+  branch: ALLAMA IQBAL ROAD BRANCH
+  swift: HABBPKKA852
+    
+- name: "HABIB BANK LIMITED"
+  city: "FAISALABAD"
+  branch: CIRCULAR ROAD BRANCH
+  swift: HABBPKKA143
+    
+- name: "HABIB BANK LIMITED"
+  city: "FAISALABAD"
+  branch: CORPORATE CENTRE
+  swift: HABBPKKA152
+    
+- name: "HABIB BANK LIMITED"
+  city: "FAISALABAD"
+  branch: D.GROUND P.COLONY BRANCH
+  swift: HABBPKKA683
+    
+- name: "HABIB BANK LIMITED"
+  city: "FAISALABAD"
+  branch: MADINA TOWN BRANCH
+  swift: HABBPKKA748
+    
+- name: "HABIB BANK LIMITED"
+  city: "GUJRANWALA"
+  branch: BANK SQUARE BRANCH
+  swift: HABBPKKA109
+    
+- name: "HABIB BANK LIMITED"
+  city: "GUJRANWALA"
+  branch: G.T. ROAD BRANCH
+  swift: HABBPKKA682
+    
+- name: "HABIB BANK LIMITED"
+  city: "GUJRAT"
+  branch: CIRCULAR ROAD BRANCH
+  swift: HABBPKKA111
+    
+- name: "HABIB BANK LIMITED"
+  city: "HYDERABAD"
+  branch: CORPORATE CENTRE
+  swift: HABBPKKA260
+    
+- name: "HABIB BANK LIMITED"
+  city: "HYDERABAD"
+  branch: STATION ROAD BRANCH
+  swift: HABBPKKA068
+    
+- name: "HABIB BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: CDA CIVIC CENTRE BRANCH
+  swift: HABBPKKA602
+    
+- name: "HABIB BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: ISLAMABAD CORPORATE CENTRE
+  swift: HABBPKKA874
+    
+- name: "HABIB BANK LIMITED"
+  city: "JHANG"
+  branch: SHAHEED ROAD BRANCH
+  swift: HABBPKKA114
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: BAHADURABAD BRANCH
+  swift: HABBPKKA526
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: CENTRAL BRANCH
+  swift: HABBPKKA786
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: CENTRAL PROCESSING UNIT - GLOBAL OPERATIONS
+  swift: HABBPKKATIC
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: CLOTH MARKET BRANCH
+  swift: HABBPKKA004
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: CORPORATE SUB-CENTRE-PIA BRANCH
+  swift: HABBPKKA048
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: F.T.C. CORPORATE CENTRE
+  swift: HABBPKKA216
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: FOREIGN EXCHANGE BRANCH - HABIB SQUARE
+  swift: HABBPKKA007
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: HEAD OFFICE - TREASURY
+  swift: HABBPKKATRY
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: INDUSTRIAL ESTATE CORPORATE CENTRE
+  swift: HABBPKKA947
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: NAPIER ROAD BRANCH
+  swift: HABBPKKA023
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: NURSERY BRANCH
+  swift: HABBPKKA027
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: OBU-K.E.P.Z. BRANCH
+  swift: HABBPKKAEPZ
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: PAK A/C - RECONCILIATION DIVISION - H.O.K
+  swift: HABBPKKAREC
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: RTGS SERVICES
+  swift: HABBPKKARTG
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: S.D.V. BRANCH
+  swift: HABBPKKA034
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: SADDAR BRANCH
+  swift: HABBPKKA033
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: TARIQ ROAD BRANCH
+  swift: HABBPKKA038
+    
+- name: "HABIB BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: HABBPKKA
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: BADAMI BAGH BRANCH
+  swift: HABBPKKA122
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: BRANDRETH ROAD BRANCH
+  swift: HABBPKKA124
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: CANTONMENT BRANCH
+  swift: HABBPKKA125
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: CENTRE BRANCH
+  swift: HABBPKKA242
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: L.D.A. PLAZA BRANCH
+  swift: HABBPKKA315
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: MAIN MARKET GULBERG CENTRE BRANCH
+  swift: HABBPKKA172
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: OPP. HIGH COURT BRANCH
+  swift: HABBPKKA617
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: PANORAMA CENTRE BRANCH
+  swift: HABBPKKA741
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: PECO ROAD BRANCH
+  swift: HABBPKKA589
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: SHAH ALAM MARKET BRANCH
+  swift: HABBPKKA134
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: THE MALL BRANCH
+  swift: HABBPKKA135
+    
+- name: "HABIB BANK LIMITED"
+  city: "LAHORE"
+  branch: WAPDA HOUSE BRANCH
+  swift: HABBPKKA552
+    
+- name: "HABIB BANK LIMITED"
+  city: "MIRPUR"
+  branch: MAIN BRANCH
+  swift: HABBPKKA190
+    
+- name: "HABIB BANK LIMITED"
+  city: "MULTAN"
+  branch: CANTONMENT BRANCH
+  swift: HABBPKKA211
+    
+- name: "HABIB BANK LIMITED"
+  city: "MULTAN"
+  branch: CORPORATE CENTRE
+  swift: HABBPKKA270
+    
+- name: "HABIB BANK LIMITED"
+  city: "MULTAN"
+  branch: HUSSAIN AGAHI BR. MULTAN BRANCH
+  swift: HABBPKKA150
+    
+- name: "HABIB BANK LIMITED"
+  city: "PESHAWAR"
+  branch: CANTONMENT BRANCH
+  swift: HABBPKKA224
+    
+- name: "HABIB BANK LIMITED"
+  city: "PESHAWAR"
+  branch: CITY BRANCH
+  swift: HABBPKKA223
+    
+- name: "HABIB BANK LIMITED"
+  city: "PESHAWAR"
+  branch: CORPORATE CENTRE
+  swift: HABBPKKA959
+    
+- name: "HABIB BANK LIMITED"
+  city: "QUETTA"
+  branch: COMPLEX BRANCH
+  swift: HABBPKKA649
+    
+- name: "HABIB BANK LIMITED"
+  city: "QUETTA"
+  branch: JINNAH ROAD BRANCH
+  swift: HABBPKKA229
+    
+- name: "HABIB BANK LIMITED"
+  city: "RAWALPINDI"
+  branch: CANTT. BRANCH
+  swift: HABBPKKA155
+    
+- name: "HABIB BANK LIMITED"
+  city: "RAWALPINDI"
+  branch: CITY BRANCH
+  swift: HABBPKKA156
+    
+- name: "HABIB BANK LIMITED"
+  city: "RAWALPINDI"
+  branch: S.D.V. BRANCH
+  swift: HABBPKKA814
+    
+- name: "HABIB BANK LIMITED"
+  city: "SAHIWAL"
+  branch: JINNAH CHOWK BRANCH
+  swift: HABBPKKA147
+    
+- name: "HABIB BANK LIMITED"
+  city: "SARGODHA"
+  branch: KUTCHERY BAZAR BRANCH
+  swift: HABBPKKA162
+    
+- name: "HABIB BANK LIMITED"
+  city: "SIALKOT"
+  branch: CITY BRANCH
+  swift: HABBPKKA166
+    
+- name: "HABIB BANK LIMITED"
+  city: "SIALKOT"
+  branch: CORPORATE CENTRE
+  swift: HABBPKKA574
+    
+- name: "HABIB BANK LIMITED"
+  city: "SIALKOT"
+  branch: M.F.ELAHI BLDG BRANCH
+  swift: HABBPKKA541
+    
+- name: "HABIB BANK LIMITED"
+  city: "SIALKOT"
+  branch: SMALL INDUSTRIAL ESTATE BRANCH
+  swift: HABBPKKA285
+    
+- name: "HABIB BANK LIMITED"
+  city: "SUKKUR"
+  branch: FRERE ROAD BRANCH
+  swift: HABBPKKA082
+    
+- name: "HABIB BANK LIMITED"
+  city: "WAH CANTT"
+  branch: WAH CANTT BRANCH
+  swift: HABBPKKA170
+    
+- name: "HABIB BANK LIMITED"
+  city: "WAZIRABAD"
+  branch: MAIN BAZAR BRANCH
+  swift: HABBPKKA464
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "FAISALABAD"
+  branch: FAISALABAD BRANCH
+  swift: MPBLPKKA009
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "FAISALABAD"
+  branch: SARGODHA ROAD BRANCH
+  swift: MPBLPKKA054
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "GUJRANWALA"
+  branch: GUJRANWALA BRANCH
+  swift: MPBLPKKA019
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "HYDERABAD"
+  branch: HYDERABAD BRANCH
+  swift: MPBLPKKA007
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: F-10 MARKAZ BRANCH
+  swift: MPBLPKKA047
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: ISLAMABAD BRANCH
+  swift: MPBLPKKA010
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: ALAMGIR ROAD BRANCH
+  swift: MPBLPKKA029
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: ALLAMA IQBAL ROAD BRANCH
+  swift: MPBLPKKA081
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: BOAT BASIN CLIFTON BRANCH
+  swift: MPBLPKKA051
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: BUSINESS AVENUE BRANCH
+  swift: MPBLPKKA065
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: CENTRAL EXPORT UNIT
+  swift: MPBLPKKACEU
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: CENTRAL IMPORT UNIT
+  swift: MPBLPKKACIU
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: CERAMIC MARKET BRANCH
+  swift: MPBLPKKA040
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: CITY COURT BRANCH
+  swift: MPBLPKKA058
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: CLOTH MARKET BRANCH
+  swift: MPBLPKKA011
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: D.H.A. BRANCH
+  swift: MPBLPKKA024
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: DHA PHASE II BRANCH
+  swift: MPBLPKKA077
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: DHORAJI BRANCH
+  swift: MPBLPKKA033
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: GULISTAN-E-JOHAR BRANCH
+  swift: MPBLPKKA078
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: GULSHAN CHOWRANGI BRANCH
+  swift: MPBLPKKA037
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: GULSHAN-E-IQBAL BRANCH
+  swift: MPBLPKKA014
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: HBZ BAHADURABAD BRANCH
+  swift: MPBLPKKA068
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: HBZ CLIFTON BRANCH
+  swift: MPBLPKKA057
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: HBZ ISLAMIC BANKING BRANCH
+  swift: MPBLPKKA064
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: HBZ PLAZA BRANCH
+  swift: MPBLPKKA052
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: HYDERI BRANCH
+  swift: MPBLPKKA031
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: ISLAMIC BANKING BRANCH
+  swift: MPBLPKKA043
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: JODIA BAZAR BRANCH
+  swift: MPBLPKKA015
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: KARACHI STOCK EXCHANGE BRANCH
+  swift: MPBLPKKA018
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: KARIMABAD BRANCH
+  swift: MPBLPKKA022
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: KHALID BIN WALID BRANCH
+  swift: MPBLPKKA038
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: KHAYABAN-E-ITTEHAD BRANCH
+  swift: MPBLPKKA030
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: KHAYABAN-E-SHAHBAZ BRANCH
+  swift: MPBLPKKA070
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: KORANGI BRANCH
+  swift: MPBLPKKA026
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: KORANGI INDUSTRIAL AREA BRANCH
+  swift: MPBLPKKA062
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: LANDHI BRANCH
+  swift: MPBLPKKA039
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: LINES AREA BRANCH
+  swift: MPBLPKKA083
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: M.A.JINNAH ROAD BRANCH
+  swift: MPBLPKKA020
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: MAIN BRANCH
+  swift: MPBLPKKA001
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: MANGOPIR ROAD BRANCH
+  swift: MPBLPKKA075
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: MARRIOT ROAD BRANCH
+  swift: MPBLPKKA063
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: MEREWEATHER BRANCH
+  swift: MPBLPKKA056
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: MISSION ROAD BRANCH
+  swift: MPBLPKKA073
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: NORTH KARACHI INDUSTRIAL AREA BRANCH
+  swift: MPBLPKKA035
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: NORTH NAPIER ROAD BRANCH
+  swift: MPBLPKKA021
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: NORTH NAZIMABAD BRANCH
+  swift: MPBLPKKA071
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: PAPER MARKET BRANCH
+  swift: MPBLPKKA013
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: PAPOSH NAGAR BRANCH
+  swift: MPBLPKKA041
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: PLAZA SQUARE BRANCH
+  swift: MPBLPKKA059
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: PREEDY STREET BRANCH
+  swift: MPBLPKKA066
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: RASHID MINHAS ROAD BRANCH
+  swift: MPBLPKKA072
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: S.I.T.E. BRANCH
+  swift: MPBLPKKA023
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: SADDAR BRANCH
+  swift: MPBLPKKA028
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: SHARAH-E-FAISAL BRANCH
+  swift: MPBLPKKA012
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: SHERSHAH BRANCH
+  swift: MPBLPKKA045
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: SITE AVENUE BRANCH
+  swift: MPBLPKKA060
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: SOLDIER BAZAR BRANCH
+  swift: MPBLPKKA079
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: TEXTILE PLAZA BRANCH
+  swift: MPBLPKKA042
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: TIMBER MARKET BRANCH
+  swift: MPBLPKKA027
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: TREASURY DEPT. , HEAD OFFICE
+  swift: MPBLPKKA092
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: U.P. MORE BRANCH
+  swift: MPBLPKKA080
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: UNIVERSITY ROAD BRANCH
+  swift: MPBLPKKA050
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: WATER PUMP BRANCH
+  swift: MPBLPKKA044
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: MPBLPKKA
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "KASUR"
+  branch: KASUR BRANCH
+  swift: MPBLPKKA017
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: BADAMI BAGH BRANCH
+  swift: MPBLPKKA046
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: BAGHBANPURA BRANCH
+  swift: MPBLPKKA067
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: CIRCULAR ROAD BRANCH
+  swift: MPBLPKKA032
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: DAVIS ROAD BRANCH
+  swift: MPBLPKKA053
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: DEFENCE BRANCH
+  swift: MPBLPKKA034
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: GARDEN TOWN BRANCH
+  swift: MPBLPKKA074
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: GULBERG BRANCH
+  swift: MPBLPKKA025
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: ISLAMIC BANKING GULBERG BRANCH
+  swift: MPBLPKKA082
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: LAHORE BRANCH
+  swift: MPBLPKKA002
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: MAIN BOULEVARD BRANCH
+  swift: MPBLPKKA061
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: MODEL TOWN BRANCH
+  swift: MPBLPKKA048
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: RAIWIND ROAD BRANCH
+  swift: MPBLPKKA069
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: RAVI ROAD BRANCH
+  swift: MPBLPKKA076
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "LAHORE"
+  branch: SHAHRAH-E-QUAID-E-AZAM BRANCH
+  swift: MPBLPKKA084
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "MIRPUR"
+  branch: MIRPUR (A.K.) BRANCH
+  swift: MPBLPKKA005
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "MULTAN"
+  branch: MULTAN BRANCH
+  swift: MPBLPKKA008
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "PESHAWAR"
+  branch: PESHAWAR BRANCH
+  swift: MPBLPKKA003
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "QUETTA"
+  branch: QUETTA BRANCH
+  swift: MPBLPKKA004
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "RAHIMYAR KHAN"
+  branch: RAHIM YAR KHAN BRANCH
+  swift: MPBLPKKA016
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "RAWALPINDI"
+  branch: MURREE ROAD BRANCH
+  swift: MPBLPKKA055
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "RAWALPINDI"
+  branch: RAWALPINDI BRANCH
+  swift: MPBLPKKA036
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "SIALKOT"
+  branch: SIALKOT BRANCH
+  swift: MPBLPKKA006
+    
+- name: "HABIB METROPOLITAN BANK LIMITED"
+  city: "SIALKOT"
+  branch: SMALL INDUSTRIAL ESTATES BRANCH
+  swift: MPBLPKKA049
+    
+- name: "HSBC BANK OMAN S.A.O.G. (FORMERLY OMAN INTERNATIONAL BANK)"
+  city: "KARACHI"
+  branch: null
+  swift: OIBAPKK1
+    
+- name: "HSBC BANK OMAN S.A.O.G. (FORMERLY OMAN INTERNATIONAL BANK)"
+  city: "LAHORE"
+  branch: LAHORE BRANCH
+  swift: OIBAPKK1LHR
+    
+- name: "I. PURI SECURITIES (PVT) LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: PUSVPKK1
+    
+- name: "IFIC BANK LTD"
+  city: "KARACHI"
+  branch: null
+  swift: IFBLPKK1
+    
+- name: "IGI FINEX SECURITIES"
+  city: "KARACHI"
+  branch: null
+  swift: IGFSPKK1
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, KARACHI BRANCH"
+  city: "KARACHI"
+  branch: null
+  swift: ICBKPKKA
+    
+- name: "INSIGHT SECURITIES (PRIVATE) LTD"
+  city: "KARACHI"
+  branch: null
+  swift: ISSTPKK1
+    
+- name: "INTERMARKET SECURITIES LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: ITSRPKK1
+    
+- name: "INVISOR SECURITIES (PVT) LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: IVSPPKK1
+    
+- name: "JARDINE FLEMING PAKISTAN LTD."
+  city: "KARACHI"
+  branch: null
+  swift: JAFPPKK1
+    
+- name: "JEHANGIR SIDDIQUI AND CO . LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: JESIPKK1
+    
+- name: "JS BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: JSBLPKKA
+    
+- name: "JS GLOBAL CAPITAL LTD."
+  city: "KARACHI"
+  branch: null
+  swift: JSCMPKK1
+    
+- name: "KARACHI STOCK EXCHANGE (GUARANTEE) LIMITED, THE"
+  city: "KARACHI"
+  branch: null
+  swift: XKARPKK1
+    
+- name: "KHADIM ALI SHAH BUKHARI AND CO. LTD"
+  city: "KARACHI"
+  branch: null
+  swift: KASBPKK1
+    
+- name: "MAJEED ADAM"
+  city: "KARACHI"
+  branch: null
+  swift: MAADPKK1
+    
+- name: "MCB BANK LIMITED"
+  city: "FAISALABAD"
+  branch: CIRCULAR ROAD
+  swift: MUCBPKKACRF
+    
+- name: "MCB BANK LIMITED"
+  city: "GUJRANWALA"
+  branch: BANK SQUARE
+  swift: MUCBPKKABSG
+    
+- name: "MCB BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: MAIN CIVIC CENTRE BRANCH
+  swift: MUCBPKKAMCC
+    
+- name: "MCB BANK LIMITED"
+  city: "KARACHI"
+  branch: EXPORT PROCESSING ZONE
+  swift: MUCBPKKAEPZ
+    
+- name: "MCB BANK LIMITED"
+  city: "KARACHI"
+  branch: FINANCE AND TRADE CENTRE BRANCH
+  swift: MUCBPKKAFTK
+    
+- name: "MCB BANK LIMITED"
+  city: "KARACHI"
+  branch: JODIA BAZAR BRANCH
+  swift: MUCBPKKAJBK
+    
+- name: "MCB BANK LIMITED"
+  city: "KARACHI"
+  branch: MAIN BRANCH
+  swift: MUCBPKKAMBK
+    
+- name: "MCB BANK LIMITED"
+  city: "KARACHI"
+  branch: NEW CHALLI BRANCH
+  swift: MUCBPKKANCK
+    
+- name: "MCB BANK LIMITED"
+  city: "KARACHI"
+  branch: SHAHEEN COMPLEX BRANCH
+  swift: MUCBPKKASCK
+    
+- name: "MCB BANK LIMITED"
+  city: "KARACHI"
+  branch: TREASURY-RTGS
+  swift: MUCBPKKARTG
+    
+- name: "MCB BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: MUCBPKKA
+    
+- name: "MCB BANK LIMITED"
+  city: "LAHORE"
+  branch: ISLAMIC BANKING GROUP
+  swift: MUCBPKKAIBG
+    
+- name: "MCB BANK LIMITED"
+  city: "LAHORE"
+  branch: NILA GUMBAD BRANCH
+  swift: MUCBPKKANGL
+    
+- name: "MCB BANK LIMITED"
+  city: "MULTAN"
+  branch: HUSSAIN AGAHI ROAD BRANCH
+  swift: MUCBPKKAHAM
+    
+- name: "MCB BANK LIMITED"
+  city: "PESHAWAR"
+  branch: CHOWK YADGAR
+  swift: MUCBPKKACYP
+    
+- name: "MCB BANK LIMITED"
+  city: "SIALKOT"
+  branch: TRUNK BAZAR BRANCH
+  swift: MUCBPKKATBS
+    
+- name: "MCB ISLAMIC BANK LIMITED"
+  city: "LAHORE"
+  branch: null
+  swift: MCIBPKKI
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "FAISALABAD"
+  branch: CIVIL LINES
+  swift: MEZNPKKAFSD
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "GUJRANWALA"
+  branch: GUJRANWALA BRANCH, TRADE FINANCE DEPARTMENT
+  swift: MEZNPKKAGRW
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: JINNAH AVENUE
+  swift: MEZNPKKAISD
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "KARACHI"
+  branch: BIN QASIM BRANCH, TRADE FINANCE DEPARTMENT
+  swift: MEZNPKKAK04
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "KARACHI"
+  branch: DHA PHASE II EXTENSION BRANCH, TRADE FINANCE DEPARTMENT
+  swift: MEZNPKKADHA
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "KARACHI"
+  branch: HEAD OFFICE, GLOBAL REMITTANCE DEPARTMENT
+  swift: MEZNPKKAGRD
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "KARACHI"
+  branch: HEAD OFFICE, TRADE FINANCE DEPARTMENT
+  swift: MEZNPKKATFD
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "KARACHI"
+  branch: HEAD OFFICE, TREASURY BACK OFFICE
+  swift: MEZNPKKATRY
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "KARACHI"
+  branch: KORANGI BRANCH, TRADE FINANCE DEPARTMENT
+  swift: MEZNPKKAK02
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "KARACHI"
+  branch: NEW CHALLIE
+  swift: MEZNPKKAK01
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "KARACHI"
+  branch: SITE AREA BRANCH, TRADE FINANCE DEPARTMENT
+  swift: MEZNPKKAK03
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: MEZNPKKA
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "LAHORE"
+  branch: CIRCULAR ROAD BRANCH, LAHORE, TRADE FINANCE DEPARTMENT
+  swift: MEZNPKKALH2
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "LAHORE"
+  branch: GULBERG
+  swift: MEZNPKKALHR
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "MULTAN"
+  branch: NAWAH SHAHER
+  swift: MEZNPKKAMTN
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "PESHAWAR"
+  branch: PESHAWAR BRANCH, TRADE FINANCE DEPARTMENT
+  swift: MEZNPKKAPEW
+    
+- name: "MEEZAN BANK LIMITED"
+  city: "SIALKOT"
+  branch: SIALKOT BRANCH, TRADE FINANCE DEPARTMENT
+  swift: MEZNPKKASKT
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "FAISALABAD"
+  branch: COOPRATE
+  swift: NBPAPKKACOF
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "FAISALABAD"
+  branch: null
+  swift: NBPAPKKA02F
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "GUJRANWALA"
+  branch: null
+  swift: NBPAPKKA02G
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "HYDERABAD"
+  branch: null
+  swift: NBPAPKKA02H
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "ISLAMABAD"
+  branch: CORPORATE
+  swift: NBPAPKKASMB
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "ISLAMABAD"
+  branch: null
+  swift: NBPAPKKA02I
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "KARACHI"
+  branch: CORPORATE BRANCH
+  swift: NBPAPKKACPB
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "KARACHI"
+  branch: HEAD OFFICE
+  swift: NBPAPKKA
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "KARACHI"
+  branch: HEAD OFFICE
+  swift: NBPAPKKAITD
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "KARACHI"
+  branch: MAIN BRANCH
+  swift: NBPAPKKAMBR
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "KARACHI"
+  branch: OVERSEAS BANKING OPERATIONS-HEAD OFFICE KARACHI
+  swift: NBPAPKKANEC
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "LAHORE"
+  branch: COOPRATE BRANCH
+  swift: NBPAPKKACBL
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "LAHORE"
+  branch: null
+  swift: NBPAPKKA02L
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "MIRPUR"
+  branch: MAIN BRANCH/CORPORATE BRANCH
+  swift: NBPAPKKA02U
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "MULTAN"
+  branch: COOPRATE BRANCH MULTAN
+  swift: NBPAPKK1COM
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "MULTAN"
+  branch: COOPRATE BRANCH
+  swift: NBPAPKKACBM
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "MULTAN"
+  branch: null
+  swift: NBPAPKKA02M
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "MUZAFFARABAD"
+  branch: null
+  swift: NBPAPKKA02Z
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "PESHAWAR"
+  branch: null
+  swift: NBPAPKKA02P
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "QUETTA"
+  branch: null
+  swift: NBPAPKKA02Q
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "RAWALPINDI"
+  branch: null
+  swift: NBPAPKKA02R
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "SIALKOT"
+  branch: DISTRICT COURT BRANCH
+  swift: NBPAPKKA02S
+    
+- name: "NEXT CAPITAL LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: NEAIPKK1
+    
+- name: "OPTIMUS CAPITAL MANAGEMENT (PVT) LTD"
+  city: "KARACHI"
+  branch: null
+  swift: OCMVPKK1
+    
+- name: "PAKISTAN KUWAIT INVESTMENT COMPANY PRIVATE LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: PKICPKK1
+    
+- name: "PAKISTAN TOBACCO COMPANY LIMITED"
+  city: "ISLAMABAD"
+  branch: null
+  swift: BATSPKA1
+    
+- name: "PAKLIBYA HOLDING COMPANY (PRIVATE) LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: PHCPPKK1
+    
+- name: "ROYAL EXCHANGE LTD"
+  city: "SIALKOT"
+  branch: BRANCH
+  swift: ROEXPKK1SKT
+    
+- name: "ROYAL EXCHANGE LTD"
+  city: "SIALKOT"
+  branch: null
+  swift: ROEXPKK1
+    
+- name: "ROYAL EXCHANGE LTD"
+  city: "SIALKOT"
+  branch: null
+  swift: ROEXPKK1GAO
+    
+- name: "RUPALI BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: RUPBPKK1
+    
+- name: "SAMBA BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: SAMBPKKA
+    
+- name: "SILK FINANCE"
+  city: "SIALKOT"
+  branch: null
+  swift: SILKPKK1
+    
+- name: "SILKBANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: SAUDPKKA
+    
+- name: "SINDH BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: SINDPKKA
+    
+- name: "SME BANK LTD"
+  city: "ISLAMABAD"
+  branch: null
+  swift: SMESPKK1
+    
+- name: "SOCIETE GENERALE, THE FRENCH AND INTERNATIONAL BANK"
+  city: "KARACHI"
+  branch: null
+  swift: SOGEPKK1
+    
+- name: "SONERI BANK LIMITED"
+  city: "BAHAWALPUR"
+  branch: BAHAWALPUR BRANCH
+  swift: SONEPKKABWP
+    
+- name: "SONERI BANK LIMITED"
+  city: "FAISALABAD"
+  branch: MAIN BRANCH,FAISALABAD
+  swift: SONEPKKAFSD
+    
+- name: "SONERI BANK LIMITED"
+  city: "GUJRANWALA"
+  branch: MAIN BRANCH GUNJRANWALA
+  swift: SONEPKKAGJR
+    
+- name: "SONERI BANK LIMITED"
+  city: "HYDERABAD"
+  branch: MAIN BRANCH, HYDERABAD
+  swift: SONEPKKAHYD
+    
+- name: "SONERI BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: CENTRALIZED TRADE OPERATIONS
+  swift: SONEPKKAISD
+    
+- name: "SONERI BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: null
+  swift: SONEPKKAMIS
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: CENTRALIZED TRADE OPERATIONS
+  swift: SONEPKKACTO
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: CLIFTON BRANCH
+  swift: SONEPKKACKR
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: DEFENCE BRANCH
+  swift: SONEPKKADHK
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: FOREX AND TREASURY DEPARTMENT
+  swift: SONEPKKATRY
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: ISLAMIC BANKING CLOTH MARKET BRANCH
+  swift: SONEPKKAICK
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: JODIA BAZAR, KARACHI
+  swift: SONEPKKAJKR
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: KORANGI INDUSTRIAL AREA BRANCH
+  swift: SONEPKKAKKR
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: MAIN BRANCH
+  swift: SONEPKKAKAR
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: NEW CHALLI BRANCH
+  swift: SONEPKKANCK
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: SHAHRAH-E-FAISAL BRANCH
+  swift: SONEPKKASFK
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: SITE BRANCH
+  swift: SONEPKKASIK
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: SONEPKKA
+    
+- name: "SONERI BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: SONEPKKAMJK
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: AKBAR CHOWK BRANCH
+  swift: SONEPKKAALH
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: BADAMI BAGH BRANCH
+  swift: SONEPKKABBL
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: CAVALARY GROUND BRANCH
+  swift: SONEPKKACGL
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: CENTRALIZED TRADE OPERATIONS
+  swift: SONEPKKALHR
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: CHUNGI AMER SADHU
+  swift: SONEPKKACAL
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: CIRCULAR ROAD, LAHORE BRANCH
+  swift: SONEPKKACLH
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: DEFENCE BRANCH, LAHORE
+  swift: SONEPKKADLH
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: GULBERG BRANCH, LAHORE
+  swift: SONEPKKAGLH
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: ISLAMIC BANKING NEW GARDEN TOWN BRANCH
+  swift: SONEPKKAIGL
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: MODEL TOWN BRANCH
+  swift: SONEPKKAMLH
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: PHASE III, DEFENCE
+  swift: SONEPKKADPL
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: QARTABA CHOWK BRANCH LAHORE
+  swift: SONEPKKAQCL
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: THOKER NIAZ BAIG
+  swift: SONEPKKATNL
+    
+- name: "SONERI BANK LIMITED"
+  city: "LAHORE"
+  branch: UPPER MALL BRANCH
+  swift: SONEPKKAUML
+    
+- name: "SONERI BANK LIMITED"
+  city: "MULTAN"
+  branch: CENTRALIZED TRADE OPERATIONS
+  swift: SONEPKKAMTN
+    
+- name: "SONERI BANK LIMITED"
+  city: "PESHAWAR"
+  branch: CHOWK YADGAR, PESHAWAR
+  swift: SONEPKKACYP
+    
+- name: "SONERI BANK LIMITED"
+  city: "PESHAWAR"
+  branch: MAIN BRANCH,PESHAWAR
+  swift: SONEPKKAPSH
+    
+- name: "SONERI BANK LIMITED"
+  city: "PESHAWAR"
+  branch: null
+  swift: SONEPKKAIBP
+    
+- name: "SONERI BANK LIMITED"
+  city: "QUETTA"
+  branch: MAIN BRANCH,QUETTA
+  swift: SONEPKKAQTA
+    
+- name: "SONERI BANK LIMITED"
+  city: "RAWALPINDI"
+  branch: MAIN BRANCH RAWALPINDI
+  swift: SONEPKKARWP
+    
+- name: "SONERI BANK LIMITED"
+  city: "SIALKOT"
+  branch: CENTRALIZED TRADE OPERATIONS
+  swift: SONEPKKASKT
+    
+- name: "SONERI BANK LIMITED"
+  city: "SUKKUR"
+  branch: MAIN BRANCH SUKKUR
+  swift: SONEPKKASUK
+    
+- name: "SONERI BANK LIMITED"
+  city: "WAZIRABAD"
+  branch: MAIN BRANCH WAZIRABAD
+  swift: SONEPKKAWZD
+    
+- name: "STANDARD CHARTERED BANK (PAKISTAN) LIMITED"
+  city: "KARACHI"
+  branch: CLIFTON BRANCH
+  swift: SCBLPKKXCLF
+    
+- name: "STANDARD CHARTERED BANK (PAKISTAN) LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: SCBLPKKX
+    
+- name: "STANDARD CHARTERED BANK (PAKISTAN) LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: SCBLPKKXEQI
+    
+- name: "STANDARD CHARTERED BANK (PAKISTAN) LIMITED"
+  city: "LAHORE"
+  branch: LAHORE BRANCH
+  swift: SCBLPKKXLHR
+    
+- name: "STATE BANK OF PAKISTAN"
+  city: "KARACHI"
+  branch: null
+  swift: SBPPPKKA
+    
+- name: "SULTAN GHULAM HUSEIN DATTOO (BROKERS)"
+  city: "KARACHI"
+  branch: null
+  swift: SGHDPKK1
+    
+- name: "SUMMIT BANK LTD"
+  city: "KARACHI"
+  branch: FOREX AND TREASURY DEPARTMENT
+  swift: SUMBPKKATRY
+    
+- name: "SUMMIT BANK LTD"
+  city: "KARACHI"
+  branch: ISLAMIC BANKING GROUP
+  swift: SUMBPKKAIBG
+    
+- name: "SUMMIT BANK LTD"
+  city: "KARACHI"
+  branch: TRADE PROCESSING CENTER (SOUTH)
+  swift: SUMBPKKAKHI
+    
+- name: "SUMMIT BANK LTD"
+  city: "KARACHI"
+  branch: null
+  swift: SUMBPKKA
+    
+- name: "SUMMIT BANK LTD"
+  city: "LAHORE"
+  branch: TRADE PROCESSING CENTRE (NORTH)
+  swift: SUMBPKKALHE
+    
+- name: "TAURUS SECURITIES LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: TASRPKK1
+    
+- name: "THE ROYAL BANK OF SCOTLAND LIMITED"
+  city: "ISLAMABAD"
+  branch: CPU TRADE OPERATION, ISLAMABAD
+  swift: ABNAPKK1CIB
+    
+- name: "THE ROYAL BANK OF SCOTLAND LIMITED"
+  city: "ISLAMABAD"
+  branch: ISLAMABAD BRANCH
+  swift: ABNAPKK1ISB
+    
+- name: "THE ROYAL BANK OF SCOTLAND LIMITED"
+  city: "KARACHI"
+  branch: CPU TRADE OPERATION, KARACHI
+  swift: ABNAPKK1CKH
+    
+- name: "THE ROYAL BANK OF SCOTLAND LIMITED"
+  city: "KARACHI"
+  branch: REMITTANCE DEPARTMENT, KARACHI
+  swift: ABNAPKK1PIN
+    
+- name: "THE ROYAL BANK OF SCOTLAND LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: ABNAPKK1
+    
+- name: "THE ROYAL BANK OF SCOTLAND LIMITED"
+  city: "LAHORE"
+  branch: CPU TRADE OPERATION
+  swift: ABNAPKK1CLH
+    
+- name: "THE ROYAL BANK OF SCOTLAND LIMITED"
+  city: "LAHORE"
+  branch: LAHORE BRANCH
+  swift: ABNAPKK1LHR
+    
+- name: "TOPLINE SECURITIES PVT LTD."
+  city: "KARACHI"
+  branch: null
+  swift: TOSVPKK1
+    
+- name: "TRUST BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: TRBAPKK1
+    
+- name: "TRUST BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: TRBAPKK1CLI
+    
+- name: "TRUST INVESTMENT BANK LIMITED"
+  city: "LAHORE"
+  branch: null
+  swift: TIBLPKKA
+    
+- name: "UNITED BANK LIMITED"
+  city: "FAISALABAD"
+  branch: BANK SQUARE BRANCH
+  swift: UNILPKKA686
+    
+- name: "UNITED BANK LIMITED"
+  city: "ISLAMABAD"
+  branch: JINNAH AVENUE BRANCH
+  swift: UNILPKKA741
+    
+- name: "UNITED BANK LIMITED"
+  city: "KARACHI"
+  branch: CPU TRADE, HEAD OFFICE
+  swift: UNILPKKATFC
+    
+- name: "UNITED BANK LIMITED"
+  city: "KARACHI"
+  branch: UBL AMEEN-ISLAMIC BANKING DIVISION, HEAD OFFICE, KARACHI
+  swift: UNILPKKAIMB
+    
+- name: "UNITED BANK LIMITED"
+  city: "KARACHI"
+  branch: null
+  swift: UNILPKKA
+    
+- name: "UNITED BANK LIMITED"
+  city: "LAHORE"
+  branch: BANK SQUARE BRANCH
+  swift: UNILPKKA028
+    
+- name: "UNITED BANK LIMITED"
+  city: "PESHAWAR"
+  branch: DEANS TRADE CENTRE BRANCH
+  swift: UNILPKKA939
+    
+- name: "WALL STREET EXCHANGE COMPANY (PVT) LTD."
+  city: "KARACHI"
+  branch: null
+  swift: WSEPPKK1
+    

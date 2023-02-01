@@ -1,0 +1,95 @@
+- name: "BANQUE COMMERCIALE CONGOLAISE"
+  city: "POINTE-NOIRE"
+  branch: null
+  swift: CBEBCGC1
+    
+- name: "BANQUE COMMERCIALE INTERNATIONALE (EX COFIPA CONGO)"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: BCBPCGCG
+    
+- name: "BANQUE COMMERCIALE INTERNATIONALE (EX COFIPA CONGO)"
+  city: "POINTE-NOIRE"
+  branch: null
+  swift: BCBPCGCG001
+    
+- name: "BANQUE CONGOLAISE DE L'HABITAT"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: BCHCCGCG
+    
+- name: "BANQUE DE DEVELOPPEMENT DES ETATS DE L'AFRIQUE CENTRALE (BDEAC)"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: BDEACGCG
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. CONGO"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: BEACCGCG
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. CONGO"
+  city: "OUESSO"
+  branch: null
+  swift: BEACCGCGALL
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. CONGO"
+  city: "POINTE-NOIRE"
+  branch: AGENCE DE POINTE-NOIRE
+  swift: BEACCGCG410
+    
+- name: "BANQUE ESPIRITO SANTO CONGO"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: BESCCGCG
+    
+- name: "BANQUE INTERNATIONALE DU CONGO"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: CONICGC1
+    
+- name: "BANQUE INTERNATIONALE DU CONGO"
+  city: "POINTE-NOIRE"
+  branch: null
+  swift: CONICGC10C2
+    
+- name: "BANQUE POSTALE DU CONGO"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: CNNGCGCG
+    
+- name: "BANQUE SINO-CONGOLAISE POUR L'AFRIQUE"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: SCAQCGCG
+    
+- name: "BGFIBANK CONGO"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: BGFICGCG
+    
+- name: "CREDIT DU CONGO"
+  city: "POINTE-NOIRE"
+  branch: null
+  swift: BCMACGCG
+    
+- name: "ECOBANK CONGO"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: ECOCCGCG
+    
+- name: "LA CONGOLAISE DE BANQUE (LCB)"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: CRAGCGCG
+    
+- name: "SOCIETE GENERALE CONGO"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: SOGECGCG
+    
+- name: "UNITED BANK FOR AFRICA, CONGO BRAZZ"
+  city: "BRAZZAVILLE"
+  branch: null
+  swift: UNAFCGCG
+    

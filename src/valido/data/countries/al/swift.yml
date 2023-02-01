@@ -1,0 +1,225 @@
+- name: "AK-INVEST JOINT STOCK COMPANY"
+  city: "TIRANA"
+  branch: null
+  swift: AKIVALTR
+    
+- name: "ALPHA BANK ALBANIA"
+  city: "TIRANA"
+  branch: null
+  swift: CRBAALTR
+    
+- name: "AMERICAN BANK OF INVESTMENTS S.A."
+  city: "TIRANA"
+  branch: null
+  swift: EMPOALTR
+    
+- name: "BANK OF ALBANIA"
+  city: "ELBASAN"
+  branch: DEGA ELBASAN
+  swift: STANALT1ELX
+    
+- name: "BANK OF ALBANIA"
+  city: "GJIROKASTRA"
+  branch: DEGA GJIROKASTRA
+  swift: STANALT1GJX
+    
+- name: "BANK OF ALBANIA"
+  city: "KORCE"
+  branch: DEGA KORCA
+  swift: STANALT1KOX
+    
+- name: "BANK OF ALBANIA"
+  city: "LUSHNJE"
+  branch: DEGA LUSHNJA
+  swift: STANALT1LUX
+    
+- name: "BANK OF ALBANIA"
+  city: "SHKODER"
+  branch: DEGA SHKODRA
+  swift: STANALT1SHX
+    
+- name: "BANK OF ALBANIA"
+  city: "TIRANA"
+  branch: SPORTELI I BONOVE TE THESARIT BSH
+  swift: STANALT1SPX
+    
+- name: "BANK OF ALBANIA"
+  city: "TIRANA"
+  branch: null
+  swift: STANALTR
+    
+- name: "BANK OF ALBANIA"
+  city: "TIRANA"
+  branch: null
+  swift: STANALTS
+    
+- name: "BANKA KOMBETARE TREGTARE SH.A."
+  city: "TIRANA"
+  branch: null
+  swift: NCBAALTX
+    
+- name: "BANKA NBG ALBANIA SH.A."
+  city: "TIRANA"
+  branch: null
+  swift: ETHNALTX
+    
+- name: "BANKA SOCIETE GENERALE ALBANIA"
+  city: "TIRANA"
+  branch: null
+  swift: PUPPALTR
+    
+- name: "BRITISH AMERICAN TOBACCO - ALBANIA SH.P.K."
+  city: "TIRANA"
+  branch: null
+  swift: BATSALT1
+    
+- name: "CREDINS BANK S.A."
+  city: "TIRANA"
+  branch: null
+  swift: CDISALTR
+    
+- name: "CREDIT BANK OF ALBANIA"
+  city: "TIRANA"
+  branch: null
+  swift: CBOAALTR
+    
+- name: "FIRST INVESTMENT BANK-ALBANIA SH.A"
+  city: "TIRANA"
+  branch: null
+  swift: FINVALTR
+    
+- name: "INTERNATIONAL COMMERCIAL BANK"
+  city: "TIRANA"
+  branch: null
+  swift: ICOAALTR
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "DURRES"
+  branch: DURRES MAIN BRANCH
+  swift: USALALTRDUR
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "DURRES"
+  branch: DURRES TRAIN STATION BRANCH
+  swift: USALALTRDR2
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "ELBASAN"
+  branch: ELBASAN BRANCH
+  swift: USALALTRELB
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "FIER"
+  branch: FIER BRANCH
+  swift: USALALTRFIE
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "GJIROKASTRA"
+  branch: GJIROKASTRA BRANCH
+  swift: USALALTRGJR
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "KAVAJE"
+  branch: KAVAJA BRANCH
+  swift: USALALTRKJ1
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "KORCE"
+  branch: KORCE BRANCH
+  swift: USALALTRKOR
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "LEZHE"
+  branch: LEZHA BRANCH
+  swift: USALALTRLZH
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "LUSHNJE"
+  branch: LUSHNJA  BRANCH
+  swift: USALALTRLUS
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "SHKODER"
+  branch: SHKODRA BRANCH
+  swift: USALALTRSH1
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "TIRANA"
+  branch: LAPRAKA BRANCH
+  swift: USALALTR020
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "TIRANA"
+  branch: RR. BARRIKADAVE BRANCH
+  swift: USALALTR010
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "TIRANA"
+  branch: null
+  swift: USALALTR
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "VLORE"
+  branch: VLORA MAIN BRANCH
+  swift: USALALTRVLR
+    
+- name: "INTESA SANPAOLO BANK ALBANIA SH.A."
+  city: "VLORE"
+  branch: VLORA RR. SADIK ZOTAJ BRANCH
+  swift: USALALTRVL2
+    
+- name: "MINISTRY OF FINANCE OF ALBANIA"
+  city: "TIRANA"
+  branch: null
+  swift: MIFBALTR
+    
+- name: "POSTA SHQIPTARE SH.A."
+  city: "TIRANA"
+  branch: null
+  swift: SHQHALT1
+    
+- name: "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)"
+  city: "DURRES"
+  branch: DURRES BRANCH
+  swift: FEFAALTRDUR
+    
+- name: "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)"
+  city: "FIER"
+  branch: FIER BRANCH
+  swift: FEFAALTRFIE
+    
+- name: "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)"
+  city: "TIRANA"
+  branch: HEAD OFFICE
+  swift: FEFAALTR
+    
+- name: "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)"
+  city: "TIRANA"
+  branch: TIRANA BRANCH
+  swift: FEFAALTRTIR
+    
+- name: "RAIFFEISEN BANK SH.A."
+  city: "TIRANA"
+  branch: null
+  swift: SGSBALTX
+    
+- name: "TIRANA BANK"
+  city: "TIRANA"
+  branch: null
+  swift: TIRBALTR
+    
+- name: "UNION BANK SH.A."
+  city: "TIRANA"
+  branch: null
+  swift: UNALALTR
+    
+- name: "UNITED BANK OF ALBANIA SH.A"
+  city: "TIRANA"
+  branch: null
+  swift: AAISALTR
+    
+- name: "VENETO BANKA SH.A"
+  city: "TIRANA"
+  branch: null
+  swift: ITSVALTR
+    

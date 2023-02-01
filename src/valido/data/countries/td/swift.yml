@@ -1,0 +1,60 @@
+- name: "BANQUE AGRICOLE ET COMMERCIALE"
+  city: "N'DJAMENA"
+  branch: null
+  swift: BAGCTDND
+    
+- name: "BANQUE COMMERCIALE DU CHARI"
+  city: "N'DJAMENA"
+  branch: null
+  swift: BCCXTDND
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. TCHAD"
+  city: "MOUNDOU"
+  branch: AGENCE DE MOUNDOU
+  swift: BEACTDND210
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. TCHAD"
+  city: "N'DJAMENA"
+  branch: null
+  swift: BEACTDND
+    
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. TCHAD"
+  city: "SARH"
+  branch: AGENCE DE SARH
+  swift: BEACTDND220
+    
+- name: "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (TCHAD) S.A."
+  city: "N'DJAMENA"
+  branch: null
+  swift: BSAHTDND
+    
+- name: "BANQUE TCHADIENNE DE CREDIT ET DE DEPOTS S.A. (B.T.C.D.)"
+  city: "N'DJAMENA"
+  branch: null
+  swift: BTCHTDN1
+    
+- name: "COMMERCIAL BANK TCHAD"
+  city: "N'DJAMENA"
+  branch: null
+  swift: CBTNTDND
+    
+- name: "ECOBANK TCHAD"
+  city: "N'DJAMENA"
+  branch: null
+  swift: ECOCTDND
+    
+- name: "ORABANK TCHAD"
+  city: "N'DJAMENA"
+  branch: null
+  swift: ORBKTDND
+    
+- name: "SOCIETE GENERALE TCHAD"
+  city: "N'DJAMENA"
+  branch: null
+  swift: SOGETDND
+    
+- name: "UNITED BANK FOR AFRICA - TCHAD"
+  city: "N'DJAMENA"
+  branch: null
+  swift: UNAFTDND
+    

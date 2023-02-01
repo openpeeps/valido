@@ -1,0 +1,520 @@
+- name: "ADANAC INVESTMENT CO LTD."
+  city: "FREEPORT"
+  branch: null
+  swift: ADAIBSF1
+    
+- name: "ALLIANCE BANK AND TRUST"
+  city: "NASSAU"
+  branch: null
+  swift: ABATBSN1
+    
+- name: "ALLIED BANK AND TRUST COMPANY (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: ALBTBSN1
+    
+- name: "AMBER BANK AND TRUST LTD"
+  city: "NASSAU"
+  branch: null
+  swift: AMRRBSNS
+    
+- name: "ANDBANC (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: BACABSNS
+    
+- name: "ANSBACHER (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: BITCBSNS
+    
+- name: "ARBITRAL SECURITIES LTD."
+  city: "NASSAU"
+  branch: null
+  swift: ARUEBSN1
+    
+- name: "ARNER BANK AND TRUST (BAHAMAS) LTD."
+  city: "NASSAU"
+  branch: null
+  swift: ARNEBSN1
+    
+- name: "BAHAMAS DEVELOPMENT BANK"
+  city: "NASSAU"
+  branch: null
+  swift: BAHDBSN1
+    
+- name: "BANCA DEL SEMPIONE (OVERSEAS) LTD"
+  city: "NASSAU"
+  branch: null
+  swift: BASEBSNS
+    
+- name: "BANCO BBM S/A"
+  city: "NASSAU"
+  branch: null
+  swift: BBINBSNS
+    
+- name: "BANCO BILBAO VIZCAYA"
+  city: "NASSAU"
+  branch: null
+  swift: BBVIBSN1
+    
+- name: "BANCO DE BOGOTA (NASSAU) LTD."
+  city: "NASSAU"
+  branch: null
+  swift: BBOGBSNX
+    
+- name: "BANCO POPULAR INTERNATIONAL LTD."
+  city: "NASSAU"
+  branch: null
+  swift: BPOIBSN1
+    
+- name: "BANCO SANTANDER BAHAMAS INTERNATIONAL LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: BSCHBSN1
+    
+- name: "BANCO SANTANDER BAHAMAS INTL. LTD."
+  city: "NASSAU"
+  branch: null
+  swift: SCHTBSNS
+    
+- name: "BANCO VOTORANTIM S/A - NASSAU BRANCH"
+  city: "NASSAU"
+  branch: null
+  swift: BAVOBSNS
+    
+- name: "BANK J. SAFRA SARASIN (BAHAMAS) LTD."
+  city: "NASSAU"
+  branch: null
+  swift: BSAFBSNS
+    
+- name: "BANK OF BARODA, OFFSHOREBANKING UNIT, NASSAU, BAHAMAS"
+  city: "NASSAU"
+  branch: null
+  swift: BARBBSNS
+    
+- name: "BANK OF NOVA SCOTIA TRUST COMPANY (BAHAMAS) LTD,THE"
+  city: "NASSAU"
+  branch: null
+  swift: NOSCBSNT
+    
+- name: "BANK OF THE BAHAMAS LIMITED"
+  city: "FREEPORT"
+  branch: null
+  swift: BOTBBSNS0FR
+    
+- name: "BANK OF THE BAHAMAS LIMITED"
+  city: "INAGUA"
+  branch: null
+  swift: BOTBBSNS0N2
+    
+- name: "BANK OF THE BAHAMAS LIMITED"
+  city: "NASSAU"
+  branch: MAIN BRANCH
+  swift: BOTBBSNS0N3
+    
+- name: "BANK OF THE BAHAMAS LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: BOTBBSNS
+    
+- name: "BANKAMERICA TRUST BANKING CORPORATION (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: BOFABSN1
+    
+- name: "BANQUE HAVILLAND (BAHAMAS) LTD."
+  city: "NASSAU"
+  branch: null
+  swift: HAVLBSNS
+    
+- name: "BBM BANK LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: BBINBSNX
+    
+- name: "CAPITAL UNION BANK"
+  city: "NASSAU"
+  branch: null
+  swift: CUBLBSNS
+    
+- name: "CBH (BAHAMAS) LTD."
+  city: "NASSAU"
+  branch: null
+  swift: BSSABSNS
+    
+- name: "CENTRAL BANK OF THE BAHAMAS,THE"
+  city: "NASSAU"
+  branch: null
+  swift: CBBHBSNS
+    
+- name: "CHASE MANHATTAN TRUST CORPORATION LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: CHASBSN1
+    
+- name: "CIBC TRUST COMPANY (BAHAMAS) LTD SOLOMON'S BUILDING"
+  city: "NASSAU"
+  branch: null
+  swift: CIBCBSNB
+    
+- name: "CITCO BANK AND TRUST COMPANY (BAHAMAS) LTD."
+  city: "NASSAU"
+  branch: null
+  swift: CITCBSNS
+    
+- name: "CITIBANK NA"
+  city: "NASSAU"
+  branch: CITITRUST BAHAMAS THIRD PARTY STATEMENTS
+  swift: CITIBSNATPS
+    
+- name: "CITIBANK NA"
+  city: "NASSAU"
+  branch: null
+  swift: CITIBSNA
+    
+- name: "CITICORP BANKING CORPORATION"
+  city: "NASSAU"
+  branch: null
+  swift: CITIBSN1
+    
+- name: "CITITRUST (BAHAMAS) LTD."
+  city: "NASSAU"
+  branch: null
+  swift: CIBABSN1
+    
+- name: "COMMONWEALTH BANK LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: COMWBSNS
+    
+- name: "CORNER BANK (OVERSEAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: CBLUBSN2
+    
+- name: "CREDIT SUISSE AG, NASSAU BRANCH"
+  city: "NASSAU"
+  branch: NASSAU BRANCH
+  swift: CRESBSNS
+    
+- name: "CREDIT SUISSE AG, NASSAU BRANCH"
+  city: "NASSAU"
+  branch: STRUCTURED PRODUCTS
+  swift: CRESBSNSSIP
+    
+- name: "CREDIT SUISSE AG, NASSAU BRANCH, LATAM INVESTMENT BANKING"
+  city: "NASSAU"
+  branch: null
+  swift: GBLIBSNX
+    
+- name: "CREDIT SUISSE AG, NASSAU BRANCH, PRIVATE BANKING"
+  city: "NASSAU"
+  branch: PRIVATE BANKING
+  swift: CRESBSNSCRE
+    
+- name: "CREDIT SUISSE AG, NASSAU BRANCH, TREASURY AND ISSUANCE"
+  city: "NASSAU"
+  branch: NASSAU BRANCH
+  swift: CRESBSNSNAS
+    
+- name: "CREDIT SUISSE AG, NASSAU BRANCH, WEALTH MANAGEMENT"
+  city: "NASSAU"
+  branch: null
+  swift: CRESBSNX
+    
+- name: "CREDIT SUISSE BRAZIL (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: BIGABSNS
+    
+- name: "CREDIT SUISSE BRAZIL (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: BIGABSNSABT
+    
+- name: "DARTLEY BANK AND TRUST LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: DATUBSNS
+    
+- name: "DELTEC BANK AND TRUST LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: DBTLBSNS
+    
+- name: "EFG BANK AND TRUST (BAHAMAS) LTD"
+  city: "NASSAU"
+  branch: null
+  swift: EFGBBSNS
+    
+- name: "EQUITY BANK AND TRUST BAHAMAS LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: EQTTBSNS
+    
+- name: "EUROBANCO BANK LTD"
+  city: "NASSAU"
+  branch: null
+  swift: EUBOBSNS
+    
+- name: "EUROPEAN INVESTMENTS MANAGEMENT LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: EIMLBSN1
+    
+- name: "FIDELITY BANK (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: BTAMBSNS
+    
+- name: "FINANCE CORPORATION OF BAHAMAS LTD."
+  city: "FREEPORT"
+  branch: FREEPORT BRANCH
+  swift: FICBBSN10N4
+    
+- name: "FINANCE CORPORATION OF BAHAMAS LTD."
+  city: "NASSAU"
+  branch: MAIN BRANCH
+  swift: FICBBSN1
+    
+- name: "FINANCE CORPORATION OF BAHAMAS LTD."
+  city: "NASSAU"
+  branch: PALMDALE BRANCH
+  swift: FICBBSN10N2
+    
+- name: "FINANCE CORPORATION OF BAHAMAS LTD."
+  city: "NASSAU"
+  branch: ROBINSON ROAD BRANCH
+  swift: FICBBSN10N3
+    
+- name: "FIRST OVERSEAS BANK LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: FOBLBSNS
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: FCIBBSNS
+    
+- name: "GILINGAM BANK AND TRUST LTD."
+  city: "NASSAU"
+  branch: null
+  swift: GLNGBSN1
+    
+- name: "GONET BANK AND TRUST LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: GONEBSNS
+    
+- name: "GUARANTY TRUST BANK LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: GTBLBSN1
+    
+- name: "HANG SENG BANK (BAHAMAS) LTD."
+  city: "NASSAU"
+  branch: null
+  swift: HASEBSN1
+    
+- name: "HSBC NOMINEES NASSAU LTD."
+  city: "NASSAU"
+  branch: null
+  swift: HSNNBSN1
+    
+- name: "HSBC PRIVATE BANK (SUISSE) SA"
+  city: "NASSAU"
+  branch: null
+  swift: BLICBSN1
+    
+- name: "ITAU UNIBANCO S.A. - NASSAU BRANCH (FORMERLY BANCO ITAU BBA S.A. - NASSAU BRANCH)"
+  city: "NASSAU"
+  branch: CASH CUSTOMERS TRANFS
+  swift: CBBABSNSBNF
+    
+- name: "ITAU UNIBANCO S.A. - NASSAU BRANCH (FORMERLY BANCO ITAU BBA S.A. - NASSAU BRANCH)"
+  city: "NASSAU"
+  branch: null
+  swift: CBBABSNS
+    
+- name: "ITAU UNIBANCO S.A. - NASSAU BRANCH (FORMERLY BANCO ITAU BBA S.A. - NASSAU BRANCH)"
+  city: "NASSAU"
+  branch: null
+  swift: CBBABSNSGCH
+    
+- name: "J. SAFRA BANK (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: JSBBBSN1
+    
+- name: "JULIUS BAER BANK AND TRUST (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: JBBTBSNS
+    
+- name: "KARLA DERIVATIVES STRATEGIES FUND LTD."
+  city: "NASSAU"
+  branch: null
+  swift: KARLBSN1
+    
+- name: "LOMBARD ODIER AND CIE (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: NDP DEPT
+  swift: LOCYBSNSNDP
+    
+- name: "LOMBARD ODIER AND CIE (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: LOCYBSNS
+    
+- name: "LYFORD INTERNATIONAL BANK AND TRUST LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: HOBTBSNS
+    
+- name: "LYFORD INTL BANK AND TRUST LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: LIBTBSNS
+    
+- name: "MACRO BANK LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: MCROBSN1
+    
+- name: "MC. DERMOTT INTERNATIONAL INVESTMENTS CO. LTD."
+  city: "NASSAU"
+  branch: null
+  swift: DEIIBSN1
+    
+- name: "MMG BANK AND TRUST"
+  city: "NASSAU"
+  branch: null
+  swift: MMGBBSNS
+    
+- name: "OCEANIC BANK AND TRUST LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: OBATBSN1
+    
+- name: "OCEANIC BANK AND TRUST LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: RAWTBSN1
+    
+- name: "PASCHE BANK AND TRUST LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: BPGEBSN1
+    
+- name: "PICTET BANK AND TRUST LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: PICTBSNX
+    
+- name: "PNC BANK, N.A. NASSAU BRANCH"
+  city: "NASSAU"
+  branch: null
+  swift: PNCCBSNS
+    
+- name: "PRIVATE INVESTMENT BANK LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: DWCIBSNS
+    
+- name: "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)"
+  city: "FREEPORT"
+  branch: FREEPORT BRANCH
+  swift: ROYCBSNSFRE
+    
+- name: "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)"
+  city: "FREEPORT"
+  branch: null
+  swift: ROYCBSN10FR
+    
+- name: "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)"
+  city: "NASSAU"
+  branch: ALL OFFICES
+  swift: ROYCBSNS
+    
+- name: "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)"
+  city: "NASSAU"
+  branch: HEAD OFFICE OPERATIONS CENTRE
+  swift: ROYCBSNSOPC
+    
+- name: "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)"
+  city: "NASSAU"
+  branch: MAIN BRANCH
+  swift: ROYCBSNSMAI
+    
+- name: "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)"
+  city: "NASSAU"
+  branch: PALMDALE BRANCH
+  swift: ROYCBSNSPAL
+    
+- name: "ROYAL BANK OF CANADA TRUST COMPANY (BAHAMAS) LIMITED"
+  city: "NASSAU"
+  branch: null
+  swift: RCTCBSN1
+    
+- name: "ROYAL BANK OF SCOTLAND (NASSAU) LIMITED, THE"
+  city: "NASSAU"
+  branch: null
+  swift: RBOSBSN1
+    
+- name: "RURAL INTERNATIONAL BANK"
+  city: "NASSAU"
+  branch: null
+  swift: RUBABSN1
+    
+- name: "SCOTIABANK (BAHAMAS) LTD"
+  city: "FREEPORT"
+  branch: FREEPORT BRANCH
+  swift: NOSCBSNSFPO
+    
+- name: "SCOTIABANK (BAHAMAS) LTD"
+  city: "NASSAU"
+  branch: CARIBBEAN TREASURY UNIT
+  swift: NOSCBSNSTMK
+    
+- name: "SCOTIABANK (BAHAMAS) LTD"
+  city: "NASSAU"
+  branch: null
+  swift: NOSCBSNS
+    
+- name: "STATE BANK OF INDIA, NASSAU OBU"
+  city: "NASSAU"
+  branch: null
+  swift: SBINBSNS
+    
+- name: "STERLING BANK AND TRUST LTD."
+  city: "NASSAU"
+  branch: null
+  swift: STGTBSNS
+    
+- name: "SYZ BANK (BAHAMAS) LTD."
+  city: "NASSAU"
+  branch: null
+  swift: SYCOBSN1
+    
+- name: "UNION BANCAIRE PRIVEE"
+  city: "NASSAU"
+  branch: FUND ADMINISTRATION DEPARTMENT
+  swift: NFZBBSNSFND
+    
+- name: "UNION BANCAIRE PRIVEE"
+  city: "NASSAU"
+  branch: null
+  swift: NFZBBSNS
+    
+- name: "UNION BANCAIRE PRIVEE (BAHAMAS) LTD"
+  city: "NASSAU"
+  branch: null
+  swift: UBPGBSNS
+    
+- name: "WINTERBOTHAM TRUST COMPANY LIMITED, THE"
+  city: "NASSAU"
+  branch: null
+  swift: WNTRBSNS
+    

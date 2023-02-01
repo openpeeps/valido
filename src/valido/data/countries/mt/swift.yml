@@ -1,0 +1,530 @@
+- name: "A3E CAPITAL SICAV P.L.C."
+  city: "BIRKIRKARA"
+  branch: null
+  swift: CPSCMTM1
+    
+- name: "AGRIBANK PLC"
+  city: "LUQA"
+  branch: null
+  swift: AGRKMTMT
+    
+- name: "AKBANK T.A.S. (MALTA BRANCH)"
+  city: "ST. JULIAN'S"
+  branch: null
+  swift: AKBKMTMT
+    
+- name: "AMAGIS CAPITAL FUNDS SICAV PLC"
+  city: "VALLETTA"
+  branch: null
+  swift: ACFCMTM1
+    
+- name: "AMICORP FUND SERVICES MALTA LIMITED"
+  city: "TA'XBIEX"
+  branch: null
+  swift: AFSMMTM1
+    
+- name: "AMSTEL CAPITAL (MALTA) LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: AMCTMTM1
+    
+- name: "APRIL MEDITERRANEAN LIMITED"
+  city: "BIRKIRKARA"
+  branch: null
+  swift: APMEMTM1
+    
+- name: "APS BANK LTD."
+  city: "BIRKIRKARA"
+  branch: null
+  swift: APSBMTMT
+    
+- name: "ATLAS INVESTMENT SERVICES LIMITED"
+  city: "TA'XBIEX"
+  branch: null
+  swift: ATISMTM1
+    
+- name: "AURORA SICAV PLC"
+  city: "VALLETTA"
+  branch: null
+  swift: AUSVMTM1
+    
+- name: "AVUS FUND"
+  city: "BIRKIRKARA"
+  branch: null
+  swift: AVFUMTM1
+    
+- name: "AXERIA RE"
+  city: "SWIEQI"
+  branch: null
+  swift: AXERMTM1
+    
+- name: "BANK OF VALLETTA P.L.C."
+  city: "VALLETTA"
+  branch: null
+  swift: VALLMTMT
+    
+- name: "BARCLAYS INTERNATIONAL INVESTMENTS (MALTA) LIMITED"
+  city: "ST. JULIAN'S"
+  branch: null
+  swift: BARCMTM1
+    
+- name: "BNF BANK PLC (FORMERLY BANIF BANK MALTA)"
+  city: "GZIRA"
+  branch: null
+  swift: BNIFMTMT
+    
+- name: "CALAMATTA CUSCHIERI INVESTMENT SERVICES LIMITED"
+  city: "BIRKIRKARA"
+  branch: null
+  swift: CCUHMTMT
+    
+- name: "CENTRAL BANK OF MALTA"
+  city: "VALLETTA"
+  branch: EUREX BRANCH ACCOUNT
+  swift: MALTMTMTGCP
+    
+- name: "CENTRAL BANK OF MALTA"
+  city: "VALLETTA"
+  branch: null
+  swift: MALTMTMT
+    
+- name: "CENTRAL SECURITIES DEPOSITORY, THE"
+  city: "VALLETTA"
+  branch: null
+  swift: CESDMTM1
+    
+- name: "CHARTS INVESTMENT MANAGEMENT SERVICE LIMITED"
+  city: "FLORIANA"
+  branch: null
+  swift: CIMVMTM1
+    
+- name: "CITCO CUSTODY LIMITED"
+  city: "VALLETTA"
+  branch: null
+  swift: CITCMTMT
+    
+- name: "COMMBANK EUROPE LTD"
+  city: "SLIEMA"
+  branch: null
+  swift: CTBEMTM1
+    
+- name: "CREDIT EUROPE BANK N.V. MALTA BRANCH"
+  city: "SLIEMA"
+  branch: null
+  swift: FBHLMTMT
+    
+- name: "CREDORAX BANK LIMITED"
+  city: "VALLETTA"
+  branch: null
+  swift: CRXBMTMT
+    
+- name: "CRYSTAL FINANCE INVESTMENTS LTD."
+  city: "VALLETTA"
+  branch: null
+  swift: CRFVMTM1
+    
+- name: "CULTOR ASSET MANAGEMENT INTERNATIONAL LIMITED"
+  city: "MARSASCALA"
+  branch: null
+  swift: CSMIMTM1
+    
+- name: "CURMI AND PARTNERS LIMITED"
+  city: "TA'XBIEX"
+  branch: null
+  swift: CURPMTM1
+    
+- name: "D.B.R. INVESTMENTS LIMITED"
+  city: "ZURRIEQ"
+  branch: null
+  swift: DBINMTM1
+    
+- name: "ECCM BANK PLC"
+  city: "SLIEMA"
+  branch: null
+  swift: ECMBMTMT
+    
+- name: "EFT GLOBAL LIMITED"
+  city: "VALLETTA"
+  branch: null
+  swift: EFTGMTM2
+    
+- name: "EIGER SICAV PLC"
+  city: "VALLETTA"
+  branch: null
+  swift: EISIMTM1
+    
+- name: "EMONEY PLC"
+  city: "SLIEMA"
+  branch: null
+  swift: EMONMTM2
+    
+- name: "EMP SYSTEMS LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: EMSYMTM1
+    
+- name: "EPIC FINANCIAL SERVICES LIMITED"
+  city: "BURMARRAD"
+  branch: null
+  swift: EPFSMTM1
+    
+- name: "EUROCHANGE FINANCIAL SERVICES LTD"
+  city: "GZIRA"
+  branch: null
+  swift: EUFVMTM1
+    
+- name: "EXANTE LTD."
+  city: "ST. JULIAN'S"
+  branch: null
+  swift: EXAEMTM1
+    
+- name: "FCM BANK LIMITED"
+  city: "ST. JULIAN'S"
+  branch: null
+  swift: FCMFMTMT
+    
+- name: "FERRATUM BANK LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: FEMAMTMT
+    
+- name: "FEXSERV FINANCIAL SERVICES LIMITED"
+  city: "SAN GWANN"
+  branch: null
+  swift: FFSMMTM1
+    
+- name: "FIMBANK PLC"
+  city: "ST. JULIAN'S"
+  branch: null
+  swift: FIMBMTM3
+    
+- name: "FINACOM INVESTMENT HOUSE LIMITED"
+  city: "G'MANGIA"
+  branch: null
+  swift: FIIHMTM1
+    
+- name: "FINANCIAL PLANNING SERVICES LIMITED"
+  city: "TA'XBIEX"
+  branch: null
+  swift: FPLSMTM1
+    
+- name: "FINANCIAL PLUS INVESTMENT SERVICES LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: FPISMTM1
+    
+- name: "FINCO TREASURY MANAGEMENT LIMITED"
+  city: "FLORIANA"
+  branch: null
+  swift: FTRMMTM1
+    
+- name: "GARANTI BANK, MALTA BRANCH"
+  city: "SLIEMA"
+  branch: null
+  swift: TGBAMTMT
+    
+- name: "GLOBALCAPITAL FINANCIAL MANAGEMENT LIMITED"
+  city: "BALZAN"
+  branch: null
+  swift: GLFMMTM1
+    
+- name: "GLOBALCAPITAL FUND ADVISORS LIMITED"
+  city: "GZIRA"
+  branch: null
+  swift: GLFAMTM1
+    
+- name: "GROWTH INVESTMENTS LIMITED"
+  city: "FLORIANA"
+  branch: null
+  swift: GROIMTM1
+    
+- name: "HEKA FUNDS SICAV PLC"
+  city: "MRIEHEL"
+  branch: null
+  swift: HFSIMTM1
+    
+- name: "HIGHLAND SICAV PLC"
+  city: "TA'XBIEX"
+  branch: null
+  swift: HISVMTM1
+    
+- name: "HOGG CAPITAL INVESTMENTS LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: HOCIMTM1
+    
+- name: "HOGG CAPITAL INVESTMENTS LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: HOCVMTM1
+    
+- name: "HSBC BANK MALTA P.L.C."
+  city: "QORMI"
+  branch: null
+  swift: MMEBMTM10M2
+    
+- name: "HSBC BANK MALTA P.L.C."
+  city: "VALLETTA"
+  branch: null
+  swift: MMEBMTMT
+    
+- name: "HSBC FUND MANAGEMENT (MALTA) LIMITED"
+  city: "BLATA IL-BAJDA"
+  branch: null
+  swift: HSFMMTM1
+    
+- name: "HSBC INVESTMENT SERVICES (MALTA) LIMITED"
+  city: "BLATA IL-BAJDA"
+  branch: null
+  swift: HINSMTM1
+    
+- name: "HSBC STOCKBROKERS (MALTA) LIMITED"
+  city: "VALLETTA"
+  branch: null
+  swift: HSSBMTM1
+    
+- name: "IIG BANK (MALTA) LTD"
+  city: "ST. JULIAN'S"
+  branch: null
+  swift: IIGBMTMT
+    
+- name: "ISLAND FINANCIAL SERVICES LIMITED"
+  city: "BIRKIRKARA"
+  branch: null
+  swift: ISFSMTM1
+    
+- name: "IZOLA BANK LIMITED"
+  city: "VALLETTA"
+  branch: null
+  swift: IZOLMTMT
+    
+- name: "JESMOND MIZZI FINANCIAL SERVICES LIMITED"
+  city: "VALLETTA"
+  branch: null
+  swift: JMFSMTM1
+    
+- name: "KBC EURO CREDIT LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: KBCEMTMT
+    
+- name: "LOMBARD ASSET MANAGERS LIMITED"
+  city: "MRIEHEL"
+  branch: null
+  swift: LOAGMTM1
+    
+- name: "LOMBARD BANK MALTA PLC"
+  city: "VALLETTA"
+  branch: null
+  swift: LBMAMTMT
+    
+- name: "M.Z. INVESTMENT SERVICES LIMITED"
+  city: "RABAT"
+  branch: null
+  swift: MZNSMTM1
+    
+- name: "MALTA STOCK EXCHANGE"
+  city: "VALLETTA"
+  branch: null
+  swift: XMALMTMT
+    
+- name: "MEDIRECT BANK (MALTA) PLC"
+  city: "VALLETTA"
+  branch: null
+  swift: MBWMMTMT
+    
+- name: "MFC MERCHANT BANK LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: MFCBMTMS
+    
+- name: "MICHAEL GRECH FINANCIAL INVESTMENT SERVICES LIMITED"
+  city: "VICTORIA"
+  branch: null
+  swift: MGFIMTM1
+    
+- name: "MISTRAL PAY LTD"
+  city: "VALLETTA"
+  branch: ALL BRANCHES
+  swift: MIPYMTM1ALL
+    
+- name: "MISTRAL PAY LTD"
+  city: "VALLETTA"
+  branch: null
+  swift: MIPYMTM1
+    
+- name: "MTACC LIMITED"
+  city: "ST. JULIAN'S"
+  branch: null
+  swift: MTCCMTMT
+    
+- name: "NBG BANK MALTA LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: FNNBMTMT
+    
+- name: "NOVUM BANK LTD"
+  city: "TA'XBIEX"
+  branch: null
+  swift: VOCBMTMT
+    
+- name: "PAPAYA LTD"
+  city: "BIRKIRKARA"
+  branch: null
+  swift: PAPYMTM1
+    
+- name: "PAYMIX LIMITED"
+  city: "SAN GWANN"
+  branch: null
+  swift: PYMXMTMT
+    
+- name: "PDK FINANCIAL SERVICES LIMITED"
+  city: "ST. JULIAN'S"
+  branch: null
+  swift: PDKFMTM1
+    
+- name: "PERSYSTEMCY SICAV PLC"
+  city: "SLIEMA"
+  branch: null
+  swift: PESIMTM1
+    
+- name: "PILATUS BANK PLC"
+  city: "TA'XBIEX"
+  branch: null
+  swift: PLTSMTMT
+    
+- name: "RAIFFEISEN MALTA BANK PLC"
+  city: "SLIEMA"
+  branch: null
+  swift: RZBMMTM1
+    
+- name: "REDHEDGE SICAV PLC"
+  city: "MRIEHEL"
+  branch: REDHEDGE RELATIVE VALUE FUND
+  swift: RECVMTM1001
+    
+- name: "REDHEDGE SICAV PLC"
+  city: "MRIEHEL"
+  branch: null
+  swift: RECVMTM1
+    
+- name: "RIZZO FARRUGIA AND CO.(STOCKBROKERS) LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: RIFSMTM1
+    
+- name: "SAMROB LTD"
+  city: "FLORIANA"
+  branch: null
+  swift: SAOBMTM1
+    
+- name: "SATABANK P.L.C."
+  city: "ST. JULIAN'S"
+  branch: null
+  swift: STBAMTMT
+    
+- name: "SPARKASSE BANK MALTA PLC"
+  city: "SLIEMA"
+  branch: null
+  swift: SBMTMTMT
+    
+- name: "SYSPAY LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: SYSPMTM1
+    
+- name: "TELL CAPITAL LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: TECAMTM1
+    
+- name: "TELL INVESTMENTS CP"
+  city: "SLIEMA"
+  branch: null
+  swift: TELTMTM1
+    
+- name: "TGA FUNDS SICAV PLC"
+  city: "MRIEHEL"
+  branch: AVUS FUND
+  swift: TGAFMTM1003
+    
+- name: "TGA FUNDS SICAV PLC"
+  city: "MRIEHEL"
+  branch: MARCHE FUND
+  swift: TGAFMTM1002
+    
+- name: "TGA FUNDS SICAV PLC"
+  city: "MRIEHEL"
+  branch: TG FUND
+  swift: TGAFMTM1001
+    
+- name: "TGA FUNDS SICAV PLC"
+  city: "MRIEHEL"
+  branch: null
+  swift: TGAFMTM1
+    
+- name: "TRADEXEC (TEX) LIMITED"
+  city: "VALLETTA"
+  branch: null
+  swift: TRTEMTM1
+    
+- name: "UNION CAPITAL MANAGEMENT LTD"
+  city: "GZIRA"
+  branch: null
+  swift: UCMNMTM1
+    
+- name: "VALLETTA FUND MANAGEMENT LIMITED"
+  city: "FLORIANA"
+  branch: null
+  swift: VAFMMTM1
+    
+- name: "VALLETTA FUND SERVICES LIMITED"
+  city: "L-IMRIEHEL"
+  branch: null
+  swift: VAFRMTM1
+    
+- name: "VITESSE ADVISORS LIMITED"
+  city: "BIRKIRKARA"
+  branch: null
+  swift: VIADMTM1
+    
+- name: "VITESSE FUNDS SICAV LIMITED"
+  city: "BIRKIRKARA"
+  branch: null
+  swift: VIFSMTM1
+    
+- name: "W AND J COPPINI AND CO"
+  city: "SLIEMA"
+  branch: null
+  swift: COPXMTMT
+    
+- name: "W AND J COPPINI INVESTMENT SERVICES LIMITED"
+  city: "VALLETTA"
+  branch: null
+  swift: CISRMTM1
+    
+- name: "WEBCOR INVESTMENTS LTD"
+  city: "QORMI"
+  branch: null
+  swift: WCORMTMQ
+    
+- name: "WESTERN UNION BUSINESS SOLUTIONS (MALTA) LTD"
+  city: "SLIEMA"
+  branch: null
+  swift: TGBPMTMT
+    
+- name: "YAPI KREDI BANK MALTA LTD."
+  city: "ST. JULIAN'S"
+  branch: null
+  swift: YAPIMTMT
+    
+- name: "Z INVESTMENT PARTNERS MALTA LTD"
+  city: "VALLETTA"
+  branch: null
+  swift: IVPMMTM1
+    
+- name: "ZFP EQUITY TRADING (MALTA) LIMITED"
+  city: "SLIEMA"
+  branch: null
+  swift: ZETMMTM1
+    

@@ -1,0 +1,330 @@
+- name: "AFINIDAD A.F.A.P.S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: AFAAUYM1
+    
+- name: "ALMAR S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: LMARUYMT
+    
+- name: "ANTEL"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: ANTLUYM1
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: BBVAUYMM
+    
+- name: "BANCO CENTRAL DEL URUGUAY"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CBCUUYMD
+    
+- name: "BANCO CENTRAL DEL URUGUAY"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CBCUUYMF
+    
+- name: "BANCO CENTRAL DEL URUGUAY"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CBCUUYMM
+    
+- name: "BANCO CENTRAL DEL URUGUAY"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CBCUUYMMFGD
+    
+- name: "BANCO CENTRAL DEL URUGUAY"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CBCUUYMMGPA
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: NACNUYMM
+    
+- name: "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: BROUUYMM
+    
+- name: "BANCO DE PREVISION SOCIAL"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: BPSOUYM1
+    
+- name: "BANCO DE SEGUROS DEL ESTADO"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: BSEMUYM1
+    
+- name: "BANCO HIPOTECARIO DEL URUGUAY"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: BHUMUYM1
+    
+- name: "BANCO ITAU"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: ITAUUYMM
+    
+- name: "BANCO PATAGONIA (URUGUAY) S.A.I.F.E."
+  city: "PUNTA DEL ESTE"
+  branch: null
+  swift: BPATUYMM
+    
+- name: "BANCO SANTANDER"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: BSCHUYMM
+    
+- name: "BANDES URUGUAY S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CFACUYMM
+    
+- name: "BANQUE HERITAGE (URUGUAY) S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: SURIUYMM
+    
+- name: "BAPRO URUGUAY"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: PRBAUYMM
+    
+- name: "BCC CREDIT AND FINANCE (URUGUAY) S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: BCURUYM1
+    
+- name: "BOLSA DE VALORES DE MONTEVIDEO"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: XMNTUYM1
+    
+- name: "CAJA DE JUB. Y PENS. BANCARIAS"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CJPBUYM1
+    
+- name: "CAJA DE JUB. Y PENS. PROFESION. UNIVERS."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CJPPUYM1
+    
+- name: "CAJA NOTARIAL DE JUBILACIONES Y PENS."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CJNOUYM1
+    
+- name: "CAMBIO REGIONAL S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: REGLUYM1
+    
+- name: "CENTRO FINANCIERO COOPERATIVO"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CFCOUYM1
+    
+- name: "CHASE MANHATTAN INVESTMENTS S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CHMIUYM1
+    
+- name: "CITIBANK N.A. URUGUAY"
+  city: "COLONIA"
+  branch: null
+  swift: CITIUYMMCOL
+    
+- name: "CITIBANK N.A. URUGUAY"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CITIUYMM
+    
+- name: "CITIBANK N.A. URUGUAY"
+  city: "PUNTA DEL ESTE"
+  branch: null
+  swift: CITIUYMMPDE
+    
+- name: "COLUMBUSNET S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: COLUUYMM
+    
+- name: "COPAB"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: COPAUYM1
+    
+- name: "CUENTAS DEL F.G.D.B"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: SPABUYM1
+    
+- name: "DEPOSITARIO CENTRAL DE VALORES"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: DECVUYM1
+    
+- name: "DEUTSCHE BANK (URUGUAY) S.A.I.F.E."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: DEUTUYM1
+    
+- name: "EUROCAM SA"
+  city: "MONTEVIDEO"
+  branch: EJIDO BRANCH
+  swift: CBEUUYM10ME
+    
+- name: "EUROCAM SA"
+  city: "MONTEVIDEO"
+  branch: EL GAUCHO BRANCH
+  swift: CBEUUYM10MG
+    
+- name: "EUROCAM SA"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: CBEUUYMM
+    
+- name: "FITCH URUGUAY CALIFICADORA RIESGO S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: FRIPUYM1
+    
+- name: "FORTIGOL S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: FOTTUYM1
+    
+- name: "HSBC BANK (URUGUAY) S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: BLICUYMM
+    
+- name: "I.F.E. BANCO ROBERTS S.A. (URUGUAY)"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: BACOUYM1
+    
+- name: "INDUMEX S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: INUXUYM1
+    
+- name: "INTEGRACION A.F.A.P. S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: IAFAUYM1
+    
+- name: "LESPAN .S.A"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: LSPNUYM1
+    
+- name: "LOYAR S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: LOYRUYM1
+    
+- name: "MINISTERIO DE ECONOMIA Y FINANZAS"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: TGENUYM1
+    
+- name: "OVADIAH FINANCIAL SA"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: OVFIUYM1
+    
+- name: "PIANO INTERNATIONAL CORP."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: PMTRUYM1
+    
+- name: "PLATAFORMA TRANSACCIONAL BEVSA"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: SIOPUYM1
+    
+- name: "PLATAFORMA TRANSACCIONAL BVM"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: SIBEUYM1
+    
+- name: "REPUBLICA A.F.A.P. S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: RAFAUYM1
+    
+- name: "SCOTIABANK URUGUAY S.A."
+  city: "MONTEVIDEO"
+  branch: HEAD OFFICE
+  swift: COMEUYMM
+    
+- name: "SCOTIABANK URUGUAY S.A."
+  city: "MONTEVIDEO"
+  branch: HEAD OFFICE
+  swift: COMEUYMMALL
+    
+- name: "SECVALORIS SA"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: SECVUYM1
+    
+- name: "SISTEMA DE LIQUIDACION BRUTA"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: RTSXUYM1
+    
+- name: "SISTEMA DE PAGOS INTERBANCARIOS"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: SIPNUYM1
+    
+- name: "SOUTH FINANCIAL CORPORATION"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: SFCOUYM1
+    
+- name: "SWISS CALEDONIA WEALTH MANAGEMENT AGENTE DE VALORES S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: SCWMUYM1
+    
+- name: "TPCG FINANCIAL SERVICES S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: TPFSUYM1
+    
+- name: "TRANSAMERICA CASA BANCARIA"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: TRCAUYM1
+    
+- name: "UNION-CAPITAL A.F.A.P.S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: UAFAUYM1
+    
+- name: "UTE"
+  city: "MONTEVIDEO"
+  branch: null
+  swift: UTEUUYM1
+    
+- name: "VARLIX S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: VARLUYM1
+    
+- name: "VICTOR PAULLIER AND CIA. SOCIEDAD DE BOLSA S.A."
+  city: "MONTEVIDEO"
+  branch: null
+  swift: VPCOUYMM
+    

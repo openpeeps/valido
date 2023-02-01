@@ -1,0 +1,3055 @@
+- name: "A.P. MOLLER-MAERSK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: APMMDKKK
+    
+- name: "ABN AMRO ASSET MANAGEMENT A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: AASMDKK1
+    
+- name: "ABN AMRO ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: ABKFDKK1
+    
+- name: "ABSALON CAPITAL FONDSMAEGLERSELSKAB A/S"
+  city: "HELLERUP"
+  branch: null
+  swift: ABAKDK21
+    
+- name: "ACCUNIA FONDSMAEGLERSELSKAB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: ACFDDKK1
+    
+- name: "AGRI - EGENS SPAREKASSE"
+  city: "EBELTOFT"
+  branch: null
+  swift: AGESDK21
+    
+- name: "ALM. BRAND BANK A/S"
+  city: "COPENHAGEN"
+  branch: SJL-BANKEN
+  swift: ALMBDKKK
+    
+- name: "ALMIND SPARE- OG LAANEKASSE"
+  city: "VIBORG"
+  branch: null
+  swift: ALSPDK21
+    
+- name: "ALOC A/S"
+  city: "ODENSE"
+  branch: null
+  swift: AOOCDK21
+    
+- name: "ANDELSKASSEN J-A-K. SLAGELSE"
+  city: "SLAGELSE"
+  branch: null
+  swift: ANJSDK21
+    
+- name: "ANDELSKASSEN OIKOS"
+  city: "AARHUS"
+  branch: null
+  swift: ANOKDK21
+    
+- name: "AP PENSION"
+  city: "COPENHAGEN"
+  branch: null
+  swift: APPNDKK1
+    
+- name: "ARBEJDERNES LANDSBANK A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: ALBADKKK
+    
+- name: "ARLA FOODS AMBA"
+  city: "VIBY J"
+  branch: ALRA FINANCE
+  swift: ARDADK21ARF
+    
+- name: "ARLA FOODS AMBA"
+  city: "VIBY J"
+  branch: ARLA FOODS
+  swift: ARDADK21ARL
+    
+- name: "ARLA FOODS AMBA"
+  city: "VIBY J"
+  branch: null
+  swift: ARDADK21
+    
+- name: "ATP FONDSMAEGLERSELSKAB A/S"
+  city: "HILLEROED"
+  branch: null
+  swift: ATFODK21
+    
+- name: "BANK INVEST"
+  city: "COPENHAGEN"
+  branch: null
+  swift: BIVEDKK1
+    
+- name: "BANKNORDIK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: BANODKKK
+    
+- name: "BANKNORDIK"
+  city: "KOLDING"
+  branch: null
+  swift: BANODK21
+    
+- name: "BASISBANK A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: ISNKDKK1
+    
+- name: "BESTSELLER A/S"
+  city: "BRANDE"
+  branch: null
+  swift: BESTDK22
+    
+- name: "BI ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: BIAMDKKK
+    
+- name: "BI MANAGEMENT A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: MAGGDKK1
+    
+- name: "BIL DANMARK, FILIAL AF BANQUE INTERNATIONAL A LUXEMBOURG SA"
+  city: "COPENHAGEN"
+  branch: null
+  swift: BILLDKKK
+    
+- name: "BJOERNSKOV AND CO., A.S."
+  city: "COPENHAGEN"
+  branch: null
+  swift: BJSKDKK1
+    
+- name: "BNP PARIBAS S.A. DENMARK, FILIAL AF BNP PARIBAS S.A. FRANKRIG"
+  city: "COPENHAGEN"
+  branch: null
+  swift: FTSBDKKK
+    
+- name: "BODDUM-YDBY SPAREKASSE"
+  city: "HURUP THY"
+  branch: null
+  swift: BOYDDK21
+    
+- name: "BORBJERG SPAREKASSE"
+  city: "HOLSTEBRO"
+  branch: null
+  swift: BOBJDK21
+    
+- name: "BRFKREDIT A/S"
+  city: "LYNGBY"
+  branch: null
+  swift: BRFKDK21
+    
+- name: "BROAGER SPAREKASSE"
+  city: "BROAGER"
+  branch: null
+  swift: BRSLDK21
+    
+- name: "CANEGIE ASSET ADMINISTRATION A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CADMDKK1
+    
+- name: "CAPITAL FOUR AIFM A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CFAIDKK1
+    
+- name: "CAPITAL FOUR MANAGEMENT FONDSMAEGLERSELSKAB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CFMFDKK1
+    
+- name: "CARLSBERG A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CARWDKK2
+    
+- name: "CARLSBERG BREWERIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CARWDKK1
+    
+- name: "CARNEGIE ASSET MANAGEMENT FONDMAEGLERSELSKAB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CARNDK22
+    
+- name: "CARNEGIE INVESTMENT BANK, DK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CARNDKKK
+    
+- name: "CARNEGIE KREDITINSTITUT A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CAJBDKK1
+    
+- name: "CHR. HANSEN HOLDING AS"
+  city: "HOERSHOLM"
+  branch: null
+  swift: CHHHDK22
+    
+- name: "CITIBANK EUROPE PLC DENMARK BRANCH"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CITIDKKX
+    
+- name: "COMMERCIAL BANKERS TRUST K/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CTRSDKK1
+    
+- name: "DANA INVEST FONDSMAEGLERSELSKAB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DAIODKK1
+    
+- name: "DANFOSS A/S"
+  city: "NORDBORG"
+  branch: null
+  swift: DFIBDK21
+    
+- name: "DANMARKS NATIONALBANK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DKNBDKK3
+    
+- name: "DANMARKS NATIONALBANK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DKNBDKKC
+    
+- name: "DANMARKS NATIONALBANK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DKNBDKKK
+    
+- name: "DANMARKS NATIONALBANK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DKNBDKKKASA
+    
+- name: "DANMARKS NATIONALBANK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DKNBDKKKTIA
+    
+- name: "DANMARKS SKIBSKREDIT A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: SKIBDKK1
+    
+- name: "DANSK AUTORISERET MARKEDSPLADS A/S"
+  city: "HORSENS"
+  branch: null
+  swift: DAMKDK21
+    
+- name: "DANSK FORMUE- AND INVESTERINGSPLEJE A/S FONDSMAEGLERSELSKAB"
+  city: "ROSKILDE"
+  branch: null
+  swift: DFIIDK21
+    
+- name: "DANSK KAPITALFORVALTNING FONDSMAEGLERSELSKAB A/S"
+  city: "BIRKEROED"
+  branch: null
+  swift: DAKFDK21
+    
+- name: "DANSK O.T.C FONDSMAEGLERSELSKAB A/S"
+  city: "HORSENS"
+  branch: null
+  swift: DAOFDK21
+    
+- name: "DANSK SUPERMARKED A/S"
+  city: "AARHUS"
+  branch: D S FORSIKRING
+  swift: DASKDK21DSF
+    
+- name: "DANSK SUPERMARKED A/S"
+  city: "AARHUS"
+  branch: SALLING INVEST
+  swift: DASKDK21FSI
+    
+- name: "DANSK SUPERMARKED A/S"
+  city: "AARHUS"
+  branch: null
+  swift: DASKDK21NET
+    
+- name: "DANSK SUPERMARKED A/S"
+  city: "HOJBJERG"
+  branch: null
+  swift: DASKDK21
+    
+- name: "DANSKE ANDELSKASSERS BANK A/S"
+  city: "TJELE"
+  branch: null
+  swift: DANBDK22
+    
+- name: "DANSKE BANK A/S"
+  city: "AABENRAA"
+  branch: null
+  swift: DABADKKKAAB
+    
+- name: "DANSKE BANK A/S"
+  city: "AALBORG"
+  branch: null
+  swift: DABADKKKAAL
+    
+- name: "DANSKE BANK A/S"
+  city: "AARHUS"
+  branch: null
+  swift: DABADKKKAAR
+    
+- name: "DANSKE BANK A/S"
+  city: "BAGSVAERD"
+  branch: null
+  swift: DABADKKKBAG
+    
+- name: "DANSKE BANK A/S"
+  city: "BALLERUP"
+  branch: null
+  swift: DABADKKKBAL
+    
+- name: "DANSKE BANK A/S"
+  city: "BIRKEROED"
+  branch: null
+  swift: DABADKKKBIR
+    
+- name: "DANSKE BANK A/S"
+  city: "BJERRINGBRO"
+  branch: null
+  swift: DABADKKKBJE
+    
+- name: "DANSKE BANK A/S"
+  city: "COPENHAGEN"
+  branch: CLS SERVICES
+  swift: DABADKKKCLS
+    
+- name: "DANSKE BANK A/S"
+  city: "COPENHAGEN"
+  branch: DANSKE BANK
+  swift: DABADKKK3PT
+    
+- name: "DANSKE BANK A/S"
+  city: "COPENHAGEN"
+  branch: HEAD OFFICE
+  swift: DABADKKK
+    
+- name: "DANSKE BANK A/S"
+  city: "COPENHAGEN"
+  branch: NORDIC CUSTODY
+  swift: DABADKKKCUS
+    
+- name: "DANSKE BANK A/S"
+  city: "ESBJERG"
+  branch: null
+  swift: DABADKKKESB
+    
+- name: "DANSKE BANK A/S"
+  city: "FREDERICIA"
+  branch: null
+  swift: DABADKKKFRC
+    
+- name: "DANSKE BANK A/S"
+  city: "FREDERIKSHAVN"
+  branch: null
+  swift: DABADKKKFRH
+    
+- name: "DANSKE BANK A/S"
+  city: "FREDERIKSSUND"
+  branch: null
+  swift: DABADKKKFSU
+    
+- name: "DANSKE BANK A/S"
+  city: "GENTOFTE"
+  branch: null
+  swift: DABADKKKGEN
+    
+- name: "DANSKE BANK A/S"
+  city: "GLOSTRUP"
+  branch: null
+  swift: DABADKKKGLO
+    
+- name: "DANSKE BANK A/S"
+  city: "GRENAA"
+  branch: null
+  swift: DABADKKKGRN
+    
+- name: "DANSKE BANK A/S"
+  city: "HADERSLEV"
+  branch: null
+  swift: DABADKKKHAD
+    
+- name: "DANSKE BANK A/S"
+  city: "HELSINGOER"
+  branch: null
+  swift: DABADKKKHEL
+    
+- name: "DANSKE BANK A/S"
+  city: "HERLEV"
+  branch: null
+  swift: DABADKKKHRL
+    
+- name: "DANSKE BANK A/S"
+  city: "HERNING"
+  branch: null
+  swift: DABADKKKHER
+    
+- name: "DANSKE BANK A/S"
+  city: "HILLEROED"
+  branch: null
+  swift: DABADKKKHIL
+    
+- name: "DANSKE BANK A/S"
+  city: "HIRTSHALS"
+  branch: null
+  swift: DABADKKKHIR
+    
+- name: "DANSKE BANK A/S"
+  city: "HJOERRING"
+  branch: null
+  swift: DABADKKKHJO
+    
+- name: "DANSKE BANK A/S"
+  city: "HOLBAEK"
+  branch: null
+  swift: DABADKKKHBK
+    
+- name: "DANSKE BANK A/S"
+  city: "HOLSTEBRO"
+  branch: null
+  swift: DABADKKKHOL
+    
+- name: "DANSKE BANK A/S"
+  city: "HORSENS"
+  branch: null
+  swift: DABADKKKHOR
+    
+- name: "DANSKE BANK A/S"
+  city: "KALUNDBORG"
+  branch: null
+  swift: DABADKKKKAL
+    
+- name: "DANSKE BANK A/S"
+  city: "KASTRUP"
+  branch: AIRPORT
+  swift: DABADKKKKAS
+    
+- name: "DANSKE BANK A/S"
+  city: "KOEGE"
+  branch: null
+  swift: DABADKKKKGE
+    
+- name: "DANSKE BANK A/S"
+  city: "KOLDING"
+  branch: null
+  swift: DABADKKKKOL
+    
+- name: "DANSKE BANK A/S"
+  city: "KORSOER"
+  branch: null
+  swift: DABADKKKKOR
+    
+- name: "DANSKE BANK A/S"
+  city: "LYNGBY"
+  branch: DANSKE CAPITAL
+  swift: DABADKKKCAP
+    
+- name: "DANSKE BANK A/S"
+  city: "LYNGBY"
+  branch: null
+  swift: DABADKKKLYN
+    
+- name: "DANSKE BANK A/S"
+  city: "MIDDELFART"
+  branch: null
+  swift: DABADKKKMID
+    
+- name: "DANSKE BANK A/S"
+  city: "NAESTVED"
+  branch: null
+  swift: DABADKKKNAE
+    
+- name: "DANSKE BANK A/S"
+  city: "NAKSKOV"
+  branch: null
+  swift: DABADKKKNAK
+    
+- name: "DANSKE BANK A/S"
+  city: "NYBORG"
+  branch: null
+  swift: DABADKKKNYB
+    
+- name: "DANSKE BANK A/S"
+  city: "NYKOEBING FALSTER"
+  branch: null
+  swift: DABADKKKNYF
+    
+- name: "DANSKE BANK A/S"
+  city: "NYKOEBING SJAELLAND"
+  branch: null
+  swift: DABADKKKNYS
+    
+- name: "DANSKE BANK A/S"
+  city: "ODENSE"
+  branch: null
+  swift: DABADKKKODE
+    
+- name: "DANSKE BANK A/S"
+  city: "RANDERS"
+  branch: null
+  swift: DABADKKKRAN
+    
+- name: "DANSKE BANK A/S"
+  city: "RINGSTED"
+  branch: null
+  swift: DABADKKKRIN
+    
+- name: "DANSKE BANK A/S"
+  city: "ROEDOVRE"
+  branch: null
+  swift: DABADKKKROD
+    
+- name: "DANSKE BANK A/S"
+  city: "ROENNE"
+  branch: null
+  swift: DABADKKKRON
+    
+- name: "DANSKE BANK A/S"
+  city: "ROSKILDE"
+  branch: null
+  swift: DABADKKKROS
+    
+- name: "DANSKE BANK A/S"
+  city: "SAEBY"
+  branch: null
+  swift: DABADKKKSBY
+    
+- name: "DANSKE BANK A/S"
+  city: "SILKEBORG"
+  branch: null
+  swift: DABADKKKSIL
+    
+- name: "DANSKE BANK A/S"
+  city: "SKIVE"
+  branch: null
+  swift: DABADKKKSKI
+    
+- name: "DANSKE BANK A/S"
+  city: "SLAGELSE"
+  branch: null
+  swift: DABADKKKSLA
+    
+- name: "DANSKE BANK A/S"
+  city: "SOENDERBORG"
+  branch: null
+  swift: DABADKKKSON
+    
+- name: "DANSKE BANK A/S"
+  city: "STRUER"
+  branch: null
+  swift: DABADKKKSTR
+    
+- name: "DANSKE BANK A/S"
+  city: "SVENDBORG"
+  branch: null
+  swift: DABADKKKSVB
+    
+- name: "DANSKE BANK A/S"
+  city: "TAASTRUP"
+  branch: null
+  swift: DABADKKKTAA
+    
+- name: "DANSKE BANK A/S"
+  city: "THISTED"
+  branch: null
+  swift: DABADKKKTHI
+    
+- name: "DANSKE BANK A/S"
+  city: "TOENDER"
+  branch: null
+  swift: DABADKKKTON
+    
+- name: "DANSKE BANK A/S"
+  city: "VARDE"
+  branch: null
+  swift: DABADKKKVAR
+    
+- name: "DANSKE BANK A/S"
+  city: "VEJLE"
+  branch: null
+  swift: DABADKKKVEJ
+    
+- name: "DANSKE BANK A/S"
+  city: "VIBORG"
+  branch: null
+  swift: DABADKKKVIB
+    
+- name: "DANSKE CAPITAL"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DACPDKK1
+    
+- name: "DANSKE CIVIL AND AKADEMIINGENIORERS PENSIONSKASSE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DCAKDKK1
+    
+- name: "DANSKE COMMODITIES A/S"
+  city: "AARHUS"
+  branch: null
+  swift: DACDDK21
+    
+- name: "DANSKE FORSIKRING SKADE I A/S"
+  city: "BALLERUP"
+  branch: null
+  swift: DAFKDK21
+    
+- name: "DANSKE INVEST ADMINISTRATION A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DAIDDKK1
+    
+- name: "DEN JYSKE SPAREKASSE"
+  city: "GRINDSTED"
+  branch: null
+  swift: JYSPDK2G
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: AKTIER AND OBLIGATIONER-PULJE
+  swift: DEPRDKK1AOP
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: EMERGING MARKETS AKTIER-MANDAT
+  swift: DEPRDKK1EMA
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: GLOBALE AKTIER-MANDAT 2
+  swift: DEPRDKK1GA2
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: GLOBALE AKTIER-MANDAT
+  swift: DEPRDKK1GAM
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: GLOBALE AKTIER-PULJE
+  swift: DEPRDKK1GAP
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: GLOBALE INDEKSOBLIGATIONER-MANDAT
+  swift: DEPRDKK1GIM
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: GULDRANDEDE OBLIGATIONER-MANDAT 1
+  swift: DEPRDKK1GO1
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: GULDRANDEDE OBLIGATIONER-MANDAT 2
+  swift: DEPRDKK1GO2
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: KREDITOBLIGATIONER OG EMERGING MARKETS OBLIGATIONER-MANDAT
+  swift: DEPRDKK1KEO
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: KREDITOBLIGATIONS FONDE- MANDAT
+  swift: DEPRDKK1KOF
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: MILJO AND KLIMA-MANDAT
+  swift: DEPRDKK1MKM
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: MILJO AND KLIMA-PULJE
+  swift: DEPRDKK1MKP
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: MIXED OBLIGATIONER-PULJE
+  swift: DEPRDKK1MOP
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: STRATEGISKE GLOBAL AKTIER-MANDAT
+  swift: DEPRDKK1SGA
+    
+- name: "DEN PROFESSIONELLE FORENING LD"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DEPRDKK1
+    
+- name: "DEXIA P-H PRIVATE BANK DENMARK A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: BILLDK21
+    
+- name: "DIFKO BORS A/S FONDSMAEGLERSELSKAB"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DIBFDKK1
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "ALLINGAABRO"
+  branch: null
+  swift: DJURDK22ALL
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "AUNING"
+  branch: null
+  swift: DJURDK22AUN
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "EBELTOFT"
+  branch: null
+  swift: DJURDK22EBE
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "GRENAA"
+  branch: null
+  swift: DJURDK22
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "HORNSLET"
+  branch: null
+  swift: DJURDK22HSL
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "KOLIND"
+  branch: null
+  swift: DJURDK22KLI
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "LYSTRUP"
+  branch: null
+  swift: DJURDK22LYS
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "NIMTOFTE"
+  branch: null
+  swift: DJURDK22NIM
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "OERSTED"
+  branch: null
+  swift: DJURDK22OER
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "PINDSTRUP"
+  branch: null
+  swift: DJURDK22PIN
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "RISSKOV"
+  branch: null
+  swift: DJURDK22RIS
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "ROENDE"
+  branch: null
+  swift: DJURDK22ROE
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "RYOMGAARD"
+  branch: null
+  swift: DJURDK22RYO
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "TILST"
+  branch: null
+  swift: DJURDK22TIL
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "TRANBJERG"
+  branch: null
+  swift: DJURDK22TRA
+    
+- name: "DJURSLANDS BANK A/S"
+  city: "VIVILD"
+  branch: null
+  swift: DJURDK22VIV
+    
+- name: "DLR KREDIT A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DLKRDKK1
+    
+- name: "DNB BANK ASA, FILIAL AF DNB BANK ASA, NORGE"
+  city: "COPENHAGEN"
+  branch: CLS NOSTRO AGENT CONTROL BRANCH
+  swift: DNBADKKXCLS
+    
+- name: "DNB BANK ASA, FILIAL AF DNB BANK ASA, NORGE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DNBADKKX
+    
+- name: "DRAGSHOLM SPAREKASSE"
+  city: "ASNAES"
+  branch: null
+  swift: DRAGDK21
+    
+- name: "DRONNINGLUND SPAREKASSE"
+  city: "DRONNINGLUND"
+  branch: null
+  swift: DRONDK21
+    
+- name: "DSV A/S"
+  city: "BROENDBY"
+  branch: null
+  swift: DSVADKKK
+    
+- name: "ECCO SKO A/S"
+  city: "BREDEBRO"
+  branch: null
+  swift: ECSKDK22
+    
+- name: "ECCO SKO A/S"
+  city: "BREDEBRO"
+  branch: null
+  swift: ECSKDK22CHI
+    
+- name: "ECCO SKO A/S"
+  city: "BREDEBRO"
+  branch: null
+  swift: ECSKDK22ELB
+    
+- name: "ECCO SKO A/S"
+  city: "BREDEBRO"
+  branch: null
+  swift: ECSKDK22ESI
+    
+- name: "ECCO SKO A/S"
+  city: "BREDEBRO"
+  branch: null
+  swift: ECSKDK22IND
+    
+- name: "ECCO SKO A/S"
+  city: "BREDEBRO"
+  branch: null
+  swift: ECSKDK22KRM
+    
+- name: "ECCO SKO A/S"
+  city: "BREDEBRO"
+  branch: null
+  swift: ECSKDK22THA
+    
+- name: "EGNSBANK HAN HERRED"
+  city: "FJERRITSLEV"
+  branch: null
+  swift: FJBADK21
+    
+- name: "EGNS-INVEST"
+  city: "HORSENS"
+  branch: null
+  swift: EGNSDK21
+    
+- name: "FAELLESKASSEN SAMOEKONOMI J.A.K. ANDELSKASSE"
+  city: "FREDERIKSBERG"
+  branch: null
+  swift: FAELDKK1
+    
+- name: "FANOE SPARE- OG LAANEKASSE"
+  city: "FANOE"
+  branch: null
+  swift: FASLDK21
+    
+- name: "FASTER ANDELSKASSE"
+  city: "SKJERN"
+  branch: null
+  swift: FAANDK21
+    
+- name: "FDB DATTERSELSKAB AF 13.DECEMBER 2012 A/S"
+  city: "ALBERTSLUND"
+  branch: null
+  swift: FDDDDK21
+    
+- name: "FLAKKEBERG OG OMEGNS SPAREKASSE"
+  city: "SLAGELSE"
+  branch: null
+  swift: FLAKDK21
+    
+- name: "FLEMLOESE SPAREKASSE"
+  city: "FLEMLOESE"
+  branch: null
+  swift: FLEMDK21
+    
+- name: "FLSMIDTH AND CO A/S"
+  city: "VALBY"
+  branch: null
+  swift: FLSMDK21
+    
+- name: "FLSMIDTH AND CO A/S"
+  city: "VALBY"
+  branch: null
+  swift: FLSMDK2F
+    
+- name: "FOLKESPAREKASSEN"
+  city: "SILKEBORG"
+  branch: null
+  swift: FOSPDK21
+    
+- name: "FONDSAEGLERSELSKABET MAJ INVEST A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: MAFGDKK1
+    
+- name: "FONDSMAEGLERSELSKABET MAJ INVEST A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: FONKDKKK
+    
+- name: "FORCA A/S"
+  city: "COPENHAGEN"
+  branch: BIOANALYTIKERE
+  swift: FOCCDK21BIO
+    
+- name: "FORCA A/S"
+  city: "COPENHAGEN"
+  branch: ERGOTERAPEUTER
+  swift: FOCCDK21ERG
+    
+- name: "FORCA A/S"
+  city: "COPENHAGEN"
+  branch: JORDMOEDRE
+  swift: FOCCDK21JOR
+    
+- name: "FORCA A/S"
+  city: "COPENHAGEN"
+  branch: KONTORFUNKTIONAERER
+  swift: FOCCDK21KON
+    
+- name: "FORCA A/S"
+  city: "COPENHAGEN"
+  branch: KOSTVEJLEDERE
+  swift: FOCCDK21KOS
+    
+- name: "FORCA A/S"
+  city: "COPENHAGEN"
+  branch: LAEGESEKRETAERER
+  swift: FOCCDK21LAG
+    
+- name: "FORCA A/S"
+  city: "COPENHAGEN"
+  branch: PKA PLUS
+  swift: FOCCDK21PKA
+    
+- name: "FORCA A/S"
+  city: "COPENHAGEN"
+  branch: SAMEJE
+  swift: FOCCDK21SAM
+    
+- name: "FORCA A/S"
+  city: "COPENHAGEN"
+  branch: SOCIALPAEDAGOER
+  swift: FOCCDK21SOC
+    
+- name: "FORCA A/S"
+  city: "COPENHAGEN"
+  branch: SYGEPLEJERE
+  swift: FOCCDK21SYG
+    
+- name: "FORCA A/S"
+  city: "HELLERUP"
+  branch: null
+  swift: FOCCDK21
+    
+- name: "FORMUEPLEJE A/S"
+  city: "AARHUS"
+  branch: null
+  swift: FORJDK21
+    
+- name: "FROES HERREDS SPAREKASSE"
+  city: "ROEDDING (S. JUTL.)"
+  branch: null
+  swift: FROSDK21
+    
+- name: "FRORUP ANDELKASSE"
+  city: "FRORUP"
+  branch: null
+  swift: FROPDK21
+    
+- name: "FROSLEV MOLLERUP SPAREKASSE"
+  city: "NYKOEBING MORS"
+  branch: null
+  swift: FRMODK21
+    
+- name: "FUTOP CLEARING CENTRE, THE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: FTUPDKK1
+    
+- name: "FYNSKE BANK A/S"
+  city: "SVENDBORG"
+  branch: null
+  swift: VESBDK22
+    
+- name: "G.P.BORSMAGLERSELSKAB A/S"
+  city: "HELLERUP"
+  branch: null
+  swift: GPBSDKK1
+    
+- name: "GLITNIR BANK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: ISBADKK1
+    
+- name: "GLOBAL EVOLUTION FONDSMAEGLERSELSKAB A/S"
+  city: "KOLDING"
+  branch: null
+  swift: GEVODK22
+    
+- name: "GRUNDFOS HOLDING A/S"
+  city: "BJERRINGBRO"
+  branch: null
+  swift: GFOSDK22
+    
+- name: "GUDME RAASCHOU EU HIGH YIELD"
+  city: "COPENHAGEN"
+  branch: null
+  swift: GRHEDKK1
+    
+- name: "GUDME RAASCHOU HEALTH CARE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: GRHCDKK1
+    
+- name: "GUDME RAASCHOU INVEST A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: GURIDKK1
+    
+- name: "GUDME RAASCHOU INVESTMENT BANK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: GRPBDKK1
+    
+- name: "GUDME RAASCHOU NORDIC ALPHA"
+  city: "COPENHAGEN"
+  branch: null
+  swift: GRNADKK1
+    
+- name: "GUDME RAASCHOU SELECTION"
+  city: "COPENHAGEN"
+  branch: null
+  swift: GRSLDKK1
+    
+- name: "GUDME RAASCHOU US HIGH YIELD"
+  city: "COPENHAGEN"
+  branch: null
+  swift: GRHYDKK1
+    
+- name: "HANDELSBANKEN"
+  city: "COPENHAGEN"
+  branch: NORDIC CUSTODY SERVICES
+  swift: HANDDKKKCUS
+    
+- name: "HANDELSBANKEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: HANDDKKK
+    
+- name: "HEMONTO A/S"
+  city: "AARHUS"
+  branch: null
+  swift: HMTODK22
+    
+- name: "HENTON BORSMAEGLERSELSKAB A/S"
+  city: "SILKEBORG"
+  branch: null
+  swift: HEBODK21
+    
+- name: "HP FONDSMAEGLERSELSKAB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: FONMDKK1
+    
+- name: "HUNSTRUP-OESTERILD SPAREKASSE"
+  city: "THISTED"
+  branch: null
+  swift: HUSPDK21
+    
+- name: "HVIDBJERG BANK AKTIESELSKAB"
+  city: "THYHOLM"
+  branch: null
+  swift: HVBADK21
+    
+- name: "ID-SPARINVEST"
+  city: "RANDERS"
+  branch: null
+  swift: SINVDK22
+    
+- name: "INDUSTRIENS PENSIONSFORSIKRING A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: INDFDKKK
+    
+- name: "INPAY A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NPAYDKKK
+    
+- name: "INVEST ADMINISTRATION A/S"
+  city: "FREDERIKSBERG"
+  branch: null
+  swift: IADMDK21
+    
+- name: "INVESTERING AND TRYGHED A/S"
+  city: "HERNING"
+  branch: null
+  swift: ITRYDK21
+    
+- name: "INVESTERINGSFORENINGEN MS INVESTVALUE AKTIER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: INUKDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST AKTIER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IVNIDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST AKTIER II"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOITDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST DANMARK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIDDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST EMERGING MARKETS"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONMDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST EUROPA"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIEDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST EUROPA SMALL CAP"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIUDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST FJERNEOESTEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: INIJDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST FONDE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIFDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST GLOBAL TEKNOLOGI"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONGDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST GLOBAL VAEKST"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIGDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST GLOBALE AKTIER INDEKS"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONLDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST GLOBALE OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOILDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST HEALTH CARE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIHDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST INDIEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONNDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST JAPAN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IVNVDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST KINA"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONIDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST KORTE OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONKDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST KORTE OBLIGATIONER PRIVAT"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIKDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST LANGE OBLIGATIONER PRIVAT"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIADKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST LATINAMERIKA"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONADKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST MELLEMLANGE OBLIGATIONER PENSION"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIMDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST MELLEMLANGE OBLIGATIONER PRIVAT"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOINDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST NORDIC SMALL CAP"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIODKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST NORDON"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIRDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST OEST-EUROPA"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONODKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST PORTFOELJE FLEKSIBLE - OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIJDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST PORTFOLIE, DANMARK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONFDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST SPECIAL      EUROPEAN HIGH YIELD BOND"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOISDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST SPECIAL EUROPAEISKE AKTIER FOKUS"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIPDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST SPECIAL FORMUEFORVALTNING OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOICDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST SPECIAL GLOBAL VALUE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONEDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST STABIL AKTIER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONTDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST STABIL BALANCERET"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIIDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST USA"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONUDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST VERDEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOIVDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST VIRKSOMHEDSOBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: INNHDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST, ENGROS KORTE OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOEGDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVEST,ENGROS MELLEMLANGE OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOERDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTBASIS 1"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVNDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTBASIS 2"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONVDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTBASIS 3"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOONDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTBASIS 4"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOEVDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTENGROS ABSOLUTE RETURN EQUITIES"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVADKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTENGROS ABSOLUTE RETURN EQUITIES II"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVBDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTENGROS ABSOLUTE RETURN EQUITIES II-ETISK VALG"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVODKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTENGROS CORPORATE BONDS"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVCDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTENGROS EURO INVESTMENT GRADE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVRDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTENGROS EUROPAEISKE AKTIER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVUDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTENGROS GLOBAL HIGH YIELD"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVGDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTENGROS INTERNATIONALE AKTIER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVIDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTENGROS INTERNATIONALE AKTIER ETISK VALG"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVTDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTENGROS OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONBDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTGLOBALE AKTIER FOKUS"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONRDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTKAPITALSIKRING"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IVNNDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTKLIMA OG MILJOE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: INNJDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTKORTE OBLIGATIONER 2"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOEODKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTLANGE OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVLDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE AKTIER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVKDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE EKSTERNE AFDELINGER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOEEDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE EMERGING MARKETS OG ASIEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVMDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE KORTE OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOEKDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE LANGE OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOENDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE USA OG EUROPA"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOEUDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE VERDEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVDDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE VERDENS OBLIGATIONSMARKEDER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOVVDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA INVESTVERDENS OBLIGATIONSMARKEDER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IONDDKK1
+    
+- name: "INVESTERINGSFORENINGEN NORDEA PORTEFOLIE FLEX"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IOPFDKK1
+    
+- name: "INVESTERINGSFORENINGEN PFA INVEST"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IVPIDK21
+    
+- name: "INVESTERINGSFORVALLTNINGSSELSKABET SEBINVEST A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: IVSNDKK1
+    
+- name: "ISS A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: ISSSDKK1
+    
+- name: "J.A.K. ANDELSKASSE OESTERVRAA"
+  city: "OESTERVRAA"
+  branch: null
+  swift: JAOEDK21
+    
+- name: "J.P. MORGAN EUROPE (UK), COPENHAGEN BR, FILIAL AF J.P. MORGAN EUROPE LTD., STORBRITANNIEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: CHASDKKK
+    
+- name: "JAK ANDELSKASSE VARDE"
+  city: "VARDE"
+  branch: null
+  swift: JANVDK21
+    
+- name: "JELLING SPAREKASSE"
+  city: "JELLING"
+  branch: null
+  swift: JELLDK21
+    
+- name: "JURISTERNES OG OEKONOMERNES PENSIONKASSE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: JUOPDKK1
+    
+- name: "JUTLANDER BANK A/S"
+  city: "AARS"
+  branch: null
+  swift: JUTBDK21
+    
+- name: "JYSKE BANK A/S"
+  city: "COPENHAGEN"
+  branch: AND ALL DANISH OFFICES
+  swift: JYBADKKK
+    
+- name: "JYSKE BANK A/S"
+  city: "SILKEBORG"
+  branch: CENTRAL TRADE MANAGER
+  swift: JYBADK21CTM
+    
+- name: "JYSKE BANK A/S"
+  city: "SILKEBORG"
+  branch: null
+  swift: JYBADK21
+    
+- name: "KAPITALFORENINGEN ABSALON INVEST"
+  city: "AARHUS"
+  branch: null
+  swift: KAAIDK21
+    
+- name: "KAPITALFORENINGEN ABSALON INVEST AFD. VERDENSAKTIEINDEKS KL"
+  city: "AARHUS"
+  branch: null
+  swift: KAIFDK21
+    
+- name: "KAPITALFORENINGEN FORMUEPLEJE PENTA AFDELING FORMUEPLEJE PENTA"
+  city: "AARHUS"
+  branch: null
+  swift: KFPFDK21
+    
+- name: "KLIM SPAREKASSE"
+  city: "FJERRITSLEV"
+  branch: null
+  swift: KLIMDK21
+    
+- name: "KOBENHAVNS ANDELSKASSE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: KOANDKKK
+    
+- name: "KOMMUNEKREDIT"
+  city: "COPENHAGEN"
+  branch: null
+  swift: KOMMDKK1
+    
+- name: "KONGERIGET DANMARKS HYPOTEKBANK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: KDHYDKK1
+    
+- name: "KOSMOPOLITEX BANKERS TRUST K/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: KOTUDKK1
+    
+- name: "KREDITBANKEN A/S"
+  city: "AABENRAA"
+  branch: null
+  swift: AAKRDK22
+    
+- name: "LAEGERNES BANK"
+  city: "FREDERIKSBERG"
+  branch: null
+  swift: LAPNDKK1
+    
+- name: "LAERERNES PENSION FORSIKRINGSAKTIES"
+  city: "HELLERUP"
+  branch: null
+  swift: LAPFDK21
+    
+- name: "LAN AND SPAR BANK A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: LOSADKKK
+    
+- name: "LANDBRUGETS FINANSIERINGSBANK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: LAFIDKK1
+    
+- name: "LANGA SPAREKASSE"
+  city: "LANGAA"
+  branch: null
+  swift: LASADK21
+    
+- name: "LEGO SYSTEM A/S"
+  city: "BILLUND"
+  branch: null
+  swift: LEGODK22
+    
+- name: "LEO PHARMA A/S"
+  city: "BALLERUP"
+  branch: null
+  swift: LEPHDK22
+    
+- name: "LIND CAPITAL A/S"
+  city: "AARHUS"
+  branch: null
+  swift: LCAIDK21
+    
+- name: "LIND CAPITAL FONDSMAEGLERSELSKAB A/S"
+  city: "AARHUS"
+  branch: null
+  swift: LICFDK21
+    
+- name: "LOLLANDS BANK A/S"
+  city: "NAKSKOV"
+  branch: null
+  swift: LOBADK21
+    
+- name: "LPI HIGH YIELD GLOBALE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: LHYGDKK1
+    
+- name: "LPI INDEKSOBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: LINMDKK1
+    
+- name: "LPI INDEKSOBLIGATIONER II"
+  city: "COPENHAGEN"
+  branch: null
+  swift: LINPDKK1
+    
+- name: "LR REALKREDIT A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: REAKDKK1
+    
+- name: "LUNDE-KVONG ANDELSKASSE"
+  city: "NOERRE NEBEL"
+  branch: null
+  swift: LUKVDK21
+    
+- name: "MAERSK TANKERS A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: MRSKDKKK
+    
+- name: "MAJ AF 29. AUGUST 2014 A/S (MAJ BANK A/S)"
+  city: "COPENHAGEN"
+  branch: null
+  swift: MAAJDKL1
+    
+- name: "MAJ INVEST A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: MAVVDKK1
+    
+- name: "MARKEDSKRAFT DANMARK, FILIAL AF MARKEDSKRAFT ASA NORGE"
+  city: "AARHUS"
+  branch: null
+  swift: MDFMDK21
+    
+- name: "MERKUR ANDELSKASSE"
+  city: "AALBORG"
+  branch: null
+  swift: MEKUDK21
+    
+- name: "MIDDELFART SPAREKASSE"
+  city: "MIDDELFART"
+  branch: null
+  swift: MISPDK21
+    
+- name: "MIDTINVEST INVESTERINGSFORVALTNING A/S"
+  city: "HERNING"
+  branch: null
+  swift: MIDIDK21
+    
+- name: "MOENS BANK A/S"
+  city: "STEGE"
+  branch: null
+  swift: MONSDK21
+    
+- name: "MORE 2 SAVE APS"
+  city: "COPENHAGEN"
+  branch: null
+  swift: MOVADKK1
+    
+- name: "MP PENSION"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PENNDK21
+    
+- name: "NE FONDSMAEGLERSELSKAB A/S (NE CAPITAL MANAGEMENT A/S)"
+  city: "AALBORG"
+  branch: null
+  swift: FOCMDK21
+    
+- name: "NETS DENMARK A/S"
+  city: "BALLERUP"
+  branch: TARGET2 INTERFACE
+  swift: PBSEDK21T2I
+    
+- name: "NETS DENMARK A/S"
+  city: "BALLERUP"
+  branch: null
+  swift: PBSEDK21
+    
+- name: "NI PORTEFOLJE GLOBALE AKTIER STRATEGI KL"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PGASDKK1
+    
+- name: "NI PORTEFOLJE PBPM DANSKE OBLIGATIONER KL"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PPDODKK1
+    
+- name: "NI PORTEFOLJE PBPM GLOBALE AKTIER FOKUS KL"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PPGADKK1
+    
+- name: "NI PORTFOLIE PBPM OBLIGATIONER KL"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PPOLDKK1
+    
+- name: "NI PORTFOLJE PBPM BALANCE KL"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PBPMDKK1
+    
+- name: "NIE EMERGING MARKET BONDS"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NEMBDKK1
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: BANK CASH CONCENTRATION
+  swift: NDEADKKKBCC
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: EXTERNAL CUSTODIAN
+  swift: NDEADKKKPFR
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: GROUP FUNDING
+  swift: NDEADKKKTSY
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: NORDEA SP DEALING BRANCH
+  swift: NDEADKKKSPX
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: VP INSTRUCTIONS ETC. UNDER CD ID 02064
+  swift: NDEADKKK064
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: VP INSTRUCTIONS ETC. UNDER CD ID 02068
+  swift: NDEADKKK068
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: VP INSTRUCTIONS ETC. UNDER CD ID 02085
+  swift: NDEADKKK085
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: VP INSTRUCTIONS ETC. UNDER CD ID 14224
+  swift: NDEADKKKNKK
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NDEADKKK
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NDEADKKKCLS
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NDEADKKKFSI
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NDEADKKKNCL
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "RINGSTED"
+  branch: null
+  swift: NDEADKKKRIN
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "ROEDOVRE"
+  branch: null
+  swift: NDEADKKKROD
+    
+- name: "NORDEA DANMARK, FILIAL AF NORDEA BANK AB (PUBL), SVERIGE"
+  city: "SVENDBORG"
+  branch: null
+  swift: NDEADKKKSVB
+    
+- name: "NORDEA FINANS DANMARK A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: UNREDKK1
+    
+- name: "NORDEA INVEST BOLIG 2"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NONLDKK1
+    
+- name: "NORDEA INVEST EMERGING STARS"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NIEADKK1
+    
+- name: "NORDEA INVEST FUND MANAGEMENT A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NIFNDK21
+    
+- name: "NORDEA INVEST HOEJRENTELANDE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NOIHDKK1
+    
+- name: "NORDEA INVEST KOMMUNE I"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NOIUDKK1
+    
+- name: "NORDEA INVEST KOMMUNE II C/O INVESTERINGSFORENINGEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NIKTDKK1
+    
+- name: "NORDEA INVEST OBLIGATIONER"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NONBDKK1
+    
+- name: "NORDEA INVEST SPECIAL C/O INVESTERINGSFORENINGEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NISNDKK1
+    
+- name: "NORDEA INVEST STABILE AKTIER AKKUMULERENDE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NISTDKK1
+    
+- name: "NORDEA INVEST VIRKSOMHEDSOBLIGATIONER HOEJRENTE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NIVHDKK1
+    
+- name: "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH"
+  city: "COPENHAGEN"
+  branch: INVESTMENT MANAGEMENT
+  swift: NDEADKX1JPM
+    
+- name: "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NDEADKK2
+    
+- name: "NORDFYNS BANK"
+  city: "BOGENSE"
+  branch: HEAD OFFICE
+  swift: NSBKDK21
+    
+- name: "NORDFYNS BANK"
+  city: "BRENDERUP"
+  branch: null
+  swift: NSBKDK21025
+    
+- name: "NORDFYNS BANK"
+  city: "OTTERUP"
+  branch: null
+  swift: NSBKDK21023
+    
+- name: "NORDFYNS BANK"
+  city: "SOENDERSOE"
+  branch: null
+  swift: NSBKDK21024
+    
+- name: "NORDIC ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NAMNDKK1
+    
+- name: "NORDJYSKE BANK A/S"
+  city: "NOERRESUNDBY"
+  branch: null
+  swift: NRSBDK24
+    
+- name: "NORDNET BANK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NODNDKKK
+    
+- name: "NORTHERN ROCK BANK DANMARK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NORNDKK1
+    
+- name: "NOVOZYMES A/S"
+  city: "BAGSVAERD"
+  branch: null
+  swift: NOVZDK21
+    
+- name: "NYKREDIT A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NYKRDKKK
+    
+- name: "NYKREDIT AM"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NYKEDKK1
+    
+- name: "NYKREDIT BANK A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NYKBDKKK
+    
+- name: "NYKREDIT PORTFOLIO"
+  city: "COPENHAGEN"
+  branch: null
+  swift: NYPODKK1
+    
+- name: "O. W. BUNKER AND TRADING A/S"
+  city: "AALBORG"
+  branch: null
+  swift: BUTDDK21SUP
+    
+- name: "O. W. BUNKER AND TRADING A/S"
+  city: "NOERRESUNDBY"
+  branch: null
+  swift: BUTDDK21
+    
+- name: "ORESUNDSBRO KONSORTIET I/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: OKONDKKK
+    
+- name: "OSTJYDSK BANK A/S"
+  city: "MARIAGER"
+  branch: null
+  swift: OSBADK22
+    
+- name: "P.H. BORSMAEGLERSELSKAB"
+  city: "COPENHAGEN"
+  branch: null
+  swift: BOLEDKK1
+    
+- name: "PEN-SAM BANK A/S"
+  city: "FARUM"
+  branch: null
+  swift: PSBSDK21
+    
+- name: "PENSAM LIV FORSIKRINGSAKTIESELSKAB"
+  city: "FARUM"
+  branch: null
+  swift: PENFDK22
+    
+- name: "PENSIONDANMARK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PENODK21
+    
+- name: "PENSIONDANMARK PENSIONSFORSIKRINGSAKTIESELSKAB"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PNDKDKKK
+    
+- name: "PFA ASSET MANAGEMENT A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PAMQDKKK
+    
+- name: "PFA BANK A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PFUDDKK1
+    
+- name: "PFA KAPITALFORVALTNING"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PFAKDKK1
+    
+- name: "PFA PENSION"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PFPEDKK1
+    
+- name: "P-H BORSMAEGLERSELSKAB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PHBSDKK1
+    
+- name: "PLACERINGSFORENINGEN PROFIL INVEST"
+  city: "COPENHAGEN"
+  branch: null
+  swift: PLPIDKK1
+    
+- name: "REALDANIA"
+  city: "COPENHAGEN"
+  branch: KD
+  swift: REKDDKK10KD
+    
+- name: "REALDANIA"
+  city: "COPENHAGEN"
+  branch: KDCAMP401
+  swift: REKDDKK1401
+    
+- name: "REALDANIA"
+  city: "COPENHAGEN"
+  branch: KDCAP245
+  swift: REKDDKK1245
+    
+- name: "REALDANIA"
+  city: "COPENHAGEN"
+  branch: KDCATCO700
+  swift: REKDDKK1700
+    
+- name: "REALDANIA"
+  city: "COPENHAGEN"
+  branch: KDCORD405
+  swift: REKDDKK1405
+    
+- name: "REALDANIA"
+  city: "COPENHAGEN"
+  branch: KDHINES407
+  swift: REKDDKK1407
+    
+- name: "REALDANIA"
+  city: "COPENHAGEN"
+  branch: KDSINAI703
+  swift: REKDDKK1703
+    
+- name: "REALDANIA"
+  city: "COPENHAGEN"
+  branch: KDTIMB402
+  swift: REKDDKK1402
+    
+- name: "REALDANIA"
+  city: "COPENHAGEN"
+  branch: REALDANIA - KDPIN704
+  swift: REKDDKK1704
+    
+- name: "REALDANIA"
+  city: "COPENHAGEN"
+  branch: null
+  swift: REKDDKK1
+    
+- name: "REALKREDIT DANMARK"
+  city: "COPENHAGEN"
+  branch: null
+  swift: RDDKDKKK
+    
+- name: "REFSNAES SPAREKASSE"
+  city: "KALUNDBORG"
+  branch: null
+  swift: REPRDK21
+    
+- name: "RINGKJOBING LANDBOBANK A/S"
+  city: "HERNING"
+  branch: null
+  swift: RINGDK22HER
+    
+- name: "RINGKJOBING LANDBOBANK A/S"
+  city: "HOLSTEBRO"
+  branch: null
+  swift: RINGDK22HOL
+    
+- name: "RINGKJOBING LANDBOBANK A/S"
+  city: "LEM"
+  branch: null
+  swift: RINGDK22LEM
+    
+- name: "RINGKJOBING LANDBOBANK A/S"
+  city: "RINGKOEBING"
+  branch: null
+  swift: RINGDK22
+    
+- name: "RINGKJOBING LANDBOBANK A/S"
+  city: "TARM"
+  branch: FORMER TARM BANK
+  swift: RINGDK22TAR
+    
+- name: "RINGKJOBING LANDBOBANK A/S"
+  city: "VIBORG"
+  branch: null
+  swift: RINGDK22VIB
+    
+- name: "RISE SPARE- OG LAANEKASSE"
+  city: "AEROESKOEBING"
+  branch: null
+  swift: RISEDK21
+    
+- name: "ROCKWOOL INTERNATIONAL A/S"
+  city: "HEDEHUSENE"
+  branch: null
+  swift: ROITDK22
+    
+- name: "RONDE OG OMEGNS SPAREKASSE"
+  city: "ROENDE"
+  branch: null
+  swift: RSPKDK21
+    
+- name: "RYOMGAARD OG OMEGNS SPAREKASSE"
+  city: "RYOMGAARD"
+  branch: null
+  swift: RYOMDK21
+    
+- name: "SALLING BANK A/S"
+  city: "SKIVE"
+  branch: null
+  swift: SALLDK22
+    
+- name: "SANTANDER CONSUMER BANK AS, DENMARK"
+  city: "HVIDOVRE"
+  branch: null
+  swift: SAODDK21
+    
+- name: "SAXO BANK A/S"
+  city: "HELLERUP"
+  branch: null
+  swift: SAXODKKK
+    
+- name: "SAXO PAYMENTS A/S"
+  city: "HELLERUP"
+  branch: null
+  swift: SXPYDKKK
+    
+- name: "SAXO PRIVATBANK"
+  city: "HELLERUP"
+  branch: null
+  swift: BRSPDK21
+    
+- name: "SAXO PRIVATBANK"
+  city: "HELLERUP"
+  branch: null
+  swift: ETDEDKK1
+    
+- name: "SAXOBANK A/S"
+  city: "HELLERUP"
+  branch: null
+  swift: SAXODK21
+    
+- name: "SKANDIA"
+  city: "COPENHAGEN"
+  branch: null
+  swift: SKADDK21
+    
+- name: "SKANDIA ASSET MANAGEMENT"
+  city: "COPENHAGEN"
+  branch: null
+  swift: SKDADKKK
+    
+- name: "SKANDINAVISK DATA CENTER A/S"
+  city: "BALLERUP"
+  branch: null
+  swift: SDUDDK21
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN"
+  city: "COPENHAGEN"
+  branch: ENSKILDA SECURITIES
+  swift: ESSEDKKKENS
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN"
+  city: "COPENHAGEN"
+  branch: SEB COPENHAGEN - CALYPSO BRANCH CODE
+  swift: ESSEDKKKCAL
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: ESSEDKKK
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN"
+  city: "COPENHAGEN"
+  branch: null
+  swift: ESSEDKKKCLS
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN, FORMER SEB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: ESSEDK22
+    
+- name: "SKJERN BANK"
+  city: "BORRIS"
+  branch: null
+  swift: SKJBDK22BOR
+    
+- name: "SKJERN BANK"
+  city: "BRAMMING"
+  branch: null
+  swift: SKJBDK22BRM
+    
+- name: "SKJERN BANK"
+  city: "ESBJERG"
+  branch: null
+  swift: SKJBDK22ESB
+    
+- name: "SKJERN BANK"
+  city: "HELLERUP"
+  branch: null
+  swift: SKJBDK22HLL
+    
+- name: "SKJERN BANK"
+  city: "RIBE"
+  branch: null
+  swift: SKJBDK22RIB
+    
+- name: "SKJERN BANK"
+  city: "SKJERN"
+  branch: null
+  swift: SKJBDK22
+    
+- name: "SKJERN BANK"
+  city: "VARDE"
+  branch: null
+  swift: SKJBDK22VAR
+    
+- name: "SOEBY- SKADER - HALLING SPAREKASSE"
+  city: "HORNSLET"
+  branch: null
+  swift: SOBYDK21
+    
+- name: "SOENDERHAA-HOERSTED SPAREKASSE"
+  city: "SNEDSTED"
+  branch: null
+  swift: SOHODK21
+    
+- name: "SPAR NORD BANK A/S"
+  city: "AALBORG"
+  branch: null
+  swift: SPNODK22
+    
+- name: "SPAREKASSEN BALLING"
+  city: "SPOETTRUP"
+  branch: null
+  swift: BALLDK21
+    
+- name: "SPAREKASSEN BREDEBRO"
+  city: "BREDEBRO"
+  branch: null
+  swift: BBRODK21
+    
+- name: "SPAREKASSEN DEN LILLE BIKUBE"
+  city: "FUGLEBJERG"
+  branch: null
+  swift: LIBIDK21
+    
+- name: "SPAREKASSEN DJURSLAND"
+  city: "ALLINGAABRO"
+  branch: null
+  swift: VIVIDK21
+    
+- name: "SPAREKASSEN FOR NOERRE NEBEL OG OMEGN"
+  city: "NOERRE NEBEL"
+  branch: null
+  swift: NRNEDK21
+    
+- name: "SPAREKASSEN KRONJYLLAND"
+  city: "RANDERS"
+  branch: null
+  swift: KRONDK22
+    
+- name: "SPAREKASSEN MIDTDJURS"
+  city: "RYOMGAARD"
+  branch: null
+  swift: SPMJDK21
+    
+- name: "SPAREKASSEN NORDMORS"
+  city: "NYKOEBING MORS"
+  branch: null
+  swift: NOMODK21
+    
+- name: "SPAREKASSEN RAVSTED"
+  city: "BYLDERUP-BOV"
+  branch: null
+  swift: SRAVDK21
+    
+- name: "SPAREKASSEN SJAELLAND"
+  city: "HOLBAEK"
+  branch: null
+  swift: SWESDK22
+    
+- name: "SPAREKASSEN SPAR MORS"
+  city: "ERSLEV"
+  branch: null
+  swift: BJFLDK21
+    
+- name: "SPAREKASSEN THY"
+  city: "THISTED"
+  branch: null
+  swift: STHYDK21
+    
+- name: "SPAREKASSEN VENDSYSSEL"
+  city: "VRAA"
+  branch: null
+  swift: VRAADK21
+    
+- name: "STADIL SPAREKASSE"
+  city: "RINGKOEBING"
+  branch: null
+  swift: SSPKDK21
+    
+- name: "STEFFEN RONN FONDSMAEGLERSELSKAB A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: STRDDKK1
+    
+- name: "SWEDBANK AB"
+  city: "COPENHAGEN"
+  branch: null
+  swift: SWEDDKKK
+    
+- name: "SWISS RE DENMARK REINSURANCE A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: ERFRDKK1
+    
+- name: "SYDBANK A/S"
+  city: "AABENRAA"
+  branch: null
+  swift: SYBKDK22
+    
+- name: "SYDBANK A/S"
+  city: "AALBORG"
+  branch: null
+  swift: SYBKDK22AAL
+    
+- name: "SYDBANK A/S"
+  city: "AARHUS"
+  branch: null
+  swift: SYBKDK22AAR
+    
+- name: "SYDBANK A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: SYBKDK22CPH
+    
+- name: "SYDBANK A/S"
+  city: "ESBJERG"
+  branch: null
+  swift: SYBKDK22ESB
+    
+- name: "SYDBANK A/S"
+  city: "HERNING"
+  branch: null
+  swift: SYBKDK22HER
+    
+- name: "SYDBANK A/S"
+  city: "HORSENS"
+  branch: null
+  swift: SYBKDK22HOR
+    
+- name: "SYDBANK A/S"
+  city: "KOLDING"
+  branch: null
+  swift: SYBKDK22KOL
+    
+- name: "SYDBANK A/S"
+  city: "ODENSE"
+  branch: ODENSE BRANCH
+  swift: SYBKDK22ODE
+    
+- name: "SYDBANK A/S"
+  city: "PADBORG"
+  branch: null
+  swift: SYBKDK22PAD
+    
+- name: "SYDBANK A/S"
+  city: "SLAGELSE"
+  branch: SLAGELSE BRANCH
+  swift: SYBKDK22SLA
+    
+- name: "SYDBANK A/S"
+  city: "SOENDERBORG"
+  branch: null
+  swift: SYBKDK22SON
+    
+- name: "SYDBANK A/S"
+  city: "SVENDBORG"
+  branch: null
+  swift: SYBKDK22SVB
+    
+- name: "SYDBANK A/S"
+  city: "TOENDER"
+  branch: null
+  swift: SYBKDK22TON
+    
+- name: "SYDBANK A/S"
+  city: "VARDE"
+  branch: null
+  swift: SYBKDK22VAR
+    
+- name: "SYDBANK A/S"
+  city: "VEJLE"
+  branch: VEJLE BRANCH
+  swift: SYBKDK22VEJ
+    
+- name: "SYDINVEST ADMINISTRATION A/S"
+  city: "AABENRAA"
+  branch: null
+  swift: SADMDK21
+    
+- name: "SYDINVEST ADMINISTRATION A/S"
+  city: "AABENRAA"
+  branch: null
+  swift: SADMDK21TDC
+    
+- name: "TDC A/S"
+  city: "COPENHAGEN"
+  branch: NORDIC TELEPHONE
+  swift: TDCTDKK1NTC
+    
+- name: "TDC A/S"
+  city: "COPENHAGEN"
+  branch: TDC
+  swift: TDCTDKK1TDC
+    
+- name: "TDC A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: TDCTDKK1
+    
+- name: "TDC PENSIONSKASSE"
+  city: "COPENHAGEN"
+  branch: null
+  swift: TDCPDKK1
+    
+- name: "THE DANISH EMISSION TRADING REGISTRY"
+  city: "COPENHAGEN"
+  branch: null
+  swift: DETRDKK1
+    
+- name: "TOP DANMARK FORSIKRING A/S"
+  city: "BALLERUP"
+  branch: null
+  swift: TODFDK21
+    
+- name: "TOP DANMARK LIVSFORSIKRING A/S"
+  city: "BALLERUP"
+  branch: null
+  swift: TODLDK21
+    
+- name: "TOP DANMARK LIVSFORSIKRING V A/S"
+  city: "BALLERUP"
+  branch: null
+  swift: TODVDK21
+    
+- name: "TOPDANMARK LINK LIVSFORSIKRING A/S"
+  city: "BALLERUP"
+  branch: null
+  swift: TOLLDK21
+    
+- name: "TOTALBANKEN A/S"
+  city: "AARUP"
+  branch: null
+  swift: BAAADK21
+    
+- name: "TOTALKREDIT A/S"
+  city: "TAASTRUP"
+  branch: null
+  swift: TOTKDK21
+    
+- name: "TRYG A/S"
+  city: "BALLERUP"
+  branch: null
+  swift: TYYGDK21
+    
+- name: "UNIPENSION FONDSMAEGLERSELSKAP A/S"
+  city: "GENTOFTE"
+  branch: null
+  swift: UNFODK21
+    
+- name: "VESTAS WIND SYSTEMS A/S"
+  city: "AARHUS"
+  branch: null
+  swift: WINDDK22
+    
+- name: "VESTJYSK BANK"
+  city: "ESBJERG"
+  branch: null
+  swift: VEHODK22ESB
+    
+- name: "VESTJYSK BANK"
+  city: "HERNING"
+  branch: null
+  swift: VEHODK22HER
+    
+- name: "VESTJYSK BANK"
+  city: "HOLSTEBRO"
+  branch: HOLSTEBRO BRANCH
+  swift: VEHODK22HOL
+    
+- name: "VESTJYSK BANK"
+  city: "LEMVIG"
+  branch: null
+  swift: VEHODK22
+    
+- name: "VESTJYSK BANK"
+  city: "STRUER"
+  branch: null
+  swift: VEHODK22STR
+    
+- name: "VESTJYSK BANK"
+  city: "VIBORG"
+  branch: null
+  swift: VEHODK22VIB
+    
+- name: "VISTOFT SPAREKASSE"
+  city: "KNEBEL"
+  branch: null
+  swift: VISODK21
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: ISSUING AND PAYING AGENT
+  swift: VPDKDKKKIPA
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: VPDK AS INVESTOR
+  swift: VPDKDKKKINV
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: VPDK AS ISSUER
+  swift: VPDKDKKKISS
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: VPLUX
+  swift: VPDKDKKKALU
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK020
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK030
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK031
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK032
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK033
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK034
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK035
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK037
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK038
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK039
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK040
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK042
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK043
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK044
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK045
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK047
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK048
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK049
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK050
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK053
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK054
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK055
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK057
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK058
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK059
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK060
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK061
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK062
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK063
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK070
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK071
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK072
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK073
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK074
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK075
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK091
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK092
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK093
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK094
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK095
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK096
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK097
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK098
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK099
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK100
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK101
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK102
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK103
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK104
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK105
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK106
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK107
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK108
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK109
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK110
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK111
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK112
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK113
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK114
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK115
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK116
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK117
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK118
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK119
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK120
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK121
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK122
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK123
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK124
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK125
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK126
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK127
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK128
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK129
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK130
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK131
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK132
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK133
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK134
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK135
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK200
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK600
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK601
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK602
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK603
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK604
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK605
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK606
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK607
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK608
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK609
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK610
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK700
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK800
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKK900
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKKDIS
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKKLUX
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKKMCF
+    
+- name: "VP SECURITIES A/S"
+  city: "COPENHAGEN"
+  branch: null
+  swift: VPDKDKKKMIG
+    
+- name: "WEALTH MANAGEMENT FONDSMAEGLERSELSKAB A/S"
+  city: "NIVA"
+  branch: null
+  swift: WEMFDK21
+    

@@ -1,0 +1,320 @@
+- name: "AFRICAN BANKING CORP.OF ZIMBABWE LTD."
+  city: "HARARE"
+  branch: null
+  swift: FMBZZWHX
+    
+- name: "AFRICAN CENTURY LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: AFCNZWHA
+    
+- name: "AGRICULTURAL BANK OF ZIMBABWE LTD"
+  city: "HARARE"
+  branch: null
+  swift: AGRZZWHA
+    
+- name: "BARCLAYS BANK OF ZIMBABWE LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: BARCZWHX
+    
+- name: "BARD DISCOUNT HOUSE LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: BDHLZWH1
+    
+- name: "BARD STOCKBROKERS"
+  city: "HARARE"
+  branch: null
+  swift: BSTKZWH1
+    
+- name: "BETHEL EQUITIES"
+  city: "HARARE"
+  branch: null
+  swift: BEEQZWH1
+    
+- name: "BEVERLEY BUILDING SOCIETY"
+  city: "HARARE"
+  branch: null
+  swift: BVBSZWH1
+    
+- name: "BRITISH AMERICAN TOBACCO ZIMBABWE (HOLDINGS) LTD"
+  city: "HARARE"
+  branch: null
+  swift: BATSZWH1
+    
+- name: "CBZ BANK LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: COBZZWHA
+    
+- name: "CENTRAL AFRICA BUILDING SOCIETY"
+  city: "HARARE"
+  branch: null
+  swift: CABSZWHA
+    
+- name: "CFX MERCHANT BANK LIMITED"
+  city: "HARARE"
+  branch: HEAD OFFICE
+  swift: CFXBZWH1
+    
+- name: "CHENGETEDZAI DEPOSITORY COMPANY"
+  city: "HARARE"
+  branch: null
+  swift: CHDYZWH1
+    
+- name: "COMESA CLEARING HOUSE"
+  city: "HARARE"
+  branch: null
+  swift: COCUZWHA
+    
+- name: "ECOBANK ZIMBABWE LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: ECOCZWHX
+    
+- name: "EDWARDS AND COMPANY"
+  city: "HARARE"
+  branch: null
+  swift: EDCPZWH1
+    
+- name: "EDWARDS NOMINEES (PRIVATE) LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: EDNPZWH1
+    
+- name: "EFE SECURITIES (PRIVATE) LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: EFSRZWH1
+    
+- name: "FBC BANK LTD"
+  city: "HARARE"
+  branch: null
+  swift: FBCPZWHA
+    
+- name: "FBC SECURITIES (PRIVATE) LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: FBSRZWH1
+    
+- name: "GENESIS SECURITIES"
+  city: "HARARE"
+  branch: null
+  swift: USPTZWH1
+    
+- name: "GETBUCKS FINANCIAL SERVICES PVTLTD"
+  city: "HARARE"
+  branch: null
+  swift: GBSPZWHA
+    
+- name: "IH SECURITIES (PRIVATE) LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: SEEVZWH1
+    
+- name: "INDUSTRIAL DEVELOPMENT CORPORATION OF ZIMBABWE LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: IDCZZWH1
+    
+- name: "INFRASTRUCTURE DEVELOPMENT BANK OF ZIMBABWE ED"
+  city: "HARARE"
+  branch: null
+  swift: ZDBLZWHA
+    
+- name: "INTERMARKET DISCOUNT HOUSE"
+  city: "HARARE"
+  branch: null
+  swift: INDHZWH1
+    
+- name: "INVICTUS SECURITIES"
+  city: "HARARE"
+  branch: null
+  swift: IVEUZWH1
+    
+- name: "LION MICROFINANCE LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: LMLDZWHA
+    
+- name: "LYNTON-EDWARDS STOCKBROKERS"
+  city: "HARARE"
+  branch: null
+  swift: LYSOZWH1
+    
+- name: "MAST STOCKBROKERS (PVT) LTD"
+  city: "HARARE"
+  branch: null
+  swift: MSTPZWH1
+    
+- name: "MBCA BANK LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: MBCAZWHX
+    
+- name: "METBANK LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: MBOZZWHA
+    
+- name: "MMC CAPITAL (PRIVATE) LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: MMCPZWH1
+    
+- name: "MSASA STOCKBROKERS (PVT) LTD"
+  city: "HARARE"
+  branch: null
+  swift: MSSTZWH1
+    
+- name: "NATIONAL BUILDING SOCIETY"
+  city: "HARARE"
+  branch: null
+  swift: NABYZWHA
+    
+- name: "NMB BANK LIMITED"
+  city: "BULAWAYO"
+  branch: BULAWAYO BRANCH
+  swift: NMBLZWHXBYO
+    
+- name: "NMB BANK LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: NMBLZWHX
+    
+- name: "P.T.A. CLEARING HOUSE"
+  city: "HARARE"
+  branch: null
+  swift: PTAHZWH1
+    
+- name: "PEOPLE'S OWN SAVINGS BANK"
+  city: "HARARE"
+  branch: null
+  swift: PWSBZWHX
+    
+- name: "PLATINUM SECURITIES"
+  city: "HARARE"
+  branch: null
+  swift: PLSUZWH1
+    
+- name: "PREMIER BANKING CORPORATION LTD."
+  city: "HARARE"
+  branch: null
+  swift: PRDHZWH1
+    
+- name: "RENAISSANCE SECURITIES (PRIVATE) LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: BSPVZWH1
+    
+- name: "RESERVE BANK OF ZIMBABWE"
+  city: "HARARE"
+  branch: null
+  swift: REBZZWHQ
+    
+- name: "RESERVE BANK OF ZIMBABWE"
+  city: "HARARE"
+  branch: null
+  swift: REBZZWHX
+    
+- name: "RESERVE BANK OF ZIMBABWE"
+  city: "HARARE"
+  branch: null
+  swift: REBZZWHXPCH
+    
+- name: "SAGIT STOCKBROKERS (PRIVATE) LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: SAGSZWH1
+    
+- name: "SCOTFIN LIMITED"
+  city: "BULAWAYO"
+  branch: null
+  swift: SCLIZWH102B
+    
+- name: "SCOTFIN LIMITED"
+  city: "CHINHOYI"
+  branch: null
+  swift: SCLIZWH102C
+    
+- name: "SCOTFIN LIMITED"
+  city: "GWERU"
+  branch: null
+  swift: SCLIZWH102G
+    
+- name: "SCOTFIN LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: SCLIZWH1
+    
+- name: "SCOTFIN LIMITED"
+  city: "MUTARE"
+  branch: null
+  swift: SCLIZWH102M
+    
+- name: "SOUTHERN TRUST SECURITIES"
+  city: "HARARE"
+  branch: null
+  swift: SOTIZWH1
+    
+- name: "STANBIC BANK ZIMBABWE LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: SBICZWHX
+    
+- name: "STANDARD CHARTERED BANK ZIMBABWE LIMITED"
+  city: "HARARE"
+  branch: SECURITIES SERVICES UNIT
+  swift: SCBLZWHXSSU
+    
+- name: "STANDARD CHARTERED BANK ZIMBABWE LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: SCBLZWHX
+    
+- name: "STEWARD BANK LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: STBLZWHX
+    
+- name: "SUCCESS MICROFINANCE BANK LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: SMFBZWHA
+    
+- name: "TETRAD INVESTMENT BANK LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: TTSLZWHX
+    
+- name: "THE DISCOUNT COMPANY OF ZIMBABWE LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: DCZWZWH1
+    
+- name: "THE TETRAD GROUP"
+  city: "HARARE"
+  branch: null
+  swift: TEGRZWH1
+    
+- name: "TRUST CORPORATE SECURITIES (PRIVATE) LIMITED"
+  city: "HARARE"
+  branch: null
+  swift: TCSPZWH1
+    
+- name: "ZIMBABWE BANKING CORPORATION LTD."
+  city: "BULAWAYO"
+  branch: null
+  swift: ZBCOZWHXBYO
+    
+- name: "ZIMBABWE BANKING CORPORATION LTD."
+  city: "HARARE"
+  branch: null
+  swift: ZBCOZWHX
+    
+- name: "ZIMBABWE STOCK EXCHANGE"
+  city: "HARARE"
+  branch: null
+  swift: XZIMZWH1
+    

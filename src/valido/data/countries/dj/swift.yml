@@ -1,0 +1,65 @@
+- name: "BANK OF AFRICA MER ROUGE"
+  city: "DJIBOUTI"
+  branch: null
+  swift: MRINDJJD
+    
+- name: "BANQUE CENTRALE DE DJIBOUTI"
+  city: "DJIBOUTI"
+  branch: null
+  swift: BCDJDJJD
+    
+- name: "BANQUE CENTRALE DE DJIBOUTI"
+  city: "DJIBOUTI"
+  branch: null
+  swift: BNDJDJD1
+    
+- name: "BANQUE DE DEPOT ET CREDIT DJIBOUTI"
+  city: "DJIBOUTI"
+  branch: null
+  swift: DECDDJJD
+    
+- name: "BANQUE DE DJIBOUTI ET DU MOYEN ORIENT"
+  city: "DJIBOUTI"
+  branch: null
+  swift: BDMODJD1
+    
+- name: "BANQUE POUR LE COMMERCE ET L'INDUSTRIE - MER ROUGE"
+  city: "DJIBOUTI"
+  branch: null
+  swift: BCIMDJJX
+    
+- name: "CAC INTERNATIONAL BANK"
+  city: "DJIBOUTI"
+  branch: null
+  swift: CACDDJJD
+    
+- name: "COMMERCIAL BANK OF DJIBOUTI SA"
+  city: "DJIBOUTI"
+  branch: null
+  swift: CBDJDJJD
+    
+- name: "EAST AFRICA BANK"
+  city: "DJIBOUTI"
+  branch: null
+  swift: EABDDJJD
+    
+- name: "EXIM BANK (DJIBOUTI) S.A."
+  city: "DJIBOUTI"
+  branch: null
+  swift: EXTNDJJD
+    
+- name: "INTERNATIONAL COMMERCIAL BANK DJIBOUTI"
+  city: "DJIBOUTI"
+  branch: null
+  swift: ICDJDJJD
+    
+- name: "SABA ISLAMIC BANK"
+  city: "DJIBOUTI"
+  branch: null
+  swift: SAAIDJJD
+    
+- name: "SALAAM AFRICAN BANK"
+  city: "DJIBOUTI"
+  branch: null
+  swift: ISEADJJD
+    

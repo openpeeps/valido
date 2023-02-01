@@ -1,0 +1,155 @@
+- name: "ACCESSBANK TAJIKISTAN"
+  city: "DUSHANBE"
+  branch: null
+  swift: ACTJTJ22
+    
+- name: "AGROINVESTBANK OPEN JOINT STOCK COMPANY"
+  city: "DUSHANBE"
+  branch: null
+  swift: AGIBTJ22
+    
+- name: "AMONATBONK THE STATE SAVING BANK REPUBLIC OF TAJIKISTAN"
+  city: "DUSHANBE"
+  branch: null
+  swift: ASSETJ22
+    
+- name: "ARGUN"
+  city: "DUSHANBE"
+  branch: null
+  swift: ARUNTJ22
+    
+- name: "BANK TEJARAT DUSHANBE BRANCH"
+  city: "DUSHANBE"
+  branch: null
+  swift: BTEJTJ22
+    
+- name: "CENTRAL ASIAN BANK"
+  city: "DUSHANBE"
+  branch: null
+  swift: CEAATJ21
+    
+- name: "CJSC 'BANK ASIA'"
+  city: "DUSHANBE"
+  branch: null
+  swift: BASTTJ22
+    
+- name: "CJSC 'BONKI RUSHDI TOJIKISTON'"
+  city: "DUSHANBE"
+  branch: null
+  swift: BRTATJ22
+    
+- name: "CJSC INTERNATIONAL BANK OF TAJIKISTAN"
+  city: "DUSHANBE"
+  branch: null
+  swift: IBTKTJ22
+    
+- name: "CJSC MICROCREDIT DEPOSIT ORGANIZATION HUMO"
+  city: "DUSHANBE"
+  branch: null
+  swift: HUMOTJ22
+    
+- name: "CJSC SPITAMEN BANK"
+  city: "DUSHANBE"
+  branch: null
+  swift: SPRBTJ22
+    
+- name: "CSD MDO 'IMON INTERNATIONAL'"
+  city: "KHUJAND"
+  branch: null
+  swift: NABWTJ22
+    
+- name: "ESKAHA BANK OPENED JOINT STOCK COMPANY"
+  city: "KHUJAND"
+  branch: null
+  swift: EOJSTJ21
+    
+- name: "ESKHATA BANK OPENED JOINT STOCK COMPANY"
+  city: "KHUJAND"
+  branch: null
+  swift: EJSATJ22
+    
+- name: "FNBO CREDITINVEST ZAO"
+  city: "DUSHANBE"
+  branch: null
+  swift: CRZNTJ21
+    
+- name: "KAFOLATBANK"
+  city: "DUSHANBE"
+  branch: null
+  swift: KACJTJ22
+    
+- name: "KAZKOMMERTSBANK TAJIKISTAN"
+  city: "DUSHANBE"
+  branch: null
+  swift: KATJTJ21
+    
+- name: "KAZKOMMERTSBANK TAJIKISTAN"
+  city: "DUSHANBE"
+  branch: null
+  swift: KZKOTJ22
+    
+- name: "LLC MDO ARVAND"
+  city: "KHUJAND"
+  branch: null
+  swift: ARVDTJ22
+    
+- name: "LLC MDO 'FAZO S'"
+  city: "DUSHANBE"
+  branch: null
+  swift: SARHTJ22
+    
+- name: "LLC MDO SARVAT M"
+  city: "DUSHANBE"
+  branch: null
+  swift: SRVTTJ22
+    
+- name: "LLC MDO TIJORAT"
+  city: "DUSHANBE"
+  branch: null
+  swift: TJRTTJ22
+    
+- name: "LLC MICROCREDIT DEPOSIT ORGANIZATIO N BARAKAT"
+  city: "DUSHANBE"
+  branch: null
+  swift: BRKTTJ22
+    
+- name: "MDO MATIN"
+  city: "KHUJAND"
+  branch: null
+  swift: MDMATJ21
+    
+- name: "NATIONAL BANK OF TAJIKISTAN"
+  city: "DUSHANBE"
+  branch: null
+  swift: NATJTJ22
+    
+- name: "NBP PAKISTAN SUBSIDIARY BANK"
+  city: "DUSHANBE"
+  branch: null
+  swift: NBPATJ22
+    
+- name: "OJSC COMMERCE BANK OF TAJIKISTAN"
+  city: "DUSHANBE"
+  branch: null
+  swift: MFARTJ22
+    
+- name: "ORIENBANK, OPEN JOINT STOCK COMPANY"
+  city: "DUSHANBE"
+  branch: null
+  swift: OTJKTJ22
+    
+- name: "SOHIBKORBANK"
+  city: "DUSHANBE"
+  branch: null
+  swift: SOHBTJ22
+    
+- name: "THE FIRST MICROFINANCEBANK"
+  city: "DUSHANBE"
+  branch: null
+  swift: FMBTTJ22
+    
+- name: "TOJIKSODIROTBONK"
+  city: "DUSHANBE"
+  branch: null
+  swift: TOJITJ22
+    

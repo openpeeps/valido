@@ -1,0 +1,405 @@
+- name: "ABU DHABI ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: ABDISDKH
+    
+- name: "AGRICULTURAL BANK OF SUDAN"
+  city: "KHARTOUM"
+  branch: null
+  swift: ABSUSDKH
+    
+- name: "AL BARAKA BANK (SUDAN)"
+  city: "KHARTOUM"
+  branch: null
+  swift: RAKASDKH
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "ABU HAMAD"
+  branch: null
+  swift: NILESDKH02P
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "ABU JEBEHA"
+  branch: null
+  swift: NILESDKH02B
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "ADDBH"
+  branch: null
+  swift: NILESDKH02N
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "ATBRA"
+  branch: null
+  swift: NILESDKH02H
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "DUNGLA"
+  branch: null
+  swift: NILESDKH02K
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "EL FASHIR"
+  branch: null
+  swift: NILESDKH02D
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "ELGDARIF"
+  branch: null
+  swift: NILESDKH02F
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "ELGOLID"
+  branch: null
+  swift: NILESDKH02M
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "ELMNGIL"
+  branch: null
+  swift: NILESDKH026
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "ELNIHOOD"
+  branch: null
+  swift: NILESDKH02A
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "ELOBIED"
+  branch: null
+  swift: NILESDKH027
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "KAREMA"
+  branch: null
+  swift: NILESDKH02L
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "KASLA"
+  branch: null
+  swift: NILESDKH02G
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "KHARTOUM"
+  branch: KHARTOUM NORTH BRANCH
+  swift: NILESDKH0K2
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "KHARTOUM"
+  branch: null
+  swift: NILESDKH
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "KHARTOUM"
+  branch: null
+  swift: NILESDKH02E
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "KHASHM ELGIRBA"
+  branch: null
+  swift: NILESDKH02J
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "KOSTI"
+  branch: null
+  swift: NILESDKH0S2
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "MEDANI"
+  branch: null
+  swift: NILESDKH025
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "NIALA"
+  branch: null
+  swift: NILESDKH02C
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "OMDURMAN"
+  branch: null
+  swift: NILESDKH024
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "OMRWABA"
+  branch: null
+  swift: NILESDKH028
+    
+- name: "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO."
+  city: "PORT SUDAN"
+  branch: null
+  swift: NILESDKH0PS
+    
+- name: "AL SHAMAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: ISBSSDKH
+    
+- name: "ALKHALEEJ BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: KHJBSDKH
+    
+- name: "ALSALAM BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: ALSASDKH
+    
+- name: "ANIMAL RESOURCES BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: ANRESDKH
+    
+- name: "ARAB BANK FOR ECONOMIC DEVELOPMENT IN AFRICA (BADEA)"
+  city: "KHARTOUM"
+  branch: null
+  swift: ABEASDKH
+    
+- name: "ARAB SUDANESE BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: ARABSDKH
+    
+- name: "BANK OF KHARTOUM"
+  city: "KHARTOUM"
+  branch: null
+  swift: BAKHSDKH
+    
+- name: "BANK OF OMAN LTD. (SUDAN)"
+  city: "KHARTOUM"
+  branch: null
+  swift: BOLSSDK1
+    
+- name: "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE - SOUDAN BRANCHE - (B.S.I.C.)"
+  city: "KHARTOUM"
+  branch: null
+  swift: BSAHSDKH
+    
+- name: "BLUE NILE MASHREG BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: BLNISDKH
+    
+- name: "BYBLOS BANK AFRICA LIMITED"
+  city: "KHARTOUM"
+  branch: null
+  swift: BYBASDKH
+    
+- name: "CENTRAL BANK OF SUDAN"
+  city: "KHARTOUM"
+  branch: HEAD QUARTER
+  swift: BSDNSDKHHQR
+    
+- name: "CENTRAL BANK OF SUDAN"
+  city: "KHARTOUM"
+  branch: null
+  swift: BSDNSDKH
+    
+- name: "CITIBANK N.A."
+  city: "KHARTOUM"
+  branch: null
+  swift: CITISDK1
+    
+- name: "EL NILEIN INDUSTRIAL DEVELOPMENT BANK GROUP"
+  city: "KHARTOUM"
+  branch: null
+  swift: ENIDSDKH
+    
+- name: "ELECTRONIC BANKING SERVICES"
+  city: "KHARTOUM"
+  branch: null
+  swift: EBSLSDK1
+    
+- name: "ELGAZEERA SUDANESE JORDANIAN BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: GSJBSDKH
+    
+- name: "EXPORT DEVELOPMENT BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: EXPDSDKH
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: AL SAGANAH BRANCH
+  swift: FISBSDKH107
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: AL SUK AL ARABI BRANCH
+  swift: FISBSDKH118
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: AL SUK AL MAHALI BRANCH
+  swift: FISBSDKH116
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: AL SUK AL SHABI KHARTOUM BRANCH
+  swift: FISBSDKH110
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: CORPORATE DEPARTMENT
+  swift: FISBSDKH122
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: FAIHA BRANCH
+  swift: FISBSDKH101
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: KHARTOUM CENTRAL STATION BRANCH
+  swift: FISBSDKH102
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: KHARTOUM NEW INDUSTRIAL AREA BRANCH
+  swift: FISBSDKH115
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: KHARTOUM NORTH INDUSTRIAL AREA BRANCH
+  swift: FISBSDKH114
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: UNIVERSITY OF KHARTOUM BRANCH
+  swift: FISBSDKH105
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: FISBSDKH
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "OMDURMAN"
+  branch: OMDURMAN BRANCH
+  swift: FISBSDKH121
+    
+- name: "FAISAL ISLAMIC BANK"
+  city: "PORT SUDAN"
+  branch: PORTSUDAN BRANCH
+  swift: FISBSDKH401
+    
+- name: "FARMERS COMMERCIAL BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: FARCSDKH
+    
+- name: "FINANCIAL INVESTMENT BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: FITBSDKH
+    
+- name: "HABIB BANK LTD"
+  city: "KHARTOUM"
+  branch: null
+  swift: HABBSDK1
+    
+- name: "ISLAMIC BANK FOR WESTERN SUDAN"
+  city: "KHARTOUM"
+  branch: null
+  swift: IBWSSDK1
+    
+- name: "NATIONAL BANK OF ABU DHABI KHARTOUM BRANCH"
+  city: "KHARTOUM"
+  branch: AMARAT BRANCH
+  swift: NBADSDKHAMR
+    
+- name: "NATIONAL BANK OF ABU DHABI KHARTOUM BRANCH"
+  city: "KHARTOUM"
+  branch: null
+  swift: NBADSDKH
+    
+- name: "NATIONAL BANK OF EGYPT (KHARTOUM)"
+  city: "KHARTOUM"
+  branch: null
+  swift: NBEKSDKH
+    
+- name: "NATIONAL BANK OF SUDAN"
+  city: "KHARTOUM"
+  branch: null
+  swift: NBSUSDKH
+    
+- name: "OMDURMAN NATIONAL BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: OMDBSDKH
+    
+- name: "QATAR ISLAMIC BANK SUDAN BRANCH"
+  city: "KHARTOUM"
+  branch: null
+  swift: QIBSSDKH
+    
+- name: "QATAR NATIONAL BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: QNBASDKH
+    
+- name: "REAL ESTATE COMMERCIAL BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: CRETSDKH
+    
+- name: "SAUDI SUDANESE BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: SAUSSDKH
+    
+- name: "SAVINGS AND SOCIAL DEVELOPMENT BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: SBSUSDK1
+    
+- name: "SAVINGS AND SOCIAL DEVELOPMENT BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: SSODSDKH
+    
+- name: "SUDAN COMMERCIAL BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: SUCBSDK1
+    
+- name: "SUDANESE EGYPTIAN BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: SUEGSDKH
+    
+- name: "SUDANESE FRENCH BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: SUFRSDKH
+    
+- name: "SUDANESE INTERNATIONAL BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: SUINSDK1
+    
+- name: "SUDANESE ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: SEIBSDKH
+    
+- name: "TADAMON ISLAMIC BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: TISBSDKH
+    
+- name: "THE INDUSTRIAL DEVELOPMENT BANK-SUDAN"
+  city: "KHARTOUM"
+  branch: null
+  swift: INSDSDKH
+    
+- name: "UNITED CAPITAL BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: CBSKSDKH
+    
+- name: "WORKERS NATIONAL BANK"
+  city: "KHARTOUM"
+  branch: null
+  swift: WONTSDKH
+    

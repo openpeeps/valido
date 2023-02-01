@@ -1,0 +1,95 @@
+- name: "ATLANTIC BANK LIMITED"
+  city: "BELIZE CITY"
+  branch: null
+  swift: LIBABZBZ
+    
+- name: "ATLANTIC BANK LIMITED"
+  city: "SAN PEDRO"
+  branch: null
+  swift: LIBABZBZ0BS
+    
+- name: "ATLANTIC INTERNATIONAL BANK LIMITED"
+  city: "BELIZE CITY"
+  branch: null
+  swift: AIBLBZBZ
+    
+- name: "BELIZE BANK INTERNATIONAL LIMITED"
+  city: "BELIZE CITY"
+  branch: null
+  swift: BCBTBZBZ
+    
+- name: "BELIZE BANK LIMITED"
+  city: "BELIZE CITY"
+  branch: null
+  swift: BBLZBZBZ
+    
+- name: "CAYE INTERNATIONAL BANK LTD."
+  city: "SAN PEDRO"
+  branch: null
+  swift: CAYEBZBZ
+    
+- name: "CENTRAL BANK OF BELIZE"
+  city: "BELIZE CITY"
+  branch: null
+  swift: CEBBBZBZ
+    
+- name: "CHOICE BANK LTD"
+  city: "BELIZE CITY"
+  branch: null
+  swift: CHOIBZBZ
+    
+- name: "COMPANIA FINANCIERA DE APOYO AL DESARROLLO DEL COMERCIO Y LA INDUSTRIA, S.A."
+  city: "BELIZE CITY"
+  branch: null
+  swift: CFADBZB1
+    
+- name: "EU TRADING GROUP INC"
+  city: "BELIZE CITY"
+  branch: null
+  swift: TRRRBZB1
+    
+- name: "FFIN BROKERAGE SERVICES INC"
+  city: "BELIZE CITY"
+  branch: null
+  swift: FFBRBZB1
+    
+- name: "HANDELS BANK AND TRUST CO. LTD."
+  city: "BELIZE CITY"
+  branch: null
+  swift: HATTBZB1
+    
+- name: "HERITAGE BANK LIMITED"
+  city: "BELIZE CITY"
+  branch: null
+  swift: PRVTBZBD
+    
+- name: "HERITAGE INTERNATIONAL BANK AND TRUST LIMITED"
+  city: "BELIZE CITY"
+  branch: null
+  swift: PRVTBZBS
+    
+- name: "ITREND LIMITED"
+  city: "BELIZE CITY"
+  branch: null
+  swift: ITREBZB1
+    
+- name: "NEW HORIZON FINANCIAL SERVICES LIMITED"
+  city: "BELIZE CITY"
+  branch: null
+  swift: NHFSBZB1
+    
+- name: "SCOTIABANK (BELIZE) LTD."
+  city: "BELIZE CITY"
+  branch: INTERNATIONAL
+  swift: NOSCBZBSINT
+    
+- name: "SCOTIABANK (BELIZE) LTD."
+  city: "BELIZE CITY"
+  branch: null
+  swift: NOSCBZBS
+    
+- name: "XFERION LATIN AMERICA S.A."
+  city: "BELIZE CITY"
+  branch: null
+  swift: FELABZB1
+    

@@ -1,0 +1,2355 @@
+- name: "28E CAPITAL PTY LTD"
+  city: "CENTURION"
+  branch: null
+  swift: ECATZAJ4
+    
+- name: "A2X PROPRIETARY LIMITED"
+  city: "JOHANNESBURG"
+  branch: A2X SLB
+  swift: AAXXZAJJSLB
+    
+- name: "A2X PROPRIETARY LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: AAXXZAJJ
+    
+- name: "ABAX INVESTMENTS"
+  city: "CAPE TOWN"
+  branch: null
+  swift: ABIVZAJ1
+    
+- name: "ABSA BANK LIMITED"
+  city: "BLOEMFONTEIN"
+  branch: INTERNATIONAL CENTER BLOEMFONTEIN
+  swift: ABSAZAJJCBF
+    
+- name: "ABSA BANK LIMITED"
+  city: "CAPE TOWN"
+  branch: CORPORATE BANKING SERVICES - WESTERN CAPE/476
+  swift: ABSAZAJJCCT
+    
+- name: "ABSA BANK LIMITED"
+  city: "DURBAN"
+  branch: CORPORATE BANKING SERVICES - NATAL/479
+  swift: ABSAZAJJCDB
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: ABSA CAPITAL BROKERS
+  swift: ABSAZAJJACS
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: ABSA CUSTODY
+  swift: ABSAZAJJMG3
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: ABSA ISSUING AGENT
+  swift: ABSAZAJJMG1
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: ABSA RECONCILITAION DIVISION
+  swift: ABSAZAJJREK
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: ABSA TRADE REPORTING
+  swift: ABSAZAJJMG2
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: ALL SOUTH AFRICAN OFFICES
+  swift: ABSAZAJJ
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: CLS BRANCH
+  swift: ABSAZAJJCLS
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: CORPORATE BANKING SERVICES - WITWATERSRAND/235
+  swift: ABSAZAJJCWI
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: FIXED INCOME INSTRUMENT
+  swift: ABSAZAJJFI1
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: FIXED INCOME INSTRUMENT
+  swift: ABSAZAJJFI2
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: FOR CLS
+  swift: ABSAZAJJJAS
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: LENDING DIVISION
+  swift: ABSAZAJJSLB
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: MONEY MARKET BRANCH
+  swift: ABSAZAJJMMD
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: MONEY MARKET BRANCH
+  swift: ABSAZAJJTMS
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: THIRD PARTY CLS CLEARING
+  swift: ABSAZAJJTPC
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: VOSTRO BRANCH
+  swift: ABSAZAJJVOS
+    
+- name: "ABSA BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ABSAZAJJTRS
+    
+- name: "ABSA BANK LIMITED"
+  city: "NELSPRUIT"
+  branch: INTERNATIONAL BANKING CENTRE NELSPRUIT/449
+  swift: ABSAZAJJCNE
+    
+- name: "ABSA BANK LIMITED"
+  city: "PORT ELIZABETH"
+  branch: CORPORATE BANKING SERVICES - EASTERN CAPE/480
+  swift: ABSAZAJJCPE
+    
+- name: "ABSA BANK LIMITED"
+  city: "PRETORIA"
+  branch: CORPORATE BANKING SERVICES - NORTHERN TRANSVAAL/478
+  swift: ABSAZAJJCPT
+    
+- name: "ABSA BANK LIMITED"
+  city: "PRETORIA"
+  branch: CREDIT CARD ADMIN CENTRE
+  swift: ABSAZAJJCRD
+    
+- name: "ABSA CAPITAL SECURITIES PROPRIETARY LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ABSAZAJ3
+    
+- name: "ABSA STOCKBROKERS (PROPRIETARY) LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ABSAZAJ2
+    
+- name: "ABSA TRUST LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ABTRZAJ1
+    
+- name: "ABVEST ASSOCIATES LTD"
+  city: "CLAREMONT"
+  branch: null
+  swift: ABVSZAJJ
+    
+- name: "ACH TRADING CC"
+  city: "BEDFORDVIEW"
+  branch: null
+  swift: SBCHZAJJ
+    
+- name: "ACUMEN CAPITAL (PTY) LTD"
+  city: "FOUR WAYS"
+  branch: null
+  swift: ACCYZAJ1
+    
+- name: "AFC LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: AFCAZAJ1
+    
+- name: "AFRICAN BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: AFRCZAJJ
+    
+- name: "AFRICAN HARVEST (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: AHFMZAJ1
+    
+- name: "AFRIFOCUS SECURITIES (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: AFRFZAJJ
+    
+- name: "AFRIPACK"
+  city: "DURBAN"
+  branch: null
+  swift: AFRPZAJ1
+    
+- name: "AGILISTO"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: AGLLZAJ1
+    
+- name: "ALBARAKA BANK"
+  city: "DURBAN"
+  branch: null
+  swift: ALBRZAJJ
+    
+- name: "ALEXANDER ASSET MANAGEMENT"
+  city: "MARSHALLTOWN"
+  branch: null
+  swift: ALAAZAJ1
+    
+- name: "ALLAN GRAY LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: AIICZAJ1
+    
+- name: "ALLAN GRAY LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: GRAYZAJC
+    
+- name: "ALTRON FINANCE (PTY) LTD"
+  city: "PARKTOWN"
+  branch: null
+  swift: ALTFZAJJ
+    
+- name: "AMERICAN EXPRESS BANK"
+  city: "BRAAMFONTEIN"
+  branch: null
+  swift: AEIBZAJ1
+    
+- name: "ANCHOR STOCKBROKERS (PTY) LTD"
+  city: "BRYANSTON"
+  branch: null
+  swift: ASTYZAJJ
+    
+- name: "ANDERSON WILSON AND PARTNERS INC."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ANWPZAJ1
+    
+- name: "ANGLO AMERICAN SA FINANCE LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: AACLZAJJ
+    
+- name: "ANGLO AMERICAN SA FINANCE LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: AACLZAJJCIM
+    
+- name: "ANGLORAND SECURITIES PTY LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: PALRZAJJ
+    
+- name: "AQUARIUS PLATINUM LIMITED"
+  city: "CENTURION"
+  branch: null
+  swift: AQPLZAJ1
+    
+- name: "ARGON ASSET MANAGEMENT (PTY) LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: AREMZAJ1
+    
+- name: "ARGON SECURITIES (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: AONSZAJJ
+    
+- name: "ARQAAM CAPITAL SOUTH AFRICA (PTY) LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ARQMZAJJ
+    
+- name: "ARROW FINANCIAL SERVICES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ARFSZAJ1
+    
+- name: "ASTLEY AND PEARCE (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ASPPZAJ1
+    
+- name: "ATISA SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: WWSEZAJJ
+    
+- name: "AVIOR RESEARCH (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: GDPTZAJJ
+    
+- name: "AYLETT AND CO (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: AYPTZAJ1
+    
+- name: "B.P. BERNSTEIN"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: BERNZAJJ
+    
+- name: "BANK BRUSSELS LAMBERT, BBL REPRESENTATIVE OFFICE IN SOUTH AFRICA"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: BBRUZAJ1
+    
+- name: "BANK OF BARODA"
+  city: "DURBAN"
+  branch: null
+  swift: BARBZAJJ
+    
+- name: "BANK OF BARODA"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: BARBZAJJJNB
+    
+- name: "BANK OF CHINA JOHANNESBURG BRANCH"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: BKCHZAJJ
+    
+- name: "BANK OF INDIA JOHANNESBURG BRANCH"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: BKIDZAJJ
+    
+- name: "BANK OF TAIWAN, SOUTH AFRICA BRANCH"
+  city: "ROSEBANK"
+  branch: null
+  swift: BKTWZAJJ
+    
+- name: "BANK SERV LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: BKSVZAJS
+    
+- name: "BANKSERV LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: BKSVZAJJ
+    
+- name: "BARNARD JACOBS MELLET PRIVATE CLIENT SERVICES (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: BJMRZAJJ
+    
+- name: "BARNARD JACOBS MELLETT AND CO (PTY) LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SBJMZAJJ
+    
+- name: "BCX CONFIRMATIONS"
+  city: "MIDRAND"
+  branch: null
+  swift: BCXCZAJ1
+    
+- name: "BIDVEST BANK LTD"
+  city: "BRAAMFONTEIN"
+  branch: null
+  swift: BIDBZAJJ
+    
+- name: "BIDVEST TREASURY SERVICES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: BIVTZAJJ
+    
+- name: "BNP PARIBAS JOHANNESBURG"
+  city: "JOHANNESBURG"
+  branch: BNP PARIBAS SA
+  swift: BNPAZAJJEQD
+    
+- name: "BNP PARIBAS JOHANNESBURG"
+  city: "MELROSE ARCH"
+  branch: null
+  swift: BNPAZAJJ
+    
+- name: "BOE PRIVATE BANK TRUST COMPANY LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: BOEPZAJ1
+    
+- name: "BOE TRUST LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: SYTRZAJ1
+    
+- name: "BOND STREET SECURITIES (PTY) LTD"
+  city: "DURBANVILLE"
+  branch: null
+  swift: BSSYZAJ1
+    
+- name: "BRAIT SECUTITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: BSPTZAJ1
+    
+- name: "BRITISH AMERICAN TOBACCO SOUTH AFRICA (PTY) LIMITED"
+  city: "STELLENBOSCH"
+  branch: null
+  swift: BATSZAJ1
+    
+- name: "BTN MONDIAL"
+  city: "GREATER GERMISTON"
+  branch: null
+  swift: BTMOZAJ1
+    
+- name: "BUSINESS CONNEXION"
+  city: "MIDRAND"
+  branch: null
+  swift: BCXGZAJM
+    
+- name: "CADIZ"
+  city: "CAPE TOWN"
+  branch: null
+  swift: CADZZAJ1
+    
+- name: "CANARA BANK"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CNRBZAJJ
+    
+- name: "CAPITAL CORPORATION (PTY) LTD"
+  city: "BRAAMFONTEIN"
+  branch: null
+  swift: CACPZAJ1
+    
+- name: "CAPITEC BANK LIMITED"
+  city: "STELLENBOSCH"
+  branch: null
+  swift: CABLZAJJ
+    
+- name: "CARPE DIEM ESTATE"
+  city: "UPINGTON"
+  branch: null
+  swift: CADAZAJ1
+    
+- name: "CATALYST FUND MANAGERS"
+  city: "CAPE TOWN"
+  branch: null
+  swift: CAUGZAJ1
+    
+- name: "CCD (PTY) LTD"
+  city: "CLAREMONT"
+  branch: null
+  swift: CCPTZAJ1
+    
+- name: "CGU HOLDINGS LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CUSAZAJ1
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION JOHANNESBURG BRANCH"
+  city: "SANDTON"
+  branch: null
+  swift: PCBCZAJJ
+    
+- name: "CITIBANK SOUTH AFRICA"
+  city: "JOHANNESBURG"
+  branch: CITIBANK SOUTH AFRICA ( SUB SAHARAN AFRICA HUB)
+  swift: CITIZAJXHUB
+    
+- name: "CITIBANK SOUTH AFRICA"
+  city: "JOHANNESBURG"
+  branch: FIXED INCOME CURRENCY AND COMMODITY
+  swift: CITIZAJXFIC
+    
+- name: "CITIBANK SOUTH AFRICA"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CITIZAJX
+    
+- name: "CITIBANK SOUTH AFRICA"
+  city: "SANDTON"
+  branch: TRADE SERVICES DEPT
+  swift: CITIZAJXTRD
+    
+- name: "CITIGROUP GLOBAL MARKETS (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SSBSZAJJ
+    
+- name: "CJS SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CJSTZAJ1
+    
+- name: "COMMUNITY BANK (UNDER CURATORSHIP)"
+  city: "SANDTON"
+  branch: null
+  swift: CUBCZAJ1
+    
+- name: "COMPUTERSHARE INVESTOR SERVICES PROPRIETARY LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CSCUZAJ1
+    
+- name: "COMPUTERSHARE PROPRIETARY LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CSEVZAJJ100
+    
+- name: "COMPUTERSHARE PROPRIETARY LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CSEVZAJJ200
+    
+- name: "COMPUTERSHARE PROPRIETARY LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CSEVZAJJ300
+    
+- name: "COMPUTERSHARE PROPRIETARY LIMITED"
+  city: "ROSEBANK"
+  branch: null
+  swift: CSEVZAJJ
+    
+- name: "CONSILIUM CAPITAL (SA) (PTY) LTD."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: COCPZAJJ
+    
+- name: "CONSOLIDATED FUND MANAGERS (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CFMPZAJ1
+    
+- name: "COOPERS AND LYBRAND CORPORATE FINANCE (PTY) LTD."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CLCFZAJ1
+    
+- name: "CORONATION FUND MANAGERS"
+  city: "CLAREMONT"
+  branch: null
+  swift: COUGZAJ1
+    
+- name: "CORONATION HOLDINGS LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: COHLZAJ1
+    
+- name: "CORONATION SPECIALISED FUNDS (PTY) LTD"
+  city: "CLAREMONT"
+  branch: null
+  swift: CSFYZAJ1
+    
+- name: "CORPORATE FUNDING PARTNERS AFRICA"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CFPFZAJ1
+    
+- name: "CRATOS CAPITAL (PTY) LTD"
+  city: "ILLOVO"
+  branch: null
+  swift: CRCAZAJ1
+    
+- name: "CRATOS INSTITUTIONAL PTY LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: CRCAZAJJ
+    
+- name: "CREDIT AND SAVINGS HELP BANK"
+  city: "CAPE TOWN"
+  branch: null
+  swift: CRAHZAJ1
+    
+- name: "CREDIT GUARANTEE INSURANCE CORPORATION OF AFRICA LIMITED"
+  city: "RANDBURG"
+  branch: null
+  swift: CRGUZAJ1
+    
+- name: "CREDIT SUISSE SECURITIES (JOHANNESBURG) (PTY) LTD."
+  city: "SANDTON"
+  branch: null
+  swift: CRESZAJJ
+    
+- name: "CURO FUND SERVICES (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: TAFAZAJC
+    
+- name: "DECIMAX SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: DESPZAJ1
+    
+- name: "DEUTSCHE BANK AG"
+  city: "JOHANNESBURG"
+  branch: GLOBAL MARKETS
+  swift: DEUTZAJXGFX
+    
+- name: "DEUTSCHE BANK AG"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: DEUTZAJX
+    
+- name: "DEUTSCHE SECURITIES PTY LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: IVJRZAJ10JC
+    
+- name: "DEUTSCHE SECURITIES PTY LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: IVJRZAJJ
+    
+- name: "DEVELOPMENT BANK OF SOUTHERN AFRICA LIMITED"
+  city: "MIDRAND"
+  branch: null
+  swift: DESFZAJM
+    
+- name: "DISCOVERY BANK LIMITED"
+  city: "SANDTON"
+  branch: null
+  swift: DISCZAJJ
+    
+- name: "DOLFIN FINANCIAL SERVICES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: DFSPZAJ1
+    
+- name: "EFFICIENT COLLECTIVE INVESTMENTS PTY LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: ECITZAJ1
+    
+- name: "ESKOM TREASURY"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ESKOZAJJ
+    
+- name: "EXECTRUST (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: TRBPZAJ1
+    
+- name: "FARMWISE LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: FARMZAJ1
+    
+- name: "FBC FIDELITY BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: FBCCZAJ1
+    
+- name: "FEDLIFE ASSURANCE LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: FEASZAJ1
+    
+- name: "FEDSURE ASSET MANAGEMENT CO. (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: FAMTZAJ1
+    
+- name: "FFO SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: FFOSZAJJ
+    
+- name: "FINANCIAL CURRENCY BROKERS S.A. (PTY) LTD"
+  city: "MARSHALLTOWN"
+  branch: null
+  swift: FCBPZAJ1
+    
+- name: "FINBOND MUTUAL BANK"
+  city: "PRETORIA"
+  branch: null
+  swift: FBMBZAJJ
+    
+- name: "FIRSTRAND BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: CUSTODY SERVICES, INTERNATIONAL BANKING
+  swift: FIRNZAJJ896
+    
+- name: "FIRSTRAND BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: RMB CAPITAL MARKET BONDS (RMBE)
+  swift: FIRNZAJJRBS
+    
+- name: "FIRSTRAND BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: FIRNZAJJRSL
+    
+- name: "FIRSTRAND BANK LIMITED"
+  city: "SANDTON"
+  branch: GLOBAL LIQUIDITY MANAGEMENT SYSTEM
+  swift: FIRNZAJJGLM
+    
+- name: "FIRSTRAND BANK LIMITED"
+  city: "SANDTON"
+  branch: HEAD OFFICE AND ALL SOUTH AFRICAN OFFICES
+  swift: FIRNZAJJ
+    
+- name: "FITCH SOUTHERN AFRICA (PTY) LTD."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: FRIPZAJ1
+    
+- name: "FOORD ASSET MANAGEMENT (PROPRIETARY) LIMITED"
+  city: "PINELANDS"
+  branch: null
+  swift: FRDGZAJJ
+    
+- name: "FOUR M TRADERS (PTY) LTD"
+  city: "MELROSE ARCH"
+  branch: null
+  swift: FORMZAJJ
+    
+- name: "FREEWORLD CAPITAL HOLDINGS (PTY)LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: FREEZAJ1
+    
+- name: "FX AFRICA FOREIGN EXCHANGE (PTY)LTD"
+  city: "SANDTON"
+  branch: null
+  swift: FXAFZAJ1
+    
+- name: "FXINCBROKERS"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: FXINZAJ1
+    
+- name: "GARBAN SOUTH AFRICA (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: GSAYZAJ1
+    
+- name: "GBS MUTUAL BANK"
+  city: "GRAHAMSTOWN"
+  branch: null
+  swift: GBSMZAJ1
+    
+- name: "GENBEL SECURITIES PROPRIETARY LIMITED"
+  city: "SANDTON"
+  branch: null
+  swift: GBSEZAJJ
+    
+- name: "GENCOR TREASURY"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: GETRZAJ1
+    
+- name: "GENESIS SECURITIES (PTY) LTD."
+  city: "ILLOVO"
+  branch: null
+  swift: GENSZAJA
+    
+- name: "GFI SOUTH AFRICA (PTY)LTD"
+  city: "SANDOWN"
+  branch: null
+  swift: GSADZAJ1
+    
+- name: "GOLDING AND SLABBERT (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: GOSLZAJ1
+    
+- name: "GRAAFFS TRUST LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: GRTRZAJ1
+    
+- name: "GRINDROD ASSET MANAGEMENT"
+  city: "DURBAN"
+  branch: null
+  swift: GREGZAJ1
+    
+- name: "GRINDROD BANK LIMITED"
+  city: "DURBAN"
+  branch: null
+  swift: GRIDZAJJ
+    
+- name: "HABIB OVERSEAS BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: HOBLZAJJ
+    
+- name: "HANS MERENSKY HOLDINGS"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: HAMHZAJ1
+    
+- name: "HBZ BANK LIMITED"
+  city: "DURBAN"
+  branch: null
+  swift: HBZHZAJJ
+    
+- name: "HSBC BANK PLC"
+  city: "SANDTON"
+  branch: null
+  swift: HSBCZAJJ
+    
+- name: "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: WHK BRANCH
+  swift: SMJCZAJCWHK
+    
+- name: "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SMJCZAJC011
+    
+- name: "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD"
+  city: "RONDEBOSCH"
+  branch: null
+  swift: SMJCZAJC022
+    
+- name: "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD"
+  city: "SANDOWN"
+  branch: HOUGHTON
+  swift: SMJCZAJC
+    
+- name: "ICICI BANK LTD SOUTH AFRICA BRANCH"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ICICZAJJ
+    
+- name: "IMPALA PLATINUM"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: IMPNZAJ1
+    
+- name: "INCORPORATED SECURITIES (PTY) LTD"
+  city: "ROSEBANK"
+  branch: null
+  swift: INSPZAJ1
+    
+- name: "INDEPENDENT SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ISECZAJJ
+    
+- name: "INDEPENDENT SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ISZAZAJ1
+    
+- name: "INDUSTRIAL DEVELOPMENT CORPORATION OF SOUTH AFRICA LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: IDCFZAJJ
+    
+- name: "INFINITY FINANCIAL SERVICES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: IFSEZAJ1
+    
+- name: "INVESTEC BANK LTD."
+  city: "SANDTON"
+  branch: null
+  swift: IVESZAJJ
+    
+- name: "INVESTEC SECURITIES (PTY) LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: IVESZA31
+    
+- name: "INVESTEC SECURITIES LTD."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: IVESZAJ2
+    
+- name: "INVESTEC SECURITIES LTD."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: IVESZAJ2011
+    
+- name: "IP MANAGEMENT COMPANY (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: MAOYZAJ1
+    
+- name: "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: JPMEZAJJ011
+    
+- name: "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: JPMEZAJJ
+    
+- name: "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED"
+  city: "PIETERMARITZBURG"
+  branch: null
+  swift: JPMEZAJJ022
+    
+- name: "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED"
+  city: "ROSEBANK"
+  branch: null
+  swift: JPMEZAJJ033
+    
+- name: "JCI LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: JCTRZAJ1
+    
+- name: "JPMORGAN CHASE BANK, N.A"
+  city: "JOHANNESBURG"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: MGTCZAJJKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: MGTCZAJJ
+    
+- name: "JPMORGAN SECURITIES SOUTH AFRICA"
+  city: "JOHANNESBURG"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: JPMSZAJJKEY
+    
+- name: "JPMORGAN SECURITIES SOUTH AFRICA"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: JPMSZAJJ
+    
+- name: "JSE LIMITED"
+  city: "SANDTON"
+  branch: BONDEQUITYPLATFORM
+  swift: XJSEZAJJETP
+    
+- name: "JSE LIMITED"
+  city: "SANDTON"
+  branch: JSE LIMITED SAFEX
+  swift: XJSEZAJJSFX
+    
+- name: "JSE LIMITED"
+  city: "SANDTON"
+  branch: SETTLEMENT AUTHORITY - MARGINING
+  swift: XJSEZAJJMRG
+    
+- name: "JSE LIMITED"
+  city: "SANDTON"
+  branch: SETTLEMENT AUTHORITY - MONEY MARKETS ISIN'S
+  swift: XJSEZAJJISN
+    
+- name: "JSE LIMITED"
+  city: "SANDTON"
+  branch: SETTLEMENT AUTHORITY SECURITIES LENDING DESK
+  swift: XJSEZAJJSLB
+    
+- name: "JSE LIMITED"
+  city: "SANDTON"
+  branch: SETTLEMENT AUTHORITY
+  swift: XJSEZAJJSAT
+    
+- name: "JSE LIMITED"
+  city: "SANDTON"
+  branch: null
+  swift: XJSEZAJJ
+    
+- name: "KARLEIN INDEPENDENT INVESTMENT CONSULTANCY CC"
+  city: "RONDEBOSCH"
+  branch: null
+  swift: KIIOZAJ1
+    
+- name: "KEN POWELL FINANCIAL SERVICES (PTY) LTD"
+  city: "HOUGHTON"
+  branch: null
+  swift: KPFSZAJ1
+    
+- name: "KNOYDART INVESTMENTS (PTY) LTD"
+  city: "RONDEBOSCH"
+  branch: null
+  swift: KNIPZAJ1
+    
+- name: "LAND AND AGRICULTURAL DEVELOPMENT BANK OF SOUTH AFRICA"
+  city: "CENTURION"
+  branch: null
+  swift: LADSZAJ1
+    
+- name: "LEFIKA SECURITIES (PTY)LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: LESTZAJJ
+    
+- name: "LEGAE SECURITIES (PTY) LTD."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: LESPZAJJ
+    
+- name: "LEWIS AND WAYNE TREASURY"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: LWTRZAJ1
+    
+- name: "LINK MARKET SERVICES PTY LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: ULTRZAJC
+    
+- name: "LION SECURITIES CC"
+  city: "EAST LONDON"
+  branch: null
+  swift: LISYZAJ1
+    
+- name: "LOMBERG PULFORD AND CO (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: LOPUZAJ1
+    
+- name: "MACQUARIE EQUITIES SOUTH AFRICA PROPRIETARY LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: FSSEZAJJ
+    
+- name: "MACQUARIE FIRST SOUTH EQUITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: MFSQZAJJ
+    
+- name: "MAITLAND GROUP SOUTH AFRICA LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: FNSOZAJC
+    
+- name: "MARK ALEXANDER INVESTMENTS CC"
+  city: "HOWARD PLACE"
+  branch: null
+  swift: MAAIZAJ1
+    
+- name: "MARRIOTT MERCHANT BANK LIMITED"
+  city: "DURBAN"
+  branch: null
+  swift: MAMRZAJ1
+    
+- name: "MASSMART MANAGEMENT AND FINANCECOMPANY (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: MSMFZAJJ
+    
+- name: "MAZI PROJECTS (PTY) LTD"
+  city: "GAUTENG"
+  branch: null
+  swift: MAZPZAJ1
+    
+- name: "MEEG BANK LTD"
+  city: "EAST LONDON"
+  branch: null
+  swift: BTRKZAJ1
+    
+- name: "MELVILLE DOUGLAS INVESTMENT MANAGEMENT (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: MDIMZAJ1
+    
+- name: "MERCANTILE BANK LTD"
+  city: "SANDTON"
+  branch: null
+  swift: LISAZAJJ
+    
+- name: "MERGENCE INVESTMENT MANAGERS (PTY)"
+  city: "CAPE TOWN"
+  branch: null
+  swift: MIMTZAJ1
+    
+- name: "MERRILL LYNCH SOUTH AFRICA (PROPRIETARY) LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SBKHZAJJ
+    
+- name: "MICRO TO MAINFRAME"
+  city: "PARKTOWN"
+  branch: null
+  swift: MIMNZAJ1
+    
+- name: "MLS BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: MLSMZAJ1
+    
+- name: "MOMENTUM LIFE ASSURERS LTD"
+  city: "CENTURION"
+  branch: null
+  swift: MOLAZAJ1
+    
+- name: "MOMENTUM SP REID SECURITIES (PTY) LTD."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: REMAZAJJ
+    
+- name: "MOODY'S INVESTORS SERVICE SOUTH AFRICA (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: MIESZAJ1
+    
+- name: "MPF MANAGEMENT SERVICES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: MMSPZAJ1
+    
+- name: "MVUNONALA ASSET MANAGERS (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: MAMYZAJ1
+    
+- name: "NAVIGARE SECURITIES PTY LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: NAVGZAJJ
+    
+- name: "NEDBANK LIMITED"
+  city: "ROODEPOORT"
+  branch: null
+  swift: NEDSZAJJTSP
+    
+- name: "NEDBANK LIMITED"
+  city: "SANDTON"
+  branch: null
+  swift: NEDSZAJJ
+    
+- name: "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD"
+  city: "BLOEMFONTEIN"
+  branch: null
+  swift: NBOEZAJ2022
+    
+- name: "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: NBOEZAJ2033
+    
+- name: "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: INSTITUTIONS DEPARTMENT
+  swift: NBOEZAJ2INT
+    
+- name: "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: PRIVATE CLIENTS DEPARTMENT
+  swift: NBOEZAJ2PVT
+    
+- name: "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: NBOEZAJ2044
+    
+- name: "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD"
+  city: "PIETERMARITZBURG"
+  branch: null
+  swift: NBOEZAJ2011
+    
+- name: "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: NBOEZAJ2
+    
+- name: "NFB FINANCIAL SERVICES GROUP"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: NFBGZAJ1
+    
+- name: "NIKE SOUTH AFRICA (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: NIKEZAJ1
+    
+- name: "NOAH FINANCIAL INNOVATION (PROPRIETARY) LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: METLZAJJ
+    
+- name: "NVEST SECURITIES (PTY) LTD"
+  city: "EAST LONDON"
+  branch: null
+  swift: NVSEZAJC
+    
+- name: "OASIS ASSET MANAGEMENT LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: OASMZAJ1
+    
+- name: "OASIS CRESCENT CAPITAL (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: OASMZA21
+    
+- name: "OLD MUTUAL INVESTMENT GROUP(SA) PTY LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: OMAMZAJC
+    
+- name: "OLD MUTUAL LIFE ASSURANCE COMPANY (SOUTH AFRICA) LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: ROKLZAJT
+    
+- name: "OMIGSA"
+  city: "CAPE TOWN"
+  branch: null
+  swift: OMIGZAJ1
+    
+- name: "OMNIA GROUP (PTY) LTD"
+  city: "BRYANSTON"
+  branch: null
+  swift: OMGYZAJ1
+    
+- name: "PAA CAPITAL PTY LTD."
+  city: "PRETORIA"
+  branch: null
+  swift: PCPTZAJ1
+    
+- name: "PAUL CLARKE AND ASSOCIATES CC"
+  city: "VLAEBERG"
+  branch: null
+  swift: PACTZAJ1
+    
+- name: "PAYCORP GROUP (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: PYGPZAJJ
+    
+- name: "PEREGRINE EQUITIES(PTY)LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: PRSMZAJJ
+    
+- name: "PEREGRINE TREASURY SOLUTIONS (PTY) LTD"
+  city: "PRETORIA"
+  branch: HM INVESTMENT
+  swift: PGRNZAJPHMI
+    
+- name: "PEREGRINE TREASURY SOLUTIONS (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: PGRNZAJP
+    
+- name: "PERSONAL TRUST LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: PERRZAJ1
+    
+- name: "PETER BERRY TRUST SERVICES (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: PBTSZAJ1
+    
+- name: "PHILIPPUS DE WITT (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: WIMOZAJJ
+    
+- name: "PHILIPPUS DE WITT (PTY) LTD"
+  city: "PRETORIA"
+  branch: PRETORIA BRANCH
+  swift: WIMOZAJJPRE
+    
+- name: "PHILIPPUS DE WITT EMDS BPK"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: PDWEZAJ1
+    
+- name: "PLEXUS ASSET MANAGEMENT PLEXUS HOUSE"
+  city: "CAPE TOWN"
+  branch: null
+  swift: PAMXZAJ1
+    
+- name: "PPC LTD"
+  city: "SANDTON"
+  branch: null
+  swift: PPCPZAJJ
+    
+- name: "PPS INVESTMENTS (PTY) LTD TRAVERS HOUSE, BOUNDARY TERRACES"
+  city: "CAPE TOWN"
+  branch: null
+  swift: PIPTZAJ1
+    
+- name: "PRESCIENT INVESTMENT MANAGEMENT"
+  city: "CAPE TOWN"
+  branch: null
+  swift: PRVGZAJC
+    
+- name: "PRESCIENT SECURITIES PTY LTD"
+  city: "CONSTANTIA"
+  branch: null
+  swift: PCNTZAJC
+    
+- name: "PRIME SECURITIES (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: PSERZAJ1
+    
+- name: "PRO-EQUITY (PTY) LTD"
+  city: "ARCADIA"
+  branch: null
+  swift: PRPYZAJ1
+    
+- name: "PROJECT RESOURCES AND ACQUISITIONS (PTY) LTD"
+  city: "CENTURION"
+  branch: null
+  swift: CAPFZAJ1
+    
+- name: "PROSPUR PORTFOLIO MANAGERS (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: PPMPZAJ1
+    
+- name: "PROTEA INSURANCE CO. LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: PRIUZAJ1
+    
+- name: "PRUDENTIAL INVESTMENT MANAGERS (SA)(PTY)LTD"
+  city: "CLAREMONT"
+  branch: null
+  swift: PPMTZAJC
+    
+- name: "PSG ASSET MANAGEMENT (PTY) LTD 1ST FLOOR PSG HOUSE"
+  city: "CAPE TOWN"
+  branch: null
+  swift: PAAYZAJ1
+    
+- name: "PSG SECURITIES LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: PSSYZAJJ
+    
+- name: "PUTT ESTATES (PROPRIETARY) LTD."
+  city: "UPINGTON"
+  branch: null
+  swift: PUEOZAJ1
+    
+- name: "PUTT REAL ESTATES (PROPRIETARY) LTD."
+  city: "UPINGTON"
+  branch: null
+  swift: PREYZAJ1
+    
+- name: "RAND REFINERY LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: RRPLZAJJ
+    
+- name: "RAND REGISTRARS"
+  city: "SOUTHDALE"
+  branch: null
+  swift: RANDZAJ1
+    
+- name: "REGIMENTS FUND MANAGERS 91"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: REFGZAJ1
+    
+- name: "REGIMENTS SECURITIES LIMITED"
+  city: "ROODEPOORT"
+  branch: null
+  swift: REGMZAJJ
+    
+- name: "REZCO (PTY) LTD"
+  city: "MULDERSDRIFT"
+  branch: null
+  swift: REPTZAJ1
+    
+- name: "RISCURA SOLUTIONS PTY (LTD)"
+  city: "CAPE TOWN"
+  branch: null
+  swift: RISPZAJC
+    
+- name: "RMB ASSET MANAGEMENT (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: RMBAZAJJ
+    
+- name: "RMB SECURITIES (PTY) LIMITED"
+  city: "JOHANNESBURG"
+  branch: JSE SETTLEMENT OFFICE
+  swift: RMBSZAJJJSE
+    
+- name: "RMB SECURITIES (PTY) LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: RMBSZAJJ
+    
+- name: "RMB STOCKBROKING (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: FNEQZAJJ
+    
+- name: "ROBERT COWEN INVESTMENTS (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: RCIPZAJ1
+    
+- name: "ROYAL ASSET MANAGEMENT (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: RAMYZAJ1
+    
+- name: "RYAN ANDERSON AND CO (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: RYAPZAJ1
+    
+- name: "SA STOCK BROKERS (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SBPTZAJJ
+    
+- name: "SAAMBOU BANK LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: SAABZAJ1
+    
+- name: "SAFEX"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: XSAFZAJ1
+    
+- name: "SAMSUNG ELECTRONICS SOUTH AFRICA (PTY) LTD."
+  city: "JOHANNESBURG"
+  branch: SSA
+  swift: SECTZAJ1720
+    
+- name: "SAMSUNG ELECTRONICS SOUTH AFRICA (PTY) LTD."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SECTZAJ1
+    
+- name: "SAMSUNG ELECTRONICS SOUTH AFRICA (PTY) LTD."
+  city: "LA MERCY"
+  branch: null
+  swift: SECTZAJ1721
+    
+- name: "SANLAM CAPITAL MARKETS PROPRIETARY LIMITED"
+  city: "SANDTON"
+  branch: null
+  swift: GBSEZAJ2
+    
+- name: "SANLAM INVESTMENT MANAGEMENT"
+  city: "BELLVILLE"
+  branch: null
+  swift: SANLZAJC
+    
+- name: "SANLAM PRIVATE WEALTH (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: GBSEZAJ3
+    
+- name: "SASFIN BANK LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SASFZAJJ
+    
+- name: "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD"
+  city: "BENONI"
+  branch: null
+  swift: SFPSZAJJ044
+    
+- name: "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: SFPSZAJJ055
+    
+- name: "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD"
+  city: "DURBAN"
+  branch: null
+  swift: SFPSZAJJ066
+    
+- name: "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SFPSZAJJ
+    
+- name: "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SFPSZAJJ033
+    
+- name: "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: SFPSZAJJ022
+    
+- name: "SBG SECURITIES (PTY) LIMITED"
+  city: "ROSEBANK"
+  branch: null
+  swift: SBEQZAJJ
+    
+- name: "SEARDEL INVESTMENT CORPORATION LIMITED"
+  city: "CAPE TOWN"
+  branch: null
+  swift: SENPZAJ1
+    
+- name: "SENEKAL MOUTON AND KITSHOFF INC."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SEMKZAJ1
+    
+- name: "SESFIKILE CAPITAL (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SEPTZAJ1
+    
+- name: "SG FRANKEL POLLAK SECURITIES"
+  city: "VINCENT"
+  branch: EAST LONDON
+  swift: SFPSZAJJ011
+    
+- name: "SG SECURITIIES JOHANNESBURG PTY LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SGSJZAJ1
+    
+- name: "SHAREGRO INVESTMENT COMPANY (PTY) LTD"
+  city: "MELVILLE"
+  branch: null
+  swift: SICPZAJ1
+    
+- name: "SISHEN IRON ORE COMPANY (PTY) LTD"
+  city: "CENTURION"
+  branch: null
+  swift: SIOCZAJJ
+    
+- name: "SITC"
+  city: "CENTURION"
+  branch: null
+  swift: STTCZAJ1
+    
+- name: "SMK SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SMKSZAJ1
+    
+- name: "SOCIETE GENERALE, JOHANNESBURG BRANCH"
+  city: "JOHANNESBURG"
+  branch: SECURITIES BRANCH
+  swift: SOGEZAJJSGS
+    
+- name: "SOCIETE GENERALE, JOHANNESBURG BRANCH"
+  city: "JOHANNESBURG"
+  branch: SECURITIES LENDING AND BOROWING
+  swift: SOGEZAJJSLB
+    
+- name: "SOCIETE GENERALE, JOHANNESBURG BRANCH"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SOGEZAJJ
+    
+- name: "SOUTH AFRICAN BREWERIES LTD"
+  city: "JOHANNESBURG"
+  branch: SABFIN BRANCH
+  swift: SABMZAJ1SFN
+    
+- name: "SOUTH AFRICAN BREWERIES LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SABMZAJ1
+    
+- name: "SOUTH AFRICAN BREWERIES LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SABMZAJ1ABL
+    
+- name: "SOUTH AFRICAN BREWERIES LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SABMZAJ1SAB
+    
+- name: "SOUTH AFRICAN FUTURES EXCHANGE - AGRICULTURAL MARKET DIVISION"
+  city: "HOUGHTON"
+  branch: null
+  swift: XSFAZAJ1
+    
+- name: "SOUTH AFRICAN HOUSING TRUST LIMITED"
+  city: "RANDBURG"
+  branch: null
+  swift: SAHTZAJ1
+    
+- name: "SOUTH AFRICAN INTERNATIONAL MONEY BROKERS (PTY) LTD."
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SAIOZAJ1
+    
+- name: "SOUTH AFRICAN MUTUAL LIFE ASSURANCE SOCIETY"
+  city: "CAPE TOWN"
+  branch: null
+  swift: MLASZAJ1
+    
+- name: "SOUTH AFRICAN RESERVE BANK"
+  city: "PRETORIA"
+  branch: null
+  swift: SARBZAJ4
+    
+- name: "SOUTH AFRICAN RESERVE BANK"
+  city: "PRETORIA"
+  branch: null
+  swift: SARBZAJ5
+    
+- name: "SOUTH AFRICAN RESERVE BANK"
+  city: "PRETORIA"
+  branch: null
+  swift: SARBZAJ6
+    
+- name: "SOUTH AFRICAN RESERVE BANK"
+  city: "PRETORIA"
+  branch: null
+  swift: SARBZAJ7
+    
+- name: "SOUTH AFRICAN RESERVE BANK"
+  city: "PRETORIA"
+  branch: null
+  swift: SARBZAJ8
+    
+- name: "SOUTH AFRICAN RESERVE BANK"
+  city: "PRETORIA"
+  branch: null
+  swift: SARBZAJH
+    
+- name: "SOUTH AFRICAN RESERVE BANK"
+  city: "PRETORIA"
+  branch: null
+  swift: SARBZAJP
+    
+- name: "SOUTH AFRICAN RESERVE BANK"
+  city: "PRETORIA"
+  branch: null
+  swift: SARBZAJS
+    
+- name: "SOUTH AFRICAN RESERVE BANK"
+  city: "PRETORIA"
+  branch: null
+  swift: SARBZAJT
+    
+- name: "SOUTH AFRICAN RESERVE BANK FIR"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SRROZAJ1
+    
+- name: "SOUTH AFRICAN RESERVE BANK PCH"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SRCRZAJ1
+    
+- name: "STAKEHOLDER DATA SERVICES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SHDAZAJJ
+    
+- name: "STANDARD BANK NOMINEES (TRANSVAAL) (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SNTPZAJ1
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: AFRICA CUSTODY NETWORK
+  swift: SBZAZAJJAFR
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: BPO
+  swift: SBZAZAJJBPO
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: CASH REPORTING
+  swift: SBZAZAJJBOL
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: CONTINUOUS LINK SETTLEMENT
+  swift: SBZAZAJJCLS
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: HEAD OFFICE AND ALL SOUTH AFRICAN OFFICES
+  swift: SBZAZAJJ
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: INTERNATIONAL BANKING SYSTEM USERS
+  swift: SBZAZAJJICM
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: PAN AFRICAN LIQUIDITY MANAGEMENT
+  swift: SBZAZAJJPLM
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: SECURITIES LENDING
+  swift: SBZAZAJJFSL
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SBZAZAJJATG
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SBZAZAJJCNR
+    
+- name: "STANDARD BANK OF SOUTH AFRICA LIMITED,THE"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SBZAZAJJSAL
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "JOHANNESBURG"
+  branch: SECURITIES SERVICES
+  swift: SCBLZAJJSSU
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SCBLZAJ2
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SCBLZAJJ
+    
+- name: "STANLIB ASSET MANAGEMENT"
+  city: "MELROSE ARCH"
+  branch: null
+  swift: LBAMZAJJ
+    
+- name: "STATE BANK OF INDIA"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SBINZAJJ
+    
+- name: "STEINHOFF AFRICA HOLDINGSPROPRIETARY LIMITED"
+  city: "STELLENBOSCH"
+  branch: null
+  swift: SAHYZAJJ
+    
+- name: "STRATE"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: STRAZAJ2
+    
+- name: "STRATE (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: STRATE REGISTRAR
+  swift: STRAZAJJREG
+    
+- name: "STRATE (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: TFS
+  swift: STRAZAJJTFS
+    
+- name: "STRATE (PTY) LTD"
+  city: "SANDTON"
+  branch: CENTRAL DEPOSITORY
+  swift: STRAZAJJCDX
+    
+- name: "STRATE (PTY) LTD"
+  city: "SANDTON"
+  branch: UNEXCOR
+  swift: STRAZAJJUNX
+    
+- name: "STRATE (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: STRAZAJJ
+    
+- name: "SWISS RE LIFE AND HEALTH AFRICA LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: SWREZAJJ
+    
+- name: "SYFRETS SECURITIES LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SYSCZAJJ
+    
+- name: "SYGNIA SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SYSYZAJ2
+    
+- name: "TAQUANTA SECURITIES (PTY) LTD"
+  city: "SANDOWN"
+  branch: null
+  swift: NIBZZAJJ
+    
+- name: "TELKOM SA LIMITED"
+  city: "PRETORIA"
+  branch: null
+  swift: TELKZAJP
+    
+- name: "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY"
+  city: "PRETORIA"
+  branch: GEHS
+  swift: TALMZAJPGEH
+    
+- name: "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY"
+  city: "PRETORIA"
+  branch: OFFICE OF THE ACCOUNTANT GENERAL
+  swift: TALMZAJPOAG
+    
+- name: "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY"
+  city: "PRETORIA"
+  branch: null
+  swift: TALMZAJP
+    
+- name: "THE SOUTH AFRICAN BANK OF ATHENS LIMITED"
+  city: "SANDTON"
+  branch: null
+  swift: BATHZAJJ
+    
+- name: "THE STANDARD BANK OF SOUTH AFRICA LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: SBZAZA21
+    
+- name: "THEBE STOCKBROKING PTY LTD"
+  city: "BRYANSTON"
+  branch: null
+  swift: PLRPZAJJ
+    
+- name: "THIRTY FOUR SOUTH RESEARCH AND TRADING (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: TFSRZAJ1
+    
+- name: "TOV CAPITAL MARKETS AND SHARE TRADING (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: TOVSZAJ1
+    
+- name: "TRANS CALEDON TUNNEL AUTHORIY (TCTA"
+  city: "CENTURION"
+  branch: null
+  swift: TCTAZAJ1
+    
+- name: "TRANSNET LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: TNETZAJJ
+    
+- name: "TRANSNET LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: TRNNZAJ1
+    
+- name: "TRANSNET LIMITED TREASURY DEPARTMENT"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: TNETZAA1
+    
+- name: "TREASURYONE (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: TRPYZAJ1
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: ASCENDIS HEALTH LIMITED
+  swift: LINKZAJJAHL
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJ
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJAAD
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJABC
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJACA
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJACI
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJAFF
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJAFG
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJAFP
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJALE
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJAPL
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJARC
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBCO
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBEL
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBJB
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBLE
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBLY
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBRA
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBRB
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBRH
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBRI
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBRL
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBRM
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJBRS
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJCDE
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJCII
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJCJP
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJDEP
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJDRA
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJDWN
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJEFC
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJENG
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJEOH
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJEVE
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJFRV
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJFWL
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGFN
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGFS
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGLO
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGLP
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGOS
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGPP
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGRA
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGRO
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGSS
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGTD
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJGWK
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJHEF
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJHMH
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJHUL
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJHWS
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJICL
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJIEP
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJIGL
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJIPP
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJKAR
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJKLM
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJKOM
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJLIM
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJLVC
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJMAH
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJMER
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJMIL
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJMOB
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJNAM
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJNAR
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJNPL
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJOMN
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJPAN
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJPEP
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJPRC
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJRBB
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJRBP
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJRBR
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJSIC
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJSSS
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJSUP
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJTFG
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJTIC
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJTR1
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJTTG
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJUMG
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJUNO
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJUVU
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJWBS
+    
+- name: "TRUSTLINK (PTY) LTD"
+  city: "PRETORIA"
+  branch: null
+  swift: LINKZAJJWPF
+    
+- name: "TULLETT PREBON SOUTH AFRICA (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: TPSFZAJ1
+    
+- name: "UBANK LIMITED"
+  city: "SUNNINGHILL"
+  branch: null
+  swift: YOUBZAJJ
+    
+- name: "UBS SOUTH AFRICA (PROPRIETARY) LIMITED"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: UBSWZAJJ
+    
+- name: "UNIBANK LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: UNAAZAJ1
+    
+- name: "VBS MUTUAL BANK"
+  city: "RIVONIA"
+  branch: null
+  swift: VBSMZAJJ
+    
+- name: "VECTOR EQUITIES (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: VEQTZAJ1
+    
+- name: "VISIO CAPITAL MANAGEMENT PTY LTD"
+  city: "SANDTON"
+  branch: null
+  swift: VMGCZAJJ
+    
+- name: "VUNANI CAPITAL MARKETS (PTY) LTD"
+  city: "SANDTON"
+  branch: null
+  swift: VCMTZAJ1
+    
+- name: "VUNANI FUND MANGERS (PTY) LTD"
+  city: "CAPE TOWN"
+  branch: null
+  swift: VFMPZAJ1
+    
+- name: "VUNANI SECURITIES (PROPRIETARY) LIMITED"
+  city: "SANDTON"
+  branch: null
+  swift: CEQPZAJJ
+    
+- name: "VW OF SOUTH AFRICA"
+  city: "UITENHAGE"
+  branch: null
+  swift: SOAFZAJ1
+    
+- name: "WATERMARK SECURITIES (PTY) LTD"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: WASPZAJ1
+    
+- name: "WELLSFABER (PTY) LTD"
+  city: "HOWARD PLACE"
+  branch: null
+  swift: WEPTZAJ1
+    
+- name: "WJ MORGAN AND ASSOCIATES"
+  city: "JOHANNESBURG"
+  branch: null
+  swift: WJMAZAJ1
+    

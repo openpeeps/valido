@@ -1,0 +1,60 @@
+- name: "B2B BANK LIMITED"
+  city: "KINGSTOWN"
+  branch: null
+  swift: BTBBVCVC
+    
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "KINGSTOWN"
+  branch: null
+  swift: NOSCVCVC
+    
+- name: "BANK OF ST. VINCENT AND THE GRENADINES LTD."
+  city: "KINGSTOWN"
+  branch: null
+  swift: NCBVVC22
+    
+- name: "CARIBBEAN AND OVERSEAS TRUST BANK"
+  city: "KINGSTOWN"
+  branch: null
+  swift: CADTVC21
+    
+- name: "EURO PACIFIC BANK LIMITED"
+  city: "KINGSTOWN"
+  branch: null
+  swift: EPBLVCVC
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED"
+  city: "KINGSTOWN"
+  branch: null
+  swift: FCIBVCVC
+    
+- name: "GOVERNMENT OF ST.VINCENT AND THE GRENADINES"
+  city: "KINGSTOWN"
+  branch: null
+  swift: GVVGVCVC
+    
+- name: "LOYAL BANK LIMITED"
+  city: "KINGSTOWN"
+  branch: null
+  swift: LOYAVCVX
+    
+- name: "RBTT BANK CARRIBEAN LIMITED"
+  city: "BEQUIA"
+  branch: null
+  swift: RBTTVCVC022
+    
+- name: "RBTT BANK CARRIBEAN LIMITED"
+  city: "KINGSTOWN"
+  branch: null
+  swift: RBTTVCVC
+    
+- name: "STB SWISS TRUST BANK LTD"
+  city: "KINGSTOWN"
+  branch: null
+  swift: STBSVCV1
+    
+- name: "VANILLA DIRECT BANK LTD."
+  city: "KINGSTOWN"
+  branch: null
+  swift: VDBLVCV1
+    

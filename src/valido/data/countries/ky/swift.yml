@@ -1,0 +1,970 @@
+- name: "3 CAPITAL HOLDINGS LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: CAHLKYK1
+    
+- name: "ABC FINANCIAL MARKETS"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: ABFKKYKY
+    
+- name: "ADCB MARKETS (CAYMAN) LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: ADCBKYKY
+    
+- name: "AHP UMBRELLA FUND SPC LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: AUFPKYK1
+    
+- name: "AIB BANK"
+  city: "GEORGETOWN"
+  branch: TREASURY DEPT
+  swift: AIBKKYK1TMK
+    
+- name: "AIB BANK"
+  city: "GEORGETOWN"
+  branch: null
+  swift: AIBKKYK1
+    
+- name: "ALTAJIR BANK"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ABNKKYK1
+    
+- name: "ANB GLOBAL MARKETS LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: ARNBKYKY
+    
+- name: "ARETE MACRO FUND"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: ARRFKYK1
+    
+- name: "ARGENTARIA CAPITAL FUNDING LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ARCFKYK1
+    
+- name: "ARNOTT CAPITAL"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ARNCKYK1
+    
+- name: "ARROWGRASS CAPITAL PARTNERS LLP"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ACPLKYK1
+    
+- name: "ARROWGRASS MASTER FUND LTD"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: ARMUKYK1
+    
+- name: "ATC TRUSTEES (CAYMAN) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ATTRKYK1
+    
+- name: "ATLANTIC SECURITY BANK"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ATSEKYKY
+    
+- name: "BANCO ABC BRASIL S.A. - CAYMAN ISLANDS BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ABCBKYKX
+    
+- name: "BANCO BOZANO, SIMONSEN SA, GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BBSIKYK1
+    
+- name: "BANCO BPI"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BBPIKYKY
+    
+- name: "BANCO BPI CAYMAN LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BCYLKYKY
+    
+- name: "BANCO BRADESCO S.A."
+  city: "GEORGETOWN"
+  branch: null
+  swift: BBDEKYKY
+    
+- name: "BANCO BRADESCO S.A. - GRAND CAYMAN (FORMERLY KIRTON BANK BRASIL S.A. - GRAND CAYMAN BRANCH)"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BCBBKYKY
+    
+- name: "BANCO BTG PACTUAL SA CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BPABKYKG
+    
+- name: "BANCO COLPATRIA CAYMAN"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: COLPKYKY
+    
+- name: "BANCO DAYCOVAL S/A"
+  city: "GEORGETOWN"
+  branch: null
+  swift: DAYCKYKY
+    
+- name: "BANCO DE LA NACION ARGENTINA, GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: NACNKYKY
+    
+- name: "BANCO DO BRASIL S.A."
+  city: "GEORGETOWN"
+  branch: null
+  swift: BRASKYKY
+    
+- name: "BANCO DO ESTADO DO RIO GRANDE DO SUL GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BRGSKYK1
+    
+- name: "BANCO ESPIRITO SANTO S.A."
+  city: "GEORGETOWN"
+  branch: null
+  swift: BESCKYKX
+    
+- name: "BANCO FIBRA S/A - GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: FIBIKYKY
+    
+- name: "BANCO FRANCES (CAYMAN) LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: BFGCKYK1
+    
+- name: "BANCO GENERAL (OVERSEAS) INC."
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: BGOSKYKY
+    
+- name: "BANCO INDUSVAL SA"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: IDVLKYKY
+    
+- name: "BANCO MERCANTIL DO BRASIL S.A"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BMBRKYKY
+    
+- name: "BANCO MODAL S.A."
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: MODAKYKY
+    
+- name: "BANCO NACIONAL DE COMERCIO EXTERIOR"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BNCEKYKX
+    
+- name: "BANCO ORIGINAL S.A."
+  city: "GEORGETOWN"
+  branch: null
+  swift: BORIKYKY
+    
+- name: "BANCO PINE S.A"
+  city: "GEORGETOWN"
+  branch: null
+  swift: PBBRKYKY
+    
+- name: "BANCO PRIVADO PORTUGUES (CAYMAN) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BPPOKYK1
+    
+- name: "BANCO REAL GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: REALKYK1
+    
+- name: "BANCO SAFRA S.A"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: SAFRKYKY
+    
+- name: "BANCO SANTANDER (BRASIL) SA GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BSCHKYKX
+    
+- name: "BANCO SANTANDER (BRASIL) SA GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BSCHKYKXCAY
+    
+- name: "BANCO SANTANDER (BRASIL) SA GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BSCHKYKXGEB
+    
+- name: "BANCO SUMITOMO MITSUI BRASILEIRO S.A."
+  city: "GEORGETOWN"
+  branch: null
+  swift: SUBRKYKY
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BKKBKYKY
+    
+- name: "BANK DAGANG NASIONAL INDONESIA"
+  city: "GEORGETOWN"
+  branch: null
+  swift: DANIKYK1
+    
+- name: "BANK ESPIRITO SANTO (INTERNATIONAL) LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BESKKYKY
+    
+- name: "BANK HAPOALIM (CAYMAN) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: POALKYK1
+    
+- name: "BANK OF CHINA, GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BKCHKYKY
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "GEORGETOWN"
+  branch: null
+  swift: NOSCKYKG
+    
+- name: "BANK RAKYAT INDONESIA"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BRINKYKX
+    
+- name: "BANKAMERICA TRUST AND BANKING CORPORATION (CAYMAN) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BOFAKYK1
+    
+- name: "BANPAIS S.A."
+  city: "GEORGETOWN"
+  branch: null
+  swift: BANPKYK1
+    
+- name: "BANQUE MULTI-COMMERCIALE"
+  city: "GEORGETOWN"
+  branch: null
+  swift: MCBAKYK1
+    
+- name: "BASSO CAPITAL MANAGEMENT"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BAPGKYK1
+    
+- name: "BBVA BANCOMER, S.A."
+  city: "GEORGETOWN"
+  branch: null
+  swift: BCMRKYK1
+    
+- name: "BEG BANK (CAYMAN ISLANDS)"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BBCIKYK1
+    
+- name: "BFC BANK (CAYMAN) LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: BFCGKYK1
+    
+- name: "BIE BANK AND TRUST LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: ITAUKYK1
+    
+- name: "BLACKSTONE"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BLAOKYK1
+    
+- name: "BRASILIAN AMERICAN MERCHANT BANK (BAMB)"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BAMBKYKX
+    
+- name: "BUTTERFIELD BANK (CAYMAN) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BNTBKYKY
+    
+- name: "CAINVEST BANK AND TRUST LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: BKCAKYKY
+    
+- name: "CAIXA GERAL DE DEPOSITOS, GRAND CAYMAN BRANCH"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: CGDIKYKY
+    
+- name: "CAPULA GLOBAL RELATIVE VALUE MASTER LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: CGRVKYK1
+    
+- name: "CAPULA TAIL RISK MASTER FUND LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: CTRRKYK1
+    
+- name: "CARLSON CAPITAL LLP"
+  city: "GEORGETOWN"
+  branch: null
+  swift: CRTPKYK1
+    
+- name: "CAYMAN ISLANDS MONETARY AUTHORITY"
+  city: "GEORGETOWN"
+  branch: null
+  swift: CIMGKYKY
+    
+- name: "CAYMAN NATIONAL BANK LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: CNATKYKY
+    
+- name: "CC ARBITRAGE LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ARBGKYK1
+    
+- name: "CHINA CONSTRUCTION BANK (BRASIL) BANCO MULTIPLO S /A"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BICBKYKY
+    
+- name: "CIBC BANK AND TRUST COMPANY (CAYMAN) LTD"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: CIBCKYKC
+    
+- name: "CIBC CAYMAN BANK LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: COBVKYKY
+    
+- name: "CITCO BANK AND TRUST COMPANY"
+  city: "GEORGETOWN"
+  branch: null
+  swift: CITCKYKY
+    
+- name: "CITIBANK N.A."
+  city: "GEORGETOWN"
+  branch: null
+  swift: CITIKYK1
+    
+- name: "COMMERCIAL BANK (GRAND CAYMAN), LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: CBKPKYK1
+    
+- name: "COMMERZBANK AG,CAYMAN ISLANDS BRANCH"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: COBAKYKX
+    
+- name: "CREDIT AGRICOLE (FORMERLY BANQUE INDOSUEZ)"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BSUIKYK1
+    
+- name: "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH"
+  city: "GEORGETOWN"
+  branch: CAYMAN ISLANDS BRANCH
+  swift: CSFBKYKX
+    
+- name: "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: CSFBKYKXEQD
+    
+- name: "DEUTSCHE BANK (CAYMAN) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: DEUTKY22
+    
+- name: "DEUTSCHE BANK AG"
+  city: "GEORGETOWN"
+  branch: null
+  swift: DEUTKYKX
+    
+- name: "DIAMOND HEAD CAPITAL MANAGEMENT"
+  city: "GEORGETOWN"
+  branch: null
+  swift: DHCGKYK1
+    
+- name: "DIAMOND NOTCH ASSET MANAGEMENT"
+  city: "GEORGETOWN"
+  branch: null
+  swift: DNANKYK1
+    
+- name: "DLJ CAYMAN ISLANDS LDC"
+  city: "GEORGETOWN"
+  branch: null
+  swift: DCILKYK1
+    
+- name: "DMS BANK AND TRUST LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: CAYIKYKY
+    
+- name: "DNB BANK ASA, GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: DNBAKYKX
+    
+- name: "DORIC CAPITAL CORPORATION"
+  city: "GEORGETOWN"
+  branch: null
+  swift: DOCTKYK1
+    
+- name: "DOUBLE RIVER INVESTMENTS LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: DORVKYK1
+    
+- name: "EFG BANK, CAYMAN BRANCH"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: EFGBKYKY
+    
+- name: "EMIRATES NBD GLOBAL MARKETS LLC"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: EBILKYKY
+    
+- name: "EURO CANADIAN BANK AND TRUST COMPANY LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ECBTKYK1
+    
+- name: "EUROWIRE CLEARING CORPORATION"
+  city: "GEORGETOWN"
+  branch: null
+  swift: EUCIKYK1
+    
+- name: "EVERETT OPPORTUNITIES MASTER FUND"
+  city: "GEORGETOWN"
+  branch: null
+  swift: EOMFKYK1
+    
+- name: "FEROX MASTER FUND LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: FEMFKYK1
+    
+- name: "FGB GLOBAL MARKETS CAYMAN LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: FGBMKYKY
+    
+- name: "FIDELITY BANK (CAYMAN) LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: FIYCKYKY
+    
+- name: "FIDELTIY BANK (CAYMAN) LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: FICYKYK1
+    
+- name: "FIRST HOME BANKING LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: FHOMKYK1
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: FCIBKYKY
+    
+- name: "G.S. FINANCIAL PRODUCTS U.S., L.P."
+  city: "GEORGETOWN"
+  branch: null
+  swift: GSFPKYKY
+    
+- name: "GAIACORP TRADING LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: GATRKYK1
+    
+- name: "GALAXY ASSET MANAGEMENT (HONG KONG) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: GAMHKYK1
+    
+- name: "GIB MARKETS LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: GIMKKYKY
+    
+- name: "GINGER CAPITAL MANAGEMENT LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: GICMKYK1
+    
+- name: "GLOBAL FIDELITY BANK, LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: GLFDKYKY
+    
+- name: "GREENWOODS ASSET MANAGEMENT LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: GRSGKYK1
+    
+- name: "GULF INTERNATIONAL BANK"
+  city: "GEORGETOWN"
+  branch: null
+  swift: GULFKYK1
+    
+- name: "HAITONG BANCO DE INVESTIMENTO DO BRASIL S.A."
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: BESBKYKY
+    
+- name: "HBK MASTER FUND L.P."
+  city: "GEORGETOWN"
+  branch: null
+  swift: HBMFKYK1
+    
+- name: "HENDERSON UK EQUITY LONG SHORT FUND LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: HELHKYK1
+    
+- name: "HSBC BANK USA N.A."
+  city: "GEORGETOWN"
+  branch: null
+  swift: HSBCKYK1
+    
+- name: "IMPERIAL DRAGON ASSET MANAGEMENT LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: IDANKYK1
+    
+- name: "INCHAUSPE BANK CORPORATION"
+  city: "GEORGETOWN"
+  branch: null
+  swift: IEBCKYK1
+    
+- name: "INCOBANK AND TRUST CORPORATION"
+  city: "GEORGETOWN"
+  branch: null
+  swift: INCTKYK1
+    
+- name: "INVESTCORP TRADING LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: INVCKYKY
+    
+- name: "INVESTCORP TRADING LIMITED"
+  city: "GRAND CAYMAN"
+  branch: BOUNDARY HALL BRANCH
+  swift: INVCKYKYISA
+    
+- name: "ISRAEL DISCOUNT BANK LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: IDBLKYK1
+    
+- name: "ITAU BANK, LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ITAUKYKT
+    
+- name: "ITAU UNIBANCO S.A., GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: CURRENT ACCOUNT
+  swift: ITAUKYKCIGC
+    
+- name: "ITAU UNIBANCO S.A., GRAND CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ITAUKYKC
+    
+- name: "J. ROTHSCHILD PPG SECURITIES AND CIE"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: ROPRKYK1
+    
+- name: "K2 EMSO LIQUID EM CREDIT MASTER FUND LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ELCSKYK1
+    
+- name: "KADORA INVESTMENTS SA"
+  city: "GEORGETOWN"
+  branch: null
+  swift: KAIVKYK1
+    
+- name: "KBC FINANCIAL PRODUCTS (CAYMAN ISLANDS) LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: KBCFKYKX
+    
+- name: "KBC INVESTMENTS CAYMAN ISLANDS V LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: KBCFKYKZ
+    
+- name: "KYTE FUNDS SPC"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: KYFSKYK1
+    
+- name: "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE, CAYMAN BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: HELAKYKX
+    
+- name: "LEUMI CAYMAN FINANCE AND TRUST CORP"
+  city: "GEORGETOWN"
+  branch: null
+  swift: LCFTKYK1
+    
+- name: "LIM JAPAN FUND"
+  city: "GEORGETOWN"
+  branch: null
+  swift: LIJFKYK1
+    
+- name: "LIM JAPAN MASTER FUND"
+  city: "GEORGETOWN"
+  branch: null
+  swift: LJMFKYK1
+    
+- name: "LIM OPPORTUNISTIC CREDIT MASTER FUND"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: LOCSKYK1
+    
+- name: "LINMAT CAPITAL INVESTMENT MANAGEMENT"
+  city: "GEORGETOWN"
+  branch: null
+  swift: LCIAKYK1
+    
+- name: "MARCO POLO PURE ASSET MANAGEMENT (CAYMAN ISLANDS)"
+  city: "GEORGETOWN"
+  branch: null
+  swift: MPPAKYK1
+    
+- name: "MEESPIERSON (CAYMAN) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: PHPEKYK1
+    
+- name: "MERCURY BANK AND TRUST LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: MTRLKYK1
+    
+- name: "MERRILL LYNCH BANK AND TRUST COMPANY (CAYMAN) LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: MLBCKYKX
+    
+- name: "METAGE CAPITAL MANAGEMENT"
+  city: "GEORGETOWN"
+  branch: null
+  swift: MEPMKYK1
+    
+- name: "MILLENNIUM BCP BANK AND TRUST"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BCOMKYKX
+    
+- name: "MIZUHO DO BRASIL CAYMAN LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: MHCBKYKX
+    
+- name: "MORVAL BANK AND TRUST CAYMAN LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: MORVKYKY
+    
+- name: "MUFG ALTERNATIVE FUND SERVICES (CAYMAN) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: UBSWKYKY
+    
+- name: "NATIONAL BUILDING SOCIETY OF CAYMAN"
+  city: "GEORGETOWN"
+  branch: null
+  swift: NBCSKYK1
+    
+- name: "NBAD FINANCIAL MARKETS (CAYMAN) LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: NBADKYKY
+    
+- name: "NIPPON CREDIT BANK GRAND CAYMAN"
+  city: "GEORGETOWN"
+  branch: null
+  swift: NCGAKYK1
+    
+- name: "OCEAN CAPITAL MANAGEMENT (CAYMAN) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: OCMCKYK1
+    
+- name: "OCTAGON CAPITAL MANAGEMENT PTE LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: OCMPKYK1
+    
+- name: "OCTIS ASSET MANAGEMENT CAYMEN LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: OAMAKYK1
+    
+- name: "PARHELION, LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: PAHHKYK1
+    
+- name: "PARHELION, LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: PARHKYK1
+    
+- name: "PIVOT CAPITAL MANAGEMENT LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: PICAKYK1
+    
+- name: "PORTIGON AG, GRAND CAYMAN"
+  city: "GEORGETOWN"
+  branch: null
+  swift: WELAKYK1
+    
+- name: "PS ASSET CORPORATION"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ASCOKYK1
+    
+- name: "PT BANK MANDIRI (PERSERO)TBK CAYMAN ISLANDS BRANCH"
+  city: "GEORGETOWN"
+  branch: null
+  swift: BMRIKYKY
+    
+- name: "RADISH INVESTMENT CORPORATION"
+  city: "GEORGETOWN"
+  branch: null
+  swift: RAIOKYK1
+    
+- name: "RBC ROYAL BANK (CAYMAN) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA GRAND CAYMAN)"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ROYCKYKY
+    
+- name: "RBC ROYAL BANK (CAYMAN) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA GRAND CAYMAN)"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ROYCKYKYKYQ
+    
+- name: "RIBBLE INVESTMENT LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: RIBIKYK1
+    
+- name: "ROFIN INTERNATIONAL BANK AND TRUST"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ROIBKYK1
+    
+- name: "RP CAPITAL UK LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: CPLTKYK1
+    
+- name: "RUSSIAN RENAISSANCE INVESTMENT COMPANY LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: RRICKYK1
+    
+- name: "SALOMON PARTNERS WRS WERNER ROTHSCHILD AND  CIE"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: SAWWKYK1
+    
+- name: "SAMBA GLOBAL MARKETS LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: SAGMKYKY
+    
+- name: "SAMENA CAPITAL MANAGEMENT LLP"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: SCNPKYK1
+    
+- name: "SARK MASTER FUND"
+  city: "GEORGETOWN"
+  branch: null
+  swift: SAAFKYK1
+    
+- name: "SCHRODER CAYMAN BANK AND TRUST CO. LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: SCBTKYK1
+    
+- name: "SCOTIABANK AND TRUST (CAYMAN) LTD."
+  city: "GEORGETOWN"
+  branch: TRUST DEPARTMENT
+  swift: NOSCKYKXTRU
+    
+- name: "SCOTIABANK AND TRUST (CAYMAN) LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: NOSCKYKX
+    
+- name: "SFC INVESTMENT MANAGEMENT LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: SFINKYK1
+    
+- name: "SIAM COMMERCIAL BANK PCL., THE"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: SICOKYKY
+    
+- name: "SQUAREPOINT MASTER FUND LIMITED C/O MAPLES CORPORATE SERVICES LIMIT"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: SMFAKYK1
+    
+- name: "ST. GEORGES BANK AND TRUST COMPANY (CAYMAN) LTD."
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: GBTCKYKY
+    
+- name: "STATE STREET CAYMAN TRUST COMPANY LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: SSCTKYK1
+    
+- name: "STRATEGIS CAPITAL MANAGMENT CAYMAN LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: SCAYKYK1
+    
+- name: "SUNSET MESA FUND LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: SMECKYK1
+    
+- name: "SWEDBANK"
+  city: "GEORGETOWN"
+  branch: null
+  swift: SWEDKYK1
+    
+- name: "SYMMETRY MASTER FUND LIMITED"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: SYMFKYK1
+    
+- name: "TAIREN CAPITAL LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: TACTKYK1
+    
+- name: "TECH DATA GLOBAL FINANCE L.P."
+  city: "GEORGETOWN"
+  branch: null
+  swift: TDGFKYK1
+    
+- name: "TELLURIDE ASSET MANAGEMENT"
+  city: "GEORGETOWN"
+  branch: null
+  swift: TEAEKYK1
+    
+- name: "TIR (HOLDINGS) LIMITED"
+  city: "GEORGETOWN"
+  branch: null
+  swift: STIRKYK1
+    
+- name: "TOWERBANK, LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: TOWEKYKY
+    
+- name: "TRADE AND COMMERCE BANK"
+  city: "GEORGETOWN"
+  branch: null
+  swift: TCEBKYK1
+    
+- name: "TRANSCORP BANK"
+  city: "GEORGETOWN"
+  branch: null
+  swift: TPBAKYK1
+    
+- name: "TRANSOCEAN BANK AND TRUST, LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: TRBTKYK1
+    
+- name: "UNICREDIT BANK CAYMAN ISLANDS LTD."
+  city: "GEORGETOWN"
+  branch: null
+  swift: BKAUKYK1
+    
+- name: "VBT BANK AND TRUST,LTD."
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: VBTBKYKY
+    
+- name: "VENEZOLANO DE CREDITO,CAYMAN BRANCH,BANCO UNIVERSAL"
+  city: "GEORGETOWN"
+  branch: null
+  swift: VZCRKYKY
+    
+- name: "VICIS CAPITAL MASTER FUND"
+  city: "GEORGETOWN"
+  branch: null
+  swift: VCMFKYK1
+    
+- name: "VR ADVISORY SERVICES"
+  city: "GEORGETOWN"
+  branch: null
+  swift: ADSRKYK1
+    
+- name: "WESTPAC BANKING CORPORATION"
+  city: "GEORGETOWN"
+  branch: null
+  swift: WPACKYKX
+    
+- name: "WG TRADING INTERNATIONAL CORPORATION"
+  city: "GEORGETOWN"
+  branch: null
+  swift: TRIRKYK1
+    
+- name: "WIM ASSET MANAGEMENT (CAYMAN) LTD"
+  city: "GEORGETOWN"
+  branch: null
+  swift: WAMCKYK1
+    
+- name: "XLIT LTD"
+  city: "GRAND CAYMAN"
+  branch: null
+  swift: GROPKYKY
+    

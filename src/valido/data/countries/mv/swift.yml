@@ -1,0 +1,45 @@
+- name: "BANK OF CEYLON"
+  city: "MALE"
+  branch: null
+  swift: BCEYMVMV
+    
+- name: "BANK OF MALDIVES PLC."
+  city: "MALE"
+  branch: null
+  swift: MALBMVMV
+    
+- name: "COMMERCIAL BANK OF MALDIVES PRIVATE LIMITED"
+  city: "MALE"
+  branch: null
+  swift: CBMVMVMV
+    
+- name: "HABIB BANK LIMITED"
+  city: "MALE"
+  branch: null
+  swift: HABBMVMV
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "MALE"
+  branch: null
+  swift: HSBCMVMV
+    
+- name: "MALDIVES ISLAMIC BANK PVT. LTD"
+  city: "MALE"
+  branch: null
+  swift: MADVMVMV
+    
+- name: "MALDIVES MONETARY AUTHORITY"
+  city: "MALE"
+  branch: null
+  swift: MMAUMVMV
+    
+- name: "STATE BANK OF INDIA"
+  city: "MALE"
+  branch: null
+  swift: SBINMVMV
+    
+- name: "THE MAURITIUS COMMERCIAL BANK LIMITED"
+  city: "MALE"
+  branch: null
+  swift: MCBLMVMV
+    

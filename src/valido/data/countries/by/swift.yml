@@ -1,0 +1,565 @@
+- name: "ABSOLUTBANK, JOINT-STOCK COMPANY"
+  city: "MINSK"
+  branch: MINSK BRANCH 1/01
+  swift: ABLTBY22240
+    
+- name: "ABSOLUTBANK, JOINT-STOCK COMPANY"
+  city: "MINSK"
+  branch: null
+  swift: ABLTBY22
+    
+- name: "ALFA-BANK"
+  city: "MINSK"
+  branch: null
+  swift: ALFABY2X
+    
+- name: "BANK BELVEB OJSC"
+  city: "BARANOVICHI"
+  branch: BARANOVICHI
+  swift: BELBBY21207
+    
+- name: "BANK BELVEB OJSC"
+  city: "BOBRUISK"
+  branch: BOBRUISK
+  swift: BELBBY21214
+    
+- name: "BANK BELVEB OJSC"
+  city: "BORISOV"
+  branch: BORISOV
+  swift: BELBBY21203
+    
+- name: "BANK BELVEB OJSC"
+  city: "BREST"
+  branch: BREST REGIONAL BRANCH
+  swift: BELBBY21201
+    
+- name: "BANK BELVEB OJSC"
+  city: "GLUBOKOYE"
+  branch: GLUBOKOYE
+  swift: BELBBY21794
+    
+- name: "BANK BELVEB OJSC"
+  city: "GOMEL"
+  branch: GOMEL REGIONAL BRANCH
+  swift: BELBBY21213
+    
+- name: "BANK BELVEB OJSC"
+  city: "GRODNO"
+  branch: GRODNO REGIONAL BRANCH
+  swift: BELBBY21204
+    
+- name: "BANK BELVEB OJSC"
+  city: "KOBRIN"
+  branch: KOBRIN
+  swift: BELBBY21210
+    
+- name: "BANK BELVEB OJSC"
+  city: "LIDA"
+  branch: LIDA
+  swift: BELBBY21216
+    
+- name: "BANK BELVEB OJSC"
+  city: "MINSK"
+  branch: MINSK  BRANCH CENTRAL
+  swift: BELBBY21728
+    
+- name: "BANK BELVEB OJSC"
+  city: "MINSK"
+  branch: MINSK BRANCH 1
+  swift: BELBBY21209
+    
+- name: "BANK BELVEB OJSC"
+  city: "MINSK"
+  branch: MINSK BRANCH 2
+  swift: BELBBY21215
+    
+- name: "BANK BELVEB OJSC"
+  city: "MINSK"
+  branch: MINSK BRANCH 3
+  swift: BELBBY21217
+    
+- name: "BANK BELVEB OJSC"
+  city: "MINSK"
+  branch: MINSK BRANCH 4
+  swift: BELBBY21220
+    
+- name: "BANK BELVEB OJSC"
+  city: "MINSK"
+  branch: MINSK BRANCH 5
+  swift: BELBBY21251
+    
+- name: "BANK BELVEB OJSC"
+  city: "MINSK"
+  branch: null
+  swift: BELBBY2X
+    
+- name: "BANK BELVEB OJSC"
+  city: "MOGILEV"
+  branch: MOGILEV REGIONAL BRANCH
+  swift: BELBBY21202
+    
+- name: "BANK BELVEB OJSC"
+  city: "MOLODECHNO"
+  branch: MOLODECHNO
+  swift: BELBBY21211
+    
+- name: "BANK BELVEB OJSC"
+  city: "MOZIR"
+  branch: MOZYR
+  swift: BELBBY21205
+    
+- name: "BANK BELVEB OJSC"
+  city: "ORSHA"
+  branch: ORSHA
+  swift: BELBBY21206
+    
+- name: "BANK BELVEB OJSC"
+  city: "PINSK"
+  branch: PINSK
+  swift: BELBBY21212
+    
+- name: "BANK BELVEB OJSC"
+  city: "RECHITSA"
+  branch: RECHITSA
+  swift: BELBBY21221
+    
+- name: "BANK BELVEB OJSC"
+  city: "VERKHNEDVINSK"
+  branch: VERKHNEDVINSK
+  swift: BELBBY21848
+    
+- name: "BANK BELVEB OJSC"
+  city: "VITEBSK"
+  branch: VITEBSK REGIONAL BRANCH
+  swift: BELBBY21208
+    
+- name: "BANK BELVEB OJSC"
+  city: "VOLKOVISK"
+  branch: VOLKOVISK
+  swift: BELBBY21219
+    
+- name: "'BANK MOSCOW-MINSK' JSC"
+  city: "BREST"
+  branch: BREST BRANCH
+  swift: MMBNBY21282
+    
+- name: "'BANK MOSCOW-MINSK' JSC"
+  city: "GOMEL"
+  branch: GOMEL BRANCH
+  swift: MMBNBY21275
+    
+- name: "'BANK MOSCOW-MINSK' JSC"
+  city: "GRODNO"
+  branch: GRODNO BRANCH
+  swift: MMBNBY21279
+    
+- name: "'BANK MOSCOW-MINSK' JSC"
+  city: "MINSK"
+  branch: null
+  swift: MMBNBY22
+    
+- name: "'BANK MOSCOW-MINSK' JSC"
+  city: "MOGILEV"
+  branch: MOGILEV BRANCH
+  swift: MMBNBY21271
+    
+- name: "'BANK MOSCOW-MINSK' JSC"
+  city: "VITEBSK"
+  branch: VITEBSK BRANCH
+  swift: MMBNBY21277
+    
+- name: "'BELAGROPROMBANK' JSC"
+  city: "MINSK"
+  branch: null
+  swift: BAPBBY2X
+    
+- name: "BELARUSBANK"
+  city: "BARANOVICHI"
+  branch: BARANOVICHI BRANCH 802
+  swift: AKBBBY21802
+    
+- name: "BELARUSBANK"
+  city: "BOBRUISK"
+  branch: BOBRUISK BRANCH 703
+  swift: AKBBBY21703
+    
+- name: "BELARUSBANK"
+  city: "BORISOV"
+  branch: BORISOV BRANCH 612
+  swift: AKBBBY21612
+    
+- name: "BELARUSBANK"
+  city: "BREST"
+  branch: BREST REGIONAL BRANCH 100
+  swift: AKBBBY21100
+    
+- name: "BELARUSBANK"
+  city: "GOMEL"
+  branch: GOMEL BRANCH 302
+  swift: AKBBBY21302
+    
+- name: "BELARUSBANK"
+  city: "GOMEL"
+  branch: GOMEL REGIONAL BRANCH 300
+  swift: AKBBBY21300
+    
+- name: "BELARUSBANK"
+  city: "GRODNO"
+  branch: GRODNO REGIONAL BRANCH 400
+  swift: AKBBBY21400
+    
+- name: "BELARUSBANK"
+  city: "KOBRIN"
+  branch: KOBRIN BRANCH 113
+  swift: AKBBBY21113
+    
+- name: "BELARUSBANK"
+  city: "KRICHEV"
+  branch: KRICHEV BRANCH 714
+  swift: AKBBBY21714
+    
+- name: "BELARUSBANK"
+  city: "LIDA"
+  branch: LIDA BRANCH 413
+  swift: AKBBBY21413
+    
+- name: "BELARUSBANK"
+  city: "MINSK"
+  branch: MINSK BRANCH 510
+  swift: AKBBBY21510
+    
+- name: "BELARUSBANK"
+  city: "MINSK"
+  branch: MINSK BRANCH 511
+  swift: AKBBBY21511
+    
+- name: "BELARUSBANK"
+  city: "MINSK"
+  branch: MINSK BRANCH 514
+  swift: AKBBBY21514
+    
+- name: "BELARUSBANK"
+  city: "MINSK"
+  branch: MINSK BRANCH 527
+  swift: AKBBBY21527
+    
+- name: "BELARUSBANK"
+  city: "MINSK"
+  branch: MINSK BRANCH 529
+  swift: AKBBBY21529
+    
+- name: "BELARUSBANK"
+  city: "MINSK"
+  branch: MINSK BRANCH 614
+  swift: AKBBBY21614
+    
+- name: "BELARUSBANK"
+  city: "MINSK"
+  branch: MINSK REGIONAL BRANCH 500
+  swift: AKBBBY21500
+    
+- name: "BELARUSBANK"
+  city: "MINSK"
+  branch: null
+  swift: AKBBBY2X
+    
+- name: "BELARUSBANK"
+  city: "MOGILEV"
+  branch: MOGILEV REGIONAL BRANCH 700
+  swift: AKBBBY21700
+    
+- name: "BELARUSBANK"
+  city: "MOLODECHNO"
+  branch: MOLODECHNO BRANCH 601
+  swift: AKBBBY21601
+    
+- name: "BELARUSBANK"
+  city: "MOZIR"
+  branch: MOZIR BRANCH 317
+  swift: AKBBBY21317
+    
+- name: "BELARUSBANK"
+  city: "NESVIZH"
+  branch: NESVIZH BRANCH 620
+  swift: AKBBBY21620
+    
+- name: "BELARUSBANK"
+  city: "NOVOPOLOTSK"
+  branch: NOVOPOLOTSK BRANCH 214
+  swift: AKBBBY21214
+    
+- name: "BELARUSBANK"
+  city: "ORSHA"
+  branch: ORSHA BRANCH 215
+  swift: AKBBBY21215
+    
+- name: "BELARUSBANK"
+  city: "PINSK"
+  branch: PINSK BRANCH 121
+  swift: AKBBBY21121
+    
+- name: "BELARUSBANK"
+  city: "POLOTSK"
+  branch: POLOTSK BRANCH 216
+  swift: AKBBBY21216
+    
+- name: "BELARUSBANK"
+  city: "SOLIGORSK"
+  branch: SOLIGORSK BRANCH 633
+  swift: AKBBBY21633
+    
+- name: "BELARUSBANK"
+  city: "VITEBSK"
+  branch: VITEBSK REGIONAL BRANCH 200
+  swift: AKBBBY21200
+    
+- name: "BELARUSBANK"
+  city: "VOLKOVISK"
+  branch: VOLKOVISK BRANCH 402
+  swift: AKBBBY21402
+    
+- name: "BELARUSBANK"
+  city: "ZHLOBIN"
+  branch: ZHLOBIN BRANCH 312
+  swift: AKBBBY21312
+    
+- name: "BELARUSIAN BANK FOR SMALL BUSINESS"
+  city: "MINSK"
+  branch: null
+  swift: BBSBBY21
+    
+- name: "BELARUSIAN CURRENCY AND STOCK EXCHANGE"
+  city: "MINSK"
+  branch: null
+  swift: BCSXBY22
+    
+- name: "BELARUSKY NARODNY BANK"
+  city: "MINSK"
+  branch: null
+  swift: BLNBBY2X
+    
+- name: "BELINVESTBANK JSC"
+  city: "BREST"
+  branch: BREST REGION DIRECTORATE
+  swift: BLBBBY2XBRD
+    
+- name: "BELINVESTBANK JSC"
+  city: "GOMEL"
+  branch: GOMEL REGION DIRECTORATE
+  swift: BLBBBY2XGOM
+    
+- name: "BELINVESTBANK JSC"
+  city: "GRODNO"
+  branch: GRODNO REGION DIRECTORATE
+  swift: BLBBBY2XGRD
+    
+- name: "BELINVESTBANK JSC"
+  city: "MINSK"
+  branch: BANKING SERVICES CENTRE 537
+  swift: BLBBBY2XMRD
+    
+- name: "BELINVESTBANK JSC"
+  city: "MINSK"
+  branch: GENERAL OPERATIONAL DEPARTMENT
+  swift: BLBBBY21739
+    
+- name: "BELINVESTBANK JSC"
+  city: "MINSK"
+  branch: MINSK CITY AND MINSK REGION DIRECTORATE
+  swift: BLBBBY2XCBD
+    
+- name: "BELINVESTBANK JSC"
+  city: "MINSK"
+  branch: null
+  swift: BLBBBY2X
+    
+- name: "BELINVESTBANK JSC"
+  city: "MOGILEV"
+  branch: MOGILEV REGION DIRECTORATE
+  swift: BLBBBY2XMOG
+    
+- name: "BELINVESTBANK JSC"
+  city: "VITEBSK"
+  branch: VITEBSK REGION DIRECTORATE
+  swift: BLBBBY2XVRD
+    
+- name: "BELORUSSIAN-RUSSIAN BELGAZPROMBANK"
+  city: "MINSK"
+  branch: MINSK CITY OFFICE 1
+  swift: OLMPBY21107
+    
+- name: "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK"
+  city: "BREST"
+  branch: BREST REGIONAL OFFICE
+  swift: OLMPBY21171
+    
+- name: "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK"
+  city: "GOMEL"
+  branch: HOMIEL REGIONAL OFFICE
+  swift: OLMPBY21758
+    
+- name: "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK"
+  city: "GRODNO"
+  branch: HRODNA REGIONAL OFFICE
+  swift: OLMPBY21194
+    
+- name: "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK"
+  city: "MINSK"
+  branch: MINSK CITY OFFICE 2
+  swift: OLMPBY21180
+    
+- name: "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK"
+  city: "MINSK"
+  branch: MINSK REGIONAL OFFICE
+  swift: OLMPBY21130
+    
+- name: "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK"
+  city: "MINSK"
+  branch: null
+  swift: OLMPBY2X
+    
+- name: "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK"
+  city: "MOGILEV"
+  branch: MAHILIOU REGIONAL OFFICE
+  swift: OLMPBY21232
+    
+- name: "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK"
+  city: "VITEBSK"
+  branch: VITIEBSK REGIONAL OFFICE
+  swift: OLMPBY21238
+    
+- name: "BPS-SBERBANK"
+  city: "MINSK"
+  branch: null
+  swift: BPSBBY2X
+    
+- name: "BTA BANK CJSC"
+  city: "MINSK"
+  branch: null
+  swift: AEBKBY2X
+    
+- name: "CJSC TRADE CAPITAL BANK"
+  city: "MINSK"
+  branch: null
+  swift: BBTKBY2X
+    
+- name: "CJSC VTB BANK (BELARUS)"
+  city: "MINSK"
+  branch: null
+  swift: SLANBY22
+    
+- name: "FRANSABANK OJSC"
+  city: "MINSK"
+  branch: null
+  swift: GTBNBY22
+    
+- name: "IDEA BANK"
+  city: "MINSK"
+  branch: null
+  swift: SOMABY22
+    
+- name: "JOINT STOCK COMPANY 'TECHNOBANK'"
+  city: "MINSK"
+  branch: null
+  swift: TECNBY22
+    
+- name: "JOINT-STOCK COMPANY 'DEVELOPMENT BANK OF THE REPUBLIC OF BELARUS'"
+  city: "MINSK"
+  branch: null
+  swift: BRRBBY2X
+    
+- name: "JSC BSB BANK"
+  city: "MINSK"
+  branch: null
+  swift: UNBSBY2X
+    
+- name: "MINSK TRANSIT BANK"
+  city: "MINSK"
+  branch: null
+  swift: MTBKBY22
+    
+- name: "NATIONAL BANK OF REPUBLIC BELARUS"
+  city: "MINSK"
+  branch: null
+  swift: NBRBBY2X
+    
+- name: "OJSC NON-BANKING CREDIT AND FINANCIAL ORGANIZATION HOME CREDIT"
+  city: "MINSK"
+  branch: null
+  swift: LOJSBY22
+    
+- name: "OPEN JOINT-STOCK COMPANY 'PARITETBANK', MINSK"
+  city: "MINSK"
+  branch: null
+  swift: POISBY2X
+    
+- name: "PRIORBANK"
+  city: "BREST"
+  branch: BREST BRANCH
+  swift: PJCBBY2XBRS
+    
+- name: "PRIORBANK"
+  city: "GOMEL"
+  branch: GOMEL BRANCH
+  swift: PJCBBY2XGML
+    
+- name: "PRIORBANK"
+  city: "GRODNO"
+  branch: GRODNO BRANCH
+  swift: PJCBBY2XGRD
+    
+- name: "PRIORBANK"
+  city: "MINSK"
+  branch: MINSK BRANCH
+  swift: PJCBBY2XMNK
+    
+- name: "PRIORBANK"
+  city: "MINSK"
+  branch: null
+  swift: PJCBBY2X
+    
+- name: "PRIORBANK"
+  city: "MOGILEV"
+  branch: MOGILEV BRANCH
+  swift: PJCBBY2XMGL
+    
+- name: "PRIORBANK"
+  city: "VITEBSK"
+  branch: VITEBSK BRANCH
+  swift: PJCBBY2XVTB
+    
+- name: "RECONVERSION AND DEVELOPMENT BANK JSB"
+  city: "MINSK"
+  branch: null
+  swift: REDJBY22
+    
+- name: "REPUBLICAN UNITARY ENTERPRISE 'REPUBLICAN CENTRAL ECURITIES DEPOSITORY'"
+  city: "MINSK"
+  branch: null
+  swift: RUERBY21
+    
+- name: "RESHENIE BANK"
+  city: "MINSK"
+  branch: null
+  swift: RSHNBY2X
+    
+- name: "SEVERNY INVESTICIONNY BANK"
+  city: "MINSK"
+  branch: null
+  swift: SEVNBY21
+    
+- name: "STATUSBANK"
+  city: "MINSK"
+  branch: null
+  swift: IRJSBY22
+    
+- name: "TRADE AND INDUSTRIAL BANK S.A."
+  city: "MINSK"
+  branch: null
+  swift: TRIUBY21
+    
+- name: "ZEPTER BANK"
+  city: "MINSK"
+  branch: null
+  swift: ZEPTBY2X
+    

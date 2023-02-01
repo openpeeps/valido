@@ -1,0 +1,20 @@
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED"
+  city: "THE VALLEY"
+  branch: null
+  swift: FCIBAIAI
+    
+- name: "GOVERNMENT OF ANGUILLA"
+  city: "THE VALLEY"
+  branch: null
+  swift: GVANAIAI
+    
+- name: "NATIONAL COMMERCIAL BANK OF ANGUILLA LTD"
+  city: "THE VALLEY"
+  branch: null
+  swift: ANGUAIAI
+    
+- name: "SCOTIABANK ANGUILLA LTD."
+  city: "THE VALLEY"
+  branch: null
+  swift: NOSCAIAI
+    

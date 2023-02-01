@@ -1,0 +1,345 @@
+- name: "AL-AMAL MICROFINANCE BANK (AMB)"
+  city: "SANAA"
+  branch: null
+  swift: AARMYESA
+    
+- name: "ALKURAIMI ISLAMIC MICROFINANCE BANK"
+  city: "SANAA"
+  branch: null
+  swift: KRMBYESA
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "ADEN"
+  branch: ADEN BRANCH
+  swift: ARABYESAADN
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "HODEIDA"
+  branch: HODAIDA BRANCH
+  swift: ARABYESAHOD
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "HODEIDA"
+  branch: null
+  swift: ARABYES102H
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "IBB"
+  branch: IBB BRANCH
+  swift: ARABYESAIBB
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "MUKALLA"
+  branch: MUKALLA BRANCH
+  swift: ARABYESAMKL
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "SANAA"
+  branch: CENTRAL OPERATION UNIT
+  swift: ARABYESACOU
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "SANAA"
+  branch: PAYMENTS INVESTIGATIONS
+  swift: ARABYESAINV
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "SANAA"
+  branch: SANAA BRANCH
+  swift: ARABYESASA1
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "SANAA"
+  branch: YEMEN BRANCH CENTRE
+  swift: ARABYESAYBC
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "SANAA"
+  branch: null
+  swift: ARABYESA
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "TAIZZ"
+  branch: TAIZZ BRANCH
+  swift: ARABYESATAZ
+    
+- name: "ARAB BANK PLC - YEMEN"
+  city: "TAIZZ"
+  branch: null
+  swift: ARABYES102T
+    
+- name: "BANK OF YEMEN"
+  city: "ADEN"
+  branch: null
+  swift: BAYEYEY1
+    
+- name: "CENTRAL BANK OF YEMEN"
+  city: "ADEN"
+  branch: null
+  swift: CBYEYESA
+    
+- name: "COOPERATIVE AND AGRICULTURAL CREDIT BANK"
+  city: "SANAA"
+  branch: HEAD OFFICE
+  swift: CACBYESASAN
+    
+- name: "COOPERATIVE AND AGRICULTURAL CREDIT BANK"
+  city: "SANAA"
+  branch: null
+  swift: CACBYESA
+    
+- name: "COOPERATIVE AND AGRICULTURAL CREDIT BANK"
+  city: "SANAA"
+  branch: null
+  swift: CACBYESAYIS
+    
+- name: "HOUSING CREDIT BANK"
+  city: "SANAA"
+  branch: null
+  swift: HOCBYES1
+    
+- name: "INTERNATIONAL BANK OF YEMEN Y.S.C."
+  city: "SANAA"
+  branch: null
+  swift: IBOYYESA
+    
+- name: "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT"
+  city: "ADEN"
+  branch: ADEN - CRATER BRANCH
+  swift: ISBYYESA107
+    
+- name: "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT"
+  city: "ADEN"
+  branch: SHEIKH OTHMAN BRANCH
+  swift: ISBYYESA109
+    
+- name: "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT"
+  city: "HODEIDA"
+  branch: HODEIDAH BRANCH
+  swift: ISBYYESA103
+    
+- name: "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT"
+  city: "SANAA"
+  branch: SANA'A BRANCH
+  swift: ISBYYESA101
+    
+- name: "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT"
+  city: "SANAA"
+  branch: null
+  swift: ISBYYESA
+    
+- name: "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT"
+  city: "TAIZZ"
+  branch: TAIZ BRANCH
+  swift: ISBYYESA105
+    
+- name: "MINISTRY OF FINANCE"
+  city: "SANAA"
+  branch: null
+  swift: MOFYYES1
+    
+- name: "NATIONAL BANK OF YEMEN"
+  city: "ADEN"
+  branch: AIDROOS BRANCH
+  swift: NBOYYESA001
+    
+- name: "NATIONAL BANK OF YEMEN"
+  city: "ADEN"
+  branch: ARAWA BRANCH
+  swift: NBOYYESA002
+    
+- name: "NATIONAL BANK OF YEMEN"
+  city: "ADEN"
+  branch: MALAA BRANCH
+  swift: NBOYYESA003
+    
+- name: "NATIONAL BANK OF YEMEN"
+  city: "ADEN"
+  branch: null
+  swift: NBOYYESA
+    
+- name: "NATIONAL BANK OF YEMEN"
+  city: "HODEIDA"
+  branch: HODEIDA BRANCH
+  swift: NBOYYESA034
+    
+- name: "NATIONAL BANK OF YEMEN"
+  city: "MUKALLA"
+  branch: MUKALLA
+  swift: NBOYYESA009
+    
+- name: "NATIONAL BANK OF YEMEN"
+  city: "SANAA"
+  branch: SANAA BRANCH
+  swift: NBOYYESA033
+    
+- name: "NATIONAL BANK OF YEMEN"
+  city: "SEIYUN"
+  branch: SEIYUN BRANCH
+  swift: NBOYYESA007
+    
+- name: "QATAR NATIONAL BANK SAQ"
+  city: "SANAA"
+  branch: null
+  swift: QNBAYESA
+    
+- name: "RAFIDAIN BANK"
+  city: "SANAA"
+  branch: null
+  swift: RAFBYES1
+    
+- name: "SABA ISLAMIC BANK"
+  city: "SANAA"
+  branch: null
+  swift: SAAIYESA
+    
+- name: "SHAMIL BANK OF YEMEN AND BAHRAIN"
+  city: "SANAA"
+  branch: null
+  swift: SBYBYESA
+    
+- name: "TADHAMON INTERNATIONAL ISLAMIC BANK"
+  city: "ADEN"
+  branch: ADEN BRANCH
+  swift: TIBKYESA103
+    
+- name: "TADHAMON INTERNATIONAL ISLAMIC BANK"
+  city: "HODEIDA"
+  branch: HODEIDA BRANCH
+  swift: TIBKYESA104
+    
+- name: "TADHAMON INTERNATIONAL ISLAMIC BANK"
+  city: "MUKALLA"
+  branch: MUKALLA BRANCH
+  swift: TIBKYESA105
+    
+- name: "TADHAMON INTERNATIONAL ISLAMIC BANK"
+  city: "SANAA"
+  branch: SANAA BRANCH
+  swift: TIBKYESA101
+    
+- name: "TADHAMON INTERNATIONAL ISLAMIC BANK"
+  city: "SANAA"
+  branch: null
+  swift: TIBKYESA
+    
+- name: "TADHAMON INTERNATIONAL ISLAMIC BANK"
+  city: "TAIZZ"
+  branch: TAIZZ BRANCH
+  swift: TIBKYESA102
+    
+- name: "UNITED BANK LIMITED"
+  city: "SANAA"
+  branch: null
+  swift: UNILYESA
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "ADEN"
+  branch: AL SAEEDA BRANCH
+  swift: YBRDYESA601
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "ADEN"
+  branch: AL-SHAIKH OTHMAN BRANCH
+  swift: YBRDYESA607
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "AMRAN"
+  branch: AMRAN BRANCH
+  swift: YBRDYESA119
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "DHAMAR"
+  branch: DHAMAR BRANCH
+  swift: YBRDYESA501
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "HODEIDA"
+  branch: HODEIDAH BRANCH
+  swift: YBRDYESA401
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "HODEIDA"
+  branch: SANAA STREET BRANCH
+  swift: YBRDYESA403
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "IBB"
+  branch: IBB BRANCH
+  swift: YBRDYESA301
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "MUKALLA"
+  branch: MUKLLA BRANCH
+  swift: YBRDYESA603
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "SANAA"
+  branch: ABDULMOGHNI BRANCH
+  swift: YBRDYESA105
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "SANAA"
+  branch: HADDAH BRANCH
+  swift: YBRDYESA111
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "SANAA"
+  branch: IMMIGRANTS BRANCH
+  swift: YBRDYESA107
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "SANAA"
+  branch: ISB BRANCH
+  swift: YBRDYESAI00
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "SANAA"
+  branch: ISB SANAA OFFICE
+  swift: YBRDYESAS00
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "SANAA"
+  branch: SANAA BRANCH
+  swift: YBRDYESA101
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "SANAA"
+  branch: ZUBAIRI BRANCH
+  swift: YBRDYESA103
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "SANAA"
+  branch: null
+  swift: YBRDYESA
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "TAIZZ"
+  branch: 26TH SEPTEMBER BRANCH
+  swift: YBRDYESA203
+    
+- name: "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT"
+  city: "TAIZZ"
+  branch: TAIZ BRANCH
+  swift: YBRDYESA201
+    
+- name: "YEMEN COMMERCIAL BANK"
+  city: "SANAA"
+  branch: null
+  swift: YECOYESA
+    
+- name: "YEMEN GULF BANK"
+  city: "SANAA"
+  branch: null
+  swift: YGBKYES1
+    
+- name: "YEMEN KUWAIT BANK FOR TRADE AND INVESTMENT Y.S.C., THE"
+  city: "SANAA"
+  branch: null
+  swift: YKBAYESA
+    
+- name: "YEMEN LNG COMPANY LTD."
+  city: "SANAA"
+  branch: null
+  swift: YELNYES1
+    

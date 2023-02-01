@@ -1,0 +1,135 @@
+- name: "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SALVADOR (COMEDICA DE R.L.)"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: ACATSVS1
+    
+- name: "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO VICENTINA DE R.L. ACCOVI DE R.L."
+  city: "SAN VICENTE"
+  branch: null
+  swift: ACHESVS1
+    
+- name: "BANCO AGRICOLA, S.A."
+  city: "SAN SALVADOR"
+  branch: null
+  swift: CAGRSVSS
+    
+- name: "BANCO AZUL DE EL SALVADOR, SOCIEDAD ANONIMA"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: AZULSVSS
+    
+- name: "BANCO CENTRAL DE RESERVA DE EL SALVADOR"
+  city: "SAN SALVADOR"
+  branch: GERENCIA DE TESORERIA
+  swift: CENRSVSSGTE
+    
+- name: "BANCO CENTRAL DE RESERVA DE EL SALVADOR"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: CENRSVSS
+    
+- name: "BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: BCIESVS1
+    
+- name: "BANCO CUSCATLAN DE EL SALVADOR S.A."
+  city: "SAN SALVADOR"
+  branch: NOSTRO ACCOUNT
+  swift: BACUSVSSNOS
+    
+- name: "BANCO CUSCATLAN DE EL SALVADOR S.A."
+  city: "SAN SALVADOR"
+  branch: null
+  swift: BACUSVSS
+    
+- name: "BANCO DAVIVIENDA SALVADORENO SA"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: BSALSVSS
+    
+- name: "BANCO DE AMERICA CENTRAL, S.A."
+  city: "SAN SALVADOR"
+  branch: null
+  swift: BAMCSVSS
+    
+- name: "BANCO DE CREDITO POPULAR S.A."
+  city: "SAN SALVADOR"
+  branch: null
+  swift: POPCSVS1
+    
+- name: "BANCO DE FOMENTO AGROPECUARIO"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: FOAGSVSS
+    
+- name: "BANCO G AND T CONTINENTAL EL SALVADOR"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: GTCSSVSS
+    
+- name: "BANCO HIPOTECARIO DE EL SALVADOR S.A."
+  city: "SAN SALVADOR"
+  branch: null
+  swift: BHSASVSS
+    
+- name: "BANCO INDUSTRIAL EL SALVADOR, S.A."
+  city: "SAN SALVADOR"
+  branch: null
+  swift: INDLSVSS
+    
+- name: "BANCO PROCREDIT, S.A."
+  city: "SAN SALVADOR"
+  branch: null
+  swift: PRCBSVSS
+    
+- name: "BANCO PROMERICA, S.A."
+  city: "ANTIGUO CUSCATLAN"
+  branch: null
+  swift: BPRASVSS
+    
+- name: "CENTRAL DE DEPOSITO DE VALORES DE EL SALVADOR SA DE CV"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: CDVSSVS1
+    
+- name: "CITIBANK, N.A"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: CITISVS1
+    
+- name: "FEDECREDITO DE CV"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: FEDRSVS1
+    
+- name: "FITCH CENTROAMERICA (EL SALVADOR BRANCH OF PANAMANIAN ENTITY)"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: FRIPSVS1
+    
+- name: "MULTI INVERSIONES BANCO COOPERATIVO DE LOS TRABAJADORES S.C. DE R.L. DE C.V."
+  city: "SAN SALVADOR"
+  branch: null
+  swift: MICJSVS1
+    
+- name: "PRIMER BANCO DE LOS TRABAJADORES SOC. COOP. DE R.L. DE C.V."
+  city: "SAN SALVADOR"
+  branch: null
+  swift: PBTRSVS1
+    
+- name: "SCOTIABANK EL SALVADOR, S.A."
+  city: "SAN SALVADOR"
+  branch: null
+  swift: BCSASVSS
+    
+- name: "SOCIEDAD DE AHORRO Y CREDITO CONSTELACION, S.A."
+  city: "LA LIBERTAD"
+  branch: null
+  swift: SADTSV21
+    
+- name: "SOCIEDAD DE AHORRO Y CREDITO MULTIVALORES"
+  city: "SAN SALVADOR"
+  branch: null
+  swift: SADISVS1
+    

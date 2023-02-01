@@ -1,0 +1,5255 @@
+- name: "3 CAPITAL TRADING (LUXEMBOURG) SARL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CTLSLUL1
+    
+- name: "ABLV BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ABLVLULL
+    
+- name: "ABN AMRO BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ABNALU2A
+    
+- name: "ACCOR HOTELS LUXEMBOURG S.A."
+  city: "LIVANGE"
+  branch: null
+  swift: AHLULUL2
+    
+- name: "ACM FUND SERVICES S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ACMFLUL1
+    
+- name: "AD SICAV"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SIVALUL1
+    
+- name: "ADVANZIA BANK S.A."
+  city: "MUNSBACH"
+  branch: null
+  swift: ADVZLULL
+    
+- name: "AETNA INTERNATIONAL GLOBAL INVESTMENT SERVICES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AIGNLUL1
+    
+- name: "AGRICULTURAL BANK OF CHINA (LUXEMBOURG) BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ABOCLULB
+    
+- name: "AGRICULTURAL BANK OF CHINA (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ABOCLULL
+    
+- name: "AISM LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AILULUL1
+    
+- name: "ALCEDA FUND MANAGEMENT S.A"
+  city: "SENNINGERBERG"
+  branch: null
+  swift: ALUALUL1
+    
+- name: "ALL TRADING COFIDEM LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ATCLLUL1
+    
+- name: "ALLEGRO S.A R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ALLOLUL1
+    
+- name: "ALLFUNDS BANK INTERNATIONAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ALLFLULL
+    
+- name: "ALPHA ONE SICAV-FIS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ALOVLUL1
+    
+- name: "ALPHA WEALTH MANAGEMENT LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AWMULUL1
+    
+- name: "AMAZON PAYMENTS EUROPE S.C.A"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AEUSLUL1
+    
+- name: "ANDBANK ASSET MANAGEMENT LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AAMALULL
+    
+- name: "ANDBANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BACALULL
+    
+- name: "ANOA CAPITAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ANCILUL1
+    
+- name: "ANPHIKO ASSET MANAGEMENT S.A."
+  city: "CAPELLEN"
+  branch: null
+  swift: ANANLULL
+    
+- name: "APERAM TREASURY SCA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: APAMLULL
+    
+- name: "APEX FUNDS SERVICES LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AFSXLUL1
+    
+- name: "ARBITRAGE CHANGE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ARBILUL1
+    
+- name: "ARCELORMITTAL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: USINLUL1
+    
+- name: "ARGENTABANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ARLULUL1
+    
+- name: "ARPEGGIO INVESTMENT CORPORATION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SCBALUL1
+    
+- name: "AS EXPOBANK LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EXPOLULL
+    
+- name: "ASPECTA ASSURANCE INTERNATIONAL LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AAILLUL1
+    
+- name: "ASSOCIATION COOPERATIVE FINANCIERE DES FONCTIONNAIRES INTERNATIONAUX (AMFIE)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AMFELULL
+    
+- name: "ASSOCIATION DES BANQUES ET BANQUIERS, LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LBBALUL1
+    
+- name: "ASSYA ASSET MANAGEMENT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ASENLUL1
+    
+- name: "ATAG ASSET MANAGEMENT (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AAMLLUL1
+    
+- name: "ATAG GESTION DE FORTUNE (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ATAGLUL1
+    
+- name: "ATEL DERIVATIVES S.A.R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ATDSLUL1
+    
+- name: "ATLANTICLUX LEBENSVERSICHERUNG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ATLELUL1
+    
+- name: "ATTRAX S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ATRXLULL
+    
+- name: "AUDI LUXEMBURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AULXLUL1
+    
+- name: "AUREA FINANCE COMPANY"
+  city: "STEINSEL"
+  branch: null
+  swift: AUFILUL1
+    
+- name: "AVATRADE LUXEMBOURG S.A.R.L"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AVLSLUL1
+    
+- name: "AXA ASSURANCE VIE LUXEMBOURG SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AAVULUL1
+    
+- name: "AZ EURO INVESTMENTS S.A.R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AZEULULL
+    
+- name: "AZ FUND MANAGEMENT SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AZFMLU21
+    
+- name: "AZ FUND MANAGEMENT SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AZFMLULL
+    
+- name: "BANCA MARCH, S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BMARLU2M
+    
+- name: "BANCA POPOLARE DELL'EMILIA ROMAGNA (EUROPE) INTERNATIONAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BPMOLULS
+    
+- name: "BANCO BRADESCO EUROPA S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BBDELULL
+    
+- name: "BANCO BTG PACTUAL LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BTGSLUL1
+    
+- name: "BANCO BTG PACTUAL SA LUXEMBOURG BRA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BTGBLULL
+    
+- name: "BANK GPB INTERNATIONAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GAZPLULL
+    
+- name: "BANK JULIUS BAER LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BAERLULU
+    
+- name: "BANK OF CHINA (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BKCHLULA
+    
+- name: "BANK OF CHINA, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BKCHLULL
+    
+- name: "BANK OF COMMUNICATIONS (LUXEMBOURG)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: COMMLULL
+    
+- name: "BANK OF COMMUNICATIONS CO., LTD. LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: COMMLULX
+    
+- name: "BANKINTER LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BKBKLULL
+    
+- name: "BANQUE BCP, S.A."
+  city: "BERTRANGE"
+  branch: null
+  swift: BMECLULL
+    
+- name: "BANQUE CARNEGIE LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: INVESTMENT FUNDS
+  swift: CARNLULLCFS
+    
+- name: "BANQUE CARNEGIE LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CARNLULL
+    
+- name: "BANQUE CENTRALE DU LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: ANCILLIARY SYSTEM PAYMENT
+  swift: BCLXLULLASP
+    
+- name: "BANQUE CENTRALE DU LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: TRIPARTY DOMESTIC
+  swift: BCLXLULLTP1
+    
+- name: "BANQUE CENTRALE DU LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BCLXLULL
+    
+- name: "BANQUE CENTRALE DU LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BCLXLULLTP2
+    
+- name: "BANQUE DE COMMERCE ET DE PLACEMENTS S.A. SUCCURSALE DE LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BPCPLULL
+    
+- name: "BANQUE DE LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BLUXLULL
+    
+- name: "BANQUE DE LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BLUXLULL590
+    
+- name: "BANQUE DE PATRIMOINES PRIVES"
+  city: "LUXEMBOURG"
+  branch: RECEPTION OF INVESTORS ORDERS IN THE FUNDS ADMINISTRATED BY BPP
+  swift: BBPPLULL100
+    
+- name: "BANQUE DE PATRIMOINES PRIVES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BBPPLULL
+    
+- name: "BANQUE DEGROOF PETERCAM LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: DEPT OPC
+  swift: DEGRLULLOPC
+    
+- name: "BANQUE DEGROOF PETERCAM LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: DPAS (BRANCH)
+  swift: DEGRLULLDPA
+    
+- name: "BANQUE DEGROOF PETERCAM LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DEGRLULL
+    
+- name: "BANQUE DEGROOF PETERCAM LUXEMBOURG S.A. (FORMERLY PETERCAM(LUXEMBOURG) S.A.)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PECSLULX
+    
+- name: "BANQUE ET CAISSE D'EPARGNE DE L'ETAT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BCEELULL
+    
+- name: "BANQUE EUROPEENNE D'INVESTISSEMENT- BEI/EIB"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BEILLULL
+    
+- name: "BANQUE EUROPEENNE D'INVESTISSEMENT- BEI/EIB"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BEILLULLLCH
+    
+- name: "BANQUE HAPOALIM (LUXEMBOURG) S.A"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: POALLUL2
+    
+- name: "BANQUE HAPOALIM (SUISSE) SA SUCCURSALE DE LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: POALLULL
+    
+- name: "BANQUE HAVILLAND S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HAVLLULL
+    
+- name: "BANQUE INTERNATIONALE A LUXEMBOURG SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BILLLULL
+    
+- name: "BANQUE LBLUX S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BYLALUL1
+    
+- name: "BANQUE PUILAETCO DEWAAY LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PULALULL
+    
+- name: "BANQUE RAIFFEISEN"
+  city: "LEUDELANGE"
+  branch: null
+  swift: CCRALULL
+    
+- name: "BANQUE TRANSATLANTIQUE (CM-CIC GROUP)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CMCILUL1
+    
+- name: "BAUSPARKASSE, GEMEINSCHAFT DER FREUNDE WUESTENROT GEMEINNUETZIGE GMBH LUDWIGSBURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BGFWLUL1
+    
+- name: "BBG LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BBGULUS1
+    
+- name: "BBL TRUST SERVICES LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BTSLLUL1
+    
+- name: "BEARBULL (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BEBULUL1
+    
+- name: "BEAUCHAMPS WALTON"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PLETLUL1
+    
+- name: "BEMO EUROPE BANQUE PRIVEE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BEMOLULL
+    
+- name: "BGL BNP PARIBAS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BGLLLULL
+    
+- name: "BGL BNP PARIBAS (GLOBAL EQUITIES AND COMMODITY DERIVATIVES)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BGLLLULG
+    
+- name: "BGL-MEESPIERSON TRUST (LUXEMBOURG) SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GENLLUL1
+    
+- name: "BHW ALLGEMEINE BAUSPARKASSE AG, NIEDERLASSUNG LUXEMBURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BHAHLUL1
+    
+- name: "BISYS INVESTMENT SERVICES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BSYSLUL1
+    
+- name: "BNP PARIBAS LEASING SOLUTIONS S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LSHLLULL
+    
+- name: "BNP PARIBAS PERSONAL INVESTORS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BPPVLUL1
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: BNP PARIBAS SECURITIES SERVICES, TAX PIVOT RECONCILIATION
+  swift: PARBLULLITT
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: GLOBAL CUSTODY
+  swift: PARBLULLISI
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: GTP LUXEMBOURG
+  swift: PARBLULLGTP
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG DEPOSITARY AND FIDUCIARY SERVICES
+  swift: PARBLULLDFS
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21000
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21001
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21002
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21003
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21004
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21005
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21006
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21007
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21008
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21009
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21010
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21011
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21012
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21013
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21014
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21015
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21016
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21017
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21018
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21019
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21020
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21021
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21022
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21023
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21024
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21025
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21026
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21027
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21028
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21029
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21030
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21031
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21032
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21033
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21034
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21035
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21036
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21037
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21038
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21039
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21040
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21041
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21042
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21043
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21044
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21045
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21046
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21047
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21048
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21049
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21050
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21051
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21052
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21053
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21054
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21055
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21056
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21057
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21058
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21059
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21060
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21061
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21062
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21063
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21064
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21065
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21066
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21067
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21068
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21069
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21070
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21071
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21072
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21073
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21074
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21075
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21076
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21077
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21078
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21079
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21080
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21081
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21082
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21083
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21084
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21085
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21086
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21087
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21088
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21089
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21090
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21091
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21092
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21093
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21094
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21095
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21096
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21097
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21098
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21099
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21100
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21101
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21102
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21103
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21104
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21105
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21106
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21107
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21108
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21109
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21110
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21111
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21112
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21113
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21114
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21115
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21116
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21117
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21118
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21119
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21120
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21121
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21122
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21123
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21124
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21125
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21126
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21127
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21128
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21129
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21130
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21131
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21132
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21133
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21134
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21135
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21136
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21137
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21138
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21139
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21140
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21141
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21142
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21143
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21144
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21145
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21146
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21147
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21148
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21149
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21150
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21151
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21152
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21153
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21154
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21155
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21156
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21157
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21158
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21159
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21160
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21161
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21162
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21163
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21164
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21165
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21166
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21167
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21168
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21169
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21170
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21171
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21172
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21173
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21174
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21175
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21176
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21177
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21178
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21179
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21180
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21181
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21182
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21183
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21184
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG
+  swift: PARBLU21185
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: PRIVATE EQUITY AND REAL ESTATE
+  swift: PARBLULLPER
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: SECURITIES SERVICES
+  swift: PARBLULLDUB
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: SECURITIES SERVICES
+  swift: PARBLULLFFY
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PARBLU21
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PARBLU21RCM
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PARBLULL
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PARBLULLFDA
+    
+- name: "BNP PARIBAS, SUCCURSALE DE LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BNPALULS
+    
+- name: "BONNIER TREASURY S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BOTELUL1
+    
+- name: "BROWN BROTHERS HARRIMAN (LUXEMBOURG) S.C.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BBHCLULL
+    
+- name: "BUNT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BUNTLULL
+    
+- name: "CA INDOSUEZ WEALTH (EUROPE)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AGRILULA
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: CACEIS DUBLIN
+  swift: BSUILULLDUB
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: CACEIS NORTH AMERICA
+  swift: BSUILULLCNA
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: COMET ORDER
+  swift: BSUILULLCOR
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: CUSTODIAN BANK
+  swift: BSUILULLCUS
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: FASTNET DERIVATIVES
+  swift: FNETLULLOTC
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: FASTNET PRESETTLEMENT
+  swift: FNETLULLCMP
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: FUND ADMINISTRATION TAX REGISTRAR
+  swift: FNETLULLFND
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: FUND ADMINISTRATION
+  swift: BSUILULLADM
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: FUND PROCESSING
+  swift: BSUILULLPRF
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: FUNDS OF FUNDS
+  swift: BSUILULLFOF
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: FUNDS RECONCILIATION
+  swift: BSUILULLFTM
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: PRIME TA ACTIVITY
+  swift: FNETLULLPTA
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: REGISTRAR
+  swift: BSUILULLFND
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: SERVICE REGISTRE
+  swift: BSUILULLREG
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BSUILULL
+    
+- name: "CACEIS BANK, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FNETLULL
+    
+- name: "CAIXA GERAL DE DEPOSITOS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CGDILUL1
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: ABERDEEN ASSET MANAGEMENT
+  swift: CLAOLU2LAAM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: AJ BELL
+  swift: CLAOLU2LAJB
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: ALGEBRIS
+  swift: CLAOLU2LAGR
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: ALICO ISLE OF MAN
+  swift: CLAOLU2LAIM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: AMADEUS CAPITAL
+  swift: CLAOLU2LAMC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: ARTEMIS
+  swift: CLAOLU2LART
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: AVIVA INVESTOR
+  swift: CLAOLU2LAVI
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: AXA MONTEPASCHI
+  swift: CLAOLU2LAXM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: AXA UK
+  swift: CLAOLU2LAXF
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: AZ LIFE
+  swift: CLAOLU2LAZL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: BANOR
+  swift: CLAOLU2LBAN
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: BLACKROCK UK
+  swift: CLAOLU2LBLA
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: BNY MELLON INVESTMENT
+  swift: CLAOLU2LBNY
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: BREWIN DOLPHIN
+  swift: CLAOLU2LBRW
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA ABRED LUX
+  swift: CLAOLU2LABL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2
+  swift: CLAOLU2LASH
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2
+  swift: CLAOLU2LFAC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2
+  swift: CLAOLU2LHDD
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2
+  swift: CLAOLU2LPIO
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2
+  swift: CLAOLU2LREN
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2
+  swift: CLAOLU2LRTH
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2
+  swift: CLAOLU2LSEB
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2
+  swift: CLAOLU2LSSL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2ABERDEEASSETMANAGEMENTDEALINGDESKDEPT
+  swift: CLAOLU2LADD
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2ALLNZ
+  swift: CLAOLU2LALU
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2AVIVA
+  swift: CLAOLU2LAVW
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2AXW
+  swift: CLAOLU2LAXW
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2AXZ
+  swift: CLAOLU2LAXZ
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2BLACKROCKLUX
+  swift: CLAOLU2LBLK
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2BLI
+  swift: CLAOLU2LBLI
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2CDD
+  swift: CLAOLU2LCDD
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2CFT
+  swift: CLAOLU2LCFT
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2CGW
+  swift: CLAOLU2LCGW
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2CLIENT
+  swift: CLAOLU2LBOF
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2CLIENT
+  swift: CLAOLU2LBON
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2CLIENT
+  swift: CLAOLU2LWDB
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2COM
+  swift: CLAOLU2LCOM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2DALTONSP
+  swift: CLAOLU2LDSP
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2DBU
+  swift: CLAOLU2LDBU
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2DBV
+  swift: CLAOLU2LDBV
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA-2-DISTINCTION
+  swift: CLAOLU2LDST
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2DZ
+  swift: CLAOLU2LDZB
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2EFA
+  swift: CLAOLU2LEFA
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2EFG
+  swift: CLAOLU2LEFG
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2FAREASTERN
+  swift: CLAOLU2LFEB
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2FSL
+  swift: CLAOLU2LFSL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2GOL
+  swift: CLAOLU2LGOL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2HHL
+  swift: CLAOLU2LHHL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2HIF
+  swift: CLAOLU2LHIF
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2IGL
+  swift: CLAOLU2LIGL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2IUP
+  swift: CLAOLU2LIUP
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2JHP
+  swift: CLAOLU2LJHP
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2JPMORGANCHASEFORSS
+  swift: CLAOLU2LJPA
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2MANDGLUX
+  swift: CLAOLU2LMGL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2MANULIFELUX
+  swift: CLAOLU2LMNL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2MBK
+  swift: CLAOLU2LMBK
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2MIR
+  swift: CLAOLU2LMIR
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2MLB
+  swift: CLAOLU2LMLB
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2NOV
+  swift: CLAOLU2LNOV
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2OMAMUK
+  swift: CLAOLU2LOMM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2PGD
+  swift: CLAOLU2LPGD
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2PICTETPAS
+  swift: CLAOLU2LPAS
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2PIN
+  swift: CLAOLU2LPIN
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2RLU
+  swift: CLAOLU2LRLU
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2ROB
+  swift: CLAOLU2LROB
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2ROYALSKANDIASINGAPORE
+  swift: CLAOLU2LRSK
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2RWC
+  swift: CLAOLU2LRWC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2SBJ
+  swift: CLAOLU2LSBJ
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2SEMPERCONSTANTIA
+  swift: CLAOLU2LSPC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2SKANDIA
+  swift: CLAOLU2LSKA
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2SPS
+  swift: CLAOLU2LSPS
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2SSG
+  swift: CLAOLU2LSSG
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2STATESTREET
+  swift: CLAOLU2LSTS
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2THREADNEEDLEUK
+  swift: CLAOLU2LTHR
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2WAS
+  swift: CLAOLU2LWAS
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA2ZURICHFINANCIALINV
+  swift: CLAOLU2LZFL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALAATR
+  swift: CLAOLU2LATR
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALABJS
+  swift: CLAOLU2LBJS
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALACDB
+  swift: CLAOLU2LCDB
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALACEG
+  swift: CLAOLU2LCEG
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALACLR
+  swift: CLAOLU2LCLR
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALAHLL
+  swift: CLAOLU2LHLL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALAKBL
+  swift: CLAOLU2LKBL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALAKSH
+  swift: CLAOLU2LKSH
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALALGI
+  swift: CLAOLU2LLGI
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALA-LU-PROFONDOS
+  swift: CLAOLU2LPRF
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALAMAM
+  swift: CLAOLU2LMAM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALAMYT
+  swift: CLAOLU2LMYT
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALAPLD
+  swift: CLAOLU2LPLD
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALASTONE - CGL
+  swift: CLAOLU2LCGL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALASTONE-CWH
+  swift: CLAOLU2LCWH
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALATIM
+  swift: CLAOLU2LTIM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALATRA
+  swift: CLAOLU2LTRA
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CALAWCR
+  swift: CLAOLU2LWCR
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CAZENOVE
+  swift: CLAOLU2LCAZ
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF ECLECTICA
+  swift: CLAOLU2LCEC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF LINDSELL TRAIN
+  swift: CLAOLU2LCLI
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF MIDAS
+  swift: CLAOLU2LCMI
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF MITON
+  swift: CLAOLU2LMIT
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF MORANT WRGHT
+  swift: CLAOLU2LCHW
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF NEPTUNE
+  swift: CLAOLU2LCNE
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF OCTOPUS
+  swift: CLAOLU2LCOC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF ODEY
+  swift: CLAOLU2LCOD
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF RUFFER
+  swift: CLAOLU2LCRF
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF SEVEN INVESTMENT MANAGEMENT
+  swift: CLAOLU2LSVN
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF TROJAN
+  swift: CLAOLU2LCTR
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CF WALKER CRIPS
+  swift: CLAOLU2LCWC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: COFUNDS
+  swift: CLAOLU2LCOF
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: CONSEQ
+  swift: CLAOLU2LCEQ
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: COUTTS
+  swift: CLAOLU2LCOU
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: DEUTSCHE PWM
+  swift: CLAOLU2LDEU
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: DIMENSIONAL ONSHORE
+  swift: CLAOLU2LDON
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: DWP
+  swift: CLAOLU2LDWP
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: ECCLESIASTICAL
+  swift: CLAOLU2LECC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: F AND C
+  swift: CLAOLU2LFNC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: FIDELITY
+  swift: CLAOLU2LFID
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: FIRST STATE INVESTMENTS UK IE
+  swift: CLAOLU2LFIE
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: FIRST STATE UK
+  swift: CLAOLU2LFSF
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: FRANKLIN TEMPLETON UK
+  swift: CLAOLU2LFLN
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: FUNDIX
+  swift: CLAOLU2LFUX
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: FUNDQUEST
+  swift: CLAOLU2LFUQ
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: GLG PARTNERS OFFSHORE
+  swift: CLAOLU2LGOS
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: GLG PARTNERS
+  swift: CLAOLU2LGLG
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: HARGREAVES LANSDOWN
+  swift: CLAOLU2LHGR
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: HENDERSON LUXEMBOURG
+  swift: CLAOLU2LHLU
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: INTERNATIONAL FUND SERVICES AND ASSET MANAGEMENT
+  swift: CLAOLU2LIFS
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: INVESCO
+  swift: CLAOLU2LINV
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: INVESTEC
+  swift: CLAOLU2LITC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: IPSI FUND PROVIDER
+  swift: CLAOLU2LIPS
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: JM FINN
+  swift: CLAOLU2LJMF
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: JP MORGAN
+  swift: CLAOLU2LJPM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: JUPITER LUX
+  swift: CLAOLU2LJPL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: JUPITER
+  swift: CLAOLU2LJUP
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: KAMES CAPITAL
+  swift: CLAOLU2LKAM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: LEGAL AND GENERAL
+  swift: CLAOLU2LLNG
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: M AND G
+  swift: CLAOLU2LMAG
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: MANULIFE
+  swift: CLAOLU2LMAN
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: MARLBOROUGH
+  swift: CLAOLU2LMAL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: NEPTUNE INVESTMENT
+  swift: CLAOLU2LNEP
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: NNEK
+  swift: CLAOLU2LNNK
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: NUCLEUS
+  swift: CLAOLU2LNUC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: OCTOPUS
+  swift: CLAOLU2LOCT
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: OLD MUTUAL
+  swift: CLAOLU2LOLD
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: PARMENION CAPITAL PARTNERS
+  swift: CLAOLU2LPCP
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: PERSHING
+  swift: CLAOLU2LPER
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: PFS SOMERSET
+  swift: CLAOLU2LSOM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: PFS TWENTY FOUR
+  swift: CLAOLU2LTWE
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: PLATFORM SECURITIES LLP
+  swift: CLAOLU2LTDW
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: PREMIER PORTFOLIO FUNDS
+  swift: CLAOLU2LPPF
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: QUILTER
+  swift: CLAOLU2LQUT
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: RATHBONE UNIT TRUST MANAGERS
+  swift: CLAOLU2LRAT
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: RAYMOND JAMES
+  swift: CLAOLU2LRAJ
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: RBC DEXIA LUXEMBOURG
+  swift: CLAOLU2LRDL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: REDMAYNE BENTLEY
+  swift: CLAOLU2LRED
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: RIVER AND MERCANTILE
+  swift: CLAOLU2LRMT
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: ROYAL LONDON
+  swift: CLAOLU2LROY
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: SARASIN AND PARTNERS LLP
+  swift: CLAOLU2LSSN
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: SARASIN
+  swift: CLAOLU2LSAR
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: SC DAVIES
+  swift: CLAOLU2LSCD
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: SCOTTISH WIDOWS
+  swift: CLAOLU2LSWP
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: SGL
+  swift: CLAOLU2LSOC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: SMITH AND WILLIAMSON
+  swift: CLAOLU2LSMW
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: SSAUS
+  swift: CLAOLU2LSSA
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: STANDARD LIFE
+  swift: CLAOLU2LSTN
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: SWISSQUOTE
+  swift: CLAOLU2LSQN
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: SWISSQUOTE
+  swift: CLAOLU2LSQT
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: TAYLOR FUNDS
+  swift: CLAOLU2LTAY
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: WAVERTON DEALING DESK
+  swift: CLAOLU2LWDD
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: WILLIAM BLAIR (FUND PROVIDER)
+  swift: CLAOLU2LCFM
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2L
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LAIO
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LALE
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LBNP
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LCTF
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LCTW
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LHAW
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LHEN
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LLIO
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LLOG
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LNOR
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LPIC
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LSAD
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LSCH
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LSCL
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LSCZ
+    
+- name: "CALASTONE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLAOLU2LTBY
+    
+- name: "CALI EUROPE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: AGRHLUL1
+    
+- name: "CANDRIAM LUXEMBOURG SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DXAMLULL
+    
+- name: "CAP GEMINI LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CAPALUL1
+    
+- name: "CAPITAL AND WORK INTERNATIONAL"
+  city: "STRASSEN"
+  branch: null
+  swift: CAWNLUS1
+    
+- name: "CAPITAL MANAGEMENT S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CAMALUL1
+    
+- name: "CAPITALAT WORK FOYER GROUP S.A."
+  city: "LEUDELANGE"
+  branch: null
+  swift: FAMLLULL
+    
+- name: "CARDIF LUX INTERNATIONAL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CLUILUL1
+    
+- name: "CARDIF LUX VIE"
+  city: "LUXEMBOURG"
+  branch: SPECIFIC BRANCH 1
+  swift: FTSILULLINT
+    
+- name: "CARDIF LUX VIE"
+  city: "LUXEMBOURG"
+  branch: SPECIFIC BRANCH 2
+  swift: FTSILULLEXT
+    
+- name: "CARDIF LUX VIE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FTSILULL
+    
+- name: "CAREY"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CARYLUL1
+    
+- name: "CARL KLIEM SA, LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CAKXLUL1
+    
+- name: "CASA 4 FUNDS LUXEMBOURG EUROPEAN ASSET MANAGEMENT SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CFLELUL1
+    
+- name: "CATELLA BANK S.A."
+  city: "CAPELLEN"
+  branch: null
+  swift: INVKLULL
+    
+- name: "CBP QUILVEST S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CBPXLULL
+    
+- name: "CDC GMBH SUCCURSALE DE LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CDCFLUL1
+    
+- name: "CEP IV INVESTMENT 10 S.A.R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NPAKLULL
+    
+- name: "CF FUND SERVICES S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CFFULUL1
+    
+- name: "CHINA CONSTRUCTION BANK (EUROPE) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PCBCLULL
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PCBCLULX
+    
+- name: "CHINA EVERBRIGHT BANK (EUROPE) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EVERLULX
+    
+- name: "CHINA EVERBRIGHT BANK COMPANY LIMITED, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EVERLULL
+    
+- name: "CHINA MERCHANTS BANK CO., LIMITED LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CMBCLULL
+    
+- name: "CIGOGNE MANAGEMENT S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CIGALUL1
+    
+- name: "CITCO BANK NEDERLAND NV, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CITCLULL
+    
+- name: "CITIBANK EUROPE PLC LUXEMBOURG BRANCH"
+  city: "BERTRANGE"
+  branch: null
+  swift: CITILULX
+    
+- name: "CITIBANK EUROPE PLC LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: CITIBANK LUXEMBOURG EMFX CONFIRMATIONS
+  swift: CITILULXEFX
+    
+- name: "CITIBANK EUROPE PLC LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: FUNDS ADMINISTRATION TRANSFER AGENCY DEPARTMENT
+  swift: CITILUL2CAM
+    
+- name: "CITIBANK EUROPE PLC LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: GLOBAL FINANCE - BD. MARIE-THERESE
+  swift: CITILULXGFL
+    
+- name: "CITIBANK EUROPE PLC LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: PRIVATE BANKING GROUP/IPB
+  swift: CITILULXLUX
+    
+- name: "CITIGROUP GLOBAL MARKETS LUXEMBOURG SARL"
+  city: "BERTRANGE"
+  branch: null
+  swift: CGMXLUL1
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: CLEARSTREAM BANKING COMMON SAFEKEEPER
+  swift: CEDELULLCSK
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: SPECIFIC CASH MANAGEMENT
+  swift: CEDELULLDST
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CEDELULL
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CEDELULLACF
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CEDELULLCPI
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CEDELULLERF
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CEDELULLLGT
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CEDELULLLHB
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CEDELULLLHC
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CEDELULLLOM
+    
+- name: "CLEARSTREAM BANKING S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CEDELULLOAS
+    
+- name: "CMI ASSET MANAGEMENT (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CMIALUL1
+    
+- name: "CNH INDUSTRIAL FINANCE EUROPE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CNHELUL1
+    
+- name: "CODALUX S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CDLXLUL1
+    
+- name: "COMMERZBANK AG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: COBALULU
+    
+- name: "COMMERZBANK FINANCE AND COVERED BOND S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EEPKLULL
+    
+- name: "COMMISSION OF THE EUROPEAN COMMUNITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EUCOLULL
+    
+- name: "COMPAGNIE DE GESTION (LUXEMBOURG) S.A."
+  city: "STRASSEN"
+  branch: null
+  swift: COGLLUL1
+    
+- name: "COMPAGNIE FINANCIERE DE GESTION LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CFGLLUL1
+    
+- name: "COMPAGNIE FINANCIERE ET BOURSIERE LUXEMBOURGEOISE S.A. 'COFIBOL'"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CFBLLULL
+    
+- name: "COMPAGNIE FINANCIERE EUROPEENNE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ECFILUL1
+    
+- name: "COMPAGNIE INTERNATIONALE DE RENTES S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: COIRLUL1
+    
+- name: "COMPTOIR D'AGENTS DE CHANGE DU BENELUX S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CDCBLUL1
+    
+- name: "CONRAD HINRICH DONNER BANK, HAMBURG (ALLEMAGNE) SUCCURSALE DE LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CHDBLUL1
+    
+- name: "CQLT SAARGUMMI TECHNOLOGIES S.A.R.L"
+  city: "REMICH"
+  branch: null
+  swift: SGHQLULL
+    
+- name: "CREDEM INTERNATIONAL (LUX) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CRDMLULL
+    
+- name: "CREDIT AGRICOLE LUXEMBOURG MULTIGESTION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CAUILUL1
+    
+- name: "CREDIT SUISSE (LUXEMBOURG) S.A., PRIVATE BANKING"
+  city: "LUXEMBOURG"
+  branch: CENTER OF EXCELLENCE
+  swift: CRESLULLWRO
+    
+- name: "CREDIT SUISSE (LUXEMBOURG) S.A., PRIVATE BANKING"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CRESLULL
+    
+- name: "CREDIT SUISSE AG, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CRESLULX
+    
+- name: "CREDIT SUISSE FUND SERVICES (LUXEMBOURG) SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CSAMLULL
+    
+- name: "CREUTZ AND PARTNERS, GLOBAL ASSET MANAGEMENT"
+  city: "WEISWAMPACH"
+  branch: null
+  swift: CPGALUW1
+    
+- name: "DANIELI BANKING CORPORATION SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DAINLULL
+    
+- name: "DANSKE BANK INTERNATIONAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DABALULL
+    
+- name: "DEGROOF PORTABELLA S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GITFLUL1
+    
+- name: "DEKABANK DEUTSCHE GIROZENTRALE LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DGZFLULI
+    
+- name: "DEKABANK DEUTSCHE GIROZENTRALE SUCCURSALE DE LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DGZFLULL
+    
+- name: "DELEN PRIVATE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DELELULL
+    
+- name: "DEPFA PFANDBRIEF BANK INTERNATIONAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PBILLULL
+    
+- name: "DERIPARTNERS SICAV-SIF"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DEIVLUL1
+    
+- name: "DESTREM LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LUDELUL1
+    
+- name: "DEUTSCHE ASSET MANAGEMENT S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DEUTLU2D
+    
+- name: "DEUTSCHE BANK AG, FILIALE LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DEUTLULB
+    
+- name: "DEUTSCHE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: CORPORATE SERVICES DIVISION
+  swift: DEUTLULLCSD
+    
+- name: "DEUTSCHE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: GES BUSINESS
+  swift: DEUTLULLGES
+    
+- name: "DEUTSCHE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: INSURANCE BRANCH
+  swift: DEUTLULLDRE
+    
+- name: "DEUTSCHE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: INSURANCE BRANCH
+  swift: DEUTLULLPRI
+    
+- name: "DEUTSCHE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: INSURANCE BRANCH
+  swift: DEUTLULLVIT
+    
+- name: "DEUTSCHE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: INVESTMENT BRANCH
+  swift: DEUTLULLDWS
+    
+- name: "DEUTSCHE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: TARGET2
+  swift: DEUTLULLTG2
+    
+- name: "DEUTSCHE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DEUTLULL
+    
+- name: "DEUTSCHE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DEUTLULLCTA
+    
+- name: "DEUTSCHE HOLDINGS (LUXEMBOURG) SARL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DEUTLU2H
+    
+- name: "DEUTSCHE POSTBANK AG ZWEIGNIEDERLASSUNG LUXEMBURG (FORMERLY DEUTSCHE POSTBANK INTERNATIONAL S.A.)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PBNKLULL
+    
+- name: "DEWAAY LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DEWYLUL1
+    
+- name: "DIERICKX, LEYS LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DILLLUL1
+    
+- name: "DILLEN AND DE SCHAETZEN LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DELILUL1
+    
+- name: "DNB LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: UBNLLULL
+    
+- name: "DRIEGE AND WEGHSTEEN INTERNATIONAL LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DWILLUL1
+    
+- name: "DUEMME INT. LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DUIULU21
+    
+- name: "DYNASTY ASSET MANAGEMENT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DNAGLUL1
+    
+- name: "DZ PRIVATBANK S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GENOLULL
+    
+- name: "DZ PRIVATBANK S.A., LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GENOLULLIPC
+    
+- name: "E. OHMAN J:OR (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: OHMALUL1
+    
+- name: "E.S. WEALTH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: WELHLUL1
+    
+- name: "EASTNETS EUROPE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ESNTLULL
+    
+- name: "EAST-WEST UNITED BANK S.A"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EWUBLUL2
+    
+- name: "EAST-WEST UNITED BANK S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EWUBLULL
+    
+- name: "ECM REAL ESTATE INVESTMENTS A.G."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EREILUL1
+    
+- name: "EDMOND DE ROTHSCHILD (EUROPE)"
+  city: "LUXEMBOURG"
+  branch: EDRAM
+  swift: PRIBLULLRAM
+    
+- name: "EDMOND DE ROTHSCHILD (EUROPE)"
+  city: "LUXEMBOURG"
+  branch: FUND OF FUNDS
+  swift: PRIBLULBFOF
+    
+- name: "EDMOND DE ROTHSCHILD (EUROPE)"
+  city: "LUXEMBOURG"
+  branch: TRANSFER AGENCY
+  swift: PRIBLULLREG
+    
+- name: "EDMOND DE ROTHSCHILD (EUROPE)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PRIBLULB
+    
+- name: "EDMOND DE ROTHSCHILD (EUROPE)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PRIBLULL
+    
+- name: "EDMOND DE ROTHSCHILD (EUROPE)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PRIBLULLEUX
+    
+- name: "EDREAMS ODIGEO"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EDRELULL
+    
+- name: "EFG BANK LUXEMBOURG SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EFGBLULX
+    
+- name: "EIGER SECURITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EISPLUL1
+    
+- name: "EIGER SECURITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EISPLUL1LUX
+    
+- name: "ELECTRABEL FINANCE AND TREASURY MANAGEMENT (EFTM)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EFTMLUL1
+    
+- name: "ENIS SICAV"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ENSILUL1
+    
+- name: "EQUITY TRUST FUND SERVICES (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ETFSLUL1
+    
+- name: "ETHENEA INDEPENDENT INVESTORS S.A."
+  city: "MUNSBACH"
+  branch: null
+  swift: ETIILUL1
+    
+- name: "EURESA LIFE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EURLLUL1
+    
+- name: "EURIZON CAPITAL SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EUAILUL1
+    
+- name: "EURO FONDS SERVICE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EUFSLUL1
+    
+- name: "EUROBANK PRIVATE BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ERBKLULL
+    
+- name: "EUROFINANCIERE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EUFILUL1
+    
+- name: "EUROPAEISCHE GENOSSENSCHAFTSBANK S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EGBKLUL1
+    
+- name: "EUROPEAN FINANCIAL STABILITY FACILITY SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EFSFLULL
+    
+- name: "EUROPEAN FUND ADMINISTRATION S.A."
+  city: "LUXEMBOURG"
+  branch: ACCOUNTING DEPARTMENT
+  swift: EFALLULLACC
+    
+- name: "EUROPEAN FUND ADMINISTRATION S.A."
+  city: "LUXEMBOURG"
+  branch: FRA ENTITY
+  swift: EFALLULLFRA
+    
+- name: "EUROPEAN FUND ADMINISTRATION S.A."
+  city: "LUXEMBOURG"
+  branch: GLOBAL DISTRIBUTION SERVICES
+  swift: EFALLULLGDS
+    
+- name: "EUROPEAN FUND ADMINISTRATION S.A."
+  city: "LUXEMBOURG"
+  branch: TRANSFER AGENT DEPARTMENT
+  swift: EFALLULLTRF
+    
+- name: "EUROPEAN FUND ADMINISTRATION S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EFALLULL
+    
+- name: "EUROPEAN FUNDS SERVICES S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EFUSLUL1
+    
+- name: "EUROPEAN INVESTMENT FUND"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EIFLLULL
+    
+- name: "EUROPEAN INVESTMENT FUND - EIF"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EIFLLULB
+    
+- name: "EUROPEAN STABILITY MECHANISM"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ESMELULL
+    
+- name: "EVRAZ GROUP S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: EVRZLULL
+    
+- name: "FAMAR SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FAMRLULL
+    
+- name: "FARAD INVESTMENT ADVISOR S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FAIVLUL1
+    
+- name: "FAREVA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FAVALULL
+    
+- name: "FERRERO TRADING SA"
+  city: "SANDWEILER"
+  branch: null
+  swift: FERELUL1
+    
+- name: "FIA ASSET MANAGEMENT SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FIASLULL
+    
+- name: "FIAT CHRYSLER FINANCE EUROPE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FCFELUL1
+    
+- name: "FIDELITY INVESTMENTS LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FINLLUL1
+    
+- name: "FIDESSA ASSET MANAGEMENT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FDAMLUL1
+    
+- name: "FIDEURAM BANK (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FIBKLULL
+    
+- name: "FIL INVESTMENT MANAGEMENT (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FNMLLUL1
+    
+- name: "FINANCE ET CONSEIL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FACOLUL1
+    
+- name: "FINEXIS S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FIXELUL1
+    
+- name: "FINEXIS S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FIXELULL
+    
+- name: "FINEXIS S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FIXELULLNCH
+    
+- name: "FLEMING ASSET MANAGEMENT (LUXEMBOURG)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FLFMLUL1
+    
+- name: "FLOSSBACH VON STORCH INVEST S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GENOLUA1
+    
+- name: "FORTUNA BANQUE S.C."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FOTNLULL
+    
+- name: "FRANKLIN TEMPLETON INTERNATIONAL SERVICES S.A.R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FRIMLULL
+    
+- name: "FREIE INTERNATIONALE SPARKASSE S.A"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SBRELUL1
+    
+- name: "FUCHS ET ASSOCIES FINANCE SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUASLULL
+    
+- name: "FUND CHANNEL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FCHALULL
+    
+- name: "FUNDSQUARE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: XLUXLUL1
+    
+- name: "FUNDSQUARE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: XLUXLULB
+    
+- name: "GABELLI MERGER PLUS+ GCIA SA, SICAV-FIAR"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GMPGLUL1
+    
+- name: "GADD AND CIE LUXEMBOURG SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GALULUL1
+    
+- name: "GENERAL RE EUROPE LIMITED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GEERLUL1
+    
+- name: "GENERALI FUND MANAGEMENT LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GFMLLUL1
+    
+- name: "GENERALI LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GLUXLULL
+    
+- name: "GLENCORE FINANCE (EUROPE) SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GFEULUL1
+    
+- name: "GLOBAL EQUITY MANAGERS S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GLEMLUL1
+    
+- name: "GROSSBOETZL, SCHMITZ, LOMPARSKI AND PARTNER INTER NATIONAL S.A.R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GSLPLUL1
+    
+- name: "GROUP INDOSUEZ ADMINISTRATION COMPANY S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GIACLUL1
+    
+- name: "GROUPE INDOSUEZ FUNDS INVESTMENT SERVICES (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GIFILUL1
+    
+- name: "HARLOW MEYER SAVAGE (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HMSLLUL1
+    
+- name: "HAUCK AND AUFHAEUSER FUND PLATFORMS S.A."
+  city: "MUNSBACH"
+  branch: null
+  swift: SOPPLULX
+    
+- name: "HAUCK UND AUFHAEUSER PRIVATBANKIERS AG, NIEDERLASSUNG LUXEMBURG"
+  city: "MUNSBACH"
+  branch: null
+  swift: HAUKLULL
+    
+- name: "HAVAUX GESTION (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HVGLLUL1
+    
+- name: "HAVAUX GESTION DE FORTUNE (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HAVOLUL1
+    
+- name: "HEDGESERV (LUXEMBOURG) S.A.R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HELRLUL2
+    
+- name: "HMS LUX S.A."
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG BACKOFFICE
+  swift: HMLULUL1BKO
+    
+- name: "HMS LUX S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HMLULUL1
+    
+- name: "HOTTINGER ET CIE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HOTTLUL1
+    
+- name: "HOTTINGUER GESTION (LUXEMBOURG)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HOTGLUL1
+    
+- name: "HOUSE OF FINANCE INTERNATIONAL, THE(THOFI)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HOFILUL1
+    
+- name: "HSBC BANK PLC"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BBDALULX
+    
+- name: "HSBC BANK PLC"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HSBCLULL
+    
+- name: "HSBC PRIVATE BANK (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BLICLULX
+    
+- name: "HSH NORDBANK AG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HSHNLULB
+    
+- name: "HSH NORDBANK SECURITIES S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HSHNLULL
+    
+- name: "HTTS SIMBA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HTSILUL1
+    
+- name: "HYPO CAPITAL MANAGEMENT INVESTMENTGESELLSCHAFT LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HCMILUL1
+    
+- name: "IFS AM"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: IFSILUL1
+    
+- name: "IKB DEUTSCHE INDUSTRIEBANK AG (LUXEMBOURG)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: IKBDLUL1
+    
+- name: "IKB INTERNATIONAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: IKBDLUA1
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ICBKLULU
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, LIMITED, LUXEMBOURG BRANCH (RMB CLEARING BANK)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ICBKLULC
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD., LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ICBKLULL
+    
+- name: "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)"
+  city: "LUXEMBOURG"
+  branch: CUSTOMER TRANSFERT DEPARTMENT
+  swift: CELLLULLCTD
+    
+- name: "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)"
+  city: "LUXEMBOURG"
+  branch: GLOBAL SECURITIES DEPARTMENT
+  swift: CELLLULLGSD
+    
+- name: "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)"
+  city: "LUXEMBOURG"
+  branch: TREASURY DEPARTMENT
+  swift: CELLLULLTRD
+    
+- name: "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CELLLULL
+    
+- name: "INGRAM MICRO LUXEMBOURG SARL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: INGRLULL
+    
+- name: "INSINGER ASSET MANAGEMENT S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: IAMLLUL1
+    
+- name: "INTERFUND SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: INEFLUL1
+    
+- name: "INTERINVEST"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VESTLUL1
+    
+- name: "INTERLINK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: INLXLUL1
+    
+- name: "INTERNATIONAL FINANCIAL DATA SERVICES (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: IFDELUL1
+    
+- name: "INTERNAXX BANK S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: INRXLUL1
+    
+- name: "INTERNAXX BANK S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: TDWLLULL
+    
+- name: "INTESA SANPAOLO BANK LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SEBKLULL
+    
+- name: "INTLUX S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: INTXLUL1
+    
+- name: "INVESTOR LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: INLULUL1
+    
+- name: "IWI INTERNATIONAL WEALTH INSURER"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DXLPLULL
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: INTERNATIONAL FUND SICAV BRANCH
+  swift: CHASLULAIFS
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG TRANSFER AGENCY
+  swift: CHASLULABBH
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASLULXENQ
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASLULXKEY
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CHASLULA
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CHASLULAMLM
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "SENNINGERBERG"
+  branch: CFS PRODUCT SPECIFIC
+  swift: CHASLULXGST
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "SENNINGERBERG"
+  branch: JPM CORPORATE TREASURY
+  swift: CHASLULXLUX
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "SENNINGERBERG"
+  branch: null
+  swift: CHASLU31
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "SENNINGERBERG"
+  branch: null
+  swift: CHASLULX
+    
+- name: "J.P. MORGAN BANK LUXEMBOURG S.A."
+  city: "SENNINGERBERG"
+  branch: null
+  swift: CHASLULXCTE
+    
+- name: "JOH. BERENBERG, GOSSLER AND CO."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BEGOLUL1
+    
+- name: "JOHN DEERE BANK S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: JODELUL1
+    
+- name: "JPMORGAN ASSET MANAGEMENT (EUROPE) S.A.R.L."
+  city: "LUXEMBOURG"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: RFLCLULXKEY
+    
+- name: "JPMORGAN ASSET MANAGEMENT (EUROPE) S.A.R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: RFLCLULX
+    
+- name: "KB CONSEIL-SERVICE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: KBNSLUL1
+    
+- name: "KBC IFIMA S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: KBCILULL
+    
+- name: "KBL EUROPEAN PRIVATE BANKERS S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: KBLXLULL
+    
+- name: "KENNEDY FINANCEMENT LUXEMBOURG 2 SARL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: KFLULULU
+    
+- name: "KEW CAPITAL LLP"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: KEALLUL1
+    
+- name: "KREDIETRUST"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: KRETLUL1
+    
+- name: "LA MONDIALE EUROPARTNER"
+  city: "BERTRANGE"
+  branch: null
+  swift: MOEALUL1
+    
+- name: "LAPITHUS MANAGEMENT S.A R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LTHULULL
+    
+- name: "LE FOYER AM"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FOYELUL1
+    
+- name: "LETTERONE TREASURY SERVICES SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LETSLUL1
+    
+- name: "LGI SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LVGILUL1
+    
+- name: "LLOYDS TSB BANK PLC"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LOYDLUL1
+    
+- name: "LOMBARD INTERNATIONAL ASSURANCE SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LIALLULL
+    
+- name: "LOMBARD ODIER (EUROPE) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LOCYLULL
+    
+- name: "LRI INVEST S.A."
+  city: "MUNSBACH"
+  branch: null
+  swift: LRIILULL
+    
+- name: "LUXBROKERS S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LUXBLUL1
+    
+- name: "LUXCSD S.A."
+  city: "LUXEMBOURG"
+  branch: DISTRIBUTION ACCOUNT
+  swift: LUXCLULLDA0
+    
+- name: "LUXCSD S.A."
+  city: "LUXEMBOURG"
+  branch: ISSUANCE ACCOUNT
+  swift: LUXCLULLIA0
+    
+- name: "LUXCSD S.A."
+  city: "LUXEMBOURG"
+  branch: MIRROR ACCOUNT
+  swift: LUXCLULLMA0
+    
+- name: "LUXCSD S.A."
+  city: "LUXEMBOURG"
+  branch: OMNIBUS ACCOUNT
+  swift: LUXCLULLMA1
+    
+- name: "LUXCSD S.A."
+  city: "LUXEMBOURG"
+  branch: OMNIBUS ACCOUNT
+  swift: LUXCLULLOA0
+    
+- name: "LUXCSD S.A."
+  city: "LUXEMBOURG"
+  branch: OMNIBUS ACCOUNT
+  swift: LUXCLULLOA1
+    
+- name: "LUXCSD S.A."
+  city: "LUXEMBOURG"
+  branch: VAULT OPERATIONS
+  swift: LUXCLULLLVO
+    
+- name: "LUXCSD S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LUXCLULL
+    
+- name: "LUXCSD S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LUXCLULLCPN
+    
+- name: "LUXCSD S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LUXCLULLMIG
+    
+- name: "LUXEMBOURG FINANCIAL GROUP"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LUFGLUL1
+    
+- name: "LUXEMBOURG NATIONAL REGISTRY"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LUNRLUL1
+    
+- name: "LUXUMBRELLA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LUXULUL1
+    
+- name: "M.M. WARBURG U. CO LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: WBWCLULL
+    
+- name: "MAINFIRST AFFILIATED FUND MANAGERS"
+  city: "MUNSBACH"
+  branch: null
+  swift: MFFALUL1
+    
+- name: "MALLINCKRODT GROUP SARL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MALKLULL
+    
+- name: "MANGOPAY SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: LETCLUL1
+    
+- name: "MANGOPAY SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MAGYLUL1
+    
+- name: "MEDIOBANCA INTERNATIONAL (LUXEMBOURG) SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MEOILUL1
+    
+- name: "MERRILL LYNCH (LUXEMBOURG) S.A.R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MLIBLUL1
+    
+- name: "MERRILL LYNCH EQUITY S.A.R.L."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MLESLUL1
+    
+- name: "METROPOLITAN BANK ASSOCIATES S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MBASLUL1
+    
+- name: "MIDAS ASSET MANAGEMENT S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MIAALUL1
+    
+- name: "MIRABAUD ET CIE (EUROPE) SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MIRALULL
+    
+- name: "MITSUBISHI UFJ INVESTOR SERVICES AND BANKING (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: BANK ACCOUNT SERVICE
+  swift: MUGCLULLBAS
+    
+- name: "MITSUBISHI UFJ INVESTOR SERVICES AND BANKING (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MUGCLUL2
+    
+- name: "MITSUBISHI UFJ INVESTOR SERVICES AND BANKING (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MUGCLULL
+    
+- name: "MIZUHO TRUST AND BANKING (LUXEMBOURG) S.A."
+  city: "MUNSBACH"
+  branch: DERIVATIVE TRADES SETTLEMENT
+  swift: MHTBLULLDTS
+    
+- name: "MIZUHO TRUST AND BANKING (LUXEMBOURG) S.A."
+  city: "MUNSBACH"
+  branch: null
+  swift: MHTBLULL
+    
+- name: "ML AND PARTNERS SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PAETLUL1
+    
+- name: "MONTE ROSA OPPORTUNITIES, SICAV"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDALU61
+    
+- name: "MOSAIC"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDALUL1
+    
+- name: "MOSAIC TRADING"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUABLUL1
+    
+- name: "MOVENTUM S.C.A."
+  city: "HOWALD"
+  branch: NOSTRO ACCOUNT
+  swift: MOVELULLGEB
+    
+- name: "MOVENTUM S.C.A."
+  city: "HOWALD"
+  branch: OMNIBUS ACCOUNT
+  swift: MOVELULLPAY
+    
+- name: "MOVENTUM S.C.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: MOVELULL
+    
+- name: "MS EQUITY FINANCING SERVICES (LUXEMBOURG) S.A."
+  city: "SENNINGERBERG"
+  branch: null
+  swift: EFSLLU21
+    
+- name: "MZ FINANCE SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FIMZLUL1
+    
+- name: "NATIXIS BANK (FORMERLY NATIXIS PRIVATE BANKING INTERNATIONAL)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NATXLULL
+    
+- name: "NATIXIS LIFE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NLIFLUL2
+    
+- name: "NATIXIS LIFE FRANCE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NLIFLUL1
+    
+- name: "NATIXIS STRUCTURED ISSUANCE SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NAUILUL1
+    
+- name: "NAVAXX S.A"
+  city: "GREVENMACHER"
+  branch: null
+  swift: AXXNLULL
+    
+- name: "NAVAXX S.A."
+  city: "MUNSBACH"
+  branch: null
+  swift: NAVXLUL1
+    
+- name: "NIS SICAV"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NSIALU21
+    
+- name: "NOMURA BANK (LUXEMBOURG) S.A."
+  city: "HESPERANGE"
+  branch: ANCILLARY SYSTEM DEDICATED ACCOUNT
+  swift: NBLXLULLEUX
+    
+- name: "NOMURA BANK (LUXEMBOURG) S.A."
+  city: "HESPERANGE"
+  branch: null
+  swift: NBLXLULL
+    
+- name: "NORD EUROPE LIFE LUXEMBOURG SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NELXLUL1
+    
+- name: "NORD/LB LUXEMBOURG S.A. COVERED BOND BANK"
+  city: "FINDEL"
+  branch: null
+  swift: NOLALULL
+    
+- name: "NORDEA BANK S.A. LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NDEALULL
+    
+- name: "NORDEA BANK S.A. LUXEMBOURG (TRANSFER AGENCY)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NDEALUL2
+    
+- name: "NORTHERN TRUST GLOBAL SERVICES LIMITED LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: UBSFLULL
+    
+- name: "NORTHERN TRUST GLOBAL SERVICES LIMITED LUXEMBOURG BRANCH"
+  city: "SENNINGERBERG"
+  branch: null
+  swift: CNORLULX
+    
+- name: "NOTZ STUCKI ET CIE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NOTULUL1
+    
+- name: "NOVACAP ASSET MANAGEMENT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NOTMLUL1
+    
+- name: "NOVARTIS INVESTMENTS S.A.R.L"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NOVRLULL
+    
+- name: "NOVO BANCO, SA SUCCURSALE LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BESCLULL
+    
+- name: "ODYSSEY ASSET MANAGEMENT SYSTEMS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ODYSLUL1
+    
+- name: "OLKY PAYMENT SERVICE PROVIDER"
+  city: "LIVANGE"
+  branch: null
+  swift: OLKILULL
+    
+- name: "ONPEX S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ONPXLULM
+    
+- name: "OPPORTUNITE LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: OPLULUL1
+    
+- name: "ORBIT PRIVATE ASSET MANAGEMENT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: OPAALUL1
+    
+- name: "ORIFLAME COSMETICS GLOBAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ORFLLULL
+    
+- name: "PACIFIC CAPITAL SARL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PAALLUL1
+    
+- name: "PAF-COMMO"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAFLUL1
+    
+- name: "PAF-DISTRESSED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAGLUL1
+    
+- name: "PAF-GLOBAL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAHLUL1
+    
+- name: "PAF-MOSAIC EURO"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDCLUL1
+    
+- name: "PAF-PLEIAD CREDIT OPPORTUNITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAJLUL1
+    
+- name: "PAF-WORLD EQUITY HEDGE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAKLUL1
+    
+- name: "PAGEON BANK S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PAGNLUL1
+    
+- name: "PAYPAL EUROPE, S.A R.L ET CIE, S.C.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PPLXLULL
+    
+- name: "PICTET ALTERNATIVE FUNDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDALU71
+    
+- name: "PICTET ARGD - CORTO"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCZLUL1
+    
+- name: "PICTET ET CIE (EUROPE) S.A."
+  city: "LUXEMBOURG"
+  branch: TRANSFER AGENT SERVICES DEPARTMENT
+  swift: PICTLULXTAS
+    
+- name: "PICTET ET CIE (EUROPE) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PICTLULX
+    
+- name: "PICTET ET CIE (EUROPE) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PICTLULXGVA
+    
+- name: "PICTET INSTITUTIONAL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDALU51
+    
+- name: "PICTET INSTITUTIONAL EMERGING LOCAL CURRENCY DEBT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDRLUL1
+    
+- name: "PICTET SELECT-CALLISTO"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCJLUL1
+    
+- name: "PICTET SICAV II"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDALU31
+    
+- name: "PICTET TOTAL RETURN"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDALU41
+    
+- name: "PICTET-ABSOLUTE RETURN GLOBAL CONSERVATIVE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUACLUL1
+    
+- name: "PICTET-ABSOLUTE RETURN GLOBAL DIVERSIFIED"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDBLUL1
+    
+- name: "PICTET-AGRICULTURE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAELUL1
+    
+- name: "PICTET-ASIAN EQUITIES EX JAPAN"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUALLUL1
+    
+- name: "PICTET-ASIAN LOCAL CURRENCY DEBT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAMLUL1
+    
+- name: "PICTET-BIOTECH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUANLUL1
+    
+- name: "PICTET-BRAZIL INDEX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAOLUL1
+    
+- name: "PICTET-CHF BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAPLUL1
+    
+- name: "PICTET-CHINA INDEX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAQLUL1
+    
+- name: "PICTET-CLEAN ENERGY"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUARLUL1
+    
+- name: "PICTET-DIGITAL COMMUNICATION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDDLUL1
+    
+- name: "PICTET-EASTERN EUROPE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBCLUL1
+    
+- name: "PICTET-EMERGING CORPORATE BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBDLUL1
+    
+- name: "PICTET-EMERGING LOCAL CURRENCY DEBT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBELUL1
+    
+- name: "PICTET-EMERGING MARKETS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBFLUL1
+    
+- name: "PICTET-EMERGING MARKETS HIGH DIVIDEND"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBGLUL1
+    
+- name: "PICTET-EMERGING MARKETS INDEX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBHLUL1
+    
+- name: "PICTET-EMERGING MARKETS SUSTAINABLE EQUITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBILUL1
+    
+- name: "PICTET-ENVIRONMENTAL MEGATREND SELECTION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBJLUL1
+    
+- name: "PICTET-EUR BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUATLUL1
+    
+- name: "PICTET-EUR CORPORATE BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAVLUL1
+    
+- name: "PICTET-EUR CORPORATE BONDS EX FINANCIAL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAULUL1
+    
+- name: "PICTET-EUR CORPORATE BONDS POOL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDOLUL1
+    
+- name: "PICTET-EUR GOVERNMENT BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAWLUL1
+    
+- name: "PICTET-EUR HIGH YIELD"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAXLUL1
+    
+- name: "PICTET-EUR INFLATION LINKED BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAYLUL1
+    
+- name: "PICTET-EUR SHORT MID-TERM BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUAZLUL1
+    
+- name: "PICTET-EUR SHORT TERM CORPORATE BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBALUL1
+    
+- name: "PICTET-EUR SHORT TERM HIGH YIELD"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDELUL1
+    
+- name: "PICTET-EUROLAND INDEX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDFLUL1
+    
+- name: "PICTET-EUROPEAN EQUITY SELECTION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBLLUL1
+    
+- name: "PICTET-EUROPEAN SUSTAINABLE EQUITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBMLUL1
+    
+- name: "PICTET-GENERICS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBNLUL1
+    
+- name: "PICTET-GLOBAL BONDS FUNDAMENTAL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBOLUL1
+    
+- name: "PICTET-GLOBAL EMERGING CURRENCIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBPLUL1
+    
+- name: "PICTET-GLOBAL EMERGING DEBT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBQLUL1
+    
+- name: "PICTET-GLOBAL MEGATREND SELECTION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBRLUL1
+    
+- name: "PICTET-GREATER CHINA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDGLUL1
+    
+- name: "PICTET-HIGH DIVIDEND SELECTION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBTLUL1
+    
+- name: "PICTET-INDIA INDEX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBULUL1
+    
+- name: "PICTET-INDIAN EQUITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBVLUL1
+    
+- name: "PICTET-JAPAN INDEX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBWLUL1
+    
+- name: "PICTET-JAPANESE EQUITY OPPORTUNITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBXLUL1
+    
+- name: "PICTET-JAPANESE EQUITY SELECTION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBYLUL1
+    
+- name: "PICTET-LATAM INDEX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUBZLUL1
+    
+- name: "PICTET-LATIN AMERICAN LOCAL CURRENCY DEBT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCALUL1
+    
+- name: "PICTET-MULTI ASSET GLOBAL OPPORTUNITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCBLUL1
+    
+- name: "PICTET-PACIFIC EX JAPAN INDEX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDHLUL1
+    
+- name: "PICTET-PICLIFE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCDLUL1
+    
+- name: "PICTET-PREMIUM BRANDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDILUL1
+    
+- name: "PICTET-QUALITY GLOBAL EQUITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCFLUL1
+    
+- name: "PICTET-RUSSIA INDEX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCGLUL1
+    
+- name: "PICTET-RUSSIAN EQUITIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCHLUL1
+    
+- name: "PICTET-SECURITY"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCILUL1
+    
+- name: "PICTET-SHORT-TERM MONEY MARKET"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDJLUL1
+    
+- name: "PICTET-SMALL CAP EUROPE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCLLUL1
+    
+- name: "PICTET-SOVEREIGN SHORT -TERM MONEY MARKET EUR"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCMLUL1
+    
+- name: "PICTET-TIMBER"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCNLUL1
+    
+- name: "PICTET-US EQUITY GROWTH SELECTION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDMLUL1
+    
+- name: "PICTET-US EQUITY VALUE SELECTION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDNLUL1
+    
+- name: "PICTET-US HIGH YIELD"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCTLUL1
+    
+- name: "PICTET-USA INDEX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCULUL1
+    
+- name: "PICTET-USD GOVERNMENT BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCVLUL1
+    
+- name: "PICTET-USD SHORT MID-TERM BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCWLUL1
+    
+- name: "PICTET-WATER"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCXLUL1
+    
+- name: "PICTET-WORLD GOVERNMENT BONDS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCYLUL1
+    
+- name: "PIONEER ASSET MANAGEMENT SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PIANLUL1
+    
+- name: "POOL CHINESE EQUITIES LONG SHORT (USD)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDQLUL1
+    
+- name: "POOL EUROPE EQUITIES STRATEGIES"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDPLUL1
+    
+- name: "POST LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CCPLLULL
+    
+- name: "PREBON YAMANE (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PREBLUL1
+    
+- name: "PRUDENTIAL-BACHE INTERNATIONAL BANK LTD."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PIBKLUL1
+    
+- name: "PTR-BANYAN"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDKLUL1
+    
+- name: "PTR-CORTO EUROPE"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUDLLUL1
+    
+- name: "PTR-KOSMOS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: FUCQLUL1
+    
+- name: "PURE CAPITAL S.A"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: PUCALUL2
+    
+- name: "QUILVEST LUXEMBOURG SERVICES S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: QVSTLULL
+    
+- name: "RAIFFEISEN-KOEPENICKER-BANK EG, NIEDERLASSUNG LUXEMBURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DGNZLUL1
+    
+- name: "RAKUTEN EUROPE BANK S.A"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: RAPSLULL
+    
+- name: "RAKUTEN PAYMENTS SERVICES SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: RAPSLUL1
+    
+- name: "RAVAGO S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: RAVALULL
+    
+- name: "RBC INVESTOR SERVICES BANK S.A."
+  city: "ESCH-SUR-ALZETTE"
+  branch: FETA BRANCHES
+  swift: FETALULLBRA
+    
+- name: "RBC INVESTOR SERVICES BANK S.A."
+  city: "ESCH-SUR-ALZETTE"
+  branch: GLOBAL FUND PLATFORM
+  swift: FETALULLDIS
+    
+- name: "RBC INVESTOR SERVICES BANK S.A."
+  city: "ESCH-SUR-ALZETTE"
+  branch: INVESTORS SERVICES
+  swift: FETALULLISV
+    
+- name: "RBC INVESTOR SERVICES BANK S.A."
+  city: "ESCH-SUR-ALZETTE"
+  branch: SHAREHOLDERS SERVICES
+  swift: FETALULLSHS
+    
+- name: "RBC INVESTOR SERVICES BANK S.A."
+  city: "ESCH-SUR-ALZETTE"
+  branch: null
+  swift: FETALULL
+    
+- name: "RBC INVESTOR SERVICES BANK S.A."
+  city: "ESCH-SUR-ALZETTE"
+  branch: null
+  swift: FETALULLBEL
+    
+- name: "RCB BANK LTD"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: RCBLLULL
+    
+- name: "RTL GROUP SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: RTLGLULL
+    
+- name: "S.D.E.T. ADVISORS S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SDETLUL1
+    
+- name: "SAFE CORPORATION"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SFFOLULL
+    
+- name: "SCHRODER INVESTMENT MANAGEMENT (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SCIMLULL
+    
+- name: "SCHUMANN-LA VEDRINE FINANCE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SCVFLUL1
+    
+- name: "SELECTRA INVESTMENTS SICAV"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SEVALUL1
+    
+- name: "SERES INVESTMENTS S.A., SPF"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SERSLULL
+    
+- name: "SG ISSUER"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ISUULUL1
+    
+- name: "SGBT ASSET BASED FUNDING S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SSBFLULL
+    
+- name: "SGBT CREDIT INTERNATIONAL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SGCRLULL
+    
+- name: "SKANDIA INVEST"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SKIELUL1
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ESSELULL
+    
+- name: "SMBC NIKKO BANK (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: NIKOLULL
+    
+- name: "SMS FINANCE SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SMFILUL1
+    
+- name: "SNAPSWAP INTERNATIONAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SSWILUL1
+    
+- name: "SOCIETE BUSINESS SOLUTIONS BUILDERS"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BSBDLUL1
+    
+- name: "SOCIETE GENERALE BANK AND TRUST (ACTING AS FIDUCIARY)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SGABLU23
+    
+- name: "SOCIETE GENERALE BANK AND TRUST S.A"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SGABLU22
+    
+- name: "SOCIETE GENERALE BANK AND TRUST S.A."
+  city: "LUXEMBOURG"
+  branch: MIDDLE OFFICE TITR
+  swift: SGABLULLMOF
+    
+- name: "SOCIETE GENERALE BANK AND TRUST S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SGABLULL
+    
+- name: "SOCIETE GENERALE BANK AND TRUST S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SGABLULLTAS
+    
+- name: "SOCIETE GENERALE CAPITAL MARKET FINANCE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SGMFLULL
+    
+- name: "SOCIETE GENERALE FINANCING AND DISTRIBUTION FINANCIAL DEPARTMENT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SGDILULL
+    
+- name: "SOCIETE NATIONALE DE CREDIT ET D'INVESTISSEMENT"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SNCILUL1
+    
+- name: "SOCIETE TARGET INTERNATIONAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: TINSLUL1
+    
+- name: "SOGELIFE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SOEILUL1
+    
+- name: "SOGEN FINANCE LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SOLULUL1
+    
+- name: "SOLFIA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SLFALU22
+    
+- name: "SPARINVEST S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SINVLULL
+    
+- name: "SPLITART"
+  city: "FOETZ"
+  branch: null
+  swift: SPLRLUL1
+    
+- name: "SS AND C GLOBEOP (LUXEMBOURG) S.A.R.L"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: GLOPLUL1
+    
+- name: "STATE STREET BANK INTERNATIONAL GMBH"
+  city: "LUXEMBOURG"
+  branch: FUND ADMINISTRATION
+  swift: SBOSLULXLFA
+    
+- name: "STATE STREET BANK INTERNATIONAL GMBH"
+  city: "LUXEMBOURG"
+  branch: SHAREHOLDER ADMINISTRATION
+  swift: SBOSLULXSHA
+    
+- name: "STATE STREET BANK INTERNATIONAL GMBH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SBOSLULX
+    
+- name: "STATE STREET BANK LUXEMBOURG S.A. (FORMERLY SANPAOLO BANK S.A.)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: SPLBLUL1
+    
+- name: "STEVENS, ZIMMER AND LAWAISSE"
+  city: "STRASSEN"
+  branch: null
+  swift: STZLLUS1
+    
+- name: "SUMITOMO MITSUI TRUST BANK (LUXEMBOURG) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: STBCLULL
+    
+- name: "SUXESKEY S.A."
+  city: "LAROCHETTE"
+  branch: null
+  swift: SUXKLUL1
+    
+- name: "SVENSKA HANDELSBANKEN AB(PUBL)LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HANDLULB
+    
+- name: "SWISS LIFE (LUXEMBOURG) S.A."
+  city: "STRASSEN"
+  branch: ASSETS MANAGEMENT CONTROLLING
+  swift: SLLULULLAMC
+    
+- name: "SWISS LIFE (LUXEMBOURG) S.A."
+  city: "STRASSEN"
+  branch: CMS001
+  swift: SLLULULLCLI
+    
+- name: "SWISS LIFE (LUXEMBOURG) S.A."
+  city: "STRASSEN"
+  branch: FINANCE AND ACCOUTING
+  swift: SLLULULLACC
+    
+- name: "SWISS LIFE (LUXEMBOURG) S.A."
+  city: "STRASSEN"
+  branch: null
+  swift: SLLULULL
+    
+- name: "SWISS LIFE PRODUCTS (LUXEMBOURG) S.A."
+  city: "STRASSEN"
+  branch: null
+  swift: SWLPLULL
+    
+- name: "TE WIND S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: WIDDLUL1
+    
+- name: "TECH DATA LUXEMBOURG SARL"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: TDLSLUL1
+    
+- name: "TELECOM ITALIA CAPITAL SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: TLICLULL
+    
+- name: "TELECOM ITALIA FINANCE SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: TIFLLULL
+    
+- name: "TEMPLETON GLOBAL STRATEGIC SERVICES S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: TGSSLUL1
+    
+- name: "THE BANK OF NEW YORK MELLON (INTERNATIONAL) LTD, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: LUXEMBOURG BRANCH
+  swift: SGWLLULX
+    
+- name: "THE BANK OF NEW YORK MELLON (LUXEMBOURG) SA, LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: CORPORATE TRUST
+  swift: IRVTLULXGTS
+    
+- name: "THE BANK OF NEW YORK MELLON (LUXEMBOURG) SA, LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: TRANSFER AGENCY
+  swift: IRVTLULXLTA
+    
+- name: "THE BANK OF NEW YORK MELLON (LUXEMBOURG) SA, LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: IRVTLULX
+    
+- name: "THE BANK OF NEW YORK MELLON SA/NV, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: BNYMLUL1
+    
+- name: "THE ROYAL BANK OF SCOTLAND INTERNATIONAL, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: RBOSLULL
+    
+- name: "THREADNEEDLE INTERNATIONAL FUND MANAGEMENT S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: THIFLUL1
+    
+- name: "TRADITION S.A. (LAUSANNE) (SUCCURSALE DE LUXEMBOURG)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: TILULUL1
+    
+- name: "TRIAX GLOBAL EXCHANGE GROUPE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: TGEXLUL1
+    
+- name: "UBI BANCA INTERNATIONAL S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: CABILULL
+    
+- name: "UBS EUROPE SE, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: FUND SERVICES
+  swift: UBSWLULLFSL
+    
+- name: "UBS EUROPE SE, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: UBSWLULL
+    
+- name: "UBS EUROPE SE, LUXEMBOURG BRANCH"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: UBSWLULLTOP
+    
+- name: "UNICREDIT INTERNATIONAL BANK-LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: UNCRLULL
+    
+- name: "UNICREDIT LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: HYVELULL
+    
+- name: "UNION BANCAIRE PRIVEE (EUROPE) S.A."
+  city: "LUXEMBOURG"
+  branch: FUND ADMINISTRATION DEPARTMENT
+  swift: DBSALULLFND
+    
+- name: "UNION BANCAIRE PRIVEE (EUROPE) S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: DBSALULL
+    
+- name: "UNION INVESTMENT EUROMARKETING S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: INEULUL1
+    
+- name: "UNION INVESTMENT FINANCIAL SERVICES S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: UFSLLULL
+    
+- name: "UNITED EUROPEAN BANK (LUXEMBOURG) S.A.(FORMERLY UNITED OVERSEAS BANK LUXEMBOURG)"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: UEBGLUL1
+    
+- name: "VALUEINVEST ASSET MANAGEMENT S.A."
+  city: "STRASSEN"
+  branch: null
+  swift: LIPTLUS1
+    
+- name: "VAN DOORN TRUST AND SECURITIES B.V. AMSTERDAM (PAYS-BAS), SUCCURSALE DE LUXEMBOURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VDTSLUL1
+    
+- name: "VAN MOER SANTERRE LUXEMBOURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VMOSLUL1
+    
+- name: "VICTORIA CAPITAL SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VIAILUL1
+    
+- name: "VITIS LIFE S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VITILUL1
+    
+- name: "VOLKSBANK HANNOVER EG, NIEDERLASSUNG LUXEMBURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VOHALUL1
+    
+- name: "VOLKSWAGEN FINANCE LUXEMBURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VOFLLUL1
+    
+- name: "VOLKSWAGEN INTERNATIONAL LUXEMBURG"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VOILLUL1
+    
+- name: "VOLKSWAGEN NEW MOBILITY LUXEMBURG S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VNMLLUL1
+    
+- name: "VORSORGE LUXEMBURG LEBENSVERSICHERUNG S.A."
+  city: "MUNSBACH"
+  branch: null
+  swift: VORSLUL1
+    
+- name: "VP BANK (LUXEMBOURG) SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPBVLULL
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: VPLUX AS ISSUER
+  swift: VPLULULLISS
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL001
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL016
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL020
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL031
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL032
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL033
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL034
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL035
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL040
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL041
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL042
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL043
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL044
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL045
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL046
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL047
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL048
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL049
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL050
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL051
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL052
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL053
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL054
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL055
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL056
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL057
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL058
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL059
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL101
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL102
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL103
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL104
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL105
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL106
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL107
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL108
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL109
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL110
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL111
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL112
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL113
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL114
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL115
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL500
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL501
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL502
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL503
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL504
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL505
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL506
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL507
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL508
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL509
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL510
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL600
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL700
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULL800
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULLDVP
+    
+- name: "VP LUX"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VPLULULLMIG
+    
+- name: "VRWAY COMMUNICATION SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: VCSOLUL1
+    
+- name: "WARMOES HIRTZ S.A."
+  city: "LUXEMBOURG"
+  branch: null
+  swift: WAHILUL1
+    
+- name: "ZADIG GESTION (LUXEMBOURG) SA"
+  city: "LUXEMBOURG"
+  branch: null
+  swift: ZAGLLUL1
+    

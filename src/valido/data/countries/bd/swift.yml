@@ -1,0 +1,4965 @@
+- name: "A.F.M. SHAMSUDDIN"
+  city: "DHAKA"
+  branch: null
+  swift: SHAMBDD1
+    
+- name: "AB BANK LIMITED"
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: ABBLBDDH201
+    
+- name: "AB BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: ABBLBDDH101
+    
+- name: "AB BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: CDA AVENUE BRANCH
+  swift: ABBLBDDH110
+    
+- name: "AB BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: EPZ BRANCH
+  swift: ABBLBDDH105
+    
+- name: "AB BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: ABBLBDDH126
+    
+- name: "AB BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGANJ BRANCH
+  swift: ABBLBDDH102
+    
+- name: "AB BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: OFFSHORE BANKING UNIT
+  swift: ABBLBDDHOBU
+    
+- name: "AB BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: STATION ROAD BRANCH
+  swift: ABBLBDDH103
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: ABBLBDDH019
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: IMAMGANJ BRANCH
+  swift: ABBLBDDH003
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: ISLAMI BANKING
+  swift: ABBLBDDH027
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: KAKRAIL BRANCH
+  swift: ABBLBDDH009
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: KARWAN BAZAR BRANCH
+  swift: ABBLBDDH002
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: ABBLBDDH011
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: ABBLBDDH004
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: NAWABPUR ROAD BRANCH
+  swift: ABBLBDDH013
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: NEW ELEPHANT ROAD BRANCH
+  swift: ABBLBDDH006
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: NORTH SOUTH ROAD BRANCH
+  swift: ABBLBDDH010
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: ABBLBDDH005
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: ABBLBDDH020
+    
+- name: "AB BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: ABBLBDDH
+    
+- name: "AB BANK LIMITED"
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: ABBLBDDH214
+    
+- name: "AB BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: ABBLBDDH301
+    
+- name: "AB BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ
+  swift: ABBLBDDH008
+    
+- name: "AB BANK LIMITED"
+  city: "SYLHET"
+  branch: DARGAH GATE BRANCH
+  swift: ABBLBDDH111
+    
+- name: "AB BANK LIMITED"
+  city: "SYLHET"
+  branch: V.I.P. ROAD BRANCH
+  swift: ABBLBDDH112
+    
+- name: "ABDUL HAQUE AND SONS LTD."
+  city: "DHAKA"
+  branch: null
+  swift: ABDHBDD1
+    
+- name: "ABDUL HYE"
+  city: "DHAKA"
+  branch: null
+  swift: ABDYBDD1
+    
+- name: "ABDUL LATIF MIAH"
+  city: "DHAKA"
+  branch: null
+  swift: ABLMBDD1
+    
+- name: "ABDUS SAMAD"
+  city: "DHAKA"
+  branch: null
+  swift: ABDABDD1
+    
+- name: "ADARSHA SECURITIES (PVT.) LTD."
+  city: "DHAKA"
+  branch: null
+  swift: ADSPBDD1
+    
+- name: "AGRANI BANK LIMITED"
+  city: "BOGRA"
+  branch: THANA ROAD BR.
+  swift: AGBKBDDH029
+    
+- name: "AGRANI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD JAHAN BLD. CORP. BR.
+  swift: AGBKBDDH018
+    
+- name: "AGRANI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: ASADGONJ BRANCH
+  swift: AGBKBDDH016
+    
+- name: "AGRANI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: COMMERCIAL AREA BRANCH,CHITTAGONG
+  swift: AGBKBDDH015
+    
+- name: "AGRANI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: EPZ BRANCH
+  swift: AGBKBDDH035
+    
+- name: "AGRANI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: LALDIGHI EAST BRANCH, CHITTAGONG
+  swift: AGBKBDDH017
+    
+- name: "AGRANI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: NEW MARKET BRANCH,CTG.
+  swift: AGBKBDDH039
+    
+- name: "AGRANI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: STRAND ROAD BR.
+  swift: AGBKBDDH041
+    
+- name: "AGRANI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: null
+  swift: AGBKBDDH0CH
+    
+- name: "AGRANI BANK LIMITED"
+  city: "COMILLA"
+  branch: RAJGONJ BRANCH
+  swift: AGBKBDDH020
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: AMIN COURT BRANCH,DHAKA
+  swift: AGBKBDDH004
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: B.WAPDA  CORPORATE BRANCH
+  swift: AGBKBDDH033
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: AGBKBDDH008
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGABANDHU AVENUE CORPORATE BRANCH
+  swift: AGBKBDDH002
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH,DHAKA
+  swift: AGBKBDDH006
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN REMITTANCE MANAGEMENT DIVISION
+  swift: AGBKBDDH099
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: GREEN ROAD BR.
+  swift: AGBKBDDH036
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: INTERNATIONAL DIVISION,DHAKA
+  swift: AGBKBDDH000
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOULVI BAZAR BRANCH,DHAKA
+  swift: AGBKBDDH003
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: NAWABPUR ROAD BRANCH
+  swift: AGBKBDDH014
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH, DHAKA
+  swift: AGBKBDDH001
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: PURANA PALTAN BRANCH
+  swift: AGBKBDDH034
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: SADARGHAT BRANCH
+  swift: AGBKBDDH007
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: SHERATON HOTEL BRANCH
+  swift: AGBKBDDH040
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: WASA BRANCH
+  swift: AGBKBDDH012
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: AGBKBDDH
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: AGBKBDDH013
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DINAJPUR"
+  branch: HAKIMPUR BR.
+  swift: AGBKBDDH031
+    
+- name: "AGRANI BANK LIMITED"
+  city: "DINAJPUR"
+  branch: MALDAPATTY BRANCH
+  swift: AGBKBDDH030
+    
+- name: "AGRANI BANK LIMITED"
+  city: "FARIDPUR"
+  branch: FARIDPUR BRANCH
+  swift: AGBKBDDH011
+    
+- name: "AGRANI BANK LIMITED"
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: AGBKBDDH024
+    
+- name: "AGRANI BANK LIMITED"
+  city: "KHULNA"
+  branch: CLAY ROAD BR.
+  swift: AGBKBDDH032
+    
+- name: "AGRANI BANK LIMITED"
+  city: "KHULNA"
+  branch: SIR IQBAL ROAD BRANCH,KHULNA
+  swift: AGBKBDDH023
+    
+- name: "AGRANI BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: B.B.ROAD CORP. BR.
+  swift: AGBKBDDH009
+    
+- name: "AGRANI BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: COURT ROAD BRANCH
+  swift: AGBKBDDH010
+    
+- name: "AGRANI BANK LIMITED"
+  city: "NOAKHALI"
+  branch: CHOWMOHONI BRANCH
+  swift: AGBKBDDH022
+    
+- name: "AGRANI BANK LIMITED"
+  city: "RAJSHAHI"
+  branch: SHAHEB BAZAR BRANCH
+  swift: AGBKBDDH027
+    
+- name: "AGRANI BANK LIMITED"
+  city: "RANGPUR"
+  branch: RANGPUR BRANCH
+  swift: AGBKBDDH028
+    
+- name: "AGRANI BANK LIMITED"
+  city: "SYLHET"
+  branch: LALDIGHIRPAR BRANCH
+  swift: AGBKBDDH021
+    
+- name: "AGRANI BANK,RAMNA BRANCH,DHAKA(PHAKA)"
+  city: "DHAKA"
+  branch: RAMNA BRANCH,DHAKA
+  swift: AGBKBDDH005
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: ALARBDDH071
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: ALARBDDH069
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: ALARBDDH076
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: ALARBDDH072
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "CHITTAGONG"
+  branch: O.R.NIZAM ROAD BRANCH
+  swift: ALARBDDH087
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: ALARBDDH079
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: ALARBDDH084
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: FOREIGN TRADE PROCESSING DIVISION
+  swift: ALARBDDHTPD
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: ALARBDDH086
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: JATRABARI BRANCH
+  swift: ALARBDDH083
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: ALARBDDH090
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: ALARBDDH066
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: MOTIJHEEL CORPORATE BRANCH
+  swift: ALARBDDH075
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: MOULVI BAZAR BRANCH
+  swift: ALARBDDH067
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: NAWABPUR ROAD BRANCH
+  swift: ALARBDDH074
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: NEW ELEPHANT ROAD BRANCH
+  swift: ALARBDDH081
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: NORTH SOUTH ROAD BRANCH
+  swift: ALARBDDH085
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: OFF-SHORE BANKING UNIT, MOTIJHEEL
+  swift: ALARBDDHOBU
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: PROGATI SARANI BRANCH
+  swift: ALARBDDH089
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: ALARBDDH082
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: VIP ROAD BRANCH
+  swift: ALARBDDH077
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DHAKA"
+  branch: null
+  swift: ALARBDDH
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "DILKUSHA"
+  branch: DILKUSHA BRANCH
+  swift: ALARBDDH080
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: ALARBDDH068
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: ALARBDDH088
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "NILPHAMARI"
+  branch: SAYEDPUR BRANCH
+  swift: ALARBDDH078
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: ALARBDDH073
+    
+- name: "AL-ARAFAH ISLAMI BANK LTD."
+  city: "SYLHET"
+  branch: LALDIGIRPAR BRANCH
+  swift: ALARBDDH070
+    
+- name: "ASIAN DEVELOPMENT BANK"
+  city: "DHAKA"
+  branch: null
+  swift: ASDBBDD1
+    
+- name: "BANGLADESH BANK"
+  city: "DHAKA"
+  branch: null
+  swift: BBHOBDDH
+    
+- name: "BANGLADESH COMMERCE BANK LTD."
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: BCBLBDDH014
+    
+- name: "BANGLADESH COMMERCE BANK LTD."
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: BCBLBDDH020
+    
+- name: "BANGLADESH COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: BCBLBDDH015
+    
+- name: "BANGLADESH COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: CENTRAL TRADE PROCESSING UNIT
+  swift: BCBLBDDH021
+    
+- name: "BANGLADESH COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: DILKUSHA BRANCH
+  swift: BCBLBDDH019
+    
+- name: "BANGLADESH COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: BCBLBDDH018
+    
+- name: "BANGLADESH COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: MOULAVI BAZAR BRANCH
+  swift: BCBLBDDH017
+    
+- name: "BANGLADESH COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: BCBLBDDH013
+    
+- name: "BANGLADESH COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: null
+  swift: BCBLBDDH
+    
+- name: "BANGLADESH COMMERCE BANK LTD."
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: BCBLBDDH016
+    
+- name: "BANGLADESH DEVELOPMENT BANK LIMITED (BDBL)"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: BDDBBDDHAGB
+    
+- name: "BANGLADESH DEVELOPMENT BANK LIMITED (BDBL)"
+  city: "DHAKA"
+  branch: null
+  swift: BDDBBDDH
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "CHITTAGONG"
+  branch: AGRABAD COR. BRANCH
+  swift: BKBABDDHAGD
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "CHITTAGONG"
+  branch: SHOLO SHAHAR BRANCH
+  swift: BKBABDDHSHO
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "DHAKA"
+  branch: BANANI CORPORATE BRANCH
+  swift: BKBABDDHBNN
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "DHAKA"
+  branch: CHAWK BAZAR BRANCH
+  swift: BKBABDDHCWK
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR CORPORATE BRANCH
+  swift: BKBABDDHKBB
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "DHAKA"
+  branch: LOCAL PRINCIPAL OFFICE
+  swift: BKBABDDHLPO
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "DHAKA"
+  branch: null
+  swift: BKBABDDH
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "JESSORE"
+  branch: SHARSHA BRANCH
+  swift: BKBABDDHSRS
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "KHULNA"
+  branch: KHULNA CORPORATE BRANCH
+  swift: BKBABDDHKLN
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "KUSHTIA"
+  branch: KUSHTIA BRANCH
+  swift: BKBABDDHKST
+    
+- name: "BANGLADESH KRISHI BANK"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: BKBABDDHNGJ
+    
+- name: "BANGLADESH POST"
+  city: "DHAKA"
+  branch: null
+  swift: BDSHBDD1
+    
+- name: "BANK ALFALAH LIMITED (BANGLADESH - DHAKA BRANCH)"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: ALFHBDDH703
+    
+- name: "BANK ALFALAH LIMITED (BANGLADESH - DHAKA BRANCH)"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH DHAKA
+  swift: ALFHBDDH702
+    
+- name: "BANK ALFALAH LIMITED (BANGLADESH - DHAKA BRANCH)"
+  city: "DHAKA"
+  branch: null
+  swift: ALFHBDDH
+    
+- name: "BANK ASIA LTD"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: BALBBDDH005
+    
+- name: "BANK ASIA LTD"
+  city: "CHITTAGONG"
+  branch: ANDERKILLA BRANCH
+  swift: BALBBDDH030
+    
+- name: "BANK ASIA LTD"
+  city: "CHITTAGONG"
+  branch: CDA AVENUE BRANCH
+  swift: BALBBDDH018
+    
+- name: "BANK ASIA LTD"
+  city: "CHITTAGONG"
+  branch: EPZ BRANCH
+  swift: BALBBDDH027
+    
+- name: "BANK ASIA LTD"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: BALBBDDH013
+    
+- name: "BANK ASIA LTD"
+  city: "CHITTAGONG"
+  branch: MCB-SEIKH MUJIB ROAD BRANCH
+  swift: BALBBDDH009
+    
+- name: "BANK ASIA LTD"
+  city: "CHITTAGONG"
+  branch: OFF-SHORE BANKING UNIT
+  swift: BALBBDDHOBU
+    
+- name: "BANK ASIA LTD"
+  city: "CHITTAGONG"
+  branch: STATION ROAD BRANCH
+  swift: BALBBDDH022
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: CENTRAL TRADE SERVICES UNIT
+  swift: BALBBDDHCTS
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: CORPORATE BRANCH
+  swift: BALBBDDH002
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: BALBBDDH004
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: MCB BANANI BRANCH
+  swift: BALBBDDH012
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: MCB-DILKUSHA BRANCH
+  swift: BALBBDDH008
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: MITFORD BRANCH
+  swift: BALBBDDH014
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: BALBBDDH028
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: NORTH SOUTH ROAD BRANCH
+  swift: BALBBDDH017
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: PRINCIPAL OFFICE
+  swift: BALBBDDH003
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: SCOTIA BRANCH
+  swift: BALBBDDH007
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: BALBBDDH015
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: null
+  swift: BALBBDDH
+    
+- name: "BANK ASIA LTD"
+  city: "DHAKA"
+  branch: null
+  swift: BALBBDDH056
+    
+- name: "BASIC BANK LIMITED"
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: BKSIBDDH012
+    
+- name: "BASIC BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: BKSIBDDH008
+    
+- name: "BASIC BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: ASADGONJ BRANCH
+  swift: BKSIBDDH016
+    
+- name: "BASIC BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: BKSIBDDH013
+    
+- name: "BASIC BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: BKSIBDDH004
+    
+- name: "BASIC BANK LIMITED"
+  city: "DHAKA"
+  branch: BABUBAZAR BRANCH
+  swift: BKSIBDDH023
+    
+- name: "BASIC BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: BKSIBDDH006
+    
+- name: "BASIC BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA BRANCH
+  swift: BKSIBDDH015
+    
+- name: "BASIC BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: BKSIBDDH021
+    
+- name: "BASIC BANK LIMITED"
+  city: "DHAKA"
+  branch: MAIN BRANCH
+  swift: BKSIBDDH002
+    
+- name: "BASIC BANK LIMITED"
+  city: "DHAKA"
+  branch: MAULVIBAZAR BRANCH
+  swift: BKSIBDDH024
+    
+- name: "BASIC BANK LIMITED"
+  city: "DHAKA"
+  branch: MIRPUR BRANCH
+  swift: BKSIBDDH022
+    
+- name: "BASIC BANK LIMITED"
+  city: "DHAKA"
+  branch: SHANTINAGAR BRANCH
+  swift: BKSIBDDH009
+    
+- name: "BASIC BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: BKSIBDDH
+    
+- name: "BASIC BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: BKSIBDDH025
+    
+- name: "BASIC BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: TANBAZAR BRANCH
+  swift: BKSIBDDH014
+    
+- name: "BASIC BANK LIMITED"
+  city: "SYLHET"
+  branch: ZINDABAZAR BRANCH
+  swift: BKSIBDDH026
+    
+- name: "BRAC BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: BRAKBDDH
+    
+- name: "BRAC BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: BRAKBDDHOBU
+    
+- name: "BRAC EPL STOCK BROKERAGE LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: BETBBDD1
+    
+- name: "BRITISH AMERICAN TOBACCO BANGLADESH COMPANY LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: BATSBDA1
+    
+- name: "CITIBANK N.A."
+  city: "CHITTAGONG"
+  branch: CHITTAGONG BRANCH
+  swift: CITIBDDXCTG
+    
+- name: "CITIBANK N.A."
+  city: "DHAKA"
+  branch: OFFSHORE BANKING UNIT
+  swift: CITIBDDXOBU
+    
+- name: "CITIBANK N.A."
+  city: "DHAKA"
+  branch: null
+  swift: CITIBDDX
+    
+- name: "CITY BANK LIMITED THE"
+  city: "DHAKA"
+  branch: null
+  swift: CIBLBDDH
+    
+- name: "COMMERCIAL BANK OF CEYLON PLC"
+  city: "DHAKA"
+  branch: null
+  swift: CCEYBDDH
+    
+- name: "DHAKA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: DHBLBDDH201
+    
+- name: "DHAKA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: DHBLBDDH203
+    
+- name: "DHAKA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGANJ BRANCH
+  swift: DHBLBDDH202
+    
+- name: "DHAKA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: TRADE OPERATION
+  swift: DHBLBDDHTOC
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: DHBLBDDH103
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: DHBLBDDH102
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: DHBLBDDH109
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH
+  swift: DHBLBDDH107
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: DHBLBDDHGUL
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN CIRCLE 2
+  swift: DHBLBDDHGL2
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: IMAMGANJ BRANCH
+  swift: DHBLBDDH104
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: ISLAMIC BANKING BRANCH
+  swift: DHBLBDDHIB1
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: DHBLBDDH110
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: LOCAL OFFICE
+  swift: DHBLBDDH101
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: DHBLBDDHMKH
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: NARAYANGANJ BRANCH
+  swift: DHBLBDDH105
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: OFFSHORE BRANCH
+  swift: DHBLBDDH991
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: TRADE OPERATION
+  swift: DHBLBDDHTOD
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: DHBLBDDH204
+    
+- name: "DHAKA BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: DHBLBDDH
+    
+- name: "DHAKA BANK LIMITED"
+  city: "SAVAR"
+  branch: DEPZ BRANCH
+  swift: DHBLBDDH212
+    
+- name: "DHAKA BANK LIMITED"
+  city: "SYLHET"
+  branch: LALDIGHIRPAR BRANCH
+  swift: DHBLBDDH301
+    
+- name: "DHAKA STOCK EXCHANGE LTD"
+  city: "DHAKA"
+  branch: null
+  swift: XDHABDD1
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: DBBLBDDH102
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "CHITTAGONG"
+  branch: CENTRALIZED TRADE SERVICES - CHITTAGONG
+  swift: DBBLBDDH996
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: DBBLBDDH155
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "CHITTAGONG"
+  branch: OFFSHORE BANKING UNIT, CHITTAGONG
+  swift: DBBLBDDH901
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: DBBLBDDH103
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: CENTRALIZED TRADE SERVICE - MOTIJHEEL
+  swift: DBBLBDDH995
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: CENTRALIZED TRADE SERVICES
+  swift: DBBLBDDHCTS
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: DHAKA EPZ BRANCH
+  swift: DBBLBDDH122
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: DBBLBDDH110
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: DBBLBDDH116
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: ISLAMPUR BRANCH
+  swift: DBBLBDDH118
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: DBBLBDDH107
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: LOCAL OFFICE
+  swift: DBBLBDDH101
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: DBBLBDDH114
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: MOTIJHEEL FOREIGN EXCHANGE BRANCH
+  swift: DBBLBDDH105
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: NABABPUR BRANCH
+  swift: DBBLBDDH104
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: DBBLBDDH117
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "DHAKA"
+  branch: null
+  swift: DBBLBDDH
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "NARAYANGANJ"
+  branch: B.B ROAD BRANCH
+  swift: DBBLBDDH111
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "NARAYANGANJ"
+  branch: NARAYANGONJ BRANCH
+  swift: DBBLBDDH106
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "NARSINGHDI"
+  branch: BABURHAT BRANCH
+  swift: DBBLBDDH109
+    
+- name: "DUTCH-BANGLA BANK LTD"
+  city: "SAVAR"
+  branch: OFFSHORE BANKING UNIT, DHAKA
+  swift: DBBLBDDH902
+    
+- name: "EASTERN BANK LTD."
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: EBLDBDDH018
+    
+- name: "EASTERN BANK LTD."
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: EBLDBDDH003
+    
+- name: "EASTERN BANK LTD."
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: EBLDBDDH012
+    
+- name: "EASTERN BANK LTD."
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: EBLDBDDH006
+    
+- name: "EASTERN BANK LTD."
+  city: "CHITTAGONG"
+  branch: O.R. NIZAM ROAD BRACH
+  swift: EBLDBDDH019
+    
+- name: "EASTERN BANK LTD."
+  city: "CHITTAGONG"
+  branch: STATION ROAD BRANCH
+  swift: EBLDBDDH015
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: CHAWK MUGHULTULY BRANCH
+  swift: EBLDBDDH013
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: EBLDBDDH017
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: EBL OFF-SHORE BANKING UNIT
+  swift: EBLDBDDHOBU
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: ENGLISH ROAD BRANCH
+  swift: EBLDBDDH007
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: EBLDBDDH011
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: HEAD OFFICE
+  swift: EBLDBDDH001
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: MIRPUR BRANCH
+  swift: EBLDBDDH021
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: EBLDBDDH005
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: EBLDBDDH002
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: SONARGAON ROAD BRANCH
+  swift: EBLDBDDH014
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: EBLDBDDH022
+    
+- name: "EASTERN BANK LTD."
+  city: "DHAKA"
+  branch: null
+  swift: EBLDBDDH
+    
+- name: "EASTERN BANK LTD."
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: EBLDBDDH010
+    
+- name: "EASTERN BANK LTD."
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: EBLDBDDH004
+    
+- name: "EASTERN BANK LTD."
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: EBLDBDDH016
+    
+- name: "EASTERN BANK LTD."
+  city: "SYLHET"
+  branch: CHOUHATTA BRANCH
+  swift: EBLDBDDH020
+    
+- name: "EASTERN BANK LTD."
+  city: "SYLHET"
+  branch: LALDIGHIR PAAR BRANCH
+  swift: EBLDBDDH008
+    
+- name: "EASTERN BANK LTD."
+  city: "SYLHET"
+  branch: MOULVI BAZAR BRANCH
+  swift: EBLDBDDH009
+    
+- name: "EQUITY PARTNERS SECURITIES LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: EPSRBDD1
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: EXBKBDDH021
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: EXBKBDDH003
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: C.D.A. AVENUE BRANCH
+  swift: EXBKBDDH026
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD
+  swift: EXBKBDDH018
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: EXBKBDDH004
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: SHEIKH MUJIB ROAD BRANCH
+  swift: EXBKBDDH083
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: BASHUNDHARA ROAD BRANCH
+  swift: EXBKBDDH029
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: ELEPHANT ROAD BRANCH
+  swift: EXBKBDDH019
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: EXBKBDDH007
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: HEAD OFFICE CORPORATE BRANCH
+  swift: EXBKBDDH039
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: IMAMGONJ BRANCH
+  swift: EXBKBDDH006
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: KARWAN BAZAR BRANCH
+  swift: EXBKBDDH035
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: MALIBAGH BRANCH
+  swift: EXBKBDDH023
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: MIRPUR BRANCH
+  swift: EXBKBDDH017
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: EXBKBDDH001
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: NAWABPUR BRANCH
+  swift: EXBKBDDH010
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: NEW ESKATON BRANCH
+  swift: EXBKBDDH014
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: PANTHAPATH BRANCH
+  swift: EXBKBDDH002
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: RAJUK AVENUE BRANCH
+  swift: EXBKBDDH013
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: UTTARA
+  swift: EXBKBDDH015
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "DHAKA"
+  branch: null
+  swift: EXBKBDDH
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "NARAYANGANJ"
+  branch: NARAYANGONJ BRANCH
+  swift: EXBKBDDH011
+    
+- name: "EXPORT IMPORT BANK OF BANGLADESH LTD"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: EXBKBDDH009
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD
+  swift: FSEBBDDHAGR
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: FSEBBDDHJUB
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONG
+  swift: FSEBBDDHKTG
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: FSEBBDDHBAN
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGSHAL
+  swift: FSEBBDDHBNG
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: CENTRAL TRADE PROCESSING CENTRE,DHAKA
+  swift: FSEBBDDHCTD
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: FSEBBDDHDHA
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA
+  swift: FSEBBDDHDIL
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: FSEBBDDHGUL
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI
+  swift: FSEBBDDHMKH
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH, MOTIJHEEL C/A,DHAKA
+  swift: FSEBBDDHMOT
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: FSEBBDDH
+    
+- name: "FIRST SECURITY ISLAMI BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: FSEBBDDHSYL
+    
+- name: "GREEN DELTA SECURITIES LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: GDSABDD1
+    
+- name: "HABIB BANK LTD."
+  city: "CHITTAGONG"
+  branch: null
+  swift: HABBBDDH0CH
+    
+- name: "HABIB BANK LTD."
+  city: "DHAKA"
+  branch: null
+  swift: HABBBDDH
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: BBSHBDDH003
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGANJ BRANCH
+  swift: BBSHBDDH005
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "DHAKA"
+  branch: BABUBAZAR BRANCH
+  swift: BBSHBDDH029
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: BBSHBDDH025
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "DHAKA"
+  branch: NAWABPUR BRANCH
+  swift: BBSHBDDH030
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL OFFICE
+  swift: BBSHBDDH002
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "DHAKA"
+  branch: VIP ROAD BRANCH
+  swift: BBSHBDDH006
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: BBSHBDDH
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: BBSHBDDH015
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: BBSHBDDH008
+    
+- name: "ICB ISLAMIC BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: BBSHBDDH007
+    
+- name: "IDLC SECURITIES LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: IDLCBDD1
+    
+- name: "IMTIYAZ HUSAIN AND CO"
+  city: "DHAKA"
+  branch: null
+  swift: IMHUBDD1
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: IFICBDDH082
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: IFICBDDH030
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "CHITTAGONG"
+  branch: KHATUNGANJ BRANCH
+  swift: IFICBDDH031
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "CHITTAGONG"
+  branch: LALDIGHI BRANCH
+  swift: IFICBDDH036
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: IFICBDDH011
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: IFICBDDH006
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: ELEPHANT ROAD BRANCH
+  swift: IFICBDDH014
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: FEDERATION BRANCH
+  swift: IFICBDDH008
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: IFICBDDH002
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: INTERNATIONAL DIVISION
+  swift: IFICBDDH099
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: ISLAMPUR BRANCH
+  swift: IFICBDDH005
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: IFICBDDH017
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: MOULVIBAZAR BRANCH
+  swift: IFICBDDH004
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: NAWABPUR BRANCH
+  swift: IFICBDDH029
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: IFICBDDH001
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: IFICBDDH024
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "DHAKA"
+  branch: null
+  swift: IFICBDDH
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: IFICBDDH061
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: IFICBDDH060
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: IFICBDDH003
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "NOAPARA"
+  branch: NOAPARA BRANCH
+  swift: IFICBDDH063
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: IFICBDDH080
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "SATKHIRA"
+  branch: SATKHIRA BRANCH
+  swift: IFICBDDH065
+    
+- name: "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LTD."
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: IFICBDDH033
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "BARISAL"
+  branch: BARISAL BRANCH
+  swift: IBBLBDDH111
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: IBBLBDDH112
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "CHAPAINAWABGANJ"
+  branch: CHAPAINAWABGANJ BRANCH
+  swift: IBBLBDDH132
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: IBBLBDDH103
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: ANDERKILLA BRANCH
+  swift: IBBLBDDH124
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: IBBLBDDH137
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: IBBLBDDH106
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: OBU, AGRABAD BRANCH
+  swift: IBBLBDDH025
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: PAHARTALI BRANCH
+  swift: IBBLBDDH202
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "CHITTAGONG"
+  branch: STATION ROAD BRANCH
+  swift: IBBLBDDH167
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "COMILLA"
+  branch: COMILLA BRANCH
+  swift: IBBLBDDH121
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: IBBLBDDH179
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: BARIDHARA BRANCH
+  swift: IBBLBDDH342
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: CHAWK MUGALTULY BRANCH
+  swift: IBBLBDDH105
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: IBBLBDDH205
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: ELEPHANT ROAD BRANCH
+  swift: IBBLBDDH215
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: FARMGATE BRANCH
+  swift: IBBLBDDH136
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH
+  swift: IBBLBDDH109
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: FOREIGN REMITTANCE DIVISION
+  swift: IBBLBDDHFRD
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: FOREIGN TRADE PROCESSING DIVISION
+  swift: IBBLBDDHFTD
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: IBBLBDDH177
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: GULSHAN CIRCLE-1 BRANCH
+  swift: IBBLBDDH276
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: HEAD OFFICE COMPLEX BRANCH
+  swift: IBBLBDDH213
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: ISLAMPUR BRANCH
+  swift: IBBLBDDH110
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: IBBLBDDH222
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: LOCAL OFFICE
+  swift: IBBLBDDH102
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: MIRPUR BRANCH
+  swift: IBBLBDDH131
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: MIRPUR-1 BRANCH
+  swift: IBBLBDDH210
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: MOGHBAZAR BRANCH
+  swift: IBBLBDDH332
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: IBBLBDDH191
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: IBBLBDDH311
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: MOUCHAK BRANCH
+  swift: IBBLBDDH145
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: NAWABPUR BRANCH
+  swift: IBBLBDDH118
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: NEW MARKET BRANCH
+  swift: IBBLBDDH129
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: OBU, H.O. COMPLEX CORPORATE BRANCH
+  swift: IBBLBDDH024
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: OBU, UTTARA BRANCH
+  swift: IBBLBDDH026
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: PALTAN BRANCH
+  swift: IBBLBDDH206
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: RAMNA BRANCH
+  swift: IBBLBDDH157
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: RAMPURA BRANCH
+  swift: IBBLBDDH226
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: SADARGHAT BRANCH
+  swift: IBBLBDDH197
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: SAVAR BRANCH,DHAKA
+  swift: IBBLBDDH130
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: SHYAMOLI BRANCH
+  swift: IBBLBDDH209
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: TREASURY DIVISION
+  swift: IBBLBDDH123
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: IBBLBDDH207
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: V.I.P. ROAD BRANCH
+  swift: IBBLBDDH223
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DHAKA"
+  branch: null
+  swift: IBBLBDDH
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "DINAJPUR"
+  branch: DINAJPUR BRANCH
+  swift: IBBLBDDH138
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "GAZIPUR"
+  branch: GAZIPUR CHAWRASTA BRANCH
+  swift: IBBLBDDH158
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "JESSORE"
+  branch: BENAPOLE BRANCH
+  swift: IBBLBDDH164
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: IBBLBDDH125
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "JESSORE"
+  branch: NOAPARA BRANCH
+  swift: IBBLBDDH135
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: IBBLBDDH107
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "KUSHTIA"
+  branch: KUSHTIA BRANCH
+  swift: IBBLBDDH133
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "MYMENSINGH"
+  branch: MYMENSINGH BRANCH
+  swift: IBBLBDDH140
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: IBBLBDDH108
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "NARSINGHDI"
+  branch: MADHABDI BRANCH
+  swift: IBBLBDDH171
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "NARSINGHDI"
+  branch: NARSINGDI BRANCH
+  swift: IBBLBDDH119
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "NILPHAMARI"
+  branch: SAIDPUR BRANCH
+  swift: IBBLBDDH152
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "NOAKHALI"
+  branch: CHAUMUHANI BRANCH
+  swift: IBBLBDDH126
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "PABNA"
+  branch: PABNA BRANCH
+  swift: IBBLBDDH115
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: IBBLBDDH113
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "RANGPUR"
+  branch: RANGPUR BRANCH,MOTAHAR HOSSAIN SHOPPING COMPLEX,PS-KOTOALI
+  swift: IBBLBDDH117
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "SATKHIRA"
+  branch: SATKHIRA BRANCH
+  swift: IBBLBDDH143
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "SUNAMGANJ"
+  branch: SUNAMGANJ BRANCH
+  swift: IBBLBDDH293
+    
+- name: "ISLAMI BANK BANGLADESH LTD"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: IBBLBDDH104
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: JAMUBDDH038
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: BHATIYARI
+  swift: JAMUBDDH055
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBLEE ROAD (ISLAMIC BANKING) BRANCH
+  swift: JAMUBDDH049
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: JAMUBDDH042
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: TRADE FINANCE PROCESSING CENTER
+  swift: JAMUBDDHTFC
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI
+  swift: JAMUBDDH053
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: JAMUBDDH048
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: DHOLAIKHAL
+  swift: JAMUBDDH052
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA BRANCH
+  swift: JAMUBDDH037
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH
+  swift: JAMUBDDH045
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: JAMUBDDH043
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: MIRPUR BRANCH
+  swift: JAMUBDDH056
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: JAMUBDDH035
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL
+  swift: JAMUBDDH051
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: MOULVI BAZAR BRANCH
+  swift: JAMUBDDH036
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: NAYABAZAR BRANCH
+  swift: JAMUBDDH040
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: OFF-SHORE BANKING UNIT,DHAKA
+  swift: JAMUBDDH520
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: SHANTINAGAR BRANCH
+  swift: JAMUBDDH041
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: SONARGAON ROAD BRANCH
+  swift: JAMUBDDH039
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: TRADE FINANCE PROCESSING CENTER
+  swift: JAMUBDDHTFP
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA
+  swift: JAMUBDDH054
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: JAMUBDDH
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "NAOGAON"
+  branch: NAOGAON BRANCH
+  swift: JAMUBDDH044
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: JAMUBDDH047
+    
+- name: "JAMUNA BANK LIMITED"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: JAMUBDDH050
+    
+- name: "JANATA BANK LIMITED"
+  city: "BARISAL"
+  branch: BARISAL CORPORATE BRANCH
+  swift: JANBBDDHBSL
+    
+- name: "JANATA BANK LIMITED"
+  city: "BOGRA"
+  branch: BOGRA CORPORATE BRANCH
+  swift: JANBBDDHBOG
+    
+- name: "JANATA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: ASADGONJ CORPORATE BRANCH
+  swift: JANBBDDHADG
+    
+- name: "JANATA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: FOREIGN EXCHANGE CORPORATE BRANCH
+  swift: JANBBDDHCDA
+    
+- name: "JANATA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ CORPORATE BRANCH
+  swift: JANBBDDHJKG
+    
+- name: "JANATA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: LALDIGHI EAST CORPORATE BRANCH
+  swift: JANBBDDHLDE
+    
+- name: "JANATA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: SHADHARAN BIMA BHABAN CORPORATE BRANCH
+  swift: JANBBDDHSBB
+    
+- name: "JANATA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: SHEIKH MUJIB ROAD CORPORATE BRANCH
+  swift: JANBBDDHSMS
+    
+- name: "JANATA BANK LIMITED"
+  city: "COMILLA"
+  branch: COMILLA BRANCH
+  swift: JANBBDDHCCN
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA CORPORATE BRANCH
+  swift: JANBBDDHDCB
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: ELEPHANT ROAD CORPORATE BRANCH
+  swift: JANBBDDHELE
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: FARMGATE CORPORATE BRANCH
+  swift: JANBBDDHFGD
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE CORPORATE BRANCH
+  swift: JANBBDDHFEC
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: GANDARIA CORPORATE BRANCH
+  swift: JANBBDDHGRB
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: IMAMGONJ CORPORATE BRANCH
+  swift: JANBBDDHIMA
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: JANATA BHABAN CORPORATE BRANCH
+  swift: JANBBDDHJBC
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: JATRABARI CORPORATE BRANCH
+  swift: JANBBDDHJWC
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: KAMAL ATATURK CORPORATE BRANCH
+  swift: JANBBDDHKAC
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR CORPORATE BRANCH
+  swift: JANBBDDHKRN
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: LOCAL OFFICE
+  swift: JANBBDDHJBD
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: MOGHBAZAR CORPORATE BRANCH
+  swift: JANBBDDHMGB
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAMMADPUR CORPORATE BRANCH
+  swift: JANBBDDHMPD
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL CORPORATE BRANCH
+  swift: JANBBDDHMCA
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: NAWABPUR ROAD CORPORATE BRANCH
+  swift: JANBBDDHJNB
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: NEW MARKET CORPORATE BRANCH
+  swift: JANBBDDHNMD
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: NON-RESIDENT BANGLADESHI BRANCH
+  swift: JANBBDDHNRB
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: POSTHA BRANCH
+  swift: JANBBDDHPBD
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: RAJUK BHABAN CORPORATE BRANCH
+  swift: JANBBDDHRBC
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: RAMNA CORPORATE BRANCH
+  swift: JANBBDDHJRD
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: SHANTINAGAR CORPORATE BRANCH
+  swift: JANBBDDHSNB
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: SPEEDY REMITANCE CELL, OVERSEAS BANKING DEPTT.,9TH FLR., H.O.,
+  swift: JANBBDDHSRC
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: TOPKHANA ROAD CORPORATE BRANCH
+  swift: JANBBDDHTKD
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA MODEL TOWN CORPORATE BRANCH
+  swift: JANBBDDHUMC
+    
+- name: "JANATA BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: JANBBDDH
+    
+- name: "JANATA BANK LIMITED"
+  city: "DINAJPUR"
+  branch: DINAJPUR CORPORATE BRANCH
+  swift: JANBBDDHDNJ
+    
+- name: "JANATA BANK LIMITED"
+  city: "FARIDPUR"
+  branch: FARIDPUR CORPORATE BRANCH
+  swift: JANBBDDHFAR
+    
+- name: "JANATA BANK LIMITED"
+  city: "JESSORE"
+  branch: M.K. ROAD CORPORATE BRANCH
+  swift: JANBBDDHJMK
+    
+- name: "JANATA BANK LIMITED"
+  city: "KHULNA"
+  branch: JESSORE ROAD CORPORATE BRANCH
+  swift: JANBBDDHKSR
+    
+- name: "JANATA BANK LIMITED"
+  city: "KHULNA"
+  branch: K.D. GHOSH ROAD CORPORATE BRANCH
+  swift: JANBBDDHKDA
+    
+- name: "JANATA BANK LIMITED"
+  city: "MYMENSINGH"
+  branch: HALUAGHAT BRANCH
+  swift: JANBBDDHHAL
+    
+- name: "JANATA BANK LIMITED"
+  city: "MYMENSINGH"
+  branch: MYMENSINGH CORPORATE BRANCH
+  swift: JANBBDDHMYN
+    
+- name: "JANATA BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: BANGABANDHU ROAD CORPORATE BRANCH
+  swift: JANBBDDHBNG
+    
+- name: "JANATA BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NETAIGANJ CORPORATE BRANCH
+  swift: JANBBDDHNGN
+    
+- name: "JANATA BANK LIMITED"
+  city: "NOAPARA"
+  branch: NOAPARA CORPORATE BRANCH
+  swift: JANBBDDHNPJ
+    
+- name: "JANATA BANK LIMITED"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI CORPORATE BRANCH
+  swift: JANBBDDHRAJ
+    
+- name: "JANATA BANK LIMITED"
+  city: "RANGPUR"
+  branch: RANGPUR CORPORATE  BRANCH
+  swift: JANBBDDHRNP
+    
+- name: "JANATA BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: JANBBDDHFES
+    
+- name: "JANATA BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET CORPORATE BRANCH
+  swift: JANBBDDHSLT
+    
+- name: "LANKABANGLA SECURITIES LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: VBSEBDD1
+    
+- name: "MEGHNA BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: MGBLBDDH
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: MBLBBDDH018
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: MBLBBDDH003
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: MBLBBDDH016
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: MBLBBDDH010
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: MBLBBDDH007
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: BIJOYNAGAR BRANCH
+  swift: MBLBBDDH020
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: MBLBBDDH006
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: ELEPHANT ROAD BRANCH
+  swift: MBLBBDDH014
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: MBLBBDDH019
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: MBLBBDDH002
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: MAIN BRANCH
+  swift: MBLBBDDH001
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: MIRPUR BRANCH
+  swift: MBLBBDDH015
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: MBLBBDDH012
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: MBLBBDDH013
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: NAYABAZAR BRANCH
+  swift: MBLBBDDH011
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: SATMASJID RD BRANCH
+  swift: MBLBBDDH021
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: MBLBBDDH017
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: MBLBBDDH
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "NAOGAON"
+  branch: NAOGAON BRANCH
+  swift: MBLBBDDH009
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ
+  swift: MBLBBDDH022
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: MBLBBDDH005
+    
+- name: "MERCANTILE BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: MBLBBDDH008
+    
+- name: "MIDLAND BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: MDBLBDDH353
+    
+- name: "MIDLAND BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN
+  swift: MDBLBDDH355
+    
+- name: "MIDLAND BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH, BANANI
+  swift: MDBLBDDH354
+    
+- name: "MIDLAND BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: MDBLBDDH
+    
+- name: "MIDLAND BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: MDBLBDDH352
+    
+- name: "MODHUMOTI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: MODHBDDHAGR
+    
+- name: "MODHUMOTI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: OFFSHORE BANKING UNIT
+  swift: MODHBDDHOBU
+    
+- name: "MODHUMOTI BANK LIMITED"
+  city: "DHAKA"
+  branch: CENTRAL TRADE PROCESSING UNIT
+  swift: MODHBDDHCTU
+    
+- name: "MODHUMOTI BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: MODHBDDHGUL
+    
+- name: "MODHUMOTI BANK LIMITED"
+  city: "DHAKA"
+  branch: MITFORD BRANCH
+  swift: MODHBDDHMIT
+    
+- name: "MODHUMOTI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: MODHBDDHMTJ
+    
+- name: "MODHUMOTI BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: MODHBDDHUTT
+    
+- name: "MODHUMOTI BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: MODHBDDH
+    
+- name: "MTB SECURITIES LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: MTSUBDD1
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: MTBLBDDHAGB
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: MTBLBDDHJUB
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: MTBLBDDHKTG
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: TRADE SERVICES
+  swift: MTBLBDDHTSC
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: BABU BAZAR BRANCH
+  swift: MTBLBDDHBBB
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: MTBLBDDHDHA
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA BRANCH
+  swift: MTBLBDDHDIL
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: MTBLBDDHGUL
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: OFFSHORE BANKING UNIT
+  swift: MTBLBDDHOBU
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: PANTHAPATH BRANCH
+  swift: MTBLBDDHPPB
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: MTBLBDDHPBR
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: PROGATI SARANI BRANCH
+  swift: MTBLBDDHPSB
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: TRADE SERVICES
+  swift: MTBLBDDHTSD
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: TRADE SERVICES, MOTIJHEEL SUB-CENTRE
+  swift: MTBLBDDHTSM
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA MODEL TOWN BRANCH
+  swift: MTBLBDDHUTR
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: MTBLBDDH
+    
+- name: "MUTUAL TRUST BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: MTBLBDDHMSL
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "BARISAL"
+  branch: BARISAL BRANCH
+  swift: NBLBBDDH013
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: NBLBBDDH014
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "BRAHMANBARIA"
+  branch: BRAHMANBARIA BRANCH
+  swift: NBLBBDDH022
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "CHAPAINAWABGANJ"
+  branch: CHAPAINAWABGANJ BRANCH
+  swift: NBLBBDDH053
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: NBLBBDDH004
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: NBLBBDDH016
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: NBLBBDDH002
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: SHEIKH MUJIB ROAD BRANCH
+  swift: NBLBBDDH060
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: BABU BAZAR BRANCH
+  swift: NBLBBDDH031
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: NBLBBDDH106
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: NBLBBDDH012
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: NBLBBDDH063
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA BRANCH
+  swift: NBLBBDDH001
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: ELEPHANT ROAD BRANCH
+  swift: NBLBBDDH015
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH
+  swift: NBLBBDDH021
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: NBLBBDDH067
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: IMAMGANJ BRANCH
+  swift: NBLBBDDH003
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: ISLAMPUR BRANCH
+  swift: NBLBBDDH054
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: NBLBBDDH048
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: MALIBAGH BRANCH
+  swift: NBLBBDDH032
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: MIRPUR BRANCH
+  swift: NBLBBDDH069
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: NBLBBDDH043
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: NBLBBDDH058
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: NEW ESKATON BRANCH
+  swift: NBLBBDDH111
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: NORTH BROOK HALL ROAD BRANCH
+  swift: NBLBBDDH049
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: OFFSHORE BANKING UNIT, MOHAKHALI
+  swift: NBLBBDDH998
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: OFFSHORE DILKUSHA
+  swift: NBLBBDDH997
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: PRAGATI SARANI BRANCH
+  swift: NBLBBDDH098
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: NBLBBDDH068
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: Z. H. SIKDER WOMENS MEDICAL COLLEGE BR
+  swift: NBLBBDDH073
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: NBLBBDDH
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "JAMALPUR"
+  branch: JAMALPUR BRANCH
+  swift: NBLBBDDH075
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: NBLBBDDH029
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "JOYPURHAT"
+  branch: JOYPURHAT BRANCH
+  swift: NBLBBDDH062
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: NBLBBDDH007
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "MYMENSINGH"
+  branch: MYMENSINGH BRANCH
+  swift: NBLBBDDH026
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "NAOGAON"
+  branch: NAOGAON BRANCH
+  swift: NBLBBDDH039
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: NBLBBDDH010
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "PABNA"
+  branch: PABNA BRANCH
+  swift: NBLBBDDH036
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: NBLBBDDH005
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "RANGPUR"
+  branch: RANGPUR BRANCH
+  swift: NBLBBDDH006
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "SATKHIRA"
+  branch: SATKHIRA BRANCH
+  swift: NBLBBDDH024
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "SHERPUR"
+  branch: SHERPUR BRANCH
+  swift: NBLBBDDH076
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "SUNAMGANJ"
+  branch: SUNAMGONJ
+  swift: NBLBBDDH086
+    
+- name: "NATIONAL BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: NBLBBDDH008
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "DHAKA"
+  branch: null
+  swift: NBPABDDH
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: NCCLBDDHAGB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: NCCLBDDHJRB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: NCCLBDDHKTB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: O.R. NIZAM ROAD BRANCH
+  swift: NCCLBDDHORN
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: BABUBAZAR BRANCH
+  swift: NCCLBDDHBBB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: NCCLBDDHBNB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: NCCLBDDHDMB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA BRANCH
+  swift: NCCLBDDHDLB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH
+  swift: NCCLBDDHFEB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: NCCLBDDHGSB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: INTERNATIONAL DIVISION
+  swift: NCCLBDDHHID
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRANBAZAR BRANCH
+  swift: NCCLBDDHKWB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: MALIBAGH BRANCH
+  swift: NCCLBDDHMBB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: MITFORD BRANCH
+  swift: NCCLBDDHMFD
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: MOGHBAZAR BRANCH
+  swift: NCCLBDDHMGB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: NCCLBDDHMTB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: OFF-SHORE BANKING UNIT(OBU) AT NCC BANK BHABAN BRANCH
+  swift: NCCLBDDHOBU
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: NCCLBDDHUTB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: NCCLBDDH
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: NCCLBDDHNBB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: NCCLBDDHJSB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: NCCLBDDHKLB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH,TARAMIA MANSION,187-BANGABANDHU ROAD,NARAYANGANJ
+  swift: NCCLBDDHNGB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "RANGPUR"
+  branch: RANGPUR BRANCH
+  swift: NCCLBDDHRPB
+    
+- name: "NATIONAL CREDIT AND COMMERCE BANK LIMITED"
+  city: "SYLHET"
+  branch: LALDIGHIRPAR BRANCH
+  swift: NCCLBDDHLDB
+    
+- name: "NRB BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: NRBDBDDH
+    
+- name: "NRB COMMERCIAL BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: O.R. NIZAM ROAD BRANCH
+  swift: NRBBBDDHORN
+    
+- name: "NRB COMMERCIAL BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: QUADERI CHEMBER, 37, AGRABAD C/A, CHITTAGONG
+  swift: NRBBBDDHAGB
+    
+- name: "NRB COMMERCIAL BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: NRBBBDDHDHN
+    
+- name: "NRB COMMERCIAL BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: NRBBBDDHGUL
+    
+- name: "NRB COMMERCIAL BANK LIMITED"
+  city: "DHAKA"
+  branch: HATIRPOOL BRANCH
+  swift: NRBBBDDHHAT
+    
+- name: "NRB COMMERCIAL BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: NRBBBDDHPRB
+    
+- name: "NRB COMMERCIAL BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: NRBBBDDHUTR
+    
+- name: "NRB COMMERCIAL BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: NRBBBDDH
+    
+- name: "NRB GLOBAL BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: NGBLBDDH
+    
+- name: "ONE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: ONEBBDDH002
+    
+- name: "ONE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: ONEBBDDH023
+    
+- name: "ONE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: ONEBBDDH004
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: ONEBBDDH018
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: ONEBBDDH013
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: ELEPHANT ROAD BRANCH
+  swift: ONEBBDDH027
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: ONEBBDDH003
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: IMAMGONJ BRANCH
+  swift: ONEBBDDH008
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: KAKRAIL BRANCH
+  swift: ONEBBDDH022
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: ONEBBDDH012
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: MIRPUR BRANCH
+  swift: ONEBBDDH011
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: ONEBBDDH020
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: OFFSHORE BANKING UNIT
+  swift: ONEBBDDHOBU
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: ONEBBDDH001
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: PROGOTI SHARANI BRANCH
+  swift: ONEBBDDH025
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: ONEBBDDH006
+    
+- name: "ONE BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: ONEBBDDH
+    
+- name: "ONE BANK LIMITED"
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: ONEBBDDH014
+    
+- name: "ONE BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: ONEBBDDH017
+    
+- name: "ONE BANK LIMITED"
+  city: "SAVAR"
+  branch: GANAKBARI EPZ BRANCH
+  swift: ONEBBDDH005
+    
+- name: "ONE BANK LIMITED"
+  city: "SYLHET"
+  branch: LALDIGHIRPAR BRANCH
+  swift: ONEBBDDH051
+    
+- name: "PRIME BANK LIMITED"
+  city: "BARISAL"
+  branch: BARISAL BRANCH
+  swift: PRBLBDDH008
+    
+- name: "PRIME BANK LIMITED"
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: PRBLBDDH022
+    
+- name: "PRIME BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: PRBLBDDH015
+    
+- name: "PRIME BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: PRBLBDDH017
+    
+- name: "PRIME BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGANJ BRANCH
+  swift: PRBLBDDH002
+    
+- name: "PRIME BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: LALDIGHI EAST BRANCH
+  swift: PRBLBDDH025
+    
+- name: "PRIME BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: OBU CHITTAGONG EPZ
+  swift: PRBLBDDHCEZ
+    
+- name: "PRIME BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: OR NIZAM ROAD BRANCH
+  swift: PRBLBDDH027
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: PRBLBDDH020
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: PRBLBDDH026
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: ELEPHANT ROAD BRANCH
+  swift: PRBLBDDH011
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH
+  swift: PRBLBDDH019
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: GANAKBARI BRANCH,SAVAR
+  swift: PRBLBDDH014
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: PRBLBDDH016
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: INTERNATIONAL DIVISION
+  swift: PRBLBDDH099
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: ISLAMIC BANKING BRANCH
+  swift: PRBLBDDH005
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: PRBLBDDH010
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: PRBLBDDH007
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: PRBLBDDH001
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: MOUCHAK BRANCH
+  swift: PRBLBDDH013
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: MOULVI BAZAR BRANCH
+  swift: PRBLBDDH003
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: OBU DHAKA EPZ
+  swift: PRBLBDDHDEZ
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: SAT MASJID ROAD BRANCH
+  swift: PRBLBDDH023
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: SBC TOWER BRANCH
+  swift: PRBLBDDH024
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: PRBLBDDH021
+    
+- name: "PRIME BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: PRBLBDDH
+    
+- name: "PRIME BANK LIMITED"
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: PRBLBDDH018
+    
+- name: "PRIME BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: PRBLBDDH004
+    
+- name: "PRIME BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: PRBLBDDH012
+    
+- name: "PRIME BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: OBU ADAMJEE EPZ
+  swift: PRBLBDDHAEZ
+    
+- name: "PRIME BANK LIMITED"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: PRBLBDDH009
+    
+- name: "PRIME BANK LIMITED"
+  city: "SYLHET"
+  branch: COURT ROAD,MOULVIBAZAR
+  swift: PRBLBDDH028
+    
+- name: "PRIME BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: PRBLBDDH006
+    
+- name: "PUBALI BANK LIMITED"
+  city: "BARISAL"
+  branch: BARISAL BRANCH
+  swift: PUBABDDH212
+    
+- name: "PUBALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: PUBABDDH204
+    
+- name: "PUBALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: CDA BRANCH
+  swift: PUBABDDH206
+    
+- name: "PUBALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: PUBABDDH205
+    
+- name: "PUBALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: LALDIGHI EAST BRANCH
+  swift: PUBABDDH207
+    
+- name: "PUBALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: OFFSHORE BANKING UNIT (OBU), AGRABAD
+  swift: PUBABDDH002
+    
+- name: "PUBALI BANK LIMITED"
+  city: "COMILLA"
+  branch: COMILLA BRANCH
+  swift: PUBABDDH209
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: B. B. AVENUE CORPORATE BRANCH
+  swift: PUBABDDH196
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: PUBABDDH222
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: CENTRALIZED TRADE PROCESSING CENTER (CTPC)
+  swift: PUBABDDH226
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: CHAWK BAZAR BRANCH
+  swift: PUBABDDH198
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: DHAKA STADIUM BRANCH
+  swift: PUBABDDH199
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: FARMGATE BRANCH
+  swift: PUBABDDH219
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH
+  swift: PUBABDDH200
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN MODEL TOWN BRANCH
+  swift: PUBABDDH223
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: INTERNATIONAL DIVISION, HEAD OFFICE
+  swift: PUBABDDH194
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: KARWAN BAZAR BRANCH
+  swift: PUBABDDH215
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOGHBAZAR BRANCH
+  swift: PUBABDDH217
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: PUBABDDH216
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: PUBABDDH195
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: NAYAPALTAN BRANCH
+  swift: PUBABDDH220
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: OFFSHORE BANKING UNIT (OBU)
+  swift: PUBABDDH001
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: PANTHAPATH BRANCH
+  swift: PUBABDDH210
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: PUBABDDH201
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: SADARGHAT BRANCH
+  swift: PUBABDDH197
+    
+- name: "PUBALI BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: PUBABDDH
+    
+- name: "PUBALI BANK LIMITED"
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: PUBABDDH221
+    
+- name: "PUBALI BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA MAIN BRANCH
+  swift: PUBABDDH211
+    
+- name: "PUBALI BANK LIMITED"
+  city: "MYMENSINGH"
+  branch: MYMENSINGH MAIN BRANCH
+  swift: PUBABDDH203
+    
+- name: "PUBALI BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGONJ BRANCH
+  swift: PUBABDDH202
+    
+- name: "PUBALI BANK LIMITED"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: PUBABDDH213
+    
+- name: "PUBALI BANK LIMITED"
+  city: "SUNAMGANJ"
+  branch: SUNAMGANJ BRANCH
+  swift: PUBABDDH214
+    
+- name: "PUBALI BANK LIMITED"
+  city: "SYLHET"
+  branch: DARGAGATE BRANCH
+  swift: PUBABDDH218
+    
+- name: "PUBALI BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET MAIN BRANCH
+  swift: PUBABDDH208
+    
+- name: "RUPALI BANK LTD"
+  city: "BOGRA"
+  branch: THANA ROAD BRANCH
+  swift: RUPBBDDHTRB
+    
+- name: "RUPALI BANK LTD"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: RUPBBDDHAGC
+    
+- name: "RUPALI BANK LTD"
+  city: "CHITTAGONG"
+  branch: O.R. NIZAM ROAD CORPORATE BRANCH,CHITTAGONG
+  swift: RUPBBDDHNRC
+    
+- name: "RUPALI BANK LTD"
+  city: "CHITTAGONG"
+  branch: RUPALI SADAN BRANCH, CHITTAGONG
+  swift: RUPBBDDHRSC
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE CORPORATE BRANCH, DHAKA
+  swift: RUPBBDDHRFB
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: JOHNSON ROAD BRANCH
+  swift: RUPBBDDHJRD
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: LOCAL OFFICE, DHAKA
+  swift: RUPBBDDHLOD
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: MITFORD BRANCH
+  swift: RUPBBDDHMFD
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: MOTIJHEEL CORPORATE BRANCH
+  swift: RUPBBDDHMCD
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: NIKUNJO BRANCH
+  swift: RUPBBDDHNBD
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: PURANA PALTAN CORPORATE BRANCH
+  swift: RUPBBDDHPPD
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: RAMNA CORPORATE BRANCH
+  swift: RUPBBDDHRBD
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: REMITTANCE DIVISION
+  swift: RUPBBDDHREM
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: RUPALI SADAN CORPORATE BRANCH
+  swift: RUPBBDDHRSD
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: TCB BHABAN BRANCH
+  swift: RUPBBDDHTCB
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: TREASURY DIVISION, HEAD OFFICE, DHAKA, BD
+  swift: RUPBBDDHRTD
+    
+- name: "RUPALI BANK LTD"
+  city: "DHAKA"
+  branch: null
+  swift: RUPBBDDH
+    
+- name: "RUPALI BANK LTD"
+  city: "KHULNA"
+  branch: SHAMS-BUILDING BRANCH, KHULNA
+  swift: RUPBBDDHSBK
+    
+- name: "RUPALI BANK LTD"
+  city: "KHULNA"
+  branch: null
+  swift: RUPBBDDHDPK
+    
+- name: "RUPALI BANK LTD"
+  city: "MYMENSINGH"
+  branch: CHHOTO BAZAR BRANCH
+  swift: RUPBBDDHCBM
+    
+- name: "RUPALI BANK LTD"
+  city: "NARAYANGANJ"
+  branch: SHAISTA KHAN ROAD (S. K. ROAD) BRANCH, NARAYANGONJ
+  swift: RUPBBDDHSKN
+    
+- name: "RUPALI BANK LTD"
+  city: "RAJSHAHI"
+  branch: SHAHEB BAZAR BRANCH
+  swift: RUPBBDDHSBR
+    
+- name: "RUPALI BANK LTD"
+  city: "SYLHET"
+  branch: MIRA BAZAR BRANCH
+  swift: RUPBBDDHMBS
+    
+- name: "SAR SECURITIES LTD"
+  city: "DHAKA"
+  branch: null
+  swift: SEROBDD1
+    
+- name: "SCL SECURITIES LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SCSOBDD1
+    
+- name: "SES CO. LTD."
+  city: "DHAKA"
+  branch: null
+  swift: SESEBDD1
+    
+- name: "SES COMPANY LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SEOFBDD1
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: SJBLBDDHAGB
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: SJBLBDDHJUB
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGANJ BRANCH
+  swift: SJBLBDDHKTG
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: SJBLBDDHBAN
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: SJBLBDDHBNG
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: CENTRAL PROCESSSING CENTRE
+  swift: SJBLBDDHCPC
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: DHAKA MAIN BRANCH
+  swift: SJBLBDDHDMB
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: SJBLBDDHDHN
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: ESKATON BRANCH
+  swift: SJBLBDDHESK
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH
+  swift: SJBLBDDHFEX
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: SJBLBDDHGUL
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: SJBLBDD1KWR
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: SJBLBDDHKAW
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: MITFORD BRANCH
+  swift: SJBLBDDHMFB
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: SJBLBDDHMHK
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: SJBLBDDHMOT
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: OFFSHORE BANKING UNIT
+  swift: SJBLBDDHOBU
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: SATMOSHJID ROAD BRANCH
+  swift: SJBLBDDHSMR
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: TREASURY BACK OFFICE
+  swift: SJBLBDDHTBO
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: SJBLBDDHUTR
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SJBLBDDH
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: SJBLBDDHJSR
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: SJBLBDDHKLN
+    
+- name: "SHAHJALAL ISLAMI BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: SJBLBDDHNGJ
+    
+- name: "SHAJALAL BANK"
+  city: "DHAKA"
+  branch: null
+  swift: SHAJBDD1
+    
+- name: "SHIMANTO BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SHMTBDDD
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "BOGRA"
+  branch: BOGRA BRANCH, BOGRA
+  swift: SOIVBDDHBOG
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH, CHITTAGONG
+  swift: SOIVBDDHAGB
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD
+  swift: SOIVBDDHJUB
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: SOIVBDDHKTJ
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: BABUBAZAR BRANCH, DHAKA
+  swift: SOIVBDDHBBR
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI
+  swift: SOIVBDDHBAN
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: BASUNDHARA BRANCH
+  swift: SOIVBDDHBAS
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: CENTRALIZED TRADE PROCESSING UNIT (CTPU)
+  swift: SOIVBDDHCTP
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: CORPORATE BRANCH
+  swift: SOIVBDDHCOR
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI
+  swift: SOIVBDDHDHA
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH
+  swift: SOIVBDDHFEX
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH, DHAKA
+  swift: SOIVBDDHGUL
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: SOIVBDDHMHK
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: MOULVIBAZAR BRANCH, DHAKA
+  swift: SOIVBDDHMVR
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: NAWABPUR ROAD
+  swift: SOIVBDDHNAW
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: NEW ESKATON BRANCH
+  swift: SOIVBDDHESK
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: OFFSHORE BANKING UNIT
+  swift: SOIVBDDHOBU
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: PANTHAPATH
+  swift: SOIVBDDHPPB
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH, DHAKA
+  swift: SOIVBDDHPRN
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: SOIVBDDHUTR
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SOIVBDDH
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: SOIVBDDHKHU
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ
+  swift: SOIVBDDHNGJ
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: SOIVBDDHRAJ
+    
+- name: "SOCIAL ISLAMI BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: SOIVBDDHSYL
+    
+- name: "SONALI BANK LIMITED"
+  city: "BOGRA"
+  branch: CORPORATE BRANCH BOGRA
+  swift: BSONBDDHBOG
+    
+- name: "SONALI BANK LIMITED"
+  city: "BRAHMANBARIA"
+  branch: BRAHMANBARIA BR.
+  swift: BSONBDDHBRM
+    
+- name: "SONALI BANK LIMITED"
+  city: "CHAPAINAWABGANJ"
+  branch: CHAPAI NAWABGONJ BR.
+  swift: BSONBDDHCHP
+    
+- name: "SONALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD CORPORATE BRANCH, CHITTAGONG
+  swift: BSONBDDHAGR
+    
+- name: "SONALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: BAHADDARHAT BRANCH, CHITTAGONG.
+  swift: BSONBDDHBHT
+    
+- name: "SONALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BR.
+  swift: BSONBDDHKHA
+    
+- name: "SONALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: LALDIGHI CORPORATE BRANCH
+  swift: BSONBDDHCTG
+    
+- name: "SONALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: RAILWAY BUILDING BRANCH
+  swift: BSONBDDHRWB
+    
+- name: "SONALI BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: WAGE EARNER'S BR.
+  swift: BSONBDDHWEC
+    
+- name: "SONALI BANK LIMITED"
+  city: "COMILLA"
+  branch: COMILLA CORPORATE BR.
+  swift: BSONBDDHCCB
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: B.WAPDA BHABAN CORPORATE BRANCH, MOTIJHEEL.
+  swift: BSONBDDHBWP
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGA BANDHU AVENUE CORPORATE BRANCH
+  swift: BSONBDDHBBA
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: CANTONMENT CORPORATE BRANCH
+  swift: BSONBDDHCNT
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: CHOWK BAZAR BR.
+  swift: BSONBDDHCWK
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: BSONBDDHDHN
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA CORPORATE BRANCH, DHAKA
+  swift: BSONBDDHDIL
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN CURRENCY MANAGEMENT DIVISION, HEAD OFFICE
+  swift: BSONBDDHFCD
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE CORPORATE BRANCH
+  swift: BSONBDDHFEB
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: GREEN ROAD BR.
+  swift: BSONBDDHGRN
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: BSONBDDHGUL
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: HOTEL SHERATON BR. DHAKA
+  swift: BSONBDDHHST
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: LOCAL OFFICE
+  swift: BSONBDDHLOD
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: RAMNA CORPORATE BRANCH
+  swift: BSONBDDHRAM
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: SADARGHAT CORPORATE BRANCH
+  swift: BSONBDDHSDR
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: SHILPA BHABAN CORPORATE BRANCH, DHAKA
+  swift: BSONBDDHSLP
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: WAGE EARNER'S CORPORATE BRANCH, DHAKA
+  swift: BSONBDDHWEB
+    
+- name: "SONALI BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: BSONBDDH
+    
+- name: "SONALI BANK LIMITED"
+  city: "DINAJPUR"
+  branch: CORPORATE BRANCH DINAJPUR
+  swift: BSONBDDHDNJ
+    
+- name: "SONALI BANK LIMITED"
+  city: "JESSORE"
+  branch: JESSORE CORP. BR.
+  swift: BSONBDDHJSR
+    
+- name: "SONALI BANK LIMITED"
+  city: "KHULNA"
+  branch: DAULATPUR CORPORATE BRANCH
+  swift: BSONBDDHDAU
+    
+- name: "SONALI BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA CORPORATE BRANCH
+  swift: BSONBDDHKHU
+    
+- name: "SONALI BANK LIMITED"
+  city: "KUSHTIA"
+  branch: KUSHTIA BR.
+  swift: BSONBDDHKST
+    
+- name: "SONALI BANK LIMITED"
+  city: "MOULVIBAZAR"
+  branch: FOREIGN EXCHANGE BR. MOULVI BAZAR, SYLHET.
+  swift: BSONBDDHMLV
+    
+- name: "SONALI BANK LIMITED"
+  city: "MYMENSINGH"
+  branch: SONALI BANK LTD. MYMENSINGH CORP. BR
+  swift: BSONBDDHMYM
+    
+- name: "SONALI BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: FOREIGN EXCHANGE BRANCH, NARAYANGONJ
+  swift: BSONBDDHLAD
+    
+- name: "SONALI BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGONG CORPORATE BRANCH, NARAYANGONG
+  swift: BSONBDDHNAR
+    
+- name: "SONALI BANK LIMITED"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI CORPORATE BR.
+  swift: BSONBDDHRAJ
+    
+- name: "SONALI BANK LIMITED"
+  city: "RANGPUR"
+  branch: CORPORATE BRANCH RANGPUR
+  swift: BSONBDDHRNG
+    
+- name: "SONALI BANK LIMITED"
+  city: "RANGPUR"
+  branch: LALMONIRHAT BR.
+  swift: BSONBDDHLAL
+    
+- name: "SONALI BANK LIMITED"
+  city: "SATKHIRA"
+  branch: SATKHIRA BR.
+  swift: BSONBDDHSAT
+    
+- name: "SONALI BANK LIMITED"
+  city: "SIRAJGANJ"
+  branch: SIRAJGONJ BRANCH
+  swift: BSONBDDHSRJ
+    
+- name: "SONALI BANK LIMITED"
+  city: "SUNAMGANJ"
+  branch: CHHATAK BRANCH, SUNAMGANJ
+  swift: BSONBDDHCTK
+    
+- name: "SONALI BANK LIMITED"
+  city: "SUNAMGANJ"
+  branch: SUNAMGONJ BR.
+  swift: BSONBDDHSNG
+    
+- name: "SONALI BANK LIMITED"
+  city: "SYLHET"
+  branch: DARGAGATE CORPORATE BRANCH, DARGAGATE
+  swift: BSONBDDHDGT
+    
+- name: "SONALI BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET CORPORATE BRANCH.
+  swift: BSONBDDHSYL
+    
+- name: "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH, CHITTAGONG
+  swift: SBACBDDHAGB
+    
+- name: "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: SBACBDDHGLS
+    
+- name: "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: SBACBDDHUTR
+    
+- name: "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SBACBDDH
+    
+- name: "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED"
+  city: "DILKUSHA"
+  branch: PRINCIPAL BRANCH
+  swift: SBACBDDHPRN
+    
+- name: "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH, KHULNA
+  swift: SBACBDDHKLN
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH, CHITTAGONG
+  swift: SEBDBDDHAGR
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: CDA AVENUE BRANCH
+  swift: SEBDBDDHCDA
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH, CHITTAGONG
+  swift: SEBDBDDHJUB
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGANJ BRANCH, CHITTAGONG
+  swift: SEBDBDDHKTG
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: OFF-SHORE BANKING UNIT (OBU), CEPZ
+  swift: SEBDBDDHOBC
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: AGARGAON BRANCH
+  swift: SEBDBDDHAGA
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: SEBDBDDHBAN
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH, DHAKA
+  swift: SEBDBDDHBNG
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: CENTRAL TRADE SERVICES DEPARTMENT
+  swift: SEBDBDDHCTS
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: CORPORATE BRANCH
+  swift: SEBDBDDHCRP
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH, DHAKA
+  swift: SEBDBDDHDHN
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH, DHAKA
+  swift: SEBDBDDHGUL
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: IMAMGANJ BRANCH, DHAKA
+  swift: SEBDBDDHIMG
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: KARWAN BAZAR BRANCH
+  swift: SEBDBDDHKRN
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH (ISLAMIC BANKING)
+  swift: SEBDBDDHMIB
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: NEW ELEPHANT ROAD BRANCH
+  swift: SEBDBDDHNER
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: NEW ESKATON BRANCH
+  swift: SEBDBDDHESK
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH, DHAKA
+  swift: SEBDBDDHSPB
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: SHYAMOLI BRANCH
+  swift: SEBDBDDHSYM
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: SEBDBDDHUTT
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SEBDBDDH
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SEBDBDDHOBU
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: SEBDBDDHKLN
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: SEBDBDDHNAR
+    
+- name: "SOUTHEAST BANK LIMITED"
+  city: "SYLHET"
+  branch: LALDIGHIRPAR BRANCH, SYLHET
+  swift: SEBDBDDHLDP
+    
+- name: "STANDARD BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: SDBLBDDH107
+    
+- name: "STANDARD BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: SDBLBDDH112
+    
+- name: "STANDARD BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: SDBLBDDH103
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: SDBLBDDH119
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: SDBLBDDH114
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EX. BRANCH
+  swift: SDBLBDDH113
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: GREEN ROAD BRANCH
+  swift: SDBLBDDH122
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: SDBLBDDH109
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN-1 BRANCH
+  swift: SDBLBDDH117
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: IMAMGONJ BRANCH
+  swift: SDBLBDDH104
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: MIRPUR BRANCH
+  swift: SDBLBDDH120
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: SDBLBDDH121
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: NARAYANGONJ BRANCH
+  swift: SDBLBDDH116
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: SDBLBDDH102
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: TOPKHANA ROAD
+  swift: SDBLBDDH105
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA MODEL TOWN BRANCH
+  swift: SDBLBDDH115
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SDBLBDDH
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SDBLBDDH118
+    
+- name: "STANDARD BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: SDBLBDDHOBU
+    
+- name: "STANDARD BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: SDBLBDDH108
+    
+- name: "STANDARD BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: SDBLBDDH110
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "CHITTAGONG"
+  branch: null
+  swift: SCBLBDDXCTG
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "DHAKA"
+  branch: SAVAR EPZ BRANCH
+  swift: SCBLBDDXSVR
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "DHAKA"
+  branch: null
+  swift: SCBLBDDX
+    
+- name: "STATE BANK OF INDIA"
+  city: "CHITTAGONG"
+  branch: CHITTAGONG
+  swift: SBINBDDHCTG
+    
+- name: "STATE BANK OF INDIA"
+  city: "CHITTAGONG"
+  branch: OFFSHORE BANKING UNIT,CHITTAGONG
+  swift: SBINBDDHOBC
+    
+- name: "STATE BANK OF INDIA"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: SBINBDDHGUL
+    
+- name: "STATE BANK OF INDIA"
+  city: "DHAKA"
+  branch: OFFSORE BANKING UNIT, DHAKA
+  swift: SBINBDDHOBD
+    
+- name: "STATE BANK OF INDIA"
+  city: "DHAKA"
+  branch: null
+  swift: SBINBDDH
+    
+- name: "STATE BANK OF INDIA"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: SBINBDDH056
+    
+- name: "STATE BANK OF INDIA"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: SBINBDDH055
+    
+- name: "STATE BANK OF INDIA"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: SBINBDDHSYL
+    
+- name: "THE FARMERS BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: FRMSBDDH
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "CHITTAGONG"
+  branch: null
+  swift: HSBCBDDHCHG
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: HSBCBDDH
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: PRMRBDDHAGR
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: PRMRBDDHKTG
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: PRMRBDDHBNN
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: PRMRBDDHBNG
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: CENTRAL TRADE OPERATION
+  swift: PRMRBDDHCTO
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: PRMRBDDHDHN
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA BRANCH
+  swift: PRMRBDDHDIL
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA CORPORATE BRANCH
+  swift: PRMRBDDHDCB
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: ELEPHANT ROAD BRANCH
+  swift: PRMRBDDHELE
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: PRMRBDDHGUL
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN CIRCLE 2
+  swift: PRMRBDDHGCD
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: IMAMGONJ BRANCH
+  swift: PRMRBDDHIMG
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: ISLAMI BANKING BRANCH, MOHAKHALI
+  swift: PRMRBDDHMHK
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRANBAZAR BRANCH
+  swift: PRMRBDDHKBR
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: MOTIJHEEL BRANCH
+  swift: PRMRBDDHMTJ
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: O.R.NIZAM ROAD BRANCH
+  swift: PRMRBDDHORN
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: PRMRBDDHUTT
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: PRMRBDDH
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: PRMRBDDHKLN
+    
+- name: "THE PREMIER BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGONJ BRANCH
+  swift: PRMRBDDHNRG
+    
+- name: "TRUST BANK LTD., THE"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: TTBLBDDH012
+    
+- name: "TRUST BANK LTD., THE"
+  city: "CHITTAGONG"
+  branch: CDA AVENUE BRANCH
+  swift: TTBLBDDH020
+    
+- name: "TRUST BANK LTD., THE"
+  city: "CHITTAGONG"
+  branch: HALISHAHAR BRANCH
+  swift: TTBLBDDH024
+    
+- name: "TRUST BANK LTD., THE"
+  city: "CHITTAGONG"
+  branch: KHATUNGANJ
+  swift: TTBLBDDH015
+    
+- name: "TRUST BANK LTD., THE"
+  city: "DHAKA"
+  branch: DHANMONDI BRANCH
+  swift: TTBLBDDH014
+    
+- name: "TRUST BANK LTD., THE"
+  city: "DHAKA"
+  branch: DILKUSHA CORPORATE BRANCH
+  swift: TTBLBDDH017
+    
+- name: "TRUST BANK LTD., THE"
+  city: "DHAKA"
+  branch: GULSHAN CORPORATE BRANCH
+  swift: TTBLBDDH016
+    
+- name: "TRUST BANK LTD., THE"
+  city: "DHAKA"
+  branch: KARWAN BAZAR BRANCH
+  swift: TTBLBDDH030
+    
+- name: "TRUST BANK LTD., THE"
+  city: "DHAKA"
+  branch: MILLENNIUM BRANCH
+  swift: TTBLBDDH022
+    
+- name: "TRUST BANK LTD., THE"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: TTBLBDDH002
+    
+- name: "TRUST BANK LTD., THE"
+  city: "DHAKA"
+  branch: SENA KALYAN BHABAN BRANCH
+  swift: TTBLBDDH003
+    
+- name: "TRUST BANK LTD., THE"
+  city: "DHAKA"
+  branch: UTTARA CORPORATE BRANCH
+  swift: TTBLBDDH023
+    
+- name: "TRUST BANK LTD., THE"
+  city: "DHAKA"
+  branch: null
+  swift: TTBLBDDH
+    
+- name: "TRUST BANK LTD., THE"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: TTBLBDDH040
+    
+- name: "TRUST BANK LTD., THE"
+  city: "NARAYANGANJ"
+  branch: NARAYANGONJ BRANCH
+  swift: TTBLBDDH035
+    
+- name: "TRUST BANK LTD., THE"
+  city: "SYLHET"
+  branch: SYLHET CORPORATE BRANCH
+  swift: TTBLBDDH021
+    
+- name: "UNION BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: UBLDBDDHAGR
+    
+- name: "UNION BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: UBLDBDDHKTB
+    
+- name: "UNION BANK LIMITED"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: UBLDBDDHBAN
+    
+- name: "UNION BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA BRANCH
+  swift: UBLDBDDHDIL
+    
+- name: "UNION BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: UBLDBDDHGUL
+    
+- name: "UNION BANK LIMITED"
+  city: "DHAKA"
+  branch: HATKHOLA BRANCH
+  swift: UBLDBDDHHAT
+    
+- name: "UNION BANK LIMITED"
+  city: "DHAKA"
+  branch: PANTHAPATH BRANCH
+  swift: UBLDBDDHPAN
+    
+- name: "UNION BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: UBLDBDDH
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: UCBLBDDHBGR
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: UCBLBDDHAGB
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "CHITTAGONG"
+  branch: JUBILEE ROAD BRANCH
+  swift: UCBLBDDHJBR
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "CHITTAGONG"
+  branch: KADAMTALI BRANCH
+  swift: UCBLBDDHKDM
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "CHITTAGONG"
+  branch: KHATUNGANJ
+  swift: UCBLBDDHKTG
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: BANANI BRANCH
+  swift: UCBLBDDHBNB
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: BANGSHAL BRANCH
+  swift: UCBLBDDHBNG
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: BIJOYNAGAR BRANCH
+  swift: UCBLBDDHBJN
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: CORPORATE BRANCH
+  swift: UCBLBDDHGAB
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: ELEPHANT ROAD BRANCH
+  swift: UCBLBDDHEPR
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH,DHAKA
+  swift: UCBLBDDHFEX
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: UCBLBDDHGSN
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: UCBLBDDHKBZ
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: MIRPUR BRANCH
+  swift: UCBLBDDHMRP
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: MIRPUR ROAD BRANCH
+  swift: UCBLBDDHMRB
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: MOHAKHALI BRANCH
+  swift: UCBLBDDHMKH
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: MOULVI BAZAR BRANCH
+  swift: UCBLBDDHMBD
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: NAWABPUR BRANCH
+  swift: UCBLBDDHNWP
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: NAYA BAZAR BRANCH
+  swift: UCBLBDDHNBZ
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: NORTH BROOK HALL ROAD BRANCH
+  swift: UCBLBDDHNBH
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: OFFSHORE BANKING UNIT
+  swift: UCBLBDDHOBU
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: PRINCIPAL BRANCH
+  swift: UCBLBDDHPRB
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: TONGI BRANCH
+  swift: UCBLBDDHTNG
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: TRADE FINANCE OPERATIONS
+  swift: UCBLBDDHTFO
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: UCB CAPITAL MANAGEMENT LTD
+  swift: UCBLBDDHCML
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: UCBLBDDHUTR
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "DHAKA"
+  branch: null
+  swift: UCBLBDDH
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "KHULNA"
+  branch: KHULNA BRANCH
+  swift: UCBLBDDHKLN
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ BRANCH
+  swift: UCBLBDDHNGJ
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "RAJSHAHI"
+  branch: RAJSHAHI BRANCH
+  swift: UCBLBDDHRJH
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "RANGPUR"
+  branch: RANGPUR BRANCH
+  swift: UCBLBDDHRNG
+    
+- name: "UNITED COMMERCIAL BANK LTD"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: UCBLBDDHSYL
+    
+- name: "UTTARA BANK LIMITED"
+  city: "BARISAL"
+  branch: BARISAL BRANCH
+  swift: UTBLBDDH444
+    
+- name: "UTTARA BANK LIMITED"
+  city: "BOGRA"
+  branch: BOGRA BRANCH
+  swift: UTBLBDDH447
+    
+- name: "UTTARA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: AGRABAD BRANCH
+  swift: UTBLBDDH439
+    
+- name: "UTTARA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: KHATUNGONJ BRANCH
+  swift: UTBLBDDH442
+    
+- name: "UTTARA BANK LIMITED"
+  city: "CHITTAGONG"
+  branch: LALDIGHI BRANCH
+  swift: UTBLBDDH450
+    
+- name: "UTTARA BANK LIMITED"
+  city: "COMILLA"
+  branch: COMILLA  BRANCH
+  swift: UTBLBDDH441
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: AERE - EPZ BRANCH
+  swift: UTBLBDDH460
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: BANGABANDHU AVENUE BRANCH
+  swift: UTBLBDDH449
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: BANIJYA SHAKHA BRANCH
+  swift: UTBLBDDH453
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: CHAWK BAZAR DHAKA BRANCH
+  swift: UTBLBDDH434
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: CORPORATE BRANCH
+  swift: UTBLBDDH452
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: DARUS-SALAM ROAD BRANCH
+  swift: UTBLBDDH462
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: DILKUSHA BRANCH
+  swift: UTBLBDDH433
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: ENGLISH ROAD BRANCH
+  swift: UTBLBDDH464
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: FOREIGN EXCHANGE BRANCH
+  swift: UTBLBDDH435
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: GULSHAN BRANCH
+  swift: UTBLBDDH458
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: INTERNATIONAL DIVISION
+  swift: UTBLBDDH431
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: ISLAMPUR BRANCH
+  swift: UTBLBDDH436
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: KALABAGAN BRANCH
+  swift: UTBLBDDH461
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: KAWRAN BAZAR BRANCH
+  swift: UTBLBDDH455
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: LOCAL OFFICE
+  swift: UTBLBDDH432
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: MOULAVI BAZAR BRANCH
+  swift: UTBLBDDH448
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: NAWABPUR BRANCH
+  swift: UTBLBDDH454
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: OFFSHORE  BANKING UNIT
+  swift: UTBLBDDHOBU
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: PALLABI BRANCH
+  swift: UTBLBDDH457
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: RAMNA BRANCH
+  swift: UTBLBDDH438
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: SATMASJID ROAD BRANCH
+  swift: UTBLBDDH463
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: SHANTINAGAR BRANCH
+  swift: UTBLBDDH451
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: TREASURY  BACK OFFICE
+  swift: UTBLBDDHTDB
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: UTTARA BRANCH
+  swift: UTBLBDDH465
+    
+- name: "UTTARA BANK LIMITED"
+  city: "DHAKA"
+  branch: null
+  swift: UTBLBDDH
+    
+- name: "UTTARA BANK LIMITED"
+  city: "JESSORE"
+  branch: JESSORE BRANCH
+  swift: UTBLBDDH456
+    
+- name: "UTTARA BANK LIMITED"
+  city: "KHULNA"
+  branch: SIR IQBAL ROAD BRANCH
+  swift: UTBLBDDH443
+    
+- name: "UTTARA BANK LIMITED"
+  city: "MYMENSINGH"
+  branch: HALUAGHAT  BRANCH, UTTAR   BAZAR, HALUAGHAT, MYMENSINGH
+  swift: UTBLBDDH470
+    
+- name: "UTTARA BANK LIMITED"
+  city: "MYMENSINGH"
+  branch: MYMENSINGH BRANCH
+  swift: UTBLBDDH459
+    
+- name: "UTTARA BANK LIMITED"
+  city: "NAOGAON"
+  branch: NAOGAON BRANCH
+  swift: UTBLBDDH469
+    
+- name: "UTTARA BANK LIMITED"
+  city: "NARAYANGANJ"
+  branch: NARAYANGANJ
+  swift: UTBLBDDH437
+    
+- name: "UTTARA BANK LIMITED"
+  city: "NATOR"
+  branch: NATORE BRANCH
+  swift: UTBLBDDH467
+    
+- name: "UTTARA BANK LIMITED"
+  city: "PABNA"
+  branch: PABNA BRANCH
+  swift: UTBLBDDH466
+    
+- name: "UTTARA BANK LIMITED"
+  city: "RAJSHAHI"
+  branch: SHAHEB BAZAR BRANCH
+  swift: UTBLBDDH445
+    
+- name: "UTTARA BANK LIMITED"
+  city: "RANGPUR"
+  branch: RANGPUR BRANCH
+  swift: UTBLBDDH446
+    
+- name: "UTTARA BANK LIMITED"
+  city: "SUNAMGANJ"
+  branch: SUNAMGONJ BRANCH
+  swift: UTBLBDDH468
+    
+- name: "UTTARA BANK LIMITED"
+  city: "SYLHET"
+  branch: SYLHET BRANCH
+  swift: UTBLBDDH440
+    
+- name: "WOORI BANK, DHAKA"
+  city: "DHAKA"
+  branch: null
+  swift: HVBKBDDH
+    

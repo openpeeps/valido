@@ -1,0 +1,260 @@
+- name: "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A."
+  city: "BORGO MAGGIORE"
+  branch: O. SCARITO
+  swift: BASMSMS1004
+    
+- name: "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A."
+  city: "DOGANA"
+  branch: CORPORATE
+  swift: BASMSMS1012
+    
+- name: "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A."
+  city: "DOGANA"
+  branch: M. TINI
+  swift: BASMSMS1006
+    
+- name: "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A."
+  city: "DOGANA"
+  branch: PRIVATE
+  swift: BASMSMS1011
+    
+- name: "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A."
+  city: "DOGANA"
+  branch: null
+  swift: BASMSMSM
+    
+- name: "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A."
+  city: "SAN MARINO"
+  branch: CITTA'
+  swift: BASMSMS1001
+    
+- name: "BANCA CENTRALE DELLA REPUBBLICA DI SAN MARINO"
+  city: "SAN MARINO"
+  branch: SPORTELLO TESORERIA - ESATTORIA
+  swift: ICSMSMS1001
+    
+- name: "BANCA CENTRALE DELLA REPUBBLICA DI SAN MARINO"
+  city: "SAN MARINO"
+  branch: null
+  swift: ICSMSMSM
+    
+- name: "BANCA CIS S.P.A."
+  city: "BORGO MAGGIORE"
+  branch: null
+  swift: CRRNSMS1102
+    
+- name: "BANCA CIS S.P.A."
+  city: "DOGANA"
+  branch: CENTRO TONELLI
+  swift: CRRNSMS1104
+    
+- name: "BANCA CIS S.P.A."
+  city: "DOGANA"
+  branch: VIA 3 SETTEMBRE, 119
+  swift: CRRNSMS1106
+    
+- name: "BANCA CIS S.P.A."
+  city: "DOMAGNANO"
+  branch: null
+  swift: CRRNSMS1107
+    
+- name: "BANCA CIS S.P.A."
+  city: "ROVERETA"
+  branch: null
+  swift: CRRNSMS1105
+    
+- name: "BANCA CIS S.P.A."
+  city: "SERRAVALLE"
+  branch: null
+  swift: CRRNSMS1100
+    
+- name: "BANCA CIS S.P.A."
+  city: "SERRAVALLE"
+  branch: null
+  swift: CRRNSMSM
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "BORGO MAGGIORE"
+  branch: SUCCURSALE BORGO MAGGIORE
+  swift: MAOISMSM005
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "CAILUNGO"
+  branch: SUCCURSALE CAILUNGO
+  swift: MAOISMSM013
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "DOGANA"
+  branch: DIVISIONE PRIVATE
+  swift: MAOISMSM022
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "DOGANA"
+  branch: SUCCURSALE DOGANA
+  swift: MAOISMSM002
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "DOGANA"
+  branch: SUCCURSALE WTC - CORPORATE
+  swift: MAOISMSM010
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "DOMAGNANO"
+  branch: SUCCURSALE DOMAGNANO
+  swift: MAOISMSM003
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "FAETANO"
+  branch: SEDE FAETANO
+  swift: MAOISMSM006
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "FAETANO"
+  branch: null
+  swift: MAOISMSM
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "GUALDICCIOLO"
+  branch: SUCCURSALE GUALDICCIOLO
+  swift: MAOISMSM009
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "MURATA"
+  branch: SUCCURSALE MURATA
+  swift: MAOISMSM011
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "SAN MARINO"
+  branch: SUCCURSALE CITTA' 1
+  swift: MAOISMSM004
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "SAN MARINO"
+  branch: SUCCURSALE CITTA'
+  swift: MAOISMSM001
+    
+- name: "BANCA DI SAN MARINO SPA"
+  city: "SERRAVALLE"
+  branch: SUCCURSALE ROVERETA
+  swift: MAOISMSM007
+    
+- name: "BANCA IMPRESA DI SAN MARINO S.P.A."
+  city: "DOGANA"
+  branch: null
+  swift: BTITSMS1
+    
+- name: "BANCA SAMMARINESE DI INVESTIMENTO S.P.A."
+  city: "BORGO MAGGIORE"
+  branch: FILIALE DI BORGO MAGGIORE
+  swift: BSDISMD1003
+    
+- name: "BANCA SAMMARINESE DI INVESTIMENTO S.P.A."
+  city: "DOGANA"
+  branch: FILIALE DI DOGANA
+  swift: BSDISMD1002
+    
+- name: "BANCA SAMMARINESE DI INVESTIMENTO S.P.A."
+  city: "GUALDICCIOLO"
+  branch: FILIALE DI GUALDICCIOLO
+  swift: BSDISMD1005
+    
+- name: "BANCA SAMMARINESE DI INVESTIMENTO S.P.A."
+  city: "ROVERETA"
+  branch: FILIALE DI ROVERETA
+  swift: BSDISMD1001
+    
+- name: "BANCA SAMMARINESE DI INVESTIMENTO S.P.A."
+  city: "ROVERETA"
+  branch: null
+  swift: BSDISMSD
+    
+- name: "BANCA SAMMARINESE DI INVESTIMENTO S.P.A."
+  city: "SAN MARINO"
+  branch: FILIALE DI CITTA
+  swift: BSDISMD1004
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "BORGO MAGGIORE"
+  branch: AG.BORGO MAGGIORE
+  swift: CSSMSMS1001
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "CAILUNGO"
+  branch: AG.CAILUNGO
+  swift: CSSMSMS1009
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "CHIESANUOVA"
+  branch: AG.CHIESANUOVA
+  swift: CSSMSMS1006
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "DOGANA"
+  branch: AG.DOGANA
+  swift: CSSMSMS1003
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "DOGANA"
+  branch: AG.PONTE MELLINI
+  swift: CSSMSMS1016
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "DOMAGNANO"
+  branch: AG.DOMAGNANO
+  swift: CSSMSMS1014
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "FAETANO"
+  branch: AG.FAETANO
+  swift: CSSMSMS1015
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "FIORENTINO"
+  branch: AG.FIORENTINO
+  swift: CSSMSMS1013
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "GUALDICCIOLO"
+  branch: AG.GUALDICCIOLO
+  swift: CSSMSMS1004
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "MURATA"
+  branch: AG.MURATA
+  swift: CSSMSMS1011
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "ROVERETA"
+  branch: AG.ROVERETA
+  swift: CSSMSMS1010
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "SAN MARINO"
+  branch: AG.CENTRALE
+  swift: CSSMSMS1012
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "SAN MARINO"
+  branch: AG.CITTA'1
+  swift: CSSMSMS1005
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "SAN MARINO"
+  branch: AG.CITTA'2
+  swift: CSSMSMS1008
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "SAN MARINO"
+  branch: null
+  swift: CSSMSMSM
+    
+- name: "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO"
+  city: "SERRAVALLE"
+  branch: AG.SERRAVALLE
+  swift: CSSMSMS1002
+    
+- name: "POSTE SAN MARINO"
+  city: "SAN MARINO"
+  branch: null
+  swift: SAOOSMS1
+    

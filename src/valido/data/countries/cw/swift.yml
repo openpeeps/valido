@@ -1,0 +1,240 @@
+- name: "ABB INVESTMENT N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: ABBNCWC1
+    
+- name: "ABN-AMRO TRUST COMPANY"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: ABNACWC1
+    
+- name: "ADAMA IRVITA N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: IRPPCWCW
+    
+- name: "BANCARIBE CURACAO BANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: CARACWCU
+    
+- name: "BANCO ALIADO INTERNACIONAL NV"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: BALICWC1
+    
+- name: "BANCO CONTINENTAL OVERSEAS N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: COOVCWC1
+    
+- name: "BANCO DEL ORINOCO"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: ORIBCWCU
+    
+- name: "BANCO DI CARIBE N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: BDCCCWCU
+    
+- name: "BANCO MERCANTIL"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: BAMRCWC1
+    
+- name: "BANCO NACIONAL DE CREDITO, C.A. B U, SRCSAL CURACAO"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: NCRTCWCA
+    
+- name: "BANCO PROVINCIAL"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: BPROCWC1
+    
+- name: "BANCO PROVINCIAL OVERSEAS N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: BPOCCWCU
+    
+- name: "BLUE BANK INTERNATIONAL N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: BBICCWCW
+    
+- name: "BNC INTERNATIONAL BANK NV"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: SKYBCWCU
+    
+- name: "CENTRALE BANK VAN CURACAO EN SINT MAARTEN"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: CBCSCWCU
+    
+- name: "CITCO BANKING CORPORATION N.V."
+  city: "WILLEMSTAD"
+  branch: DEALING ROOM
+  swift: CITCCWCUDSK
+    
+- name: "CITCO BANKING CORPORATION N.V."
+  city: "WILLEMSTAD"
+  branch: HEAD OFFICE
+  swift: CITCCWCU
+    
+- name: "DEUTSCHE BANK FINANCE N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: DEFBCWC1
+    
+- name: "DVB BANK AMERICA N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: DVKBCWC1
+    
+- name: "EBNA BANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: EBNVCWCU
+    
+- name: "EXPRINTER INTERNATIONAL BANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: EINBCWCU
+    
+- name: "FIRST CURACAO INTERNATIONAL BANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: FCURCWCU
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN LTD) CURACAO BRANCH"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: FCIBCWCD
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN LTD) CURACAO BRANCH"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: FCIBCWCU
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (CURACAO) N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: FCIBCWC2
+    
+- name: "GIROBANK INTERNATIONAL N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: GIRCCWCC
+    
+- name: "GIROBANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: GIRCCWCU
+    
+- name: "HB SUBHOLDING B.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: HBBOCWCU
+    
+- name: "HOLLANDSCHE BANK-UNIE (INTERNATIONA L) N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: HOLUCWC1
+    
+- name: "INTERPRO BANK AND TRUST COMPANY"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: ITCOCWC1
+    
+- name: "INTERUNION BANK (ANTILLES)"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: INANCWC1
+    
+- name: "MADURO AND CURIEL'S BANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: MCBKCWCU
+    
+- name: "MERRILL LYNCH INTERNATIONAL AND CO. C.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: MLIVCWC1
+    
+- name: "MIDDENBANK CURACAO N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: MIDCCWC1
+    
+- name: "MIDPACIFIC BANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: BMIDCWC1
+    
+- name: "MOORE GLOBAL FIXED INCOME FUND LTD."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: MOCNCWC1
+    
+- name: "NETHERLANDS CARIBBEAN BANK, N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: NCBCCWC1
+    
+- name: "NORO BANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: NRROCWC1
+    
+- name: "ORCO BANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: ORBACWCU
+    
+- name: "PSB BANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: PBBPCWC1
+    
+- name: "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK N.V.)"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: RBTTCWCU
+    
+- name: "REPUBLIC INTERNATIONAL BANK, N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: RIBKCWCU
+    
+- name: "RORENTO N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: RGRRCWC1
+    
+- name: "SOCIETE FINANCIERE DES ANTILLES N.V"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: SFANCWCU
+    
+- name: "SOUTH AMERICAN INTERNATIONAL BANK OF CURACAO"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: SAINCWCU
+    
+- name: "TOTALBANK CURACAO N.V."
+  city: "SCHARLOO"
+  branch: null
+  swift: TOTLCWCU
+    
+- name: "UNITED INTERNATIONAL BANK N.V."
+  city: "WILLEMSTAD"
+  branch: null
+  swift: UDIBCWCU
+    
+- name: "VIDANOVA BANK N.V. (FORMERLY S.F.T. BANK)"
+  city: "WILLEMSTAD"
+  branch: null
+  swift: CITCCWCC
+    

@@ -1,0 +1,5955 @@
+- name: "3 BANKEN-GENERALI INVESTMENT-GESELLSCHAFT M.B.H."
+  city: "LINZ"
+  branch: null
+  swift: GEINATW1
+    
+- name: "3-BANKEN WOHNBAUBANK AG"
+  city: "LINZ"
+  branch: null
+  swift: WOHAAT21
+    
+- name: "ABBAG - ABBAUMANAGEMENTGESELLSCHAFT DES BUNDES"
+  city: "VIENNA"
+  branch: null
+  swift: ABADATW1
+    
+- name: "ADDIKO BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: HSEEAT2K
+    
+- name: "ADF SERVICE GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: PSSAATWW
+    
+- name: "AGRANA BETEILIGUNGS AKTIENGESELLSCH AFT"
+  city: "VIENNA"
+  branch: null
+  swift: AGRXATWW
+    
+- name: "AIBC ANGLO IRISH BANK (AUSTRIA) KAPITALANLAGEGESELLSCHAFT M.B.H."
+  city: "VIENNA"
+  branch: null
+  swift: AAIAATW1
+    
+- name: "AIRPLUS AIR TRAVEL CARD VERTRIEBSGESELLSCHAFT M.B."
+  city: "VIENNA"
+  branch: null
+  swift: AATAATW1
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "ENNS"
+  branch: null
+  swift: ASPKAT2LENN
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "FREISTADT"
+  branch: null
+  swift: ASPKAT2LFRE
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "GMUNDEN"
+  branch: ZWEIGSTELLE GMUNDEN
+  swift: ASPKAT2LGMU
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "GRIESKIRCHEN"
+  branch: ZWEIGSTELLE GRIESKIRCHEN
+  swift: ASPKAT2LGRI
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "GRUENBERG-WEYER"
+  branch: null
+  swift: ASPKAT2LGRU
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "LINZ"
+  branch: null
+  swift: ASPKAT2L
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "MAUTHAUSEN (GREIN)"
+  branch: ZWEIGSTELLE MAUTHAUSEN-GREIN
+  swift: ASPKAT2LMTH
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "OBERNBERG AM INN"
+  branch: null
+  swift: ASPKAT2LOBE
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "PERG"
+  branch: null
+  swift: ASPKAT2LPER
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "RAAB"
+  branch: null
+  swift: ASPKAT2LRAA
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "SCHAERDING"
+  branch: null
+  swift: ASPKAT2LSRD
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "SCHWANENSTADT"
+  branch: null
+  swift: ASPKAT2LSWA
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "ST. FLORIAN"
+  branch: ZWEIGSTELLE ST. FLORIAN
+  swift: ASPKAT2LSTF
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "STEYR"
+  branch: null
+  swift: ASPKAT2LSTE
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "VOECKLABRUCK"
+  branch: null
+  swift: ASPKAT2LVOE
+    
+- name: "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT"
+  city: "WELS"
+  branch: null
+  swift: ASPKAT2LWEL
+    
+- name: "ALLIANZ INVEST KAPITALANLAGEGESELLSCHAFT MBH"
+  city: "VIENNA"
+  branch: null
+  swift: ALIKATW1
+    
+- name: "ALLIANZ INVESTMENTBANK AG, WIEN"
+  city: "VIENNA"
+  branch: null
+  swift: AIAGATWW
+    
+- name: "ALPENBANK A.G."
+  city: "INNSBRUCK"
+  branch: null
+  swift: ALPEAT22
+    
+- name: "ALPENLANDISCHE GARANTIE-GES.M.B.H."
+  city: "LINZ"
+  branch: null
+  swift: ALGAAT21
+    
+- name: "ALPENLANDISCHER KREDITORENVERBAND FUER KREDITSCHUTZ UND BETRIEBSWIRTSCHAFT"
+  city: "SALZBURG"
+  branch: null
+  swift: ALKRAT21
+    
+- name: "ALPLA WERKE ALWIN LEHNER GMBH UND CO KG"
+  city: "HARD"
+  branch: null
+  swift: ALPLAT21
+    
+- name: "ASCOMANNI GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: ASMBATW1
+    
+- name: "AUSTRIA KREDITORENGESELLSCHAFT WRULICH AND CO KG"
+  city: "KLAGENFURT"
+  branch: null
+  swift: AUKOAT21
+    
+- name: "AUSTRIAN ANADI BANK A.G."
+  city: "KLAGENFURT"
+  branch: HEAD OFFICE - ADMINISTRATION
+  swift: HAABAT2K
+    
+- name: "AUSTRIAN ANADI BANK A.G."
+  city: "KLAGENFURT"
+  branch: HEAD OFFICE - FOREIGN DEPARTMENT
+  swift: HAABAT2KKLA
+    
+- name: "AUSTRO BAVARIA INVESTMENT"
+  city: "VIENNA"
+  branch: null
+  swift: AUBNATW1
+    
+- name: "AUTOBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: AUTOATW1
+    
+- name: "AVISO ZETA BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: CPAGATW1
+    
+- name: "AWT INTERNATIONAL TRADE AND FINANCE AWT INTERNATIONALE HANDELS UND FINANZIERUNGS AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: AITFATW1
+    
+- name: "BA CA REAL INVEST IMMOBILIEN-KAPITALANLAGE GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: RIIKATW1
+    
+- name: "BANCO DO BRASIL AG"
+  city: "VIENNA"
+  branch: null
+  swift: BRASATWW
+    
+- name: "BANK AUSTRIA TREUHAND"
+  city: "VIENNA"
+  branch: null
+  swift: AUTUATW1
+    
+- name: "BANK DER TIROLER SPARKASSE IN JUNGHOLZ"
+  city: "JUNGHOLZ"
+  branch: null
+  swift: TISUAT21
+    
+- name: "BANK FUER AERZTE UND FREIE BERUFE A.G."
+  city: "VIENNA"
+  branch: null
+  swift: BWFBATW1
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "BLUDENZ"
+  branch: null
+  swift: BTVAAT22BLU
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "BREGENZ"
+  branch: null
+  swift: BTVAAT22BRE
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "DORNBIRN"
+  branch: null
+  swift: BTVAAT22DOR
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "EHRWALD"
+  branch: null
+  swift: BTVAAT22EHR
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "FELDKIRCH"
+  branch: null
+  swift: BTVAAT22FDK
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "GOETZIS"
+  branch: null
+  swift: BTVAAT22GOE
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "HOHENEMS"
+  branch: null
+  swift: BTVAAT22HOH
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "IMST"
+  branch: null
+  swift: BTVAAT22IMS
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "INNSBRUCK"
+  branch: null
+  swift: BTVAAT22
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "KIRCHBERG"
+  branch: null
+  swift: BTVAAT22KIB
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "KITZBUEHEL"
+  branch: null
+  swift: BTVAAT22KIT
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "KUFSTEIN"
+  branch: null
+  swift: BTVAAT22KUF
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "LANDECK"
+  branch: null
+  swift: BTVAAT22LAN
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "LIENZ (OSTTIROL)"
+  branch: null
+  swift: BTVAAT22LIE
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "MAYRHOFEN"
+  branch: null
+  swift: BTVAAT22MAY
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "REUTTE"
+  branch: null
+  swift: BTVAAT22REU
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "SCHWAZ"
+  branch: null
+  swift: BTVAAT22SWZ
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "SEEFELD"
+  branch: null
+  swift: BTVAAT22SEE
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "SOELDEN (TIROL)"
+  branch: null
+  swift: BTVAAT22SOE
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "ST. JOHANN IN TIROL"
+  branch: null
+  swift: BTVAAT22STJ
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "VIENNA"
+  branch: null
+  swift: BTVAAT22WIE
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "VOELS"
+  branch: null
+  swift: BTVAAT22VLS
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "WOERGL"
+  branch: null
+  swift: BTVAAT22WOE
+    
+- name: "BANK FUER TIROL UND VORARLBERG A.G."
+  city: "WOLFURT"
+  branch: null
+  swift: BTVAAT22WOF
+    
+- name: "BANK GUTMANN AG"
+  city: "VIENNA"
+  branch: null
+  swift: GUTBATWW
+    
+- name: "BANK MEDICI AG"
+  city: "VIENNA"
+  branch: null
+  swift: MDDIATW1
+    
+- name: "BANK OF CHINA (HUNGARY) CLOSE LTD VIENNA BRANCH"
+  city: "VIENNA"
+  branch: null
+  swift: BKCHATWW
+    
+- name: "BANK WINTER UND CO. AG"
+  city: "VIENNA"
+  branch: null
+  swift: WISMATWW
+    
+- name: "BANKDIREKT.AT AG"
+  city: "LINZ"
+  branch: null
+  swift: RZOOAT2L796
+    
+- name: "BANKHAUS CARL SPAENGLER UND CO. AKTIENGESELLSCHAFT"
+  city: "KAPRUN"
+  branch: null
+  swift: SPAEAT2SKAN
+    
+- name: "BANKHAUS CARL SPAENGLER UND CO. AKTIENGESELLSCHAFT"
+  city: "KITZBUEHEL"
+  branch: null
+  swift: SPAEAT2SKIT
+    
+- name: "BANKHAUS CARL SPAENGLER UND CO. AKTIENGESELLSCHAFT"
+  city: "LINZ"
+  branch: null
+  swift: SPAEAT2SLIN
+    
+- name: "BANKHAUS CARL SPAENGLER UND CO. AKTIENGESELLSCHAFT"
+  city: "SALZBURG"
+  branch: null
+  swift: SPAEAT2S
+    
+- name: "BANKHAUS CARL SPAENGLER UND CO. AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: SPAEAT2SWIE
+    
+- name: "BANKHAUS CARL SPAENGLER UND CO. AKTIENGESELLSCHAFT"
+  city: "ZELL AM SEE"
+  branch: null
+  swift: SPAEAT2SZEL
+    
+- name: "BANKHAUS DENZEL AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: DENEATW1
+    
+- name: "BANKHAUS JUNGHOLZ INTERNATIONAL PRIVATE BANKING AG"
+  city: "JUNGHOLZ"
+  branch: null
+  swift: BHJUAT21
+    
+- name: "BANKHAUS KRENTSCHKER UND CO."
+  city: "GRAZ"
+  branch: null
+  swift: KRECAT2G
+    
+- name: "BANKHAUS KRENTSCHKER UND CO."
+  city: "VIENNA"
+  branch: null
+  swift: KRECAT2GWIE
+    
+- name: "BANKHAUS SCHELHAMMER UND SCHATTERA AG"
+  city: "VIENNA"
+  branch: null
+  swift: BSSWATWW
+    
+- name: "BANKIA SA, VIENNA BRANCH"
+  city: "VIENNA"
+  branch: null
+  swift: CAHMATW1
+    
+- name: "BAUSPARKASSE DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "VIENNA"
+  branch: null
+  swift: BAOSATWW
+    
+- name: "BAUSPARKASSE WUESTENROT AG"
+  city: "SALZBURG"
+  branch: null
+  swift: WUBUAT21
+    
+- name: "BAUSPARKASSE WUESTENROT AG"
+  city: "SALZBURG"
+  branch: null
+  swift: WUBUAT2S
+    
+- name: "BAWAG P.S.K. (FORMERLY OESTERREICHISCHE POSTSPARKASSE AKTIENGESELLSCHAFT)"
+  city: "VIENNA"
+  branch: null
+  swift: OPSKATWW
+    
+- name: "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG"
+  city: "BREGENZ"
+  branch: null
+  swift: BAWAATWWBRE
+    
+- name: "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG"
+  city: "GRAZ"
+  branch: null
+  swift: BAWAATWWGRA
+    
+- name: "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG"
+  city: "INNSBRUCK"
+  branch: null
+  swift: BAWAATWWINN
+    
+- name: "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG"
+  city: "KLAGENFURT"
+  branch: null
+  swift: BAWAATWWKLA
+    
+- name: "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG"
+  city: "LINZ"
+  branch: null
+  swift: BAWAATWWLIN
+    
+- name: "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG"
+  city: "SALZBURG"
+  branch: null
+  swift: BAWAATWWSAL
+    
+- name: "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG"
+  city: "VIENNA"
+  branch: TREASURY OPERATIONS
+  swift: BAWAATWWWP1
+    
+- name: "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG"
+  city: "VIENNA"
+  branch: null
+  swift: BAWAATWW
+    
+- name: "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG"
+  city: "VILLACH"
+  branch: null
+  swift: BAWAATWWVIL
+    
+- name: "BAWAG WOHNBAUBANK"
+  city: "VIENNA"
+  branch: null
+  swift: BAWOATW1
+    
+- name: "BELLWORD GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: BELWATW1
+    
+- name: "BETEILIGUNGSFONDS WEST"
+  city: "SALZBURG"
+  branch: null
+  swift: BEWEAT21
+    
+- name: "BIW BANK FUER INVESTMENTS UND WERTPAPIERE AG"
+  city: "VIENNA"
+  branch: null
+  swift: BIIWATWW
+    
+- name: "BKS BANK AG"
+  city: "GRAZ"
+  branch: null
+  swift: BFKKAT2KGRA
+    
+- name: "BKS BANK AG"
+  city: "KLAGENFURT"
+  branch: HEAD OFFICE
+  swift: BFKKAT2K
+    
+- name: "BKS BANK AG"
+  city: "KLAGENFURT"
+  branch: KLAGENFURT BRANCH
+  swift: BFKKAT2KKLA
+    
+- name: "BKS BANK AG"
+  city: "SPITTAL (DRAU)"
+  branch: null
+  swift: BFKKAT2KSPI
+    
+- name: "BKS BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: BFKKAT2KWIE
+    
+- name: "BKS BANK AG"
+  city: "VILLACH"
+  branch: null
+  swift: BFKKAT2KVIL
+    
+- name: "BKS BANK AG"
+  city: "WOLFSBERG"
+  branch: null
+  swift: BFKKAT2KWOL
+    
+- name: "BLUE ROCK CAPITAL GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: EUINATW1
+    
+- name: "BMW AUSTRIA BANK"
+  city: "SALZBURG"
+  branch: null
+  swift: BMASAT21
+    
+- name: "BNP PARIBAS S.A. NIEDERLASSUNG OESTERREICH"
+  city: "VIENNA"
+  branch: null
+  swift: GEBAATWW
+    
+- name: "BRUELL KALLMUS BANK AG"
+  city: "GRAZ"
+  branch: null
+  swift: SPBAATWW
+    
+- name: "BWIN.PARTY SERVICES (AUSTRIA) GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: BWINATWW
+    
+- name: "CA WOHNBANK"
+  city: "VIENNA"
+  branch: null
+  swift: WOHNATW1
+    
+- name: "CAPITAL BANK GRAWE GRUPPE AG"
+  city: "GRAZ"
+  branch: null
+  swift: RSBUAT2K
+    
+- name: "CARD COMPLETE SERVICE BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: VIAUATW1
+    
+- name: "CARL SPANGLER KAPITALANLAGE GMBH"
+  city: "SALZBURG"
+  branch: null
+  swift: CAPPAT21
+    
+- name: "CC-BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: CCAKATW1
+    
+- name: "CCP AUSTRIA ABWICKLUNGSSTELLE FUER BOERSENGESCHAEFTE GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: CAAHATW2
+    
+- name: "CCP AUSTRIA ABWICKLUNGSSTELLE FUER BOERSENGESCHAEFTE GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: CAAHATWW
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: CITI AUSTRIA T2S 001
+  swift: CITIAT21001
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: CITI AUSTRIA T2S 002
+  swift: CITIAT21002
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: CITI AUSTRIA T2S 003
+  swift: CITIAT21003
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: CITI AUSTRIA T2S 004
+  swift: CITIAT21004
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: CITI AUSTRIA T2S 005
+  swift: CITIAT21005
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: CITI AUSTRIA T2S 006
+  swift: CITIAT21006
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: CITI AUSTRIA T2S 007
+  swift: CITIAT21007
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: CITI AUSTRIA T2S 008
+  swift: CITIAT21008
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: CITI AUSTRIA T2S 009
+  swift: CITIAT21009
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: CITI AUSTRIA T2S 010
+  swift: CITIAT21010
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: null
+  swift: CITIAT21
+    
+- name: "CITIBANK EUROPE PLC AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: null
+  swift: CITIATWX
+    
+- name: "COMMERZBANK AG, NIEDERLASSUNG WIEN WIEN"
+  city: "VIENNA"
+  branch: null
+  swift: COBAATWX
+    
+- name: "COMMERZBANK AG, NIEDERLASSUNG WIEN WIEN"
+  city: "VIENNA"
+  branch: null
+  swift: COBAATWXTSU
+    
+- name: "COMMERZIALBANK MATTERSBURG IM BURGENLAND AG"
+  city: "MATTERSBURG"
+  branch: null
+  swift: CBMUAT21
+    
+- name: "CPB IMMOBILIEN KAPITALANLAGE GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: CIKGATW1
+    
+- name: "CPB KAPITALANLAGE GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: CPKPATW1
+    
+- name: "CREDIT AGRICOLE CHEUVREUX ZWEIGNIEDERLASSUNG WIEN"
+  city: "VIENNA"
+  branch: null
+  swift: CACHATW1
+    
+- name: "CREDIT SUISSE (LUXEMBOURG) S.A. ZWEIGNIEDERLASSUNG OESTEREICH"
+  city: "VIENNA"
+  branch: null
+  swift: CRESATWW
+    
+- name: "CREDITREFORM LINZ KUBICKI KG"
+  city: "LINZ"
+  branch: null
+  swift: CRLKAT21
+    
+- name: "DENIZBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: ESBKATWW
+    
+- name: "DEUTSCHE BANK (OESTERREICH) AG"
+  city: "VIENNA"
+  branch: null
+  swift: SOPPATWW
+    
+- name: "DEUTSCHE BANK AKTIENGESELLSCHAFT FILIALE WIEN (VIENNA BRANCH)"
+  city: "VIENNA"
+  branch: CUSTODY SERVICES
+  swift: DEUTATWWCUS
+    
+- name: "DEUTSCHE BANK AKTIENGESELLSCHAFT FILIALE WIEN (VIENNA BRANCH)"
+  city: "VIENNA"
+  branch: INTRA
+  swift: DEUTATWWUNP
+    
+- name: "DEUTSCHE BANK AKTIENGESELLSCHAFT FILIALE WIEN (VIENNA BRANCH)"
+  city: "VIENNA"
+  branch: null
+  swift: DEUTATWW
+    
+- name: "DIE ZWEITE WIENER VEREINS-SPARCASSE"
+  city: "VIENNA"
+  branch: null
+  swift: GIBAAT21
+    
+- name: "DOLOMITENBANK OSTTIROL-WESTKAERNTEN EG"
+  city: "GMUEND"
+  branch: null
+  swift: VOGKAT21
+    
+- name: "DOLOMITENBANK OSTTIROL-WESTKAERNTEN EG"
+  city: "LIENZ (OSTTIROL)"
+  branch: null
+  swift: OVLIAT21
+    
+- name: "DOLOMITENBANK OSTTIROL-WESTKAERNTEN EG"
+  city: "LIENZ (OSTTIROL)"
+  branch: null
+  swift: VOKMAT21
+    
+- name: "DORNBIRNER SPARKASSE BANK AG"
+  city: "DORNBIRN"
+  branch: null
+  swift: DOSPAT2D
+    
+- name: "DWS (AUSTRIA) INVESTMENTGESELLSCHAFT MBH"
+  city: "VIENNA"
+  branch: null
+  swift: DWIMATW1
+    
+- name: "EASYBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: EASYATW1
+    
+- name: "ERSTE ASSET MANAGEMENT GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: EAMHATWW
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "ATZENBRUGG"
+  branch: null
+  swift: GIBAATWWTU1
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "BADEN"
+  branch: null
+  swift: GIBAATWWBAD
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "BERNSTEIN"
+  branch: null
+  swift: GIBAATWWPI2
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "BRUNN AM GEBIRGE"
+  branch: null
+  swift: GIBAATWWBRU
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "DUERNKRUT"
+  branch: null
+  swift: GIBAATWWZI1
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "EISENSTADT"
+  branch: null
+  swift: GIBAATWWEIS
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "ERNSTHOFEN"
+  branch: null
+  swift: GIBAATWWHA2
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "GABLITZ"
+  branch: null
+  swift: GIBAATWWGAB
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "GAENSERNDORF"
+  branch: null
+  swift: GIBAATWWGAE
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "GNADENDORF"
+  branch: null
+  swift: GIBAATWWLA4
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "GROSSENGERSDORF"
+  branch: null
+  swift: GIBAATWWWO1
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "GUESSING"
+  branch: null
+  swift: GIBAATWWGUE
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "HAAG"
+  branch: null
+  swift: GIBAATWWHAA
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "HAIDERSHOFEN"
+  branch: null
+  swift: GIBAATWWHA1
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "HEILIGENKREUTZ"
+  branch: null
+  swift: GIBAATWWJE2
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "HIMBERG"
+  branch: null
+  swift: GIBAATWWHIM
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "HOHENAU/MARCH"
+  branch: null
+  swift: GIBAATWWZI2
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "HORNSTEIN"
+  branch: null
+  swift: GIBAATWWEI3
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "JENNERSDORF"
+  branch: null
+  swift: GIBAATWWJEN
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "KLOSTERNEUBURG"
+  branch: null
+  swift: GIBAATWWKLB
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "LAA AN DER THAYA"
+  branch: ZWEIGSTELLE LAA
+  swift: GIBAATWWLAA
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "LADENDORF"
+  branch: null
+  swift: GIBAATWWMI2
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "LANGENLEBARN"
+  branch: null
+  swift: GIBAATWWTU2
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "MISTELBACH AN DER ZAYA"
+  branch: null
+  swift: GIBAATWWMIS
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "MOEDLING"
+  branch: null
+  swift: GIBAATWWMOE
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "NEUDORF BEI STAATZ"
+  branch: null
+  swift: GIBAATWWLA6
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "NIEDERKREUZSTETTEN"
+  branch: null
+  swift: GIBAATWWMI3
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "PERCHTOLDSDORF"
+  branch: null
+  swift: GIBAATWWPER
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "PINKAFELD"
+  branch: null
+  swift: GIBAATWWPIN
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "PURBACH"
+  branch: null
+  swift: GIBAATWWEI2
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "PURKERSDORF"
+  branch: null
+  swift: GIBAATWWPUR
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "RECHNITZ"
+  branch: null
+  swift: GIBAATWWPI1
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "REIDLING"
+  branch: null
+  swift: GIBAATWWTU3
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "RUDERSDORF"
+  branch: null
+  swift: GIBAATWWJE1
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "SCHWECHAT"
+  branch: AIRPORT BRANCH
+  swift: GIBAATWWFLU
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "SCHWECHAT"
+  branch: null
+  swift: GIBAATWWSWE
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "SEITENSTETTEN"
+  branch: null
+  swift: GIBAATWWHA7
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "SIEGENDORF"
+  branch: null
+  swift: GIBAATWWEI1
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "SIEGHARTSKIRCHEN"
+  branch: null
+  swift: GIBAATWWTU5
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "ST. ANDRAE-WOERDERN"
+  branch: null
+  swift: GIBAATWWTU4
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "ST. MICHAEL IM BURGENLAND"
+  branch: null
+  swift: GIBAATWWGU1
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "ST. PANTELEON"
+  branch: null
+  swift: GIBAATWWHA4
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "ST. PETER (AU)"
+  branch: null
+  swift: GIBAATWWHA5
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "ST. POELTEN"
+  branch: null
+  swift: GIBAATWWSTP
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "ST. VALENTIN"
+  branch: null
+  swift: GIBAATWWHA6
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "STAATZ - KAUTENDORF"
+  branch: null
+  swift: GIBAATWWLA2
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "STOCKERAU"
+  branch: null
+  swift: GIBAATWWSTO
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "STRENGBERG"
+  branch: null
+  swift: GIBAATWWHA8
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "STRONSDORF"
+  branch: null
+  swift: GIBAATWWLA3
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "TULLN"
+  branch: ZWEIGSTELLE TULLN
+  swift: GIBAATWWTUL
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "VIENNA"
+  branch: null
+  swift: GIBAATWW
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "WIENER NEUDORF"
+  branch: null
+  swift: GIBAATWWWND
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "WIENER NEUSTADT"
+  branch: null
+  swift: GIBAATWWWRN
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "WILDENDUERNBACH"
+  branch: null
+  swift: GIBAATWWLA5
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "WOLKERSDORF"
+  branch: null
+  swift: GIBAATWWWOL
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "ZISTERSDORF"
+  branch: ZWEIGSTELLE ZISTERSDORF
+  swift: GIBAATWWZIS
+    
+- name: "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG"
+  city: "ZWENTENDORF"
+  branch: null
+  swift: GIBAATWWTU6
+    
+- name: "ERSTE GROUP BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: GIBAATWG
+    
+- name: "ERSTE UND CONSTANTIA BETEILIGUNGSFONDS"
+  city: "VIENNA"
+  branch: null
+  swift: ERCBATW1
+    
+- name: "ERSTE-SPARINVEST KAPITALANLAGEGESELLSCHAFT M.B.H."
+  city: "VIENNA"
+  branch: null
+  swift: ERSAATW1
+    
+- name: "EUROPEAN AMERICAN INVESTMENT BANK AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: EUAAATWW
+    
+- name: "EVANGELISHE KREDITGENOSSENSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: EVKRATW1
+    
+- name: "FACTORBANK AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: FACBATW1
+    
+- name: "FIAT BANK"
+  city: "VIENNA"
+  branch: null
+  swift: FITTATW1
+    
+- name: "FINANCIAL MARKET AUTHORITY"
+  city: "VIENNA"
+  branch: null
+  swift: FMAFATW1
+    
+- name: "FINANZIERUNG OESTERREICHISCHER SPARKASSEN"
+  city: "VIENNA"
+  branch: null
+  swift: FIOPATW1
+    
+- name: "FORD BANK AUSTRIA ZWEIGNIEDERLASSUN DER FCE BANK PLC"
+  city: "SALZBURG"
+  branch: null
+  swift: FAZFAT21
+    
+- name: "GE CAPITAL BANK AG ZWEIGNIEDERLASSUNG OSTERREICH"
+  city: "VIENNA"
+  branch: null
+  swift: HEZOATW1
+    
+- name: "GENERALE COMMERCE BANK"
+  city: "VIENNA"
+  branch: null
+  swift: GECOATW1
+    
+- name: "GENERALI BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: BGENATWW
+    
+- name: "GOLDEN STAR BANK"
+  city: "VIENNA"
+  branch: null
+  swift: GOSTATW1
+    
+- name: "GURKTALER SPARKASSE"
+  city: "GURK"
+  branch: null
+  swift: SPGKAT21
+    
+- name: "GUTMANN KAPITALANLAGE AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: GUKAATW1
+    
+- name: "HEINZEL HOLDING GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: HHOGATWW
+    
+- name: "HELLOBANK BNP PARIBAS AUSTRIA AG"
+  city: "SALZBURG"
+  branch: null
+  swift: DIRAAT2S
+    
+- name: "HETA ASSET RESOLUTION AG"
+  city: "KLAGENFURT"
+  branch: null
+  swift: HAABAT22
+    
+- name: "HYPO NOE LANDESBANK FUER NIEDEROESTERREICH UND WIEN AG"
+  city: "ST. POELTEN"
+  branch: null
+  swift: HYINAT22
+    
+- name: "HYPO NOE LANDESBANK FUER NIEDEROSTERREICH UND WIEN AG"
+  city: "ST. POELTEN"
+  branch: null
+  swift: HYPNATWW
+    
+- name: "HYPO NOE LANDESBANK FUER NIEDEROSTERREICH UND WIEN AG"
+  city: "ST. POELTEN"
+  branch: null
+  swift: HYPNATWWLDS
+    
+- name: "HYPO TIROL BANK AG"
+  city: "INNSBRUCK"
+  branch: null
+  swift: HYPTAT22
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: BOND OPPORTUNITIES FUND SUB 1
+  swift: HYPVAT2B721
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: BOND OPPORTUNITIES FUND SUB 2
+  swift: HYPVAT2B722
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: CORPORATE BOND FUND SUB 1
+  swift: HYPVAT2B271
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: CORPORATE BOND FUND SUB 3
+  swift: HYPVAT2B273
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: CORPORATE BOND FUND SUB 4
+  swift: HYPVAT2B274
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: FINANCIAL BOND FUND
+  swift: HYPVAT2B261
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: GOVERNMENT BOND FUND SUB 2
+  swift: HYPVAT2B252
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: HIGH YIELD BONDS (SUB 2)
+  swift: HYPVAT2B422
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: SRI GLOBAL STOCK FUND - SUB 2
+  swift: HYPVAT2B812
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: SRI GLOBAL STOCK FUND SUB 4 T
+  swift: HYPVAT2B814
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: SRI GLOBAL STOCK FUND SUB 5 T
+  swift: HYPVAT2B815
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: SRI SUB 1
+  swift: HYPVAT2B811
+    
+- name: "HYPO VORARLBERG BANK AG"
+  city: "BREGENZ"
+  branch: null
+  swift: HYPVAT2B
+    
+- name: "HYPO-BANK BURGENLAND AKTIENGESELLSCHAFT"
+  city: "EISENSTADT"
+  branch: null
+  swift: EHBBAT2E
+    
+- name: "HYPO-KAPITALANLAGE GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: HYPGATW1
+    
+- name: "HYPO-WOHNBAUBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: HYWOATW1
+    
+- name: "IMMIGON PORTFOLIOABBAU AG"
+  city: "VIENNA"
+  branch: null
+  swift: IMMIAT21
+    
+- name: "IMMO KAPITALANLAGE AG"
+  city: "VIENNA"
+  branch: null
+  swift: IMKAATW1
+    
+- name: "IMMO-BANK AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: VOHGATW1
+    
+- name: "IMMOFINANZ AG"
+  city: "VIENNA"
+  branch: null
+  swift: IFAGATWW
+    
+- name: "ING DIBA AUSTRIA,NIEDERLASSUNG DER ING-DIBA AG"
+  city: "VIENNA"
+  branch: null
+  swift: INGBATWW
+    
+- name: "ING-DIBA DIREKTBANK AUSTRIA"
+  city: "VIENNA"
+  branch: null
+  swift: INGDAT21
+    
+- name: "INTERNATIONAL ATOMIC ENERGYAGENCY (IAEA)"
+  city: "VIENNA"
+  branch: null
+  swift: IAEAATWW
+    
+- name: "INVESTKREDIT BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: VBOEATWWINV
+    
+- name: "ITHUBA CAPITAL AG"
+  city: "VIENNA"
+  branch: null
+  swift: ITCPATW1
+    
+- name: "JOS. A. KIENREICH"
+  city: "GRAZ"
+  branch: null
+  swift: JOKIAT21
+    
+- name: "JULIUS BLUM GMBH"
+  city: "HOECHST"
+  branch: null
+  swift: JBLUAT2H
+    
+- name: "JULIUS MEINL INVESTMENT GESELLSCHAFT M.B.H."
+  city: "VIENNA"
+  branch: null
+  swift: JMIGATW1
+    
+- name: "KA FINANZ AG"
+  city: "VIENNA"
+  branch: null
+  swift: OKOMATWW
+    
+- name: "KAERNTNER SPARKASSE AG"
+  city: "FRIESACH"
+  branch: null
+  swift: KSPKAT2KFRI
+    
+- name: "KAERNTNER SPARKASSE AG"
+  city: "KLAGENFURT"
+  branch: HEAD OFFICE
+  swift: KSPKAT2K
+    
+- name: "KAERNTNER SPARKASSE AG"
+  city: "SPITTAL (DRAU)"
+  branch: null
+  swift: KSPKAT2KSPI
+    
+- name: "KAERNTNER SPARKASSE AG"
+  city: "ST. VEIT (GLAN)"
+  branch: null
+  swift: KSPKAT2KSTV
+    
+- name: "KAERNTNER SPARKASSE AG"
+  city: "VILLACH"
+  branch: null
+  swift: KSPKAT2KVIL
+    
+- name: "KAERNTNER SPARKASSE AG"
+  city: "WOLFSBERG"
+  branch: null
+  swift: KSPKAT2KWOL
+    
+- name: "KARNTNER AUSGLEICHSZAHLUNGS-FONDS"
+  city: "KLAGENFURT"
+  branch: null
+  swift: KAFNAT21
+    
+- name: "KATHREIN AND CO PRIVATGESCHAFTSBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: KAPVATW1
+    
+- name: "KATHREIN PRIVATBANK AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: KTBKATWW
+    
+- name: "KEPLER-FONDS KAPITALANLAGEGESELLSCHAFT M.B.H."
+  city: "LINZ"
+  branch: null
+  swift: KEFKAT21
+    
+- name: "KOCH MEDIA GMBH"
+  city: "HOEFEN"
+  branch: null
+  swift: KOCHAT2H
+    
+- name: "KOMMUNALKREDIT AUSTRIA AG"
+  city: "VIENNA"
+  branch: null
+  swift: INVOATWW
+    
+- name: "KREDITGENOSSENSCHAFT DER BEDIENSTETEN DER OESTERREICHISCHEN POSTSPARKASSE REGISTRIERTE GENOSSENSCHAFT MBH"
+  city: "VIENNA"
+  branch: null
+  swift: KRBOATW1
+    
+- name: "KREDITVEREIN DER BANK AUSTRIA"
+  city: "VIENNA"
+  branch: null
+  swift: KRAUATW1
+    
+- name: "KREDITVEREIN DER ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN"
+  city: "VIENNA"
+  branch: null
+  swift: KEOSATW1
+    
+- name: "KREMSER BANK UND SPARKASSEN AG"
+  city: "KREMS (DONAU)"
+  branch: null
+  swift: SPKDAT21
+    
+- name: "LANDES-HYPOTHEKENBANK STEIERMARK AKTIENGESELLSCHAFT"
+  city: "GRAZ"
+  branch: null
+  swift: HYSTAT2G
+    
+- name: "LANSDOWNE INVESTMENT COMPANY AUSTRIA GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: LIOAATW1
+    
+- name: "LBA LANDESBAUSPARKASSE"
+  city: "VIENNA"
+  branch: null
+  swift: LBLAATW1
+    
+- name: "LEASFINANZ BANK GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: LEGMATW1
+    
+- name: "LGT BANK OESTERREICH"
+  city: "VIENNA"
+  branch: null
+  swift: BLFLATWW
+    
+- name: "LIECHTENSTEINISCHE LANDESBANK (OSTERREICH) AG"
+  city: "VIENNA"
+  branch: null
+  swift: LILAATWW
+    
+- name: "LIENZER SPARKASSE AG"
+  city: "LIENZ (OSTTIROL)"
+  branch: null
+  swift: LISPAT21
+    
+- name: "MACQUARIE INVESTMENT MANAGEMENT AUSTRIA KAPITALANLAGE AG"
+  city: "VIENNA"
+  branch: null
+  swift: INFIATWW
+    
+- name: "MARCHFELDER BANK EG"
+  city: "GAEMSERNDORF"
+  branch: null
+  swift: MVOGAT22
+    
+- name: "MAYR-MELNHOF CARTONBOARD INTERNATIONAL GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: MMCAATWW
+    
+- name: "MAYR-MELNHOF KARTON AG"
+  city: "VIENNA"
+  branch: null
+  swift: MMAGATWW
+    
+- name: "MAYR-MELNHOF PACKAGING INTERNATIONAL GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: MMPAATWW
+    
+- name: "MAZDA AUSTRIA GMBH"
+  city: "KLAGENFURT"
+  branch: null
+  swift: MZZDAT21
+    
+- name: "MEINL BANK A.G."
+  city: "VIENNA"
+  branch: null
+  swift: MEINATWW
+    
+- name: "MERKUR VERSICHERUNG"
+  city: "GRAZ"
+  branch: null
+  swift: MEVRAT21
+    
+- name: "MEZZANIN FINANZIERUNGS AG"
+  city: "VIENNA"
+  branch: null
+  swift: MEZFATW1
+    
+- name: "MIZUHO BANK EUROPE N.V., VIENNA BRANCH"
+  city: "VIENNA"
+  branch: null
+  swift: MHCBATWW
+    
+- name: "MUFG BANK (EUROPE) N.V. VIENNA BRANCH (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (HOLLAND) N.V.)"
+  city: "VIENNA"
+  branch: VIENNA BRANCH
+  swift: BOTKATWX
+    
+- name: "NEWEX"
+  city: "VIENNA"
+  branch: null
+  swift: XNEWATW1
+    
+- name: "NIEDEROESTERREICHISCHE KAPITAL BETEILIGUNGSGESELLSCHAFT M.B.H"
+  city: "VIENNA"
+  branch: null
+  swift: MKBMATW1
+    
+- name: "NIEDEROESTERREICHISCHE SPARKASSE"
+  city: "HAINBURG"
+  branch: null
+  swift: SPHBAT21
+    
+- name: "NOTAR TREUHANDBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: NTBAATWW
+    
+- name: "OBERBANK AG"
+  city: "ALTHEIM"
+  branch: null
+  swift: OBKLAT2LALH
+    
+- name: "OBERBANK AG"
+  city: "AMSTETTEN"
+  branch: null
+  swift: OBKLAT2LAMS
+    
+- name: "OBERBANK AG"
+  city: "ATTNANG-PUCHHEIM"
+  branch: null
+  swift: OBKLAT2LATP
+    
+- name: "OBERBANK AG"
+  city: "BAD AUSSEE"
+  branch: null
+  swift: OBKLAT2LBDA
+    
+- name: "OBERBANK AG"
+  city: "BAD GASTEIN"
+  branch: NATIONAL ID 15091
+  swift: OBKLAT2LBDG
+    
+- name: "OBERBANK AG"
+  city: "BAD HOFGASTEIN"
+  branch: null
+  swift: OBKLAT2LBHG
+    
+- name: "OBERBANK AG"
+  city: "BAD ISCHL"
+  branch: null
+  swift: OBKLAT2LBDI
+    
+- name: "OBERBANK AG"
+  city: "BISCHOFSHOFEN"
+  branch: null
+  swift: OBKLAT2LBIS
+    
+- name: "OBERBANK AG"
+  city: "BRAUNAU"
+  branch: null
+  swift: OBKLAT2LBRA
+    
+- name: "OBERBANK AG"
+  city: "EBENSEE"
+  branch: null
+  swift: OBKLAT2LEBE
+    
+- name: "OBERBANK AG"
+  city: "EFERDING"
+  branch: null
+  swift: OBKLAT2LEFE
+    
+- name: "OBERBANK AG"
+  city: "EISENSTADT"
+  branch: null
+  swift: OBKLAT2LEIS
+    
+- name: "OBERBANK AG"
+  city: "ENNS"
+  branch: null
+  swift: OBKLAT2LENN
+    
+- name: "OBERBANK AG"
+  city: "FREISTADT"
+  branch: null
+  swift: OBKLAT2LFRE
+    
+- name: "OBERBANK AG"
+  city: "GALLNEUKIRCHEN"
+  branch: null
+  swift: OBKLAT2LGAL
+    
+- name: "OBERBANK AG"
+  city: "GMUNDEN"
+  branch: NATIONAL ID 15060
+  swift: OBKLAT2LGMU
+    
+- name: "OBERBANK AG"
+  city: "GRIESKIRCHEN"
+  branch: null
+  swift: OBKLAT2LGRI
+    
+- name: "OBERBANK AG"
+  city: "HAID"
+  branch: null
+  swift: OBKLAT2LHAI
+    
+- name: "OBERBANK AG"
+  city: "HALLEIN"
+  branch: null
+  swift: OBKLAT2LHAN
+    
+- name: "OBERBANK AG"
+  city: "KIRCHDORF (KREMS)"
+  branch: null
+  swift: OBKLAT2LKIR
+    
+- name: "OBERBANK AG"
+  city: "KLOSTERNEUBURG"
+  branch: null
+  swift: OBKLAT2LKLB
+    
+- name: "OBERBANK AG"
+  city: "KREMS (DONAU)"
+  branch: null
+  swift: OBKLAT2LKRE
+    
+- name: "OBERBANK AG"
+  city: "KREMSMUENSTER"
+  branch: null
+  swift: OBKLAT2LKRM
+    
+- name: "OBERBANK AG"
+  city: "LAAKIRCHEN"
+  branch: null
+  swift: OBKLAT2LLAA
+    
+- name: "OBERBANK AG"
+  city: "LENZING"
+  branch: null
+  swift: OBKLAT2LLEN
+    
+- name: "OBERBANK AG"
+  city: "LEONDING"
+  branch: null
+  swift: OBKLAT2LLOG
+    
+- name: "OBERBANK AG"
+  city: "LINZ"
+  branch: FONDSVERWALTUNG
+  swift: OBKLAT2LFON
+    
+- name: "OBERBANK AG"
+  city: "LINZ"
+  branch: null
+  swift: OBKLAT2L
+    
+- name: "OBERBANK AG"
+  city: "MARCHTRENK"
+  branch: null
+  swift: OBKLAT2LMAR
+    
+- name: "OBERBANK AG"
+  city: "MATTIGHOFEN"
+  branch: null
+  swift: OBKLAT2LMAT
+    
+- name: "OBERBANK AG"
+  city: "OTTENSHEIM"
+  branch: null
+  swift: OBKLAT2LOTT
+    
+- name: "OBERBANK AG"
+  city: "PERG"
+  branch: null
+  swift: OBKLAT2LPER
+    
+- name: "OBERBANK AG"
+  city: "RIED IM INNKREIS"
+  branch: null
+  swift: OBKLAT2LRIE
+    
+- name: "OBERBANK AG"
+  city: "ROHRBACH"
+  branch: null
+  swift: OBKLAT2LROB
+    
+- name: "OBERBANK AG"
+  city: "SAALFELDEN"
+  branch: null
+  swift: OBKLAT2LSAA
+    
+- name: "OBERBANK AG"
+  city: "SALZBURG"
+  branch: NATIONAL ID 15090
+  swift: OBKLAT2LSAL
+    
+- name: "OBERBANK AG"
+  city: "SCHAERDING"
+  branch: null
+  swift: OBKLAT2LSRD
+    
+- name: "OBERBANK AG"
+  city: "SCHWANENSTADT"
+  branch: null
+  swift: OBKLAT2LSWA
+    
+- name: "OBERBANK AG"
+  city: "SEEKIRCHEN"
+  branch: null
+  swift: OBKLAT2LSEK
+    
+- name: "OBERBANK AG"
+  city: "ST. POELTEN"
+  branch: null
+  swift: OBKLAT2LSTP
+    
+- name: "OBERBANK AG"
+  city: "STEYR"
+  branch: null
+  swift: OBKLAT2LSTE
+    
+- name: "OBERBANK AG"
+  city: "TRAUN"
+  branch: null
+  swift: OBKLAT2LSTM
+    
+- name: "OBERBANK AG"
+  city: "TRAUN"
+  branch: null
+  swift: OBKLAT2LTRA
+    
+- name: "OBERBANK AG"
+  city: "TULLN"
+  branch: null
+  swift: OBKLAT2LTUL
+    
+- name: "OBERBANK AG"
+  city: "VIENNA"
+  branch: NATIONAL ID 15150
+  swift: OBKLAT2LWIE
+    
+- name: "OBERBANK AG"
+  city: "VOECKLABRUCK"
+  branch: null
+  swift: OBKLAT2LVOE
+    
+- name: "OBERBANK AG"
+  city: "WAIDHOFEN AN DER YBBS"
+  branch: null
+  swift: OBKLAT2LWAI
+    
+- name: "OBERBANK AG"
+  city: "WELS"
+  branch: null
+  swift: OBKLAT2LWEL
+    
+- name: "OBERBANK AG"
+  city: "WELS"
+  branch: null
+  swift: OBKLAT2LWLG
+    
+- name: "OBERBANK AG"
+  city: "WIENER NEUSTADT"
+  branch: null
+  swift: OBKLAT2LWRN
+    
+- name: "OBEROESTERREICHISCHE LANDESBANK AKTIENGESELLSCHAFT"
+  city: "LINZ"
+  branch: null
+  swift: OBLAAT2L
+    
+- name: "OEAMTC - BETRIEBE GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: OEBEATW1
+    
+- name: "OEKB CSD GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: OCSDATW2
+    
+- name: "OEKB CSD GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: OCSDATWW
+    
+- name: "OEKB CSD GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: OCSDATWWDOM
+    
+- name: "OEKB CSD GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: OCSDATWWHVS
+    
+- name: "OEKB CSD GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: OCSDATWWINT
+    
+- name: "OEKB CSD GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: OCSDATWWT2S
+    
+- name: "OESTERREICHISCHE APOTHEKERBANK EG"
+  city: "VIENNA"
+  branch: null
+  swift: VBOEATWWAPO
+    
+- name: "OESTERREICHISCHE CLEARINGBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: OCAGATW1
+    
+- name: "OESTERREICHISCHE HOTEL UND TOURISMUSBANK GESELLSCHAFT M.B.H."
+  city: "VIENNA"
+  branch: null
+  swift: OEHTATW1
+    
+- name: "OESTERREICHISCHE KONTROLLBANK AG"
+  city: "VIENNA"
+  branch: SERVICE BUREAU
+  swift: OEKOATWWHVS
+    
+- name: "OESTERREICHISCHE KONTROLLBANK AG"
+  city: "VIENNA"
+  branch: SERVICEBUREAU
+  swift: OEKOATWWCON
+    
+- name: "OESTERREICHISCHE KONTROLLBANK AG"
+  city: "VIENNA"
+  branch: SERVICEBUREAU
+  swift: OEKOATWWECO
+    
+- name: "OESTERREICHISCHE KONTROLLBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: OEKOATWW
+    
+- name: "OESTERREICHISCHE KONTROLLBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: OEKOATWWPBS
+    
+- name: "OESTERREICHISCHE NATIONALBANK"
+  city: "VIENNA"
+  branch: GRA BRANCH
+  swift: NABAATWWGRA
+    
+- name: "OESTERREICHISCHE NATIONALBANK"
+  city: "VIENNA"
+  branch: null
+  swift: NABAATWG
+    
+- name: "OESTERREICHISCHE NATIONALBANK"
+  city: "VIENNA"
+  branch: null
+  swift: NABAATWW
+    
+- name: "OESTERREICHISCHE POST AG"
+  city: "VIENNA"
+  branch: null
+  swift: APOSATWW
+    
+- name: "OESTERREICHISCHE TERMIN- UND OPTIONENBOERSE, CLEARING BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: XOTBATW1
+    
+- name: "OESTERREICHISCHER EXPORTFONDS GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: OEEXATW1
+    
+- name: "OPEC FUND FOR INTERNATIONAL DEVELOPMENT (OFID)"
+  city: "VIENNA"
+  branch: null
+  swift: OFIDATWW
+    
+- name: "OPEL BANKGESELLSCHAFT M.B.H"
+  city: "VIENNA"
+  branch: null
+  swift: OPMBATW1
+    
+- name: "PARTNER BANK AG"
+  city: "LINZ"
+  branch: null
+  swift: IBAGAT21
+    
+- name: "PARTNERBANK AG"
+  city: "LINZ"
+  branch: null
+  swift: PABAAT2L
+    
+- name: "PAYBOX BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: PABXATW1
+    
+- name: "PETRONIJEVIC GESELLSCHAFT M.B.H"
+  city: "VIENNA"
+  branch: null
+  swift: PETNATW1
+    
+- name: "PFANDBRIEFSTELLE DER OESTERREICHISCHEN LANDES HYPOTHEKKENBANKEN"
+  city: "VIENNA"
+  branch: null
+  swift: POLHATW1
+    
+- name: "PIONEER INVESTMENTS AUSTRIA GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: CIVTATWW
+    
+- name: "PORSCHE-BANK AKTIENGESELLSCHAFT"
+  city: "SALZBURG"
+  branch: null
+  swift: PORCAT21
+    
+- name: "POSOJILNICA BANK EGEN"
+  city: "KLAGENFURT"
+  branch: BAD EISENKAPPEL
+  swift: VSGKAT2K130
+    
+- name: "POSOJILNICA BANK EGEN"
+  city: "KLAGENFURT"
+  branch: BLEIBURG
+  swift: VSGKAT2K117
+    
+- name: "POSOJILNICA BANK EGEN"
+  city: "KLAGENFURT"
+  branch: EBERNDORF
+  swift: VSGKAT2K104
+    
+- name: "POSOJILNICA BANK EGEN"
+  city: "KLAGENFURT"
+  branch: FERLACH
+  swift: VSGKAT2K102
+    
+- name: "POSOJILNICA BANK EGEN"
+  city: "KLAGENFURT"
+  branch: HART
+  swift: VSGKAT2K116
+    
+- name: "POSOJILNICA BANK EGEN"
+  city: "KLAGENFURT"
+  branch: LUDMANNSDORF
+  swift: VSGKAT2K101
+    
+- name: "POSOJILNICA BANK EGEN"
+  city: "KLAGENFURT"
+  branch: ST.JAKOB
+  swift: VSGKAT2K109
+    
+- name: "POSOJILNICA BANK EGEN"
+  city: "KLAGENFURT"
+  branch: null
+  swift: VSGKAT2K
+    
+- name: "PREPARATORY COMMISSION FOR THE NUCLEAR-TEST-BAN TREATY ORGANIZATION"
+  city: "VIENNA"
+  branch: null
+  swift: CTBTATWW
+    
+- name: "PRIVAT BANK AG DER RAIFFEISENLANDESBANK OBEROESTERREICH"
+  city: "LINZ"
+  branch: null
+  swift: RZOOAT2L795
+    
+- name: "PSA FINANCE AUSTRIA BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: PSFAATW1
+    
+- name: "RAFFEISEN-LEASING BANK AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: RLBAATW1
+    
+- name: "RAIFFEISEN BANK INTERNATIONAL AG"
+  city: "VIENNA"
+  branch: FUNDADMINISTRATION
+  swift: RZBAATWWGFA
+    
+- name: "RAIFFEISEN BANK INTERNATIONAL AG"
+  city: "VIENNA"
+  branch: PAYMENTS
+  swift: RZBAATWWPOP
+    
+- name: "RAIFFEISEN BANK INTERNATIONAL AG"
+  city: "VIENNA"
+  branch: SECURITIES
+  swift: RZBAATWWSEC
+    
+- name: "RAIFFEISEN BANK INTERNATIONAL AG"
+  city: "VIENNA"
+  branch: SETTLE 8601
+  swift: RZBAATWWA01
+    
+- name: "RAIFFEISEN BANK INTERNATIONAL AG"
+  city: "VIENNA"
+  branch: T2S IDENTIFIACTION WITH CSD CLEARSTREAM
+  swift: RZBAATWWT2S
+    
+- name: "RAIFFEISEN BANK INTERNATIONAL AG"
+  city: "VIENNA"
+  branch: TREASURY
+  swift: RZBAATWWTRE
+    
+- name: "RAIFFEISEN BANK INTERNATIONAL AG"
+  city: "VIENNA"
+  branch: null
+  swift: RZBAATWW
+    
+- name: "RAIFFEISEN BANK REGION MELK"
+  city: "POECHLARN"
+  branch: null
+  swift: RLNWATWW651
+    
+- name: "RAIFFEISEN BAUSPARKASSE GESELLSCHAFT M.B.H."
+  city: "VIENNA"
+  branch: null
+  swift: RBSKATW1
+    
+- name: "RAIFFEISEN BEZIRKSBANK KLAGENFURT"
+  city: "KLAGENFURT"
+  branch: null
+  swift: RZKTAT2K358
+    
+- name: "RAIFFEISEN BEZIRKSBANK KUFSTEIN EGEN"
+  city: "KUFSTEIN"
+  branch: null
+  swift: RZTIAT22358
+    
+- name: "RAIFFEISEN BEZIRKSBANK SPITTAL/DRAU"
+  city: "SPITTAL (DRAU)"
+  branch: null
+  swift: RZKTAT2K267
+    
+- name: "RAIFFEISEN BEZIRKSBANK ST. VEIT/GLAN-FELDKIRCHEN"
+  city: "ST. VEIT (GLAN)"
+  branch: null
+  swift: RZKTAT2K475
+    
+- name: "RAIFFEISEN CENTROBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: CENBATWW
+    
+- name: "RAIFFEISEN HOLDING NIEDEROESTERREICH"
+  city: "VIENNA"
+  branch: null
+  swift: RLNWATW1300
+    
+- name: "RAIFFEISEN IMMOBILIEN KAPITALANLAGE-GESELLSCHAFT M.B.H."
+  city: "VIENNA"
+  branch: null
+  swift: RAIKATW1
+    
+- name: "RAIFFEISEN KAPITALANLAGE GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: RKAGATWW
+    
+- name: "RAIFFEISEN REGIONALBANK ACHENSEE EGEN"
+  city: "MAURACH"
+  branch: null
+  swift: RZTIAT22218
+    
+- name: "RAIFFEISEN REGIONALBANK FIEBERBRUNN - ST. JOHANN IN TIROL EGEN"
+  city: "ST. JOHANN IN TIROL"
+  branch: null
+  swift: RZTIAT22254
+    
+- name: "RAIFFEISEN REGIONALBANK GAENSERNDORF"
+  city: "GAENSERNDORF"
+  branch: null
+  swift: RLNWATWWGAE
+    
+- name: "RAIFFEISEN REGIONALBANK HALL IN TIROL EGEN"
+  city: "HALL IN TIROL"
+  branch: null
+  swift: RZTIAT22362
+    
+- name: "RAIFFEISEN REGIONALBANK MOEDLING"
+  city: "MOEDLING"
+  branch: null
+  swift: RLNWATWWGTD
+    
+- name: "RAIFFEISEN REGIONALBANK SCHWAZ EGEN"
+  city: "SCHWAZ"
+  branch: null
+  swift: RZTIAT22322
+    
+- name: "RAIFFEISEN REGIONALBANK WR. NEUSTADT"
+  city: "WIENER NEUSTADT"
+  branch: null
+  swift: RLNWATWWWRN
+    
+- name: "RAIFFEISEN VERMOEGENSVERWALTUNGSBANK"
+  city: "VIENNA"
+  branch: null
+  swift: RAVMATW1
+    
+- name: "RAIFFEISEN WOHNBAUBANK AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: RAWHATW1
+    
+- name: "RAIFFEISENBANK ABSAM EGEN"
+  city: "ABSAM"
+  branch: null
+  swift: RZTIAT22200
+    
+- name: "RAIFFEISENBANK ABTENAU - RUSSBACH"
+  city: "ABTENAU"
+  branch: null
+  swift: RVSAAT2S001
+    
+- name: "RAIFFEISENBANK ACHENKIRCH UND UMGEBUNG EGEN"
+  city: "ACHENKIRCH"
+  branch: null
+  swift: RZTIAT22201
+    
+- name: "RAIFFEISENBANK ADMONT"
+  city: "ADMONT"
+  branch: null
+  swift: RZSTAT2G001
+    
+- name: "RAIFFEISENBANK AICHFELD EGEN"
+  city: "KNITTELFELD"
+  branch: null
+  swift: RZSTAT2G346
+    
+- name: "RAIFFEISENBANK ALBERSCHWENDE"
+  city: "ALBERSCHWENDE"
+  branch: null
+  swift: RVVGAT2B401
+    
+- name: "RAIFFEISENBANK ALM - HINTERTHAL"
+  city: "MARIA ALM"
+  branch: null
+  swift: RVSAAT2S003
+    
+- name: "RAIFFEISENBANK ALPBACHTAL EGEN"
+  city: "ALPBACH"
+  branch: null
+  swift: RZTIAT22203
+    
+- name: "RAIFFEISENBANK ALTACH"
+  city: "ALTACH"
+  branch: null
+  swift: RVVGAT2B402
+    
+- name: "RAIFFEISENBANK ALTENMARKT - FLACHAU - EBEN"
+  city: "ALTENMARKT IM PONGAU"
+  branch: null
+  swift: RVSAAT2S004
+    
+- name: "RAIFFEISENBANK ALTHOFEN-GUTTARING"
+  city: "ALTHOFEN"
+  branch: null
+  swift: RZKTAT2K255
+    
+- name: "RAIFFEISENBANK ALTHOFEN-GUTTARING REG.GEN.M.B.H."
+  city: "ALTHOFEN"
+  branch: null
+  swift: RBANAT2A
+    
+- name: "RAIFFEISENBANK AM BODENSEE"
+  city: "HARD"
+  branch: null
+  swift: RVVGAT2B431
+    
+- name: "RAIFFEISENBANK AM HOFSTEIG"
+  city: "WOLFURT"
+  branch: null
+  swift: RVVGAT2B482
+    
+- name: "RAIFFEISENBANK AMKUMMA EGEN"
+  city: "GOETZIS"
+  branch: null
+  swift: RVVGAT2B429
+    
+- name: "RAIFFEISENBANK ANIF - NIEDERALM"
+  city: "ANIF"
+  branch: null
+  swift: RVSAAT2S005
+    
+- name: "RAIFFEISENBANK ANNABERG"
+  city: "ANNABERG IM LAMMERTAL"
+  branch: null
+  swift: RVSAAT2S006
+    
+- name: "RAIFFEISENBANK ANTHERING"
+  city: "ANTHERING"
+  branch: null
+  swift: RVSAAT2S007
+    
+- name: "RAIFFEISENBANK APETLON EGEN"
+  city: "APETLON"
+  branch: APETLON
+  swift: RLBBAT2E004
+    
+- name: "RAIFFEISENBANK ARNOLDSTEIN FUERNITZ EG"
+  city: "ARNOLDSTEIN"
+  branch: null
+  swift: RZKTAT2K257
+    
+- name: "RAIFFEISENBANK ARZL IM PITZTAL UND IMSTERBERG REG.GEN.M.B.H."
+  city: "ARZL IM PITZTAL"
+  branch: null
+  swift: RZTIAT22207
+    
+- name: "RAIFFEISENBANK ASPACH-WILDENAU"
+  city: "ASPACH"
+  branch: null
+  swift: RZOOAT2L016
+    
+- name: "RAIFFEISENBANK ATTERGAU"
+  city: "ST. GEORGEN IM ATTERGAU"
+  branch: null
+  swift: RZOOAT2L523
+    
+- name: "RAIFFEISENBANK ATTERSEE-NORD"
+  city: "SEEWALCHEN"
+  branch: null
+  swift: RZOOAT2L608
+    
+- name: "RAIFFEISENBANK ATTERSEE-SUED"
+  city: "NUSSDORF AM ATTERSEE"
+  branch: null
+  swift: RZOOAT2L363
+    
+- name: "RAIFFEISENBANK AU"
+  city: "AU (BREGENZERWALD)"
+  branch: null
+  swift: RVVGAT2B405
+    
+- name: "RAIFFEISENBANK BAD HAERING-SCHWOICH EGEN"
+  city: "BAD HAERING"
+  branch: null
+  swift: RZTIAT22236
+    
+- name: "RAIFFEISENBANK BAD WIMSBACH-NEYDHARTING"
+  city: "BAD WIMSBACH"
+  branch: null
+  swift: RZOOAT2L750
+    
+- name: "RAIFFEISENBANK BERGHEIM"
+  city: "BERGHEIM"
+  branch: null
+  swift: RVSAAT2S008
+    
+- name: "RAIFFEISENBANK BERNHARDSTHAL - GROSSKRUT - ALTLICHTENWARTH"
+  city: "BERNHARDSTHAL"
+  branch: null
+  swift: RLNWATWWBGA
+    
+- name: "RAIFFEISENBANK BEZAU - MELLAU - BIZAU"
+  city: "BEZAU"
+  branch: null
+  swift: RVVGAT2B406
+    
+- name: "RAIFFEISENBANK BISCHOFSHOFEN"
+  city: "BISCHOFSHOFEN"
+  branch: null
+  swift: RVSAAT2S010
+    
+- name: "RAIFFEISENBANK BLEIBURG"
+  city: "BLEIBURG"
+  branch: null
+  swift: RZKTAT2K272
+    
+- name: "RAIFFEISENBANK BLUDENZ"
+  city: "BLUDENZ"
+  branch: null
+  swift: RVVGAT2B410
+    
+- name: "RAIFFEISENBANK BLUDENZ-MONTAFON EGEN"
+  city: "SCHRUNS"
+  branch: null
+  swift: RVVGAT2B468
+    
+- name: "RAIFFEISENBANK BRAMBERG AM WILDKOGEL"
+  city: "BRAMBERG AM WILDKOGEL"
+  branch: null
+  swift: RVSAAT2S011
+    
+- name: "RAIFFEISENBANK BRANDENBERG EGEN"
+  city: "BRANDENBERG"
+  branch: null
+  swift: RZTIAT22213
+    
+- name: "RAIFFEISENBANK BREITENAU"
+  city: "BREITENAU"
+  branch: null
+  swift: RZSTAT2G026
+    
+- name: "RAIFFEISENBANK BRIXEN IM THALE EGEN"
+  city: "BRIXEN IM THALE"
+  branch: null
+  swift: RZTIAT22215
+    
+- name: "RAIFFEISENBANK BRUCK - FUSH - KAPRUN"
+  city: "BRUCK AN DER GLOCKNERSTRASSE"
+  branch: null
+  swift: RVSAAT2S012
+    
+- name: "RAIFFEISENBANK BRUCK-CARNUNTUM"
+  city: "BRUCK AN DER LEITHA"
+  branch: null
+  swift: RLNWATWWBRL
+    
+- name: "RAIFFEISENBANK BRUECKL - EBERSTEIN - KLEIN ST. PAUL - WAISENBERG"
+  city: "BRUECKL"
+  branch: null
+  swift: RZKTAT2K271
+    
+- name: "RAIFFEISENBANK BUCH GALLZEIN UND STRASS REG.GEN.M.B.H."
+  city: "BUCH BEI JENBACH"
+  branch: null
+  swift: RZTIAT22272
+    
+- name: "RAIFFEISENBANK DEFEREGGENTAL EGEN"
+  city: "ST. JAKOB IN DEFEREGGEN"
+  branch: null
+  swift: RZTIAT22367
+    
+- name: "RAIFFEISENBANK DEUTSCHLANDSBERG"
+  city: "DEUTSCHLANDSBERG"
+  branch: null
+  swift: RZSTAT2G043
+    
+- name: "RAIFFEISENBANK DONAU-AMEISBERG"
+  city: "SARLEINSBACH"
+  branch: null
+  swift: RZOOAT2L075
+    
+- name: "RAIFFEISENBANK DONNERSKIRCHEN-OGGAU-SCHUETZEN/GEB."
+  city: "DONNERSKIRCHEN"
+  branch: DONNERSKIRCHEN-OGGAU-SCHUETZEN
+  swift: RLBBAT2E012
+    
+- name: "RAIFFEISENBANK DRASSMARKT-KOBERSDORF-ST.MARTIN EGEN"
+  city: "DRASSMARKT"
+  branch: DRASSMARKT-KOBERSDORF-ST.MARTIN
+  swift: RLBBAT2E014
+    
+- name: "RAIFFEISENBANK DRAUTAL"
+  city: "PATERNION"
+  branch: null
+  swift: RZKTAT2K442
+    
+- name: "RAIFFEISENBANK DREILAENDERECK BGLD-NORD EGEN"
+  city: "NICKELSDORF"
+  branch: null
+  swift: RLBBAT2E038
+    
+- name: "RAIFFEISENBANK DREILAENDERECK BGLD-NORD EGEN"
+  city: "NICKELSDORF"
+  branch: null
+  swift: RLBBAT2E063
+    
+- name: "RAIFFEISENBANK DREILAENDERECK BGLD-NORD EGEN"
+  city: "ZURNDORF"
+  branch: null
+  swift: RLBBAT2E114
+    
+- name: "RAIFFEISENBANK EBERNDORF"
+  city: "EBERNDORF"
+  branch: null
+  swift: RZKTAT2K288
+    
+- name: "RAIFFEISENBANK EBERSCHWANG"
+  city: "EBERSCHWANG"
+  branch: null
+  swift: RZOOAT2L081
+    
+- name: "RAIFFEISENBANK EDELSCHROTT"
+  city: "EDELSCHROTT"
+  branch: null
+  swift: RZSTAT2G053
+    
+- name: "RAIFFEISENBANK EDT-LAMBACH"
+  city: "LAMBACH"
+  branch: null
+  swift: RZOOAT2L083
+    
+- name: "RAIFFEISENBANK EGGENBURG"
+  city: "EGGENBURG"
+  branch: null
+  swift: RLNWATWW123
+    
+- name: "RAIFFEISENBANK EHRWALD-LERMOOS-BIBERWIER EGEN"
+  city: "EHRWALD"
+  branch: null
+  swift: RZTIAT22219
+    
+- name: "RAIFFEISENBANK ENNSTAL"
+  city: "TERNBERG"
+  branch: null
+  swift: RZOOAT2L080
+    
+- name: "RAIFFEISENBANK ENNSTAL"
+  city: "TERNBERG"
+  branch: null
+  swift: RZOOAT2L126
+    
+- name: "RAIFFEISENBANK ERL EGEN"
+  city: "ERL"
+  branch: null
+  swift: RZTIAT22223
+    
+- name: "RAIFFEISENBANK EUGENDORF - PLAINFELD"
+  city: "EUGENDORF"
+  branch: null
+  swift: RVSAAT2S015
+    
+- name: "RAIFFEISENBANK FAISTENAU - HINTERSEE"
+  city: "FAISTENAU"
+  branch: null
+  swift: RVSAAT2S016
+    
+- name: "RAIFFEISENBANK FEHRING - ST. ANNA AM AIGEN"
+  city: "FEHRING"
+  branch: null
+  swift: RZSTAT2G071
+    
+- name: "RAIFFEISENBANK FELDBACH-GNAS-BAD GLEICHENBERG"
+  city: "FELDBACH"
+  branch: null
+  swift: RZSTAT2G497
+    
+- name: "RAIFFEISENBANK FELDKIRCH"
+  city: "FELDKIRCH"
+  branch: null
+  swift: RVVGAT2B422
+    
+- name: "RAIFFEISENBANK FELDKIRCHEN-GOLDWOERTH"
+  city: "FELDKIRCHEN"
+  branch: null
+  swift: RZOOAT2L100
+    
+- name: "RAIFFEISENBANK FELDKIRCHEN-KALSDORF"
+  city: "KALSDORF"
+  branch: null
+  swift: RZSTAT2G072
+    
+- name: "RAIFFEISENBANK FINKENSTEIN-FAAKER SEE REG.GEN.MBH"
+  city: "FINKENSTEIN"
+  branch: null
+  swift: RZKTAT2K383
+    
+- name: "RAIFFEISENBANK FRASTANZ - SATTEINS"
+  city: "FRASTANZ"
+  branch: null
+  swift: RVVGAT2B424
+    
+- name: "RAIFFEISENBANK FRAUENKIRCHEN EGEN"
+  city: "FRAUENKIRCHEN"
+  branch: FRAUENKIRCHEN
+  swift: RLBBAT2E116
+    
+- name: "RAIFFEISENBANK FREISTADT RUST EGEN"
+  city: "RUST"
+  branch: RUST
+  swift: RLBBAT2E085
+    
+- name: "RAIFFEISENBANK FRIESACH - METNITZTAL"
+  city: "FRIESACH"
+  branch: null
+  swift: RZKTAT2K501
+    
+- name: "RAIFFEISENBANK FUERNITZ"
+  city: "FUERNITZ"
+  branch: null
+  swift: RZKTAT2K305
+    
+- name: "RAIFFEISENBANK FUERSTENFELD"
+  city: "FUERSTENFELD"
+  branch: null
+  swift: RZSTAT2G077
+    
+- name: "RAIFFEISENBANK FULPMES-TELFES IM STUBAI EGEN"
+  city: "FULPMES"
+  branch: null
+  swift: RZTIAT22230
+    
+- name: "RAIFFEISENBANK GAMLITZ"
+  city: "GAMLITZ"
+  branch: null
+  swift: RZSTAT2G094
+    
+- name: "RAIFFEISENBANK GAMPERN"
+  city: "GAMPERN"
+  branch: null
+  swift: RZOOAT2L113
+    
+- name: "RAIFFEISENBANK GASTEIN"
+  city: "GASTEIN"
+  branch: null
+  swift: RVSAAT2S026
+    
+- name: "RAIFFEISENBANK GERETSBERG"
+  city: "GERETSBERG"
+  branch: null
+  swift: RZOOAT2L118
+    
+- name: "RAIFFEISENBANK GLEINSTAETTEN"
+  city: "GLEINSTAETTEN"
+  branch: null
+  swift: RZSTAT2G102
+    
+- name: "RAIFFEISENBANK GNAS"
+  city: "GNAS"
+  branch: null
+  swift: RZSTAT2G104
+    
+- name: "RAIFFEISENBANK GOING EGEN"
+  city: "GOING"
+  branch: null
+  swift: RZTIAT22232
+    
+- name: "RAIFFEISENBANK GRAFENSTEIN - MAGDALENSBERG UND UMGEBUNG"
+  city: "GRAFENSTEIN"
+  branch: null
+  swift: RZKTAT2K320
+    
+- name: "RAIFFEISENBANK GRAMASTETTEN-HERZOGSDORF"
+  city: "GRAMASTETTEN"
+  branch: null
+  swift: RZOOAT2L135
+    
+- name: "RAIFFEISENBANK GRATKORN"
+  city: "GRATKORN"
+  branch: null
+  swift: RZSTAT2G111
+    
+- name: "RAIFFEISENBANK GRATWEIN"
+  city: "GRATWEIN"
+  branch: null
+  swift: RZSTAT2G112
+    
+- name: "RAIFFEISENBANK GRAZ - ANDRITZ"
+  city: "GRAZ (ANDRITZ)"
+  branch: null
+  swift: RZSTAT2G377
+    
+- name: "RAIFFEISENBANK GRAZ - MARIATROST"
+  city: "GRAZ (MARIATROST)"
+  branch: null
+  swift: RZSTAT2G223
+    
+- name: "RAIFFEISENBANK GRAZ - ST. PETER"
+  city: "GRAZ (ST. PETER)"
+  branch: null
+  swift: RZSTAT2G367
+    
+- name: "RAIFFEISENBANK GRAZ - STRASSGANG"
+  city: "GRAZ (STRASSGANG)"
+  branch: null
+  swift: RZSTAT2G439
+    
+- name: "RAIFFEISENBANK GREIN"
+  city: "GREIN"
+  branch: null
+  swift: RZOOAT2L068
+    
+- name: "RAIFFEISENBANK GROEBMING"
+  city: "GROEBMING"
+  branch: null
+  swift: RZSTAT2G113
+    
+- name: "RAIFFEISENBANK GROEDIG"
+  city: "GROEDIG"
+  branch: null
+  swift: RVSAAT2S018
+    
+- name: "RAIFFEISENBANK GROSS GERUNGS"
+  city: "GROSSGERUNGS"
+  branch: null
+  swift: RLNWATW1589
+    
+- name: "RAIFFEISENBANK GROSS ST. FLORIAN-WETTMANNSTAETTEN"
+  city: "GROSS ST. FLORIAN"
+  branch: null
+  swift: RZSTAT2G118
+    
+- name: "RAIFFEISENBANK GROSSARL - HUETTSCHLAG"
+  city: "GROSSARL"
+  branch: null
+  swift: RVSAAT2S019
+    
+- name: "RAIFFEISENBANK GROSSTEINBACH"
+  city: "GROSS STEINBACH"
+  branch: null
+  swift: RZSTAT2G120
+    
+- name: "RAIFFEISENBANK GROSSWILFERSDORF"
+  city: "GROSSWILFERSDORF"
+  branch: null
+  swift: RZSTAT2G122
+    
+- name: "RAIFFEISENBANK GRUENAU-ST.KONRAD-SCHARNSTEIN"
+  city: "GRUENAU IM ALMTAL"
+  branch: null
+  swift: RZOOAT2L127
+    
+- name: "RAIFFEISENBANK GUNSKIRCHEN"
+  city: "GUNSKIRCHEN"
+  branch: null
+  swift: RZOOAT2L129
+    
+- name: "RAIFFEISENBANK GURKTAL"
+  city: "STRASSBURG"
+  branch: null
+  swift: RZKTAT2K511
+    
+- name: "RAIFFEISENBANK HALBENRAIN - TIESCHEN"
+  city: "HALBENRAIN"
+  branch: null
+  swift: RZSTAT2G128
+    
+- name: "RAIFFEISENBANK HALLEIN"
+  city: "HALLEIN"
+  branch: null
+  swift: RVSAAT2S022
+    
+- name: "RAIFFEISENBANK HANDENBERG - ST. GEORGEN A. F."
+  city: "HANDENBERG"
+  branch: null
+  swift: RZOOAT2L155
+    
+- name: "RAIFFEISENBANK HARTBERG"
+  city: "HARTBERG"
+  branch: null
+  swift: RZSTAT2G403
+    
+- name: "RAIFFEISENBANK HATZENDORF - UNTERLAMM"
+  city: "HATZENDORF"
+  branch: null
+  swift: RZSTAT2G132
+    
+- name: "RAIFFEISENBANK HAUSMANNSTAETTEN"
+  city: "HAUSMANNSTAETTEN"
+  branch: null
+  swift: RZSTAT2G133
+    
+- name: "RAIFFEISENBANK HEIDEBODEN EGEN"
+  city: "HALBTURN"
+  branch: null
+  swift: RLBBAT2E028
+    
+- name: "RAIFFEISENBANK HEIDEBODEN EGEN"
+  city: "ST. ANDRAE"
+  branch: ST. ANDRAE
+  swift: RLBBAT2E090
+    
+- name: "RAIFFEISENBANK HEILIGENKREUZ - KIRCHBACH"
+  city: "KIRCHBACH IN STEIERMARK"
+  branch: null
+  swift: RZSTAT2G170
+    
+- name: "RAIFFEISENBANK HELFENBERG ST. STEFAN"
+  city: "HELFENBERG"
+  branch: null
+  swift: RZOOAT2L160
+    
+- name: "RAIFFEISENBANK HELLMONSOEDT"
+  city: "HELLMONSOEDT"
+  branch: null
+  swift: RZOOAT2L161
+    
+- name: "RAIFFEISENBANK HENNDORF AM WALLERSEE"
+  city: "HENNDORF AM WALLERSEE"
+  branch: null
+  swift: RVSAAT2S024
+    
+- name: "RAIFFEISENBANK HERMAGOR"
+  city: "HERMAGOR"
+  branch: null
+  swift: RZKTAT2K543
+    
+- name: "RAIFFEISENBANK HERZOGENBURG-KAPELLN"
+  city: "HERZOGENBURG"
+  branch: null
+  swift: RLNWATWW769
+    
+- name: "RAIFFEISENBANK HINTERSTODER UND VORDERSTODER"
+  city: "HINTERSTODER"
+  branch: null
+  swift: RZOOAT2L165
+    
+- name: "RAIFFEISENBANK HIPPACH UND UMGEBUNG EGEN"
+  city: "HIPPACH"
+  branch: null
+  swift: RZTIAT22241
+    
+- name: "RAIFFEISENBANK HITZENDORF-REIN"
+  city: "HITZENDORF"
+  branch: null
+  swift: RZSTAT2G138
+    
+- name: "RAIFFEISENBANK HOERSCHING-THENING"
+  city: "HOERSCHING"
+  branch: null
+  swift: RZOOAT2L170
+    
+- name: "RAIFFEISENBANK HOF - KOPPL - EBENAU"
+  city: "HOF BEI SALZBURG"
+  branch: null
+  swift: RVSAAT2S025
+    
+- name: "RAIFFEISENBANK HOHENEMS REGISTRIERTE GENOSSENSCHAFT MIT BESCHRANKTER HAFTUNG"
+  city: "HOHENEMS"
+  branch: null
+  swift: RANMAT21
+    
+- name: "RAIFFEISENBANK HOLLABRUNN"
+  city: "HOLLABRUNN"
+  branch: null
+  swift: RLNWATW1322
+    
+- name: "RAIFFEISENBANK HOPFGARTEN IM BRIXENTAL EGEN"
+  city: "HOPFGARTEN IM BRIXENTAL"
+  branch: null
+  swift: RZTIAT22245
+    
+- name: "RAIFFEISENBANK HORITSCHON UND UMGEBUNG EGEN"
+  city: "HORITSCHON"
+  branch: HORITSCHON UND UMGEBUNG
+  swift: RLBBAT2E031
+    
+- name: "RAIFFEISENBANK HUETTAU"
+  city: "HUETTAU"
+  branch: null
+  swift: RVSAAT2S027
+    
+- name: "RAIFFEISENBANK HUETTENBERG - WIETING"
+  city: "HUETTENBERG"
+  branch: null
+  swift: RZKTAT2K340
+    
+- name: "RAIFFEISENBANK ILLMITZ EGEN"
+  city: "ILLMITZ"
+  branch: ILLMITZ
+  swift: RLBBAT2E033
+    
+- name: "RAIFFEISENBANK ILZ"
+  city: "ILZ"
+  branch: null
+  swift: RZSTAT2G151
+    
+- name: "RAIFFEISENBANK IM MOSTVIERTEL ASCHBACH"
+  city: "ASCHBACH MARKT"
+  branch: null
+  swift: RLNWATWWASC
+    
+- name: "RAIFFEISENBANK IM RHEINTAL"
+  city: "DORNBIRN"
+  branch: null
+  swift: RVVGAT2B420
+    
+- name: "RAIFFEISENBANK IM WEINVIERTEL EGEN"
+  city: "MISTELBACH AN DER ZAYA"
+  branch: null
+  swift: RLNWATWWMIB
+    
+- name: "RAIFFEISENBANK IN BREGENZ"
+  city: "BREGENZ"
+  branch: null
+  swift: RVVGAT2B400
+    
+- name: "RAIFFEISENBANK INNERES SALZKAMMERGUT"
+  city: "BAD ISCHL"
+  branch: null
+  swift: RZOOAT2L545
+    
+- name: "RAIFFEISENBANK INNKREIS MITTE"
+  city: "ORT IM INNKREIS"
+  branch: null
+  swift: RZOOAT2L200
+    
+- name: "RAIFFEISENBANK JENBACH-WIESING EGEN"
+  city: "JENBACH"
+  branch: null
+  swift: RZTIAT22249
+    
+- name: "RAIFFEISENBANK JUDENBURG"
+  city: "JUDENBURG"
+  branch: null
+  swift: RZSTAT2G368
+    
+- name: "RAIFFEISENBANK KARTITSCH EGEN"
+  city: "LIENZ (OSTTIROL)"
+  branch: null
+  swift: RZTIAT22387
+    
+- name: "RAIFFEISENBANK KEMATEN EGEN"
+  city: "KEMATEN IN TIROL"
+  branch: null
+  swift: RZTIAT22260
+    
+- name: "RAIFFEISENBANK KEMATEN-NEUHOFEN"
+  city: "NEUHOFEN (KREMS)"
+  branch: null
+  swift: RZOOAT2L214
+    
+- name: "RAIFFEISENBANK KEUTSCHACH-MARIA WOERTH REG.GEN.MBH"
+  city: "REIFNITZ"
+  branch: null
+  swift: RZKTAT2K355
+    
+- name: "RAIFFEISENBANK KIRCHDORF TIROL REG.GEN.M.B.H."
+  city: "KIRCHDORF IN TIROL"
+  branch: null
+  swift: RZTIAT22262
+    
+- name: "RAIFFEISENBANK KIRCHSCHLAG BEI LINZ"
+  city: "KIRCHSCHLAG BEI LINZ"
+  branch: null
+  swift: RZOOAT2L223
+    
+- name: "RAIFFEISENBANK KITZBUEHEL EGEN"
+  city: "KITZBUEHEL"
+  branch: null
+  swift: RZTIAT22263
+    
+- name: "RAIFFEISENBANK KLEINMUENCHEN/LINZ"
+  city: "LINZ"
+  branch: null
+  swift: RZOOAT2L226
+    
+- name: "RAIFFEISENBANK KLOSTERNEUBURG"
+  city: "KLOSTERNEUBURG"
+  branch: null
+  swift: RLNWATWW367
+    
+- name: "RAIFFEISENBANK KOENIGSDORF EGEN"
+  city: "KOENIGSDORF"
+  branch: KOENIGSDORF
+  swift: RLBBAT2E041
+    
+- name: "RAIFFEISENBANK KOESSEN-SCHWENDT EGEN"
+  city: "KOESSEN"
+  branch: null
+  swift: RZTIAT22264
+    
+- name: "RAIFFEISENBANK KOESTENDORF - NEUMARKT - SCHLEEDOR F"
+  city: "KOESTENDORF"
+  branch: null
+  swift: RVSAAT2S021
+    
+- name: "RAIFFEISENBANK KOETSCHACH - MAUTHEN"
+  city: "KOETSCHACH"
+  branch: null
+  swift: RZKTAT2K364
+    
+- name: "RAIFFEISENBANK KOLLERSCHLAG"
+  city: "KOLLERSCHLAG"
+  branch: null
+  swift: RZOOAT2L231
+    
+- name: "RAIFFEISENBANK KOLSASS UND UMGEBUNG EGEN"
+  city: "KOLSASS"
+  branch: null
+  swift: RZTIAT22265
+    
+- name: "RAIFFEISENBANK KORNEUBURG"
+  city: "KORNEUBURG"
+  branch: null
+  swift: RLNWATWWKOR
+    
+- name: "RAIFFEISENBANK KREMS"
+  city: "KREMS (DONAU)"
+  branch: null
+  swift: RLNWATWWKRE
+    
+- name: "RAIFFEISENBANK KRENGLBACH"
+  city: "KRENGLBACH"
+  branch: null
+  swift: RZOOAT2L234
+    
+- name: "RAIFFEISENBANK KREUZENSTEIN EGEN"
+  city: "LEOBENDORF"
+  branch: null
+  swift: RLNWATW1438
+    
+- name: "RAIFFEISENBANK KRIMML"
+  city: "KRIMML"
+  branch: null
+  swift: RVSAAT2S028
+    
+- name: "RAIFFEISENBANK KUNDL EGEN"
+  city: "KUNDL"
+  branch: null
+  swift: RZTIAT22267
+    
+- name: "RAIFFEISENBANK LAA/THAYA EGEN."
+  city: "LAA AN DER THAYA"
+  branch: null
+  swift: RLNWATWWLAA
+    
+- name: "RAIFFEISENBANK LAABEN-MARIA ANZBACH"
+  city: "BRAND - LAABEN"
+  branch: null
+  swift: RLNWATW1414
+    
+- name: "RAIFFEISENBANK LAENGENFELD EGEN"
+  city: "LAENGENFELD"
+  branch: null
+  swift: RZTIAT22268
+    
+- name: "RAIFFEISENBANK LAMPRECHTSHAUSEN - BUERMOOS"
+  city: "LAMPRECHTSHAUSEN"
+  branch: null
+  swift: RVSAAT2S030
+    
+- name: "RAIFFEISENBANK LANDSKRON - GEGENDTAL"
+  city: "LANDSKRON"
+  branch: null
+  swift: RZKTAT2K381
+    
+- name: "RAIFFEISENBANK LANGENLOIS EGEN"
+  city: "LANGENLOIS"
+  branch: null
+  swift: RLNWATWW426
+    
+- name: "RAIFFEISENBANK LANGEN-THAL"
+  city: "LANGEN (BEI BREGENZ)"
+  branch: null
+  swift: RVVGAT2B445
+    
+- name: "RAIFFEISENBANK LAUNSDORF"
+  city: "LAUNSDORF"
+  branch: null
+  swift: RZKTAT2K384
+    
+- name: "RAIFFEISENBANK LAVAMUEND"
+  city: "LAVAMUEND"
+  branch: null
+  swift: RZKTAT2K292
+    
+- name: "RAIFFEISENBANK LECH"
+  city: "LECH"
+  branch: null
+  swift: RVVGAT2B449
+    
+- name: "RAIFFEISENBANK LEIBLACHTAL"
+  city: "HOERBRANZ"
+  branch: null
+  swift: RVVGAT2B439
+    
+- name: "RAIFFEISENBANK LEIBNITZ"
+  city: "LEIBNITZ"
+  branch: null
+  swift: RZSTAT2G206
+    
+- name: "RAIFFEISENBANK LEOBEN-BRUCK EGEN"
+  city: "KAPFENBERG"
+  branch: null
+  swift: RZSTAT2G460
+    
+- name: "RAIFFEISENBANK LEOGANG"
+  city: "LEOGANG"
+  branch: null
+  swift: RVSAAT2S031
+    
+- name: "RAIFFEISENBANK LEONDING"
+  city: "LEONDING"
+  branch: null
+  swift: RZOOAT2L276
+    
+- name: "RAIFFEISENBANK LEUTSCHACH-OBERHAAG"
+  city: "OBERHAAG"
+  branch: null
+  swift: RZSTAT2G262
+    
+- name: "RAIFFEISENBANK LIEBOCH - STAINZ"
+  city: "STAINZ"
+  branch: null
+  swift: RZSTAT2G210
+    
+- name: "RAIFFEISENBANK LIESERTAL"
+  city: "RENNWEG"
+  branch: null
+  swift: RZKTAT2K464
+    
+- name: "RAIFFEISENBANK LIESINGTAL"
+  city: "MAUTERN IN STEIERMARK"
+  branch: null
+  swift: RZSTAT2G227
+    
+- name: "RAIFFEISENBANK LIEZEN"
+  city: "LIEZEN"
+  branch: null
+  swift: RZSTAT2G215
+    
+- name: "RAIFFEISENBANK LIGIST - ST. JOHANN"
+  city: "LIGIST"
+  branch: null
+  swift: RZSTAT2G211
+    
+- name: "RAIFFEISENBANK LOCHEN AM SEE"
+  city: "LOCHEN"
+  branch: null
+  swift: RZOOAT2L290
+    
+- name: "RAIFFEISENBANK LOCKENHAUS-MANNERSDORF-PILGERSDORF--UNTERKOHLSTAETTEN EGEN"
+  city: "LOCKENHAUS"
+  branch: null
+  swift: RLBBAT2E046
+    
+- name: "RAIFFEISENBANK LOHNSBURG"
+  city: "LOHNSBURG"
+  branch: null
+  swift: RZOOAT2L284
+    
+- name: "RAIFFEISENBANK LURNFELD - REISSECK"
+  city: "MOELLBRUECKE"
+  branch: null
+  swift: RZKTAT2K412
+    
+- name: "RAIFFEISENBANK LUSTENAU REGISTRIERTE GENOSSENSCHAFT MIT BESCHRANKTER HAFTUNG"
+  city: "LUSTENAU"
+  branch: null
+  swift: RAOCAT21
+    
+- name: "RAIFFEISENBANK LUTZMANNSBURG-FRANKENAU EGEN"
+  city: "LUTZMANNSBURG"
+  branch: LUTZMANNSBURG-FRANKENAU
+  swift: RLBBAT2E048
+    
+- name: "RAIFFEISENBANK MAISHOFEN - THUMERSBACH"
+  city: "MAISHOFEN"
+  branch: null
+  swift: RVSAAT2S035
+    
+- name: "RAIFFEISENBANK MALTATAL"
+  city: "MALTA"
+  branch: null
+  swift: RZKTAT2K400
+    
+- name: "RAIFFEISENBANK MARIA SAAL"
+  city: "MARIA SAAL"
+  branch: null
+  swift: RZKTAT2K404
+    
+- name: "RAIFFEISENBANK MARIA SCHMOLLN-ST. JOHANN"
+  city: "MARIA SCHMOLLN"
+  branch: null
+  swift: RZOOAT2L312
+    
+- name: "RAIFFEISENBANK MARIAPFARR"
+  city: "MARIAPFARR"
+  branch: null
+  swift: RVSAAT2S036
+    
+- name: "RAIFFEISENBANK MARIAZELLERLAND"
+  city: "MARIAZELL"
+  branch: null
+  swift: RZSTAT2G129
+    
+- name: "RAIFFEISENBANK MARKT HARTMANNSDORF"
+  city: "MARKT HARTMANNSDORF"
+  branch: null
+  swift: RZSTAT2G131
+    
+- name: "RAIFFEISENBANK MARKT NEUKIRCHEN"
+  city: "NEUKIRCHEN AM GROSSVENEDIGER"
+  branch: null
+  swift: RVSAAT2S042
+    
+- name: "RAIFFEISENBANK MATREI IN OSTTIROL-VIRGEN-PRAEGRATE-KALS REG.GEN.M.B.H"
+  city: "MATREI IN OSTTIROL"
+  branch: null
+  swift: RZTIAT22378
+    
+- name: "RAIFFEISENBANK MATTIGTAL"
+  city: "SCHALCHEN"
+  branch: null
+  swift: RZOOAT2L303
+    
+- name: "RAIFFEISENBANK MAUTERNDORF - TWENG - OBERTAUERN"
+  city: "MAUTERNDORF"
+  branch: null
+  swift: RVSAAT2S037
+    
+- name: "RAIFFEISENBANK MAYRHOFEN UND UMGEBUNG EGEN"
+  city: "MAYRHOFEN"
+  branch: null
+  swift: RZTIAT22274
+    
+- name: "RAIFFEISENBANK MEGGENHOFEN-KEMATEN"
+  city: "MEGGENHOFEN"
+  branch: null
+  swift: RZOOAT2L313
+    
+- name: "RAIFFEISENBANK MICHAELBEUERN"
+  city: "MICHAELBEUERN"
+  branch: null
+  swift: RVSAAT2S038
+    
+- name: "RAIFFEISENBANK MICHELHAUSEN"
+  city: "MICHELHAUSEN"
+  branch: null
+  swift: RLNWATW1497
+    
+- name: "RAIFFEISENBANK MIEMINGER PLATEAU EGEN"
+  city: "MIEMING"
+  branch: null
+  swift: RZTIAT22276
+    
+- name: "RAIFFEISENBANK MILLSTAETTERSEE EG"
+  city: "SEEBODEN"
+  branch: null
+  swift: RZKTAT2K479
+    
+- name: "RAIFFEISENBANK MITTELBREGENZERWALD"
+  city: "EGG"
+  branch: null
+  swift: RVVGAT2B423
+    
+- name: "RAIFFEISENBANK MITTELBURGENLAND OST EGEN"
+  city: "DEUTSCHKREUTZ"
+  branch: null
+  swift: RLBBAT2E010
+    
+- name: "RAIFFEISENBANK MITTELBURGENLAND OST EGEN"
+  city: "RITZING"
+  branch: null
+  swift: RLBBAT2E083
+    
+- name: "RAIFFEISENBANK MITTERSILL - HOLLERSBACH - STUHLFELDEN"
+  city: "MITTERSILL"
+  branch: null
+  swift: RVSAAT2S039
+    
+- name: "RAIFFEISENBANK MITTLERES LAVANTTAL EGEN"
+  city: "ST. ANDRAE"
+  branch: null
+  swift: RZKTAT2K481
+    
+- name: "RAIFFEISENBANK MITTLERES MOELLTAL"
+  city: "OBERVELLACH"
+  branch: null
+  swift: RZKTAT2K436
+    
+- name: "RAIFFEISENBANK MITTLERES MUERZTAL"
+  city: "KRIEGLACH"
+  branch: null
+  swift: RZSTAT2G186
+    
+- name: "RAIFFEISENBANK MITTLERES RAABTAL"
+  city: "PALDAU"
+  branch: null
+  swift: RZSTAT2G075
+    
+- name: "RAIFFEISENBANK MITTLERES RODLTAL"
+  city: "OBERNEUKIRCHEN"
+  branch: null
+  swift: RZOOAT2L383
+    
+- name: "RAIFFEISENBANK MITTLERES UNTERINNTAL EGEN"
+  city: "BRIXLEGG"
+  branch: null
+  swift: RZTIAT22216
+    
+- name: "RAIFFEISENBANK MOENCHHOF EGEN"
+  city: "MOENCHHOF"
+  branch: MOENCHHOF
+  swift: RLBBAT2E054
+    
+- name: "RAIFFEISENBANK MOERBISCH AM SEE EGEN"
+  city: "MOERBISCH AM SEE"
+  branch: MOERBISCH AM SEE
+  swift: RLBBAT2E055
+    
+- name: "RAIFFEISENBANK MONDSEELAND"
+  city: "MONDSEE"
+  branch: null
+  swift: RZOOAT2L322
+    
+- name: "RAIFFEISENBANK MOOSBURG-TIGRING"
+  city: "MOOSBURG"
+  branch: null
+  swift: RZKTAT2K411
+    
+- name: "RAIFFEISENBANK MOOSKIRCHEN - SOEDING"
+  city: "MOOSKIRCHEN"
+  branch: null
+  swift: RZSTAT2G235
+    
+- name: "RAIFFEISENBANK MUEHLVIERTLER ALM"
+  city: "KOENIGSWIESEN"
+  branch: null
+  swift: RZOOAT2L330
+    
+- name: "RAIFFEISENBANK MURAU"
+  city: "MURAU"
+  branch: null
+  swift: RZSTAT2G238
+    
+- name: "RAIFFEISENBANK MURECK"
+  city: "MURECK"
+  branch: null
+  swift: RZSTAT2G370
+    
+- name: "RAIFFEISENBANK NAUDERS EGEN"
+  city: "NAUDERS"
+  branch: null
+  swift: RZTIAT22283
+    
+- name: "RAIFFEISENBANK NECKENMARKT EGEN"
+  city: "NECKENMARKT"
+  branch: NECKENMARKT
+  swift: RLBBAT2E058
+    
+- name: "RAIFFEISENBANK NESTELBACH-EGGERSDORF"
+  city: "NESTELBACH"
+  branch: null
+  swift: RZSTAT2G252
+    
+- name: "RAIFFEISENBANK NEUKIRCHEN AN DER VOECKLA"
+  city: "NEUKIRCHEN AN DER VOECKLA"
+  branch: null
+  swift: RZOOAT2L356
+    
+- name: "RAIFFEISENBANK NEUMARKT - SCHEIFLING"
+  city: "NEUMARKT (STEIERMARK)"
+  branch: null
+  swift: RZSTAT2G402
+    
+- name: "RAIFFEISENBANK NEUSTIFT IM STUBAI REG.GEN.M.B.H."
+  city: "NEUSTIFT IM STUBAITAL"
+  branch: null
+  swift: RZTIAT22285
+    
+- name: "RAIFFEISENBANK NIEDERWALDKIRCHEN"
+  city: "NIEDERWALDKIRCHEN"
+  branch: null
+  swift: RZOOAT2L361
+    
+- name: "RAIFFEISENBANK NOERDLICHE OSTSTEIERMARK"
+  city: "GRAFENDORF"
+  branch: null
+  swift: RZSTAT2G108
+    
+- name: "RAIFFEISENBANK NOE-SUED ALPIN"
+  city: "ASPANG"
+  branch: null
+  swift: RLNWATWWASP
+    
+- name: "RAIFFEISENBANK NUSSDORF"
+  city: "NUSSDORF"
+  branch: null
+  swift: RVSAAT2S044
+    
+- name: "RAIFFEISENBANK OBDACH - WEISSKIRCHEN"
+  city: "OBDACH"
+  branch: null
+  swift: RZSTAT2G261
+    
+- name: "RAIFFEISENBANK OBERALM - PUCH"
+  city: "OBERALM"
+  branch: null
+  swift: RVSAAT2S045
+    
+- name: "RAIFFEISENBANK OBERDRAUBURG"
+  city: "OBERDRAUBURG"
+  branch: null
+  swift: RZKTAT2K431
+    
+- name: "RAIFFEISENBANK OBERDRAUTAL - WEISSENSEE"
+  city: "GREIFENBURG"
+  branch: null
+  swift: RZKTAT2K322
+    
+- name: "RAIFFEISENBANK OBERES INNVIERTEL"
+  city: "EGGELSBERG"
+  branch: null
+  swift: RZOOAT2L370
+    
+- name: "RAIFFEISENBANK OBERES LAVANTTAL"
+  city: "BAD ST. LEONHARD IM LAVANTTAL"
+  branch: null
+  swift: RZKTAT2K491
+    
+- name: "RAIFFEISENBANK OBERES MOELLTAL"
+  city: "WINKLERN"
+  branch: null
+  swift: RZKTAT2K561
+    
+- name: "RAIFFEISENBANK OBERES MUERZTAL"
+  city: "MUERZZUSCHLAG"
+  branch: null
+  swift: RZSTAT2G240
+    
+- name: "RAIFFEISENBANK OBERES TRIESTINGTAL"
+  city: "WEISSENBACH"
+  branch: null
+  swift: RLNWATWWWEB
+    
+- name: "RAIFFEISENBANK OBERES WALDVIERTEL"
+  city: "SCHREMS"
+  branch: null
+  swift: RLNWATWWOWS
+    
+- name: "RAIFFEISENBANK OBERLAND EGEN"
+  city: "ZAMS"
+  branch: null
+  swift: RZTIAT22359
+    
+- name: "RAIFFEISENBANK OBERLECHTAL"
+  city: "ELBIGENALP"
+  branch: null
+  swift: RZTIAT22220
+    
+- name: "RAIFFEISENBANK OBERSCHUETZEN-BERNSTEIN-MARIASDORF-WIESFLECK EGEN"
+  city: "OBERSCHUETZEN"
+  branch: OBERSCHUETZEN - BERNSTEIN - MARIASDORF
+  swift: RLBBAT2E067
+    
+- name: "RAIFFEISENBANK OEBLARN"
+  city: "OEBLARN"
+  branch: null
+  swift: RZSTAT2G266
+    
+- name: "RAIFFEISENBANK OHLSDORF"
+  city: "OHLSDORF"
+  branch: null
+  swift: RZOOAT2L390
+    
+- name: "RAIFFEISENBANK OSSIACHER SEE"
+  city: "BODENSDORF"
+  branch: null
+  swift: RZKTAT2K510
+    
+- name: "RAIFFEISENBANK OTTENSCHLAG-MARTINSBERG"
+  city: "OTTENSCHLAG"
+  branch: null
+  swift: RLNWATW1615
+    
+- name: "RAIFFEISENBANK PABNEUKIRCHEN"
+  city: "PABNEUKIRCHEN"
+  branch: null
+  swift: RZOOAT2L420
+    
+- name: "RAIFFEISENBANK PAMHAGEN EGEN"
+  city: "PAMHAGEN"
+  branch: PAMHAGEN
+  swift: RLBBAT2E071
+    
+- name: "RAIFFEISENBANK PASSAIL"
+  city: "PASSAIL"
+  branch: null
+  swift: RZSTAT2G282
+    
+- name: "RAIFFEISENBANK PAYERBACH - REICHENAU - SCHARZAU IM GEBIRGE"
+  city: "PAYERBACH"
+  branch: null
+  swift: RLNWATW1631
+    
+- name: "RAIFFEISENBANK PAZNAUN EGEN"
+  city: "ISCHGL"
+  branch: null
+  swift: RZTIAT22248
+    
+- name: "RAIFFEISENBANK PERG"
+  city: "PERG"
+  branch: null
+  swift: RZOOAT2L777
+    
+- name: "RAIFFEISENBANK PEUERBACH"
+  city: "PEUERBACH"
+  branch: null
+  swift: RZOOAT2L442
+    
+- name: "RAIFFEISENBANK PIESENDORF"
+  city: "PIESENDORF"
+  branch: null
+  swift: RVSAAT2S048
+    
+- name: "RAIFFEISENBANK PIESTING"
+  city: "PIESTING"
+  branch: null
+  swift: RLNWATWW642
+    
+- name: "RAIFFEISENBANK PISCHELSDORF - STUBENBERG"
+  city: "PISCHELSDORF"
+  branch: null
+  swift: RZSTAT2G285
+    
+- name: "RAIFFEISENBANK PITTENTAL/BUCKLIGE WELT REG.GEN.M.B.H."
+  city: "PITTEN"
+  branch: GEB
+  swift: RLNWATW1647
+    
+- name: "RAIFFEISENBANK PITZTAL EGEN"
+  city: "WENNS"
+  branch: null
+  swift: RZTIAT22353
+    
+- name: "RAIFFEISENBANK PODERSDORF AM SEE EGEN"
+  city: "PODERSDORF AM SEE"
+  branch: PODERSDORF AM SEE
+  swift: RLBBAT2E074
+    
+- name: "RAIFFEISENBANK POELLAU"
+  city: "POELLAU BEI HARTBERG"
+  branch: null
+  swift: RZSTAT2G311
+    
+- name: "RAIFFEISENBANK POELLAU-BIRKFELD"
+  city: "BIRKFELD"
+  branch: null
+  swift: RZSTAT2G023
+    
+- name: "RAIFFEISENBANK POELSTAL"
+  city: "FOHNSDORF"
+  branch: null
+  swift: RZSTAT2G076
+    
+- name: "RAIFFEISENBANK POENDORF-FRANKENMARKT"
+  city: "POENDORF"
+  branch: null
+  swift: RZOOAT2L434
+    
+- name: "RAIFFEISENBANK PRAMBACHKIRCHEN"
+  city: "PRAMBACHKIRCHEN"
+  branch: null
+  swift: RZOOAT2L437
+    
+- name: "RAIFFEISENBANK PRAMET"
+  city: "PRAMET"
+  branch: null
+  swift: RZOOAT2L438
+    
+- name: "RAIFFEISENBANK PREDING - HENGSBERG - ST.NIKOLAI/S."
+  city: "PREDING"
+  branch: null
+  swift: RZSTAT2G292
+    
+- name: "RAIFFEISENBANK PURBACH EGEN"
+  city: "PURBACH"
+  branch: PURBACH
+  swift: RLBBAT2E078
+    
+- name: "RAIFFEISENBANK RADENTHEIN - BAD KLEIN KIRCHHEIM"
+  city: "RADENTHEIN"
+  branch: null
+  swift: RZKTAT2K457
+    
+- name: "RAIFFEISENBANK RADSTADT - UNTERTAUERN - FILZMOOS - FORSTAU"
+  city: "RADSTADT"
+  branch: null
+  swift: RVSAAT2S049
+    
+- name: "RAIFFEISENBANK RANKWEIL"
+  city: "RANKWEIL"
+  branch: null
+  swift: RVVGAT2B461
+    
+- name: "RAIFFEISENBANK RAURIS - BUCHEBEN"
+  city: "RAURIS"
+  branch: null
+  swift: RVSAAT2S051
+    
+- name: "RAIFFEISENBANK REGION ALTHEIM"
+  city: "ALTHEIM"
+  branch: null
+  swift: RZOOAT2L030
+    
+- name: "RAIFFEISENBANK REGION AMSTETTEN"
+  city: "AMSTETTEN"
+  branch: null
+  swift: RLNWATWWAMS
+    
+- name: "RAIFFEISENBANK REGION BAD LEONFELDEN"
+  city: "BAD LEONFELDEN"
+  branch: null
+  swift: RZOOAT2L277
+    
+- name: "RAIFFEISENBANK REGION BADEN EGEN"
+  city: "BADEN"
+  branch: null
+  swift: RLNWATWWBAD
+    
+- name: "RAIFFEISENBANK REGION BRAUNAU"
+  city: "BRAUNAU AM INN"
+  branch: BRAUNAU AM INN
+  swift: RZOOAT2L060
+    
+- name: "RAIFFEISENBANK REGION BRAUNAU"
+  city: "BRAUNAU AM INN"
+  branch: null
+  swift: RZOOAT2L661
+    
+- name: "RAIFFEISENBANK REGION EFERDING"
+  city: "EFERDING"
+  branch: null
+  swift: RZOOAT2L180
+    
+- name: "RAIFFEISENBANK REGION EISENWURZEN"
+  city: "WIESELBURG"
+  branch: null
+  swift: RLNWATWW939
+    
+- name: "RAIFFEISENBANK REGION FREISTADT"
+  city: "FREISTADT"
+  branch: null
+  swift: RZOOAT2L110
+    
+- name: "RAIFFEISENBANK REGION GALLNEUKIRCHEN"
+  city: "GALLNEUKIRCHEN"
+  branch: null
+  swift: RZOOAT2L111
+    
+- name: "RAIFFEISENBANK REGION GLEISDORF"
+  city: "GLEISDORF"
+  branch: null
+  swift: RZSTAT2G103
+    
+- name: "RAIFFEISENBANK REGION GRAZ-THALERHOF"
+  city: "GRAZ"
+  branch: null
+  swift: RZSTAT2G477
+    
+- name: "RAIFFEISENBANK REGION GRIESKIRCHEN"
+  city: "GRIESKIRCHEN"
+  branch: null
+  swift: RZOOAT2L736
+    
+- name: "RAIFFEISENBANK REGION HAUSRUCK"
+  city: "HAAG AM HAUSRUCK"
+  branch: null
+  swift: RZOOAT2L250
+    
+- name: "RAIFFEISENBANK REGION KIRCHDORF"
+  city: "KIRCHDORF (KREMS)"
+  branch: null
+  swift: RZOOAT2L380
+    
+- name: "RAIFFEISENBANK REGION KIRCHDORF"
+  city: "KREMSMUENSTER"
+  branch: null
+  swift: RZOOAT2L233
+    
+- name: "RAIFFEISENBANK REGION KIRCHDORF"
+  city: "MICHELDORF"
+  branch: null
+  swift: RZOOAT2L318
+    
+- name: "RAIFFEISENBANK REGION KIRCHDORF"
+  city: "MOLLN"
+  branch: null
+  swift: RZOOAT2L321
+    
+- name: "RAIFFEISENBANK REGION KIRCHDORF"
+  city: "NUSSBACH"
+  branch: null
+  swift: RZOOAT2L362
+    
+- name: "RAIFFEISENBANK REGION KIRCHDORF"
+  city: "PETTENBACH"
+  branch: null
+  swift: RZOOAT2L427
+    
+- name: "RAIFFEISENBANK REGION KIRCHDORF"
+  city: "RIED IM TRAUNKREIS"
+  branch: null
+  swift: RZOOAT2L481
+    
+- name: "RAIFFEISENBANK REGION KIRCHDORF"
+  city: "SCHLIERBACH"
+  branch: null
+  swift: RZOOAT2L606
+    
+- name: "RAIFFEISENBANK REGION NEUFELDEN"
+  city: "ST. PETER AM WIMBERG"
+  branch: null
+  swift: RZOOAT2L300
+    
+- name: "RAIFFEISENBANK REGION PARNDORF EGEN"
+  city: "PARNDORF"
+  branch: PARNDORF-NEUDORF-POTZNEUSIEDL-GATTENDORF
+  swift: RLBBAT2E072
+    
+- name: "RAIFFEISENBANK REGION PREGARTEN"
+  city: "PREGARTEN"
+  branch: null
+  swift: RZOOAT2L460
+    
+- name: "RAIFFEISENBANK REGION RIED"
+  city: "RIED IM INNKREIS"
+  branch: null
+  swift: RZOOAT2L450
+    
+- name: "RAIFFEISENBANK REGION ROHRBACH"
+  city: "ROHRBACH"
+  branch: null
+  swift: RZOOAT2L410
+    
+- name: "RAIFFEISENBANK REGION SCHAERDING"
+  city: "SCHAERDING"
+  branch: null
+  swift: RZOOAT2L455
+    
+- name: "RAIFFEISENBANK REGION SCHALLABURG EGEN"
+  city: "LOOSDORF"
+  branch: null
+  swift: RLNWATW1477
+    
+- name: "RAIFFEISENBANK REGION SCHWANENSTADT"
+  city: "SCHWANENSTADT"
+  branch: null
+  swift: RZOOAT2L400
+    
+- name: "RAIFFEISENBANK REGION SCHWANENSTADT"
+  city: "SCHWANENSTADT"
+  branch: null
+  swift: RZOOAT2L630
+    
+- name: "RAIFFEISENBANK REGION SCHWECHAT"
+  city: "SCHWECHAT"
+  branch: null
+  swift: RLNWATWW823
+    
+- name: "RAIFFEISENBANK REGION SIERNING"
+  city: "SIERNING"
+  branch: null
+  swift: RZOOAT2L560
+    
+- name: "RAIFFEISENBANK REGION SIERNING-ENNS"
+  city: "ENNS"
+  branch: null
+  swift: RZOOAT2L157
+    
+- name: "RAIFFEISENBANK REGION ST. POELTEN"
+  city: "ST. POELTEN"
+  branch: null
+  swift: RLNWATWWOBG
+    
+- name: "RAIFFEISENBANK REGION STEYR"
+  city: "GARSTEN"
+  branch: null
+  swift: RZOOAT2L114
+    
+- name: "RAIFFEISENBANK REGION VOECKLABRUCK"
+  city: "VOECKLABRUCK"
+  branch: null
+  swift: RZOOAT2L710
+    
+- name: "RAIFFEISENBANK REGION WAGRAM EGEN"
+  city: "ABSDORF"
+  branch: null
+  swift: RLNWATW1002
+    
+- name: "RAIFFEISENBANK REGION WALDVIERTEL MITTE"
+  city: "ZWETTL"
+  branch: null
+  swift: RLNWATWWZWE
+    
+- name: "RAIFFEISENBANK REGION WOERTHERSEE EG"
+  city: "VELDEN AM WOERTHERSEE"
+  branch: null
+  swift: RZKTAT2K390
+    
+- name: "RAIFFEISENBANK REICHENAU"
+  city: "REICHENAU IM MUEHLKREIS"
+  branch: null
+  swift: RZOOAT2L475
+    
+- name: "RAIFFEISENBANK REICHENAU - GNESAU"
+  city: "EBENE REICHENAU"
+  branch: null
+  swift: RZKTAT2K461
+    
+- name: "RAIFFEISENBANK REITH IM ALPBACHTAL EGEN"
+  city: "REITH IM ALPBACHTAL"
+  branch: null
+  swift: RZTIAT22303
+    
+- name: "RAIFFEISENBANK REUTTE"
+  city: "JUNGHOLZ"
+  branch: null
+  swift: RBRTAT22BHJ
+    
+- name: "RAIFFEISENBANK REUTTE"
+  city: "REUTTE"
+  branch: null
+  swift: RBRTAT22
+    
+- name: "RAIFFEISENBANK RIED IN TIROL, FENDELS, TOESENS UND UMG. REG.GEN.M.B.H."
+  city: "RIED"
+  branch: null
+  swift: RZTIAT22306
+    
+- name: "RAIFFEISENBANK RIEGERSBURG - BREITENFELD"
+  city: "RIEGERSBURG"
+  branch: null
+  swift: RZSTAT2G326
+    
+- name: "RAIFFEISENBANK ROSENTAL"
+  city: "FEISTRITZ IM ROSENTHAL"
+  branch: null
+  swift: RZKTAT2K487
+    
+- name: "RAIFFEISENBANK SAALBACH - VIEHHOFEN"
+  city: "SAALBACH"
+  branch: null
+  swift: RVSAAT2S052
+    
+- name: "RAIFFEISENBANK SAALFELDEN"
+  city: "SAALFELDEN"
+  branch: null
+  swift: RVSAAT2S053
+    
+- name: "RAIFFEISENBANK SALZBURG - LIEFERING"
+  city: "SALZBURG (LIEFERING)"
+  branch: null
+  swift: RVSAAT2S034
+    
+- name: "RAIFFEISENBANK SALZBURG MAXGLAN - SIEZENHEIM"
+  city: "SALZBURG (MAXGLAN)"
+  branch: null
+  swift: RVSAAT2S054
+    
+- name: "RAIFFEISENBANK SALZBURGER SEENLAND"
+  city: "SEEKIRCHEN"
+  branch: null
+  swift: RVSAAT2S047
+    
+- name: "RAIFFEISENBANK SALZKAMMERGUT"
+  city: "GMUNDEN"
+  branch: null
+  swift: RZOOAT2L510
+    
+- name: "RAIFFEISENBANK SCHILCHERLAND"
+  city: "ST. STEFAN OB STAINZ"
+  branch: null
+  swift: RZSTAT2G375
+    
+- name: "RAIFFEISENBANK SCHLADMING - RAMSAU - HAUS"
+  city: "SCHLADMING"
+  branch: null
+  swift: RZSTAT2G481
+    
+- name: "RAIFFEISENBANK SCHWERTBERG"
+  city: "SCHWERTBERG"
+  branch: null
+  swift: RZOOAT2L613
+    
+- name: "RAIFFEISENBANK SEEFELD - HADRES"
+  city: "HADRES"
+  branch: null
+  swift: RLNWATW1275
+    
+- name: "RAIFFEISENBANK SEEFELD - LEUTASCH - REITH - SCHARNITZ"
+  city: "SEEFELD IN TIROL"
+  branch: null
+  swift: RZTIAT22314
+    
+- name: "RAIFFEISENBANK SEEWINKEL HANSAG EGEN"
+  city: "TADTEN"
+  branch: null
+  swift: RLBBAT2E118
+    
+- name: "RAIFFEISENBANK SEEWINKEL HANSAG EGEN"
+  city: "WALLERN IM BURGENLAND"
+  branch: null
+  swift: RLBBAT2E104
+    
+- name: "RAIFFEISENBANK SEEWINKEL-HANSAG EGEN"
+  city: "ANDAU"
+  branch: ANDAU
+  swift: RLBBAT2E002
+    
+- name: "RAIFFEISENBANK SERFAUS-FISS EGEN"
+  city: "SERFAUS"
+  branch: null
+  swift: RZTIAT22315
+    
+- name: "RAIFFEISENBANK SILLIAN EGEN"
+  city: "SILLIAN"
+  branch: null
+  swift: RZTIAT22368
+    
+- name: "RAIFFEISENBANK SILZ-HAIMING UND UMGEBUNG EGEN"
+  city: "SILZ"
+  branch: null
+  swift: RZTIAT22316
+    
+- name: "RAIFFEISENBANK SIRNITZ - HIMMELBERG - DEUTSCH - GRIFFEN"
+  city: "SIRNITZ"
+  branch: null
+  swift: RZKTAT2K254
+    
+- name: "RAIFFEISENBANK SOELDEN EGEN"
+  city: "SOELDEN (TIROL)"
+  branch: null
+  swift: RZTIAT22324
+    
+- name: "RAIFFEISENBANK SOELL-SCHEFFAU REG.GEN.M.B.H."
+  city: "SOELL"
+  branch: null
+  swift: RZTIAT22318
+    
+- name: "RAIFFEISENBANK ST. AGATHA"
+  city: "ST. AGATHA"
+  branch: null
+  swift: RZOOAT2L521
+    
+- name: "RAIFFEISENBANK ST. ANTON AM ARLBERG EGEN"
+  city: "ST. ANTON AM ARLBERG"
+  branch: null
+  swift: RZTIAT22252
+    
+- name: "RAIFFEISENBANK ST. GEORGEN AN DER STIEFING"
+  city: "ST. GEORGEN AN DER STIEFING"
+  branch: null
+  swift: RZSTAT2G335
+    
+- name: "RAIFFEISENBANK ST. GEORGEN IM GAILTAL"
+  city: "ST. GEORGEN IM GAILTALE"
+  branch: null
+  swift: RZKTAT2K483
+    
+- name: "RAIFFEISENBANK ST. GILGEN - FUSCHL - STROBL"
+  city: "ST. GILGEN"
+  branch: null
+  swift: RVSAAT2S056
+    
+- name: "RAIFFEISENBANK ST. JOHANN IM PONGAU"
+  city: "ST. JOHANN IM PONGAU"
+  branch: null
+  swift: RVSAAT2S057
+    
+- name: "RAIFFEISENBANK ST. KOLOMAN"
+  city: "ST. KOLOMAN"
+  branch: null
+  swift: RVSAAT2S058
+    
+- name: "RAIFFEISENBANK ST. LORENZEN IM MUERZTAL"
+  city: "ST. MAREIN IM MURZTAL"
+  branch: null
+  swift: RZSTAT2G347
+    
+- name: "RAIFFEISENBANK ST. MARIEN"
+  city: "ST. MARIEN"
+  branch: null
+  swift: RZOOAT2L530
+    
+- name: "RAIFFEISENBANK ST. MARTIN - LOFER - WEISSBACH"
+  city: "ST. MARTIN/LOFER"
+  branch: null
+  swift: RVSAAT2S060
+    
+- name: "RAIFFEISENBANK ST. MARTIN I. M.-KLEINZELL"
+  city: "ST. MARTIN IM MUEHLKREIS"
+  branch: null
+  swift: RZOOAT2L535
+    
+- name: "RAIFFEISENBANK ST. MICHAEL"
+  city: "ST. MICHAEL IM LUNGAU"
+  branch: null
+  swift: RVSAAT2S061
+    
+- name: "RAIFFEISENBANK ST. PAUL IM LAVANTTAL"
+  city: "ST. PAUL"
+  branch: null
+  swift: RZKTAT2K500
+    
+- name: "RAIFFEISENBANK ST. ROMAN"
+  city: "ST. ROMAN"
+  branch: null
+  swift: RZOOAT2L540
+    
+- name: "RAIFFEISENBANK ST. STEFAN - JAGERBERG - WOLFSBERG"
+  city: "ST. STEFAN IM ROSENTAL"
+  branch: null
+  swift: RZSTAT2G374
+    
+- name: "RAIFFEISENBANK ST. STEFAN IM LAVANTTAL"
+  city: "ST. STEFAN"
+  branch: null
+  swift: RZKTAT2K465
+    
+- name: "RAIFFEISENBANK ST. STEFAN-KRAUBATH"
+  city: "ST. STEFAN OB LEOBEN"
+  branch: null
+  swift: RZSTAT2G373
+    
+- name: "RAIFFEISENBANK ST. ULRICH - WAIDRING EGEN"
+  city: "WAIDRING"
+  branch: null
+  swift: RZTIAT22349
+    
+- name: "RAIFFEISENBANK ST.FLORIAN AM INN"
+  city: "ST. FLORIAN AM INN"
+  branch: null
+  swift: RZOOAT2L522
+    
+- name: "RAIFFEISENBANK ST.GEORGEN AM YBBSFELD"
+  city: "ST. GEORGEN AM YBBSFELD"
+  branch: null
+  swift: RLNWATWWSGY
+    
+- name: "RAIFFEISENBANK ST.GEORGEN B. OBERNDORF B. SALZBUR G"
+  city: "OBERNDORF B. SALZBURG"
+  branch: null
+  swift: RVSAAT2S046
+    
+- name: "RAIFFEISENBANK ST.MARGARETHEN-TRAUSDORF-OSLIP EGEN"
+  city: "ST. MARGARETHEN IM BURGENLAND"
+  branch: ST.MARGARETHEN-TRAUSDORF-OSLIP
+  swift: RLBBAT2E092
+    
+- name: "RAIFFEISENBANK STALLHOFEN"
+  city: "STALLHOFEN"
+  branch: null
+  swift: RZSTAT2G433
+    
+- name: "RAIFFEISENBANK STEINBACH-GRUENBURG"
+  city: "STEINBACH"
+  branch: null
+  swift: RZOOAT2L633
+    
+- name: "RAIFFEISENBANK STEIRISCHES SALZKAMMERGUT"
+  city: "BAD MITTERNDORF"
+  branch: null
+  swift: RZSTAT2G249
+    
+- name: "RAIFFEISENBANK STEYR"
+  city: "ST. ULRICH BEI STEYR"
+  branch: null
+  swift: RZOOAT2L543
+    
+- name: "RAIFFEISENBANK STEYREGG"
+  city: "STEYREGG"
+  branch: null
+  swift: RZOOAT2L637
+    
+- name: "RAIFFEISENBANK STOCKERAU"
+  city: "STOCKERAU"
+  branch: null
+  swift: RLNWATWWSTO
+    
+- name: "RAIFFEISENBANK STRADEN"
+  city: "STRADEN"
+  branch: null
+  swift: RZSTAT2G436
+    
+- name: "RAIFFEISENBANK STRASS - SPIELFELD"
+  city: "STRASS"
+  branch: null
+  swift: RZSTAT2G420
+    
+- name: "RAIFFEISENBANK STRASSWALCHEN"
+  city: "STRASSWALCHEN"
+  branch: null
+  swift: RVSAAT2S062
+    
+- name: "RAIFFEISENBANK SUED-WESTSTEIERMARK"
+  city: "WIES"
+  branch: null
+  swift: RZSTAT2G056
+    
+- name: "RAIFFEISENBANK TAMSWEG"
+  city: "TAMSWEG"
+  branch: null
+  swift: RVSAAT2S063
+    
+- name: "RAIFFEISENBANK TANNHEIMERTAL EGEN"
+  city: "TANNHEIM"
+  branch: null
+  swift: RZTIAT22333
+    
+- name: "RAIFFEISENBANK TAXENBACH"
+  city: "TAXENBACH"
+  branch: null
+  swift: RVSAAT2S064
+    
+- name: "RAIFFEISENBANK TEUFENBACH - OBERWOELZ - ST. PETER A.K."
+  city: "TEUFENBACH"
+  branch: null
+  swift: RZSTAT2G452
+    
+- name: "RAIFFEISENBANK THALGAU"
+  city: "THALGAU"
+  branch: null
+  swift: RVSAAT2S065
+    
+- name: "RAIFFEISENBANK THAUR EGEN"
+  city: "THAUR"
+  branch: null
+  swift: RZTIAT22337
+    
+- name: "RAIFFEISENBANK THAYATAL-MITTE"
+  city: "RAABS AN DER THAYA"
+  branch: null
+  swift: RLNWATW1127
+    
+- name: "RAIFFEISENBANK THERMENLAND EGEN"
+  city: "BAD WALTERSDORF"
+  branch: null
+  swift: RZSTAT2G411
+    
+- name: "RAIFFEISENBANK THIERSEE EGEN"
+  city: "THIERSEE"
+  branch: null
+  swift: RZTIAT22339
+    
+- name: "RAIFFEISENBANK TIMELKAM - LENZING - PUCHKIRCHEN"
+  city: "TIMELKAM"
+  branch: null
+  swift: RZOOAT2L669
+    
+- name: "RAIFFEISENBANK TRAISENTAL-GOELSENTAL"
+  city: "LILIENFELD"
+  branch: null
+  swift: RLNWATWWLFD
+    
+- name: "RAIFFEISENBANK TRIEBEN"
+  city: "TRIEBEN"
+  branch: null
+  swift: RZSTAT2G348
+    
+- name: "RAIFFEISENBANK TULLN"
+  city: "TULLN"
+  branch: null
+  swift: RLNWATW1880
+    
+- name: "RAIFFEISENBANK TURNAU - AFLENZ - ETMISZL"
+  city: "TURNAU"
+  branch: null
+  swift: RZSTAT2G462
+    
+- name: "RAIFFEISENBANK TUX EGEN"
+  city: "TUX"
+  branch: null
+  swift: RZTIAT22342
+    
+- name: "RAIFFEISENBANK UNKEN"
+  city: "UNKEN"
+  branch: null
+  swift: RVSAAT2S066
+    
+- name: "RAIFFEISENBANK UTTENDORF"
+  city: "UTTENDORF"
+  branch: null
+  swift: RVSAAT2S068
+    
+- name: "RAIFFEISENBANK VILLACH"
+  city: "VILLACH"
+  branch: null
+  swift: RZKTAT2K496
+    
+- name: "RAIFFEISENBANK VILS UND UMGEBUNG EGEN"
+  city: "VILS"
+  branch: null
+  swift: RZTIAT22345
+    
+- name: "RAIFFEISENBANK VOELKERMARKT"
+  city: "VOELKERMARKT"
+  branch: null
+  swift: RZKTAT2K546
+    
+- name: "RAIFFEISENBANK VOITSBERG"
+  city: "VOITSBERG"
+  branch: null
+  swift: RZSTAT2G487
+    
+- name: "RAIFFEISENBANK VORDERBREGENZERWALD"
+  city: "HITTISAU"
+  branch: null
+  swift: RVVGAT2B435
+    
+- name: "RAIFFEISENBANK VORDERES OETZTAL REG.GEN.M.B.H."
+  city: "OETZ"
+  branch: null
+  swift: RZTIAT22291
+    
+- name: "RAIFFEISENBANK VORDERES ZILLERTAL"
+  city: "FUEGEN"
+  branch: null
+  swift: RZTIAT22229
+    
+- name: "RAIFFEISENBANK VORDERLAND"
+  city: "SULZ (ROETHIS)"
+  branch: null
+  swift: RVVGAT2B475
+    
+- name: "RAIFFEISENBANK WAGRAIN - KLEINARL"
+  city: "WAGRAIN"
+  branch: null
+  swift: RVSAAT2S069
+    
+- name: "RAIFFEISENBANK WAIDHOFEN AN DER THAYA"
+  city: "WAIDHOFEN AN DER THAYA"
+  branch: null
+  swift: RLNWATWWWTH
+    
+- name: "RAIFFEISENBANK WALD"
+  city: "WALD IM PINZGAU"
+  branch: null
+  swift: RVSAAT2S070
+    
+- name: "RAIFFEISENBANK WALDING - OTTENSHEIM"
+  city: "WALDING"
+  branch: null
+  swift: RZOOAT2L732
+    
+- name: "RAIFFEISENBANK WALDZELL"
+  city: "WALDZELL"
+  branch: null
+  swift: RZOOAT2L735
+    
+- name: "RAIFFEISENBANK WALGAU GROSS WALSERTAL"
+  city: "NENZING"
+  branch: null
+  swift: RVVGAT2B458
+    
+- name: "RAIFFEISENBANK WALS - HIMMELREICH"
+  city: "WALS"
+  branch: null
+  swift: RVSAAT2S071
+    
+- name: "RAIFFEISENBANK WARTBERG AN DER KREMS"
+  city: "WARTBERG AN DER KREMS"
+  branch: null
+  swift: RZOOAT2L738
+    
+- name: "RAIFFEISENBANK WECHSELLAND"
+  city: "DECHANTSKIRCHEN"
+  branch: null
+  swift: RZSTAT2G041
+    
+- name: "RAIFFEISENBANK WEIDEN AM SEE EGEN"
+  city: "WEIDEN AM SEE"
+  branch: WEIDEN AM SEE
+  swift: RLBBAT2E106
+    
+- name: "RAIFFEISENBANK WEISSACHTAL"
+  city: "SULZBERG"
+  branch: null
+  swift: RVVGAT2B474
+    
+- name: "RAIFFEISENBANK WEISSKIRCHEN A.D. TRAUN"
+  city: "WEISSKIRCHEN AN DER TRAUN"
+  branch: null
+  swift: RZOOAT2L741
+    
+- name: "RAIFFEISENBANK WEITRA"
+  city: "WEITRA"
+  branch: null
+  swift: RLNWATW1936
+    
+- name: "RAIFFEISENBANK WEIZ-ANGER"
+  city: "WEIZ (KROTTENDORF)"
+  branch: null
+  swift: RZSTAT2G187
+    
+- name: "RAIFFEISENBANK WELS"
+  city: "WELS"
+  branch: null
+  swift: RZOOAT2L680
+    
+- name: "RAIFFEISENBANK WELS SUED"
+  city: "THALHEIM BEI WELS"
+  branch: null
+  swift: RZOOAT2L770
+    
+- name: "RAIFFEISENBANK WERNBERG"
+  city: "WERNBERG"
+  branch: null
+  swift: RZKTAT2K559
+    
+- name: "RAIFFEISENBANK WESTENDORF EGEN"
+  city: "WESTENDORF"
+  branch: null
+  swift: RZTIAT22354
+    
+- name: "RAIFFEISENBANK WESTLICHES MITTELGEBIRGE EGEN"
+  city: "AXAMS"
+  branch: null
+  swift: RZTIAT22209
+    
+- name: "RAIFFEISENBANK WEYER"
+  city: "WEYER"
+  branch: null
+  swift: RZOOAT2L747
+    
+- name: "RAIFFEISENBANK WIENERWALD"
+  city: "PRESSBAUM"
+  branch: null
+  swift: RLNWATWWPRB
+    
+- name: "RAIFFEISENBANK WILDON - LEBRING"
+  city: "WILDON"
+  branch: null
+  swift: RZSTAT2G499
+    
+- name: "RAIFFEISENBANK WILDSCHOENAU REG.GEN.M.B.H."
+  city: "OBERAU"
+  branch: null
+  swift: RZTIAT22357
+    
+- name: "RAIFFEISENBANK WINDISCHGARSTEN"
+  city: "WINDISCHGARSTEN"
+  branch: null
+  swift: RZOOAT2L491
+    
+- name: "RAIFFEISENBANK WIPPTAL EGEN"
+  city: "STEINACH AM BRENNER"
+  branch: null
+  swift: RZTIAT22329
+    
+- name: "RAIFFEISENBANK WOLKERSDORF"
+  city: "WOLKERSDORF"
+  branch: null
+  swift: RLNWATWWWDF
+    
+- name: "RAIFFEISENBANK YBBSTAL"
+  city: "WAIDHOFEN AN DER YBBS"
+  branch: null
+  swift: RLNWATWWWHY
+    
+- name: "RAIFFEISENBANK ZELL AM ZILLER UND UMGEBUNG"
+  city: "ZELL AM ZILLER"
+  branch: null
+  swift: RZTIAT22360
+    
+- name: "RAIFFEISENBEZIRKSBANK GUESSING EGEN"
+  city: "GUESSING"
+  branch: null
+  swift: RLBBAT2E027
+    
+- name: "RAIFFEISENBEZIRKSBANK JENNERSDORF EGEN"
+  city: "JENNERSDORF"
+  branch: BEZIRKSBANK-JENNERSDORF
+  swift: RLBBAT2E034
+    
+- name: "RAIFFEISENBEZIRKSBANK JENNERSDORF EGEN"
+  city: "NEUHAUS AM KLAUSENBACH"
+  branch: null
+  swift: RLBBAT2E061
+    
+- name: "RAIFFEISENBEZIRKSBANK JENNERSDORF EGEN"
+  city: "RUDERSDORF"
+  branch: null
+  swift: RLBBAT2E084
+    
+- name: "RAIFFEISENBEZIRKSBANK MATTERSBURG EGEN"
+  city: "MATTERSBURG"
+  branch: MATTERSBURG
+  swift: RLBBAT2E124
+    
+- name: "RAIFFEISENBEZIRKSBANK OBERPULLENDORF EGEN"
+  city: "OBERPULLENDORF"
+  branch: OBERPULLENDORF
+  swift: RLBBAT2E065
+    
+- name: "RAIFFEISENBEZIRKSBANK OBERWART EGEN"
+  city: "OBERWART"
+  branch: OBERWART
+  swift: RLBBAT2E125
+    
+- name: "RAIFFEISENBEZIRKSBANK OBERWART EGEN"
+  city: "RECHNITZ"
+  branch: null
+  swift: RLBBAT2E081
+    
+- name: "RAIFFEISENKASSE ASSLING"
+  city: "ASSLING"
+  branch: null
+  swift: RZTIAT22374
+    
+- name: "RAIFFEISENKASSE AUERSTHAL - BOCKFLIES - GROSS - SCHWEINBARTH"
+  city: "AUERSTHAL"
+  branch: null
+  swift: RLNWATWWAUE
+    
+- name: "RAIFFEISENKASSE BLINDENMARKT"
+  city: "BLINDENMARKT"
+  branch: null
+  swift: RLNWATW1059
+    
+- name: "RAIFFEISENKASSE DOBERSBERG - WALDKIRCHEN"
+  city: "DOBERSBERG"
+  branch: null
+  swift: RLNWATW1099
+    
+- name: "RAIFFEISENKASSE ERNSTBRUNN"
+  city: "ERNSTBRUNN"
+  branch: null
+  swift: RLNWATW1145
+    
+- name: "RAIFFEISENKASSE FUER MUTTERS, NATTERS UND KREITH"
+  city: "MUTTERS"
+  branch: null
+  swift: RZTIAT22281
+    
+- name: "RAIFFEISENKASSE GOELLERSDORF"
+  city: "GOELLERSDORF"
+  branch: null
+  swift: RLNWATW1198
+    
+- name: "RAIFFEISENKASSE GOLLING - SCHEFFAU - KELLAU"
+  city: "GOLLING AN DER SALZACH"
+  branch: null
+  swift: RVSAAT2S017
+    
+- name: "RAIFFEISENKASSE GROSSGMAIN"
+  city: "GROSSGMAIN"
+  branch: null
+  swift: RVSAAT2S020
+    
+- name: "RAIFFEISENKASSE GROSSWEIKERSDORF - WIESENDORF - RUPPERSTHAL"
+  city: "GROSSWEIKERSDORF"
+  branch: null
+  swift: RLNWATW1242
+    
+- name: "RAIFFEISENKASSE GUENSELSDORF"
+  city: "GUENSELSDORF"
+  branch: null
+  swift: RLNWATWWGUE
+    
+- name: "RAIFFEISENKASSE HAIDERSHOFEN"
+  city: "HAIDERSHOFEN"
+  branch: null
+  swift: RLNWATWW278
+    
+- name: "RAIFFEISENKASSE HALLWANG"
+  city: "HALLWANG"
+  branch: null
+  swift: RVSAAT2S023
+    
+- name: "RAIFFEISENKASSE HART EGEN"
+  city: "HART IM ZILLERTAL"
+  branch: null
+  swift: RZTIAT22240
+    
+- name: "RAIFFEISENKASSE HEILIGENEICH"
+  city: "HEILIGENEICH"
+  branch: null
+  swift: RLNWATW1286
+    
+- name: "RAIFFEISENKASSE KIRCHSCHLAG IN DER BUCKLIGEN WELT"
+  city: "KIRCHSCHLAG IN DER BUCKLIGEN WELT"
+  branch: null
+  swift: RLNWATWWKIG
+    
+- name: "RAIFFEISENKASSE KUCHL"
+  city: "KUCHL"
+  branch: null
+  swift: RVSAAT2S029
+    
+- name: "RAIFFEISENKASSE LANGKAMPFEN"
+  city: "LANGKAMPFEN"
+  branch: null
+  swift: RZTIAT22269
+    
+- name: "RAIFFEISENKASSE LIENZER TALBODEN"
+  city: "NIKOLSDORF"
+  branch: null
+  swift: RZTIAT22373
+    
+- name: "RAIFFEISENKASSE LOOSDORF"
+  city: "LOOSDORF"
+  branch: null
+  swift: RLNWATWW455
+    
+- name: "RAIFFEISENKASSE MATREI AM BRENNER UND UMGEBUNG EGEN"
+  city: "MATREI AM BRENNER"
+  branch: null
+  swift: RZTIAT22273
+    
+- name: "RAIFFEISENKASSE METNITZ UND UMGEBUNG"
+  city: "METNITZ"
+  branch: null
+  swift: RZKTAT2K407
+    
+- name: "RAIFFEISENKASSE MIEDERS-SCHOENBERG"
+  city: "MIEDERS"
+  branch: null
+  swift: RZTIAT22275
+    
+- name: "RAIFFEISENKASSE MUENSTER"
+  city: "MUENSTER"
+  branch: null
+  swift: RZTIAT22279
+    
+- name: "RAIFFEISENKASSE NEUSIEDL AN DER ZAYA"
+  city: "NEUSIEDL AN DER ZAYA"
+  branch: null
+  swift: RLNWATWWNSD
+    
+- name: "RAIFFEISENKASSE NIEDERNSILL"
+  city: "NIEDERNSILL"
+  branch: null
+  swift: RVSAAT2S043
+    
+- name: "RAIFFEISENKASSE ORTH A.D. DONAU"
+  city: "ORTH AN DER DONAU"
+  branch: null
+  swift: RLNWATWWODO
+    
+- name: "RAIFFEISENKASSE POTTSCHACH"
+  city: "POTTSCHACH"
+  branch: null
+  swift: RLNWATW1660
+    
+- name: "RAIFFEISENKASSE POYSDORF"
+  city: "POYSDORF"
+  branch: null
+  swift: RLNWATWWPOY
+    
+- name: "RAIFFEISENKASSE RETZ - PULKAUTAL"
+  city: "RETZ"
+  branch: null
+  swift: RLNWATW1715
+    
+- name: "RAIFFEISENKASSE RUECKERSDORF"
+  city: "RUECKERSDORF"
+  branch: null
+  swift: RLNWATW1731
+    
+- name: "RAIFFEISENKASSE RUM-INNSBRUCK/ARZL EGEN"
+  city: "RUM"
+  branch: null
+  swift: RZTIAT22310
+    
+- name: "RAIFFEISENKASSE SCHLITTERS, BRUCK UND STRASS"
+  city: "SCHLITTERS"
+  branch: null
+  swift: RZTIAT22320
+    
+- name: "RAIFFEISENKASSE ST. URBAN"
+  city: "ST. URBAN"
+  branch: null
+  swift: RZKTAT2K505
+    
+- name: "RAIFFEISENKASSE STUMM, STUMMERBERG UND UMGEBUNG"
+  city: "STUMM"
+  branch: null
+  swift: RZTIAT22332
+    
+- name: "RAIFFEISENKASSE VILLGRATENTAL"
+  city: "INNERVILLGRATEN"
+  branch: null
+  swift: RZTIAT22386
+    
+- name: "RAIFFEISENKASSE VITIS"
+  city: "VITIS"
+  branch: null
+  swift: RLNWATW1901
+    
+- name: "RAIFFEISENKASSE VOLDERS UND UMGEBUNG"
+  city: "VOLDERS"
+  branch: null
+  swift: RZTIAT22347
+    
+- name: "RAIFFEISENKASSE WATTENS UND UMGEBUNG"
+  city: "WATTENS"
+  branch: null
+  swift: RZTIAT22351
+    
+- name: "RAIFFEISENKASSE WEERBERG"
+  city: "WEERBERG"
+  branch: null
+  swift: RZTIAT22352
+    
+- name: "RAIFFEISENKASSE WERFEN"
+  city: "WERFEN"
+  branch: null
+  swift: RVSAAT2S072
+    
+- name: "RAIFFEISENKASSE WIESMATH - HOCHWOLKERSDORF"
+  city: "WIESMATH"
+  branch: null
+  swift: RLNWATW1940
+    
+- name: "RAIFFEISENKASSE ZIERSDORF"
+  city: "ZIERSDORF"
+  branch: null
+  swift: RLNWATW1982
+    
+- name: "RAIFFEISENKASSE ZISTERSDORF - DUERNKRUT"
+  city: "ZISTERSDORF"
+  branch: null
+  swift: RLNWATWWZDF
+    
+- name: "RAIFFEISENKBANK NEUNKIRCHEN SCHWARZTAL - MITTE"
+  city: "NEUNKIRCHEN"
+  branch: null
+  swift: RLNWATWWNSM
+    
+- name: "RAIFFEISEN-KREDIT-GARANTIE-GES.M.B.H."
+  city: "LINZ"
+  branch: null
+  swift: RAKGAT21
+    
+- name: "RAIFFEISENLANDESBANK BURGENLAND UND REVISIONSVERBAAND EGEN"
+  city: "EISENSTADT"
+  branch: null
+  swift: RLBBAT2E135
+    
+- name: "RAIFFEISENLANDESBANK BURGENLAND UND REVISIONSVERBAND EGEN"
+  city: "EISENSTADT"
+  branch: null
+  swift: RLBBAT2E
+    
+- name: "RAIFFEISENLANDESBANK BURGENLAND UND REVISIONSVERBAND EGEN"
+  city: "JOIS"
+  branch: null
+  swift: RLBBAT2E035
+    
+- name: "RAIFFEISENLANDESBANK KAERNTEN, REG.GEN.M.B.H."
+  city: "KLAGENFURT"
+  branch: null
+  swift: RZKTAT2K
+    
+- name: "RAIFFEISENLANDESBANK NIEDEROESTERREICH-WIEN AG"
+  city: "EBREICHSDORF"
+  branch: null
+  swift: RLNWATWWEBD
+    
+- name: "RAIFFEISENLANDESBANK NIEDEROESTERREICH-WIEN AG"
+  city: "HAUSLEITEN"
+  branch: null
+  swift: RLNWATWWHSL
+    
+- name: "RAIFFEISENLANDESBANK NIEDEROESTERREICH-WIEN AG"
+  city: "HOHENRUPPERSDORF"
+  branch: null
+  swift: RLNWATWW318
+    
+- name: "RAIFFEISENLANDESBANK NIEDEROESTERREICH-WIEN AG"
+  city: "PERCHTOLDSDORF"
+  branch: null
+  swift: RLNWATWWPDF
+    
+- name: "RAIFFEISENLANDESBANK NIEDEROESTERREICH-WIEN AG"
+  city: "PRINZERSDORF"
+  branch: null
+  swift: RLNWATWWPZD
+    
+- name: "RAIFFEISENLANDESBANK NIEDEROESTERREICH-WIEN AG"
+  city: "ST. VALENTIN"
+  branch: null
+  swift: RLNWATWWSVH
+    
+- name: "RAIFFEISENLANDESBANK NIEDEROESTERREICH-WIEN AG"
+  city: "VIENNA"
+  branch: null
+  swift: RLNWATWW
+    
+- name: "RAIFFEISENLANDESBANK OBEROESTERREICH AKTIENGESELLSCHAFT"
+  city: "LINZ"
+  branch: RLB OOE - FOR INTERNAL PURPOSE
+  swift: RZOOAT2L921
+    
+- name: "RAIFFEISENLANDESBANK OBEROESTERREICH AKTIENGESELLSCHAFT"
+  city: "LINZ"
+  branch: RLB OOE - FOR INTERNAL PURPOSE
+  swift: RZOOAT2L922
+    
+- name: "RAIFFEISENLANDESBANK OBEROESTERREICH AKTIENGESELLSCHAFT"
+  city: "LINZ"
+  branch: RLB OOE - FOR INTERNAL PURPOSE
+  swift: RZOOAT2L923
+    
+- name: "RAIFFEISENLANDESBANK OBEROESTERREICH AKTIENGESELLSCHAFT"
+  city: "LINZ"
+  branch: null
+  swift: RZOOAT2L
+    
+- name: "RAIFFEISENLANDESBANK OBEROESTERREICH AKTIENGESELLSCHAFT CASHMANAGEMENT"
+  city: "LINZ"
+  branch: RLB OOE - FOR INTERNAL PURPOSE
+  swift: RZOOAT2L920
+    
+- name: "RAIFFEISEN-LANDESBANK STEIERMARK AG"
+  city: "GRAZ"
+  branch: null
+  swift: RZSTAT2G
+    
+- name: "RAIFFEISEN-LANDESBANK TIROL AG"
+  city: "INNSBRUCK"
+  branch: null
+  swift: RZTIAT22
+    
+- name: "RAIFFEISENLANDESBANK VORARLBERG"
+  city: "BREGENZ"
+  branch: null
+  swift: RVVGAT2B
+    
+- name: "RAIFFEISEN-REGIONALBANK TELFS EGEN"
+  city: "TELFS"
+  branch: null
+  swift: RZTIAT22336
+    
+- name: "RAIFFEISENVERBAND SALZBURG, EGEN"
+  city: "SALZBURG"
+  branch: null
+  swift: RVSAAT2S
+    
+- name: "RAIFFEISSENKASSE ST. VEIT - SCHWARZACH - GOLDEGG"
+  city: "SCHWARZACH IM PONGAU"
+  branch: null
+  swift: RVSAAT2S055
+    
+- name: "RAIFFENSENBANK BAD RADKERSBURG - KLOECH"
+  city: "BAD RADKERSBURG"
+  branch: null
+  swift: RZSTAT2G312
+    
+- name: "RBS (RD EUROPE) GMBH, AUSTRIA BRANCH"
+  city: "VIENNA"
+  branch: null
+  swift: COCSATW1
+    
+- name: "RCI BANQUE SA NIEDERLASSUNG OESTERREICH"
+  city: "VIENNA"
+  branch: null
+  swift: RCNOATW1
+    
+- name: "RED BULL GMBH"
+  city: "SALZBURG"
+  branch: null
+  swift: RBDMAT22
+    
+- name: "REIFFEISEN GUNSKIRCHEN"
+  city: "PICHL BEI WELS"
+  branch: null
+  swift: RZOOAT2L430
+    
+- name: "RENAULT BANK"
+  city: "VIENNA"
+  branch: null
+  swift: RENUATW1
+    
+- name: "REPUBLIC OF AUSTRIA"
+  city: "VIENNA"
+  branch: null
+  swift: RETRATW1
+    
+- name: "REPUBLIC OF AUSTRIA-FEDERAL MINISTRY OF FINANCE"
+  city: "VIENNA"
+  branch: null
+  swift: AFFAATWW
+    
+- name: "REPUBLIK OESTERREICH-BUND"
+  city: "VIENNA"
+  branch: null
+  swift: BUNDATWW
+    
+- name: "REVAL AUSTRIA GMBH"
+  city: "GRAZ"
+  branch: null
+  swift: REVAAT21
+    
+- name: "RINGTURM KAPITALANLAGEGESELLSCHAFT M.B.H."
+  city: "VIENNA"
+  branch: null
+  swift: RIKAATW1
+    
+- name: "S WOHNBAUBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: WOHBATWW
+    
+- name: "SALZBURG MUENCHEN WERTPAPIERFONDS KAPITALANLAGE"
+  city: "SALZBURG"
+  branch: null
+  swift: SMWKATW1
+    
+- name: "SALZBURGER KREDITGARANTIE"
+  city: "SALZBURG"
+  branch: null
+  swift: SAKRAT21
+    
+- name: "SALZBURGER LANDES- HYPOTHEKENBANK AG"
+  city: "SALZBURG"
+  branch: null
+  swift: SLHYAT2S
+    
+- name: "SALZBURGER SPARKASSE BANK AG"
+  city: "SALZBURG"
+  branch: null
+  swift: SBGSAT2S
+    
+- name: "SAMSUNG ELECTRONICS AUSTRIA GMBH"
+  city: "VIENNA"
+  branch: SEAG
+  swift: SECTATW14L0
+    
+- name: "SAMSUNG ELECTRONICS AUSTRIA GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: SECTATW1
+    
+- name: "SANTANDER CONSUMER BANK GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: SANTATWW
+    
+- name: "SBERBANK EUROPE AG"
+  city: "VIENNA"
+  branch: null
+  swift: SABRATWW
+    
+- name: "SCHOELLERBANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: SCHOATWW
+    
+- name: "SECURITY KAPITALANLAGE AG"
+  city: "GRAZ"
+  branch: null
+  swift: SEKIAT21
+    
+- name: "SEMPER CONSTANTIA PRIVATBANK AKTIENGESELLSCHAFT"
+  city: "VIENNA"
+  branch: null
+  swift: COPRATWW
+    
+- name: "SEMPERIT AG HOLDING"
+  city: "VIENNA"
+  branch: null
+  swift: SEMPATWW
+    
+- name: "SERVICE BANK"
+  city: "VIENNA"
+  branch: null
+  swift: SEVCATW1
+    
+- name: "SIX PAYMENT SERVICES (AUSTRIA) GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: PLBKATWW
+    
+- name: "SKANDIA LEBENSVERSICHERUNGS AG"
+  city: "VIENNA"
+  branch: null
+  swift: SLAGATWW
+    
+- name: "SKWB SCHOELLERBANK INVEST"
+  city: "SALZBURG"
+  branch: null
+  swift: SKSIAT21
+    
+- name: "SOCIETE GENERALE"
+  city: "VIENNA"
+  branch: null
+  swift: SGABATWW
+    
+- name: "SPANGLER IQAM INVEST GMBH"
+  city: "SALZBURG"
+  branch: null
+  swift: IQAMATWW
+    
+- name: "SPARDA-BANK AUSTRIA EGEN"
+  city: "LINZ"
+  branch: null
+  swift: SPDAAT21
+    
+- name: "SPARDA-BANK AUSTRIA EGEN"
+  city: "LINZ"
+  branch: null
+  swift: SVIEAT21
+    
+- name: "SPAR-FINANZ BANK AG"
+  city: "SALZBURG"
+  branch: null
+  swift: SFIVATW1
+    
+- name: "SPARKASSE ALLGAEU"
+  city: "RIEZLERN"
+  branch: null
+  swift: SARIAT21
+    
+- name: "SPARKASSE BADEN"
+  city: "BADEN"
+  branch: null
+  swift: SPBDAT21
+    
+- name: "SPARKASSE BLUDENZ BANK AG"
+  city: "BLUDENZ"
+  branch: null
+  swift: SSBLAT21
+    
+- name: "SPARKASSE BREGENZ BANK AKTIENGESELLSCHAFT"
+  city: "BREGENZ"
+  branch: null
+  swift: SPBRAT2B
+    
+- name: "SPARKASSE DER GEMEINDE EGG"
+  city: "EGG"
+  branch: null
+  swift: SPEGAT21
+    
+- name: "SPARKASSE DER STADT AMSTETTEN"
+  city: "AMSTETTEN"
+  branch: null
+  swift: SPAMAT21
+    
+- name: "SPARKASSE DER STADT FELDKIRCH"
+  city: "FELDKIRCH"
+  branch: null
+  swift: SPFKAT2B
+    
+- name: "SPARKASSE DER STADT KITZBUEHEL"
+  city: "KITZBUEHEL"
+  branch: null
+  swift: SPKIAT2K
+    
+- name: "SPARKASSE DER STADT KORNEUBURG"
+  city: "KORNEUBURG"
+  branch: null
+  swift: SSKOAT21
+    
+- name: "SPARKASSE DER STADT RATTENBERG"
+  city: "RATTENBERG"
+  branch: null
+  swift: SPRTAT21
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "ALKOVEN"
+  branch: null
+  swift: SPPBAT21036
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "ASCHACH (DONAU)"
+  branch: null
+  swift: SPPBAT21035
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "EFERDING"
+  branch: null
+  swift: SPPBAT21
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "ENGELHARTSZELL"
+  branch: null
+  swift: SPPBAT21001
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "HARTKIRCHEN"
+  branch: null
+  swift: SPPBAT21037
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "MICHAELNBACH"
+  branch: null
+  swift: SPPBAT21022
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "NATTERNBACH"
+  branch: null
+  swift: SPPBAT21003
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "NEUKIRCHEN AM WALDE"
+  branch: null
+  swift: SPPBAT21002
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "PEUERBACH"
+  branch: GS PEUERBACH
+  swift: SPPBAT21034
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "PRAMBACHKIRCHEN"
+  branch: null
+  swift: SPPBAT21021
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "ST. MARIENKIRCHEN AN DER POLSENZ"
+  branch: null
+  swift: SPPBAT21038
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "WAIZENKIRCHEN"
+  branch: null
+  swift: SPPBAT21018
+    
+- name: "SPARKASSE EFERDING-PEUERBACH-WAIZENKIRCHEN"
+  city: "WESENUFER"
+  branch: null
+  swift: SPPBAT21004
+    
+- name: "SPARKASSE FELDKIRCHEN"
+  city: "FELDKIRCHEN IN KAERNTEN"
+  branch: null
+  swift: SPFNAT21
+    
+- name: "SPARKASSE FRANKENMARKT AG"
+  city: "FRANKENMARKT"
+  branch: null
+  swift: SPFRAT21
+    
+- name: "SPARKASSE HAUGSDORF"
+  city: "HAUGSDORF"
+  branch: null
+  swift: SPHAAT21
+    
+- name: "SPARKASSE HERZOGENBURG - NEULENGBACH"
+  city: "HERZOGENBURG"
+  branch: null
+  swift: SPHEAT21
+    
+- name: "SPARKASSE HORN-RAVELSBACH-KIRCHBERG AG"
+  city: "HORN"
+  branch: null
+  swift: SPHNAT21
+    
+- name: "SPARKASSE IMST AG"
+  city: "IMST"
+  branch: null
+  swift: SPIMAT21
+    
+- name: "SPARKASSE IN SCHEIBBS AG"
+  city: "SCHEIBBS"
+  branch: null
+  swift: SPSBAT21
+    
+- name: "SPARKASSE KREMSTAL-PYHRN AG"
+  city: "KIRCHDORF (KREMS)"
+  branch: null
+  swift: SPKPAT21
+    
+- name: "SPARKASSE KUFSTEIN TIROLER SPARKASSE VON 1877"
+  city: "KUFSTEIN"
+  branch: null
+  swift: SPKUAT22
+    
+- name: "SPARKASSE LAMBACH BANK AKTIENGESELLSCHAFT"
+  city: "LAMBACH"
+  branch: null
+  swift: SPLAAT21
+    
+- name: "SPARKASSE LANGENLOIS"
+  city: "LANGENLOIS"
+  branch: null
+  swift: SPLSAT21
+    
+- name: "SPARKASSE MITTERSILL BANK AG"
+  city: "MITTERSILL"
+  branch: null
+  swift: SPMIAT21
+    
+- name: "SPARKASSE MUEHLVIERTEL-WEST BANK AG"
+  city: "ROHRBACH"
+  branch: null
+  swift: SMWRAT21
+    
+- name: "SPARKASSE MUERZZUSCHLAG AG"
+  city: "MUERZZUSCHLAG"
+  branch: null
+  swift: SPMZAT21
+    
+- name: "SPARKASSE NEUHOFEN BANK AG"
+  city: "NEUHOFEN (KREMS)"
+  branch: null
+  swift: SPNKAT21
+    
+- name: "SPARKASSE NEUNKIRCHEN"
+  city: "NEUNKIRCHEN"
+  branch: null
+  swift: SPNGAT21
+    
+- name: "SPARKASSE NIEDEROESTERREICH MITTE WEST AG"
+  city: "ST. POELTEN"
+  branch: null
+  swift: SPSPAT21
+    
+- name: "SPARKASSE OBEROESTERREICH KAPITALANLAGEGESELLSCHAFT M.B.H."
+  city: "LINZ"
+  branch: null
+  swift: SPOKAT21
+    
+- name: "SPARKASSE POELLAU AG"
+  city: "POELLAU"
+  branch: null
+  swift: SPPLAT21
+    
+- name: "SPARKASSE POTTENSTEIN N.OE."
+  city: "POTTENSTEIN"
+  branch: null
+  swift: SPPOAT21
+    
+- name: "SPARKASSE POYSDORF AG"
+  city: "POYSDORF"
+  branch: null
+  swift: SPPDAT21
+    
+- name: "SPARKASSE PREGARTEN-UNTERWEISSENBACH AG"
+  city: "PREGARTEN"
+  branch: null
+  swift: SPPRAT21
+    
+- name: "SPARKASSE REUTTE AG"
+  city: "REUTTE"
+  branch: null
+  swift: SPREAT21
+    
+- name: "SPARKASSE RIED IM INNKREIS-HAAG AM HAUSRUCK"
+  city: "RIED IM INNKREIS"
+  branch: null
+  swift: SPRHAT21
+    
+- name: "SPARKASSE SALZKAMMERGUT AG"
+  city: "BAD ISCHL"
+  branch: null
+  swift: SKBIAT21
+    
+- name: "SPARKASSE SCHWAZ AG"
+  city: "SCHWAZ"
+  branch: null
+  swift: SPSCAT22
+    
+- name: "SPARKASSE VOITSBERG-KOEFLACH BANKAKTIENGESELLSCHAFT"
+  city: "VOITSBERG"
+  branch: null
+  swift: SPVOAT21
+    
+- name: "START:BAUSPARKASSE E.GEN."
+  city: "VIENNA"
+  branch: null
+  swift: ABVRATW1
+    
+- name: "STATE STREET BANK INTERNATIONAL GMBH, VIENNA BRANCH"
+  city: "VIENNA"
+  branch: null
+  swift: SBOSATWW
+    
+- name: "STEIERMAERKISCHE BANK UND SPARKASSEN AG"
+  city: "GRAZ"
+  branch: null
+  swift: STSPAT2G
+    
+- name: "STEINHOFF EUROPE AG"
+  city: "BRUNN AM GEBIRGE"
+  branch: null
+  swift: SEUPAT22
+    
+- name: "STEYLER BANK"
+  city: "MOEDLING"
+  branch: null
+  swift: RVSAAT2SSTB
+    
+- name: "THE AUSTRIAN EMISSIONS TRADING REGISTRY"
+  city: "VIENNA"
+  branch: null
+  swift: AETEATW1
+    
+- name: "THOMASLLOYD INVESTMENTS GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: TLIVATW1
+    
+- name: "TIROLER SPARKASSE BANKAKTIENGESELLSCHAFT INNSBRUCK"
+  city: "INNSBRUCK"
+  branch: null
+  swift: SPIHAT22
+    
+- name: "TIROLINVEST KAPITALANLAGEGES.M.B.H."
+  city: "INNSBRUCK"
+  branch: null
+  swift: TIKAAT21
+    
+- name: "TULLNERFELDER VOLKSBANK EG"
+  city: "TULLN"
+  branch: null
+  swift: TUVTAT21
+    
+- name: "UBS EUROPE SE, NIEDERLASSUNG OESTERREICH"
+  city: "VIENNA"
+  branch: null
+  swift: UBSWATWW
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "AMSTETTEN"
+  branch: null
+  swift: BKAUATWWAMS
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "BAD ISCHL"
+  branch: null
+  swift: BKAUATWWBDI
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "BAD VOESLAU"
+  branch: null
+  swift: BKAUATWWBDV
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "BADEN"
+  branch: null
+  swift: BKAUATWWBAD
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "BLUDENZ"
+  branch: null
+  swift: BKAUATWWBLU
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "BREGENZ"
+  branch: null
+  swift: BKAUATWWBRE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "BRUCK AN DER MUR"
+  branch: null
+  swift: BKAUATWWBRU
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "BRUNN AM GEBIRGE"
+  branch: null
+  swift: BKAUATWWBRN
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "DORNBIRN"
+  branch: null
+  swift: BKAUATWWDOR
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "EISENSTADT"
+  branch: null
+  swift: BKAUATWWEIS
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "FELDBACH"
+  branch: null
+  swift: BKAUATWWFLB
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "FELDKIRCH"
+  branch: null
+  swift: BKAUATWWFDK
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "FULPMES"
+  branch: null
+  swift: BKAUATWWFUL
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "GMUNDEN"
+  branch: null
+  swift: BKAUATWWGMU
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "GRAZ"
+  branch: null
+  swift: BKAUATWWGRA
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "HALL IN TIROL"
+  branch: null
+  swift: BKAUATWWHAL
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "HALLEIN"
+  branch: null
+  swift: BKAUATWWHAN
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "HARD"
+  branch: null
+  swift: BKAUATWWHAR
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "HOECHST"
+  branch: null
+  swift: BKAUATWWHOE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "HOHENEMS"
+  branch: null
+  swift: BKAUATWWHOH
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "HOLLABRUNN"
+  branch: null
+  swift: BKAUATWWHOL
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "HORN"
+  branch: null
+  swift: BKAUATWWHOR
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "INNSBRUCK"
+  branch: null
+  swift: BKAUATWWINN
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "JENBACH"
+  branch: null
+  swift: BKAUATWWJEN
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "JUDENBURG"
+  branch: null
+  swift: BKAUATWWJUD
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "KAPFENBERG"
+  branch: null
+  swift: BKAUATWWKAP
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "KITZBUEHEL"
+  branch: null
+  swift: BKAUATWWKIT
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "KLAGENFURT"
+  branch: null
+  swift: BKAUATWWKLA
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "KLOSTERNEUBURG"
+  branch: null
+  swift: BKAUATWWKLB
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "KNITTELFELD"
+  branch: null
+  swift: BKAUATWWKNI
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "KORNEUBURG"
+  branch: null
+  swift: BKAUATWWKOR
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "KREMS (DONAU)"
+  branch: null
+  swift: BKAUATWWKRE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "KUFSTEIN"
+  branch: null
+  swift: BKAUATWWKUF
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "LEIBNITZ"
+  branch: null
+  swift: BKAUATWWLEI
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "LEOBEN"
+  branch: null
+  swift: BKAUATWWLEO
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "LIENZ (OSTTIROL)"
+  branch: null
+  swift: BKAUATWWLIE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "LIEZEN"
+  branch: null
+  swift: BKAUATWWLIZ
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "LINZ"
+  branch: null
+  swift: BKAUATWWLIN
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "LUSTENAU"
+  branch: null
+  swift: BKAUATWWLUS
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "MARIA ENZERSDORF-SUEDSTADT"
+  branch: null
+  swift: BKAUATWWMAS
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "MISTELBACH AN DER ZAYA"
+  branch: null
+  swift: BKAUATWWMIB
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "MOEDLING"
+  branch: null
+  swift: BKAUATWWMOE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "MUERZZUSCHLAG"
+  branch: null
+  swift: BKAUATWWMUE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "NEUNKIRCHEN"
+  branch: null
+  swift: BKAUATWWNEU
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "NEUSIEDL AM SEE"
+  branch: null
+  swift: BKAUATWWNSS
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "OBERPULLENDORF"
+  branch: null
+  swift: BKAUATWWOBP
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "OBERWART"
+  branch: null
+  swift: BKAUATWWOBW
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "PERCHTOLDSDORF"
+  branch: null
+  swift: BKAUATWWPDF
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "RANKWEIL"
+  branch: null
+  swift: BKAUATWWRAN
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "REUTTE"
+  branch: null
+  swift: BKAUATWWREU
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "RIED IM INNKREIS"
+  branch: null
+  swift: BKAUATWWRIE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "SALZBURG"
+  branch: null
+  swift: BKAUATWWSAL
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "SCHLADMING"
+  branch: null
+  swift: BKAUATWWSLA
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "SCHWECHAT"
+  branch: null
+  swift: BKAUATWWSCH
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "SCHWECHAT"
+  branch: null
+  swift: BKAUATWWSWE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "SPITTAL (DRAU)"
+  branch: null
+  swift: BKAUATWWSPI
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "ST. JOHANN IM PONGAU"
+  branch: null
+  swift: BKAUATWWSJP
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "ST. POELTEN"
+  branch: null
+  swift: BKAUATWWSTP
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "STEYR"
+  branch: null
+  swift: BKAUATWWSTE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "STOCKERAU"
+  branch: null
+  swift: BKAUATWWSTO
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "STRASSWALCHEN"
+  branch: null
+  swift: BKAUATWWSTR
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "TERNITZ"
+  branch: null
+  swift: BKAUATWWTER
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "TRAUN"
+  branch: null
+  swift: BKAUATWWTRA
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "TULLN"
+  branch: null
+  swift: BKAUATWWTUL
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "VIENNA"
+  branch: null
+  swift: BKAUATWW
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "VILLACH"
+  branch: null
+  swift: BKAUATWWVIL
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "VOECKLABRUCK"
+  branch: null
+  swift: BKAUATWWVOE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "VOESENDORF"
+  branch: null
+  swift: BKAUATWWVOD
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "WATTENS"
+  branch: null
+  swift: BKAUATWWWAT
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "WEIZ"
+  branch: null
+  swift: BKAUATWWWEI
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "WELS"
+  branch: null
+  swift: BKAUATWWWEL
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "WIENER NEUDORF"
+  branch: null
+  swift: BKAUATWWWND
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "WIENER NEUSTADT"
+  branch: null
+  swift: BKAUATWWWRN
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "WOERGL"
+  branch: null
+  swift: BKAUATWWWOE
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "WOLFSBERG"
+  branch: null
+  swift: BKAUATWWWOL
+    
+- name: "UNICREDIT BANK AUSTRIA AG"
+  city: "ZELL AM SEE"
+  branch: null
+  swift: BKAUATWWZEL
+    
+- name: "UNICREDIT CAIB AG"
+  city: "VIENNA"
+  branch: null
+  swift: CAIBATWW
+    
+- name: "VAKIFBANK INTERNATIONAL AG"
+  city: "VIENNA"
+  branch: null
+  swift: TVBAATWW
+    
+- name: "VAMED AG"
+  city: "VIENNA"
+  branch: null
+  swift: VAAGATWW
+    
+- name: "VB CONSULTING FUER ANLAGEMANAGEMENT BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: COAGATW1
+    
+- name: "VB FACTORING BANK"
+  city: "SALZBURG"
+  branch: null
+  swift: FACGAT21
+    
+- name: "VB INVESTMENT BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: IVEEATW1
+    
+- name: "VOLKSBANK ALMTAL E. GEN."
+  city: "SCHARNSTEIN"
+  branch: null
+  swift: AVOSAT21
+    
+- name: "VOLKSBANK BAD GOISERN E.GEN."
+  city: "BAD GOISERN"
+  branch: null
+  swift: VBGOAT21
+    
+- name: "VOLKSBANK BAD HALL E.GEN."
+  city: "BAD HALL"
+  branch: null
+  swift: VBOEATWWBHA
+    
+- name: "VOLKSBANK EFERDING - GRIESKIRCHEN REG. GEN. M.B.H"
+  city: "EFERDING"
+  branch: null
+  swift: VOEEAT21
+    
+- name: "VOLKSBANK ENNS-ST.VALENTIN EG"
+  city: "ENNS"
+  branch: null
+  swift: VOENAT21
+    
+- name: "VOLKSBANK FELDKIRCHEN EG"
+  city: "FELDKIRCHEN"
+  branch: null
+  swift: VOFFAT21
+    
+- name: "VOLKSBANK FELS AM WAGRAM E.GEN."
+  city: "FELS AM WAGRAM"
+  branch: null
+  swift: VOFWAT21
+    
+- name: "VOLKSBANK INTERNATIONAL AG"
+  city: "VIENNA"
+  branch: null
+  swift: VOINATW1
+    
+- name: "VOLKSBANK KAERNTEN EG"
+  city: "KLAGENFURT"
+  branch: null
+  swift: VBOEATWWKLA
+    
+- name: "VOLKSBANK KARNTEN SUED E.GEN."
+  city: "FERLACH"
+  branch: null
+  swift: VORFAT21
+    
+- name: "VOLKSBANK KUFSTEIN-KITZBUEHEL EG"
+  city: "KUFSTEIN"
+  branch: null
+  swift: VBOEATWWKUF
+    
+- name: "VOLKSBANK LANDECK"
+  city: "LANDECK"
+  branch: null
+  swift: VBOEATWWLAN
+    
+- name: "VOLKSBANK NIEDEROESTERREICH AG"
+  city: "ST. POELTEN"
+  branch: null
+  swift: VBOEATWWNOM
+    
+- name: "VOLKSBANK NIEDEROESTERREICH AG (FORMER VOLKSBANK  DONAU-WEINLAND REG.GENMBH)"
+  city: "STOCKERAU"
+  branch: null
+  swift: VSTOAT21
+    
+- name: "VOLKSBANK NIEDEROESTERREICH AG (FORMER VOLKSBANK  DONAU-WEINLAND REG.GENMBH)"
+  city: "STOCKERAU"
+  branch: null
+  swift: VSTOAT2102P
+    
+- name: "VOLKSBANK NIEDEROESTERREICH AG (FORMER VOLKSBANK ALPENVORLAND E.GEN.)"
+  city: "AMSTETTEN"
+  branch: null
+  swift: VBOEATWWAMS
+    
+- name: "VOLKSBANK NIEDEROESTERREICH AG (FORMER VOLKSBANK KREMS-ZWETTL AG)"
+  city: "ST. POELTEN"
+  branch: null
+  swift: VBOEATWWKRE
+    
+- name: "VOLKSBANK NIEDEROESTERREICH SUED EG"
+  city: "WIENER NEUSTADT"
+  branch: null
+  swift: VBOEATWWWRN
+    
+- name: "VOLKSBANK OBERES WALDVIERTEL REG.GEN.M.B.H."
+  city: "HEIDENREICHSTEIN"
+  branch: null
+  swift: VOOWAT21
+    
+- name: "VOLKSBANK OBERKAERNTEN REGISTRIERTE GENOSS.M.BESCHRAENKTER HAFTUNG"
+  city: "SPITTAL (DRAU)"
+  branch: null
+  swift: VBOEATWWSPI
+    
+- name: "VOLKSBANK OBERNDORF"
+  city: "OBERNDORF BEI SALZBURG"
+  branch: null
+  swift: VOBOAT21
+    
+- name: "VOLKSBANK OBEROESTERREICH AG"
+  city: "LAMBACH"
+  branch: null
+  swift: VBWEAT2102L
+    
+- name: "VOLKSBANK OBEROESTERREICH AG"
+  city: "MARCHTRENK"
+  branch: null
+  swift: VBWEAT2102M
+    
+- name: "VOLKSBANK OBEROESTERREICH AG"
+  city: "WELS"
+  branch: null
+  swift: VBWEAT2W
+    
+- name: "VOLKSBANK OBEROESTERREICH AG (FORMER VOLKSBANK ALTHEIM-BRAUNAU)"
+  city: "SCHAERDING"
+  branch: null
+  swift: VBOEATWWALT
+    
+- name: "VOLKSBANK OBEROESTERREICH AG (FORMER VOLKSBANK LINZ-WELS-MUEHLVIERTEL AG)"
+  city: "LINZ"
+  branch: null
+  swift: VBOEATWWLIN
+    
+- name: "VOLKSBANK OBEROESTERREICH AG (FORMER VOLKSBANK RIED IM INNKREIS EG)"
+  city: "RIED IM INNKREIS"
+  branch: null
+  swift: VBOEATWWRIE
+    
+- name: "VOLKSBANK OBEROESTERREICH AG (FORMER VOLSKBANK SCHAERDING-ALTHEIM-BRAUNAU EG)"
+  city: "SCHAERDING"
+  branch: null
+  swift: VBOEATWWSRD
+    
+- name: "VOLKSBANK OBERSDORF-WOLKERSDORF-DEUTSCH WAGRAM    E.GEN."
+  city: "OBERSDORF"
+  branch: null
+  swift: VOWOAT21
+    
+- name: "VOLKSBANK OBERSDORF-WOLKERSDORF-DEUTSCH WAGRAM    E.GEN."
+  city: "OBERSDORF"
+  branch: null
+  swift: VOWOAT2102W
+    
+- name: "VOLKSBANK OBERSTEIERMARK E.GEN."
+  city: "LEOBEN"
+  branch: null
+  swift: VBOEATWWLEO
+    
+- name: "VOLKSBANK OBERSTEIERMARK EGEN"
+  city: "LEOBEN"
+  branch: null
+  swift: VBOEATWWROT
+    
+- name: "VOLKSBANK OBERSTEIERMARK(FORMER VOLKSBANK AICHFELD-MURBODEN)"
+  city: "JUDENBURG"
+  branch: null
+  swift: VAIMAT2102G
+    
+- name: "VOLKSBANK OBERSTEIERMARK(FORMER VOLKSBANK AICHFELD-MURBODEN)"
+  city: "LEOBEN"
+  branch: null
+  swift: VAIMAT21
+    
+- name: "VOLKSBANK OETSCHERLAND EG"
+  city: "WIESELBURG"
+  branch: null
+  swift: VOETAT21
+    
+- name: "VOLKSBANK OETSCHERLAND EG"
+  city: "WIESELBURG"
+  branch: null
+  swift: VOETAT2102P
+    
+- name: "VOLKSBANK OST"
+  city: "SCHWECHAT"
+  branch: null
+  swift: VOSTAT21
+    
+- name: "VOLKSBANK SALZBURG EG"
+  city: "SALZBURG"
+  branch: null
+  swift: VBOEATWWSAL
+    
+- name: "VOLKSBANK SALZBURG EG (FORMER VOLKSBANK STRASSWALCHEN-VOECKLAMARKT-MONDSEE EG)"
+  city: "STRASSWALCHEN"
+  branch: null
+  swift: VOFRAT21
+    
+- name: "VOLKSBANK SALZBURG EG (FORMER VOLKSBANK STRASSWALCHEN-VOECKLAMARKT-MONDSEE EG)"
+  city: "VOECKLAMARKT"
+  branch: null
+  swift: VOVVAT21
+    
+- name: "VOLKSBANK STEIERMARK AG"
+  city: "GRAZ"
+  branch: null
+  swift: VBOEATWWGRA
+    
+- name: "VOLKSBANK STEIERMARK MITTE AG (FORMER VOLKSBANK FUER DEN BEZIRK WEIZ)"
+  city: "GRAZ"
+  branch: null
+  swift: VBOEATWWWEI
+    
+- name: "VOLKSBANK STEIERMARK MITTE AG (FORMER VOLKSBANK FUER DIE SUED-U.WESTSTEIERMARK EG)"
+  city: "GRAZ"
+  branch: null
+  swift: VOKKAT21
+    
+- name: "VOLKSBANK STEIERMARK MITTE AG (FORMER VOLKSBANK FUER DIE SUED-U.WESTSTEIERMARK EG)"
+  city: "GRAZ"
+  branch: null
+  swift: VOKKAT2102G
+    
+- name: "VOLKSBANK STEIRISCHES SALZKAMMERGUT REGISTRIERTE  GENOSSENSCHAFT MIT BESCHRAENKTER HAFTUNG"
+  city: "BAD AUSSEE"
+  branch: null
+  swift: VOSSAT21
+    
+- name: "VOLKSBANK STEIRISCHES SALZKAMMERGUT REGISTRIERTE  GENOSSENSCHAFT MIT BESCHRAENKTER HAFTUNG"
+  city: "BAD AUSSEE"
+  branch: null
+  swift: VOSSAT2102G
+    
+- name: "VOLKSBANK SUDBURGENLAND EG"
+  city: "PINKAFELD"
+  branch: null
+  swift: VOPIAT21
+    
+- name: "VOLKSBANK SUDBURGENLAND EG"
+  city: "PINKAFELD"
+  branch: null
+  swift: VOPIAT2102G
+    
+- name: "VOLKSBANK SUED-OSTSTEIERMARK E.GEN."
+  city: "HARTBERG"
+  branch: null
+  swift: VHARAT21
+    
+- name: "VOLKSBANK TIROL INNSBRUCK-SCHWAZ AG"
+  city: "INNSBRUCK"
+  branch: null
+  swift: VBOEATWWINN
+    
+- name: "VOLKSBANK VOECKLABRUCK-GMUNDEN E.GEN."
+  city: "VOECKLABRUCK"
+  branch: null
+  swift: VBOEATWWVOE
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "BLUDENZ"
+  branch: null
+  swift: VOVBAT2BBLU
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "BREGENZ"
+  branch: null
+  swift: VOVBAT2BBRE
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "DORNBIRN"
+  branch: null
+  swift: VOVBAT2BDOR
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "FELDKIRCH"
+  branch: null
+  swift: VOVBAT2BFEL
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "GOETZIS"
+  branch: null
+  swift: VOVBAT2BGOE
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "HARD"
+  branch: null
+  swift: VOVBAT2BHAR
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "HOHENEMS"
+  branch: null
+  swift: VOVBAT2BHOH
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "LAUTERACH"
+  branch: null
+  swift: VOVBAT2BLAU
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "LECH"
+  branch: null
+  swift: VOVBAT2BLEC
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "LUSTENAU"
+  branch: null
+  swift: VOVBAT2BLUS
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "MELLAU"
+  branch: null
+  swift: VOVBAT2BMEL
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "RANKWEIL"
+  branch: null
+  swift: VOVBAT2B
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "RIEZLERN"
+  branch: null
+  swift: VOVBAT2BRIE
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "SCHRUNS"
+  branch: null
+  swift: VOVBAT2BSCH
+    
+- name: "VOLKSBANK VORARLBERG E.GEN."
+  city: "SULZ (ROETHIS)"
+  branch: null
+  swift: VOVBAT2BROE
+    
+- name: "VOLKSBANK WEINVIERTEL E. GEN."
+  city: "GROSS SCHWEINBARTH"
+  branch: PAY
+  swift: WVMIAT2102W
+    
+- name: "VOLKSBANK WEINVIERTEL E. GEN."
+  city: "MISTELBACH"
+  branch: null
+  swift: WVMIAT21
+    
+- name: "VOLKSBANK WEINVIERTEL E.GEN. (FORMER VOLKSBANK LAA)"
+  city: "MISTELBACH"
+  branch: null
+  swift: VLTHAT21
+    
+- name: "VOLKSBANK WIEN AG"
+  city: "VIENNA"
+  branch: null
+  swift: VBOEATWW
+    
+- name: "VOLKSBANK WIEN-BADEN AG (FORMER GARTNERBANK )"
+  city: "VIENNA"
+  branch: null
+  swift: GAWIATW1
+    
+- name: "VOLKSBANK WIEN-BADEN AG (FORMER VOLKSBANK BADEN E.GEN)"
+  city: "VIENNA"
+  branch: null
+  swift: VBOEATWWBAD
+    
+- name: "VOLKSBANK WIEN-BADEN AG(FORMER VOLKSBANK WIEN)"
+  city: "VIENNA"
+  branch: null
+  swift: VBWIATW1
+    
+- name: "VOLKSKREDITBANK AG"
+  city: "LINZ"
+  branch: null
+  swift: VKBLAT2L
+    
+- name: "VR-BANK BRAUNAU"
+  city: "BRAUNAU"
+  branch: null
+  swift: VRBKAT21
+    
+- name: "VR-BANK SALZBURG-ZWEIGNIEDERL. DER VB RB OBERBAYERN SUDOST EG"
+  city: "SALZBURG"
+  branch: null
+  swift: RVSAAT2S080
+    
+- name: "VTB BANK (AUSTRIA) AG"
+  city: "VIENNA"
+  branch: null
+  swift: DOBAATWW
+    
+- name: "WALDVIERTLER SPARKASSE BANK AG"
+  city: "ZWETTL"
+  branch: null
+  swift: SPWTAT21
+    
+- name: "WALDVIERTLER SPARKASSE BANK AG"
+  city: "ZWETTL"
+  branch: null
+  swift: SPZWAT21
+    
+- name: "WALDVIERTLER VOLKSBANK HORN"
+  city: "HORN"
+  branch: null
+  swift: WVOHAT21
+    
+- name: "WALSER PRIVATBANK AG"
+  city: "HIRSCHEGG"
+  branch: null
+  swift: RANJAT2B
+    
+- name: "WELCOME BANK GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: WELCATW1
+    
+- name: "WESTERN UNION INTERNATIONAL BANK GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: WUIBATWW
+    
+- name: "WIENER BOERSE AG"
+  city: "VIENNA"
+  branch: null
+  swift: XWBOATW1
+    
+- name: "WIENER NEUSTAEDTER SPARKASSE"
+  city: "WIENER NEUSTADT"
+  branch: null
+  swift: WINSATWN
+    
+- name: "WIENER NEUSTAEDTER SPARKASSE FORMER STADTSPARKASSE TRAISKIRCHEN AG"
+  city: "TRAISKIRCHEN"
+  branch: null
+  swift: SPTKAT21
+    
+- name: "WIENER PRIVATBANK SE"
+  city: "VIENNA"
+  branch: null
+  swift: VLRTATWW
+    
+- name: "WIENER PRIVATBANK SE"
+  city: "VIENNA"
+  branch: null
+  swift: WIPBATWW
+    
+- name: "WIENERBERGER FINANZ SERVICE GMBH"
+  city: "VIENNA"
+  branch: null
+  swift: WIENATWW
+    
+- name: "WIENWERT AG"
+  city: "VIENNA"
+  branch: null
+  swift: WIEWATW1
+    
+- name: "WSK BANK AG"
+  city: "VIENNA"
+  branch: null
+  swift: WSPKATW1
+    
+- name: "WUESTENROT VERSICHERUNGS-AG"
+  city: "SALZBURG"
+  branch: null
+  swift: WUVEAT21
+    
+- name: "XENEX VERLAGS UND HANDELSGES.M.B.H."
+  city: "VIENNA"
+  branch: null
+  swift: VEVHATW1
+    
+- name: "ZKW GROUP GMBH"
+  city: "WIESELBURG"
+  branch: null
+  swift: ZKWGAT2W
+    
+- name: "ZUERCHER KANTONALBANK OESTERREICH AG"
+  city: "SALZBURG"
+  branch: null
+  swift: PIAGAT2S
+    

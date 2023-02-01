@@ -1,0 +1,100 @@
+- name: "BANK OF AFRICA - MALI"
+  city: "BAMAKO"
+  branch: null
+  swift: AFRIMLBA
+    
+- name: "BANK OF AFRICA - MALI"
+  city: "BAMAKO"
+  branch: null
+  swift: AFRIMLBA022
+    
+- name: "BANQUE (MALI) CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST"
+  city: "MOPTI"
+  branch: MOPTI BRANCH
+  swift: BCAOMLBAMOP
+    
+- name: "BANQUE ATLANTIQUE MALI"
+  city: "BAMAKO"
+  branch: null
+  swift: ATMLMLBA
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "BAMAKO"
+  branch: null
+  swift: BCAOMLBA
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "SIKASSO"
+  branch: SIKASSO BRANCH
+  swift: BCAOMLBASIK
+    
+- name: "BANQUE COMMERCIALE DU SAHEL SA"
+  city: "BAMAKO"
+  branch: null
+  swift: ALIMMLBA
+    
+- name: "BANQUE DE DEVELOPPEMENT DU MALI - S.A."
+  city: "BAMAKO"
+  branch: null
+  swift: BDMAMLBA
+    
+- name: "BANQUE DE L' HABITAT DU MALI"
+  city: "BAMAKO"
+  branch: null
+  swift: BAHMMLBA
+    
+- name: "BANQUE INTERNATIONALE POUR LE MALI SA."
+  city: "BAMAKO"
+  branch: null
+  swift: BIPMMLBA
+    
+- name: "BANQUE MALIENNE DE SOLIDARITE"
+  city: "BAMAKO"
+  branch: null
+  swift: BMSMMLBA
+    
+- name: "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE (BNDA)"
+  city: "BAMAKO"
+  branch: null
+  swift: BNADMLBA
+    
+- name: "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (MALI) S.A."
+  city: "BAMAKO"
+  branch: null
+  swift: BSAHMLBA
+    
+- name: "BCI-MALI"
+  city: "BAMAKO"
+  branch: null
+  swift: COLIMLBA
+    
+- name: "BICIM"
+  city: "BAMAKO"
+  branch: null
+  swift: BICIMLBA
+    
+- name: "CORIS BANK INTERNATIONAL"
+  city: "BAMAKO"
+  branch: null
+  swift: CORIMLBA
+    
+- name: "DEPOSITAIRE CENTRAL/BANQUE DE REGLEMENT"
+  city: "BAMAKO"
+  branch: null
+  swift: DCRBMLB1
+    
+- name: "ECOBANK MALI"
+  city: "BAMAKO"
+  branch: null
+  swift: ECOCMLBA
+    
+- name: "ORABANK MALI"
+  city: "BAMAKO"
+  branch: null
+  swift: ORBKMLBA
+    
+- name: "UBA MALI S.A"
+  city: "BAMAKO"
+  branch: null
+  swift: UNAFMLB1
+    

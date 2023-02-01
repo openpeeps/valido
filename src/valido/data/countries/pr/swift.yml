@@ -1,0 +1,165 @@
+- name: "ACESCO CARIBE, MFG."
+  city: "CATANO"
+  branch: null
+  swift: ACAIPR21
+    
+- name: "ACTIVO INTERNATIONAL BANK"
+  city: "SAN JUAN"
+  branch: null
+  swift: ACTTPRSJ
+    
+- name: "ANDCAPITAL BANK INTERNATIONAL CORP"
+  city: "HATO REY"
+  branch: null
+  swift: ACBIPR22
+    
+- name: "ARCA INTERNATIONAL BANK, INC."
+  city: "SAN JUAN"
+  branch: null
+  swift: ARNRPRSJ
+    
+- name: "BANCO POPULAR DE PUERTO RICO"
+  city: "SAN JUAN"
+  branch: null
+  swift: BPPRPRSB
+    
+- name: "BANCO POPULAR DE PUERTO RICO"
+  city: "SAN JUAN"
+  branch: null
+  swift: BPPRPRSX
+    
+- name: "BANCO SAN JUAN INTERNACIONAL INC"
+  city: "GUAYNABO"
+  branch: null
+  swift: BSJIPRSJ
+    
+- name: "BANCO SANTANDER PUERTO RICO"
+  city: "SAN JUAN"
+  branch: null
+  swift: BSCHPRP1SOB
+    
+- name: "BANCO SANTANDER PUERTO RICO"
+  city: "SAN JUAN"
+  branch: null
+  swift: BSCHPRSX
+    
+- name: "BANCO SANTANDER PUERTO RICO"
+  city: "SAN JUAN"
+  branch: null
+  swift: BSCHPRSXSOV
+    
+- name: "BANCOLOMBIA PUERTO RICO INTERNACIONAL INC."
+  city: "SAN JUAN"
+  branch: null
+  swift: CFSUPRSJ
+    
+- name: "BANCREDITO INTERNATIONAL BANK CORP"
+  city: "SAN JUAN"
+  branch: null
+  swift: BIBCPRSJ
+    
+- name: "BANPLUS INTERNATIONAL BANK, INC."
+  city: "SAN JUAN"
+  branch: null
+  swift: BIPNPRSJ
+    
+- name: "BNC INTERNATIONAL BANKING CORPORATION"
+  city: "SAN JUAN"
+  branch: null
+  swift: CIBPPRSJ
+    
+- name: "CARIBE INTERNATIONAL BANK, CORP."
+  city: "SAN JUAN"
+  branch: null
+  swift: CBNTPRSJ
+    
+- name: "CITIBANK, NA PUERTO RICO"
+  city: "SAN JUAN"
+  branch: null
+  swift: CITIPRSJ
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SOL"
+  city: "SAN JUAN"
+  branch: null
+  swift: CPELPRSJ
+    
+- name: "ELITE INTERNATIONAL BANK"
+  city: "SAN JUAN"
+  branch: null
+  swift: ELIRPRSJ
+    
+- name: "EURO PACIFIC INTL. BANK, INC."
+  city: "SAN JUAN"
+  branch: null
+  swift: EUPNPRSJ
+    
+- name: "FACEBANK INTERNATIONAL CORPORATION"
+  city: "GUAYNABO"
+  branch: null
+  swift: FILCPR22
+    
+- name: "FIRSTBANK PUERTO RICO"
+  city: "SANTURCE"
+  branch: null
+  swift: FBPRPRSJ
+    
+- name: "GBTD CAPITAL ADVISERS LLC"
+  city: "GUAYNABO"
+  branch: null
+  swift: GBDCPR21
+    
+- name: "GBTD GROUP-PUERTO RICO"
+  city: "GUAYNABO"
+  branch: null
+  swift: GBPRPR21
+    
+- name: "GBTD SAVINGS AND LOAN GROUP-PUERTO RICO"
+  city: "GUAYNABO"
+  branch: null
+  swift: GBLGPR21
+    
+- name: "ITALBANK INTERNATIONAL, INC"
+  city: "SAN JUAN"
+  branch: null
+  swift: IBIIPRSJ
+    
+- name: "NODUS INTERNATIONAL BANK"
+  city: "SAN JUAN"
+  branch: null
+  swift: NDBKPRSJ
+    
+- name: "ORIENTAL BANK"
+  city: "HATO REY"
+  branch: null
+  swift: OBPRPRSJ
+    
+- name: "PONCE FEDERAL BANK"
+  city: "PONCE"
+  branch: null
+  swift: PFEBPR21
+    
+- name: "SCOTIABANK DE PUERTO RICO"
+  city: "HATO REY"
+  branch: null
+  swift: NOSCPR22
+    
+- name: "SCOTIABANK DE PUERTO RICO"
+  city: "SAN JUAN"
+  branch: null
+  swift: NOSCPR22MIA
+    
+- name: "STATETRUST INTERNATIONAL BANK AND TRUST, LLC"
+  city: "SAN JUAN"
+  branch: null
+  swift: STULPRSJ
+    
+- name: "STERN INTERNATIONAL BANK LLC"
+  city: "SAN JUAN"
+  branch: null
+  swift: SIECPRSJ
+    
+- name: "VESTIN BANK INTERNATIONAL LLC"
+  city: "SAN JUAN"
+  branch: null
+  swift: VEILPRSJ
+    

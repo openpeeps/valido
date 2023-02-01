@@ -1,0 +1,8230 @@
+- name: "AB OAO 'KUZNETSKBIZNESBANK'"
+  city: "NOVOKUZNETSK"
+  branch: null
+  swift: KZBURU51
+    
+- name: "ABSOLUT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ABSLRUMM
+    
+- name: "AC BANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: ELKARU3SMOS
+    
+- name: "AC BANK"
+  city: "SAMARA"
+  branch: null
+  swift: ELKARU3S
+    
+- name: "AC BANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: ELKARU3SSPB
+    
+- name: "ACCENT"
+  city: "ORSK"
+  branch: null
+  swift: ORSKRU44
+    
+- name: "AGRICULTURAL BANK OF CHINA (MOSCOW) LIMITED"
+  city: "MOSCOW"
+  branch: null
+  swift: ABOCRUMM
+    
+- name: "AGROKHIM BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: AGHIRUM1
+    
+- name: "AGROSOYUZ BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: AGRYRUM1
+    
+- name: "AGROSOYUZ BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: AGSZRU33
+    
+- name: "AGROSOYUZ BANK"
+  city: "ORENBURG"
+  branch: ORENBURG BRANCH
+  swift: AGSZRU31ORB
+    
+- name: "AGROSOYUZ BANK"
+  city: "ST. PETERSBURG"
+  branch: ST.PETERBURG BRANCH
+  swift: AGSZRU31SPB
+    
+- name: "AK BARS BANK"
+  city: "ALMETYEVSK"
+  branch: ALMETYEVSK BRANCH
+  swift: ARRSRU21ALM
+    
+- name: "AK BARS BANK"
+  city: "CHISTOPOL"
+  branch: CHISTOPOL BRANCH
+  swift: ARRSRU21CHS
+    
+- name: "AK BARS BANK"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: ARRSRU21EKA
+    
+- name: "AK BARS BANK"
+  city: "ELABUGA"
+  branch: ELABUGA BRANCH
+  swift: ARRSRU21ELA
+    
+- name: "AK BARS BANK"
+  city: "IZHEVSK"
+  branch: IZHEVSK BRANCH
+  swift: ARRSRU21IZH
+    
+- name: "AK BARS BANK"
+  city: "KAZAN"
+  branch: KAZAN BRANCH
+  swift: ARRSRU21KAZ
+    
+- name: "AK BARS BANK"
+  city: "KAZAN"
+  branch: null
+  swift: ARRSRU2K
+    
+- name: "AK BARS BANK"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: ARRSRU21KRD
+    
+- name: "AK BARS BANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: ARRSRU21MOS
+    
+- name: "AK BARS BANK"
+  city: "NABEREZHNYE CHELNY"
+  branch: NABEREZHNYYE CHELNY BRANCH
+  swift: ARRSRU21NAB
+    
+- name: "AK BARS BANK"
+  city: "NIZHNEKAMSK"
+  branch: NIZHNEKAMSK BRANCH - INTERKAMA
+  swift: ARRSRU21NKM
+    
+- name: "AK BARS BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: ARRSRU21NNG
+    
+- name: "AK BARS BANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: ARRSRU21NSB
+    
+- name: "AK BARS BANK"
+  city: "ST. PETERSBURG"
+  branch: SEVERO-ZAPADNY  BRANCH
+  swift: ARRSRU21SPB
+    
+- name: "AK BARS BANK"
+  city: "UFA"
+  branch: UFA BRANCH
+  swift: ARRSRU21UFA
+    
+- name: "AK BARS BANK"
+  city: "ZELENODOLSK"
+  branch: ZELENODOLSK BRANCH
+  swift: ARRSRU21ZEL
+    
+- name: "AKB VOLGO-DON BANK"
+  city: "VOLGOGRAD"
+  branch: null
+  swift: AKBVRU21
+    
+- name: "AKKOBANK OAO"
+  city: "SURGUT"
+  branch: null
+  swift: AKKORU51
+    
+- name: "AKTIV BANK"
+  city: "SARANSK"
+  branch: null
+  swift: AKTVRU21
+    
+- name: "AKTSIONEMY, JOINT-STOCK PUBLIC COMPANY"
+  city: "ALMETYEVSK"
+  branch: null
+  swift: AKCARU21
+    
+- name: "ALEF-BANK"
+  city: "KURGAN"
+  branch: KURGANSKII
+  swift: ALEFRUM1001
+    
+- name: "ALEF-BANK"
+  city: "LEBEDYAN'"
+  branch: LEBEDYANSKII 
+  swift: ALEFRUM1002
+    
+- name: "ALEF-BANK"
+  city: "LYSVA"
+  branch: LYSVA
+  swift: ALEFRUM1003
+    
+- name: "ALEF-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ALEFRUMM
+    
+- name: "ALEKSANDROVSKY BANK"
+  city: "LODEJNOE POLE"
+  branch: LODEJNOE POLE BRANCH
+  swift: ITEHRU21200
+    
+- name: "ALEKSANDROVSKY BANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: ITEHRU21300
+    
+- name: "ALEKSANDROVSKY BANK"
+  city: "MURMANSK"
+  branch: MURMANSK BRANCH
+  swift: ITEHRU21100
+    
+- name: "ALEKSANDROVSKY BANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: ITEHRU2P
+    
+- name: "ALFA CAPITAL"
+  city: "MOSCOW"
+  branch: null
+  swift: ALCPRUM1
+    
+- name: "ALFA-BANK"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: ALFARUM1006
+    
+- name: "ALFA-BANK"
+  city: "KHABAROVSK"
+  branch: KHABAROVSK BRANCH
+  swift: ALFARUM1020
+    
+- name: "ALFA-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ALFARUMM
+    
+- name: "ALFA-BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: ALFARUM1001
+    
+- name: "ALFA-BANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: ALFARUM1015
+    
+- name: "ALFA-BANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV BRANCH
+  swift: ALFARUM1018
+    
+- name: "ALFA-BANK"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: ALFARUM1002
+    
+- name: "ALFA-BANK"
+  city: "STAVROPOL"
+  branch: null
+  swift: ALFARUM1037
+    
+- name: "ALJBA ALLIANCE"
+  city: "MOSCOW"
+  branch: null
+  swift: ALALRUMM
+    
+- name: "ALMA BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: FRIBRUMM
+    
+- name: "ALMAZERGIENBANK"
+  city: "YAKUTSK"
+  branch: null
+  swift: ALMZRU8Y
+    
+- name: "AMERICAN EXPRESS BANK LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: AEGBRUMM
+    
+- name: "ANDJIBANK"
+  city: "MAKHACHKALA"
+  branch: null
+  swift: ANDJRU21
+    
+- name: "AO BANK OF TOKYO-MITSUBISHI UFJ (EURASIA)"
+  city: "MOSCOW"
+  branch: null
+  swift: BOTKRUMM
+    
+- name: "AO CB IVANOVO"
+  city: "IVANOVO"
+  branch: null
+  swift: IVAORU21
+    
+- name: "AO CITIBANK, MOSCOW"
+  city: "MOSCOW"
+  branch: CITI RUSSIA TREASURY OPERATIONS
+  swift: CITIRUMXBON
+    
+- name: "AO CITIBANK, MOSCOW"
+  city: "MOSCOW"
+  branch: null
+  swift: CITIRUMX
+    
+- name: "AO COMMERCIAL INVESTMENT BANK 'EUROALLIANCE'"
+  city: "IVANOVO"
+  branch: null
+  swift: ECILRU21
+    
+- name: "AO CRA EXPRESS-VOLGA"
+  city: "SARATOV"
+  branch: null
+  swift: EXVORU21
+    
+- name: "AO MIZUHO BANK (MOSCOW)"
+  city: "MOSCOW"
+  branch: null
+  swift: MHCCRUMM
+    
+- name: "AO 'M-REESTR'"
+  city: "MOSCOW"
+  branch: null
+  swift: MREERUM1
+    
+- name: "AO RAIFFEISENBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RZBMRUMM
+    
+- name: "AO WOORI BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: HVBKRUMM
+    
+- name: "AO WOORI BANK"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: HVBKRUMMSPB
+    
+- name: "APABANK"
+  city: "MOSCOW"
+  branch: null
+  swift: APABRUMM
+    
+- name: "ARBAT BANK COMMERCIAL BANK LTD."
+  city: "MOSCOW"
+  branch: null
+  swift: ARBORUM1
+    
+- name: "ARESBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ARESRUMM
+    
+- name: "ASIA-INVEST BANK JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: ASIJRUMM
+    
+- name: "ASIAN-PACIFIC BANK"
+  city: "BLAGOVESHCHENSK"
+  branch: null
+  swift: ASANRU8X
+    
+- name: "ASIA-PACIFIC BANK AO"
+  city: "BLAGOVESHCHENSK"
+  branch: null
+  swift: AJICRU81
+    
+- name: "ASKOLD BANK OAO"
+  city: "SMOLENSK"
+  branch: null
+  swift: ASKORU21
+    
+- name: "ASSOTSIATSIYA BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: ASOJRU2N
+    
+- name: "ATB BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ATBTRUMM
+    
+- name: "ATON"
+  city: "MOSCOW"
+  branch: null
+  swift: ATONRUM1
+    
+- name: "ATON INVESTMENT COMPANY"
+  city: "MOSCOW"
+  branch: null
+  swift: ATIMRUM1
+    
+- name: "AVANGARD BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: AVJSRUMM
+    
+- name: "AVERS BANK"
+  city: "KAZAN"
+  branch: null
+  swift: BKAVRU2K
+    
+- name: "AVTOGRADBANK"
+  city: "NABEREZHNYE CHELNY"
+  branch: null
+  swift: AVGRRU22
+    
+- name: "AVTOTORGBANK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: SLAKRUM1
+    
+- name: "AVTOVAZBANK JOINT-STOCK COMPANY"
+  city: "CHEBOKSARY"
+  branch: CHEBOKSARY OPERATING OFFICE
+  swift: AVBKRU31CHE
+    
+- name: "AVTOVAZBANK JOINT-STOCK COMPANY"
+  city: "DIMITROVGRAD"
+  branch: DIMITROVGRAD OPERATING OFFICE
+  swift: AVBKRU31DIM
+    
+- name: "AVTOVAZBANK JOINT-STOCK COMPANY"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: AVBKRU31MOS
+    
+- name: "AVTOVAZBANK JOINT-STOCK COMPANY"
+  city: "NABEREZHNYE CHELNY"
+  branch: REPRESENTATIVE OFFICE
+  swift: AVBKRU31CHL
+    
+- name: "AVTOVAZBANK JOINT-STOCK COMPANY"
+  city: "ORENBURG"
+  branch: ORENBURG OPERATING OFFICE
+  swift: AVBKRU31ORN
+    
+- name: "AVTOVAZBANK JOINT-STOCK COMPANY"
+  city: "SAMARA"
+  branch: GEORGIEVSKIJ BRANCH
+  swift: AVBKRU31GEO
+    
+- name: "AVTOVAZBANK JOINT-STOCK COMPANY"
+  city: "SAMARA"
+  branch: SAMARA OPERATING OFFICE
+  swift: AVBKRU31SAM
+    
+- name: "AVTOVAZBANK JOINT-STOCK COMPANY"
+  city: "SYZRAN"
+  branch: SYZRAN OPERATING OFFICE
+  swift: AVBKRU31SIA
+    
+- name: "AVTOVAZBANK JOINT-STOCK COMPANY"
+  city: "TOGLIATTI"
+  branch: HEAD OFFICE
+  swift: AVBKRU3T
+    
+- name: "AVTOVAZBANK JOINT-STOCK COMPANY"
+  city: "ULYANOVSK"
+  branch: ULYANOVSK BRANCH
+  swift: AVBKRU31ULN
+    
+- name: "AZIMUT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: AZIMRUM1
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "ANADYR"
+  branch: ANADYR BRANCH
+  swift: MOBWRUM1AND
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "ARKHANGELSK"
+  branch: ARKHANGELSK BRANCH
+  swift: MOBWRUM1ARH
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "BARNAUL"
+  branch: BARNAUL BRANCH
+  swift: MOBWRUM1BRN
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "CHELYABINSK"
+  branch: CHELYABINSK BRANCH
+  swift: MOBWRUM1CHL
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "CHITA"
+  branch: CHITA BRANCH
+  swift: MOBWRUM1CHT
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH  2 B AND N BANK
+  swift: BINORU21EKB
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: MOBWRUM1EKT
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "IRKUTSK"
+  branch: IRKUTSK BRANCH
+  swift: MOBWRUM1IRK
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "IVANOVO"
+  branch: IVANOVO BRANCH
+  swift: MOBWRUM1IVN
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "IZHEVSK"
+  branch: IZHEVSK BRANCH
+  swift: MOBWRUM1IZH
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "KAZAN"
+  branch: KAZAN BRANCH
+  swift: MOBWRUM1KAZ
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "KEMEROVO"
+  branch: KEMEROVO BRANCH
+  swift: MOBWRUM1KMR
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "KHABAROVSK"
+  branch: KHABAROVSK BRANCH
+  swift: MOBWRUM1KHB
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSK BRANCH
+  swift: MOBWRUM1KRS
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "KURGAN"
+  branch: KURGAN BRANCH
+  swift: MOBWRUM1KRG
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "KURSK"
+  branch: KURSK BRANCH
+  swift: MOBWRUM1KUR
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "LIPETSK"
+  branch: LIPETSK BRANCH
+  swift: MOBWRUM1LIP
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: BRANCH B AND N BANK IN MOSCOW
+  swift: BINORU21MOS
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: OPERATIONAL DEPARTMENT
+  swift: MOBWRUMMTRS
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: BINORU21
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: BINORUMM
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: MOBWRU21
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: MOBWRUMM
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "MURMANSK"
+  branch: MURMANSK BRANCH
+  swift: MOBWRUM1MRM
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNY NOVGOROD BRANCH
+  swift: MOBWRUM1NZH
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "NOVOKUZNETSK"
+  branch: NOVOKUZNETSK BRANCH
+  swift: MOBWRUM1NVK
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "NOVOSIBIRSK"
+  branch: ADMINISTRATIVE
+  swift: MOBWRUMMNVS
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH 2 B AND N BANK
+  swift: BINORU21NVS
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "OBNINSK"
+  branch: OBNINSK BRANCH
+  swift: MOBWRUM1OBN
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "OMSK"
+  branch: OMSK BRANCH
+  swift: MOBWRUM1OMS
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "OREL"
+  branch: OREL BRANCH
+  swift: MOBWRUM1ORL
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "PENZA"
+  branch: PENZA BRANCH
+  swift: MOBWRUM1PNZ
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "PERM"
+  branch: PERM BRANCH
+  swift: MOBWRUM1PRM
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV BRANCH  2 B AND N BANK
+  swift: BINORU21RST
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: MOBWRUM1RST
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "SAMARA"
+  branch: SAMARA BRANCH
+  swift: MOBWRUM1SAM
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "SAYANOGORSK"
+  branch: SAYANOGORSK BRANCH
+  swift: MOBWRUM1SYN
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "SMOLENSK"
+  branch: SMOLENSK BRANCH
+  swift: MOBWRUM1SML
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "ST. PETERSBURG"
+  branch: ST PETERSBURG BRANCH 2 B AND N BANK
+  swift: BINORU21SPB
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: MOBWRUMMSPB
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH  2 B AND N BANK
+  swift: BINORU21STV
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH
+  swift: MOBWRUM1STV
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "SURGUT"
+  branch: SURGUT BRANCH
+  swift: MOBWRUM1SUR
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "SYKTYVKAR"
+  branch: SYKTYVKAR BRANCH
+  swift: MOBWRUM1SYK
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "TOMSK"
+  branch: TOMSK BRANCH
+  swift: MOBWRUM1TMS
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "TVER"
+  branch: TVER BRANCH
+  swift: MOBWRUM1TVR
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "TYUMEN"
+  branch: TYUMEN BRANCH
+  swift: MOBWRUM1TMN
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "UFA"
+  branch: UFA BRANCH
+  swift: MOBWRUM1UFA
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "ULYANOVSK"
+  branch: ULYANOVSK BRANCH B AND N BANK
+  swift: BINORU21ULV
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "VLADIVOSTOK"
+  branch: VLADIVOSTOK BRANCH B AND N BANK
+  swift: BINORU21VLD
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "VLADIVOSTOK"
+  branch: VLADIVOSTOK BRANCH
+  swift: MOBWRUMMVLD
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "VOLGOGRAD"
+  branch: VOLGOGRAD BRANCH
+  swift: MOBWRUM1VOL
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "VORONEZH"
+  branch: VORONEZH BRANCH
+  swift: MOBWRUM1VOR
+    
+- name: "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)"
+  city: "YOSHKAR-OLA"
+  branch: YOSHKAR-OLA BRANCH
+  swift: MOBWRUM1YOL
+    
+- name: "B AND N BANK CREDIT CARDS (CLOSED JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: MPRIRUMM
+    
+- name: "BAIKALCREDOBANK"
+  city: "IRKUTSK"
+  branch: null
+  swift: BACKRU61
+    
+- name: "BALAKOVO-BANK OAO"
+  city: "BALAKOVO"
+  branch: null
+  swift: BLAARU21
+    
+- name: "BALTIYSKIY BANK"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: BABJRU21SPB
+    
+- name: "BALTIYSKIY BANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: BABJRU2P
+    
+- name: "BALTKREDOBANK KB OOO"
+  city: "KALININGRAD"
+  branch: null
+  swift: BAOCRU21
+    
+- name: "BANCA INTESA"
+  city: "MOSCOW"
+  branch: null
+  swift: KMBBRUMM
+    
+- name: "BANK ACCEPT JSC"
+  city: "NOVOSIBIRSK"
+  branch: null
+  swift: AJSCRU55
+    
+- name: "BANK 'AGROROS' ZAO"
+  city: "SARATOV"
+  branch: null
+  swift: AGZARUM1
+    
+- name: "BANK BASMANNY"
+  city: "MOSCOW"
+  branch: null
+  swift: BSSMRUM1
+    
+- name: "BANK BCC-MOSCOW"
+  city: "MOSCOW"
+  branch: null
+  swift: BCCMRUMM
+    
+- name: "BANK EEFC-URAL AO"
+  city: "EKATERINBURG"
+  branch: null
+  swift: MDURRU41
+    
+- name: "BANK ELITA"
+  city: "KALUGA"
+  branch: null
+  swift: ELIARU22
+    
+- name: "BANK FININVEST LIMITED LIABILITY COMPANY"
+  city: "MOSCOW"
+  branch: null
+  swift: FIIYRUM1
+    
+- name: "BANK FINSERVICE JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: KOMXRUMM
+    
+- name: "BANK FOR INNOVATION AND DEVELOPMENT"
+  city: "MOSCOW"
+  branch: null
+  swift: FEIDRUMM
+    
+- name: "BANK FREEDOM FINANCE LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: FRFLRUMM
+    
+- name: "BANK ICBC (JSC)"
+  city: "MOSCOW"
+  branch: CLEARING OFFICE
+  swift: ICBKRUMMCLR
+    
+- name: "BANK ICBC (JSC)"
+  city: "MOSCOW"
+  branch: null
+  swift: ICBKRUMM
+    
+- name: "BANK IDM (PJSC)"
+  city: "MOSCOW"
+  branch: null
+  swift: JCFORUMM
+    
+- name: "BANK INFORMPROGRESS"
+  city: "MOSCOW"
+  branch: null
+  swift: INOGRUM1
+    
+- name: "BANK JSC MMA"
+  city: "MOSCOW"
+  branch: null
+  swift: MOMGRUMM
+    
+- name: "BANK KALUGA"
+  city: "KALUGA"
+  branch: null
+  swift: KALGRU21
+    
+- name: "BANK KHOLMSK, JOINT-STOCK COMPANY"
+  city: "KHOLMSK"
+  branch: null
+  swift: KHZARU99
+    
+- name: "BANK KHOLMSK, JOINT-STOCK COMPANY"
+  city: "YUZHNO-SAKHALINSK"
+  branch: YUZHNO-SAKHALINSK BRANCH
+  swift: KHZARU21SAR
+    
+- name: "BANK KHOVANSKIY"
+  city: "MOSCOW"
+  branch: null
+  swift: KHOVRUMM
+    
+- name: "BANK KITEZH"
+  city: "MOSCOW"
+  branch: null
+  swift: KITZRUM1
+    
+- name: "BANK LEVOBEREZHNY PJSC"
+  city: "NOVOSIBIRSK"
+  branch: null
+  swift: LEVBRU55
+    
+- name: "BANK MAJSKIJ"
+  city: "MAJSKIJ"
+  branch: null
+  swift: MAJKRU21
+    
+- name: "BANK MOSKVA"
+  city: "MOSCOW"
+  branch: null
+  swift: RJSCRUMM
+    
+- name: "BANK NALCHIK"
+  city: "NALCHIK"
+  branch: null
+  swift: NALCRU21
+    
+- name: "BANK NATIONAL CLEARING CENTRE (JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: NCCBRUMM
+    
+- name: "BANK NEYVA"
+  city: "EKATERINBURG"
+  branch: null
+  swift: CONYRU2N
+    
+- name: "BANK OF AMERICA, N.A. (MOSCOW)"
+  city: "MOSCOW"
+  branch: null
+  swift: BOFARUM1
+    
+- name: "BANK OF CHINA (RUSSIA)"
+  city: "KHABAROVSK"
+  branch: KHABAROVSK
+  swift: BKCHRUMMKHB
+    
+- name: "BANK OF CHINA (RUSSIA)"
+  city: "MOSCOW"
+  branch: null
+  swift: BKCHRUMM
+    
+- name: "BANK OF CHINA (RUSSIA)"
+  city: "VLADIVOSTOK"
+  branch: null
+  swift: BKCHRUMMVLD
+    
+- name: "BANK OF KAZAN, KBER, OOO"
+  city: "KAZAN"
+  branch: null
+  swift: KABORU2K
+    
+- name: "BANK OF REGION DEVELOPMENT"
+  city: "MOSCOW"
+  branch: null
+  swift: REDVRU21
+    
+- name: "BANK OF REGION DEVELOPMENT"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOVSKIY BRANCH BRD
+  swift: REDVRU21RND
+    
+- name: "BANK ORANGE (LLC)"
+  city: "BRATSK"
+  branch: BRATSK BRANCH
+  swift: PRSBRU21BRK
+    
+- name: "BANK ORANGE (LLC)"
+  city: "IRKUTSK"
+  branch: IRKUTSK BRANCH
+  swift: PRSBRU21IRK
+    
+- name: "BANK ORANGE (LLC)"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: PRSBRU2PSPB
+    
+- name: "BANK ORANGE (LLC)"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: PRSBRU2P
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "ARKHANGELSK"
+  branch: ARKHANGELSKY PCB BRANCH
+  swift: PTRBRUMM015
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: JSNMRUMMEKB
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "KHABAROVSK"
+  branch: REGIOBANK-BRANCH OF BANK OTKRITIE FINANCIAL CORPORATION PJSC
+  swift: JSNMRUMMKHA
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "KOGALYM"
+  branch: KOGALYMSKY PCB BRANCH
+  swift: PTRBRUMM001
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: JSNMRUMMKRD
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: JSNMRUMM
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: PTRBRUMM
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: JSNMRUMMNNV
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: JSNMRUMMNSB
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: JSNMRUMMRND
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "ST. PETERSBURG"
+  branch: SAINT PETERSBURG BRANCH
+  swift: JSNMRUMMSPB
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)"
+  city: "UKHTA"
+  branch: UKHTINSKY PCB BRANCH
+  swift: PTRBRUMM025
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)"
+  city: "KHABAROVSK"
+  branch: DALNEVOSTOCHNIY  BRANCH
+  swift: RUDLRUM1HAB
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)"
+  city: "KHANTY-MANSIYSK"
+  branch: BRANCH WEST SIBERIAN
+  swift: RUDLRUMMZSF
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)"
+  city: "MOSCOW"
+  branch: TOCHKA BRANCH
+  swift: RUDLRUM1BNL
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)"
+  city: "MOSCOW"
+  branch: null
+  swift: RUDLRUMM
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)"
+  city: "NALCHIK"
+  branch: NALCHIK BRANCH
+  swift: RUDLRUM1NAL
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)"
+  city: "NOVOSIBIRSK"
+  branch: MUNICIPALNYI BRANCH
+  swift: RUDLRUM1NSB
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV BRANCH
+  swift: RUDLRUM1ROS
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)"
+  city: "SARATOV"
+  branch: SARATOV BRANCH
+  swift: RUDLRUM1SAR
+    
+- name: "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)"
+  city: "ST. PETERSBURG"
+  branch: PETROVSKIY BRANCH
+  swift: RUDLRUM1PET
+    
+- name: "BANK PERVOMAISKY (PJSC)"
+  city: "KRASNODAR"
+  branch: null
+  swift: PEJCRU21
+    
+- name: "BANK PRIME FINANCE"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: PRFNRU2P
+    
+- name: "BANK PROHLADNY LIMITED LIABILITY COMPANY"
+  city: "PROHLADNY"
+  branch: null
+  swift: PRLCRU21
+    
+- name: "BANK 'RATIBOR' (LTD)"
+  city: "MOSCOW"
+  branch: null
+  swift: RAOORUM1
+    
+- name: "BANK RESO CREDIT"
+  city: "MOSCOW"
+  branch: null
+  swift: RETLRUMM
+    
+- name: "BANK ''ROSSIYA''"
+  city: "BELGOROD"
+  branch: BELGOROD BRANCH
+  swift: ROSYRU21BEL
+    
+- name: "BANK ''ROSSIYA''"
+  city: "KIROV"
+  branch: KIROV BRANCH
+  swift: ROSYRU21KRV
+    
+- name: "BANK ''ROSSIYA''"
+  city: "KOROLEV"
+  branch: KOROLEV BRANCH
+  swift: ROSYRU21KRL
+    
+- name: "BANK ''ROSSIYA''"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: ROSYRU21KRD
+    
+- name: "BANK ''ROSSIYA''"
+  city: "KURSK"
+  branch: KURSK BRANCH
+  swift: ROSYRU21KUR
+    
+- name: "BANK ''ROSSIYA''"
+  city: "LIPETSK"
+  branch: LIPETSK BRANCH
+  swift: ROSYRU21LIP
+    
+- name: "BANK ''ROSSIYA''"
+  city: "MOSCOW"
+  branch: CENTRAL BRANCH
+  swift: ROSYRU21CNT
+    
+- name: "BANK ''ROSSIYA''"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: ROSYRU21MSK
+    
+- name: "BANK ''ROSSIYA''"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: ROSYRU21NNV
+    
+- name: "BANK ''ROSSIYA''"
+  city: "OREL"
+  branch: OREL BRANCH
+  swift: ROSYRU21ORL
+    
+- name: "BANK ''ROSSIYA''"
+  city: "PENZA"
+  branch: PENZA BRANCH
+  swift: ROSYRU21PNZ
+    
+- name: "BANK ''ROSSIYA''"
+  city: "PERM"
+  branch: PERM BRANCH
+  swift: ROSYRU21PRM
+    
+- name: "BANK ''ROSSIYA''"
+  city: "RYAZAN"
+  branch: RYAZAN BRANCH
+  swift: ROSYRU21RZN
+    
+- name: "BANK ''ROSSIYA''"
+  city: "SMOLENSK"
+  branch: SMOLENSK BRANCH
+  swift: ROSYRU21SML
+    
+- name: "BANK ''ROSSIYA''"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: ROSYRU2P
+    
+- name: "BANK ''ROSSIYA''"
+  city: "TAMBOV"
+  branch: TAMBOV BRANCH
+  swift: ROSYRU21TMB
+    
+- name: "BANK ''ROSSIYA''"
+  city: "TULA"
+  branch: TULA BRANCH
+  swift: ROSYRU21TUL
+    
+- name: "BANK ''ROSSIYA''"
+  city: "TVER"
+  branch: TVER BRANCH
+  swift: ROSYRU21TVR
+    
+- name: "BANK ''ROSSIYA''"
+  city: "UFA"
+  branch: UFA BRANCH
+  swift: ROSYRU21UFA
+    
+- name: "BANK ''ROSSIYA''"
+  city: "VOLGOGRAD"
+  branch: VOLGOGRAD BRANCH
+  swift: ROSYRU21VLG
+    
+- name: "BANK ''ROSSIYA''"
+  city: "VORONEZH"
+  branch: VORONEZH BRANCH
+  swift: ROSYRU21VOR
+    
+- name: "BANK ROSSIYSKY CAPITAL"
+  city: "MOSCOW"
+  branch: null
+  swift: ROSKRUMM
+    
+- name: "BANK ROUND LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: SVIBRUMM
+    
+- name: "BANK RRDB (JSC)"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: RRDBRUM1KND
+    
+- name: "BANK RRDB (JSC)"
+  city: "MOSCOW"
+  branch: null
+  swift: RRDBRUMM
+    
+- name: "BANK RRDB (JSC)"
+  city: "NEFTEYUGANSK"
+  branch: NEFTEYUGANSK BRANCH
+  swift: RRDBRUM1NFY
+    
+- name: "BANK RRDB (JSC)"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: RRDBRUM1NVS
+    
+- name: "BANK RRDB (JSC)"
+  city: "SAMARA"
+  branch: SAMARA BRANCH
+  swift: RRDBRUM1SMR
+    
+- name: "BANK RRDB (JSC)"
+  city: "ST. PETERSBURG"
+  branch: ST PETERSBURG BRANCH
+  swift: RRDBRUM1SPB
+    
+- name: "BANK SAINT-PETERSBURG PJSC"
+  city: "PUSHKIN"
+  branch: PUSHKIN BRANCH
+  swift: JSBSRU2102U
+    
+- name: "BANK SAINT-PETERSBURG PJSC"
+  city: "SESTRORETSK"
+  branch: SESTRORETSK BRANCH
+  swift: JSBSRU2102S
+    
+- name: "BANK SAINT-PETERSBURG PJSC"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: JSBSRU2P
+    
+- name: "BANK SERVICE RESERVE (JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: SEZARUM1
+    
+- name: "'BANK SGB' PJSC"
+  city: "ARKHANGELSK"
+  branch: ARKHANGELSK BRANCH
+  swift: SGAZRU21ARK
+    
+- name: "'BANK SGB' PJSC"
+  city: "CHEREPOVETS"
+  branch: CHEREPOVETS BRANCH
+  swift: SGAZRU21CHE
+    
+- name: "'BANK SGB' PJSC"
+  city: "GRYAZOVETS"
+  branch: GRYAZOVETS BRANCH
+  swift: SGAZRU21GRY
+    
+- name: "'BANK SGB' PJSC"
+  city: "IVANOVO"
+  branch: IVANOVO BRANCH
+  swift: SGAZRU21IVA
+    
+- name: "'BANK SGB' PJSC"
+  city: "KOTLAS"
+  branch: KOTLAS BRANCH
+  swift: SGAZRU21KOT
+    
+- name: "'BANK SGB' PJSC"
+  city: "SOSNOGORSK"
+  branch: SOSNOGORSK BRANCH
+  swift: SGAZRU21SNG
+    
+- name: "'BANK SGB' PJSC"
+  city: "ST. PETERSBURG"
+  branch: SAINT PETERSBURG BRANCH
+  swift: SGAZRU21SPB
+    
+- name: "'BANK SGB' PJSC"
+  city: "SYKTYVKAR"
+  branch: SYKTYVKAR BRANCH
+  swift: SGAZRU21SYK
+    
+- name: "'BANK SGB' PJSC"
+  city: "UGLICH"
+  branch: UGLICH BRANCH
+  swift: SGAZRU21UGL
+    
+- name: "'BANK SGB' PJSC"
+  city: "UKHTA"
+  branch: UKHTA BRANCH
+  swift: SGAZRU21UHT
+    
+- name: "'BANK SGB' PJSC"
+  city: "VELIKIY NOVGOROD"
+  branch: VELIKIY NOVGOROD BRANCH
+  swift: SGAZRU21NOV
+    
+- name: "'BANK SGB' PJSC"
+  city: "VELIKY USTIUG"
+  branch: VELIKY USTIUG BRANCH
+  swift: SGAZRU21UST
+    
+- name: "'BANK SGB' PJSC"
+  city: "VOLOGDA"
+  branch: null
+  swift: SGAZRU22
+    
+- name: "'BANK SGB' PJSC"
+  city: "VORKUTA"
+  branch: VORKUTA BRANCH
+  swift: SGAZRU21VOR
+    
+- name: "'BANK SGB' PJSC"
+  city: "VYTEGRA"
+  branch: VYTEGRA BRANCH
+  swift: SGAZRU21VYT
+    
+- name: "'BANK SGB' PJSC"
+  city: "YAROSLAVL"
+  branch: YAROSLAVL BRANCH
+  swift: SGAZRU21YAR
+    
+- name: "BANK 'SIR'"
+  city: "YAKUTSK"
+  branch: null
+  swift: SIRSRU81
+    
+- name: "BANK SNEZHINSKIY JSC"
+  city: "CHELYABINSK"
+  branch: null
+  swift: SNEZRU4C
+    
+- name: "BANK 'SOFRINO' AO"
+  city: "MOSCOW"
+  branch: null
+  swift: SFRNRUM1
+    
+- name: "BANK SOYUZ"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: JCAMRUM1EKB
+    
+- name: "BANK SOYUZ"
+  city: "IRKUTSK"
+  branch: IRKUTSK BRANCH
+  swift: JCAMRUM1IRK
+    
+- name: "BANK SOYUZ"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: JCAMRUM1KRD
+    
+- name: "BANK SOYUZ"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSK BRANCH
+  swift: JCAMRUM1KRS
+    
+- name: "BANK SOYUZ"
+  city: "MOSCOW"
+  branch: null
+  swift: JCAMRUMM
+    
+- name: "BANK SOYUZ"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: JCAMRUM1NNG
+    
+- name: "BANK SOYUZ"
+  city: "SAMARA"
+  branch: SAMARA BRANCH
+  swift: JCAMRUM1SAM
+    
+- name: "BANK SOYUZ"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: JCAMRUM1SPB
+    
+- name: "BANK STARIY KREML"
+  city: "MOSCOW"
+  branch: null
+  swift: STKRRUM1
+    
+- name: "BANK 'TROIKA'"
+  city: "MOSCOW"
+  branch: null
+  swift: TROYRUM1
+    
+- name: "BANK UCB"
+  city: "MOSCOW"
+  branch: null
+  swift: UCBCRUM1
+    
+- name: "BANK UNITED CAPITAL"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: UNCLRU2P
+    
+- name: "BANK URAL FD"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: JSCORU4PMSK
+    
+- name: "BANK URAL FD"
+  city: "PERM"
+  branch: BANK 'URAL FD'
+  swift: JSCORU4PPRM
+    
+- name: "BANK URAL FD"
+  city: "PERM"
+  branch: null
+  swift: JSCORU4P
+    
+- name: "BANK VENETS"
+  city: "ULYANOVSK"
+  branch: null
+  swift: VEJSRU2U
+    
+- name: "BANK VORONEZH"
+  city: "VORONEZH"
+  branch: null
+  swift: VORZRUM1
+    
+- name: "BANK ZENIT SOCHI"
+  city: "SOCHI"
+  branch: null
+  swift: SOCHRU21
+    
+- name: "BANKHAUS ERBE"
+  city: "MOSCOW"
+  branch: null
+  swift: WBCCRUMM
+    
+- name: "BASHCOMSNABBANK"
+  city: "MOSCOW"
+  branch: MOSCOW
+  swift: BKSBRU41MSK
+    
+- name: "BASHCOMSNABBANK"
+  city: "UFA"
+  branch: null
+  swift: BKSBRU4U
+    
+- name: "BASHINVESTBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: BAHNRU41MSK
+    
+- name: "BASHINVESTBANK"
+  city: "UFA"
+  branch: null
+  swift: BAHNRU41
+    
+- name: "BASHKOMSNABBANK AKB OAO"
+  city: "UFA"
+  branch: null
+  swift: BSAARU41
+    
+- name: "BCS BANK"
+  city: "NOVOSIBIRSK"
+  branch: null
+  swift: BCSBRU55
+    
+- name: "BELGORODPROMSTROJBANK"
+  city: "BELGOROD"
+  branch: null
+  swift: BELGRU21
+    
+- name: "BELGORODSOCBANK"
+  city: "BELGOROD"
+  branch: null
+  swift: BELORU21
+    
+- name: "BEST EFFORTS BANK, PJSC"
+  city: "MOSCOW"
+  branch: null
+  swift: RTSBRUMM
+    
+- name: "BEZHITSA-BANK OAO"
+  city: "BRYANSK"
+  branch: null
+  swift: BEOARU21
+    
+- name: "BM-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: MOSWRUM2
+    
+- name: "BMW BANK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: BMWFRUMM
+    
+- name: "BNP PARIBAS BANK JSC, MOSCOW"
+  city: "MOSCOW"
+  branch: null
+  swift: BNPARUMM
+    
+- name: "BRATSKY NARODNY BANK JSC"
+  city: "BRATSK"
+  branch: null
+  swift: BRATRU6B
+    
+- name: "BRITISH AMERICAN TOBACCO RUSSIA LIMITED"
+  city: "MOSCOW"
+  branch: null
+  swift: BATSRU31
+    
+- name: "BROKERCREDITSERVICE COMPANY LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: BRKCRUM1
+    
+- name: "BRUNSWICK RUSSIA (JERSEY) LIMITED"
+  city: "MOSCOW"
+  branch: null
+  swift: BRRJRUM1
+    
+- name: "BST-BANK"
+  city: "NOVOKUZNETSK"
+  branch: null
+  swift: BSBBRU51
+    
+- name: "BULGAR BANK ZAO"
+  city: "KAZAN"
+  branch: null
+  swift: BULGRU21
+    
+- name: "BUSINESS AND CULTURE DEVELOPMENT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: BUCDRUM1
+    
+- name: "BUSINESS MOSCOW, JOINT STOCK BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: BMJSRUM1
+    
+- name: "BYSTROBANK"
+  city: "IZHEVSK"
+  branch: null
+  swift: BYJSRU33
+    
+- name: "BYSTROBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: BYJSRU33MOS
+    
+- name: "CAPITAL KREDIT LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: CINGRUMM
+    
+- name: "CB 'AKROPOL' AO"
+  city: "MOSCOW"
+  branch: null
+  swift: COAKRUM1
+    
+- name: "CB ALTERNATIVA"
+  city: "MOSCOW"
+  branch: null
+  swift: ALNORUM1
+    
+- name: "CB B2B"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: CBBTRU21MOS
+    
+- name: "CB B2B"
+  city: "YADRIN"
+  branch: null
+  swift: CBBTRU21
+    
+- name: "CB DELTACREDIT"
+  city: "MOSCOW"
+  branch: null
+  swift: DETARUMM
+    
+- name: "CB EURO-ASIAN INVESTMENT BANK LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: EABIRUMM
+    
+- name: "CB GEOBANK LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: COGKRUM1
+    
+- name: "CB GT BANK LLC"
+  city: "KRASNODAR"
+  branch: null
+  swift: LLCLRUM2
+    
+- name: "CB INTERREGIONAL POST BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ITTGRUM1
+    
+- name: "CB ''J.P. MORGAN BANK INTERNATIONAL'' (LLC)"
+  city: "MOSCOW"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASRUMXENQ
+    
+- name: "CB ''J.P. MORGAN BANK INTERNATIONAL'' (LLC)"
+  city: "MOSCOW"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASRUMXKEY
+    
+- name: "CB ''J.P. MORGAN BANK INTERNATIONAL'' (LLC)"
+  city: "MOSCOW"
+  branch: null
+  swift: CHASRUMX
+    
+- name: "CB 'KUBAN CREDIT' LTD"
+  city: "KRASNODAR"
+  branch: null
+  swift: KUKRRU21
+    
+- name: "CB 'KUBAN CREDIT' LTD"
+  city: "KRASNODAR"
+  branch: null
+  swift: KUKRRU22
+    
+- name: "CB MIKHAYLOVSKY PZHSB"
+  city: "MOSCOW"
+  branch: null
+  swift: PGSBRUM1
+    
+- name: "CB MOSKOMMERTSBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: IVDCRUMM
+    
+- name: "CB NOVOPOKROVSKIJ LLC"
+  city: "SARATOV"
+  branch: null
+  swift: NOVPRU31
+    
+- name: "CB PULS STOLITSY"
+  city: "MOSCOW"
+  branch: null
+  swift: PSBMRUM1
+    
+- name: "CB 'RIAL-CREDIT'(LTD.)"
+  city: "MOSCOW"
+  branch: null
+  swift: REAERUMM
+    
+- name: "CB 'RUSREGIONBANK' JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: RRBKRU21
+    
+- name: "CB 'RUSREGIONBANK' JSC"
+  city: "ST. PETERSBURG"
+  branch: SAINT-PETERSBURG BRANCH
+  swift: RRBKRU21SPB
+    
+- name: "CB RUSSIAN MORTGAGE BANK (LLC)"
+  city: "MOSCOW"
+  branch: null
+  swift: RUMORUMM
+    
+- name: "CB 'VITYAZ' LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: VITYRUM1
+    
+- name: "CB YARBANK LIMITED"
+  city: "KRASNOYARSK"
+  branch: null
+  swift: YARBRUM1
+    
+- name: "CBI 'ENTUZIASTBANK' OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: ENTURUM1
+    
+- name: "CENTER-INVEST BANK"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: CCIVRU2R
+    
+- name: "CENTRAL BANK OF RUSSIAN FEDERATION"
+  city: "MOSCOW"
+  branch: null
+  swift: CBRFRUMM
+    
+- name: "CENTRALNAYA REGISTRATURA OAO"
+  city: "UFA"
+  branch: null
+  swift: CERGRU41
+    
+- name: "CENTREINVEST SECURITIES OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: CESERUM1
+    
+- name: "CENTROKREDIT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: CKBBRUMM
+    
+- name: "CETELEM BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: CETBRUMM
+    
+- name: "CFC BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: CFCFRUM1
+    
+- name: "CHELYABCOMZEM BANK"
+  city: "CHELYABINSK"
+  branch: null
+  swift: CHZBRU41
+    
+- name: "CHELYABINVESTBANK"
+  city: "CHELYABINSK"
+  branch: KHMELNITSKY FILIAL
+  swift: CHINRU41KHM
+    
+- name: "CHELYABINVESTBANK"
+  city: "CHELYABINSK"
+  branch: TRACTOROZAVODSKY BRANCH
+  swift: CHINRU4CTRK
+    
+- name: "CHELYABINVESTBANK"
+  city: "CHELYABINSK"
+  branch: VASILEVSKY FILIAL
+  swift: CHINRU41VAS
+    
+- name: "CHELYABINVESTBANK"
+  city: "CHELYABINSK"
+  branch: null
+  swift: CHINRU4C
+    
+- name: "CHELYABINVESTBANK"
+  city: "KOPEYSK"
+  branch: KOPEYSKY FILIAL
+  swift: CHINRU41KOP
+    
+- name: "CHELYABINVESTBANK"
+  city: "MAGNITOGORSK"
+  branch: MAGNITOGORSKY BRANCH
+  swift: CHINRU4CMAG
+    
+- name: "CHELYABINVESTBANK"
+  city: "MIASS"
+  branch: MIASSKY FILIAL
+  swift: CHINRU41MIA
+    
+- name: "CHELYABINVESTBANK"
+  city: "OZERSK"
+  branch: OZERSKY FILIAL
+  swift: CHINRU41OZR
+    
+- name: "CHELYABINVESTBANK"
+  city: "TROITSK"
+  branch: TROITSKY FILIAL
+  swift: CHINRU41TRO
+    
+- name: "CHELYABINVESTBANK"
+  city: "YUZHNOURALSK"
+  branch: YUZHNOURALSKY FILIAL
+  swift: CHINRU41YUZ
+    
+- name: "CHELYABINVESTBANK"
+  city: "ZLATOUST"
+  branch: DEMIDOVSKY BRANCH
+  swift: CHINRU4CDEM
+    
+- name: "CHUVASHCREDITPROMBANK PAO"
+  city: "CHEBOKSARY"
+  branch: null
+  swift: CHVARU2C
+    
+- name: "CITY INVEST BANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: CITVRU2P
+    
+- name: "CJSC BRITISH AMERICAN TOBACCO-SPB"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: BATSRU21
+    
+- name: "CJSC INTERNATIONAL TOBACCO MARKETING SERVICES"
+  city: "MOSCOW"
+  branch: null
+  swift: BATSRUM1
+    
+- name: "CLOSED JOINT STOCK COMPANY HOUSING FINANCE BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: UITBRUMM
+    
+- name: "COALMETBANK"
+  city: "CHELYABINSK"
+  branch: null
+  swift: UGZARU55
+    
+- name: "COMBANK ARZAMAS"
+  city: "ARZAMAS"
+  branch: null
+  swift: COAZRU21
+    
+- name: "COMMERCIAL AGROINDUSTRIAL BANK OF STARY OSKOL OOO"
+  city: "STARYY-OSKOL"
+  branch: null
+  swift: CAAKRU21
+    
+- name: "COMMERCIAL BANK AGORA"
+  city: "MOSCOW"
+  branch: null
+  swift: RUECRUMM
+    
+- name: "COMMERCIAL BANK 'BOOM-BANK' (SOCIETY WITH LIMITED LIABILITY)"
+  city: "NALCHIK"
+  branch: null
+  swift: BUMARU22
+    
+- name: "COMMERCIAL BANK BUILDING INDUSTRY 'STROYINDBANK'"
+  city: "MOSCOW"
+  branch: null
+  swift: STKBRUM1
+    
+- name: "COMMERCIAL BANK 'DZERZHINSKY' OOO"
+  city: "PERM"
+  branch: null
+  swift: DECERU41
+    
+- name: "COMMERCIAL BANK EUROPEAN STANDARD LLC"
+  city: "NALCHIK"
+  branch: null
+  swift: EUSORU22
+    
+- name: "COMMERCIAL BANK 'FEDERAL DEPOSIT BANK LTD.'"
+  city: "MOSCOW"
+  branch: null
+  swift: FEDCRUM1
+    
+- name: "COMMERCIAL BANK ''GLOBUS''"
+  city: "MOSCOW"
+  branch: null
+  swift: GCOJRUM1
+    
+- name: "COMMERCIAL BANK 'KAURI'"
+  city: "PERM"
+  branch: null
+  swift: COKARU41
+    
+- name: "COMMERCIAL BANK KHLYNOV (JOINT-STOCK COMPANY)"
+  city: "KIROV"
+  branch: null
+  swift: KHOARU22
+    
+- name: "COMMERCIAL BANK 'LANTA-BANK'"
+  city: "ESSENTUKI"
+  branch: null
+  swift: COLKRUM1ESN
+    
+- name: "COMMERCIAL BANK 'LANTA-BANK'"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSK BRANCH
+  swift: COLKRUMMKRA
+    
+- name: "COMMERCIAL BANK 'LANTA-BANK'"
+  city: "KUYBISHEV"
+  branch: KUYBISHEV BRANCH
+  swift: COLKRUMMKBB
+    
+- name: "COMMERCIAL BANK 'LANTA-BANK'"
+  city: "MOSCOW"
+  branch: null
+  swift: COLKRUMM
+    
+- name: "COMMERCIAL BANK 'LANTA-BANK'"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNY NOVGOROD BRANCH
+  swift: COLKRUM1NNG
+    
+- name: "COMMERCIAL BANK 'LANTA-BANK'"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: COLKRUMMNSB
+    
+- name: "COMMERCIAL BANK 'LANTA-BANK'"
+  city: "OREL"
+  branch: OREL BRANCH
+  swift: COLKRUM1ORL
+    
+- name: "COMMERCIAL BANK 'LANTA-BANK'"
+  city: "ST. PETERSBURG"
+  branch: ST.-PETERBURG BRANCH
+  swift: COLKRUM1SPB
+    
+- name: "COMMERCIAL BANK MAIMA LTD"
+  city: "GORNO-ALTAYSK"
+  branch: null
+  swift: CMAARU51
+    
+- name: "COMMERCIAL BANK 'MAXIMA' OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: MAXMRUM1
+    
+- name: "COMMERCIAL BANK 'MEZHREGIONBANK' OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: MEZRRUM1
+    
+- name: "COMMERCIAL BANK 'NATIONAL INDUSTRIAL BANK' ZAO"
+  city: "MOSCOW"
+  branch: null
+  swift: NAIDRUM1
+    
+- name: "COMMERCIAL BANK NEVASTROYINVEST LIMITED LIABILITY COMPANY"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: NCILRU22
+    
+- name: "COMMERCIAL BANK NEW TIME"
+  city: "MOSCOW"
+  branch: null
+  swift: NTCRRUMX
+    
+- name: "COMMERCIAL BANK OF DEVELOPMENT (LIMITED LIABILITY COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: CODVRUM1
+    
+- name: "COMMERCIAL BANK 'RBA' (LIMITED LIABILITY COMPANY)"
+  city: "MAKHACHKALA"
+  branch: MAKHACHKALA BRANCH
+  swift: IRBARU22MAH
+    
+- name: "COMMERCIAL BANK 'RBA' (LIMITED LIABILITY COMPANY)"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: IRBARU22MSK
+    
+- name: "COMMERCIAL BANK 'RBA' (LIMITED LIABILITY COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: IRBARU22
+    
+- name: "COMMERCIAL BANK ROSTOV UNIVERSAL"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: COSVRU21
+    
+- name: "COMMERCIAL BANK 'RUSSIAN REGIONAL BANK' ZAO"
+  city: "MOSCOW"
+  branch: null
+  swift: RUSRRUM1
+    
+- name: "COMMERCIAL BANK 'SIBIRGAZBANK' AO"
+  city: "SURGUT"
+  branch: null
+  swift: SIBJRU51
+    
+- name: "COMMERCIAL BANK STAR ALLIANCE, LIMITED"
+  city: "MOSCOW"
+  branch: null
+  swift: CCTNRUM1
+    
+- name: "COMMERCIAL BANK 'STROYLESBANK' LIMITED"
+  city: "TYUMEN"
+  branch: null
+  swift: SCSARU41
+    
+- name: "COMMERCIAL BANK TULSKY PROMYSHLENNIK OAO"
+  city: "TULA"
+  branch: null
+  swift: TUPRRU21
+    
+- name: "COMMERCIAL BANK 'URALLIGA'"
+  city: "CHELYABINSK"
+  branch: null
+  swift: URLGRU41
+    
+- name: "COMMERCIAL BANK VRB (LLC)"
+  city: "MOSCOW"
+  branch: null
+  swift: VRBMRUMM
+    
+- name: "COMMERCIAL BANK 'YAROSLAVICH' AO"
+  city: "YAROSLAVL"
+  branch: null
+  swift: YARORU21
+    
+- name: "COMMERCIAL BANK ZHILCREDIT LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: ZHCBRUMM
+    
+- name: "COMMERCIAL INDO BANK LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: CODLRUMM
+    
+- name: "COMMERZBANK (EURASIJA) AO"
+  city: "MOSCOW"
+  branch: null
+  swift: COBARUMM
+    
+- name: "CONFIDENCEBANK"
+  city: "KOSTROMA"
+  branch: null
+  swift: CODKRU21
+    
+- name: "COR JOINT STOCK COMMERCIAL BANK"
+  city: "VOLGOGRAD"
+  branch: null
+  swift: CJSORU21
+    
+- name: "CORPORATE FINANCE BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: FABARUMM
+    
+- name: "CORPORATE FINANCE BANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: FABARUM1NVS
+    
+- name: "CORPORATE FINANCE BANK"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: FABARUM1SPB
+    
+- name: "CREDIT AGRICOLE CIB AO"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: CRLYRU2PMSC
+    
+- name: "CREDIT AGRICOLE CIB AO"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: CRLYRU2P
+    
+- name: "CREDIT BANK OF MOSCOW (PUBLIC JOINT STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: MCRBRUMM
+    
+- name: "CREDIT EUROPE BANK LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: FMOSRUMM
+    
+- name: "CREDIT UNION 'PAYMENT CENTER'"
+  city: "NOVOSIBIRSK"
+  branch: null
+  swift: CUPCRU55
+    
+- name: "CREDIT URAL BANK JOINT STOCK COMPANY"
+  city: "MAGNITOGORSK"
+  branch: null
+  swift: CRDURU4C
+    
+- name: "CREDITINVEST"
+  city: "KIZYLYURT"
+  branch: null
+  swift: BKCIRU22
+    
+- name: "CREDPROMBANK"
+  city: "YAROSLAVL"
+  branch: null
+  swift: CRDBRU21
+    
+- name: "CROCUSBANK"
+  city: "KRASNOGORSK"
+  branch: null
+  swift: CROKRUMM
+    
+- name: "CROSNA-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: CROSRUMM
+    
+- name: "DAGESTAN CBSD OOO"
+  city: "MAKHACHKALA"
+  branch: null
+  swift: DAGERU21
+    
+- name: "DALRYBBANK (FAR-EASTERN JOINT STOCK COMMERCIAL BANK OF FISHERIES)"
+  city: "VLADIVOSTOK"
+  branch: null
+  swift: CBFIRU81
+    
+- name: "DANSKE BANK RUSSIA"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: DABARU2P
+    
+- name: "DENIZBANK MOSCOW JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: IKBARUMM
+    
+- name: "DERZHAVA PJSCB"
+  city: "MOSCOW"
+  branch: null
+  swift: DERZRUMM
+    
+- name: "DEUTSCHE BANK OOO"
+  city: "MOSCOW"
+  branch: IB OPERATIONS
+  swift: DEUTRUMMGME
+    
+- name: "DEUTSCHE BANK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: DEUTRUMM
+    
+- name: "DEVELOPMENT CAPITAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: VIZIRUMM
+    
+- name: "DEVON-CREDIT BANK (PJSC)"
+  city: "ALMETYEVSK"
+  branch: null
+  swift: DEKERU2K
+    
+- name: "DIG-BANK"
+  city: "VLADIKAVKAZ"
+  branch: null
+  swift: DIGBRU31
+    
+- name: "DONBANK"
+  city: "KAMENSK-SHAKHTINSKIJ"
+  branch: null
+  swift: DONBRU21
+    
+- name: "DONSKOJ NARODNYJ BANK"
+  city: "GUKOVO"
+  branch: null
+  swift: DONARU21
+    
+- name: "DRESDNER KLEINWORT BENSON 000"
+  city: "MOSCOW"
+  branch: null
+  swift: DRKBRUM1
+    
+- name: "ECO-INVEST"
+  city: "MOSCOW"
+  branch: null
+  swift: ECOERUM1
+    
+- name: "ECONOMICS-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ECOBRUM1
+    
+- name: "EL BANK COMMERCHESKIJ BANK OOO"
+  city: "GORNO-ALTAYSK"
+  branch: null
+  swift: CMOORU51
+    
+- name: "ELBIN BANK"
+  city: "MAKHACHKALA"
+  branch: null
+  swift: ELBIRU22
+    
+- name: "ENERGOBANK"
+  city: "KAZAN"
+  branch: null
+  swift: TRCBRU2K
+    
+- name: "ENERGOMASHBANK PLC"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: ENEBRU2P
+    
+- name: "ENERGOTRANSBANK"
+  city: "KALININGRAD"
+  branch: null
+  swift: ENGORU2K
+    
+- name: "ENERGOTRANSBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: ENGORU21MOS
+    
+- name: "ENERGOTRANSBANK"
+  city: "SOVETSK"
+  branch: SOVETSK BRANCH
+  swift: ENGORU21SOV
+    
+- name: "ENERGY BUSINESS"
+  city: "MOSCOW"
+  branch: null
+  swift: ENBURUM1
+    
+- name: "ENOBANK"
+  city: "MAKHACHKALA"
+  branch: null
+  swift: ENOBRU21
+    
+- name: "ESIDBANK"
+  city: "MAKHACHKALA"
+  branch: null
+  swift: ESIDRU31
+    
+- name: "ETALONBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ETZARUM1
+    
+- name: "EUROSIB BANK"
+  city: "PSKOV"
+  branch: null
+  swift: PSKORU21
+    
+- name: "EVRAZHOLDING"
+  city: "MOSCOW"
+  branch: null
+  swift: EVRZRUMM
+    
+- name: "EVROFINANCE MOSNARBANK"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSK BRANCH
+  swift: EVRFRUM1KRS
+    
+- name: "EVROFINANCE MOSNARBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: EVRFRUMM
+    
+- name: "EVROFINANCE MOSNARBANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: EVRFRUM1NNG
+    
+- name: "EVROFINANCE MOSNARBANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: EVRFRUM1RND
+    
+- name: "EVROFINANCE MOSNARBANK"
+  city: "SAMARA"
+  branch: SAMARA BRANCH
+  swift: EVRFRUM1SMR
+    
+- name: "EVROFINANCE MOSNARBANK"
+  city: "ST. PETERSBURG"
+  branch: SAINT PETERSBURG BRANCH
+  swift: EVRFRUM1SPB
+    
+- name: "EVROFINANCE MOSNARBANK"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH
+  swift: EVRFRUM1STV
+    
+- name: "EVROFINANCE MOSNARBANK"
+  city: "VLADIMIR"
+  branch: VLADIMIR BRANCH
+  swift: EVRFRUM1VLD
+    
+- name: "EVROFINANCE MOSNARBANK"
+  city: "VOLGOGRAD"
+  branch: VOLGOGRAD BRANCH
+  swift: EVRFRUM1VLG
+    
+- name: "EVROFINANCE MOSNARBANK"
+  city: "YAROSLAVL"
+  branch: YAROSLAVL BRANCH
+  swift: EVRFRUM1YRS
+    
+- name: "EVRORASCHYOT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: EVRRRUM1
+    
+- name: "EVROSOYUZ"
+  city: "MOSCOW"
+  branch: null
+  swift: EVRYRUM1
+    
+- name: "EXIMBANK OF RUSSIA"
+  city: "MOSCOW"
+  branch: null
+  swift: EXIRRUMM
+    
+- name: "EXPERT BANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: SIKPRUS1MSK
+    
+- name: "EXPERT BANK"
+  city: "OMSK"
+  branch: null
+  swift: SIKPRUSM
+    
+- name: "EXPOBANK LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: EXPNRUMM
+    
+- name: "EXPRESS BANK"
+  city: "MAKHACHKALA"
+  branch: null
+  swift: EXPERU21
+    
+- name: "FAR EASTERN BANK"
+  city: "VLADIVOSTOK"
+  branch: HEAD OFFICE
+  swift: FAEBRU8V
+    
+- name: "FEDERAL BANK OF DEVELOPMENT JOINT-STOCK COMMERCIAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: FDJSRUM1
+    
+- name: "FINAM BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: FNMMRUMM
+    
+- name: "FINANCE BUSINESS BANK, LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: FBBARU3G
+    
+- name: "FINANCE HOLDING DOMINION"
+  city: "NOVOSIBIRSK"
+  branch: null
+  swift: FIHDRU51
+    
+- name: "FINANCIAL CREDIT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: FIDORUM1
+    
+- name: "FINANSOVO-PROMYSHLENYI KAPITAL"
+  city: "MOSCOW"
+  branch: null
+  swift: FIKIRUMM
+    
+- name: "FINNET-SERVICE"
+  city: "MOSCOW"
+  branch: null
+  swift: FIEVRUM1
+    
+- name: "FIRST DORTRANSBANK"
+  city: "KIROV"
+  branch: null
+  swift: FIDKRU21
+    
+- name: "FITCH RATINGS CIS LIMITED (MOSCOW BRANCH)"
+  city: "MOSCOW"
+  branch: null
+  swift: FRIPRUM1
+    
+- name: "FLEXINVESTBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: FLEXRUM1
+    
+- name: "FLORA-MOSCOW OAO"
+  city: "MOSCOW"
+  branch: null
+  swift: CFLORUMM
+    
+- name: "FORA-BANK AO"
+  city: "MOSCOW"
+  branch: null
+  swift: FOJSRUMM
+    
+- name: "FORUS BANK ZAO"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: FOUURU21
+    
+- name: "FUNDSERVICEBANK"
+  city: "BAIKONUR"
+  branch: BAIKONUR BRANCH
+  swift: FONBRUM1BAI
+    
+- name: "FUNDSERVICEBANK"
+  city: "MIRNY"
+  branch: KOSMODROM PLESETSK BRANCH OF FUNDSERVICEBANK
+  swift: FONBRUMMMRN
+    
+- name: "FUNDSERVICEBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: FONBRUMM
+    
+- name: "FUNDSERVICEBANK"
+  city: "NOVOCHERKASSK"
+  branch: NOVOCHERKASSK BRANCH
+  swift: FONBRUMMNOV
+    
+- name: "FUNDSERVICEBANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV BRANCH
+  swift: FONBRUMMROS
+    
+- name: "GARANT-INVEST BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: GAINRUMM
+    
+- name: "GAZBANK ZAO AKB"
+  city: "DIMITROVGRAD"
+  branch: DIMITROVGRAD BRANCH
+  swift: CGAZRU31886
+    
+- name: "GAZBANK ZAO AKB"
+  city: "SAMARA"
+  branch: KIROVSKY BRANCH
+  swift: CGAZRU31957
+    
+- name: "GAZBANK ZAO AKB"
+  city: "SAMARA"
+  branch: null
+  swift: CGAZRU3S
+    
+- name: "GAZBANK ZAO AKB"
+  city: "TOGLIATTI"
+  branch: TOGLIATTI BRANCH
+  swift: CGAZRU31974
+    
+- name: "GAZBANK ZAO AKB"
+  city: "ULYANOVSK"
+  branch: ULYANOVSK BRANCH
+  swift: CGAZRU31856
+    
+- name: "GAZBANK ZAO AKB"
+  city: "YEISK"
+  branch: YEISK BRANCH
+  swift: CGAZRU31780
+    
+- name: "GAZENERGOBANK"
+  city: "KALUGA"
+  branch: null
+  swift: GAZARU21
+    
+- name: "GAZENERGOBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: GAZARU21MF1
+    
+- name: "GAZNEFTBANK"
+  city: "SARATOV"
+  branch: null
+  swift: GAZNRUM1
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "EKATERINBURG"
+  branch: URALSKY BRANCH
+  swift: GAZPRUMM026
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "KALININGRAD"
+  branch: KALININGRAD BRANCH
+  swift: GAZPRUMM038
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "KAZAN"
+  branch: KAZAN BRANCH
+  swift: GAZPRUMM047
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "KEMEROVO"
+  branch: KEMEROVO BRANCH
+  swift: GAZPRUMM036
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "KRASNODAR"
+  branch: YUZHNY BRANCH
+  swift: GAZPRUMM007
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "KRASNOYARSK"
+  branch: VOSTOCHNO-SIBIRSKY BRANCH
+  swift: GAZPRUMM034
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: GAZPRUMM
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "NIZHNIY NOVGOROD"
+  branch: PRIVOLZHSKY BRANCH
+  swift: GAZPRUMM001
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "NOVIY URENGOY"
+  branch: NOVIY URENGOY BRANCH
+  swift: GAZPRUMM002
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "NOVOSIBIRSK"
+  branch: ZAPADNO-SIBIRSKY BRANCH
+  swift: GAZPRUMM029
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "PERM"
+  branch: ZAPADNO-URALSKY BRANCH
+  swift: GAZPRUMM032
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "SAMARA"
+  branch: POVOLZHSKY BRANCH
+  swift: GAZPRUMM037
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "SHCHELKOVO"
+  branch: TSENTRALNIY BRANCH
+  swift: GAZPRUMM028
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "ST. PETERSBURG"
+  branch: SEVERO-ZAPADNY BRANCH
+  swift: GAZPRUMM015
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "STAVROPOL"
+  branch: SEVERO-KAVKAZSKY BRANCH
+  swift: GAZPRUMM024
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "SURGUT"
+  branch: SURGUT BRANCH
+  swift: GAZPRUMM048
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "TOMSK"
+  branch: TOMSK BRANCH
+  swift: GAZPRUMM011
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "TULA"
+  branch: SREDNERUSSKY BRANCH
+  swift: GAZPRUMM004
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "UFA"
+  branch: UFA BRANCH
+  swift: GAZPRUMM025
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "VLADIVOSTOK"
+  branch: DALNEVOSTOCHNY BRANCH
+  swift: GAZPRUMM042
+    
+- name: "GAZPROMBANK (JOINT - STOCK COMPANY)"
+  city: "VORONEZH"
+  branch: TSENTRALNO-CHERNOZEMNY BRANCH
+  swift: GAZPRUMM049
+    
+- name: "GEFEST BANK LTD"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: GESPRU21
+    
+- name: "GELENDJIK-BANK"
+  city: "GELENDJIK"
+  branch: null
+  swift: GJSCRU21
+    
+- name: "GLOBEXBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: GLOBRUMM
+    
+- name: "GLOBEXBANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSKIJ BRANCH
+  swift: GLOBRUM1011
+    
+- name: "GLOBEXBANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOVSKIJ BRANCH
+  swift: GLOBRUM1012
+    
+- name: "GLOBEXBANK"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: GLOBRUM1009
+    
+- name: "GLOBEXBANK"
+  city: "TOGLIATTI"
+  branch: POVOLZHSKIJ BRANCH
+  swift: GLOBRUM1016
+    
+- name: "GOLD-PLATINUM-BANK"
+  city: "EKATERINBURG"
+  branch: null
+  swift: GOJSRU41
+    
+- name: "GRAND INVEST BANK JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: GRINRUMM
+    
+- name: "GREENCOMBANK"
+  city: "IRKUTSK"
+  branch: IRKUTSK BRANCH
+  swift: GRECRU61001
+    
+- name: "GREENCOMBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: GRECRU61002
+    
+- name: "GREENCOMBANK"
+  city: "USOLYE-SIBIRSKOYE"
+  branch: null
+  swift: GRECRU61
+    
+- name: "GRIS-BANK"
+  city: "MOSCOW"
+  branch: FILIAL MOSKOVSKIJ GRIS-BANK
+  swift: GRIBRU21MOS
+    
+- name: "GRIS-BANK"
+  city: "PYATIGORSK"
+  branch: null
+  swift: GRIBRU21
+    
+- name: "HBRD-BANK"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: KOOARU21
+    
+- name: "HCF BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: HCFBRUMM
+    
+- name: "'HIMIK' OPEN JOINT-STOCK COMPANY"
+  city: "DZERZHINSK"
+  branch: null
+  swift: HIMIRUM1
+    
+- name: "HOLDINVESTBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: HOLNRUM1
+    
+- name: "HSBC BANK (RR) OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: BLICRUMM
+    
+- name: "IBDIT LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: IRITRUM1
+    
+- name: "IDEA BANK"
+  city: "KRASNODAR"
+  branch: null
+  swift: KUBBRU21
+    
+- name: "INBANK, LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: INKNRUM2
+    
+- name: "INDUSTRIAL AGRICULTURAL BANK LIMITED"
+  city: "ENGELS"
+  branch: null
+  swift: PSHBRU21
+    
+- name: "INDUSTRIAL AGRICULTURAL BANK LIMITED (PROMSELHOZBANK LTD.)"
+  city: "MOSCOW"
+  branch: null
+  swift: PSHBRUMM
+    
+- name: "INDUSTRIAL DEVELOPMENT BANK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: INPORUM1
+    
+- name: "INDUSTRIAL ENERGY BANK"
+  city: "CHEREPOVETS"
+  branch: null
+  swift: IENCRU21
+    
+- name: "INDUSTRIAL SAVINGS BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RISBRUMM
+    
+- name: "ING BANK (EURASIA) JSC"
+  city: "MOSCOW"
+  branch: TREASURY BACKOFFICE
+  swift: INGBRUMMTMK
+    
+- name: "ING BANK (EURASIA) JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: INGBRUMM
+    
+- name: "ING BANK (EURASIA) JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: INGBRUMML28
+    
+- name: "INKAKHRAN NKO (AO)"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: HRANRUMMEKB
+    
+- name: "INKAKHRAN NKO (AO)"
+  city: "MOSCOW"
+  branch: null
+  swift: HRANRUMM
+    
+- name: "INKAROBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: INKARUMM
+    
+- name: "INRESBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: INKKRUM1
+    
+- name: "INSTROYBANK LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: INOYRUM1
+    
+- name: "INTERBANK CREDIT UNION"
+  city: "MOSCOW"
+  branch: null
+  swift: ITCURUMM
+    
+- name: "INTERNATIONAL ACCOUNTING BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: INUGRUM1
+    
+- name: "INTERNATIONAL BANK FOR ECONOMIC CO-OPERATION"
+  city: "MOSCOW"
+  branch: null
+  swift: IBECRUMM
+    
+- name: "INTERNATIONAL BANK OF ST.PETERSBURG PLC"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: LBAPRU2PMOS
+    
+- name: "INTERNATIONAL BANK OF ST.PETERSBURG PLC"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: LBAPRU2P
+    
+- name: "INTERNATIONAL COMMERCIAL AND INDUSTRIAL BANK"
+  city: "TVER"
+  branch: null
+  swift: ICIBRU21
+    
+- name: "INTERNATIONAL COMMERCIAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ICBMRUMM
+    
+- name: "INTERNATIONAL INVESTMENT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: IIBMRUMM
+    
+- name: "INTERPROGRESSBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: INTPRUMM
+    
+- name: "INTERPROMBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: IPBARUMM
+    
+- name: "INTERREGIONAL CLEARING CENTRE"
+  city: "MOSCOW"
+  branch: null
+  swift: INLCRUM1
+    
+- name: "INTERSTATE BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: INEARUMM
+    
+- name: "INTERSTATE CLEARING BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ICLERUM1
+    
+- name: "INVESTMENT BANK VESTA (LIMITED LIABILITY COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: VSTARUMM
+    
+- name: "INVESTMENT COMMERCIAL BANK DEVELOPMENT 'YARINTERBANK' OOO"
+  city: "YAROSLAVL"
+  branch: null
+  swift: ICDYRU2Y
+    
+- name: "INVESTMENT COMPANY ''RICOM-TRUST'' ZAO"
+  city: "MOSCOW"
+  branch: null
+  swift: CIBGRUMM
+    
+- name: "INVESTMENT COMPANY TROIKA DIALOG ZAO"
+  city: "MOSCOW"
+  branch: null
+  swift: ZAOKRUM1
+    
+- name: "INVESTMENT COOPERATIVE BANK JSC"
+  city: "KAZAN"
+  branch: null
+  swift: CECBRU2K
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "ALEXANDROV"
+  branch: VLADIMIRSKY BRANCH
+  swift: INVJRUM1ALX
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "BRYANSK"
+  branch: BRYANSKY BRANCH
+  swift: INVJRUM1BRN
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "EKATERINBURG"
+  branch: URALSKY BRANCH
+  swift: INVJRUM1EKT
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "HABAROVSK"
+  branch: KHABAROVSK BRANCH
+  swift: INVJRUM1KHB
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "IVANOVO"
+  branch: VOZNESENSKY BRANCH
+  swift: INVJRUM1IVN
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "KAZAN"
+  branch: KAZANSKY BRANCH
+  swift: INVJRUM1KZN
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "KINESHMA"
+  branch: KINESHEMSKY BRANCH
+  swift: INVJRUM1KIN
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "KOSTROMA"
+  branch: KOSTROMSKOJ BRANCH
+  swift: INVJRUM1KST
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "MAKHACHKALA"
+  branch: MAKHACHKALINSKY BRANCH 
+  swift: INVJRUM1MHK
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "MOSCOW"
+  branch: null
+  swift: INVJRUMM
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSKY BRANCH
+  swift: INVJRUM1NVS
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "PENZA"
+  branch: PENZENSKY BRANCH
+  swift: INVJRUM1PEN
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "PERM"
+  branch: PERMSKY BRANCH
+  swift: INVJRUM1PRM
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOVSKY BRANCH
+  swift: INVJRUM1RST
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "SAMARA"
+  branch: SAMARSKY BRANCH
+  swift: INVJRUM1SAM
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "SARATOV"
+  branch: SARATOVSKY BRANCH
+  swift: INVJRUM1SAR
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "ST. PETERSBURG"
+  branch: BRANCH BALTIYSKY
+  swift: INVJRUM1SPB
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "STAVROPOL"
+  branch: STAVROPOLSKY BRANCH
+  swift: INVJRUM1STV
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "TYUMEN"
+  branch: TYUMENSKY BRANCH
+  swift: INVJRUM1TMN
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "VLADIMIR"
+  branch: POKROVSKY BRANCH
+  swift: INVJRUM1VLD
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "VOLGOGRAD"
+  branch: VOLGOGRADSKY BRANCH
+  swift: INVJRUM1VLG
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "VORONEZH"
+  branch: VORONEZHSKY BRANCH
+  swift: INVJRUM1VRN
+    
+- name: "INVESTMENT TRADE BANK PJSC"
+  city: "YAROSLAVL"
+  branch: YAROSLAVSKY BRANCH
+  swift: INVJRUM1YAR
+    
+- name: "INVESTSOCBANK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: IVSSRUMM
+    
+- name: "IPOTEKA-INVEST BANK"
+  city: "KAZAN"
+  branch: null
+  swift: IPOTRU21
+    
+- name: "IRON BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: IRONRUM1
+    
+- name: "IRS-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: IRSBRUMM
+    
+- name: "IRS-BANK"
+  city: "VOLGOGRAD"
+  branch: VOLGOGRAD BRANCH IRS BRANCH
+  swift: IRSBRUM1VOL
+    
+- name: "ISBANK JOINT STOCK COMPANY"
+  city: "MOSCOW"
+  branch: null
+  swift: ISBKRUMM
+    
+- name: "ITURUP BANK OOO"
+  city: "YUZHNO-SAKHALINSK"
+  branch: null
+  swift: ITRORU8Y
+    
+- name: "IVANOVSKIJ OBLASTNOJ BANK"
+  city: "IVANOVO"
+  branch: null
+  swift: IVOLRU21
+    
+- name: "IVY BANK (JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: KVJSRUM1
+    
+- name: "'IZHCOMBANK' AO"
+  city: "IZHEVSK"
+  branch: null
+  swift: IZHBRU31
+    
+- name: "J AND T BANK, AO"
+  city: "MOSCOW"
+  branch: null
+  swift: TRRYRUMM
+    
+- name: "JIVAGO-BANK"
+  city: "RYAZAN"
+  branch: null
+  swift: JIVARU21
+    
+- name: "JOINT STOCK BANK OF SOCIAL DEVELOPMENT OF TATARSTAN TATSOTSBANK"
+  city: "KAZAN"
+  branch: null
+  swift: TSDBRU21
+    
+- name: "JOINT STOCK COMMERCIAL BANK 'LESOBANK'"
+  city: "ARKHANGELSK"
+  branch: null
+  swift: LJSARU21
+    
+- name: "JOINT STOCK COMMERCIAL BANK TENDER-BANK AO"
+  city: "MOSCOW"
+  branch: null
+  swift: TEJCRUM1
+    
+- name: "JOINT STOCK COMPANY BBR BANK"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSK BRANCH
+  swift: BADJRUM1KRS
+    
+- name: "JOINT STOCK COMPANY BBR BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: BADJRUMM
+    
+- name: "JOINT STOCK COMPANY BBR BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: BADJRUMMNNG
+    
+- name: "JOINT STOCK COMPANY BBR BANK"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: BADJRUMMSPB
+    
+- name: "JOINT STOCK COMPANY BBR BANK"
+  city: "VLADIVOSTOK"
+  branch: VLADIVOSTOK BRANCH
+  swift: BADJRUMMVLD
+    
+- name: "JOINT STOCK COMPANY CONSERVATIVE COMMERCIAL BANK"
+  city: "ASTRAKHAN"
+  branch: null
+  swift: KRASRU3A
+    
+- name: "JOINT STOCK COMPANY CONSERVATIVE COMMERCIAL BANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: KRASRU3AMOS
+    
+- name: "JOINT STOCK COMPANY 'GUTA-BANK'"
+  city: "TVER"
+  branch: null
+  swift: TJSBRUMM
+    
+- name: "JOINT STOCK COMPANY 'OTP BANK'"
+  city: "CHELYABINSK"
+  branch: CHELYABINSKY  BRANCH
+  swift: OTPVRUM1CHE
+    
+- name: "JOINT STOCK COMPANY 'OTP BANK'"
+  city: "GUKOVO"
+  branch: ROSTOVSKIY BRANCH
+  swift: OTPVRUM1RST
+    
+- name: "JOINT STOCK COMPANY 'OTP BANK'"
+  city: "HABAROVSK"
+  branch: DALNEVOSTOCHNIY  BRANCH
+  swift: OTPVRUM1HBR
+    
+- name: "JOINT STOCK COMPANY 'OTP BANK'"
+  city: "MOSCOW"
+  branch: null
+  swift: OTPVRUMM
+    
+- name: "JOINT STOCK COMPANY 'OTP BANK'"
+  city: "OMSK"
+  branch: OMSK BRANCH
+  swift: OTPVRUMMOMS
+    
+- name: "JOINT STOCK COMPANY 'OTP BANK'"
+  city: "SAMARA"
+  branch: SAMARSKIY BRANCH
+  swift: OTPVRUM1SAM
+    
+- name: "JOINT STOCK COMPANY 'OTP BANK'"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: OTPVRUM1SPB
+    
+- name: "JOINT STOCK COMPANY SURGUTNEFTEGASBANK"
+  city: "KHANTY-MANSIYSK"
+  branch: COMMERCIAL BRANCH
+  swift: SGUBRU5S054
+    
+- name: "JOINT STOCK COMPANY SURGUTNEFTEGASBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: SGUBRU5S052
+    
+- name: "JOINT STOCK COMPANY SURGUTNEFTEGASBANK"
+  city: "SURGUT"
+  branch: TRUST DEPARTMENT
+  swift: SGUBRU5SDU1
+    
+- name: "JOINT STOCK COMPANY SURGUTNEFTEGASBANK"
+  city: "SURGUT"
+  branch: null
+  swift: SGUBRU5S
+    
+- name: "JOINT STOCK COMPANY SURGUTNEFTEGASBANK"
+  city: "TYUMEN"
+  branch: TYUMEN BRANCH
+  swift: SGUBRU5S053
+    
+- name: "JOINT-STOCK BANK CAPITAL"
+  city: "MOSCOW"
+  branch: null
+  swift: JSBCRU4N
+    
+- name: "JOINT-STOCK BANK YUG-INVESTBANK (JOINT-STOCK COMPANY)"
+  city: "KRASNODAR"
+  branch: null
+  swift: YJSCRU22
+    
+- name: "JOINT-STOCK COMMERCIAL BANK AGROPROMCREDIT"
+  city: "MOSCOW"
+  branch: null
+  swift: AGCORUMM
+    
+- name: "JOINT-STOCK COMMERCIAL EXPORT-IMPORT BANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: JXIBRU2P
+    
+- name: "JOINT-STOCK COMPANY 'BANK BEREIT'"
+  city: "KRASNYI BOR"
+  branch: null
+  swift: BBANRU2R
+    
+- name: "JOINT-STOCK COMPANY COMMERCIAL BANK ''COSMOS''"
+  city: "MOSCOW"
+  branch: null
+  swift: CSMMRUMM
+    
+- name: "JOINT-STOCK COMPANY NORTH-WESTERN INVESTMENT BANK UNITED CAPITAL"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: UNCLRU21
+    
+- name: "JOINT-STOCK INVESTMENT COMMERCIAL BANK ENISEISK UNITED BANK LTD"
+  city: "KRASNOYARSK"
+  branch: null
+  swift: EUJKRU55
+    
+- name: "JS BANK PERM"
+  city: "PERM"
+  branch: null
+  swift: PJSCRU41
+    
+- name: "JSB ASPECT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ASPTRUMM
+    
+- name: "JSB DOLINSK"
+  city: "YUZHNO-SAKHALINSK"
+  branch: null
+  swift: DOLIRU8Y
+    
+- name: "JSB ROSEVROBANK (JSC)"
+  city: "CHELYABINSK"
+  branch: CHELYABINSK BRANCH
+  swift: COMKRUMM040
+    
+- name: "JSB ROSEVROBANK (JSC)"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: COMKRUMM030
+    
+- name: "JSB ROSEVROBANK (JSC)"
+  city: "MOSCOW"
+  branch: DOCUMENTARY BUSINESS
+  swift: COMKRUMMDOC
+    
+- name: "JSB ROSEVROBANK (JSC)"
+  city: "MOSCOW"
+  branch: INTERNATIONAL BUSINESS DEVELOPMENT DEPARTMENT
+  swift: COMKRUMMIBD
+    
+- name: "JSB ROSEVROBANK (JSC)"
+  city: "MOSCOW"
+  branch: INTERNATIONAL SETTLEMENT DIVISION
+  swift: COMKRUMMISD
+    
+- name: "JSB ROSEVROBANK (JSC)"
+  city: "MOSCOW"
+  branch: null
+  swift: COMKRUMM
+    
+- name: "JSB ROSEVROBANK (JSC)"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: COMKRUMM070
+    
+- name: "JSB ROSEVROBANK (JSC)"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: COMKRUMM090
+    
+- name: "JSB ROSEVROBANK (JSC)"
+  city: "SAMARA"
+  branch: SAMARA BRANCH
+  swift: COMKRUMM060
+    
+- name: "JSB ROSEVROBANK (JSC)"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: COMKRUMM080
+    
+- name: "JSC BAIKALINVESTBANK"
+  city: "IRKUTSK"
+  branch: null
+  swift: BIJORU66
+    
+- name: "JSC BANK CREDIT SUISSE (MOSCOW)"
+  city: "MOSCOW"
+  branch: null
+  swift: CRESRUMM
+    
+- name: "JSC BANK CREDIT SUISSE (MOSCOW)"
+  city: "MOSCOW"
+  branch: null
+  swift: CRESRUMML21
+    
+- name: "JSC BANK MASTER-CAPITAL"
+  city: "MOSCOW"
+  branch: null
+  swift: MSTRRUMS
+    
+- name: "JSC BANK OF SOCIAL DEVELOPMENT OF TATARSTAN TATSOTSBANK"
+  city: "KAZAN"
+  branch: null
+  swift: TSDBRU22
+    
+- name: "JSC BANK ORENBURG"
+  city: "ORENBURG"
+  branch: null
+  swift: ORBGRU3S
+    
+- name: "JSC BANK RESERVE FINANCE AND INVESTMENTS"
+  city: "MOSCOW"
+  branch: null
+  swift: RIIRRUMM
+    
+- name: "JSC BANK SOVETSKY"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: SOZARU21MMM
+    
+- name: "JSC BANK SOVETSKY"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: SOZARU2P
+    
+- name: "JSC CB POIDEM"
+  city: "MOSCOW"
+  branch: null
+  swift: INCBRU55
+    
+- name: "JSC CDBBANK"
+  city: "KRASNODAR"
+  branch: null
+  swift: IBKKRU22
+    
+- name: "JSC ECONOMBANK"
+  city: "BALAKOVO"
+  branch: BALAKOVO BRANCH
+  swift: BRECRU21BLK
+    
+- name: "JSC ECONOMBANK"
+  city: "BALASHOV"
+  branch: BALASHOV BRANCH
+  swift: BRECRU21BLH
+    
+- name: "JSC ECONOMBANK"
+  city: "ENGELS"
+  branch: ENGELS BRANCH
+  swift: BRECRU21ENG
+    
+- name: "JSC ECONOMBANK"
+  city: "MARX"
+  branch: MARX BRANCH
+  swift: BRECRU21MRX
+    
+- name: "JSC ECONOMBANK"
+  city: "RTISCHEVO"
+  branch: RTISCHEVO BRANCH
+  swift: BRECRU21RTI
+    
+- name: "JSC ECONOMBANK"
+  city: "SARATOV"
+  branch: LENINSKY BRANCH
+  swift: BRECRU21LEN
+    
+- name: "JSC ECONOMBANK"
+  city: "SARATOV"
+  branch: OCTYABRSKY BRANCH
+  swift: BRECRU21OCT
+    
+- name: "JSC ECONOMBANK"
+  city: "SARATOV"
+  branch: VOLZHSKY BRANCH
+  swift: BRECRU21VLZ
+    
+- name: "JSC ECONOMBANK"
+  city: "SARATOV"
+  branch: ZAVODSKOY BRANCH
+  swift: BRECRU21ZAV
+    
+- name: "JSC ECONOMBANK"
+  city: "SARATOV"
+  branch: null
+  swift: BRECRU2S
+    
+- name: "JSC ECONOMBANK"
+  city: "STEPNOE"
+  branch: STEPNOE BRANCH
+  swift: BRECRU21STE
+    
+- name: "JSC ECONOMBANK"
+  city: "VOLSK"
+  branch: VOLSK BRANCH
+  swift: BRECRU21VLS
+    
+- name: "JSC FOREBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: FORARUMM
+    
+- name: "JSC GENBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: GEOORUMM
+    
+- name: "JSC IRCOL"
+  city: "MOSCOW"
+  branch: null
+  swift: IRCORUM1
+    
+- name: "JSC 'IT BANK'"
+  city: "OMSK"
+  branch: null
+  swift: ITBNRUSM
+    
+- name: "JSC JSCB 'INTERNATIONAL FINANCIAL CLUB'"
+  city: "MOSCOW"
+  branch: null
+  swift: ICFIRUMM
+    
+- name: "JSC KOSHELEV-BANK"
+  city: "SAMARA"
+  branch: null
+  swift: KOSHRU3S
+    
+- name: "JSC MC BANK RUS"
+  city: "MOSCOW"
+  branch: null
+  swift: CAIWRUMM
+    
+- name: "JSC MIR BUSINESS BANK"
+  city: "ASTRAKHAN"
+  branch: ASTRAKHAN BRANCH
+  swift: MRBBRUMMAST
+    
+- name: "JSC MIR BUSINESS BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: MRBBRUMM
+    
+- name: "JSC MOSCOMBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: CBMWRUMM
+    
+- name: "JSC NATIONAL RESERVE BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: NARNRUMM
+    
+- name: "JSC NORDEA BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: NDEARUMM
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "ABAKAN"
+  branch: KHAKASSKY BRANCH
+  swift: RUAGRUM1037
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "ARKHANGELSK"
+  branch: ARKHANGELSKY BRANCH
+  swift: RUAGRUM1048
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "BARNAUL"
+  branch: ALTAYSKY BRANCH 
+  swift: RUAGRUM1018
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "BELGOROD"
+  branch: BELGORODSKY BRANCH
+  swift: RUAGRUM1030
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "BLAGOVESHCHENSK"
+  branch: AMURSKY BRANCH 
+  swift: RUAGRUM1023
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "BRYANSK"
+  branch: BRYANSKY BRANCH
+  swift: RUAGRUM1069
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "CHEBOKSARY"
+  branch: CHUVASHSKY BRANCH
+  swift: RUAGRUM1011
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "CHELYABINSK"
+  branch: CHELYABINSKY BRANCH
+  swift: RUAGRUM1078
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "CHERKESSK"
+  branch: KARACHAEVO-CHERKESSKY BRANCH
+  swift: RUAGRUM1031
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "CHITA"
+  branch: CHITINSKY BRANCH
+  swift: RUAGRUM1047
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "EKATERINBURG"
+  branch: SVERDLOVSKY BRANCH
+  swift: RUAGRUM1073
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "GATCHINA"
+  branch: ST.PETERSBURGSKY BRANCH
+  swift: RUAGRUM1035
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "GROZNY"
+  branch: CHECHENSKY BRANCH
+  swift: RUAGRUM1034
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "IRKUTSK"
+  branch: IRKUTSKY BRANCH
+  swift: RUAGRUM1066
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "IVANOVO"
+  branch: IVANOVSKY BRANCH
+  swift: RUAGRUM1038
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "IZHEVSK"
+  branch: UDMURTSKY BRANCH
+  swift: RUAGRUM1028
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "JOSHKAR-OLA"
+  branch: MARIYSKY BRANCH
+  swift: RUAGRUM1016
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KALININGRAD"
+  branch: KALININGRADSKY BRANCH
+  swift: RUAGRUM1055
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KALUGA"
+  branch: KALUZHSKY BRANCH
+  swift: RUAGRUM1027
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KAZAN"
+  branch: TATARSTANSKY BRANCH
+  swift: RUAGRUM1067
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KEMEROVO"
+  branch: KEMEROVSKY BRANCH
+  swift: RUAGRUM1056
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KHABAROVSK"
+  branch: KHABAROVSKY BRANCH
+  swift: RUAGRUM1075
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KIROV"
+  branch: KIROVSKY BRANCH
+  swift: RUAGRUM1022
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KOSTROMA"
+  branch: KOSTROMSKOY BRANCH
+  swift: RUAGRUM1051
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KRASNODAR"
+  branch: KRASNODARSKY BRANCH
+  swift: RUAGRUM1003
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSKY BRANCH
+  swift: RUAGRUM1049
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KURGAN"
+  branch: KURGANSKY BRANCH
+  swift: RUAGRUM1045
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KURSK"
+  branch: KURSKY BRANCH
+  swift: RUAGRUM1032
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "KYZYL"
+  branch: TUVINSKY BRANCH
+  swift: RUAGRUM1057
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "LIPETSK"
+  branch: LIPETSKIY BRANCH
+  swift: RUAGRUM1024
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "MAGADAN"
+  branch: MAGADANSKY BRANCH
+  swift: RUAGRUM1040
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "MAKHACHKALA"
+  branch: DAGESTANSKY BRANCH
+  swift: RUAGRUM1004
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "MAYKOP"
+  branch: ADYGEYSKY BRANCH 
+  swift: RUAGRUM1012
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "MOSCOW"
+  branch: CENTRE CORPORATE BUSINESS BRANCH
+  swift: RUAGRUM1079
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: RUAGRUM1063
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RUAGRUMM
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "NALCHIK"
+  branch: KABARDINO-BALKARSKY BRANCH
+  swift: RUAGRUM1044
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "NAZRAN"
+  branch: INGUSHSKY BRANCH
+  swift: RUAGRUM1042
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHEGORODSKY BRANCH
+  swift: RUAGRUM1039
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "NOVGOROD"
+  branch: NOVGORODSKY BRANCH
+  swift: RUAGRUM1008
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSKY BRANCH
+  swift: RUAGRUM1025
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "OMSK"
+  branch: OMSKY BRANCH
+  swift: RUAGRUM1009
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "OREL"
+  branch: ORLOVSKY BRANCH 
+  swift: RUAGRUM1010
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "ORENBURG"
+  branch: ORENBURGSKY BRANCH
+  swift: RUAGRUM1005
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "PENZA"
+  branch: PENZENSKY BRANCH
+  swift: RUAGRUM1015
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "PERM"
+  branch: PERMSKY BRANCH
+  swift: RUAGRUM1076
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "PETROPAVLOVSK-KAMCHATSKI"
+  branch: KAMCHATSKY BRANCH
+  swift: RUAGRUM1053
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "PETROZAVODSK"
+  branch: KARELSKY BRANCH
+  swift: RUAGRUM1021
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "PSKOV"
+  branch: PSKOVSKY BRANCH
+  swift: RUAGRUM1068
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOVSKY BRANCH
+  swift: RUAGRUM1007
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "RYAZAN"
+  branch: RYAZANSKY BRANCH
+  swift: RUAGRUM1058
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "SAMARA"
+  branch: SAMARSKY BRANCH
+  swift: RUAGRUM1013
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "SARANSK"
+  branch: MORDOVSKY BRANCH
+  swift: RUAGRUM1020
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "SARATOV"
+  branch: SARATOVSKY BRANCH
+  swift: RUAGRUM1052
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "SMOLENSK"
+  branch: SMOLENSKY BRANCH
+  swift: RUAGRUM1043
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "STAVROPOL"
+  branch: STAVROPOLSKY BRANCH
+  swift: RUAGRUM1006
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "SYKTYVKAR"
+  branch: KOMI BRANCH
+  swift: RUAGRUM1074
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "TAMBOV"
+  branch: TAMBOVSKY BRANCH
+  swift: RUAGRUM1002
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "TOMSK"
+  branch: TOMSKY BRANCH
+  swift: RUAGRUM1064
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "TULA"
+  branch: TULSKY BRANCH
+  swift: RUAGRUM1001
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "TVER"
+  branch: TVERSKOJ BRANCH
+  swift: RUAGRUM1019
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "TYUMEN"
+  branch: TYOMENSKY BRANCH
+  swift: RUAGRUM1071
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "UFA"
+  branch: BASHKIRSKY BRANCH
+  swift: RUAGRUM1062
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "ULAN-UDE"
+  branch: BURYATSKY BRANCH
+  swift: RUAGRUM1059
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "ULYANOVSK"
+  branch: ULYANOVSKY BRANCH
+  swift: RUAGRUM1065
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "VLADIKAVKAZ"
+  branch: SEVERO-OSETINSKY BRANCH
+  swift: RUAGRUM1026
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "VLADIMIR"
+  branch: VLADIMIRSKY BRANCH
+  swift: RUAGRUM1041
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "VLADIVOSTOK"
+  branch: PRIMORSKY BRANCH
+  swift: RUAGRUMM054
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "VOLGOGRAD"
+  branch: VOLGOGRADSKY BRANCH
+  swift: RUAGRUM1046
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "VORONEZH"
+  branch: VORONEZHSKY BRANCH
+  swift: RUAGRUM1014
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "YAKUTSK"
+  branch: YAKUTSKY BRANCH
+  swift: RUAGRUM1060
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "YAROSLAVL"
+  branch: YAROSLAVSKY BRANCH
+  swift: RUAGRUM1061
+    
+- name: "JSC ROSSELKHOZBANK"
+  city: "YUZHNO-SAKHALINSK"
+  branch: SAKHALINSKY BRANCH
+  swift: RUAGRUM1072
+    
+- name: "JSC RUSSIAN BANK FOR SMALL AND MEDIUM ENTERPRISES SUPPORT"
+  city: "MOSCOW"
+  branch: null
+  swift: RUDVRUMM
+    
+- name: "JSC SEVASTOPOLSKIY MORSKOY  BANK - MOSCOW"
+  city: "MOSCOW"
+  branch: null
+  swift: MORKRUMM
+    
+- name: "JSC SUMITOMO MITSUI RUS BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SMBCRUMM
+    
+- name: "JSC TAATTA BANK"
+  city: "KANSK"
+  branch: SIBERIAN BRANCH
+  swift: TAAARU81SIB
+    
+- name: "JSC TAATTA BANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: TAAARU81MSK
+    
+- name: "JSC TAATTA BANK"
+  city: "ROSTOV-NA-DONU"
+  branch: ROSTOV BRANCH
+  swift: TAAARU81RND
+    
+- name: "JSC TAATTA BANK"
+  city: "YAKUTSK"
+  branch: null
+  swift: TAAARU8Y
+    
+- name: "JSC TELECOMMERCE BANK"
+  city: "TULA"
+  branch: null
+  swift: TELBRU22
+    
+- name: "JSC TROIKA-D BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SBLLRUMM
+    
+- name: "JSC VOCBANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: VORCRU2N
+    
+- name: "JSC VTB CAPITAL"
+  city: "MOSCOW"
+  branch: CUSTODY
+  swift: VTCARUMMCUS
+    
+- name: "JSC VTB CAPITAL"
+  city: "MOSCOW"
+  branch: TECHNICAL BIC
+  swift: VTCARUMMMT9
+    
+- name: "JSC VTB CAPITAL"
+  city: "MOSCOW"
+  branch: null
+  swift: VTCARUMM
+    
+- name: "JSCB FORSHTADT"
+  city: "ORENBURG"
+  branch: null
+  swift: FORHRU33
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "ARKHANGELSK"
+  branch: REGIONAL DEPARTMENT OFFICE IN THE CITY OF ARKHANGELSK
+  swift: MINNRUM1032
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "ASTRAKHAN"
+  branch: REGIONAL DEPARTMENT OFFICE IN THE CITY OF ASTRAKHAN
+  swift: MINNRUM1047
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "BELGOROD"
+  branch: BELGORODSKOE REGIONAL DEPARTMENT OFFICE
+  swift: MINNRUM1038
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "BRYANSK"
+  branch: BRYANSKOE REGIONAL DEPARTMENT OFFICE
+  swift: MINNRUM1050
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "BUDENOVSK"
+  branch: REGIONAL DEPARTMENT OFFICE IN THE CITY OF BUDENOVSK
+  swift: MINNRUM1046
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "CHERKESSK"
+  branch: REGIONAL DEPARTMENT OFFICE IN THE CITY OF CHERKESSK
+  swift: MINNRUM1042
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "GUS-KHRUSTALNY"
+  branch: GUS-KHRUSTALNY OFFICE
+  swift: MINNRUM1028
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "IVANOVO"
+  branch: IVANOVSKOE REGIONAL DEPARTMENT OFFICE
+  swift: MINNRUM1055
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "KALUGA"
+  branch: KALUZSKOE REGIONAL DEPARTMENT OFFICE
+  swift: MINNRUM1052
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "KOLCHUGINO"
+  branch: KOLCHUGINO OFFICE
+  swift: MINNRUM1029
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "KOVROV"
+  branch: KOVROV OFFICE
+  swift: MINNRUM1027
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "KRASNODAR"
+  branch: REGIONAL DEPARTMENT OFFICE IN THE CITY OF KRASNODAR
+  swift: MINNRUM1051
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "LIPETSK"
+  branch: LIPETSKOE REGIONAL DEPARTMENT OFFICE
+  swift: MINNRUM1054
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MAYKOP"
+  branch: REGIONAL DEPARTMENT OFFICE IN THE CITY OF MAYKOP
+  swift: MINNRUM1057
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: HEAD OFFICE
+  swift: MINNRUMM
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: KIEVSKIY OFFICE
+  swift: MINNRUM1006
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: KIROVSKIY OFFICE
+  swift: MINNRUM1004
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: KUIBYSHEVSKIY OFFICE
+  swift: MINNRUM1018
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: KUNTSEVSKIY OFFICE
+  swift: MINNRUM1016
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: LENINGRADSKIY OFFICE
+  swift: MINNRUM1001
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: LUBLINSKIY OFFICE
+  swift: MINNRUM1008
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: MOSCOW AREA REGIONAL DEPARTMENT
+  swift: MINNRUM1005
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: MOSCOW CITY REGIONAL DEPARTMENT
+  swift: MINNRUM1007
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: MOSKVORETZKIY OFFICE
+  swift: MINNRUM1002
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: OKTYABR'SKIY OFFICE
+  swift: MINNRUM1010
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: OPERATIONS DEPARTMENT
+  swift: MINNRUM1099
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: PEROVSKIY OFFICE
+  swift: MINNRUM1014
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: PERVOMAYSKIY OFFICE
+  swift: MINNRUM1013
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: PROLETARSKIY OFFICE
+  swift: MINNRUM1020
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: PROMYSHLENNOE OPERU OFFICE
+  swift: MINNRUM1009
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: SOKOLNICHESKIY OFFICE
+  swift: MINNRUM1003
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: TAGANSKIY OFFICE
+  swift: MINNRUM1012
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: TRANSPORTNY OFFICE
+  swift: MINNRUM1011
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: TUSHINSKIY OFFICE
+  swift: MINNRUM1019
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: VELOZAVODSKIY OFFICE
+  swift: MINNRUM1017
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MOSCOW"
+  branch: VOLGOGRADSKIY OFFICE
+  swift: MINNRUM1015
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "MUROM"
+  branch: MUROM OFFICE
+  swift: MINNRUM1030
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "NALCHIK"
+  branch: REGIONAL DEPARTMENT OFFICE IN THE CITY OF NALCHIK
+  swift: MINNRUM1043
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "NAR'YAN-MAR"
+  branch: NAR'YAN-MARSKIY OFFICE
+  swift: MINNRUM1035
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: MINNRUM1056
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "NOVODVINSK"
+  branch: NOVODVINSKIY OFFICE
+  swift: MINNRUM1033
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "ORYOL"
+  branch: 'ORLOVSKOE REGIONAL DEPARTMENT' OFFICE
+  swift: MINNRUM1040
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "RADUZHNY"
+  branch: RADUZHNY OFFICE
+  swift: MINNRUM1031
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOVSKOE REGIONAL DEPARTMENT
+  swift: MINNRUM1048
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "SEVERODVINSK"
+  branch: SEVERODVINSKIY OFFICE
+  swift: MINNRUM1034
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: MINNRUM1036
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "STAVROPOL"
+  branch: SEVERO-KAVKAZSKOE REGIONAL DEPARTMENT
+  swift: MINNRUM1045
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "TULA"
+  branch: TULSKOE REGIONAL DEPARTMENT OFFICE
+  swift: MINNRUM1049
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "VLADIKAVKAZ"
+  branch: REGIONAL DEPARTMENT OFFICE IN THE CITY OF VLADIKAVKAZ
+  swift: MINNRUM1044
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "VLADIMIR"
+  branch: VLADIMIRSKOE REGIONAL DEPARTMENT
+  swift: MINNRUM1026
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "VOLGOGRAD"
+  branch: REGIONAL DEPARTMENT OFFICE IN THE CITY OF VOLGOGRAD
+  swift: MINNRUM1021
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "VORONEZH"
+  branch: VORONEZHSKOE REGIONAL DEPARTMENT OFFICE
+  swift: MINNRUM1039
+    
+- name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
+  city: "YAROSLAVL"
+  branch: YAROSLAVSKOE REGIONAL DEPARTMENT OFFICE
+  swift: MINNRUM1041
+    
+- name: "JSCB NASH DOM"
+  city: "MOSCOW"
+  branch: null
+  swift: NDOMRUMM
+    
+- name: "JSCB NATIONAL BANK OF MUTUAL CREDIT"
+  city: "MOSCOW"
+  branch: null
+  swift: NAMDRUMM
+    
+- name: "JSCB 'YAPI KREDI BANK MOSCOW' (JSC)"
+  city: "MOSCOW"
+  branch: null
+  swift: YKBMRUMM
+    
+- name: "JSCIB KURGAN"
+  city: "KURGAN"
+  branch: null
+  swift: KURGRU4K
+    
+- name: "KAMA COMMERCIAL BANK"
+  city: "NABEREZHNYE CHELNY"
+  branch: null
+  swift: KACORU21
+    
+- name: "KAMCHATKA, OOO KOMMERCHESKIJ BANK"
+  city: "PETROPAVLOVSK-KAMCHATSKI"
+  branch: null
+  swift: KAMHRUP1
+    
+- name: "KAMCHATKOMAGROPROMBANK PJSC"
+  city: "PETROPAVLOVSK-KAMCHATSKI"
+  branch: null
+  swift: KAMCRUPP
+    
+- name: "KAMSKIY GORIZONT"
+  city: "NABEREZHNYE CHELNY"
+  branch: null
+  swift: KAGRRU21
+    
+- name: "KASKAD"
+  city: "MOSCOW"
+  branch: null
+  swift: KASKRUM1
+    
+- name: "KB KETOVSKIJ"
+  city: "KETOVO"
+  branch: null
+  swift: KETORU41
+    
+- name: "KB ''PSIB'' (OOO)"
+  city: "MAKHACHKALA"
+  branch: null
+  swift: PSOORU21
+    
+- name: "KEB HNB RUS LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: KOEXRUMM
+    
+- name: "KHAKAS MUNICIPAL BANK CO.LTD"
+  city: "ABAKAN"
+  branch: null
+  swift: KHMURU55
+    
+- name: "KIT FINANCE LTD"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: KFIERU21
+    
+- name: "KLIENTSKY BANK"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSK BRANCH
+  swift: KLKORUM1KRS
+    
+- name: "KLIENTSKY BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: KLKORUM1
+    
+- name: "KOLTSO URALA KB OOO"
+  city: "EKATERINBURG"
+  branch: null
+  swift: KLUCRU4E
+    
+- name: "KOSTROMASELKOMBANK"
+  city: "KOSTROMA"
+  branch: null
+  swift: KOSTRU21
+    
+- name: "KRAINIY SERVER BANK"
+  city: "PALANA"
+  branch: null
+  swift: KRSERUP1
+    
+- name: "KRANBANK ZAO"
+  city: "IVANOVO"
+  branch: null
+  swift: KRANRU21
+    
+- name: "KRANBANK ZAO"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: KRANRU21MSW
+    
+- name: "KREMLYOVSKIY COMMERCIAL BANK LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: KREMRUMM
+    
+- name: "KRONA-BANK"
+  city: "IRKUTSK"
+  branch: null
+  swift: TRUKRU61
+    
+- name: "KRYLOVSKY BANK"
+  city: "KRASNODAR"
+  branch: null
+  swift: KRYLRU21
+    
+- name: "KRYLOVSKY BANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: KRYLRU21MSK
+    
+- name: "KS BANK"
+  city: "SARANSK"
+  branch: null
+  swift: KSBARU21
+    
+- name: "KUBANSKIJ UNIVERSALNYJ BANK"
+  city: "KRASNODAR"
+  branch: null
+  swift: KUUNRU21
+    
+- name: "KUBANTORGBANK ZAO"
+  city: "KRASNODAR"
+  branch: null
+  swift: KUZARU21
+    
+- name: "KURSKPROMBANK PAO"
+  city: "KURSK"
+  branch: null
+  swift: KURSRU22
+    
+- name: "KUZBASSHIMBANK"
+  city: "KEMEROVO"
+  branch: null
+  swift: KUZSRU51
+    
+- name: "KUZNETSKY BRANCH OF THE SAVINGS BANK"
+  city: "NOVOKUZNETSK"
+  branch: null
+  swift: KRSBRU51
+    
+- name: "KUZNETSKY MOST BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: INIBRUMM
+    
+- name: "LC CBCA"
+  city: "ABAKAN"
+  branch: null
+  swift: BBCARU51
+    
+- name: "LC CBCA"
+  city: "SOCHI"
+  branch: SOCHI BRANCH
+  swift: BBCARU51SCH
+    
+- name: "LEADER"
+  city: "MOSCOW"
+  branch: null
+  swift: VMTNRUMM
+    
+- name: "LEGPROMBANK COMMERCIAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: CLIDRUM1
+    
+- name: "LENSTROYMATERIALY BROKERAGE AO"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: LEBRRU21
+    
+- name: "LIGHTBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: LIGHRUMM
+    
+- name: "LIMITED LIABILITY COMPANY MOSCOW INVESTMENT BANK DALENA"
+  city: "MOSCOW"
+  branch: null
+  swift: DLNBRUMM
+    
+- name: "LIMITED LIABILITY COMPANY OF COMMERCIAL BANK ROSTFINANCE"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: ROSFRU2A
+    
+- name: "LIPETSKCOMBANK PJSC"
+  city: "LIPETSK"
+  branch: null
+  swift: LIPERU2L
+    
+- name: "LIPETSKCOMBANK PJSC"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: LIPERU21002
+    
+- name: "LIPETSKOBLBANK"
+  city: "LIPETSK"
+  branch: null
+  swift: LIPKRU21
+    
+- name: "LIPETSKOBLBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: LIPKRU21MOS
+    
+- name: "LL PROMTRANSBANK"
+  city: "UFA"
+  branch: null
+  swift: LLPRRU21
+    
+- name: "LLC CB 'AKSONBANK'"
+  city: "KOSTROMA"
+  branch: null
+  swift: AKSORU2K
+    
+- name: "LLC CB KREDIT EXPRESS"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: LLCRRU2R
+    
+- name: "LLC 'CHINA CONSTRUCTION BANK'"
+  city: "MOSCOW"
+  branch: null
+  swift: PCBCRUMM
+    
+- name: "LLC CREDIT SUISSE SECURITIES (MOSCOW)"
+  city: "MOSCOW"
+  branch: null
+  swift: CRESRUMS
+    
+- name: "LLC ''ZEMSKY BANK''"
+  city: "SYZRAN"
+  branch: null
+  swift: JCZERU31
+    
+- name: "LLC. SETTLEMENT NON-BANK CREDIT ORGANIZATION 'WALLET ONE'"
+  city: "MOSCOW"
+  branch: null
+  swift: LSNCRUM1
+    
+- name: "LLS SOUTH REGIONAL BANK"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: URBARU2R
+    
+- name: "LOCKO BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: CLOKRUMM
+    
+- name: "LOGOS OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: LGOORUM1
+    
+- name: "LONG TERM CREDIT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: LCJCRUM1
+    
+- name: "MAKSIMUM"
+  city: "VOLGODONSK"
+  branch: null
+  swift: MAKMRU21
+    
+- name: "MARITIME BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: MJSBRUMM
+    
+- name: "MARITIME BANK"
+  city: "NOVOROSSIYSK"
+  branch: NOVOROSSIYSK BRANCH
+  swift: MJSBRUM1NVR
+    
+- name: "MARITIME BANK"
+  city: "ST. PETERSBURG"
+  branch: ST.PETERSBURG BRANCH
+  swift: MJSBRUM1SPB
+    
+- name: "MARITIME BANK"
+  city: "VLADIVOSTOK"
+  branch: VLADIVOSTOK BRANCH
+  swift: MJSBRUM1VLK
+    
+- name: "MARITIME BANK BRANCH OF KALININGRAD"
+  city: "KALININGRAD"
+  branch: null
+  swift: MABLRU21
+    
+- name: "MASS MEDIA BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: JCMMRUM1
+    
+- name: "MCB DOM-BANK"
+  city: "DOMODEDOVO"
+  branch: null
+  swift: DOMORUM1
+    
+- name: "MCIB BANK LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: ICICRUMM
+    
+- name: "MEDINVESTBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: MEDNRUM1
+    
+- name: "MERCEDES-BENZ BANK RUS"
+  city: "MOSCOW"
+  branch: null
+  swift: DCBRRUM1
+    
+- name: "METALLURG COMMERCIAL BANK LTD."
+  city: "MOSCOW"
+  branch: null
+  swift: MECCRUM1
+    
+- name: "MEZHTORGBANK ZAO"
+  city: "MOSCOW"
+  branch: null
+  swift: MEOORUM1
+    
+- name: "MFBANK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: MFOORUM1
+    
+- name: "MICEX VOLGA REGION ZAO"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: NNCSRU21
+    
+- name: "MICEX-FAR EAST REGIONAL EXCHANGE CENTER"
+  city: "VLADIVOSTOK"
+  branch: null
+  swift: XAPIRU81
+    
+- name: "'MOBILBANK' OAO"
+  city: "IZHEVSK"
+  branch: null
+  swift: MOBLRU31
+    
+- name: "'MOBILBANK' OAO"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: MOBLRU31MSC
+    
+- name: "MOBIS MODULE CIS, LLC"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: HYMORU21
+    
+- name: "MOBIS PARTS CIS, LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: HYMORUM1
+    
+- name: "'MODERN STANDARDS OF BUSINESS' COMMERCIAL BANK LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: STMORUM1
+    
+- name: "MODULBANK"
+  city: "KOSTROMA"
+  branch: null
+  swift: MODBRU22
+    
+- name: "MORDOVSOTSBANK"
+  city: "SARANSK"
+  branch: null
+  swift: MORDRU21
+    
+- name: "MORGAN STANLEY BANK"
+  city: "MOSCOW"
+  branch: CONVERSIONS AND CORPORATE ACTIONS
+  swift: MSBKRUMMCOR
+    
+- name: "MORGAN STANLEY BANK"
+  city: "MOSCOW"
+  branch: FOREIGN EXCHANGE OFFICE
+  swift: MSBKRUMMFXO
+    
+- name: "MORGAN STANLEY BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: MSBKRUMM
+    
+- name: "MORSKOI COMMERCIAL BANK OF KALININGRAD"
+  city: "KALININGRAD"
+  branch: null
+  swift: MOCKRU21
+    
+- name: "MOSCOW BILL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: JSMBRUMM
+    
+- name: "MOSCOW BILL BANK"
+  city: "PENZA"
+  branch: PENZA BRANCH
+  swift: JSMBRUMMPNZ
+    
+- name: "MOSCOW CENTRAL DEPOSITORY OAO"
+  city: "MOSCOW"
+  branch: null
+  swift: MOCORUM1
+    
+- name: "MOSCOW CENTRAL STOCK EXCHANGE"
+  city: "MOSCOW"
+  branch: null
+  swift: XMOSRUM1
+    
+- name: "MOSCOW CLEARING CENTRE"
+  city: "MOSCOW"
+  branch: null
+  swift: MOCCRUMM
+    
+- name: "MOSCOW INTERBANK CURRENCY EXCHANGE (MICEX)"
+  city: "MOSCOW"
+  branch: null
+  swift: XMICRUM1
+    
+- name: "MOSCOW NEFTECHEMICAL BANK OAO"
+  city: "MOSCOW"
+  branch: null
+  swift: MNHBRUMM
+    
+- name: "MOSCOW-PARIS BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: MPSORUMM
+    
+- name: "MOSCOWSKO-URALSKY JOINT-STOCK COMMERCIAL BANK     (JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: MOSRRUM1
+    
+- name: "MOSKVA-CITY BANK OAO"
+  city: "MOSCOW"
+  branch: null
+  swift: MOCSRUM1
+    
+- name: "MOSOBLBANK"
+  city: "ARKHANGELSK"
+  branch: BRANCH NO.5
+  swift: MOBKRUM1005
+    
+- name: "MOSOBLBANK"
+  city: "ASTRAKHAN"
+  branch: BRANCH NO.4
+  swift: MOBKRUM1004
+    
+- name: "MOSOBLBANK"
+  city: "CHEBOKSARY"
+  branch: FILIAL 19
+  swift: MOBKRUM1019
+    
+- name: "MOSOBLBANK"
+  city: "GORNO-ALTAYSK"
+  branch: null
+  swift: MOBKRUM1021
+    
+- name: "MOSOBLBANK"
+  city: "GROZNY"
+  branch: BRANCH NO.10
+  swift: MOBKRUM1010
+    
+- name: "MOSOBLBANK"
+  city: "IZHEVSK"
+  branch: FILIAL 15
+  swift: MOBKRUM1015
+    
+- name: "MOSOBLBANK"
+  city: "KEMEROVO"
+  branch: BRANCH NO.11
+  swift: MOBKRUM1011
+    
+- name: "MOSOBLBANK"
+  city: "KRASNOGORSK"
+  branch: BRANCH NO.13
+  swift: MOBKRUM1013
+    
+- name: "MOSOBLBANK"
+  city: "KURGAN"
+  branch: null
+  swift: MOBKRUM1017
+    
+- name: "MOSOBLBANK"
+  city: "KURSK"
+  branch: BRANCH NO.22
+  swift: MOBKRUM1022
+    
+- name: "MOSOBLBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: MOBKRUMM
+    
+- name: "MOSOBLBANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: BRANCH NO.6
+  swift: MOBKRUM1006
+    
+- name: "MOSOBLBANK"
+  city: "OMSK"
+  branch: BRANCH NO.7
+  swift: MOBKRUM1007
+    
+- name: "MOSOBLBANK"
+  city: "PERM"
+  branch: FILIAL 18
+  swift: MOBKRUM1018
+    
+- name: "MOSOBLBANK"
+  city: "ROSTOV-NA-DONU"
+  branch: BRANCH NO.1
+  swift: MOBKRUM1001
+    
+- name: "MOSOBLBANK"
+  city: "RYAZAN"
+  branch: BRANCH NO.24
+  swift: MOBKRUM1024
+    
+- name: "MOSOBLBANK"
+  city: "SAMARA"
+  branch: BRANCH NO.3
+  swift: MOBKRUM1003
+    
+- name: "MOSOBLBANK"
+  city: "SOCHI"
+  branch: BRANCH NO.23
+  swift: MOBKRUM1023
+    
+- name: "MOSOBLBANK"
+  city: "ST. PETERSBURG"
+  branch: BRANCH NO.14
+  swift: MOBKRUM1014
+    
+- name: "MOSOBLBANK"
+  city: "TYUMEN"
+  branch: BRANCH NO.8
+  swift: MOBKRUM1008
+    
+- name: "MOSOBLBANK"
+  city: "UFA"
+  branch: null
+  swift: MOBKRUM1020
+    
+- name: "MOSOBLBANK"
+  city: "VLADIMIR"
+  branch: FILIAL 16
+  swift: MOBKRUM1016
+    
+- name: "MOSOBLBANK"
+  city: "VLADIVOSTOK"
+  branch: BRANCH NO.12
+  swift: MOBKRUM1012
+    
+- name: "MOSOBLBANK"
+  city: "YAKUTSK"
+  branch: BRANCH NO.9
+  swift: MOBKRUM1009
+    
+- name: "MOSOBLINVESTBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: MOSLRUM1
+    
+- name: "'MOSTRANSBANK' AO"
+  city: "MOSCOW"
+  branch: null
+  swift: MOTRRUM1
+    
+- name: "MTI-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: MTIBRUMM
+    
+- name: "MTS BANK"
+  city: "EKATERINBURG"
+  branch: URALSKY
+  swift: MBRDRUM1EKT
+    
+- name: "MTS BANK"
+  city: "KHABAROVSK"
+  branch: FAR EASTERN BRANCH
+  swift: MBRDRUMMKHA
+    
+- name: "MTS BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: MBRDRUMM
+    
+- name: "MTS BANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSKY
+  swift: MBRDRUM1NVS
+    
+- name: "MTS BANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON
+  swift: MBRDRUM1RND
+    
+- name: "MTS BANK"
+  city: "ST. PETERSBURG"
+  branch: ST.PETERSBURG
+  swift: MBRDRUM1SPB
+    
+- name: "MTS BANK"
+  city: "STAVROPOL"
+  branch: MBRD STAVROPOL BRANCH
+  swift: MBRDRUM1STV
+    
+- name: "MTS BANK"
+  city: "UFA"
+  branch: UFIMSKY
+  swift: MBRDRUM1UFA
+    
+- name: "MUNICIPAL KAMCHATPROFITBANK ZAO"
+  city: "PETROPAVLOVSK-KAMCHATSKI"
+  branch: null
+  swift: MUKZRUP1
+    
+- name: "MUNICIPALNYJ KOMMERCHESKIJ BANK"
+  city: "KALININGRAD"
+  branch: null
+  swift: MUNKRU21
+    
+- name: "MURMANSK SOCIAL COMMERCIAL BANK OAO"
+  city: "MURMANSK"
+  branch: null
+  swift: MSCJRU21
+    
+- name: "MURMANSK TRANSFER CENTRE"
+  city: "MURMANSK"
+  branch: null
+  swift: MTEORU21
+    
+- name: "MVS BANK"
+  city: "IZBERBASH"
+  branch: null
+  swift: MVSVRU21
+    
+- name: "NADEZHNOST ZASCB OAO"
+  city: "KURGAN"
+  branch: null
+  swift: NAZARU41
+    
+- name: "NADYOZHNYJ BANK"
+  city: "MAGADAN"
+  branch: null
+  swift: NADYRU91
+    
+- name: "NADYOZHNYJ BANK"
+  city: "MOSCOW"
+  branch: MOSKOVSKIJ FILIAL
+  swift: NADYRU91MO1
+    
+- name: "NARODNY DOVERITELNY BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: NADORUMM
+    
+- name: "NATIONAL BANK TRUST"
+  city: "BARNAUL"
+  branch: BARNAUL BRANCH
+  swift: NBTRRUM1BAR
+    
+- name: "NATIONAL BANK TRUST"
+  city: "CHELYABINSK"
+  branch: CHELYABINSK BRANCH
+  swift: NBTRRUM1CHL
+    
+- name: "NATIONAL BANK TRUST"
+  city: "CHEREPOVETS"
+  branch: CHEREPOVETS BRANCH
+  swift: NBTRRUM1CHV
+    
+- name: "NATIONAL BANK TRUST"
+  city: "KHABAROVSK"
+  branch: KHABAROVSK BRANCH
+  swift: NBTRRUM1KHA
+    
+- name: "NATIONAL BANK TRUST"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: NBTRRUMMMOS
+    
+- name: "NATIONAL BANK TRUST"
+  city: "MOSCOW"
+  branch: null
+  swift: NBTRRUMM
+    
+- name: "NATIONAL BANK TRUST"
+  city: "PYATIGORSK"
+  branch: PIATIGORSK BRANCH
+  swift: NBTRRUM1PYT
+    
+- name: "NATIONAL BANK TRUST"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: NBTRRUM1ROS
+    
+- name: "NATIONAL BANK TRUST"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: NBTRRUM1SPB
+    
+- name: "NATIONAL BANK TRUST"
+  city: "ULYANOVSK"
+  branch: ULIANOVSK BRANCH
+  swift: NBTRRUM1ULY
+    
+- name: "NATIONAL BANK TRUST"
+  city: "VLADIMIR"
+  branch: VLADIMIR BRANCH
+  swift: NBTRRUM1VLA
+    
+- name: "NATIONAL CLEARING BANK"
+  city: "ELISTA"
+  branch: null
+  swift: NACLRU21
+    
+- name: "NATIONAL FACTORING COMPANY JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: NFCBRUMM
+    
+- name: "NATIONAL INVESTMENT BANK"
+  city: "SAMARA"
+  branch: null
+  swift: NINSRU31
+    
+- name: "NATIONAL LAND INDUSTRIAL BANK"
+  city: "BIYSK"
+  branch: null
+  swift: NLAIRU51
+    
+- name: "NATIONAL REGISTRY COMPANY, THE"
+  city: "MOSCOW"
+  branch: null
+  swift: NARCRUM1
+    
+- name: "NATIONAL SETTLEMENT DEPOSITORY"
+  city: "MOSCOW"
+  branch: null
+  swift: MICURUMM
+    
+- name: "NATIONAL SETTLEMENT DEPOSITORY (DEPOSITORY OFFICE)"
+  city: "MOSCOW"
+  branch: null
+  swift: NADCRU21
+    
+- name: "NATIONAL SETTLEMENT DEPOSITORY (DEPOSITORY OFFICE)"
+  city: "MOSCOW"
+  branch: null
+  swift: NADCRUMM
+    
+- name: "NATIONAL STANDARD BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: CBNNRUMM
+    
+- name: "NATIONAL STANDARD BANK"
+  city: "NOVOROSSIYSK"
+  branch: NOVOROSSIYSK BRANCH
+  swift: CBNNRUM1NVR
+    
+- name: "NATIONAL STANDARD BANK"
+  city: "STARYY-OSKOL"
+  branch: BELGORODSKIY BRANCH
+  swift: CBNNRUM1GUB
+    
+- name: "NATIXIS BANK JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: NATXRUMM
+    
+- name: "NATSINVESTPROMBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: NIIZRUMM
+    
+- name: "NBC CH SCIEX JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: NBSXRUMM
+    
+- name: "NBCO BRINKS"
+  city: "MOSCOW"
+  branch: null
+  swift: BRNSRUM1
+    
+- name: "NBD-BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: NBDBRU2N
+    
+- name: "NBFC MOBILE CARD LLC"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: NMCLRU21
+    
+- name: "NBK-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: HSBKRU4C
+    
+- name: "NCO RUSSIAN FINANCIAL SOCIETY LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: RUFORUMM
+    
+- name: "NCO WESTERN UNION MT EAST, LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: WUMTRUMM
+    
+- name: "NECKLACE BANK OOO"
+  city: "KRASNODAR"
+  branch: null
+  swift: BNECRUMM023
+    
+- name: "NECKLACE BANK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: BNECRUMM
+    
+- name: "NEFTEPROMBANK"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: INDMRUM1KRD
+    
+- name: "NEFTEPROMBANK"
+  city: "MOSCOW"
+  branch: DONSKOY BRANCH
+  swift: INDMRUM1DON
+    
+- name: "NEFTEPROMBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: INDMRUMM
+    
+- name: "NEFTEPROMBANK"
+  city: "TYUMEN"
+  branch: TYUMEN BRANCH
+  swift: INDMRUM1TMN
+    
+- name: "NETWORK CLEARING HOUSE"
+  city: "KAZAN"
+  branch: null
+  swift: NECHRU2K
+    
+- name: "NEVSKY BANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: NEVSRU2P
+    
+- name: "NEW CREDIT UNION BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: NCRNRUM1
+    
+- name: "NEW INDUSTRIAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: NEIDRUM1
+    
+- name: "'NEW INVESTMENT-COMMERCIAL ORENBURG BANK OF INDUSTRY DEVELOPMENT' OAO"
+  city: "ORENBURG"
+  branch: null
+  swift: JCNIRU51
+    
+- name: "NEW MOSCOW BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: NEWMRUMM
+    
+- name: "NEW SYMBOL BANK AO"
+  city: "MOSCOW"
+  branch: null
+  swift: NSKBRUMM
+    
+- name: "NEW SYMBOL BANK AO"
+  city: "ZHELEZNOVODSK"
+  branch: ZHELEZNOVODSK BRANCH
+  swift: NSKBRUMMKMV
+    
+- name: "NIZHNEVOLZHSKY COMMERCIAL BANK"
+  city: "SARATOV"
+  branch: null
+  swift: NVOARU21
+    
+- name: "NIZHNY NOVGOROD SOCIAL COMMERCIAL BANK GUARANTEE"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: SCBGRU21
+    
+- name: "NK BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: NASPRUMM
+    
+- name: "NKB"
+  city: "MOSCOW"
+  branch: null
+  swift: NKBNRUM1
+    
+- name: "NOKSSBANK"
+  city: "VOLGOGRAD"
+  branch: null
+  swift: NOKSRU2V
+    
+- name: "NON-BANKING CREDIT ORGANIZATION '21 VEK' (LIMITED LIABILITY COMPANY)"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: BXXIRU2P
+    
+- name: "NOOSFERA-BANK"
+  city: "GORNO-ALTAYSK"
+  branch: null
+  swift: NOFRRU21
+    
+- name: "NORTH CREDIT BANK"
+  city: "VOLOGDA"
+  branch: null
+  swift: NOCRRU21
+    
+- name: "NOVIKOMBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: CNOVRUMM
+    
+- name: "NOVIKOMBANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: CNOVRUM1NNG
+    
+- name: "NOVIKOMBANK"
+  city: "ROSTOV-NA-DONU"
+  branch: ROSTOV-NA-DONU BRANCH
+  swift: CNOVRUM1RND
+    
+- name: "NOVIKOMBANK"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: CNOVRUM1SPB
+    
+- name: "NOVIKOMBANK"
+  city: "TOGLIATTI"
+  branch: TOGLIATTI BRANCH
+  swift: CNOVRUM1TLT
+    
+- name: "NOVIKOMBANK"
+  city: "TULA"
+  branch: TULA OPERATIONAL OFFICE
+  swift: CNOVRUM1TUL
+    
+- name: "NOVOBANK"
+  city: "NOVGOROD"
+  branch: null
+  swift: NVOBRU21
+    
+- name: "NOVOPOKROVSKIJ"
+  city: "KRASNODAR"
+  branch: null
+  swift: NOVPRU24
+    
+- name: "NOVOPOKROVSKIJ"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: NOVPRU24MOS
+    
+- name: "NOVYJ VEK BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: NOVKRUM1
+    
+- name: "NS BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: INUORUMM
+    
+- name: "OAO AKB 'NOVATSIYA'"
+  city: "MAYKOP"
+  branch: null
+  swift: NOVIRU21
+    
+- name: "OAO AKB 'STELLA-BANK.'"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: SJSORU21
+    
+- name: "OAO COMMERCIAL BANK 'INDUSTRIAL DEVELOPMENT BANK'"
+  city: "MOSCOW"
+  branch: null
+  swift: IDPJRUM1
+    
+- name: "OAO COMMERCIAL BANK USSURI"
+  city: "KHABAROVSK"
+  branch: null
+  swift: USSURU81
+    
+- name: "OAO JOIN-STOCK SIBERIAN OIL BANK"
+  city: "TYUMEN"
+  branch: null
+  swift: SBNBRU41
+    
+- name: "OAO NIZHNY NOVGOROD COMMERCIAL BANK 'RADIOTEHBANK'"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: ROJSRU21
+    
+- name: "OAO 'SHARE CITY BANK' TAGANROGBANK '"
+  city: "TAGANROG"
+  branch: null
+  swift: TAGARU21
+    
+- name: "OAO 'SPECIALIZED DEPOSITARY' INFINITUM"
+  city: "MOSCOW"
+  branch: null
+  swift: SPEDRUM1
+    
+- name: "OAO SPIRITBANK"
+  city: "TULA"
+  branch: null
+  swift: SPOJRU21
+    
+- name: "OAO TAGILBANK"
+  city: "NIZHNIY TAGIL"
+  branch: null
+  swift: JSCKRU41
+    
+- name: "OAO URALPROMBANK"
+  city: "CHELYABINSK"
+  branch: null
+  swift: UPBCRU41
+    
+- name: "OBJEDINYONNYJ BANK RESPUBLIKI"
+  city: "CHEBOKSARY"
+  branch: null
+  swift: OBJRRU21
+    
+- name: "OBSHIJ BANK, THE JOINT STOCK COMMERCIAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: OJSIRUM1
+    
+- name: "OJSC BANK KUZNETSKY"
+  city: "PENZA"
+  branch: null
+  swift: BKUZRU2P
+    
+- name: "OJSC CB SOLIDARNOST"
+  city: "SAMARA"
+  branch: null
+  swift: SLDRRU3S
+    
+- name: "OJSC 'MVKB'"
+  city: "MOSCOW"
+  branch: null
+  swift: MOJSRUM1
+    
+- name: "OKHABANK OOO"
+  city: "YUZHNO-SAKHALINSK"
+  branch: null
+  swift: OKOORU81
+    
+- name: "ONEBANK"
+  city: "VLADIKAVKAZ"
+  branch: null
+  swift: ADAMRU81
+    
+- name: "OOO ATOH"
+  city: "MOSCOW"
+  branch: null
+  swift: ATCGRUM1
+    
+- name: "OOO CB 'MEGAPOLICE'"
+  city: "CHEBOKSARY"
+  branch: null
+  swift: MEGPRU21
+    
+- name: "OOO CB 'MEGAPOLICE'"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: MEGPRU21MOS
+    
+- name: "OOO CB PREODOLENIE"
+  city: "MOSCOW"
+  branch: null
+  swift: OOPERUM1
+    
+- name: "OOO CBI 'SUDKOMBANK'"
+  city: "MOSCOW"
+  branch: null
+  swift: ICOSRUM1
+    
+- name: "OOO GOLDMAN SACHS"
+  city: "MOSCOW"
+  branch: null
+  swift: GLDMRUMM
+    
+- name: "OOO GOLDMAN SACHS BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: GOLDRUMM
+    
+- name: "OOO KB 'ALTAYKAPITALBANK'"
+  city: "BARNAUL"
+  branch: null
+  swift: ALOORU51
+    
+- name: "OOO MEJPROMBANK PLUS"
+  city: "MOSCOW"
+  branch: null
+  swift: MPLSRUM1
+    
+- name: "OOO MERRILL LYNCH SECURITIES"
+  city: "MOSCOW"
+  branch: CUSTODY SERVICES
+  swift: MLSORUMMCUS
+    
+- name: "OOO MERRILL LYNCH SECURITIES"
+  city: "MOSCOW"
+  branch: null
+  swift: MLSORUMM
+    
+- name: "OOO MERRILL LYNCH SECURITIES"
+  city: "MOSCOW"
+  branch: null
+  swift: MLSORUMMMOS
+    
+- name: "OOO 'NATIONAL COMMERCIAL BANK'"
+  city: "MOSCOW"
+  branch: null
+  swift: NCOBRUM1
+    
+- name: "OOO UBS BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: UBSWRUMM
+    
+- name: "OPEN JOINT STOCK COMPANY COMMERCIAL BANK TORZHOKUNIVERSALBANK"
+  city: "TORZHOK"
+  branch: null
+  swift: TORZRU22
+    
+- name: "OPEN JOINT STOCK COMPANY 'SAUBER BANK'"
+  city: "CHERKESSK"
+  branch: null
+  swift: KAOORU3C
+    
+- name: "OPEN JOINT STOCK COMPANY 'SAUBER BANK'"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG
+  swift: KAOORU3CSPB
+    
+- name: "OPEN JOINT-STOCK COMPANY 'NERUNGRIBANK'"
+  city: "NERYUNGRI"
+  branch: null
+  swift: NCNERU81
+    
+- name: "ORGBANK INTERBANK ASSOCIATION"
+  city: "MOSCOW"
+  branch: null
+  swift: MBOGRUMM
+    
+- name: "ORIENT EXPRESS BANK"
+  city: "BLAGOVESHCHENSK"
+  branch: null
+  swift: DALVRU8X
+    
+- name: "OTKRITIE BROKERAGE HOUSE JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: OTKRRUM1
+    
+- name: "PAO BANK ONEGO"
+  city: "PETROZAVODSK"
+  branch: null
+  swift: ONOARU24
+    
+- name: "PARTNERCAPITALBANK (JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: NCJCRUM1
+    
+- name: "PAYMENT CLEARING HOUSE CLOSE CORPORATION, THE"
+  city: "MOSCOW"
+  branch: null
+  swift: PALHRUM1
+    
+- name: "PERESVET BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: PERSRUMM
+    
+- name: "PERVIY KLIENTSKIY BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: FCBRRUMM
+    
+- name: "PERVOURALSKBANK, JSC"
+  city: "PERVOURALSK"
+  branch: null
+  swift: PVRBRU4V
+    
+- name: "PETERSBURG SETTLEMENT CENTER LIMITED"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: SPRCRU2P
+    
+- name: "PETERSBURG SOCIAL COMMERCIAL BANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: PSOCRU2P
+    
+- name: "PETERSBURG'S CITY BANK, INC."
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: CPGBRU2P
+    
+- name: "PFC-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: PFCBRUM1
+    
+- name: "PIR BANK, LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: BPIRRUMM
+    
+- name: "PJSC AKIBANK"
+  city: "NABEREZHNYE CHELNY"
+  branch: null
+  swift: AKOARU22
+    
+- name: "PJSC BALTINVESTBANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: UNEBRU2P
+    
+- name: "PJSC BANK PRIMORYE"
+  city: "VLADIVOSTOK"
+  branch: null
+  swift: UNEPRU8V
+    
+- name: "PJSC BANK SIAB"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: SAOARU2P
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "ASHA"
+  branch: ASHINSKIJ BRANCH
+  swift: CHLBRU41ASH
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "CHEBARKUL"
+  branch: CHEBARKULSKIJ BRANCH
+  swift: CHLBRU41CHB
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "CHELYABINSK"
+  branch: KALININSKIJ BRANCH
+  swift: CHLBRU41KLN
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "CHELYABINSK"
+  branch: LENINSKIJ BRANCH
+  swift: CHLBRU41LEN
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "CHELYABINSK"
+  branch: METALLURGICHESKIJ BRANCH
+  swift: CHLBRU41MET
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "CHELYABINSK"
+  branch: RUSSIAN ROUBLES OPERATIONS
+  swift: CHLBRU4CRUR
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "CHELYABINSK"
+  branch: SOVETSKIJ BRANCH
+  swift: CHLBRU41SOV
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "CHELYABINSK"
+  branch: TRAKTOROZAVODSKIJ BRANCH
+  swift: CHLBRU41TRK
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "CHELYABINSK"
+  branch: TRANSPORTNYJ BRANCH
+  swift: CHLBRU41TSP
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "CHELYABINSK"
+  branch: null
+  swift: CHLBRU4C
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "EKATERINBURG"
+  branch: CHKALOVSKIJ BRANCH
+  swift: CHLBRU41CHK
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "EMANZHELINSK"
+  branch: EMANZHELINSKIJ BRANCH
+  swift: CHLBRU41EMA
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "KARABASH"
+  branch: KARABASHSKIJ BRANCH
+  swift: CHLBRU41KAR
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "KARTALY"
+  branch: KARTALINSKIJ BRANCH
+  swift: CHLBRU41KRT
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "KASLI"
+  branch: KASLINSKIJ BRANCH
+  swift: CHLBRU41KAS
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "KATAV-IVANOVSK"
+  branch: KATAV-IVANOVSKIJ BRANCH
+  swift: CHLBRU41KIV
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "KOPEYSK"
+  branch: KOPEJSKIJ BRANCH
+  swift: CHLBRU41KOP
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "KORKINO"
+  branch: KORKINSKIJ BRANCH
+  swift: CHLBRU41KOR
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "KYSHTYM"
+  branch: KYSHTYMSKIJ BRANCH
+  swift: CHLBRU4C743
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "MAGNITOGORSK"
+  branch: MAGNITOGORSKIJ BRANCH
+  swift: CHLBRU4C746
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "MIASS"
+  branch: ZOLOTAYA DOLINA BRANCH
+  swift: CHLBRU41ZOL
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "NYAZEPETROVSK"
+  branch: NYAZEPETROVSKIJ BRANCH
+  swift: CHLBRU41NZP
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "OZERSK"
+  branch: SINEGORE BRANCH
+  swift: CHLBRU41SIN
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "SATKA"
+  branch: SATKINSKIJ BRANCH
+  swift: CHLBRU4C760
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "SNEGINSK"
+  branch: ISTOK BRANCH
+  swift: CHLBRU4C795
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "TRIOKHGORNY"
+  branch: TREKHGORNYJ BRANCH
+  swift: CHLBRU4C735
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "TROITSK"
+  branch: TROICKIJ  BRANCH
+  swift: CHLBRU41TRO
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "UST-KATAV"
+  branch: UST-KATAVSKIJ BRANCH
+  swift: CHLBRU41UKT
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "VERKHNY UFALEY"
+  branch: VERKHNE-UFALEJSKIJ BRANCH
+  swift: CHLBRU41VUF
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "YURIUZAN"
+  branch: YURYUZANSKIJ BRANCH
+  swift: CHLBRU41YUR
+    
+- name: "PJSC 'CHELINDBANK'"
+  city: "YUZHNOURALSK"
+  branch: YUZHNOURALSKIJ BRANCH
+  swift: CHLBRU41UZH
+    
+- name: "PJSC DONCOMBANK"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: DONORU2R
+    
+- name: "PJSC EURASIAN BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ERSNRUMM
+    
+- name: "PJSC INTER RAO"
+  city: "MOSCOW"
+  branch: null
+  swift: IRAORUMM
+    
+- name: "PJSC METKOMBANK"
+  city: "KAMENSK-URALSKIY"
+  branch: HEAD OFFICE
+  swift: MTKCRUM1KU1
+    
+- name: "PJSC METKOMBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: MTKCRUMM
+    
+- name: "PJSC METKOMBANK"
+  city: "SHELEHOV"
+  branch: SHELEHOV BRANCH
+  swift: MTKCRUM1SH3
+    
+- name: "PJSC METKOMBANK"
+  city: "VOLGOGRAD"
+  branch: VOLGOGRAD BANCH
+  swift: MTKCRUM1VG4
+    
+- name: "PJSC NORVIK BANK"
+  city: "KIROV"
+  branch: null
+  swift: VIATRU21
+    
+- name: "PJSC OK BANK"
+  city: "ALEXANDROV"
+  branch: ALEKSANDROV BRANCH
+  swift: OKSKRUM1173
+    
+- name: "PJSC OK BANK"
+  city: "DZERZHINSK"
+  branch: DZERZHINSK BRANCH
+  swift: OKSKRUM1555
+    
+- name: "PJSC OK BANK"
+  city: "YAROSLAVL"
+  branch: null
+  swift: OKSKRUMM
+    
+- name: "PJSC ROSBANK"
+  city: "EKATERINBURG"
+  branch: URALSKIY BRANCH
+  swift: RSBNRUM1EKT
+    
+- name: "PJSC ROSBANK"
+  city: "KRASNOYARSK"
+  branch: VOSTOCHNO-SIBIRSKIJ BRANCH
+  swift: RSBNRUM1KRY
+    
+- name: "PJSC ROSBANK"
+  city: "LIPETSK"
+  branch: LIPETSK BRANCH
+  swift: RSBNRUM1LIP
+    
+- name: "PJSC ROSBANK"
+  city: "MOSCOW"
+  branch: CUSTODY DIVISION
+  swift: RSBNRUMMCUS
+    
+- name: "PJSC ROSBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH (FOR STATEMENTS ONLY)
+  swift: RSBNRUMMSGV
+    
+- name: "PJSC ROSBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: RSBNRUM1001
+    
+- name: "PJSC ROSBANK"
+  city: "MOSCOW"
+  branch: TRUST OPERATIONS
+  swift: RSBNRUMMTRS
+    
+- name: "PJSC ROSBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RSBNRUMM
+    
+- name: "PJSC ROSBANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: PRIVOLJSKIY BRANCH
+  swift: RSBNRUM1NNV
+    
+- name: "PJSC ROSBANK"
+  city: "NOVOSIBIRSK"
+  branch: ZAPADNO-SIBIRSKIJ BRANCH
+  swift: RSBNRUM1NVS
+    
+- name: "PJSC ROSBANK"
+  city: "ROSTOV-ON-DON"
+  branch: YUJNYIY BRANCH
+  swift: RSBNRUM1RND
+    
+- name: "PJSC ROSBANK"
+  city: "ST. PETERSBURG"
+  branch: SEVERO-ZAPADNYJ BRANCH
+  swift: RSBNRUMMSZF
+    
+- name: "PJSC ROSBANK"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH
+  swift: RSBNRUM1STR
+    
+- name: "PJSC ROSBANK"
+  city: "VLADIVOSTOK"
+  branch: DALNEVOSTOCHNIY BRANCH
+  swift: RSBNRUMMDVB
+    
+- name: "PJSC ROSBANK"
+  city: "YAROSLAVL"
+  branch: YAROSLAVL BRANCH
+  swift: RSBNRUM1YRS
+    
+- name: "PJSC TOMSKPROMSTROYBANK"
+  city: "ASINO"
+  branch: PJSC TOMSKPROMSTROYBANK (ASINOVSKII BRANCH)
+  swift: TMKPRU21604
+    
+- name: "PJSC TOMSKPROMSTROYBANK"
+  city: "KARGASOK"
+  branch: PJSC TOMSKPROMSTROYBANK (KARGASOKSKII BRANCH)
+  swift: TMKPRU21608
+    
+- name: "PJSC TOMSKPROMSTROYBANK"
+  city: "KOLPASHEVO"
+  branch: PJSC TOMSKPROMSTROYBANK (KOLPASHEVSKII BRANCH)
+  swift: TMKPRU21610
+    
+- name: "PJSC TOMSKPROMSTROYBANK"
+  city: "SEVERSK"
+  branch: PJSC TOMSKPROMSTROYBANK (SEVERSK BRANCH)
+  swift: TMKPRU21625
+    
+- name: "PJSC TOMSKPROMSTROYBANK"
+  city: "STREZHEVOI"
+  branch: PJSC TOMSKPROMSTROYBANK (STREZHEVSKOI BRANCH)
+  swift: TMKPRU21613
+    
+- name: "PJSC TOMSKPROMSTROYBANK"
+  city: "TOMSK"
+  branch: PJSC TOMSKPROMSTROYBANK (BRANCH NO. 17)
+  swift: TMKPRU21671
+    
+- name: "PJSC TOMSKPROMSTROYBANK"
+  city: "TOMSK"
+  branch: PJSC TOMSKPROMSTROYBANK (SOVETSKII BRANCH)
+  swift: TMKPRU21630
+    
+- name: "PJSC TOMSKPROMSTROYBANK"
+  city: "TOMSK"
+  branch: null
+  swift: TMKPRU21
+    
+- name: "PJSC TOMSKPROMSTROYBANK"
+  city: "TOMSK"
+  branch: null
+  swift: TMKPRU5T
+    
+- name: "PLATINA BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: PLATRUMM
+    
+- name: "PLUS BANK"
+  city: "OMSK"
+  branch: null
+  swift: COMSRUSM
+    
+- name: "POST BANK PJSC"
+  city: "MOSCOW"
+  branch: null
+  swift: POSBRUMM
+    
+- name: "PREMIER MCB ZAO"
+  city: "MOSCOW"
+  branch: null
+  swift: PRMZRUM1
+    
+- name: "PRIKAMYE COMMERCIAL BANK AO"
+  city: "PERM"
+  branch: null
+  swift: PRKARU41
+    
+- name: "PRIMSOTSBANK"
+  city: "VLADIVOSTOK"
+  branch: null
+  swift: PRMTRU8V
+    
+- name: "PRIMTERCOMBANK OOO"
+  city: "VLADIVOSTOK"
+  branch: null
+  swift: PTCBRU8V
+    
+- name: "PRINT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: PITNRUM1
+    
+- name: "PRIO-VNESHTORGBANK"
+  city: "RYAZAN"
+  branch: null
+  swift: PRIORU2J
+    
+- name: "PRIVATE HOLDING BANK LTD, COMMERCIAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: PRHCRUM1
+    
+- name: "PROCOMMERCEBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: PROKRUMM
+    
+- name: "PROFESSIONAL CREDIT BANK LTD"
+  city: "MOSCOW"
+  branch: BRANCH MOSKOVSKIY
+  swift: REGVRU21001
+    
+- name: "PROFESSIONAL CREDIT BANK LTD"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: REGVRU21
+    
+- name: "PROFIT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: PRFFRUM1
+    
+- name: "PROINVESTBANK"
+  city: "PERM"
+  branch: null
+  swift: PEOARU41
+    
+- name: "PROMAVTOBANK COMMERCIAL BANK"
+  city: "SAMARA"
+  branch: null
+  swift: PRJCRU31
+    
+- name: "PROMENERGOBANK OAO"
+  city: "VOLOGDA"
+  branch: null
+  swift: PRMGRU21
+    
+- name: "PROMFINSERVIS BANK"
+  city: "NOVOROSSIYSK"
+  branch: null
+  swift: PRFBRU21
+    
+- name: "PROMINVESTBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: PRMIRUMM
+    
+- name: "PROMSVYAZBANK PJSC"
+  city: "EKATERINBURG"
+  branch: URALSKIY BRANCH
+  swift: PRMSRUM1EKT
+    
+- name: "PROMSVYAZBANK PJSC"
+  city: "HABAROVSK"
+  branch: DALNEVOSTOCHNIY BRANCH
+  swift: PRMSRUM1HAB
+    
+- name: "PROMSVYAZBANK PJSC"
+  city: "MOSCOW"
+  branch: null
+  swift: PRMSRUMM
+    
+- name: "PROMSVYAZBANK PJSC"
+  city: "NIZHNIY NOVGOROD"
+  branch: PRIVOLZHSKIY BRANCH
+  swift: PRMSRUMMNNV
+    
+- name: "PROMSVYAZBANK PJSC"
+  city: "NOVOSIBIRSK"
+  branch: SIBIRSKY BRANCH
+  swift: PRMSRUMMNSB
+    
+- name: "PROMSVYAZBANK PJSC"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: PRMSRUMMSPB
+    
+- name: "PROMSVYAZBANK PJSC"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH
+  swift: PRMSRUM1STV
+    
+- name: "PROMSVYAZBANK PJSC"
+  city: "VOLGOGRAD"
+  branch: YUJNIY BRANCH
+  swift: PRMSRUMMVGG
+    
+- name: "PROMSVYAZBANK PJSC"
+  city: "YAROSLAVL"
+  branch: YAROSLAVL BRANCH
+  swift: PRMSRUMMYAB
+    
+- name: "PROSPECT INVESTMENT COMPANY"
+  city: "MOSCOW"
+  branch: null
+  swift: PRICRUM1
+    
+- name: "PSB BANK, OJSC"
+  city: "STERLITAMAK"
+  branch: null
+  swift: PSOJRU41
+    
+- name: "PUBLIC BANK"
+  city: "CHERKESSK"
+  branch: null
+  swift: PUBBRU3C
+    
+- name: "PUBLIC BANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: PUBBRU3CMSK
+    
+- name: "PUBLIC JOINT - STOCK COMPANY COMMERCIAL BANK 'SUMMIT BANK'"
+  city: "VLADIVOSTOK"
+  branch: VLADIVOSTOK BRANCH
+  swift: CBBORU8VVLD
+    
+- name: "PUBLIC JOINT - STOCK COMPANY COMMERCIAL BANK 'SUMMIT BANK'"
+  city: "VLADIVOSTOK"
+  branch: null
+  swift: CBBORU8V
+    
+- name: "PUBLIC JOINT STOCK COMPANY 'OIL COMPANY LUKOIL'"
+  city: "MOSCOW"
+  branch: null
+  swift: LUKORUMM
+    
+- name: "PUBLIC JOINT-STOCK COMPANY INTERREGIONAL INDUSTRIAL AND CONSTRUCTION BANK"
+  city: "SARANSK"
+  branch: null
+  swift: MORPRU2D
+    
+- name: "PUBLIC JOINT-STOCK COMPANY KRASNODAR REGIONAL INVESTMENT BANK"
+  city: "KRASNODAR"
+  branch: null
+  swift: KRRIRU22
+    
+- name: "QIWI BANK (JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: BRANCH ROCKETBANK
+  swift: BELERUA1RCT
+    
+- name: "QIWI BANK (JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: BRANCH TOCHKA
+  swift: BELERUA1TCH
+    
+- name: "QIWI BANK (JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: BELERUA1
+    
+- name: "QIWI BANK (JOINT-STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: BELERUMM
+    
+- name: "QIWI BANK (JOINT-STOCK COMPANY) (FORMERLY RAPIDA LTD)"
+  city: "MOSCOW"
+  branch: null
+  swift: RPDARUMM
+    
+- name: "RAKB 'DONHLEBBANK' OAO"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: DONKRU21
+    
+- name: "RASCHETNO-KREDITNY BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RASHRUMM
+    
+- name: "REESTR A-PLUS"
+  city: "NOVOSIBIRSK"
+  branch: null
+  swift: REAPRU51
+    
+- name: "REGION BANK"
+  city: "YAROSLAVL"
+  branch: null
+  swift: REIIRU21
+    
+- name: "REGION BROKER COMPANY LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: RBRORUMM
+    
+- name: "REGIONAL CREDIT BANK OJSC CB"
+  city: "KALININGRAD"
+  branch: null
+  swift: RECRRU21
+    
+- name: "REGIONAL EXCHANGE CENTER MICEX-SOUTH"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: XROVRU21
+    
+- name: "REGISTAR NICOIL COMPANY - JSK"
+  city: "MOSCOW"
+  branch: null
+  swift: RNCJRUM1
+    
+- name: "REGISTRAR-COMMUNICATION JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: REJSRUM1
+    
+- name: "REGISTRATSIONNO-DEPOZITARNIY TSENTR PARITET"
+  city: "MOSCOW"
+  branch: null
+  swift: RETNRUM1
+    
+- name: "RENAISSANCE BROKER LIMITED"
+  city: "MOSCOW"
+  branch: null
+  swift: REBRRUMM
+    
+- name: "RENAISSANCE CAPITAL ASSET MANAGEMENT COMPANY"
+  city: "MOSCOW"
+  branch: null
+  swift: RCAMRUM1
+    
+- name: "RENAISSANCE CAPITAL ZAO"
+  city: "MOSCOW"
+  branch: null
+  swift: RECGRUM1
+    
+- name: "RENAISSANCE CREDIT COMMERCIAL BANK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: ALILRUMM
+    
+- name: "REPUBLIC CREDIT ALLIANCE COMMERCIAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RCACRUMM
+    
+- name: "REPUBLIC RESERVE BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RRBORUM1
+    
+- name: "RFC-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RFCBRUMM
+    
+- name: "RFI BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RIIRRUM1
+    
+- name: "RINK BANK JOINT STOCK BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RINKRUM1
+    
+- name: "RN BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RNBKRUMM
+    
+- name: "ROSBANK-VOLGA ZAO"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: ROJBRU21
+    
+- name: "ROSBUSINESSBANK OAO ARKB"
+  city: "MOSCOW"
+  branch: null
+  swift: RSBZRUMM
+    
+- name: "ROSDORBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ROSORUMM
+    
+- name: "ROSGOSSTRAKH BANK"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: RUIDRUM1EKT
+    
+- name: "ROSGOSSTRAKH BANK"
+  city: "KHABAROVSK"
+  branch: KHABAROVSK BRANCH
+  swift: RUIDRUM1KHA
+    
+- name: "ROSGOSSTRAKH BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RUIDRUMM
+    
+- name: "ROSGOSSTRAKH BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: RUIDRUM1NNG
+    
+- name: "ROSGOSSTRAKH BANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: RUIDRUM1NSK
+    
+- name: "ROSGOSSTRAKH BANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: RUIDRUM1ROV
+    
+- name: "ROSGOSSTRAKH BANK"
+  city: "ST. PETERSBURG"
+  branch: SAINT-PETERSBURG BRANCH
+  swift: RUIDRUM1SPB
+    
+- name: "ROSGOSSTRAKH BANK"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH
+  swift: RUIDRUM1STA
+    
+- name: "ROSGOSSTRAKH BANK"
+  city: "UFA"
+  branch: UFA BRANCH
+  swift: RUIDRUM1UFA
+    
+- name: "ROSLAVISKY JOINT-STOCK COMMERCIAL BANK SMOLEVICH, OPENED JOINT-STOCK COMPANY"
+  city: "ROSLAVL"
+  branch: null
+  swift: SMJORU21
+    
+- name: "ROSNEFT"
+  city: "MOSCOW"
+  branch: null
+  swift: ROSNRUMM
+    
+- name: "ROSSWIFT"
+  city: "MOSCOW"
+  branch: null
+  swift: RNMGRUM1
+    
+- name: "ROST BANK"
+  city: "ARKHANGELSK"
+  branch: ARHANGELSK BRANCH
+  swift: JORORU21ARB
+    
+- name: "ROST BANK"
+  city: "ASTRAKHAN"
+  branch: ASTRAHAN BRANCH
+  swift: JORORU21ASB
+    
+- name: "ROST BANK"
+  city: "BRYANSK"
+  branch: BRYANSK BRANCH
+  swift: JORORU21BRB
+    
+- name: "ROST BANK"
+  city: "CHELYABINSK"
+  branch: CHELYABINSK BRANCH
+  swift: JORORU21CLB
+    
+- name: "ROST BANK"
+  city: "CHITA"
+  branch: CHITA BRANCH
+  swift: JORORU21CHB
+    
+- name: "ROST BANK"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: JORORU21EKB
+    
+- name: "ROST BANK"
+  city: "HABAROVSK"
+  branch: HABAROVSK BRANCH
+  swift: JORORU21HAB
+    
+- name: "ROST BANK"
+  city: "IVANOVO"
+  branch: IVANOVO BRANCH
+  swift: JORORU21IVB
+    
+- name: "ROST BANK"
+  city: "IZHEVSK"
+  branch: IZHEVSK BRANCH
+  swift: JORORU21IZB
+    
+- name: "ROST BANK"
+  city: "KALININGRAD"
+  branch: KALININGRAD BRANCH
+  swift: JORORU21KLB
+    
+- name: "ROST BANK"
+  city: "KALUGA"
+  branch: KALUGA BRANCH
+  swift: JORORU21KGB
+    
+- name: "ROST BANK"
+  city: "KOSTROMA"
+  branch: KOSTROMA BRANCH
+  swift: JORORU21KOS
+    
+- name: "ROST BANK"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: JORORU21KRB
+    
+- name: "ROST BANK"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSK BRANCH
+  swift: JORORU21KNB
+    
+- name: "ROST BANK"
+  city: "KURSK"
+  branch: KURSK BRANCH
+  swift: JORORU21KUB
+    
+- name: "ROST BANK"
+  city: "LIPETSK"
+  branch: LIPECK BRANCH
+  swift: JORORU21LIB
+    
+- name: "ROST BANK"
+  city: "MAGADAN"
+  branch: MAGADAN BRANCH
+  swift: JORORU21MAB
+    
+- name: "ROST BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: JORORUMM
+    
+- name: "ROST BANK"
+  city: "MURMANSK"
+  branch: MURMANSK BRANCH
+  swift: JORORU21MUB
+    
+- name: "ROST BANK"
+  city: "NALCHIK"
+  branch: NALCHIK BRANCH
+  swift: JORORU21NAL
+    
+- name: "ROST BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY-NOVGOROD BRANCH
+  swift: JORORU21NNB
+    
+- name: "ROST BANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: JORORU21NOB
+    
+- name: "ROST BANK"
+  city: "OMSK"
+  branch: OMSK BRANCH
+  swift: JORORU21OMS
+    
+- name: "ROST BANK"
+  city: "OREL"
+  branch: OREL BRANCH
+  swift: JORORU21ORB
+    
+- name: "ROST BANK"
+  city: "PENZA"
+  branch: ROST BANK PENZA BRANCH
+  swift: JORORU21PNZ
+    
+- name: "ROST BANK"
+  city: "PERM"
+  branch: PERM BRANCH
+  swift: JORORU21PMB
+    
+- name: "ROST BANK"
+  city: "PETROZAVODSK"
+  branch: PETROZAVODSK BRANCH
+  swift: JORORU21PEB
+    
+- name: "ROST BANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-DON BRANCH
+  swift: JORORU21RDB
+    
+- name: "ROST BANK"
+  city: "RYAZAN"
+  branch: RYAZAN BRANCH
+  swift: JORORU21RZB
+    
+- name: "ROST BANK"
+  city: "SAMARA"
+  branch: SAMARA BRANCH
+  swift: JORORU21SAB
+    
+- name: "ROST BANK"
+  city: "SARATOV"
+  branch: SARATOV BRANCH
+  swift: JORORU21SVB
+    
+- name: "ROST BANK"
+  city: "SMOLENSK"
+  branch: SMOLENSK BRANCH
+  swift: JORORU21SMB
+    
+- name: "ROST BANK"
+  city: "ST. PETERSBURG"
+  branch: ROST BANK ST.PETERSBURG BRANCH
+  swift: JORORU21SPB
+    
+- name: "ROST BANK"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH
+  swift: JORORU21STB
+    
+- name: "ROST BANK"
+  city: "TOGLIATTI"
+  branch: TOLYATTI BRANCH
+  swift: JORORU21TLB
+    
+- name: "ROST BANK"
+  city: "TOMSK"
+  branch: TOMSK BRANCH
+  swift: JORORU21TOB
+    
+- name: "ROST BANK"
+  city: "TVER"
+  branch: TVER BRANCH
+  swift: JORORU21TVB
+    
+- name: "ROST BANK"
+  city: "TYUMEN"
+  branch: TYUMEN BRANCH
+  swift: JORORU21TUB
+    
+- name: "ROST BANK"
+  city: "UFA"
+  branch: UFA BRANCH
+  swift: JORORU21UFB
+    
+- name: "ROST BANK"
+  city: "ULAN-UDE"
+  branch: ULAN-UDE BRANCH
+  swift: JORORU21ULB
+    
+- name: "ROST BANK"
+  city: "VELIKIY NOVGOROD"
+  branch: VELIKIY NOVGOROD BRANCH
+  swift: JORORU21VNV
+    
+- name: "ROST BANK"
+  city: "VLADIMIR"
+  branch: VLADIMIR BRANCH
+  swift: JORORU21VDB
+    
+- name: "ROST BANK"
+  city: "VLADIVOSTOK"
+  branch: VLADIVOSTOK BRANCH
+  swift: JORORU21VAB
+    
+- name: "ROST BANK"
+  city: "VOLGOGRAD"
+  branch: VOLGOGRAD BRANCH
+  swift: JORORU21VLB
+    
+- name: "ROST BANK"
+  city: "VOLOGDA"
+  branch: VOLOGDA BRANCH
+  swift: JORORU21VGB
+    
+- name: "ROST BANK"
+  city: "VORONEZH"
+  branch: VORONEZH BRANCH
+  swift: JORORU21VOB
+    
+- name: "ROST BANK"
+  city: "YAKUTSK"
+  branch: YAKUTSK BRANCH
+  swift: JORORU21YAB
+    
+- name: "ROST BANK"
+  city: "YAROSLAVL"
+  branch: YAROSLAVL BRANCH
+  swift: JORORU21YRL
+    
+- name: "ROSTPROMSTROYBANK"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: ROOARU21
+    
+- name: "ROYAL CREDIT BANK"
+  city: "KHABAROVSK"
+  branch: KHABAROVSK BRANCH
+  swift: ROCERU31HBR
+    
+- name: "ROYAL CREDIT BANK"
+  city: "VLADIVOSTOK"
+  branch: FAR-EASTERN BRANCH
+  swift: ROCERU31VLD
+    
+- name: "ROYAL CREDIT BANK"
+  city: "VLADIVOSTOK"
+  branch: null
+  swift: ROCERU31
+    
+- name: "RSI BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RSIRRUM1
+    
+- name: "RTBK LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: SPEIRUM2
+    
+- name: "RTS BANK"
+  city: "TOGLIATTI"
+  branch: null
+  swift: RTSRRU31
+    
+- name: "RUBLEV BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: COUERUMM
+    
+- name: "'RUBLEVSKY' COMMERCIAL BANK OOO"
+  city: "MOSCOW"
+  branch: GOSTINY DVOR BRANCH
+  swift: ROUCRUM1GDB
+    
+- name: "'RUBLEVSKY' COMMERCIAL BANK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: ROUCRUM1
+    
+- name: "RUNA BANK,JSCB"
+  city: "MOSCOW"
+  branch: null
+  swift: PYHARUMM
+    
+- name: "RUNETBANK ZAO"
+  city: "MOSCOW"
+  branch: null
+  swift: RUNERUM1
+    
+- name: "RUSBSBANK"
+  city: "ESSENTUKSKAYA"
+  branch: null
+  swift: RUSARU71
+    
+- name: "RUSNARBANK"
+  city: "BELGOROD"
+  branch: BELGOROD BRANCH
+  swift: RUNBRUM1BEL
+    
+- name: "RUSNARBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RUNBRUMM
+    
+- name: "RUSSIAN EXCHANGE"
+  city: "MOSCOW"
+  branch: null
+  swift: XRUSRUM1
+    
+- name: "RUSSIAN NATIONAL COMMERCIAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RNCORUMM
+    
+- name: "RUSSIAN REGISTRY OF CARBON UNITS"
+  city: "MOSCOW"
+  branch: null
+  swift: RRCNRUM1
+    
+- name: "RUSSIAN STANDARD BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RSJSRUMM
+    
+- name: "RUSSITA BANK INTERNATIONAL COMMERCIAL INVESTMENT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RICIRUMM
+    
+- name: "RUSSKY GENERALNY BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: RUGERUM1
+    
+- name: "RUSSKY NATZIONALNY BANK"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: RUNARU21
+    
+- name: "RUSSOBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: JSRRRUMM
+    
+- name: "RUSUNIVERSALBANK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: RUNIRUMM
+    
+- name: "RUSYUGBANK OAO"
+  city: "VOLGOGRAD"
+  branch: null
+  swift: JCCYRU21
+    
+- name: "RYE, MAN AND GOR SECURITIES"
+  city: "MOSCOW"
+  branch: null
+  swift: RMGSRUM1
+    
+- name: "SAINT-PETERSBURG CURRENCY EXCHANGE"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: XPICRU2P
+    
+- name: "SAKHA DIAMOND BANK AO"
+  city: "MOSCOW"
+  branch: null
+  swift: SADCRUM1
+    
+- name: "SAMARA CURRENCY INTERBANK EXCHANGE OAO"
+  city: "SAMARA"
+  branch: null
+  swift: XSAMRU31
+    
+- name: "SAMSUNG ELECTRONICS RUS COMPANY"
+  city: "KALUGA"
+  branch: SERK
+  swift: SECTRUM1990
+    
+- name: "SAMSUNG ELECTRONICS RUS COMPANY"
+  city: "MOSCOW"
+  branch: SER
+  swift: SECTRUM1940
+    
+- name: "SAMSUNG ELECTRONICS RUS COMPANY"
+  city: "MOSCOW"
+  branch: SERC
+  swift: SECTRUM1941
+    
+- name: "SAMSUNG ELECTRONICS RUS COMPANY"
+  city: "MOSCOW"
+  branch: SRSC
+  swift: SECTRUM19E0
+    
+- name: "SAMSUNG ELECTRONICS RUS COMPANY"
+  city: "MOSCOW"
+  branch: null
+  swift: SECTRUM1
+    
+- name: "SARATOV REGIONAL COMMERCIAL BANK FOR SOCIAL SPHERECONTO"
+  city: "SARATOV"
+  branch: null
+  swift: CKONRU21
+    
+- name: "SAROVBUSINESSBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: SARORU21MOS
+    
+- name: "SAROVBUSINESSBANK"
+  city: "SAROV"
+  branch: null
+  swift: SARORU2S
+    
+- name: "SBERBANK"
+  city: "EKATERINBURG"
+  branch: URALSKY HEAD OFFICE
+  swift: SABRRUMMEA1
+    
+- name: "SBERBANK"
+  city: "KRASNOYARSK"
+  branch: SIBIRSKY HEAD OFFICE
+  swift: SABRRUMMKR1
+    
+- name: "SBERBANK"
+  city: "MAGADAN"
+  branch: SEVERO-VOSTOCHNY HEAD OFFICE
+  swift: SABRRUMMMA1
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: HEAD OFFICE - ALL BRANCHES AND OFFICES IN RUSSIA
+  swift: SABRRUMM
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: MAIN SETTLEMENT CENTRE - RUBLE SETTLEMENTS ONLY
+  swift: SABRRUMM012
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: OPERATIONS DEPARTMENT
+  swift: SABRRUMM011
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: S.W.I.F.T. AND TEST KEYS CENTRE
+  swift: SABRRUMMKEY
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: SETTLEMENT - BANKNOTES DEALS
+  swift: SABRRUMMBNT
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: SETTLEMENT - COMMODITIES DEALS
+  swift: SABRRUMMCOM
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: SETTLEMENT - DERIVATIVES DEALS
+  swift: SABRRUMMDRV
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: SETTLEMENT - FX DEALS
+  swift: SABRRUMMFXT
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: SETTLEMENT - MONEY MARKET DEALS
+  swift: SABRRUMMMMT
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: SETTLEMENT - SECURITIES DEALS
+  swift: SABRRUMMSMT
+    
+- name: "SBERBANK"
+  city: "MOSCOW"
+  branch: TRD SETTLEMENT  - TRADE FINANCE DEALS
+  swift: SABRRUMMTRD
+    
+- name: "SBERBANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: VOLGO-VYATSKY HEAD OFFICE
+  swift: SABRRUMMNA1
+    
+- name: "SBERBANK"
+  city: "NOVOSIBIRSK"
+  branch: SIBIRSKY HEAD OFFICE
+  swift: SABRRUMMNH1
+    
+- name: "SBERBANK"
+  city: "PERM"
+  branch: ZAPADNO-URALSKY HEAD OFFICE
+  swift: SABRRUMMPC1
+    
+- name: "SBERBANK"
+  city: "ROSTOV-ON-DON"
+  branch: YUGO-ZAPADNY HEAD OFFICE
+  swift: SABRRUMMRA1
+    
+- name: "SBERBANK"
+  city: "SAMARA"
+  branch: POVOLZHSKY HEAD OFFICE
+  swift: SABRRUMMSE1
+    
+- name: "SBERBANK"
+  city: "STAVROPOL"
+  branch: YUGO-ZAPADNY HEAD OFFICE
+  swift: SABRRUMMSP1
+    
+- name: "SBERBANK"
+  city: "TYUMEN"
+  branch: ZAPADNO-SIBIRSKY HEAD OFFICE
+  swift: SABRRUMMTN1
+    
+- name: "SBERBANK"
+  city: "VORONEZH"
+  branch: TSENTRALNO-CHERNOZEMNY HEAD OFFICE
+  swift: SABRRUMMVH1
+    
+- name: "SBERBANK"
+  city: "YAROSLAVL"
+  branch: SEVERNY HEAD OFFICE
+  swift: SABRRUMMYA1
+    
+- name: "SBERBANK (BAIKALSKY HEAD OFFICE)"
+  city: "CHITA"
+  branch: CHITA BRANCH
+  swift: SABRRU66CHT
+    
+- name: "SBERBANK (BAIKALSKY HEAD OFFICE)"
+  city: "IRKUTSK"
+  branch: null
+  swift: SABRRU66
+    
+- name: "SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)"
+  city: "BIROBIDZHAN"
+  branch: BIROBIDZHAN BRANCH
+  swift: SABRRU8KBRB
+    
+- name: "SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)"
+  city: "BLAGOVESHCHENSK"
+  branch: BLAGOVESHCHENSK BRANCH
+  swift: SABRRU8KBLG
+    
+- name: "SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)"
+  city: "KHABAROVSK"
+  branch: null
+  swift: SABRRU8K
+    
+- name: "SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)"
+  city: "VLADIVOSTOK"
+  branch: PRIMORSKOE BRANCH
+  swift: SABRRU8KVLD
+    
+- name: "SBERBANK (SEVERO-ZAPADNY HEAD OFFICE)"
+  city: "KALININGRAD"
+  branch: KALININGRAD BRANCH
+  swift: SABRRU2P920
+    
+- name: "SBERBANK (SEVERO-ZAPADNY HEAD OFFICE)"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: SABRRU2P
+    
+- name: "SBERBANK (SREDNERUSSKY HEAD OFFICE)"
+  city: "MOSCOW"
+  branch: null
+  swift: SABRRUM3
+    
+- name: "SBERBANK CIB"
+  city: "MOSCOW"
+  branch: null
+  swift: TDICRUMM
+    
+- name: "SCB METALLINVESTBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SCBMRUMM
+    
+- name: "SCB METALLINVESTBANK"
+  city: "VYKSA"
+  branch: VYKSA BRANCH
+  swift: SCBMRUM1825
+    
+- name: "SDM-BANK PJSC"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: SJSCRUMMEKA
+    
+- name: "SDM-BANK PJSC"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSK BRANCH
+  swift: SJSCRUMMKRA
+    
+- name: "SDM-BANK PJSC"
+  city: "MOSCOW"
+  branch: null
+  swift: SJSCRUMM
+    
+- name: "SDM-BANK PJSC"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIJ NOVGOROD BRANCH
+  swift: SJSCRUMMNNG
+    
+- name: "SDM-BANK PJSC"
+  city: "OMSK"
+  branch: OMSK BRANCH
+  swift: SJSCRUMMOMS
+    
+- name: "SDM-BANK PJSC"
+  city: "PERM"
+  branch: PERM BRANCH
+  swift: SJSCRUMMPRM
+    
+- name: "SDM-BANK PJSC"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: SJSCRUMMRND
+    
+- name: "SDM-BANK PJSC"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: SJSCRUMMSPB
+    
+- name: "SDM-BANK PJSC"
+  city: "TVER"
+  branch: TVER BRANCH
+  swift: SJSCRUMMTVR
+    
+- name: "SDM-BANK PJSC"
+  city: "VORONEZH"
+  branch: VORONEZH BRANCH
+  swift: SJSCRUMMVRN
+    
+- name: "SEB BANK"
+  city: "ST. PETERSBURG"
+  branch: SEB BANK CUSTODY
+  swift: SEBPRU2PSEC
+    
+- name: "SEB BANK"
+  city: "ST. PETERSBURG"
+  branch: SUB-CUSTODY
+  swift: SEBPRU2PCUS
+    
+- name: "SEB BANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: SEBPRU2P
+    
+- name: "SELMASHBANK, CRA"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: SELARU21
+    
+- name: "SETTLEMENT DEPOSITORY COMPANY"
+  city: "MOSCOW"
+  branch: null
+  swift: SEDMRUMM
+    
+- name: "SEVERINVESTBANK"
+  city: "BELGOROD"
+  branch: null
+  swift: SEVRRU21
+    
+- name: "SEVERNY NARODNY BANK"
+  city: "SYKTYVKAR"
+  branch: null
+  swift: SENRRU31
+    
+- name: "SEVZAPINVESTPROMBANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: SZIPRU2P
+    
+- name: "SIBBROK"
+  city: "MOSCOW"
+  branch: null
+  swift: SIBRRUM1
+    
+- name: "SIBERIAN ECONOMIC BANK"
+  city: "TYUMEN"
+  branch: null
+  swift: JCSERU41
+    
+- name: "SIBERIAN STOCK EXCHANGE"
+  city: "NOVOSIBIRSK"
+  branch: null
+  swift: XSIBRU51
+    
+- name: "SIBSOCBANK"
+  city: "BARNAUL"
+  branch: null
+  swift: SISNRU55
+    
+- name: "SIMBIRSK"
+  city: "ULYANOVSK"
+  branch: null
+  swift: SIIKRU21
+    
+- name: "SINERGIYA BANK"
+  city: "SARATOV"
+  branch: null
+  swift: SINYRU21
+    
+- name: "SINKO-BANK, LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: SNKBRUMM
+    
+- name: "SISTEMA COMMERCIAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SISERUMM
+    
+- name: "SKB-BANK"
+  city: "EKATERINBURG"
+  branch: null
+  swift: SKBERU4E
+    
+- name: "SKS BANK, LLC, MOSCOW"
+  city: "MOSCOW"
+  branch: null
+  swift: SKSBRUMM
+    
+- name: "SLAVIA BANK"
+  city: "LYUBERTSY"
+  branch: LYUBERTSY BRANCH
+  swift: SJSMRUM1LBR
+    
+- name: "SLAVIA BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SJSMRUMM
+    
+- name: "SLAVIA BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: G.NIZHNIY NOVGOROD
+  swift: SJSMRUM1NNV
+    
+- name: "SLAVIA BANK"
+  city: "PSKOV"
+  branch: PSKOV BRANCH
+  swift: SJSMRUM1PSV
+    
+- name: "SLAVIA BANK"
+  city: "ST. PETERSBURG"
+  branch: SAINT-PETERSBURG
+  swift: SJSMRUM1SPB
+    
+- name: "SLAVYANBANK"
+  city: "VELIKIY NOVGOROD"
+  branch: null
+  swift: SLAYRU2N
+    
+- name: "SLAVYANSKI CREDIT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SLACRUMM
+    
+- name: "SMP BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SMBKRUMM
+    
+- name: "SOBINBANK"
+  city: "ARKHANGELSK"
+  branch: ARKHANGELSK BRANCH
+  swift: SBBARUM1014
+    
+- name: "SOBINBANK"
+  city: "BARNAUL"
+  branch: BARNAUL BRANCH
+  swift: SBBARUM1004
+    
+- name: "SOBINBANK"
+  city: "CHELYABINSK"
+  branch: CHELYABINSK BRANCH
+  swift: SBBARUM1026
+    
+- name: "SOBINBANK"
+  city: "KALININGRAD"
+  branch: KALININGRAD BRANCH
+  swift: SBBARUM1005
+    
+- name: "SOBINBANK"
+  city: "KEMEROVO"
+  branch: KEMEROVO BRANCH
+  swift: SBBARUM1010
+    
+- name: "SOBINBANK"
+  city: "KHANTY-MANSIYSK"
+  branch: KHANTY-MANSIYSK BRANCH
+  swift: SBBARUM1016
+    
+- name: "SOBINBANK"
+  city: "KOROLEV"
+  branch: KOROLEV BRANCH
+  swift: SBBARUM1013
+    
+- name: "SOBINBANK"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: SBBARUM1021
+    
+- name: "SOBINBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SBBARUMM
+    
+- name: "SOBINBANK"
+  city: "MURMANSK"
+  branch: MURMANSK BRANCH
+  swift: SBBARUM1017
+    
+- name: "SOBINBANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIGNIY NOVGOROD BRANCH
+  swift: SBBARUM1024
+    
+- name: "SOBINBANK"
+  city: "NOVOROSSIYSK"
+  branch: NOVOROSSIYSK BRANCH
+  swift: SBBARUM1015
+    
+- name: "SOBINBANK"
+  city: "NOVOSIBIRSK"
+  branch: WEST-SIBERIAN BRANCH
+  swift: SBBARUM1003
+    
+- name: "SOBINBANK"
+  city: "OMSK"
+  branch: OMSK BRANCH
+  swift: SBBARUM1011
+    
+- name: "SOBINBANK"
+  city: "PERM"
+  branch: PERM BRANCH
+  swift: SBBARUM1007
+    
+- name: "SOBINBANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-NA-DONU BRANCH
+  swift: SBBARUM1022
+    
+- name: "SOBINBANK"
+  city: "ST. PETERSBURG"
+  branch: SAINT PETERSBURG BRANCH
+  swift: SBBARUM1012
+    
+- name: "SOBINBANK"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH
+  swift: SBBARUM1025
+    
+- name: "SOBINBANK"
+  city: "TYUMEN"
+  branch: TIUMEN BRANCH
+  swift: SBBARUM1018
+    
+- name: "SOBINBANK"
+  city: "VOLGOGRAD"
+  branch: VOLGOGRAD BRANCH
+  swift: SBBARUM1008
+    
+- name: "SOBINBANK"
+  city: "YAKUTSK"
+  branch: YAKUTSK BRANCH
+  swift: SBBARUM1006
+    
+- name: "SOCBANK"
+  city: "OREL"
+  branch: null
+  swift: SOCKRU21
+    
+- name: "SOCHI"
+  city: "SOCHI"
+  branch: null
+  swift: SOHHRU21
+    
+- name: "SOCIUM-BANK (LIMITED LIABILITY COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: AMOORUM1
+    
+- name: "SODRUZHESTVO - BANK OAO"
+  city: "MOSCOW"
+  branch: null
+  swift: SODRRUM1
+    
+- name: "SOKOLOVSKY BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SOKORUM1
+    
+- name: "SOLID BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SLDBRUMM
+    
+- name: "SOLID INVESTMENT AND FINANCIAL COMPANY"
+  city: "MOSCOW"
+  branch: null
+  swift: SIFMRUM1
+    
+- name: "SOLIDARITY BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SOLIRUMM
+    
+- name: "SOTSINVESTBANK"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: CSIBRU4U909
+    
+- name: "SOTSINVESTBANK"
+  city: "UFA"
+  branch: null
+  swift: CSIBRU4U
+    
+- name: "SOVCOMBANK"
+  city: "BERDSK"
+  branch: BERDSK BRANCH
+  swift: SOMRRUM1BRD
+    
+- name: "SOVCOMBANK"
+  city: "IVANOVO"
+  branch: IVANOVO BRANCH
+  swift: SOMRRUM1IVN
+    
+- name: "SOVCOMBANK"
+  city: "KOSTROMA"
+  branch: KOSTROMA BRANCH
+  swift: SOMRRUM1KST
+    
+- name: "SOVCOMBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SOMRRUMM
+    
+- name: "SOVCOMBANK"
+  city: "VLADIMIR"
+  branch: VLADIMIR BRANCH
+  swift: SOMRRUM1VLD
+    
+- name: "SOVCOMBANK"
+  city: "VOLOGDA"
+  branch: VOLOGDA BRANCH
+  swift: SOMRRUM1VLG
+    
+- name: "SOVCOMBANK"
+  city: "VORONEZH"
+  branch: VORONEZH BRANCH
+  swift: SOMRRUM1VRN
+    
+- name: "SOVCOMBANK"
+  city: "YAROSLAVL"
+  branch: YAROSLAVL BRANCH
+  swift: SOMRRUM1YAR
+    
+- name: "SOVLINK OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: SOLLRUM1
+    
+- name: "SOYUZNYJ OOO"
+  city: "CHITA"
+  branch: CHITA BRANCH
+  swift: SOYZRUM1CHT
+    
+- name: "SOYUZNYJ OOO"
+  city: "IRKUTSK"
+  branch: IRKUTSK BRANCH
+  swift: SOYZRUM1IRK
+    
+- name: "SOYUZNYJ OOO"
+  city: "MOSCOW"
+  branch: null
+  swift: SOYZRUMM
+    
+- name: "SOYUZNYJ OOO"
+  city: "TYUMEN"
+  branch: TYUMEN BRANCH
+  swift: SOYZRUM1TYM
+    
+- name: "SPECSTROYBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SPETRUM1
+    
+- name: "SPETSINVEST BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SPEIRUM1
+    
+- name: "ST.PETERSBURG STOCK EXCHANGE ZAO"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: XPETRU21
+    
+- name: "STAL BANK (LLC)"
+  city: "MOSCOW"
+  branch: null
+  swift: ENEORUM1
+    
+- name: "STAVROPOLPROMSTROYBANK"
+  city: "STAVROPOL"
+  branch: null
+  swift: STAJRU22
+    
+- name: "STOCK COMMERCIAL BANK AGROCREDBANK ZAO"
+  city: "CHEREPOVETS"
+  branch: null
+  swift: JSAGRU21
+    
+- name: "STROJVESTBANK"
+  city: "KALININGRAD"
+  branch: null
+  swift: STRYRU21
+    
+- name: "SURGUT CENTRAL COMBANK"
+  city: "SURGUT"
+  branch: null
+  swift: SUCCRU51
+    
+- name: "SVIAZ-BANK"
+  city: "BIROBIDZHAN"
+  branch: BIROBIDZHAN BRANCH
+  swift: SVIZRUM1BIR
+    
+- name: "SVIAZ-BANK"
+  city: "BLAGOVESHCHENSK"
+  branch: BLAGOVESCHENSK BRANCH
+  swift: SVIZRUM1BLA
+    
+- name: "SVIAZ-BANK"
+  city: "CHERKESSK"
+  branch: SEVERO-KAVKAZSKIY BRANCH
+  swift: SVIZRUM1KCH
+    
+- name: "SVIAZ-BANK"
+  city: "CHITA"
+  branch: CHITINSKIY BRANCH
+  swift: SVIZRUM1CHI
+    
+- name: "SVIAZ-BANK"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: SVIZRUM1EKT
+    
+- name: "SVIAZ-BANK"
+  city: "IRKUTSK"
+  branch: IRKUTSK BRANCH
+  swift: SVIZRUM1IRK
+    
+- name: "SVIAZ-BANK"
+  city: "KALININGRAD"
+  branch: KALININGRAD BRANCH
+  swift: SVIZRUM1KLN
+    
+- name: "SVIAZ-BANK"
+  city: "KAZAN"
+  branch: KAZAN BRANCH
+  swift: SVIZRUM1KAZ
+    
+- name: "SVIAZ-BANK"
+  city: "KEMEROVO"
+  branch: KEMEROVO BRANCH
+  swift: SVIZRUM1KEM
+    
+- name: "SVIAZ-BANK"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: SVIZRUM1KRN
+    
+- name: "SVIAZ-BANK"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSK BRANCH
+  swift: SVIZRUMMKRS
+    
+- name: "SVIAZ-BANK"
+  city: "KYZYL"
+  branch: TUVA BRANCH
+  swift: SVIZRUM1TUV
+    
+- name: "SVIAZ-BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: SVIZRUMM
+    
+- name: "SVIAZ-BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: SVIZRUM1NOV
+    
+- name: "SVIAZ-BANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: SVIZRUM1NSB
+    
+- name: "SVIAZ-BANK"
+  city: "OMSK"
+  branch: OMSK BRANCH
+  swift: SVIZRUM1OMS
+    
+- name: "SVIAZ-BANK"
+  city: "OREL"
+  branch: OREL BRANCH
+  swift: SVIZRUM1ORL
+    
+- name: "SVIAZ-BANK"
+  city: "ROSTOV-NA-DONU"
+  branch: ROSTOV BRANCH
+  swift: SVIZRUM1RND
+    
+- name: "SVIAZ-BANK"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: SVIZRUMMSPB
+    
+- name: "SVIAZ-BANK"
+  city: "TOMSK"
+  branch: TOMSK BRANCH
+  swift: SVIZRUM1TOM
+    
+- name: "SVIAZ-BANK"
+  city: "UFA"
+  branch: UFA BRANCH
+  swift: SVIZRUM1UFA
+    
+- name: "SVIAZ-BANK"
+  city: "ULAN-UDE"
+  branch: BURYATSKIY BRANCH
+  swift: SVIZRUM1BUR
+    
+- name: "SVIAZ-BANK"
+  city: "VLADIKAVKAZ"
+  branch: SEVERO-OSETINSKIY BRANCH
+  swift: SVIZRUM1VLK
+    
+- name: "SVIAZ-BANK"
+  city: "VLADIVOSTOK"
+  branch: VLADIVOSTOK BRANCH
+  swift: SVIZRUM1VLD
+    
+- name: "SVIAZ-BANK"
+  city: "YAKUTSK"
+  branch: YAKUTSK BRANCH
+  swift: SVIZRUM1YAK
+    
+- name: "TAIDON BANK OOO"
+  city: "KEMEROVO"
+  branch: null
+  swift: TAOORU51
+    
+- name: "TAMBOVKREDITPROMBANK"
+  city: "TAMBOV"
+  branch: null
+  swift: TAMBRU21
+    
+- name: "TANDEMBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: TANBRUM1
+    
+- name: "TARKHANY REGIONAL BANK OAO"
+  city: "KUZNETSK"
+  branch: KUZNETSK BRANCH
+  swift: TARYRU21KUZ
+    
+- name: "TARKHANY REGIONAL BANK OAO"
+  city: "MOSCOW"
+  branch: MOSCOW BRANCH
+  swift: TARYRU21MOS
+    
+- name: "TARKHANY REGIONAL BANK OAO"
+  city: "PENZA"
+  branch: null
+  swift: TARYRU21
+    
+- name: "TARKHANY REGIONAL BANK OAO"
+  city: "SARATOV"
+  branch: SARATOV BRANCH
+  swift: TARYRU21SAR
+    
+- name: "TARKHANY REGIONAL BANK OAO"
+  city: "SERDOBSK"
+  branch: SERDOBSK BRANCH
+  swift: TARYRU21SER
+    
+- name: "TASKBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: TASKRUM1
+    
+- name: "TAT INVEST BANK"
+  city: "KAZAN"
+  branch: null
+  swift: TANVRU21
+    
+- name: "TATAGROPROMBANK"
+  city: "KAZAN"
+  branch: null
+  swift: TATGRU21
+    
+- name: "TAVRICHESKY BANK"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: TAVRRU2P
+    
+- name: "TEMBR-BANK (JSC)"
+  city: "BLAGOVESHCHENSK"
+  branch: AMURSKIJ BRANCH
+  swift: TEMBRUMMBLG
+    
+- name: "TEMBR-BANK (JSC)"
+  city: "MOSCOW"
+  branch: null
+  swift: TEMBRUMM
+    
+- name: "TEXBANK"
+  city: "CHERKESSK"
+  branch: null
+  swift: TEXBRU22
+    
+- name: "THE BANK 'IBA-MOSCOW' LLC"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: IBAZRUM1EKT
+    
+- name: "THE BANK 'IBA-MOSCOW' LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: IBAZRUMM
+    
+- name: "THE BANK 'IBA-MOSCOW' LLC"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: IBAZRUM1SPB
+    
+- name: "THE FIRST EXPRESS BANK"
+  city: "TULA"
+  branch: null
+  swift: EXTURU21
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "CHELYABINSK"
+  branch: YUZHNO-URALSKIJ BRANCH
+  swift: UBRDRU41CHE
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "EKATERINBURG"
+  branch: SSB BRANCH
+  swift: UBRDRU41SSB
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "EKATERINBURG"
+  branch: null
+  swift: UBRDRU4E
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "KIROV"
+  branch: KIROVSKIJ BRANCH
+  swift: UBRDRU41KIR
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "KRASNODAR"
+  branch: KRASNODARSKIJ BRANCH
+  swift: UBRDRU41KRS
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "MOSCOW"
+  branch: MOSKOVSKIJ BRANCH
+  swift: UBRDRU41MOS
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSKIJ BRANCH
+  swift: UBRDRU41NVS
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "NOVOURALSK"
+  branch: NOVOURALSKIJ BRANCH
+  swift: UBRDRU41NOV
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "OZERSK"
+  branch: MAYAK BRANCH
+  swift: UBRDRU41OZY
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "PERM"
+  branch: null
+  swift: UBRDRU41PRM
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "SEROV"
+  branch: SEROVSKIJ BRANCH
+  swift: UBRDRU41SER
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "ST. PETERSBURG"
+  branch: SANKT-PETERBURGSKIJ BRANCH
+  swift: UBRDRU41SPB
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "UFA"
+  branch: null
+  swift: UBRDRU41UFA
+    
+- name: "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)"
+  city: "VORONEZH"
+  branch: VORONEZHSKIJ BRANCH
+  swift: UBRDRU41VRN
+    
+- name: "TIME BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: DONTRU21
+    
+- name: "TIMER BANK PJSC"
+  city: "KAZAN"
+  branch: null
+  swift: TIMERU2K
+    
+- name: "TINKOFF BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: TICSRUMM
+    
+- name: "TKB CAPITAL CJSC"
+  city: "MOSCOW"
+  branch: null
+  swift: TKCCRUM1
+    
+- name: "TOGLIATTIKHIMBANK"
+  city: "TOGLIATTI"
+  branch: null
+  swift: TOGLRU3T
+    
+- name: "TOYOTA BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: TOYBRUMM
+    
+- name: "TRADE FINANCE BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: TFBCRUMM
+    
+- name: "TRANSKAPITALBANK"
+  city: "BRYANSK"
+  branch: BRYANSK BRANCH
+  swift: TJSCRUM1BRN
+    
+- name: "TRANSKAPITALBANK"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: TJSCRUM1EKT
+    
+- name: "TRANSKAPITALBANK"
+  city: "KALININGRAD"
+  branch: KALININGRAD BRANCH
+  swift: TJSCRUM1KLG
+    
+- name: "TRANSKAPITALBANK"
+  city: "KALUGA"
+  branch: KALUGA BRANCH
+  swift: TJSCRUM1KAL
+    
+- name: "TRANSKAPITALBANK"
+  city: "KOLOMNA"
+  branch: KOLOMNA BRANCH
+  swift: TJSCRUM1KLN
+    
+- name: "TRANSKAPITALBANK"
+  city: "KOROLEV"
+  branch: KOROLEV BRANCH
+  swift: TJSCRUM1KOR
+    
+- name: "TRANSKAPITALBANK"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: TJSCRUM1KRD
+    
+- name: "TRANSKAPITALBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: TJSCRUMM
+    
+- name: "TRANSKAPITALBANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: TJSCRUM1NIZ
+    
+- name: "TRANSKAPITALBANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: TJSCRUM1NVS
+    
+- name: "TRANSKAPITALBANK"
+  city: "PERM"
+  branch: PERM BRANCH
+  swift: TJSCRUM1PER
+    
+- name: "TRANSKAPITALBANK"
+  city: "PODOLSK"
+  branch: PODOLSK BRANCH
+  swift: TJSCRUM1POD
+    
+- name: "TRANSKAPITALBANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV BRANCH
+  swift: TJSCRUM1RST
+    
+- name: "TRANSKAPITALBANK"
+  city: "RYAZAN"
+  branch: RYAZAN BRANCH
+  swift: TJSCRUM1RZN
+    
+- name: "TRANSKAPITALBANK"
+  city: "SAMARA"
+  branch: SAMARA BRANCH
+  swift: TJSCRUM1SAM
+    
+- name: "TRANSKAPITALBANK"
+  city: "ST. PETERSBURG"
+  branch: ST.PETERSBURG BRANCH
+  swift: TJSCRUM1SPB
+    
+- name: "TRANSKAPITALBANK"
+  city: "SYKTYVKAR"
+  branch: SYKTYVKAR BRANCH
+  swift: TJSCRUM1SYK
+    
+- name: "TRANSKAPITALBANK"
+  city: "TYUMEN"
+  branch: TYUMEN BRANCH
+  swift: TJSCRUM1TYU
+    
+- name: "TRANSKAPITALBANK"
+  city: "VORONEZH"
+  branch: VORONEZH BRANCH
+  swift: TJSCRUM1VRN
+    
+- name: "TRANSKAPITALBANK"
+  city: "YAROSLAVL"
+  branch: YAROSLAVL BRANCH
+  swift: TJSCRUM1YAR
+    
+- name: "TRANSSTROIBANK, JOINT STOCK COMMERCIAL BANK (JOINT STOCK COMPANY)"
+  city: "MOSCOW"
+  branch: null
+  swift: TRSNRUMM
+    
+- name: "TSENTRALNO-CHERNOZEMNY BRANCH OF JOINT STOCK COMMERCIAL BANK INVESTBANK OPEN-END JSC"
+  city: "VORONEZH"
+  branch: null
+  swift: VORNRU21
+    
+- name: "TYUMENPROFBANK"
+  city: "TYUMEN"
+  branch: null
+  swift: TYUMRU41
+    
+- name: "UDMURTINVESTBUILDBANK"
+  city: "IZHEVSK"
+  branch: null
+  swift: UDMURU31
+    
+- name: "UFC BANK PJSC"
+  city: "MOSCOW"
+  branch: null
+  swift: CLJARUMM
+    
+- name: "UFC BANK PJSC"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: CLJARUM1RND
+    
+- name: "UM-BANK LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: UMBARUMM
+    
+- name: "UNICREDIT BANK AO"
+  city: "MOSCOW"
+  branch: null
+  swift: IMBKRUMM
+    
+- name: "UNICREDIT BANK AO"
+  city: "MOSCOW"
+  branch: null
+  swift: IMBKRUMMIBO
+    
+- name: "UNICREDIT BANK AO"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: IMBKRUMMPET
+    
+- name: "UNISTREAM COMMERCIAL BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: UMTNRUMM
+    
+- name: "UNITED REGISTERHOLDING COMPANY"
+  city: "MOSCOW"
+  branch: null
+  swift: UNRCRUM1
+    
+- name: "UNITED RESERVE BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: UNRSRUM1
+    
+- name: "UNITED SETTLEMENT SYSTEM NBCO JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: NCOURUMM
+    
+- name: "UNIVERSAL STOCK BANK LTD"
+  city: "MOSCOW"
+  branch: null
+  swift: UNSKRUMM
+    
+- name: "URAL TRUST BANK"
+  city: "IZHEVSK"
+  branch: null
+  swift: URTRRU31
+    
+- name: "URALCAPITALBANK"
+  city: "UFA"
+  branch: null
+  swift: URACRU41
+    
+- name: "URALFINANCE COMMERCIAL BANK"
+  city: "EKATERINBURG"
+  branch: null
+  swift: URCORU41
+    
+- name: "URALFINPROMBANK"
+  city: "EKATERINBURG"
+  branch: null
+  swift: UROARU41
+    
+- name: "URALPRIVATBANK"
+  city: "EKATERINBURG"
+  branch: null
+  swift: URJCRU41
+    
+- name: "URALS REGIONAL CURRENCY EXCHANGE"
+  city: "EKATERINBURG"
+  branch: null
+  swift: URCERU41
+    
+- name: "URALSIB BANK"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: AVTBRUM1032
+    
+- name: "URALSIB BANK"
+  city: "KRASNODAR"
+  branch: YUZHNIY BRANCH
+  swift: AVTBRUM1048
+    
+- name: "URALSIB BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: AVTBRUMM
+    
+- name: "URALSIB BANK"
+  city: "NOVOSIBIRSK"
+  branch: NOVOSIBIRSK BRANCH
+  swift: AVTBRUM1015
+    
+- name: "URALSIB BANK"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: AVTBRUM1025
+    
+- name: "URALSIB BANK"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH
+  swift: AVTBRUM1021
+    
+- name: "URALSIB BANK"
+  city: "UFA"
+  branch: UFA BRANCH
+  swift: AVTBRUM1002
+    
+- name: "URALTRANSBANK OAO"
+  city: "EKATERINBURG"
+  branch: null
+  swift: UTRBRU4E
+    
+- name: "VAKOBANK"
+  city: "VELIKIE LUKI"
+  branch: null
+  swift: VAKORU21
+    
+- name: "VCABANK"
+  city: "ASTRAKHAN"
+  branch: null
+  swift: VCJVRU3A
+    
+- name: "'VERHNEVOLZHSKIY' CB OAO"
+  city: "RYBINSK"
+  branch: null
+  swift: VECARU21
+    
+- name: "VIKING"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: VKNGRU2P
+    
+- name: "VITABANK PJSC"
+  city: "ST. PETERSBURG"
+  branch: null
+  swift: VITARU2P
+    
+- name: "VLADBIZNESBANK ZAO"
+  city: "VLADIMIR"
+  branch: null
+  swift: VLADRU21
+    
+- name: "VLADIVOSTOK (RUSSIA) STOCK EXCHANGE"
+  city: "VLADIVOSTOK"
+  branch: null
+  swift: XVLARU81
+    
+- name: "VLBANK"
+  city: "IRKUTSK"
+  branch: IRKUTSK BRANCH
+  swift: VLBARU61IRK
+    
+- name: "VLBANK"
+  city: "UST-KUT"
+  branch: null
+  swift: VLBARU61
+    
+- name: "VNESHECONOMBANK"
+  city: "MOSCOW"
+  branch: null
+  swift: BFEARUMM
+    
+- name: "VNESHFINBANK"
+  city: "KRASNODAR"
+  branch: null
+  swift: VNESRU21
+    
+- name: "VOLGOINVESTBANK"
+  city: "SARATOV"
+  branch: null
+  swift: VOLIRU21
+    
+- name: "VOLGO-KAMSKY BANK"
+  city: "SAMARA"
+  branch: null
+  swift: VOLARU31
+    
+- name: "VOLKSWAGEN BANK RUS"
+  city: "MOSCOW"
+  branch: null
+  swift: VOWARUMM
+    
+- name: "VOLKSWAGEN COMPONENTS AND SERVICES"
+  city: "KALUGA"
+  branch: null
+  swift: VOCSRU21
+    
+- name: "VOLKSWAGEN GROUP RUS"
+  city: "KALUGA"
+  branch: null
+  swift: VGRURU22
+    
+- name: "VOLOGDABANK"
+  city: "VOLOGDA"
+  branch: null
+  swift: VOLBRUM1
+    
+- name: "VOLOGZHANIN BANK AO"
+  city: "VOLOGDA"
+  branch: null
+  swift: VOLJRU21
+    
+- name: "'VOLZHSKY UNIVERSAL BANK' OAO"
+  city: "SAMARA"
+  branch: null
+  swift: VUNIRU31
+    
+- name: "VOSTOKKREDITBANK OAO"
+  city: "BLAGOVESHCHENSK"
+  branch: null
+  swift: VOSORU81
+    
+- name: "VOSTSIBTRANSKOMBANK OAO"
+  city: "IRKUTSK"
+  branch: null
+  swift: VOOARU61
+    
+- name: "VOZROZHDENIE BANK"
+  city: "KALININGRAD"
+  branch: KALININGRAD BRANCH
+  swift: VBNKRUM1KLG
+    
+- name: "VOZROZHDENIE BANK"
+  city: "KRASNODAR"
+  branch: KRASNODAR BRANCH
+  swift: VBNKRUM1KRD
+    
+- name: "VOZROZHDENIE BANK"
+  city: "MAGADAN"
+  branch: MAGADAN BRANCH
+  swift: VBNKRUM1MGD
+    
+- name: "VOZROZHDENIE BANK"
+  city: "MAKHACHKALA"
+  branch: MAKHACHKALA BRANCH
+  swift: VBNKRUM1MHL
+    
+- name: "VOZROZHDENIE BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: VBNKRUMM
+    
+- name: "VOZROZHDENIE BANK"
+  city: "MURMANSK"
+  branch: MURMANSK BRANCH
+  swift: VBNKRUM1MRM
+    
+- name: "VOZROZHDENIE BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: VBNKRUM1NNG
+    
+- name: "VOZROZHDENIE BANK"
+  city: "NOVOROSSIYSK"
+  branch: NOVOROSSIYSK BRANCH
+  swift: VBNKRUM1NVR
+    
+- name: "VOZROZHDENIE BANK"
+  city: "PETROZAVODSK"
+  branch: PETROZAVODSK BRANCH
+  swift: VBNKRUM1PTZ
+    
+- name: "VOZROZHDENIE BANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: VBNKRUM1RND
+    
+- name: "VOZROZHDENIE BANK"
+  city: "SARANSK"
+  branch: SARANSK BRANCH
+  swift: VBNKRUM1SRN
+    
+- name: "VOZROZHDENIE BANK"
+  city: "ST. PETERSBURG"
+  branch: ST. PETERSBURG BRANCH
+  swift: VBNKRUM1SPB
+    
+- name: "VOZROZHDENIE BANK"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH
+  swift: VBNKRUM1STA
+    
+- name: "VOZROZHDENIE BANK"
+  city: "TULA"
+  branch: TULA BRANCH
+  swift: VBNKRUM1TUL
+    
+- name: "VOZROZHDENIE BANK"
+  city: "VOLGODONSK"
+  branch: VOLGODONSK BRANCH
+  swift: VBNKRUM1VGD
+    
+- name: "VOZROZHDENIE BANK"
+  city: "VOLGOGRAD"
+  branch: VOLGOGRAD BRANCH
+  swift: VBNKRUM1VGR
+    
+- name: "VOZROZHDENIE BANK"
+  city: "VORONEZH"
+  branch: VORONEZH BRANCH
+  swift: VBNKRUM1VRZ
+    
+- name: "VTB 24 (PJSC)"
+  city: "EKATERINBURG"
+  branch: N 6602
+  swift: CBGURUMMEKA
+    
+- name: "VTB 24 (PJSC)"
+  city: "KHABAROVSK"
+  branch: N 2754
+  swift: CBGURUMMKHA
+    
+- name: "VTB 24 (PJSC)"
+  city: "KRASNODAR"
+  branch: N 2351
+  swift: CBGURUMMKRD
+    
+- name: "VTB 24 (PJSC)"
+  city: "MOSCOW"
+  branch: N 7777
+  swift: CBGURUMMZUB
+    
+- name: "VTB 24 (PJSC)"
+  city: "MOSCOW"
+  branch: null
+  swift: CBGURUMM
+    
+- name: "VTB 24 (PJSC)"
+  city: "NOVOSIBIRSK"
+  branch: N 5440
+  swift: CBGURUMMNOV
+    
+- name: "VTB 24 (PJSC)"
+  city: "SAMARA"
+  branch: N 6318
+  swift: CBGURUMMSAM
+    
+- name: "VTB 24 (PJSC)"
+  city: "ST. PETERSBURG"
+  branch: N 7806
+  swift: CBGURUMMSTP
+    
+- name: "VTB 24 (PJSC)"
+  city: "VORONEZH"
+  branch: N 3652
+  swift: CBGURUMMVOR
+    
+- name: "VTB BANK (PJSC)"
+  city: "EKATERINBURG"
+  branch: EKATERINBURG BRANCH
+  swift: VTBRRUM2EKA
+    
+- name: "VTB BANK (PJSC)"
+  city: "EKATERINBURG"
+  branch: URALSKIY BRANCH, EKATERINBURG
+  swift: VTBRRUM2EK2
+    
+- name: "VTB BANK (PJSC)"
+  city: "KHABAROVSK"
+  branch: KHABAROVSK BRANCH
+  swift: VTBRRUM2KHA
+    
+- name: "VTB BANK (PJSC)"
+  city: "KRASNOYARSK"
+  branch: KRASNOYARSK BRANCH
+  swift: VTBRRUM2KRA
+    
+- name: "VTB BANK (PJSC)"
+  city: "MOSCOW"
+  branch: CUSTODY DEPARTMENT
+  swift: VTBRRUMMCSD
+    
+- name: "VTB BANK (PJSC)"
+  city: "MOSCOW"
+  branch: SECURITIES DEPARTMENT
+  swift: VTBRRUMMSEC
+    
+- name: "VTB BANK (PJSC)"
+  city: "MOSCOW"
+  branch: TSENTRALNYI BRANCH, MOSCOW
+  swift: VTBRRUM2MS2
+    
+- name: "VTB BANK (PJSC)"
+  city: "MOSCOW"
+  branch: null
+  swift: VTBRRUM2MSK
+    
+- name: "VTB BANK (PJSC)"
+  city: "MOSCOW"
+  branch: null
+  swift: VTBRRUMM
+    
+- name: "VTB BANK (PJSC)"
+  city: "MOSCOW"
+  branch: null
+  swift: VTBRRUMML29
+    
+- name: "VTB BANK (PJSC)"
+  city: "NIZHNIY NOVGOROD"
+  branch: NIZHNIY NOVGOROD BRANCH
+  swift: VTBRRUM2NIN
+    
+- name: "VTB BANK (PJSC)"
+  city: "NIZHNIY NOVGOROD"
+  branch: PRIVOLZHSKIY BRANCH, NIZHNIY NOVGOROD
+  swift: VTBRRUM2NI2
+    
+- name: "VTB BANK (PJSC)"
+  city: "NOVOSIBIRSK"
+  branch: SIBIRSKIY BRANCH, NOVOSIBIRSK
+  swift: VTBRRUM2NS2
+    
+- name: "VTB BANK (PJSC)"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: VTBRRUM2RND
+    
+- name: "VTB BANK (PJSC)"
+  city: "ROSTOV-ON-DON"
+  branch: YUZHNYI BRANCH, ROSTOV-ON-DON
+  swift: VTBRRUM2RN2
+    
+- name: "VTB BANK (PJSC)"
+  city: "ST. PETERSBURG"
+  branch: OPERU BRANCH
+  swift: VTBRRUM2NWR
+    
+- name: "VTB BANK (PJSC)"
+  city: "ST. PETERSBURG"
+  branch: SEVERO-ZAPADNYI BRANCH, SAINT-PETERSBURG
+  swift: VTBRRUM2SP2
+    
+- name: "VTB BANK (PJSC)"
+  city: "STAVROPOL"
+  branch: SEVERO-KAVKAZSKIY BRANCH, STAVROPOL
+  swift: VTBRRUM2ST2
+    
+- name: "VTB BANK (PJSC)"
+  city: "STAVROPOL"
+  branch: STAVROPOL BRANCH
+  swift: VTBRRUM2STA
+    
+- name: "VTB BANK (PJSC)"
+  city: "VORONEZH"
+  branch: VORONEZH BRANCH
+  swift: VTBRRUM2VRN
+    
+- name: "VTB BANK (PJSC)"
+  city: "YUZHNO-SAKHALINSK"
+  branch: DALNEVOSTOCHNYI BRANCH, YUZHNO-SAKHALINSK
+  swift: VTBRRUM2KH2
+    
+- name: "VUZ-BANK OAO"
+  city: "EKATERINBURG"
+  branch: null
+  swift: VUZBRU41
+    
+- name: "VVB BANK PUBLIC JOINT STOCK COMPANY, RYBINSK BRANCH"
+  city: "RYBINSK"
+  branch: null
+  swift: VVBKRU2Y
+    
+- name: "VVNB"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: VVNBRU21
+    
+- name: "VW GROUP RUS"
+  city: "KALUGA"
+  branch: null
+  swift: GRUURU21
+    
+- name: "VZAIMODEYSTVIE"
+  city: "NOVOSIBIRSK"
+  branch: null
+  swift: BELRRU51
+    
+- name: "WELLTON BANK"
+  city: "BELGOROD"
+  branch: null
+  swift: WELORU21
+    
+- name: "WEST SIBERIAN COMMERCIAL BANK OAO"
+  city: "TYUMEN"
+  branch: null
+  swift: ZWCBRU4Y
+    
+- name: "YANDEX.MONEY, NBCO LLC"
+  city: "MOSCOW"
+  branch: null
+  swift: YNDMRUM1
+    
+- name: "YAR BANK LTD."
+  city: "MOSCOW"
+  branch: null
+  swift: OBIBRUMM
+    
+- name: "YARMAROCHNYI BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: null
+  swift: YARMRU21
+    
+- name: "YAROSLAVL JOINT STOCK CREDPROMBANK OPEN JOINT STO CK COMPANY"
+  city: "MOSCOW"
+  branch: null
+  swift: KRPBRU2YMSK
+    
+- name: "YAROSLAVL JOINT STOCK CREDPROMBANK OPEN JOINT STO CK COMPANY"
+  city: "YAROSLAVL"
+  branch: null
+  swift: KRPBRU2Y
+    
+- name: "YARSOTSBANK JSC"
+  city: "YAROSLAVL"
+  branch: null
+  swift: YAYORUM1
+    
+- name: "YMK BANK"
+  city: "KRASNODAR"
+  branch: null
+  swift: YMKYRU21
+    
+- name: "YOSHKAR-OLA BANK"
+  city: "YOSHKAR-OLA"
+  branch: null
+  swift: YOSHRU21
+    
+- name: "YUZHNY REGION CB"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: YURERU21
+    
+- name: "ZAO 'BARENTSBANK'"
+  city: "MURMANSK"
+  branch: null
+  swift: BROORU21
+    
+- name: "ZAO 'BARENTSBANK'"
+  city: "PETROZAVODSK"
+  branch: PETROZAVODSKIY BRANCH
+  swift: BROORU21PTR
+    
+- name: "ZAO 'BELDORBANK'"
+  city: "BELGOROD"
+  branch: null
+  swift: BEZARU21
+    
+- name: "ZAO CITIGROUP GLOBAL MARKETS"
+  city: "MOSCOW"
+  branch: null
+  swift: ZCGMRUM1
+    
+- name: "ZAO DEUTSCHE SECURITIES"
+  city: "MOSCOW"
+  branch: null
+  swift: UFGRRUM1
+    
+- name: "ZAO NGAB ERMAK"
+  city: "NIZHNEVARTOVSK"
+  branch: null
+  swift: ERMARU51
+    
+- name: "ZAO 'SBERINVESTBANK'"
+  city: "EKATERINBURG"
+  branch: null
+  swift: OREORU41
+    
+- name: "ZARECHYE BANK"
+  city: "KAZAN"
+  branch: null
+  swift: ZAJCRU2K
+    
+- name: "ZEMCOMBANK"
+  city: "ROSTOV-ON-DON"
+  branch: null
+  swift: ZEMCRU22
+    
+- name: "ZENIT BANK"
+  city: "ALMETYEVSK"
+  branch: ALMETYEVSK BRANCH
+  swift: ZENIRUM1ALM
+    
+- name: "ZENIT BANK"
+  city: "EKATERINBURG"
+  branch: URAL BRANCH
+  swift: ZENIRUM1EKT
+    
+- name: "ZENIT BANK"
+  city: "KAZAN"
+  branch: TATARSTAN BRANCH
+  swift: ZENIRUM1KZN
+    
+- name: "ZENIT BANK"
+  city: "KURSK"
+  branch: KURSK BRANCH
+  swift: ZENIRUM1KUR
+    
+- name: "ZENIT BANK"
+  city: "MOSCOW"
+  branch: HEAD OFFICE
+  swift: ZENIRUMM001
+    
+- name: "ZENIT BANK"
+  city: "MOSCOW"
+  branch: null
+  swift: ZENIRUMM
+    
+- name: "ZENIT BANK"
+  city: "NIZHNIY NOVGOROD"
+  branch: VOLGA BRANCH
+  swift: ZENIRUM1NNO
+    
+- name: "ZENIT BANK"
+  city: "NOVOSIBIRSK"
+  branch: SIBIR BRANCH
+  swift: ZENIRUM1NVS
+    
+- name: "ZENIT BANK"
+  city: "ROSTOV-ON-DON"
+  branch: ROSTOV-ON-DON BRANCH
+  swift: ZENIRUM1RND
+    
+- name: "ZENIT BANK"
+  city: "SAMARA"
+  branch: POVOLZYE BRANCH
+  swift: ZENIRUM1SMR
+    
+- name: "ZENIT BANK"
+  city: "ST. PETERSBURG"
+  branch: BALTIKA BRANCH
+  swift: ZENIRUM1SPB
+    
+- name: "'ZERNOBANK' COMMERCIAL BANK ZAO"
+  city: "BARNAUL"
+  branch: ZHELEZNODOROZHNY
+  swift: ZJSCRU51ZMD
+    
+- name: "'ZERNOBANK' COMMERCIAL BANK ZAO"
+  city: "BARNAUL"
+  branch: null
+  swift: ZJSCRU51
+    
+- name: "ZIRAAT BANK (MOSCOW)"
+  city: "MOSCOW"
+  branch: null
+  swift: TCZBRUMM
+    
+- name: "ZLATCOMBANK"
+  city: "ZLATOUST"
+  branch: null
+  swift: ZLATRU41
+    
+- name: "ZLATCOMBANK, JSC"
+  city: "MOSCOW"
+  branch: null
+  swift: ZLATRUMM
+    

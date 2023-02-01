@@ -1,0 +1,395 @@
+- name: "AL BARAKA BANK TUNISIA"
+  city: "TUNIS"
+  branch: null
+  swift: BEITTNTT
+    
+- name: "ALUBAF INTERNATIONAL BANK TUNIS"
+  city: "TUNIS"
+  branch: null
+  swift: ALUBTNTT
+    
+- name: "AMEN BANK"
+  city: "TUNIS"
+  branch: null
+  swift: CFCTTNTT
+    
+- name: "ARAB BANKING CORPORATION"
+  city: "TUNIS"
+  branch: ONSHORE BRANCH TUNISIE
+  swift: ABCOTNTT001
+    
+- name: "ARAB BANKING CORPORATION"
+  city: "TUNIS"
+  branch: null
+  swift: ABCOTNTT
+    
+- name: "ARAB TUNISIAN BANK"
+  city: "TUNIS"
+  branch: null
+  swift: ATBKTNTT
+    
+- name: "ATTIJARI BANK"
+  city: "TUNIS"
+  branch: ATTIJARI INTERMEDIATION
+  swift: BSTUTNTTAIN
+    
+- name: "ATTIJARI BANK"
+  city: "TUNIS"
+  branch: ATTIJARI TITRE
+  swift: BSTUTNTTTIT
+    
+- name: "ATTIJARI BANK"
+  city: "TUNIS"
+  branch: INTERNATIONAL DEPARTMENT
+  swift: BSTUTNTTINT
+    
+- name: "ATTIJARI BANK"
+  city: "TUNIS"
+  branch: null
+  swift: BSTUTNTT
+    
+- name: "BANKERS TRUST COMPANY"
+  city: "TUNIS"
+  branch: null
+  swift: BKTRTNT1
+    
+- name: "BANQUE CENTRALE DE TUNISIE"
+  city: "TUNIS"
+  branch: null
+  swift: BCTNTNTT
+    
+- name: "BANQUE CENTRALE DE TUNISIE"
+  city: "TUNIS"
+  branch: null
+  swift: BCTNTNTTVGM
+    
+- name: "BANQUE DE FINANCEMENT DES PME"
+  city: "TUNIS"
+  branch: null
+  swift: BFPMTNTT
+    
+- name: "BANQUE DE L'HABITAT"
+  city: "TUNIS"
+  branch: null
+  swift: BHBKTNTT
+    
+- name: "BANQUE DE TUNISIE"
+  city: "TUNIS"
+  branch: null
+  swift: BTBKTNTT
+    
+- name: "BANQUE DE TUNISIE"
+  city: "TUNIS"
+  branch: null
+  swift: BTBKTNTTVGM
+    
+- name: "BANQUE DE TUNISIE ET DES EMIRATS"
+  city: "TUNIS"
+  branch: null
+  swift: BTEXTNTT
+    
+- name: "BANQUE FRANCO TUNISIENNE"
+  city: "TUNIS"
+  branch: TRESORERIE
+  swift: BFTNTNTTTRS
+    
+- name: "BANQUE FRANCO TUNISIENNE"
+  city: "TUNIS"
+  branch: null
+  swift: BFTNTNTT
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "SFAX"
+  branch: CREDIT DOCUMENTAIRE EXPORT SFAX
+  swift: BIATTNTTDXS
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "SFAX"
+  branch: CREDIT DOCUMENTAIRE IMPORT SFAX
+  swift: BIATTNTTDMS
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "SFAX"
+  branch: REMISE EXPORT SFAX
+  swift: BIATTNTTRXS
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "SFAX"
+  branch: REMISE IMPORT SFAX
+  swift: BIATTNTTRMS
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "SFAX"
+  branch: TRANSFERT EMIS SFAX
+  swift: BIATTNTTTES
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "SFAX"
+  branch: TRANSFERT RECU SFAX
+  swift: BIATTNTTTRS
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "SFAX"
+  branch: null
+  swift: BIATTNTTSFX
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: CREDIT DOCUMENTAIRE EXPORT TUNIS
+  swift: BIATTNTTDXT
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: CREDIT DOCUMENTAIRE IMPORT TUNIS
+  swift: BIATTNTTDMT
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: ENCAISSEMENT CHEQUE INTERNATIONALE
+  swift: BIATTNTTECI
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: FINANCEMENT EN DEVISE EXPORT
+  swift: BIATTNTTFDE
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: FINANCEMENT EN DEVISE IMPORT
+  swift: BIATTNTTFDI
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: GARANTIE INTERNATIONALE EMISE
+  swift: BIATTNTTGIE
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: GARANTIE INTERNATIONALE RECUE
+  swift: BIATTNTTGIR
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: PAIEMENT CHEQUE INTERNATIONALE
+  swift: BIATTNTTPCI
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: REMISE EXPORT TUNIS
+  swift: BIATTNTTRXT
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: REMISE IMPORT TUNIS
+  swift: BIATTNTTRMT
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: TRANSFERT EMIS TUNIS
+  swift: BIATTNTTTET
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: TRANSFERT RECU TUNIS
+  swift: BIATTNTTTRT
+    
+- name: "BANQUE INTERNATIONALE ARABE DE TUNISIE"
+  city: "TUNIS"
+  branch: null
+  swift: BIATTNTT
+    
+- name: "BANQUE NATIONALE AGRICOLE"
+  city: "SFAX"
+  branch: DIRECTION REGIONALE
+  swift: BNTETNTTSFX
+    
+- name: "BANQUE NATIONALE AGRICOLE"
+  city: "SOUSSE"
+  branch: DIRECTION REGIONALE
+  swift: BNTETNTTSSE
+    
+- name: "BANQUE NATIONALE AGRICOLE"
+  city: "TUNIS"
+  branch: null
+  swift: BNTETNTT
+    
+- name: "BANQUE TUNISIENNE DE SOLIDARITE"
+  city: "TUNIS"
+  branch: null
+  swift: TUSOTNT1
+    
+- name: "BANQUE TUNISO-KOWEITIENNE"
+  city: "TUNIS"
+  branch: null
+  swift: BTKOTNTT
+    
+- name: "BANQUE TUNISO-LIBYENNE"
+  city: "TUNIS"
+  branch: null
+  swift: ATLDTNTT
+    
+- name: "BANQUE ZITOUNA"
+  city: "TUNIS"
+  branch: SALLE DES MARCHES
+  swift: BZITTNTTSDM
+    
+- name: "BANQUE ZITOUNA"
+  city: "TUNIS"
+  branch: VIREMENTS GROS MONTANTS
+  swift: BZITTNTTVGM
+    
+- name: "BANQUE ZITOUNA"
+  city: "TUNIS"
+  branch: null
+  swift: BZITTNTT
+    
+- name: "BOURSE DES VALEURS MOBILIERES DE TUNIS"
+  city: "TUNIS"
+  branch: null
+  swift: XTUNTNT1
+    
+- name: "CITIBANK N.A."
+  city: "TUNIS"
+  branch: ON SHORE BRANCH
+  swift: CITITNTXONS
+    
+- name: "CITIBANK N.A."
+  city: "TUNIS"
+  branch: null
+  swift: CITITNTX
+    
+- name: "FITCH NORTH AFRICA SA"
+  city: "TUNIS"
+  branch: null
+  swift: FRIPTNT1
+    
+- name: "LA POSTE TUNISIENNE"
+  city: "TUNIS"
+  branch: null
+  swift: LPTNTNTT
+    
+- name: "NORTH AFRICA INTERNATIONAL BANK"
+  city: "TUNIS"
+  branch: null
+  swift: NOAFTNTT
+    
+- name: "QATAR NATIONAL BANK-TUNISIA"
+  city: "ARIANA"
+  branch: null
+  swift: BTQITNTT
+    
+- name: "SOCIETE TUNISIENNE DE BANQUE"
+  city: "MONASTIR"
+  branch: MONASTIR
+  swift: STBKTNTT017
+    
+- name: "SOCIETE TUNISIENNE DE BANQUE"
+  city: "NABEUL"
+  branch: DIRECTION REGIONALE
+  swift: STBKTNTT925
+    
+- name: "SOCIETE TUNISIENNE DE BANQUE"
+  city: "SFAX"
+  branch: DIRECTION REGIONALE
+  swift: STBKTNTT940
+    
+- name: "SOCIETE TUNISIENNE DE BANQUE"
+  city: "SOUSSE"
+  branch: DIRECTION REGIONALE
+  swift: STBKTNTT930
+    
+- name: "SOCIETE TUNISIENNE DE BANQUE"
+  city: "TUNIS"
+  branch: DIRECTION DE LA SUCCURSALE THAMEUR
+  swift: STBKTNTT000
+    
+- name: "SOCIETE TUNISIENNE DE BANQUE"
+  city: "TUNIS"
+  branch: HEAD OFFICE AND ALL OTHER DEPARTMENTS
+  swift: STBKTNTT
+    
+- name: "SOCIETE TUNISIENNE INTERPROFESSIONNELLE POUR LA COMPENSATION ET LE DEPOT DES VALEURS MOBILIERES"
+  city: "TUNIS"
+  branch: null
+  swift: STICTNT1
+    
+- name: "TUNIS INTERNATIONAL BANK"
+  city: "TUNIS"
+  branch: null
+  swift: TUIBTNTT
+    
+- name: "TUNISIAN FOREIGN BANK"
+  city: "TUNIS"
+  branch: null
+  swift: UTUBTNTT
+    
+- name: "TUNISIAN SAUDI BANK"
+  city: "TUNIS"
+  branch: null
+  swift: TSIDTNTT
+    
+- name: "TUNISIE VALEURS"
+  city: "TUNIS"
+  branch: null
+  swift: TUNVTNT1
+    
+- name: "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)"
+  city: "NABEUL"
+  branch: NABEUL BRANCH
+  swift: UBCITNTTNBL
+    
+- name: "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)"
+  city: "SFAX"
+  branch: SFAX BRANCH
+  swift: UBCITNTTSFX
+    
+- name: "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)"
+  city: "SOUSSE"
+  branch: SOUSSE BRANCH
+  swift: UBCITNTTSSE
+    
+- name: "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)"
+  city: "TUNIS"
+  branch: ENGAGEMENT
+  swift: UBCITNTTENG
+    
+- name: "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)"
+  city: "TUNIS"
+  branch: SALLE DES MARCHES
+  swift: UBCITNTTSDM
+    
+- name: "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)"
+  city: "TUNIS"
+  branch: VIREMENTS GROS MONTANTS
+  swift: UBCITNTTVGM
+    
+- name: "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)"
+  city: "TUNIS"
+  branch: null
+  swift: UBCITNTT
+    
+- name: "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)"
+  city: "TUNIS"
+  branch: null
+  swift: UBCITNTTCHG
+    
+- name: "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)"
+  city: "TUNIS"
+  branch: null
+  swift: UBCITNTTPST
+    
+- name: "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)"
+  city: "TUNIS"
+  branch: null
+  swift: UBCITNTTTCE
+    
+- name: "UNION INTERNATIONALE DE BANQUES"
+  city: "TUNIS"
+  branch: null
+  swift: UIBKTNTT
+    
+- name: "WIFACK INTERNATIONAL BANK"
+  city: "MEDENINE"
+  branch: null
+  swift: WKIBTNTT
+    

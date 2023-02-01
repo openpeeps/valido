@@ -1,0 +1,4665 @@
+- name: "A AND G BANCA PRIVADA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: AYGBESMM
+    
+- name: "A.B. ASESORES BURSATILES BOLSA, SA, S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: ABABESM1
+    
+- name: "A.T. EQUITIES SPAIN A.V. S.A."
+  city: "MADRID"
+  branch: null
+  swift: ATECESM1
+    
+- name: "A.T. EQUITIES SPAN A.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: EQSAESM1
+    
+- name: "AAREAL BANK AG"
+  city: "MADRID"
+  branch: null
+  swift: AARBESM1
+    
+- name: "ABANCA CORPORACION BANCARIA, S.A."
+  city: "BETANZOS"
+  branch: null
+  swift: CAGLESMM
+    
+- name: "ABANCA CORPORACION BANCARIA, S.A."
+  city: "LA CORUNA (A CORUNA)"
+  branch: INTL. OPERATIONS AND FOREIGN TRADE
+  swift: CAGLESMMCOP
+    
+- name: "ABANCA CORPORACION BANCARIA, S.A."
+  city: "LA CORUNA (A CORUNA)"
+  branch: PAYMENT SYSTEMS DEPT.
+  swift: CAGLESMMLCO
+    
+- name: "ABANCA CORPORACION BANCARIA, S.A."
+  city: "MADRID"
+  branch: BACK OFFICE
+  swift: CAGLESMMBAC
+    
+- name: "ABANCA CORPORACION BANCARIA, S.A."
+  city: "MADRID"
+  branch: FOREIGN TRADE AND INTL. OPERATIONS
+  swift: CAGLESMMBOI
+    
+- name: "ABANCA CORPORACION BANCARIA, S.A."
+  city: "VIGO"
+  branch: EXTRANJERO - VIGO
+  swift: CAGLESMMVOP
+    
+- name: "ABANCA CORPORACION BANCARIA, S.A."
+  city: "VIGO"
+  branch: null
+  swift: CAGLESMMVIG
+    
+- name: "ABANTE ASESORES GESTION SGIIC SA"
+  city: "MADRID"
+  branch: null
+  swift: ASGSESMM
+    
+- name: "ABASIC SLU"
+  city: "BARCELONA"
+  branch: null
+  swift: DSGLESBB
+    
+- name: "ABENGOA"
+  city: "SEVILLA"
+  branch: null
+  swift: ABGOESSE
+    
+- name: "ABERTIS INFRAESTRUCTURAS, SA"
+  city: "BARCELONA"
+  branch: null
+  swift: ABIRESBB
+    
+- name: "ABN-AMRO, S.A. S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: ABAMESM1
+    
+- name: "ACA, S.A. SOCIEDAD DE VALORES"
+  city: "BARCELONA"
+  branch: null
+  swift: ACSVESB1
+    
+- name: "ADVANTIC S.L"
+  city: "MADRID"
+  branch: null
+  swift: ADATESM1
+    
+- name: "AFINA PENTOR, A.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: AFPEESM1
+    
+- name: "AGENBOLSA A.V.B. S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: AGAVESB1
+    
+- name: "AGUILAR Y DE LA FUENTE, S.A. AGENCIA DE VALORES"
+  city: "MADRID"
+  branch: null
+  swift: AGFAESM1
+    
+- name: "AHORRO CORPORACION FINANCIERA, S.V., S.A."
+  city: "BARCELONA"
+  branch: BARCELONA OFFICE
+  swift: AHCFESMMBAR
+    
+- name: "AHORRO CORPORACION FINANCIERA, S.V., S.A."
+  city: "MADRID"
+  branch: MADRID OFFICE
+  swift: AHCFESMMMAD
+    
+- name: "AHORRO CORPORACION FINANCIERA, S.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: AHCFESMM
+    
+- name: "AHORRO CORPORACION FINANCIERA, S.V., S.A."
+  city: "VALENCIA"
+  branch: VALENCIA OFFICE
+  swift: AHCFESMMVAL
+    
+- name: "ALANTRA EQUITIES S.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: NMEQESM1
+    
+- name: "ALDESA CONSTRUCCIONES S.A."
+  city: "MADRID"
+  branch: null
+  swift: ACORESMM
+    
+- name: "ALHAMBRA PARTNERS, S.V, S.A"
+  city: "POZUELO DE ALARCON"
+  branch: null
+  swift: AHPAES21
+    
+- name: "ALL TRADING EUROPE ASSETS AND MARKETS, S.V., S.A.U."
+  city: "MADRID"
+  branch: null
+  swift: ATBEESM1
+    
+- name: "ALLFUNDS BANK"
+  city: "ALCOBENDAS"
+  branch: null
+  swift: ALLFESMM
+    
+- name: "ALLIED BANKING CORPORATION"
+  city: "MADRID"
+  branch: null
+  swift: ABCMESM1
+    
+- name: "ALMIRALL, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: PFPFESBB
+    
+- name: "ALTURA MARKETS, S.A, S.V."
+  city: "MADRID"
+  branch: null
+  swift: ALMTESM1
+    
+- name: "ALVEAN SUGAR, S.L., BILBAO"
+  city: "BILBAO"
+  branch: null
+  swift: ALVEES22
+    
+- name: "AMERICAN EXPRESS COMPANY OF SPAIN"
+  city: "MADRID"
+  branch: null
+  swift: AMESESM1
+    
+- name: "ANDBANK ESPANA S.A."
+  city: "MADRID"
+  branch: null
+  swift: BACAESMM
+    
+- name: "ANDBANK WEALTH MANAGEMENT SGIIC SA"
+  city: "MADRID"
+  branch: null
+  swift: AAMAESMM
+    
+- name: "ANDINO, AGENCIA DE VALORES Y BOLSA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: ANDOESM1
+    
+- name: "ARESBANK, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: AREBESMMBAR
+    
+- name: "ARESBANK, S.A."
+  city: "LAS PALMAS DE GRAN CANARIA"
+  branch: null
+  swift: AREBESMMCAN
+    
+- name: "ARESBANK, S.A."
+  city: "MADRID"
+  branch: FINANCIAL DIVISION
+  swift: AREBESMMINV
+    
+- name: "ARESBANK, S.A."
+  city: "MADRID"
+  branch: INTERNATIONAL DIVISION
+  swift: AREBESMMINT
+    
+- name: "ARESBANK, S.A."
+  city: "MADRID"
+  branch: null
+  swift: AREBESMM
+    
+- name: "ARESBANK, S.A."
+  city: "MADRID"
+  branch: null
+  swift: AREBESMMMAD
+    
+- name: "ARESBANK, S.A."
+  city: "MARBELLA"
+  branch: null
+  swift: AREBESMMMAR
+    
+- name: "ARIBAU PRODUCTOS S L"
+  city: "BARCELONA"
+  branch: null
+  swift: LOCAESM1
+    
+- name: "ARQUIA GESTION"
+  city: "BARCELONA"
+  branch: null
+  swift: ARGEESB1
+    
+- name: "ARTECHE LANTEGI ELKARTEA S.A."
+  city: "MUNGIA"
+  branch: null
+  swift: ARLEES21
+    
+- name: "ASISA, ASISTENCIA SANITARIA INTERPROVINCIAL DE SEGUROS, S.A (SOCIEDED UNIPERSONAL)"
+  city: "MADRID"
+  branch: null
+  swift: ASAUESMM
+    
+- name: "ASSOCIATES CAPITAL CORPORATION PLC SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: ASSCESM1
+    
+- name: "ATL 12 CAPITAL INVERSIONES AV, SA"
+  city: "MADRID"
+  branch: null
+  swift: ATCVESM1
+    
+- name: "ATRADIUS CREDITO Y CAUCION S.A. DE SEGUROS Y REASEGUROS"
+  city: "MADRID"
+  branch: null
+  swift: ACAGESMM
+    
+- name: "ATTIJARIWAFA BANK EUROPE SUCURSAL EN ESPANA SA"
+  city: "MADRID"
+  branch: null
+  swift: BCMAESMM
+    
+- name: "AURIGA GLOBAL INVESTORS SOCIEDAD DE VALORES, S.A."
+  city: "MADRID"
+  branch: null
+  swift: ASSVESM1
+    
+- name: "AXA AURORA VIDA"
+  city: "BILBAO"
+  branch: null
+  swift: AXAVES21
+    
+- name: "AXA IBERCAPITAL"
+  city: "MADRID"
+  branch: null
+  swift: AXIBESM1
+    
+- name: "AXA MEDITERRANEAN SERVICES"
+  city: "BARCELONA"
+  branch: null
+  swift: AXMSESB1
+    
+- name: "AXA SEGUROS GENERALES, SA DE SEGUROS Y RESEGUROS"
+  city: "BARCELONA"
+  branch: MPS
+  swift: AXIPESBBMPS
+    
+- name: "AXA SEGUROS GENERALES, SA DE SEGUROS Y RESEGUROS"
+  city: "BARCELONA"
+  branch: null
+  swift: AXIPESBB
+    
+- name: "AXESOR CONOCER PARA DECIDIR SA AXESOR"
+  city: "ARMILLA"
+  branch: null
+  swift: ACDAES21
+    
+- name: "B. AND T. ASOCIADOS FINANCIEROS, S.A., S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: ASFIESM1
+    
+- name: "B.I. CAPITAL A.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: CATBESM1
+    
+- name: "BANCA FARMAFACTORING S.P.A SUCURSAL EN ESPAA"
+  city: "MADRID"
+  branch: null
+  swift: FASNESM1
+    
+- name: "BANCA MARCH, SA"
+  city: "PALMA DE MALLORCA"
+  branch: null
+  swift: BMARES2M
+    
+- name: "BANCA NAZIONALE DEL LAVORO"
+  city: "MADRID"
+  branch: null
+  swift: BNLIESM1
+    
+- name: "BANCA POPOLARE ETICA"
+  city: "BILBAO"
+  branch: null
+  swift: ETICES21
+    
+- name: "BANCA PUEYO, S.A."
+  city: "VILLANUEVA DE LA SERENA"
+  branch: null
+  swift: BAPUES22
+    
+- name: "BANCO ALCALA S.A."
+  city: "MADRID"
+  branch: ENTIDAD AGENTE - IBERCLEAR
+  swift: ALCLESMM015
+    
+- name: "BANCO ALCALA S.A."
+  city: "MADRID"
+  branch: null
+  swift: ALCLESMM
+    
+- name: "BANCO ALICANTINO DE COMERCIO S.A."
+  city: "MADRID"
+  branch: null
+  swift: ALCIESM1
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: BACKOFFICE - EQUITY EXECUTION
+  swift: BBVAESMMRIM
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: BANCO AGENTE
+  swift: BBVAESMMBAG
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: CLIENTE MULTIPAIS
+  swift: BBVAESMMCMP
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: EQUITY EXECUTIONS CONFIRMATIONS NSV CTM
+  swift: BBVAESM1CTX
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: FIX INCOME
+  swift: BBVAESMMCFI
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: FOR ALL REMAINING UNLISTED BRANCHES
+  swift: BBVAESMM
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: GESTORAS DE RENTA FIJA
+  swift: BBVAESM1CTM
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: INTERNAL MESSAGING
+  swift: BBVAESMMBOL
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: MIDDLE OFFICE RENTA VARIABLE
+  swift: BBVAESM1RMS
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: NSCV LMP
+  swift: BBVAESMMCBF
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: OPV SECURITIES MANAGEMENT
+  swift: BBVAESM1OPV
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: TREASURY DEPARTMENT
+  swift: BBVAESMMFXD
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+  city: "MADRID"
+  branch: null
+  swift: BBVAESMMREL
+    
+- name: "BANCO BPI S.A.- SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: BBPIESMM
+    
+- name: "BANCO CAIXA GERAL"
+  city: "MADRID"
+  branch: null
+  swift: CGDIESMM
+    
+- name: "BANCO CAMINOS"
+  city: "MADRID"
+  branch: null
+  swift: CCOCESMM
+    
+- name: "BANCO CAMINOS"
+  city: "MADRID"
+  branch: null
+  swift: CCOCESMMRVN
+    
+- name: "BANCO CANARIAS DE VENEZUELA, CA"
+  city: "SANTA CRUZ DE TENERIFE"
+  branch: null
+  swift: BOCAES21
+    
+- name: "BANCO COMERCIAL MOST BANK"
+  city: "MADRID"
+  branch: null
+  swift: MOSTESM1
+    
+- name: "BANCO COMERCIAL PORTUGUES S.A."
+  city: "MADRID"
+  branch: null
+  swift: BCOMESM1
+    
+- name: "BANCO CONDAL, S.A."
+  city: "MADRID"
+  branch: null
+  swift: BCNDESM1
+    
+- name: "BANCO CONSOLIDADO ESPANA, S.A.."
+  city: "MADRID"
+  branch: null
+  swift: CONSESM1
+    
+- name: "BANCO COOPERATIVO ESPANOL S.A."
+  city: "MADRID"
+  branch: null
+  swift: BCOEESMM
+    
+- name: "BANCO COOPERATIVO ESPANOL S.A."
+  city: "MADRID"
+  branch: null
+  swift: BCOEESMMRVN
+    
+- name: "BANCO DE ALBACETE, S.A."
+  city: "MADRID"
+  branch: null
+  swift: ALACESM1
+    
+- name: "BANCO DE BARCELONA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: BAROESM1
+    
+- name: "BANCO DE CAJA ESPANA DE INVERSIONES"
+  city: "MADRID"
+  branch: FINANCIAL DEPARTMENT
+  swift: CSSOES2SFIN
+    
+- name: "BANCO DE CAJA ESPANA DE INVERSIONES"
+  city: "MADRID"
+  branch: TREASURY DEPARTMENT
+  swift: CSSOES2STRE
+    
+- name: "BANCO DE CAJA ESPANA DE INVERSIONES"
+  city: "SALAMANCA"
+  branch: null
+  swift: CSSOES2S
+    
+- name: "BANCO DE CAJA ESPANA DE INVERSIONES, SALAMANCA Y SORIA, S.A."
+  city: "LEON"
+  branch: null
+  swift: CSPAES2L108
+    
+- name: "BANCO DE CAJA ESPANA DE INVERSIONES, SALAMANCA Y SORIA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: CSPAES2L
+    
+- name: "BANCO DE CASTILLA-LA MANCHA, S.A."
+  city: "CUENCA"
+  branch: null
+  swift: CECAESMM105
+    
+- name: "BANCO DE CREDITO SOCIAL COOPERATIVO SA."
+  city: "MADRID"
+  branch: null
+  swift: BCCAESMM
+    
+- name: "BANCO DE DEPOSITOS, S.A."
+  city: "MADRID"
+  branch: null
+  swift: BDEPESM1
+    
+- name: "BANCO DE DESARROLLO ECONOMICO ESPANOL"
+  city: "BARCELONA"
+  branch: null
+  swift: DEEEESM10BB
+    
+- name: "BANCO DE DESARROLLO ECONOMICO ESPANOL"
+  city: "MADRID"
+  branch: null
+  swift: DEEEESM1
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: AAD
+  swift: ESPBESM1AAD
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: AFD
+  swift: ESPBESMMAFD
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: AMF
+  swift: ESPBESM1AMF
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: ASI
+  swift: ESPBESMMASI
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: AYM
+  swift: ESPBESMMAYM
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: BANCO DE ESPANA
+  swift: ESPBESMMSDD
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C01
+  swift: ESPBESMMC01
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C02
+  swift: ESPBESMMC02
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C02
+  swift: ESPBESMMC03
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C03
+  swift: ESPBESMMC04
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C04
+  swift: ESPBESMMC05
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C06
+  swift: ESPBESMMC06
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C07
+  swift: ESPBESMMC07
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C08
+  swift: ESPBESMMC08
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C09
+  swift: ESPBESMMC09
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C10
+  swift: ESPBESMMC10
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C11
+  swift: ESPBESMMC11
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C12
+  swift: ESPBESMMC12
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C13
+  swift: ESPBESMMC13
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C14
+  swift: ESPBESMMC14
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: C15
+  swift: ESPBESMMC15
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: CBE
+  swift: ESPBESM1CBE
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: CDI
+  swift: ESPBESM1CDI
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: CPM
+  swift: ESPBESM1CPM
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: CSP
+  swift: ESPBESMMCSP
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: EGD
+  swift: ESPBESM1EGD
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: FFA
+  swift: ESPBESMMFFA
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: FGE
+  swift: ESPBESMMFGE
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: FGS
+  swift: ESPBESMMFGS
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: FGT
+  swift: ESPBESM1FGT
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: FOREIGN OPERATIONS BACK OFFICE
+  swift: ESPBESMMECB
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: FROB
+  swift: ESPBESMMFRB
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: GAR
+  swift: ESPBESMMGAR
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: INTERNCB
+  swift: ESPBESMMEUX
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: IVP
+  swift: ESPBESMMIVP
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: MID
+  swift: ESPBESMMMID
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: OCC
+  swift: ESPBESMMOCC
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: OFI
+  swift: ESPBESM1OFI
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: PLC
+  swift: ESPBESMMPLC
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: PLV
+  swift: ESPBESMMPLV
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: PP3
+  swift: ESPBESMMPP3
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: PSP
+  swift: ESPBESMMPSP
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: RESERVE MANAGEMENT SERVICES
+  swift: ESPBESMMRMS
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: RT6
+  swift: ESPBESMMRT6
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: SRB
+  swift: ESPBESMMSRB
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: STE
+  swift: ESPBESMMSTE
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: TCA
+  swift: ESPBESMMTCA
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: TEC
+  swift: ESPBESMMTEC
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: TFP 9049
+  swift: ESPBESMMTFP
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: TLC
+  swift: ESPBESMMTLC
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: TRD
+  swift: ESPBESM1TRD
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: TSS
+  swift: ESPBESMMTSS
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: TTE
+  swift: ESPBESMMTTE
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: ESPBESMM
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: ESPBESMMCCB
+    
+- name: "BANCO DE ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: ESPBESMMHIT
+    
+- name: "BANCO DE LA NACION ARGENTINA, SUCURSAL MADRID"
+  city: "MADRID"
+  branch: null
+  swift: NACNESMM
+    
+- name: "BANCO DE LA PROVINCIA DE BUENOS AIRES"
+  city: "MADRID"
+  branch: null
+  swift: PRBAESM1
+    
+- name: "BANCO DE LAS ACTIV. ECONOMICAS EXTERIORES (VNESHECONOMBANK)"
+  city: "MADRID"
+  branch: null
+  swift: AEEVESM1
+    
+- name: "BANCO DE MADRID S.A."
+  city: "MADRID"
+  branch: null
+  swift: MADRESMM
+    
+- name: "BANCO DE PROMOCION DE NEGOCIOS SA"
+  city: "MADRID"
+  branch: null
+  swift: PRNEESM1
+    
+- name: "BANCO DE SABADELL, S.A."
+  city: "SABADELL"
+  branch: null
+  swift: BSABESBB
+    
+- name: "BANCO DE SABADELL, S.A."
+  city: "SABADELL"
+  branch: null
+  swift: BSABESBBBME
+    
+- name: "BANCO DE SABADELL, S.A."
+  city: "SABADELL"
+  branch: null
+  swift: BSABESBBEAG
+    
+- name: "BANCO DO BRASIL AG - SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: BRASESMM
+    
+- name: "BANCO DO BRASIL SA"
+  city: "MADRID"
+  branch: null
+  swift: BRASESB1
+    
+- name: "BANCO ESFINGE S.A."
+  city: "MADRID"
+  branch: null
+  swift: ESFIESM1
+    
+- name: "BANCO EUROPEO DE FINANZAS, S.A."
+  city: "MADRID"
+  branch: null
+  swift: BEDFESM1
+    
+- name: "BANCO FIMESTIC S.A."
+  city: "MADRID"
+  branch: null
+  swift: FIEIESM1
+    
+- name: "BANCO FINANTIA SOFINLOC, S.A."
+  city: "MADRID"
+  branch: null
+  swift: FIOFESM1
+    
+- name: "BANCO GRUPO CAJATRES"
+  city: "BURGOS"
+  branch: null
+  swift: TRESES21
+    
+- name: "BANCO INDUSTRIAL DE BILBAO, S.A."
+  city: "BILBAO"
+  branch: null
+  swift: INBBESM1
+    
+- name: "BANCO INDUSTRIAL DE CATALUNA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: INALESM1
+    
+- name: "BANCO INTERNACIONAL, S.A."
+  city: "MADRID"
+  branch: null
+  swift: BIMEESM1
+    
+- name: "BANCO INVERSIS, S.A."
+  city: "MADRID"
+  branch: LIQUIDACION Y CUSTODIA
+  swift: INVLESMMOPS
+    
+- name: "BANCO INVERSIS, S.A."
+  city: "MADRID"
+  branch: null
+  swift: INVLESMM
+    
+- name: "BANCO MARE NOSTRUM, S.A."
+  city: "MADRID"
+  branch: null
+  swift: GBMNESMM
+    
+- name: "BANCO MARE NOSTRUM, S.A."
+  city: "MURCIA"
+  branch: null
+  swift: CECAESMM043
+    
+- name: "BANCO MEDIOLANUM, S.A."
+  city: "BARCELONA"
+  branch: RENTA FIJA CUENTA PROPIA
+  swift: BFIVESBBRFP
+    
+- name: "BANCO MEDIOLANUM, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: BFIVESBB
+    
+- name: "BANCO NACIONAL DE CUBA"
+  city: "MADRID"
+  branch: null
+  swift: BNACESM1
+    
+- name: "BANCO OCCIDENTAL, S.A."
+  city: "MADRID"
+  branch: null
+  swift: OCBAESM1
+    
+- name: "BANCO PASTOR S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: PSTRESMMBAR
+    
+- name: "BANCO PASTOR S.A."
+  city: "BILBAO"
+  branch: null
+  swift: PSTRESMMBIL
+    
+- name: "BANCO PASTOR S.A."
+  city: "LA CORUNA (A CORUNA)"
+  branch: null
+  swift: PSTRESMM
+    
+- name: "BANCO PASTOR S.A."
+  city: "LA CORUNA (A CORUNA)"
+  branch: null
+  swift: PSTRESMMLCO
+    
+- name: "BANCO PASTOR S.A."
+  city: "VALENCIA"
+  branch: null
+  swift: PSTRESMMVAL
+    
+- name: "BANCO PASTOR S.A."
+  city: "VIGO"
+  branch: null
+  swift: PSTRESMMVGO
+    
+- name: "BANCO PASTOR S.A."
+  city: "ZARAGOZA"
+  branch: null
+  swift: PSTRESMMZAR
+    
+- name: "BANCO PICHINCHA"
+  city: "MADRID"
+  branch: null
+  swift: PICHESMM
+    
+- name: "BANCO POPULAR ESPANOL, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: POPUESMMBAR
+    
+- name: "BANCO POPULAR ESPANOL, S.A."
+  city: "MADRID"
+  branch: CASH MANAGEMENT
+  swift: POPUESMMCMG
+    
+- name: "BANCO POPULAR ESPANOL, S.A."
+  city: "MADRID"
+  branch: RED EXTERIOR DEPARTMENT
+  swift: POPUESMMREX
+    
+- name: "BANCO POPULAR ESPANOL, S.A."
+  city: "MADRID"
+  branch: SECURITIES
+  swift: POPUESMMBOL
+    
+- name: "BANCO POPULAR ESPANOL, S.A."
+  city: "MADRID"
+  branch: null
+  swift: POPUESMM
+    
+- name: "BANCO POPULAR ESPANOL, S.A."
+  city: "MADRID"
+  branch: null
+  swift: POPUESMMEAG
+    
+- name: "BANCO PORTUGUES DE INVESTIMENTO, S.A. SUCURSAL ENESPANA"
+  city: "MADRID"
+  branch: null
+  swift: BPIPESM1
+    
+- name: "BANCO PRIVADO PORTUGUES, S.A."
+  city: "MADRID"
+  branch: null
+  swift: BPPOESM1
+    
+- name: "BANCO SANTANDER S.A CIUDAD GRUPO SANTANDER.EDF.PAMPA"
+  city: "MADRID"
+  branch: null
+  swift: BSCHESMG
+    
+- name: "BANCO SANTANDER S.A."
+  city: "MADRID"
+  branch: ALL SPAIN BRANCHES
+  swift: BSCHESMM
+    
+- name: "BANCO SANTANDER S.A."
+  city: "MADRID"
+  branch: ONLY FOR SECURITIES
+  swift: BSCHESMMAGE
+    
+- name: "BANCO SANTANDER S.A."
+  city: "MADRID"
+  branch: ONLY FOR SECURITIES
+  swift: BSCHESMMBME
+    
+- name: "BANCO SANTANDER S.A."
+  city: "MADRID"
+  branch: SANTANDER MADRID CLS CONTROL BRANCH
+  swift: BSCHESMMCLS
+    
+- name: "BANCO SANTANDER S.A. FORMERLY BANCO BANIF S.A."
+  city: "BOADILLA DEL MONTE"
+  branch: null
+  swift: NORTESMM
+    
+- name: "BANCO SANTANDER S.A. FORMERLY BANCO ESPANOL DE CREDITO"
+  city: "BOADILLA DEL MONTE"
+  branch: MADRID AND ALL SPANISH OFFICES
+  swift: ESPCESMM
+    
+- name: "BANCO SBS-AGRO"
+  city: "MADRID"
+  branch: null
+  swift: STOLESM1
+    
+- name: "BANCO SYGMA HISPANIA"
+  city: "MADRID"
+  branch: null
+  swift: SHSAESM1
+    
+- name: "BANCOFAR S.A."
+  city: "MADRID"
+  branch: null
+  swift: BAOFESM1
+    
+- name: "BANCOVAL SECURITIES SERVICES S.A."
+  city: "MADRID"
+  branch: BANCOVAL FIXED INCOME
+  swift: BVALESMMRFN
+    
+- name: "BANCOVAL SECURITIES SERVICES S.A."
+  city: "MADRID"
+  branch: null
+  swift: BVALESMM
+    
+- name: "BANDENIA BANCA"
+  city: "MADRID"
+  branch: null
+  swift: BNNAESM1
+    
+- name: "BANDENIA CAPITAL INVESTMENT PLC"
+  city: "LAS ROZAS DE MADRID"
+  branch: null
+  swift: BNCVESM1
+    
+- name: "BANDENIA EMPRENDE S.A.C."
+  city: "LAS ROZAS DE MADRID"
+  branch: null
+  swift: BNESESM1
+    
+- name: "BANDENIA FIDUCIARY MANAGEMENT LTD"
+  city: "MADRID"
+  branch: null
+  swift: BFIGESM1
+    
+- name: "BANDENIA FINANCIAL GROUP PLC"
+  city: "MADRID"
+  branch: null
+  swift: BFGMESM1
+    
+- name: "BANDENIA FINANZIA E.D.E., S.L."
+  city: "LAS ROZAS DE MADRID"
+  branch: null
+  swift: BAZEESM1
+    
+- name: "BANDENIA PARTICIPADAS S.L."
+  city: "LAS ROZAS DE MADRID"
+  branch: null
+  swift: BADTESM1
+    
+- name: "BANDENIA PRIVATE EQUITY PARTNES LTD"
+  city: "LAS ROZAS DE MADRID"
+  branch: null
+  swift: BPEEESM1
+    
+- name: "BANDENIA PROPERTIES LTD"
+  city: "LAS ROZAS DE MADRID"
+  branch: null
+  swift: BNRRESM1
+    
+- name: "BANDENIA S.A."
+  city: "MADRID"
+  branch: null
+  swift: BNNDESM1
+    
+- name: "BANDENIA SECURE PROCESSING LTD"
+  city: "LAS ROZAS DE MADRID"
+  branch: null
+  swift: BAUCESM1
+    
+- name: "BANESTO BANCO DE EMISIONES S.A."
+  city: "MADRID"
+  branch: null
+  swift: BAEMESM1
+    
+- name: "BANK AUSTRIA CREDITANSTALT INTERNATIONAL AG"
+  city: "MADRID"
+  branch: null
+  swift: BKAUESM1
+    
+- name: "BANK DEGROOF PETERCAM SPAIN, S.A."
+  city: "BARCELONA"
+  branch: NON DEPOSITED
+  swift: DEGRESBBNDP
+    
+- name: "BANK DEGROOF PETERCAM SPAIN, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: DEGRESBB
+    
+- name: "BANK OF AMERICA EUROPE CARD SERVICES, MBNA ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: AECEESM1
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED"
+  city: "MADRID"
+  branch: null
+  swift: BOFAES2X
+    
+- name: "BANK OF NEW YORK, THE"
+  city: "MADRID"
+  branch: null
+  swift: IRVTESM1
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "BARCELONA"
+  branch: BARCELONA SUB-BRANCH OF MADRID BRANCH
+  swift: BOTKESM10BB
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "MADRID"
+  branch: MADRID BRANCH
+  swift: BOTKESMX
+    
+- name: "BANKERS TRUST COMPANY, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: BKTRESM1
+    
+- name: "BANKIA S.A."
+  city: "VALENCIA"
+  branch: null
+  swift: CAHMESMM
+    
+- name: "BANKINTER GESTION DE ACTIVOS, S.A., S.G.I.I.C."
+  city: "MADRID"
+  branch: null
+  swift: BGSAESMM
+    
+- name: "BANKINTER, S.A."
+  city: "ALICANTE"
+  branch: null
+  swift: BKBKESMMALI
+    
+- name: "BANKINTER, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: BKBKESMMBAR
+    
+- name: "BANKINTER, S.A."
+  city: "BILBAO"
+  branch: null
+  swift: BKBKESMMBIL
+    
+- name: "BANKINTER, S.A."
+  city: "LAS PALMAS DE GRAN CANARIA"
+  branch: null
+  swift: BKBKESMMLPS
+    
+- name: "BANKINTER, S.A."
+  city: "MADRID"
+  branch: BACK OFFICE TESORERIA-ARBITRAJES
+  swift: BKBKESMMBAC
+    
+- name: "BANKINTER, S.A."
+  city: "MADRID"
+  branch: FUNDS DEPARTMENT
+  swift: BKBKESMMFON
+    
+- name: "BANKINTER, S.A."
+  city: "MADRID"
+  branch: null
+  swift: BKBKESMM
+    
+- name: "BANKINTER, S.A."
+  city: "MALAGA"
+  branch: null
+  swift: BKBKESMMMAL
+    
+- name: "BANKINTER, S.A."
+  city: "MURCIA"
+  branch: null
+  swift: BKBKESMMMUR
+    
+- name: "BANKINTER, S.A."
+  city: "PALMA DE MALLORCA"
+  branch: null
+  swift: BKBKESMMPAL
+    
+- name: "BANKINTER, S.A."
+  city: "PAMPLONA"
+  branch: null
+  swift: BKBKESMMNAV
+    
+- name: "BANKINTER, S.A."
+  city: "SAN SEBASTIAN"
+  branch: null
+  swift: BKBKESMMSSE
+    
+- name: "BANKINTER, S.A."
+  city: "SANTA CRUZ DE TENERIFE"
+  branch: null
+  swift: BKBKESMMTEN
+    
+- name: "BANKINTER, S.A."
+  city: "SANTANDER"
+  branch: null
+  swift: BKBKESMMSAN
+    
+- name: "BANKINTER, S.A."
+  city: "SEVILLA"
+  branch: null
+  swift: BKBKESMMSEV
+    
+- name: "BANKINTER, S.A."
+  city: "VALENCIA"
+  branch: null
+  swift: BKBKESMMVAL
+    
+- name: "BANKINTER, S.A."
+  city: "VIGO"
+  branch: null
+  swift: BKBKESMMVIG
+    
+- name: "BANKINTER, S.A."
+  city: "ZARAGOZA"
+  branch: null
+  swift: BKBKESMMZAR
+    
+- name: "BANKOA S.A. CREDIT AGRICOLE"
+  city: "SAN SEBASTIAN"
+  branch: HEAD OFFICE
+  swift: BKOAES22
+    
+- name: "BANQUE CHAABI DU MAROC SUCURSAL ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: BCDMESMM
+    
+- name: "BANQUE COMMERCIALE DU MAROC"
+  city: "MADRID"
+  branch: null
+  swift: BCMAESM1
+    
+- name: "BANQUE COURTOIS"
+  city: "BARCELONA"
+  branch: null
+  swift: COURESB1
+    
+- name: "BANQUE MAROCAINE DU COMMERCE EXTERIEUR INTERNATIONAL, S.A."
+  city: "MADRID"
+  branch: null
+  swift: BMCEESMM
+    
+- name: "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: PRIBESMX
+    
+- name: "BANQUE PSA FINANCE"
+  city: "MADRID"
+  branch: null
+  swift: PSABESM1
+    
+- name: "BANQUE REGIONALE D'ESCOMPTE ET DE DEPOTS"
+  city: "MADRID"
+  branch: null
+  swift: REDEESM1
+    
+- name: "BANQUE SCANDINAVE EN SUISSE"
+  city: "MARBELLA"
+  branch: null
+  swift: SCSIESM1
+    
+- name: "BANQUE SCS ALLIANCE"
+  city: "BARCELONA"
+  branch: null
+  swift: BSSAESB1
+    
+- name: "BANQUE SUDAMERIS"
+  city: "MADRID"
+  branch: null
+  swift: BSUDESM1
+    
+- name: "BARCELONA STOCK EXCHANGE"
+  city: "BARCELONA"
+  branch: null
+  swift: XBARESB1
+    
+- name: "BARCLAYS BANK PLC"
+  city: "MADRID"
+  branch: null
+  swift: BPLCESMM
+    
+- name: "BARCLAYS PIZARRO Y ROCODER S.A., S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: BAZWESM1
+    
+- name: "BAYERISCHE HYPO- UND VEREINSBANK AG"
+  city: "MADRID"
+  branch: null
+  swift: HYVEESM1
+    
+- name: "BBVA AND PARTNERS ALTERNATIVE INVESTMENTS S.A., A.V."
+  city: "MADRID"
+  branch: null
+  swift: BPAVESM1
+    
+- name: "BBVA BANCO DE FINANCIACION, S.A."
+  city: "BILBAO"
+  branch: null
+  swift: BBFIES21
+    
+- name: "BBVA GESTION"
+  city: "MADRID"
+  branch: null
+  swift: BBGEESM1
+    
+- name: "BBVA SEGUROS"
+  city: "MADRID"
+  branch: null
+  swift: BBSGESM1
+    
+- name: "BEAR, CROSBY AND PIKE, A.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: BECKESM1
+    
+- name: "BEKA FINANCE, S.V., S.A."
+  city: "MADRID"
+  branch: AGENT PAYMENT
+  swift: CMBOESMMBK1
+    
+- name: "BEKA FINANCE, S.V., S.A."
+  city: "MADRID"
+  branch: REPORTING CNMV
+  swift: CMBOESMMBK2
+    
+- name: "BEKA FINANCE, S.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: CMBOESMM
+    
+- name: "BENITO Y MONJARDIN S.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: BENMESM1
+    
+- name: "BES INVESTIMENTO SA"
+  city: "MADRID"
+  branch: null
+  swift: BEIVESM1
+    
+- name: "BESTINVER, S.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: BEERESM1
+    
+- name: "BETA CAPITAL S.V.B., S.A."
+  city: "BARCELONA"
+  branch: BARCELONA OFFICE
+  swift: BECAESM1BAR
+    
+- name: "BETA CAPITAL S.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: BECAESM1
+    
+- name: "BIGBANK AS CONSUMER FINANCE SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: BIGKESM1
+    
+- name: "BILBAO PLAZA FINANCIERA DEPOSITARIA, AGENCIA DE V LORES, S.A."
+  city: "BILBAO"
+  branch: null
+  swift: BPFDES21
+    
+- name: "BMCE EUROSERVICES"
+  city: "MADRID"
+  branch: null
+  swift: BMEUESM1
+    
+- name: "BME CLEARING"
+  city: "BARCELONA"
+  branch: ANCILLARY SYSTEM
+  swift: MEFFESBBCCP
+    
+- name: "BME CLEARING"
+  city: "BARCELONA"
+  branch: MARGIN ACCOUNT
+  swift: MEFFESBBMRG
+    
+- name: "BME CLEARING"
+  city: "BARCELONA"
+  branch: MEFF EURO SERVICES
+  swift: MEFFESBBMES
+    
+- name: "BME CLEARING"
+  city: "BARCELONA"
+  branch: MEFF RENTA FIJA
+  swift: MEFFESBBMRF
+    
+- name: "BME CLEARING"
+  city: "BARCELONA"
+  branch: MEFFREPO
+  swift: MEFFESBBRRR
+    
+- name: "BME CLEARING"
+  city: "MADRID"
+  branch: BME CLEARING CONTADO RENTA VARIABLE
+  swift: MEFFESBBCRV
+    
+- name: "BME CLEARING"
+  city: "MADRID"
+  branch: BME CLEARING CONTADO RENTA VARIABLE
+  swift: MEFFESBBVVV
+    
+- name: "BME CLEARING"
+  city: "MADRID"
+  branch: BME CLEARING S.A.U. - CONTADO RENTA FIJA
+  swift: MEFFESBBCRF
+    
+- name: "BME CLEARING"
+  city: "MADRID"
+  branch: MEFF RENTA VARIABLE
+  swift: MEFFESBBMRV
+    
+- name: "BME CLEARING"
+  city: "MADRID"
+  branch: null
+  swift: MEFFESBB
+    
+- name: "BNP PARIBAS ESPANA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: BNPAESMM
+    
+- name: "BNP PARIBAS ESPANA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: BNPAESMZ
+    
+- name: "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA"
+  city: "BARCELONA"
+  branch: BARCELONA BRANCH
+  swift: GEBAESMMBAR
+    
+- name: "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA"
+  city: "BILBAO"
+  branch: null
+  swift: GEBAESMMBIL
+    
+- name: "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: MADRID BRANCH
+  swift: GEBAESMMMAD
+    
+- name: "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: GEBAESMM
+    
+- name: "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA"
+  city: "VALENCIA"
+  branch: VALENCIA BRANCH
+  swift: GEBAESMMVAL
+    
+- name: "BNP PARIBAS S.A. SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: BNPAESMH
+    
+- name: "BNP PARIBAS S.A. SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: BNPAESMS
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BNP PARIBAS SECURITIES SERVICES CTS
+  swift: PARBESMXCTS
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BNP PARIBAS SECURITIES SERVICES, SPAIN
+  swift: PARBESMXISI
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BP2S MADRID
+  swift: PARBESMXAFB
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BP2S MADRID
+  swift: PARBESMXUSA
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BP2S MADRID
+  swift: PARBESMXWMG
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BP2S MARDRID
+  swift: PARBESMXFDS
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BP2S MARDRID
+  swift: PARBESMXFRX
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BP2S MARDRID
+  swift: PARBESMXSRA
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BP2S SPAIN FDS FOREIGN
+  swift: PARBESMXFFO
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BP2S SPAIN FDS FRENCH
+  swift: PARBESMXFFR
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: BP2S SPAIN TREBOL
+  swift: PARBESMXTRB
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: FOR CLIENT VIEW LOCAL MADRID APPLICATION
+  swift: PARBESMXCVW
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1000
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1001
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1002
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1003
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1004
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1005
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1006
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1007
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1008
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1009
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1010
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1011
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1012
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1013
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1014
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1015
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1016
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1017
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1018
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1019
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1020
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1021
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1022
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1023
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1024
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1025
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1026
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1027
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1028
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1029
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1030
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1031
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1032
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1033
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1034
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1035
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1036
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1037
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1038
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1039
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1040
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1041
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1042
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1043
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1044
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1045
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1046
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1047
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1048
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1049
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1050
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1051
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1052
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1053
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1054
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1055
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1056
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1057
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1058
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1059
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1060
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1061
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1062
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1063
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1064
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1065
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1066
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1067
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1068
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1069
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1070
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1071
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1072
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1073
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1074
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1075
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1076
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1077
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1078
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1079
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1080
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1081
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1082
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1083
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1084
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1085
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1086
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1087
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1088
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1089
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: MADRID
+  swift: PARBESX1090
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: null
+  swift: PARBESMH
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: null
+  swift: PARBESMX
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: null
+  swift: PARBESMXFDA
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, SPAIN"
+  city: "MADRID"
+  branch: null
+  swift: PARBESX1
+    
+- name: "BOLSA DE VALENCIA"
+  city: "VALENCIA"
+  branch: null
+  swift: XVALESV1
+    
+- name: "BOURSORAMA SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: BOUEESM1
+    
+- name: "BTM SECURITIES (SPAIN) S.A. S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: BTMSESM1
+    
+- name: "BUCEFALIA INVERSIONES SICAV SA"
+  city: "BARCELONA"
+  branch: null
+  swift: BUIIESB1
+    
+- name: "BZX INVESTMENTS LTD"
+  city: "LLORET DE MAR"
+  branch: null
+  swift: BZINES21
+    
+- name: "C.M. CAPITAL MARKETS BOLSA SOCIEDAD DE VALORES, S.A."
+  city: "MADRID"
+  branch: BROKERAGE SERVICES
+  swift: CAPIESMMBKR
+    
+- name: "C.M. CAPITAL MARKETS BOLSA SOCIEDAD DE VALORES, S.A."
+  city: "MADRID"
+  branch: null
+  swift: CAPIESMM
+    
+- name: "C.R. DE CHESTE SCC"
+  city: "CHESTE (VALENCIA)"
+  branch: null
+  swift: CCRIES2A121
+    
+- name: "C.R. LA JUNQUERA DE CHILCHES SCCV"
+  city: "CHILCHES"
+  branch: null
+  swift: CCRIES2A157
+    
+- name: "C.R. SAN ROQUE DE ALMENARA SCCV"
+  city: "ALMENARA"
+  branch: null
+  swift: CCRIES2A095
+    
+- name: "C.R.DE ALGINET SCCV"
+  city: "ALGINET"
+  branch: null
+  swift: CCRIES2A179
+    
+- name: "C.R.DE VILLAR CCV"
+  city: "VILLAR DEL ARZOBISPO"
+  branch: null
+  swift: CCRIES2A152
+    
+- name: "C.R.S. ISIDRO DE VILAFAMES SCCV"
+  city: "VILAFAMES"
+  branch: null
+  swift: CCRIES2A165
+    
+- name: "C.R.S. JAIME ALQUERIAS NINO PERDIDO SCCV"
+  city: "ALQUERIAS"
+  branch: null
+  swift: CCRIES2A119
+    
+- name: "C.R.S. JOSE DE BURRIANA SCCV"
+  city: "BURRIANA"
+  branch: null
+  swift: CCRIES2A112
+    
+- name: "C.R.S. JOSE DE NULES"
+  city: "NULES"
+  branch: null
+  swift: CCRIES2A135
+    
+- name: "CA INDOSUEZ WEALTH (EUROPE), SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: AGRIESMM
+    
+- name: "CACEIS BANK ESPANA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: IXIUESM1
+    
+- name: "CAI BOLSA S.V., S.A."
+  city: "ZARAGOZA"
+  branch: null
+  swift: CAOLES21
+    
+- name: "CAIXA BARCELONA SEGUROS VIDA, S.A. SEGUROS Y REASEGUROS"
+  city: "BARCELONA"
+  branch: null
+  swift: CBSVESB1
+    
+- name: "CAIXA DE CREDIT DELS. ENGINYERS-CAJA DE CREDITO DE LOS INGENIEROS SOC. COOP. DE CREDITO"
+  city: "BARCELONA"
+  branch: PRUEBAS TESORIA
+  swift: CDENESBBTES
+    
+- name: "CAIXA DE CREDIT DELS. ENGINYERS-CAJA DE CREDITO DE LOS INGENIEROS SOC. COOP. DE CREDITO"
+  city: "BARCELONA"
+  branch: null
+  swift: CDENESBB
+    
+- name: "CAIXA D'ESTALVIS DEL PENEDES"
+  city: "VILAFRANCA DEL PENEDES"
+  branch: BARCELONA
+  swift: CECAESMM081
+    
+- name: "CAIXA GERAL DE DEPOSITOS-SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: CGDIES21
+    
+- name: "CAIXA GUISSONA"
+  city: "GUISSONA"
+  branch: null
+  swift: CAXIES21
+    
+- name: "CAIXA POPULAR CAIXA RURAL"
+  city: "PATERNA"
+  branch: null
+  swift: BCOEESMM159
+    
+- name: "CAIXA R. DE CALLOSA DE EN SARRIA CCV"
+  city: "CALLOSA DE ENSARRIA"
+  branch: null
+  swift: CCRIES2A105
+    
+- name: "CAIXA R. DE TURIS, C.C.V"
+  city: "TURIS"
+  branch: null
+  swift: CCRIES2A123
+    
+- name: "CAIXA R.S.JOSEP DE VILAVELLA SCCV"
+  city: "VILLAVIEJA"
+  branch: null
+  swift: CCRIES2A160
+    
+- name: "CAIXA RURAL ALBALAT DELS SORELLS"
+  city: "ALBALAT DELS SORELLS"
+  branch: null
+  swift: CCRIES2A186
+    
+- name: "CAIXA RURAL ALTEA CCV"
+  city: "ALTEA"
+  branch: null
+  swift: CCRIES2A045
+    
+- name: "CAIXA RURAL DE TORRENT CCV"
+  city: "TORRENT"
+  branch: null
+  swift: CCRIES2A118
+    
+- name: "CAIXA RURAL GALEGA"
+  city: "LUGO"
+  branch: null
+  swift: BCOEESMM070
+    
+- name: "CAIXA RURAL L'ALCORA"
+  city: "ALCORA"
+  branch: null
+  swift: BCOEESMM113
+    
+- name: "CAIXABANK ASSET MANAGEMENT SGIIC S.A.U."
+  city: "BARCELONA"
+  branch: null
+  swift: CSNIESB1
+    
+- name: "CAIXABANK ELECTRONIC MONEY EDE S.L."
+  city: "BARCELONA"
+  branch: null
+  swift: CEODESB1
+    
+- name: "CAIXABANK S.A. (FORMERLY BARCLAYS BANK S.A.U.)"
+  city: "BARCELONA"
+  branch: null
+  swift: BARCESMM
+    
+- name: "CAIXABANK, S.A."
+  city: "BARCELONA"
+  branch: MAIN BRANCH
+  swift: CAIXESBB
+    
+- name: "CAIXABANK, S.A."
+  city: "BARCELONA"
+  branch: OOFF THROUGH BME
+  swift: CAIXESBBBME
+    
+- name: "CAIXABANK, S.A."
+  city: "BARCELONA"
+  branch: SYNDICATED OPERATIONS
+  swift: CAIXESBBOSN
+    
+- name: "CAIXABANK, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: CAIXESBBEAG
+    
+- name: "CAIXABANK, S.A."
+  city: "BILBAO"
+  branch: null
+  swift: CAIXESBB609
+    
+- name: "CAIXABANK, S.A."
+  city: "GERONA (GIRONA)"
+  branch: null
+  swift: CAIXESBB655
+    
+- name: "CAIXABANK, S.A."
+  city: "LAS PALMAS DE GRAN CANARIA"
+  branch: null
+  swift: CAIXESBB521
+    
+- name: "CAIXABANK, S.A."
+  city: "LERIDA (LLEIDA)"
+  branch: null
+  swift: CAIXESBB654
+    
+- name: "CAIXABANK, S.A."
+  city: "MADRID"
+  branch: MADRID TERRITORIAL
+  swift: CAIXESBBMAD
+    
+- name: "CAIXABANK, S.A."
+  city: "PALMA DE MALLORCA"
+  branch: null
+  swift: CAIXESBB652
+    
+- name: "CAIXABANK, S.A."
+  city: "SANTA CRUZ DE TENERIFE"
+  branch: null
+  swift: CAIXESBB523
+    
+- name: "CAIXABANK, S.A."
+  city: "SEVILLA"
+  branch: null
+  swift: CAIXESBB661
+    
+- name: "CAIXABANK, S.A."
+  city: "TARRAGONA"
+  branch: null
+  swift: CAIXESBBTAR
+    
+- name: "CAIXABANK, S.A."
+  city: "VALENCIA"
+  branch: null
+  swift: CAIXESBB666
+    
+- name: "CAIXABANK, S.A."
+  city: "ZARAGOZA"
+  branch: null
+  swift: CAIXESBB528
+    
+- name: "CAJA DE AHORROS DE POLLENSA"
+  city: "POLLENSA"
+  branch: BALEARES
+  swift: CECAESMM056
+    
+- name: "CAJA DE AHORROS DE SANTANDER Y CANTABRIA"
+  city: "SANTANDER"
+  branch: null
+  swift: CECAESMM066
+    
+- name: "CAJA DE AHORROS Y MONTE DE PIEDAD DE EXTREMADURA"
+  city: "CACERES"
+  branch: null
+  swift: CECAESMM099
+    
+- name: "CAJA DE AHORROS Y MONTE DE PIEDAD DE ONTINYENT"
+  city: "ONTINYENT"
+  branch: VALENCIA
+  swift: CECAESMM045
+    
+- name: "CAJA DE ARQUITECTOS S.COOP.DE CREDITO"
+  city: "BARCELONA"
+  branch: null
+  swift: CASDESBB
+    
+- name: "CAJA DE CREDITO DE PETREL,C.R.,CCV"
+  city: "PETREL"
+  branch: null
+  swift: CCRIES2A029
+    
+- name: "CAJA RURAL CASAS IBANEZ SDAD. COOP."
+  city: "CASAS IBANEZ"
+  branch: null
+  swift: BCOEESMM127
+    
+- name: "CAJA RURAL CATOLICO AGRARIA"
+  city: "VILLARREAL"
+  branch: null
+  swift: CCRIES2A110
+    
+- name: "CAJA RURAL CENTRAL, S.C.C."
+  city: "ORIHUELA"
+  branch: null
+  swift: BCOEESMM005
+    
+- name: "CAJA RURAL DE ALBAL, COOP. DE CREDITO V."
+  city: "ALBAL"
+  branch: null
+  swift: BCOEESMM150
+    
+- name: "CAJA RURAL DE ALGEMESI"
+  city: "VALENCIA"
+  branch: null
+  swift: BCOEESMM117
+    
+- name: "CAJA RURAL DE ALMENDRALEJO"
+  city: "ALMENDRALEJO"
+  branch: null
+  swift: BCOEESMM001
+    
+- name: "CAJA RURAL DE ARAGON, SOCIEDAD COOPERATIVA DE CREDITO"
+  city: "ZARAGOZA"
+  branch: null
+  swift: BCOEESMM191
+    
+- name: "CAJA RURAL DE ASTURIAS"
+  city: "OVIEDO"
+  branch: null
+  swift: BCOEESMM059
+    
+- name: "CAJA RURAL DE BENICARLO"
+  city: "BENICARLO"
+  branch: null
+  swift: BCOEESMM162
+    
+- name: "CAJA RURAL DE BURGOS, FUENTEPELAYO, SEGOVIA Y CASTELLDANS, S.C.C"
+  city: "BURGOS"
+  branch: null
+  swift: BCOEESMM060
+    
+- name: "CAJA RURAL DE CASTILLA LA MANCHA, S.C.C."
+  city: "TOLEDO"
+  branch: null
+  swift: BCOEESMM081
+    
+- name: "CAJA RURAL DE EXTREMADURA"
+  city: "BADAJOZ"
+  branch: null
+  swift: BCOEESMM009
+    
+- name: "CAJA RURAL DE GIJON"
+  city: "GIJON"
+  branch: null
+  swift: BCOEESMM007
+    
+- name: "CAJA RURAL DE GRANADA"
+  city: "GRANADA"
+  branch: null
+  swift: BCOEESMM023
+    
+- name: "CAJA RURAL DE GUISSONA SOCIEDAD COOPERATIVA DE CREDITO"
+  city: "GUISSONA"
+  branch: null
+  swift: BCOEESMM140
+    
+- name: "CAJA RURAL DE JAEN"
+  city: "JAEN"
+  branch: null
+  swift: BCOEESMM067
+    
+- name: "CAJA RURAL DE L'ALCUDIA"
+  city: "VALENCIA"
+  branch: null
+  swift: BCOEESMM096
+    
+- name: "CAJA RURAL DE NAVARRA"
+  city: "PAMPLONA"
+  branch: null
+  swift: BCOEESMM008
+    
+- name: "CAJA RURAL DE SALAMANCA"
+  city: "SALAMANCA"
+  branch: null
+  swift: BCOEESMM016
+    
+- name: "CAJA RURAL DE SAN AGUSTIN DE FUENTE ALAMO"
+  city: "FUENTE ALAMO"
+  branch: CAJA RURAL DE SAN AGUSTIN DE FUENTE ALAMO
+  swift: BCOEESMM018
+    
+- name: "CAJA RURAL DE SAN VICENTE VALL D'UXO"
+  city: "VALL D'UXO"
+  branch: null
+  swift: CCRIES2A102
+    
+- name: "CAJA RURAL DE SORIA"
+  city: "SORIA"
+  branch: null
+  swift: BCOEESMM017
+    
+- name: "CAJA RURAL DE TERUEL"
+  city: "TERUEL"
+  branch: null
+  swift: BCOEESMM080
+    
+- name: "CAJA RURAL DE UTRERA"
+  city: "SEVILLA"
+  branch: null
+  swift: BCOEESMM020
+    
+- name: "CAJA RURAL DE VILLAMALEA"
+  city: "ALBACETE"
+  branch: null
+  swift: BCOEESMM144
+    
+- name: "CAJA RURAL DE ZAMORA"
+  city: "ZAMORA"
+  branch: null
+  swift: BCOEESMM085
+    
+- name: "CAJA RURAL DEL SUR,SDAD.COOP.CTO (FORMERLY CAJA RURAL DE HUELVA Y SEVILLA)"
+  city: "SEVILLA"
+  branch: null
+  swift: BCOEESMM187
+    
+- name: "CAJA RURAL NESTRA MADRE DEL SOL"
+  city: "ADAMUZ"
+  branch: null
+  swift: BCOEESMM115
+    
+- name: "CAJA RURAL NTRA SRA DEL ROSARIO"
+  city: "NUEVA CARTEYA (CORDOBA)"
+  branch: null
+  swift: BCOEESMM098
+    
+- name: "CAJA RURAL NTRA. SENORA DE LA ESPERANZA"
+  city: "ONDA"
+  branch: null
+  swift: BCOEESMM134
+    
+- name: "CAJA RURAL NTRA. SRA. DE GUADALUPE, SDAD. COOP. CDTO."
+  city: "BAENA (CORDOBA)"
+  branch: null
+  swift: BCOEESMM089
+    
+- name: "CAJA RURAL NTRA. SRA. DEL CAMPO"
+  city: "CANETE TORRES (CORDOBA)"
+  branch: null
+  swift: BCOEESMM104
+    
+- name: "CAJA RURAL SAN ISIDRO DE LES COVES DE VINROMA, S. COOP. DE CREDITO V."
+  city: "LES COVES DE VINROMA"
+  branch: null
+  swift: BCOEESMM166
+    
+- name: "CAJA RURAL SAN ISIDRO VALL D'UXO"
+  city: "VALL D'UXO"
+  branch: null
+  swift: BCOEESMM111
+    
+- name: "CAJA RURAL SAN JOSE DE ALMASSORA"
+  city: "CASTELLON"
+  branch: null
+  swift: BCOEESMM130
+    
+- name: "CAJA RURAL VINAROS S.C.C.V."
+  city: "VINAROS"
+  branch: null
+  swift: BCOEESMM174
+    
+- name: "CAJA SIETE, CAJA RURAL, SCC"
+  city: "SANTA CRUZ DE TENERIFE"
+  branch: null
+  swift: BCOEESMM076
+    
+- name: "CAJAMAR CAJA RURAL, SOCIEDAD COOPERATIVA DE CREDITO"
+  city: "ALMERIA"
+  branch: null
+  swift: CCRIES2A
+    
+- name: "CAJASUR BANCO, S.A."
+  city: "CORDOBA"
+  branch: null
+  swift: CSURES2C
+    
+- name: "CAMION WORLD COMERCIAL SL"
+  city: "OLOT"
+  branch: null
+  swift: CAWCES21
+    
+- name: "CANDY HOOVER ELECTRODOMESTICOS S.A."
+  city: "BERGARA"
+  branch: null
+  swift: CAHEES21
+    
+- name: "CARNEGIE ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: CANEESM1
+    
+- name: "CASSE DI RISPARMIO DI FIRENZE E PISTOIA E PESCIA"
+  city: "MADRID"
+  branch: null
+  swift: PISTESM1
+    
+- name: "CECABANK S.A. (VALORES)"
+  city: "MADRID"
+  branch: null
+  swift: CECAES21
+    
+- name: "CECABANK, S.A."
+  city: "MADRID"
+  branch: null
+  swift: CECAESMM
+    
+- name: "CECABANK, S.A."
+  city: "MADRID"
+  branch: null
+  swift: CECAESMMPTG
+    
+- name: "CELERIS SERVICIOS FINANCIEROS, S.A. E.F.C."
+  city: "MADRID"
+  branch: null
+  swift: CSFAESM1
+    
+- name: "CEMENTOS MOLINS SA"
+  city: "BARCELONA"
+  branch: null
+  swift: CEMOESBB
+    
+- name: "CENTRAL HISPANO DE BOLSA S.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: CEHBESM1
+    
+- name: "CHECKPOINT SYSTEMS ESPAA SLU"
+  city: "TERRASSA"
+  branch: null
+  swift: CHPUESBB
+    
+- name: "CHEMICAL ASSET MANAGEMENT"
+  city: "MADRID"
+  branch: null
+  swift: CHAGESM1
+    
+- name: "CHINA CONSTRUCTION BANK (EUROPE) S.A. SUCURSAL EN ESPANA"
+  city: "BARCELONA"
+  branch: null
+  swift: PCBCESBB
+    
+- name: "CIMD, S.V."
+  city: "MADRID"
+  branch: null
+  swift: CIDDESM1
+    
+- name: "CITIBANK ESPANA S.A."
+  city: "MADRID"
+  branch: null
+  swift: CITIES2X
+    
+- name: "CITIBANK EUROPE PLC SPAIN BRANCH"
+  city: "MADRID"
+  branch: RESTRICTED USE CITIBANK MADRID TARGET 2
+  swift: CITIESMXSEC
+    
+- name: "CITIBANK EUROPE PLC SPAIN BRANCH"
+  city: "MADRID"
+  branch: null
+  swift: CITIESMX
+    
+- name: "CITIBANK N.A."
+  city: "BARCELONA"
+  branch: null
+  swift: CITIESB1
+    
+- name: "CNP VIDA DE SEGUROS Y REASEGUROS, S.A."
+  city: "MADRID"
+  branch: null
+  swift: SVSRESM1
+    
+- name: "COEMAC, S.A."
+  city: "MADRID"
+  branch: null
+  swift: URLAESMM
+    
+- name: "COFITUR INVERSIONES SICAV SA"
+  city: "BARCELONA"
+  branch: null
+  swift: COVSESB1
+    
+- name: "COMMERZBANK AG"
+  city: "BARCELONA"
+  branch: null
+  swift: COBAESMXBAR
+    
+- name: "COMMERZBANK AG"
+  city: "MADRID"
+  branch: ADMINISTRATION
+  swift: COBAESMXTMA
+    
+- name: "COMMERZBANK AG"
+  city: "MADRID"
+  branch: null
+  swift: COBAESMX
+    
+- name: "COMPANIA DE DISTRIBUCION INTEGRAL LOGISTA,S.A.U"
+  city: "MADRID"
+  branch: null
+  swift: CDILESMM
+    
+- name: "COMPANIA OPERADORA DE CORTO Y MEDIO RADIO IBERIA EXPRESS, S.A.U."
+  city: "MADRID"
+  branch: null
+  swift: IBCEESMM
+    
+- name: "COMSA CORPORACION"
+  city: "BARCELONA"
+  branch: null
+  swift: CMEMESBB
+    
+- name: "COMUNIDAD AUTONOMA DE CANARIAS"
+  city: "LAS PALMAS DE GRAN CANARIA"
+  branch: null
+  swift: GCANES21
+    
+- name: "COMUNIDAD AUTONOMA DE CASTILLA Y LEON"
+  city: "VALLADOLID"
+  branch: null
+  swift: JCYLES21
+    
+- name: "COMUNIDAD AUTONOMA DE LA REGION DE MURCIA"
+  city: "MURCIA"
+  branch: null
+  swift: CAMUES21
+    
+- name: "COMUNIDAD AUTONOMA DE LAS ISLAS BALEARES"
+  city: "PALMA DE MALLORCA"
+  branch: null
+  swift: CBALES21
+    
+- name: "COMUNIDAD DE MADRID"
+  city: "MADRID"
+  branch: null
+  swift: CMADESM1
+    
+- name: "CONSORCIO DE COMPENSACION DE SEGUROS"
+  city: "MADRID"
+  branch: null
+  swift: CDCSESM1
+    
+- name: "CONSULNOR SERVICIOS FINANCIEROS, SOCIEDAD DE VALORES S.A.U."
+  city: "BILBAO"
+  branch: null
+  swift: GALAES21
+    
+- name: "CORPORACION FINANCIERA DENIA S.A."
+  city: "MADRID"
+  branch: null
+  swift: CRFDESM1
+    
+- name: "CORRETAJE E INFORMACION MONETARIA Y DE DIVISAS, SA"
+  city: "MADRID"
+  branch: null
+  swift: CIMDESM1
+    
+- name: "CORTAL CONSORS SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: CCSEESM1
+    
+- name: "CORTEFIEL S.A."
+  city: "MADRID"
+  branch: null
+  swift: CTFLESMM
+    
+- name: "CREDIT AGRICOLE (CRCAM SUD MEDITERRANEE - ARIEGE - PYRENEES ORIENTALES S.E.)"
+  city: "BARCELONA"
+  branch: null
+  swift: AGRIESB1
+    
+- name: "CREDIT AGRICOLE CIB"
+  city: "MADRID"
+  branch: null
+  swift: BSUIESMM
+    
+- name: "CREDIT AGRICOLE INDOSUEZ CHEUVREUX ESPANA, SA SV"
+  city: "MADRID"
+  branch: null
+  swift: CAICESM1
+    
+- name: "CREDIT SUISSE AG, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: CRESESMM
+    
+- name: "CREDIT SUISSE GESTION SGIIC SA"
+  city: "MADRID"
+  branch: null
+  swift: CSGGESM1
+    
+- name: "CREDIT SUISSE SECURITIES S.V. S.A."
+  city: "MADRID"
+  branch: null
+  swift: CSROESM1
+    
+- name: "CTI TECNOLOGIA Y GESTION, S.A."
+  city: "MADRID"
+  branch: null
+  swift: CTIXESMM
+    
+- name: "CYGNUS ASSET MANAGEMENT SGIIC, S.A."
+  city: "MADRID"
+  branch: null
+  swift: CSMGESM1
+    
+- name: "D.B. SECURITIES, S.A., S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: SCURESM1
+    
+- name: "DAI-ICHI KANGYO BANK,LTD,THE"
+  city: "MADRID"
+  branch: null
+  swift: DKBBESM1
+    
+- name: "DAVIGEL ESPANA S.A."
+  city: "SANT JUST DESVERN"
+  branch: null
+  swift: DAVNES2A
+    
+- name: "DE LAGE LANDEN INTERNATIONAL B.V."
+  city: "MADRID"
+  branch: null
+  swift: LLISESM1
+    
+- name: "DEPFA-BANK EUROPE, PLC"
+  city: "MADRID"
+  branch: null
+  swift: DPFAESM1
+    
+- name: "DEUTSCHE BANK AG"
+  city: "MADRID"
+  branch: null
+  swift: DEUTESM1
+    
+- name: "DEUTSCHE BANK AG SPANISH BRANCH"
+  city: "MADRID"
+  branch: null
+  swift: DBSCESMM
+    
+- name: "DEUTSCHE BANK CREDIT S.A."
+  city: "MADRID"
+  branch: null
+  swift: DECRESM1
+    
+- name: "DEUTSCHE BANK GESTION"
+  city: "MADRID"
+  branch: null
+  swift: DEGEESM1
+    
+- name: "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA"
+  city: "BARCELONA"
+  branch: BCN-BRANCH
+  swift: DEUTESBBASS
+    
+- name: "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA"
+  city: "BARCELONA"
+  branch: null
+  swift: DEUTESBB
+    
+- name: "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA"
+  city: "MADRID"
+  branch: null
+  swift: DEUTESBB030
+    
+- name: "DEUTSCHE PFANDBRIEFBANK AG BRANCH MADRID"
+  city: "MADRID"
+  branch: null
+  swift: DPBBESM1
+    
+- name: "DEXIA CREDIT LOCAL S.A. SUCURSAL EN ESPANA (FORMERLY DEXIA SABADELL BANCO LOCAL S.A.)"
+  city: "MADRID"
+  branch: null
+  swift: DSBLESMM
+    
+- name: "DIPUTACION GENERAL DE ARAGON"
+  city: "ZARAGOZA"
+  branch: null
+  swift: ARGCES21
+    
+- name: "DL CORPORATION AGENCIA DE VALORES S A"
+  city: "BARCELONA"
+  branch: null
+  swift: COAVESB1
+    
+- name: "DON CURRO INVERSIONES SICAV SA"
+  city: "BARCELONA"
+  branch: null
+  swift: DCISESB1
+    
+- name: "DURO FELGUERA, S.A."
+  city: "GIJON"
+  branch: null
+  swift: DUFEES21
+    
+- name: "DWS INVESTMENTS SGIIC"
+  city: "MADRID"
+  branch: null
+  swift: DWISESM1
+    
+- name: "DYNASOL GESTION SL"
+  city: "MADRID"
+  branch: null
+  swift: DYGIESMM
+    
+- name: "EBN BANCO DE NEGOCIOS,S.A.(EBN BANCO)"
+  city: "MADRID"
+  branch: null
+  swift: PROAESMM
+    
+- name: "EBN BANCO DE NEGOCIOS,S.A.(EBN BANCO)"
+  city: "MADRID"
+  branch: null
+  swift: PROAESMMORO
+    
+- name: "EBURY PARTNERS UK LIMITED"
+  city: "MADRID"
+  branch: null
+  swift: EBURESM1
+    
+- name: "EL FONDO DE GARANTIA DE DEPOSITOS EN CAJAS DE AHORRO"
+  city: "MADRID"
+  branch: null
+  swift: FGDCESM1
+    
+- name: "ELECTRONIC TRADING SYSTEM VALORES, S.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: ETSVESM1
+    
+- name: "ENAGAS"
+  city: "MADRID"
+  branch: null
+  swift: ENAAESMM
+    
+- name: "ENEL IBEROAMERICA, SRL"
+  city: "MADRID"
+  branch: null
+  swift: ENDEESMM
+    
+- name: "ESPACLEAR, SISTEMAS DE COMPENSACION DE ACTIVOS FINANCIEROS SA/AV"
+  city: "MADRID"
+  branch: null
+  swift: ESCCESM1
+    
+- name: "ESPIRITO SANTO BANK OF FLORIDA"
+  city: "MADRID"
+  branch: null
+  swift: ESBFESM1
+    
+- name: "EURO ATLANTIC BANCORP"
+  city: "ESTEPONA"
+  branch: null
+  swift: EUABES21
+    
+- name: "EUROBANK DEL MEDITERRANEO S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: EUMEESB1
+    
+- name: "EURODEAL A.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: EUDAESM1
+    
+- name: "EUROFINANZAS, S.A., S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: EUASESM1
+    
+- name: "EURONA WIRELESS TELECOM"
+  city: "BARCELONA"
+  branch: null
+  swift: EUWTESBB
+    
+- name: "EUROPEA POPULAR DE INVERSIONES S.V.B.,S.A."
+  city: "MADRID"
+  branch: null
+  swift: EUPIESM1
+    
+- name: "EUROPEAN CREDIT CAPITAL MARKETS LTD"
+  city: "MADRID"
+  branch: null
+  swift: ECCMESM1
+    
+- name: "EUROPEAN CREDIT PLC"
+  city: "MADRID"
+  branch: null
+  swift: EUCEESM1
+    
+- name: "EUROPEAN UNION SATELLITE CENTRE"
+  city: "TORREJON DE ARDOZ"
+  branch: null
+  swift: EUSNES21
+    
+- name: "EUROSAFEI, SOCIEDAD DE VALORES Y BOLSA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: ESAFESM1
+    
+- name: "EVER CAPITAL INVESTMENTS S.V., S.A."
+  city: "ALCOBENDAS"
+  branch: null
+  swift: ECIVES21
+    
+- name: "EVERIS SPAIN, S.L.U."
+  city: "MADRID"
+  branch: null
+  swift: EVIRESMM
+    
+- name: "EVO BANCO S.A."
+  city: "MADRID"
+  branch: BACK OFFICE
+  swift: EVOBESMMBAC
+    
+- name: "EVO BANCO S.A."
+  city: "MADRID"
+  branch: PAYMENT SYSTEMS DEPT.
+  swift: EVOBESMMLCO
+    
+- name: "EVO BANCO S.A."
+  city: "MADRID"
+  branch: null
+  swift: EVOBESMM
+    
+- name: "F G INVERSIONES BURSATILES SA"
+  city: "MADRID"
+  branch: null
+  swift: FGIBESM1
+    
+- name: "FCE BANK PLC"
+  city: "MADRID"
+  branch: null
+  swift: FCEFESM1
+    
+- name: "FERROVIAL S.A."
+  city: "MADRID"
+  branch: null
+  swift: FERRESM1
+    
+- name: "FIBANC EXCELLENT FI"
+  city: "BARCELONA"
+  branch: null
+  swift: FBBEESB1
+    
+- name: "FIDENTIIS EQUITIES SOCIEDAD DE VALORES SA"
+  city: "MADRID"
+  branch: null
+  swift: FIDSESM1
+    
+- name: "FIESTA HOTELS AND RESORTS SL"
+  city: "IBIZA"
+  branch: null
+  swift: PHGPES22
+    
+- name: "FINANDENIA CREDIT AND GUARANTEE LTD"
+  city: "MADRID"
+  branch: null
+  swift: FCGBESM1
+    
+- name: "FINCAMPER SLU"
+  city: "INCA"
+  branch: null
+  swift: CMPRES2M
+    
+- name: "FINECO SOCIEDAD DE VALORES S.A."
+  city: "BILBAO"
+  branch: null
+  swift: FIOVES21
+    
+- name: "FITCH RATINGS ESPANA. S.A.U."
+  city: "BARCELONA"
+  branch: null
+  swift: FRIPESB1
+    
+- name: "FLUIDRA, S.A."
+  city: "SABADELL"
+  branch: null
+  swift: FDRAESBB
+    
+- name: "FOMENTO DE CONSTRUCCIONES Y CONTRATAS"
+  city: "BARCELONA"
+  branch: null
+  swift: FCOTESB1
+    
+- name: "FONDITEL EGFP"
+  city: "MADRID"
+  branch: null
+  swift: FOEGESM1
+    
+- name: "FONDO DE GARANTIA DE DEPOSITOS DE ENTIDADES DE CREDITO"
+  city: "MADRID"
+  branch: null
+  swift: FGDEESM1
+    
+- name: "FRANFINANCE, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: FRANESM1
+    
+- name: "FUJI BANK,LIMITED,THE"
+  city: "MADRID"
+  branch: null
+  swift: FUJIESM1
+    
+- name: "G.V.C. GENERAL DE VALORES Y CAMBIOS , S.A., S.V.B."
+  city: "BARCELONA"
+  branch: null
+  swift: GGVCESB1
+    
+- name: "GAESCO BOLSA SOCIEDAD DE VALORES Y BOLSA SA"
+  city: "BARCELONA"
+  branch: null
+  swift: GAESESM1
+    
+- name: "GAMESA CORPORACION TECNOLOGICA, S.A"
+  city: "ZAMUDIO"
+  branch: null
+  swift: GAMCES2A
+    
+- name: "GAS NATURAL SDG S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: GANRESBB
+    
+- name: "GEFONSA SA AGENCIA DE VALORES"
+  city: "MADRID"
+  branch: null
+  swift: GEAVESM1
+    
+- name: "GENERAL DE VALORES Y CAMBIO, S.A., S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: GGVCESM1
+    
+- name: "GENERAL DE VALORES Y CAMBIOS S.V. S.A."
+  city: "BARCELONA"
+  branch: AS ENTIDAD AGENTE
+  swift: GVCBESBBAGE
+    
+- name: "GENERAL DE VALORES Y CAMBIOS S.V. S.A."
+  city: "BARCELONA"
+  branch: ETB GVC GAESCO
+  swift: GVCBESBBETB
+    
+- name: "GENERAL DE VALORES Y CAMBIOS S.V. S.A."
+  city: "BARCELONA"
+  branch: THIRD PARTY ACCOUNT EOC
+  swift: GVCBESBBEOC
+    
+- name: "GENERAL DE VALORES Y CAMBIOS S.V. S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: GVCBESBB
+    
+- name: "GENERAL ELECTRIC CAPITAL BANK S.A"
+  city: "BARCELONA"
+  branch: null
+  swift: GEECESB1
+    
+- name: "GENERALI ESPANA HOLDING DE ENTIDADES DE SEGUROS"
+  city: "MADRID"
+  branch: null
+  swift: GEHEESMM
+    
+- name: "GENERALITAT VALENCIANA"
+  city: "VALENCIA"
+  branch: null
+  swift: CAVAESV1
+    
+- name: "GESINCA INVERSIONES"
+  city: "MADRID"
+  branch: null
+  swift: GINVESM1
+    
+- name: "GESMADRID S.A., S.G.I.I.C."
+  city: "MADRID"
+  branch: null
+  swift: GESAESM1
+    
+- name: "GESMOSA-GBI , A.V., S.A"
+  city: "MADRID"
+  branch: null
+  swift: GESGESM1
+    
+- name: "GESNEXT SPAIN, S.A.U"
+  city: "MADRID"
+  branch: null
+  swift: TEFGESMM
+    
+- name: "GESTEMAR SECURITIES S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: GESMESM1
+    
+- name: "GESTINVEST INTERNACIONAL"
+  city: "MADRID"
+  branch: null
+  swift: GESNESM1
+    
+- name: "GESTION DE ACTIVOS DEL MEDITERRANEO, SOCIEDAD DE ALORES S.A"
+  city: "ALICANTE"
+  branch: null
+  swift: GEAMES21
+    
+- name: "GESTION DE PATRIMONIOS MOBILIARIOS, S.A., AGENCIADE VALORES Y BOLSA"
+  city: "MADRID"
+  branch: null
+  swift: GEPMESM1
+    
+- name: "GLOBALCAJA, CAJA RURAL DE ALBACETE, CIUDAD REAL Y CUENCA, S.C.C."
+  city: "ALBACETE"
+  branch: null
+  swift: BCOEESMM190
+    
+- name: "GOBIERNO DE CANTABRIA"
+  city: "SANTANDER"
+  branch: null
+  swift: CTCAES21
+    
+- name: "GOBIERNO DE NAVARRA"
+  city: "PAMPLONA"
+  branch: null
+  swift: CANAES21
+    
+- name: "GRIFOLS S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: GRLSESBB
+    
+- name: "GRUPO INVERSOR HESPERIA, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: GIHSESB1
+    
+- name: "GRUPO PINERO (LEVANTUR)"
+  city: "PALMA DE MALLORCA"
+  branch: null
+  swift: GPPIES2M
+    
+- name: "GRUPO TURISTICO TRANSHOTEL S.L."
+  city: "SAN SEBASTIAN DE REYES"
+  branch: null
+  swift: TRCSESM1
+    
+- name: "GULF VALUE FINANCIAL S.L."
+  city: "MADRID"
+  branch: null
+  swift: GUVFESM1
+    
+- name: "HAITONG BANK, SA SUCURSAL ESPANA"
+  city: "MADRID"
+  branch: IBERCLEAR
+  swift: ESSIESMMMAD
+    
+- name: "HAITONG BANK, SA SUCURSAL ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: ESSIESMM
+    
+- name: "HERMES BOLSA, AVB, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: HEBVESB1
+    
+- name: "HEWLETT-PACKARD ESPANOLA S.L."
+  city: "LAS ROZAS DE MADRID"
+  branch: null
+  swift: HEESESM1
+    
+- name: "HOLDING GONVARRI S.L."
+  city: "MADRID"
+  branch: GESTAMP RENOVABLES INDUSTRIES
+  swift: GONVESMMGRI
+    
+- name: "HOLDING GONVARRI S.L."
+  city: "MADRID"
+  branch: null
+  swift: GONVESMM
+    
+- name: "HOTELBEDS GROUP SLU"
+  city: "PALMA DE MALLORCA"
+  branch: null
+  swift: HBEDES2M
+    
+- name: "HSBC BANK PLC"
+  city: "MADRID"
+  branch: SEPA DIRECT DEBITS
+  swift: MIDLESMMSDD
+    
+- name: "HSBC BANK PLC"
+  city: "MADRID"
+  branch: null
+  swift: MIDLESMM
+    
+- name: "HSBC BANK PLC"
+  city: "MADRID"
+  branch: null
+  swift: MIDLESMX
+    
+- name: "HSBC INTERMEDIARIOS (ESPANA) A.V.,S.A."
+  city: "VALENCIA"
+  branch: null
+  swift: HSIEESV1
+    
+- name: "HSBC INVESTMENT BANK PLC,SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: HSVBESM1
+    
+- name: "IBERAGENTES BOLSA S.A."
+  city: "MADRID"
+  branch: null
+  swift: IBEOESM1
+    
+- name: "IBERCAJA BANCO S A"
+  city: "ZARAGOZA"
+  branch: HEAD OFFICE
+  swift: CAZRES2Z
+    
+- name: "IBERDROLA S.A."
+  city: "BILBAO"
+  branch: null
+  swift: IBDLES2B
+    
+- name: "IBERIA LINEAS AEREAS DE ESPANA S.A."
+  city: "MADRID"
+  branch: null
+  swift: IBLAESMM
+    
+- name: "IBERIAN EQUITIES A.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: IBEQESM1
+    
+- name: "IBEROSTAR HOTELES Y APARTAMENTOS, S.L."
+  city: "PALMA DE MALLORCA"
+  branch: null
+  swift: STARES2M
+    
+- name: "IBERSECURITIES SOCIEDAD DE VALORES S.A.U."
+  city: "MADRID"
+  branch: null
+  swift: IBERESM1
+    
+- name: "IBROKER GLOBAL MARKETS S.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: IBGMESM1
+    
+- name: "IFXBG LIMITED"
+  city: "MADRID"
+  branch: null
+  swift: IFXGESM1
+    
+- name: "IMANTIA CAPITAL SGIIC SA"
+  city: "MADRID"
+  branch: null
+  swift: IMCAESMM
+    
+- name: "INBARSAVE SICAV SA"
+  city: "BARCELONA"
+  branch: null
+  swift: IBSVESB1
+    
+- name: "INDOSUEZ CAPITAL SECURITIES ESPANA, S.A. S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: VALGESM1
+    
+- name: "INDRA SISTEMAS, S.A."
+  city: "ALCOBENDAS"
+  branch: null
+  swift: ISSAESM1
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA(EUROPE)S.A.,SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: ICBKESMM
+    
+- name: "ING BANK NV, SPANISH BRANCH (COMMERCIAL BANKING)"
+  city: "MADRID"
+  branch: null
+  swift: BBRUESMX
+    
+- name: "ING BANK NV,SPANISH BRANCH (DIRECT)"
+  city: "LAS ROZAS DE MADRID"
+  branch: null
+  swift: INGDESMM
+    
+- name: "INMOB CALERA Y CHOZAS CART SICAV SA"
+  city: "BARCELONA"
+  branch: null
+  swift: ICCRESB1
+    
+- name: "INSTITUTO DE CREDITO OFICIAL"
+  city: "MADRID"
+  branch: null
+  swift: ICROESMM
+    
+- name: "INTERBROKERS ESPANOLA DE VALORES, AGENCIA DE VALORES, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: IEVAESB1
+    
+- name: "INTERCAIXA VALORES S.A., S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: ICVAESM1
+    
+- name: "INTERDIN BOLSA, SOCIEDAD DE VALORES, S.A."
+  city: "MADRID"
+  branch: null
+  swift: INTOESM1
+    
+- name: "INTERMEDIARIOS FINANCIEROS, S.A., A.V.B."
+  city: "MADRID"
+  branch: null
+  swift: FSINESM1
+    
+- name: "INTERMONEY VALORES S.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: IVALESMM
+    
+- name: "INTERMONEY VALORES S.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: IVALESMM999
+    
+- name: "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A."
+  city: "MADRID"
+  branch: PARENT GROUP
+  swift: IAGLESMMIAG
+    
+- name: "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A."
+  city: "MADRID"
+  branch: null
+  swift: IAGLESMM
+    
+- name: "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A."
+  city: "MADRID"
+  branch: null
+  swift: IAGLESMMBA1
+    
+- name: "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A."
+  city: "MADRID"
+  branch: null
+  swift: IAGLESMMIB1
+    
+- name: "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A."
+  city: "MADRID"
+  branch: null
+  swift: IAGLESMMVY1
+    
+- name: "INTESA SANPAOLO S.P.A. (FORMER SANPAOLO IMI), MADRID BRANCH, MADRID"
+  city: "MADRID"
+  branch: null
+  swift: BCITESMM
+    
+- name: "INVERCAIXA VALORES S.V.B., S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: INBVESB1
+    
+- name: "INVERSEGUROS SOCIEDAD DE VALORES, S.A.U."
+  city: "MADRID"
+  branch: null
+  swift: INSGESM1
+    
+- name: "IPAGOO LLP, MADRID BRANCH"
+  city: "MADRID"
+  branch: null
+  swift: ORUNESMM
+    
+- name: "IRUS CENTER LAS ROZAS, S.L.U."
+  city: "ALCOBENDAS"
+  branch: null
+  swift: IRRSES22
+    
+- name: "ISDIN SA"
+  city: "BARCELONA"
+  branch: null
+  swift: ISDIESBB
+    
+- name: "ISSUER SOLUTIONS SL"
+  city: "VALENCIA"
+  branch: null
+  swift: ISOLESVV
+    
+- name: "J.L. CONTRERAS Y ASOCIADOS, S.A., A.V.B."
+  city: "MADRID"
+  branch: null
+  swift: ASOCESM1
+    
+- name: "J.P. MORGAN SECURITIES LIMITED SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: JPMSESM1
+    
+- name: "J.P. MORGAN SECURITIES LIMITED-SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: CHASESM1
+    
+- name: "JB CAPITAL MARKETS SOCIEDAD DE VALORES, S.A."
+  city: "MADRID"
+  branch: null
+  swift: MBCMESM1
+    
+- name: "JOSE GREGORIO JUNCOS MARTINEZ"
+  city: "MADRID"
+  branch: null
+  swift: JGJMESM1
+    
+- name: "JP MORGAN SOCIEDAD DE VALORES Y BOLSA S.A."
+  city: "MADRID"
+  branch: null
+  swift: JPMVESM1
+    
+- name: "JPMORGAN CHASE BANK, N.A."
+  city: "MADRID"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASESM3KEY
+    
+- name: "JPMORGAN CHASE BANK, N.A."
+  city: "MADRID"
+  branch: null
+  swift: CHASESM3
+    
+- name: "JUNTA DE ANDALUCIA"
+  city: "SEVILLA"
+  branch: null
+  swift: JANDESS1
+    
+- name: "JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA"
+  city: "TOLEDO"
+  branch: null
+  swift: JCMAES21
+    
+- name: "KEPLER EQUITIES, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: JBBRESM1
+    
+- name: "KUTXABANK, S.A."
+  city: "BILBAO"
+  branch: null
+  swift: BASKES2B
+    
+- name: "KUTXAGEST"
+  city: "SAN SEBASTIAN"
+  branch: null
+  swift: KUTAES21
+    
+- name: "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)"
+  city: "BILBAO"
+  branch: null
+  swift: CLPEES21083
+    
+- name: "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)"
+  city: "EIBAR"
+  branch: null
+  swift: CLPEES21023
+    
+- name: "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)"
+  city: "MADRID"
+  branch: null
+  swift: CLPEES21121
+    
+- name: "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)"
+  city: "MONDRAGON"
+  branch: null
+  swift: CLPEES2M
+    
+- name: "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)"
+  city: "PAMPLONA"
+  branch: null
+  swift: CLPEES21195
+    
+- name: "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)"
+  city: "SAN SEBASTIAN"
+  branch: null
+  swift: CLPEES21060
+    
+- name: "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)"
+  city: "VITORIA"
+  branch: null
+  swift: CLPEES21012
+    
+- name: "LABORATORIOS DEL DR. ESTEVE, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: ESTEESBB
+    
+- name: "LABORATORIOS HIPRA, S.A."
+  city: "GERONA (GIRONA)"
+  branch: null
+  swift: HIPRES22
+    
+- name: "LANDESBANK BADEN-WUERTTEMBERG"
+  city: "BARCELONA"
+  branch: null
+  swift: SOLAESB1
+    
+- name: "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE"
+  city: "MADRID"
+  branch: null
+  swift: HELAESM1
+    
+- name: "LEGG MASON LTD. SPAIN"
+  city: "MADRID"
+  branch: null
+  swift: LEMPESM1
+    
+- name: "LIBERBANK, S.A."
+  city: "MADRID"
+  branch: null
+  swift: CECAESMM048
+    
+- name: "LINK SECURITIES SOCIEDAD DE VALORES S.A."
+  city: "MADRID"
+  branch: null
+  swift: LISEESMM
+    
+- name: "LINK SECURITIES SOCIEDAD DE VALORES S.A."
+  city: "MADRID"
+  branch: null
+  swift: LISEESMMLNK
+    
+- name: "LOMBARD ODIER (EUROPE) SA SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: NDP DEPT
+  swift: LOCYESMMNDP
+    
+- name: "LOMBARD ODIER (EUROPE) SA SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: LOCYESMM
+    
+- name: "LONDON FORFAITING A PARIS, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: LOFPESB1
+    
+- name: "M AND B CAPITAL ADVISERS, SOCIEDAD DE VALORES, S.."
+  city: "MADRID"
+  branch: null
+  swift: CADRESM1
+    
+- name: "MACCORP EXACT CHANGE, E.P., S.A."
+  city: "MADRID"
+  branch: null
+  swift: EXCHESMM
+    
+- name: "MAPFRE INVERSION SOCIEDAD DE VALORES S.A."
+  city: "MAJADAHONDA"
+  branch: null
+  swift: MISVESMB
+    
+- name: "MAPFRE INVERSION SOCIEDAD DE VALORES S.A."
+  city: "MAJADAHONDA"
+  branch: null
+  swift: MISVESMM
+    
+- name: "MARTINEZ GIL Y ASOCIADOS AGENCIA VALORES BOLSA SA"
+  city: "MADRID"
+  branch: null
+  swift: MAGAESM1
+    
+- name: "MAXAMCORP HOLDING SL"
+  city: "MADRID"
+  branch: null
+  swift: MAXHESMM
+    
+- name: "MAXWELL E ESPINOSA A I, S.A."
+  city: "MADRID"
+  branch: null
+  swift: MXESESM1
+    
+- name: "MEDIACION BURSATIL, S.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: MEBUESM1
+    
+- name: "MEDIFOND PLUS FI"
+  city: "BARCELONA"
+  branch: null
+  swift: MEPLESB1
+    
+- name: "MEDIGESTION 02 SICAV SA"
+  city: "BARCELONA"
+  branch: null
+  swift: MESVESB1
+    
+- name: "MEDIOLANIUM ALPHA PLUS-F.I."
+  city: "BARCELONA"
+  branch: null
+  swift: MEAUESB1
+    
+- name: "MEFF SOCIEDAD RECTORA DE PRODUCTOS FINANCIEROS DERIVADOS DE RENTA VARIABLE, S.A."
+  city: "MADRID"
+  branch: null
+  swift: XMRVESM1
+    
+- name: "MEFFCLEAR"
+  city: "BARCELONA"
+  branch: null
+  swift: MEFEESB1
+    
+- name: "MERCADOS Y GESTION DE VALORES A.V.B. S.A."
+  city: "MADRID"
+  branch: null
+  swift: MGVAESM1
+    
+- name: "MERCAGENTES S.A., SOCIEDAD DE VALORES"
+  city: "BILBAO"
+  branch: null
+  swift: MERSESM1
+    
+- name: "MERCATO CONTINUO ESPANOL"
+  city: "BARCELONA"
+  branch: null
+  swift: XMCEESB1
+    
+- name: "MERCAVALOR SOCIEDAD DE VALORES SA"
+  city: "MADRID"
+  branch: null
+  swift: MERRESM1
+    
+- name: "MERCHBOLSA AGENCIA DE VALORES, S.A"
+  city: "BARCELONA"
+  branch: null
+  swift: XBAVESB1
+    
+- name: "MERRILL LYNCH CAPITAL MARKETS BANK LIMITED"
+  city: "MADRID"
+  branch: null
+  swift: MLCBESM1
+    
+- name: "MERRILL LYNCH CAPITAL MARKETS ESPANA S.A., SVB"
+  city: "MADRID"
+  branch: null
+  swift: MLCEESMM
+    
+- name: "MERRILL LYNCH CAPITAL MARKETS ESPANA S.A., SVB"
+  city: "MADRID"
+  branch: null
+  swift: MLCEESMMMEO
+    
+- name: "MERRILL LYNCH INTERNATIONAL BANK LIMIITED"
+  city: "MADRID"
+  branch: null
+  swift: MLIBESM1
+    
+- name: "MG VALORES, S.A., S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: VASVESM1
+    
+- name: "MINERALES Y PRODUCTOS DERIVADOS S.A"
+  city: "BILBAO"
+  branch: null
+  swift: MYPDES2B
+    
+- name: "MIRABAUD AND CIE (EUROPE) SA,SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: MIRAESMM
+    
+- name: "MIRABAUD FINANZAS S.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: VEFIESM1
+    
+- name: "MIRABAUD SECURITIES HOLDINGS MADRID BRANCH"
+  city: "MADRID"
+  branch: null
+  swift: MIRSESM1
+    
+- name: "MIZUHO CORPORATE BANK, LTD.,MADRID BRANCH"
+  city: "MADRID"
+  branch: null
+  swift: IBJTESM1
+    
+- name: "MONTY GLOBAL PAYMENTS, S.A.U."
+  city: "MADRID"
+  branch: null
+  swift: MNTYESMM
+    
+- name: "MOODY'S INVESTORS SERVICE ESPANA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: MOODESM1
+    
+- name: "MORCOTE INVERSIONES SICAV SA"
+  city: "BARCELONA"
+  branch: null
+  swift: MOIIESB1
+    
+- name: "MORGAN STANLEY SV. SA."
+  city: "MADRID"
+  branch: null
+  swift: MSTAESM1
+    
+- name: "MORGAN STANLEY WEALTH MANAGEMENT, S.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: MSWMESM1
+    
+- name: "MUTUACTIVOS SGIIC"
+  city: "MADRID"
+  branch: null
+  swift: MUSGESM1
+    
+- name: "NATIXIS S.A., SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: NATXESMM
+    
+- name: "NEBURSA, S.A., S.V.B."
+  city: "MADRID"
+  branch: null
+  swift: NEBUESM1
+    
+- name: "NEINVER, S.A."
+  city: "ALCOBENDAS"
+  branch: null
+  swift: NENVES22
+    
+- name: "NEWCOURT FINANCE (FRANCE) S.N.C. SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: NFFSESM1
+    
+- name: "NEWEDGE GROUP (MADRID BRANCH)"
+  city: "MADRID"
+  branch: null
+  swift: NEWGESM1
+    
+- name: "NEXUS ENERGIA S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: NEXNESB1
+    
+- name: "NH HOTELES SA"
+  city: "MADRID"
+  branch: null
+  swift: NHSAESMM
+    
+- name: "NIBC PETERCAM GESTION"
+  city: "MADRID"
+  branch: null
+  swift: NIPGES21
+    
+- name: "NORBOLSA S.V.,S.A."
+  city: "BILBAO"
+  branch: NORBOLSA
+  swift: NORLESB1BIO
+    
+- name: "NORBOLSA S.V.,S.A."
+  city: "BILBAO"
+  branch: null
+  swift: NORLES2B
+    
+- name: "NORDKAPP INVERSIONES SOCIEDAD DE VALORES S.A"
+  city: "VALENCIA"
+  branch: null
+  swift: NISVESM1
+    
+- name: "NORWICH AND PETERBOROUGH BUILDING SOCIETY"
+  city: "SAN ROQUE"
+  branch: null
+  swift: NPBSES21
+    
+- name: "NOVO BANCO, SA, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: BESMESMM
+    
+- name: "NUEVO MICRO BANK, S.A.U."
+  city: "BARCELONA"
+  branch: null
+  swift: MIKBESB1
+    
+- name: "OLIVARDA SICAV SA"
+  city: "BARCELONA"
+  branch: null
+  swift: OLSIESB1
+    
+- name: "OPEN BANK SANTANDER CONSUMER S.A."
+  city: "MADRID"
+  branch: null
+  swift: OPENESMM
+    
+- name: "OSUNA Y MARCO, S.A., A.V.B."
+  city: "MADRID"
+  branch: null
+  swift: OSMAESM1
+    
+- name: "P. F. S. SPAIN SL"
+  city: "MADRID"
+  branch: null
+  swift: PFSSESM1
+    
+- name: "PATRINVEST INVERSION S.I.C.A.V S.A"
+  city: "CASTELLON"
+  branch: null
+  swift: PAIVES21
+    
+- name: "PENTOR A.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: PENTESM1
+    
+- name: "PHILIPPINE NATIONAL BANK, S.A."
+  city: "MADRID"
+  branch: null
+  swift: PNBMESM1
+    
+- name: "PHOENIX SOFT CORP LTD"
+  city: "VIGO"
+  branch: null
+  swift: PSCLES21
+    
+- name: "PICTET AND CIE (EUROPE)S.A. SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: PICTESMM
+    
+- name: "PKB PRIVATBANK AG"
+  city: "ALCOBENDAS"
+  branch: null
+  swift: PKBSES21
+    
+- name: "PONTEGADEA INVERSIONES, S.L."
+  city: "ARTEIXO A CORUNA"
+  branch: null
+  swift: POGAES2C
+    
+- name: "POPULAR BANCA PRIVADA"
+  city: "MADRID"
+  branch: null
+  swift: POPIESMM
+    
+- name: "POPULAR BOLSA, SOCIEDAD DE VALORES, S.A."
+  city: "MADRID"
+  branch: null
+  swift: POPBESM1
+    
+- name: "POPULAR GESTION PRIVADA SGIIC"
+  city: "MADRID"
+  branch: null
+  swift: PGPSESM1
+    
+- name: "PORCELANOSA S.A."
+  city: "CASTELLON DE LA PLANA"
+  branch: null
+  swift: PRCLES22
+    
+- name: "PORTIGON AG"
+  city: "MADRID"
+  branch: FUNDING UNIT
+  swift: WELAESMMFUN
+    
+- name: "PORTIGON AG"
+  city: "MADRID"
+  branch: null
+  swift: WELAESMM
+    
+- name: "PRIMER BANCO AHORRO Y PRESTAMO VIVIENDA FAMILIAR,S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: PAPIESB1
+    
+- name: "PRINTEOS GROUP HOLDING, S.L.U."
+  city: "ALCALA DE HENARES"
+  branch: null
+  swift: GSEHESMM
+    
+- name: "PRIVAT BANK S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: PRVBESB1
+    
+- name: "PRIVATBANK IHAG ZUERICH AG"
+  city: "FUENGIROLA"
+  branch: null
+  swift: IHZUES21
+    
+- name: "PRODIGIOS INTERACTIVOS, S.A."
+  city: "PALMA DE MALLORCA"
+  branch: null
+  swift: PRDSES2M
+    
+- name: "PROSEGUR COMPANIA DE SEGURIDAD, S.A."
+  city: "MADRID"
+  branch: null
+  swift: PSGRESMM
+    
+- name: "PROXIMA ALFA INVESTMENTS"
+  city: "MADRID"
+  branch: null
+  swift: PRLIES21
+    
+- name: "PUIG, S.L."
+  city: "BARCELONA"
+  branch: null
+  swift: PUIGESBB
+    
+- name: "PUNTO FA S.L."
+  city: "PALAU DE PLEGAMANS"
+  branch: null
+  swift: PUNOESBB
+    
+- name: "RABOBANK MADRID"
+  city: "MADRID"
+  branch: null
+  swift: PRABESMM
+    
+- name: "RCI SPAIN"
+  city: "MADRID"
+  branch: null
+  swift: RCINESM1
+    
+- name: "RCSCCH 1604 SICAV SA"
+  city: "BARCELONA"
+  branch: null
+  swift: RCSIESB1
+    
+- name: "REDEXIS GAS S.A."
+  city: "MADRID"
+  branch: null
+  swift: RDXSESMM
+    
+- name: "REGISTRO NACIONAL DE DERECHOS DA EMISSION DE GEI-RENADE"
+  city: "LA CORUNA (A CORUNA)"
+  branch: null
+  swift: RNDEES21
+    
+- name: "RENTA 4 BANCO, S.A."
+  city: "MADRID"
+  branch: null
+  swift: RENBESMM
+    
+- name: "RENTA 4 BANCO, S.A."
+  city: "MADRID"
+  branch: null
+  swift: RENBESMMAGE
+    
+- name: "RENTA 4 BANCO, S.A."
+  city: "MADRID"
+  branch: null
+  swift: RENBESMMBME
+    
+- name: "RENTA 4 BANCO, S.A."
+  city: "MADRID"
+  branch: null
+  swift: RENBESMMRVN
+    
+- name: "RENTA 4 SOCIEDAD DE VALORES, S.A."
+  city: "MADRID"
+  branch: null
+  swift: RENTESMM
+    
+- name: "RENTA 4 SOCIEDAD DE VALORES, S.A."
+  city: "MADRID"
+  branch: null
+  swift: RENTESMMBME
+    
+- name: "RENTA MARKETS SV,SA"
+  city: "MADRID"
+  branch: null
+  swift: RMSVESM1
+    
+- name: "RENTCAIXA, S.A DE SEGUROS Y REASEGUROS"
+  city: "BARCELONA"
+  branch: null
+  swift: RTCAESB1
+    
+- name: "REPSOL, S.A."
+  city: "MADRID"
+  branch: null
+  swift: REPYESMM
+    
+- name: "RIUSA II S.A."
+  city: "PALMA DE MALLORCA"
+  branch: null
+  swift: RIUHES2M
+    
+- name: "RIVA Y GARCIA - 1877, SOCIEDAD DE VALORES, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: RIGIESB1
+    
+- name: "ROCA SANITARIO, S. A."
+  city: "BARCELONA"
+  branch: null
+  swift: GROCESBB
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "MADRID"
+  branch: null
+  swift: ROYCESM1
+    
+- name: "RURALNOSTRA, S. COOP. DE CREDITO V."
+  city: "BETXI"
+  branch: null
+  swift: BCOEESMM138
+    
+- name: "S.E. BANKEN LUXEMBOURG S.A."
+  city: "SAN PEDRO DE ALCANTARA"
+  branch: null
+  swift: LUXEES21
+    
+- name: "S.TOUS S.L"
+  city: "MANRESA"
+  branch: null
+  swift: STUUES22
+    
+- name: "SABA INFRAESTRUCTURAS, S. A."
+  city: "BARCELONA"
+  branch: null
+  swift: SINFESBB
+    
+- name: "SAMSUNG ELECTRONICA ESPANOLA"
+  city: "MADRID"
+  branch: SESA
+  swift: SECTESM1470
+    
+- name: "SAMSUNG ELECTRONICA ESPANOLA"
+  city: "MADRID"
+  branch: null
+  swift: SECTESM1
+    
+- name: "SANTANDER ASSET MANAGEMENT, S.A."
+  city: "BOADILLA DEL MONTE"
+  branch: null
+  swift: SAMXESMM
+    
+- name: "SANTANDER ASSET MANAGEMENT, S.A. CIUDAD GRUPO SANTANDER"
+  city: "MADRID"
+  branch: null
+  swift: SAMXESMB
+    
+- name: "SANTANDER BANCO EMISIONES"
+  city: "BOADILLA DEL MONTE"
+  branch: null
+  swift: BSSSES31
+    
+- name: "SANTANDER BANCO EMISIONES.TERCEROS OPENBANK"
+  city: "BOADILLA DEL MONTE"
+  branch: null
+  swift: BSSSES21
+    
+- name: "SANTANDER BRASIL E.F.C. S.A."
+  city: "BOADILLA DEL MONTE"
+  branch: null
+  swift: SBFCESMM
+    
+- name: "SANTANDER CONSUMER FINANCE, S.A."
+  city: "MADRID"
+  branch: null
+  swift: SCFBESMM
+    
+- name: "SANTANDER INVESTMENT BOLSA, S.V., S.A."
+  city: "MADRID"
+  branch: null
+  swift: SCHLESM1
+    
+- name: "SANTANDER INVESTMENT SERVICES S.A."
+  city: "BOADILLA DEL MONTE"
+  branch: SANTANDER SECURITIES SERVICES
+  swift: SABNESMMSSS
+    
+- name: "SANTANDER INVESTMENT SERVICES S.A."
+  city: "BOADILLA DEL MONTE"
+  branch: null
+  swift: SABNESMM
+    
+- name: "SANTANDER PRIVATE BANKING GESTION,S.A., S.G.I.I.C."
+  city: "MADRID"
+  branch: null
+  swift: SPVGESMM
+    
+- name: "SANTANDER SECURITIES SERVICES, S.A."
+  city: "BOADILLA DEL MONTE"
+  branch: null
+  swift: BSSSESM2
+    
+- name: "SCHRODER SECURITIES SV SA"
+  city: "MADRID"
+  branch: null
+  swift: SCSUESM1
+    
+- name: "SEBROKER BOLSA AGENCIA DE VALORES, S A"
+  city: "BARCELONA"
+  branch: null
+  swift: SBAOESB1
+    
+- name: "SEGURCAIXA SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS"
+  city: "BARCELONA"
+  branch: null
+  swift: SSAEESB1
+    
+- name: "SELF TRADE BANK"
+  city: "MADRID"
+  branch: null
+  swift: SELFESMM
+    
+- name: "SERVICIO DE PAGOS INTERBANCARIOS,S.A."
+  city: "MADRID"
+  branch: null
+  swift: CAMMES21
+    
+- name: "SG SECURITIES MADRID S.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: SGSEESM1
+    
+- name: "SIAGA S.V.B., S.A."
+  city: "MADRID"
+  branch: null
+  swift: SIAGESM1
+    
+- name: "SINERGIA ADVISORS 2006, A.V. S.A."
+  city: "MADRID"
+  branch: null
+  swift: SIADESM1
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: AGENTE DE PAGOS DE IBERCLEAR
+  swift: IBRCESMMBME
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: ANCILLARY SYSTEM
+  swift: IBRCESMMASI
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: COMUNICACION PLATAFORMA
+  swift: IBRCESMMGOB
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: IBERCLEAR - MULTILATERAL GUARANTY ACCOUNT
+  swift: IBRCESMMGAR
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: MIGRATION TO T2S
+  swift: IBRCESMMMIG
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: OPERACIONES DE GESTION DE TESORERIA
+  swift: IBRCESMMGTE
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: SENAF
+  swift: IBRCESMMSNF
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: SMART: AIAF-SEND
+  swift: IBRCESMMSD1
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: SMART: MARF
+  swift: IBRCESMMAF1
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: SMART: RENTA FIJA BOLSA BARCELONA
+  swift: IBRCESMMRF2
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: SMART: RENTA FIJA BOLSA BILBAO
+  swift: IBRCESMMRF3
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: SMART: RENTA FIJA BOLSA MADRID
+  swift: IBRCESMMRF1
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: SMART: RENTA FIJA BOLSA VALENCIA
+  swift: IBRCESMMRF4
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESM1AS2
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMM
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMMAS1
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMMCDE
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMMEF1
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMMEF2
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMMEN1
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMMEN2
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMMINV
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMMISS
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMMMVL
+    
+- name: "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)"
+  city: "MADRID"
+  branch: null
+  swift: IBRCESMMSCL
+    
+- name: "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A."
+  city: "MADRID"
+  branch: GARANTIAS
+  swift: IPAYESMMGT1
+    
+- name: "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A."
+  city: "MADRID"
+  branch: SISTEMA VINCULADO
+  swift: IPAYESMMAS1
+    
+- name: "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A."
+  city: "MADRID"
+  branch: null
+  swift: IPAYESMM
+    
+- name: "SOCIEDAD ESTATAL CORREOS Y TELEGRAFOS, S.A."
+  city: "MADRID"
+  branch: null
+  swift: COYTESM1
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A."
+  city: "BARCELONA"
+  branch: ANCIILARY SYSTEM
+  swift: XBCNESBBSCL
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A."
+  city: "BARCELONA"
+  branch: EVENTOS CORPORATIVOS (FASE2)
+  swift: XBCNESBBEC2
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A."
+  city: "BARCELONA"
+  branch: EVENTOS CORPORATIVOS
+  swift: XBCNESBBECO
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A."
+  city: "BARCELONA"
+  branch: LIBRO REGISTRO ACCIONISTAS
+  swift: XBCNESBBLRA
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A."
+  city: "BARCELONA"
+  branch: SER. DE COMP. Y LIQ. BOLSA DE VALORES DE BARCELONA CUENTA GARANTIAS
+  swift: XBCNESBBGAR
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A."
+  city: "BARCELONA"
+  branch: SISTEMAS DE GESTION (FASE2)
+  swift: XBCNESBBSG2
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A."
+  city: "BARCELONA"
+  branch: SISTEMAS DE GESTION
+  swift: XBCNESBBSGX
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: XBCNESBB
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A."
+  city: "BILBAO"
+  branch: ANCILLARY SYSTEM
+  swift: XRBVES21SCL
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A."
+  city: "BILBAO"
+  branch: LIQUIDACION CUENTA GARANTIA
+  swift: XRBVES21GAR
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A."
+  city: "BILBAO"
+  branch: null
+  swift: XRBVES21
+    
+- name: "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAOS.A."
+  city: "BILBAO"
+  branch: null
+  swift: XBILES21
+    
+- name: "SOCIETE FINANCIERE ET FONCIERE"
+  city: "MADRID"
+  branch: null
+  swift: SOFFESM1
+    
+- name: "SOCIETE GENERALE VALORES"
+  city: "MADRID"
+  branch: null
+  swift: SGVLESM1
+    
+- name: "SOCIETE GENERALE, SUCURSAL EN ESPANA"
+  city: "BARCELONA"
+  branch: null
+  swift: SOGEESMMBAR
+    
+- name: "SOCIETE GENERALE, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: MARKET BRANCH
+  swift: SOGEESMMAGM
+    
+- name: "SOCIETE GENERALE, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: SG MADRID TRADE SERVICES
+  swift: SOGEESMMTRA
+    
+- name: "SOCIETE GENERALE, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: SOGEESMM
+    
+- name: "SOL MELIA, S.A."
+  city: "PALMA DE MALLORCA"
+  branch: null
+  swift: SOELES21
+    
+- name: "SOLVENTIS A.V., S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: SOVVESB1
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "MADRID"
+  branch: null
+  swift: SCBLESM1
+    
+- name: "STIFEL NICOLAUS LTD"
+  city: "MADRID"
+  branch: null
+  swift: STNCESM1
+    
+- name: "SVENSKA HANDELSBANKEN AB"
+  city: "MARBELLA"
+  branch: null
+  swift: HANDES21
+    
+- name: "SYNECTIC, TECNOLOGIAS DE LA INFORMACION SA."
+  city: "BARCELONA"
+  branch: null
+  swift: AGBBESBB
+    
+- name: "TARGOBANK,S.A."
+  city: "MADRID"
+  branch: FIXED INCOME
+  swift: CMCIESA1FIX
+    
+- name: "TARGOBANK,S.A."
+  city: "MADRID"
+  branch: null
+  swift: CMCIESA1
+    
+- name: "TARGOBANK,S.A.U."
+  city: "MADRID"
+  branch: null
+  swift: CMCIESMM
+    
+- name: "TECNICAS REUNIDAS"
+  city: "MADRID"
+  branch: null
+  swift: TECRESMM
+    
+- name: "TELEFONICA, S.A."
+  city: "MADRID"
+  branch: null
+  swift: TEFEESMM
+    
+- name: "TESORERIA GENERAL DE LA SEGURIDAD SOCIAL"
+  city: "MADRID"
+  branch: null
+  swift: TESSESM1
+    
+- name: "TESORO PUBLICO TRASPASO DE DEPOSITOS"
+  city: "MADRID"
+  branch: COLATERAL SWAPS
+  swift: TESOESM1SWP
+    
+- name: "TESORO PUBLICO TRASPASO DE DEPOSITOS"
+  city: "MADRID"
+  branch: null
+  swift: TESOESM1
+    
+- name: "TESORO PUBLICO-SPAIN SPANISH GOVERNMENT GOBIERNO DE ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: TPSGESMM
+    
+- name: "THE GB FOODS, S.A."
+  city: "BARCELONA"
+  branch: null
+  swift: GBFSESBB
+    
+- name: "TOKYO SOCIEDAD DE VALORES Y BOLSA (ESPANA) S.A."
+  city: "MADRID"
+  branch: null
+  swift: TSVBESM1
+    
+- name: "TRESSIS, SV, SA"
+  city: "MADRID"
+  branch: null
+  swift: TEESESM1
+    
+- name: "TRIODOS BANK NV, SE"
+  city: "MADRID"
+  branch: null
+  swift: TRIOES21
+    
+- name: "TRIODOS BANK NV, SE"
+  city: "MADRID"
+  branch: null
+  swift: TRIOESMM
+    
+- name: "UBI BANCA S.P.A. - SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: UBIBESMM
+    
+- name: "UBS EUROPE SE, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: BRANCH
+  swift: UBSWESMMNPB
+    
+- name: "UBS EUROPE SE, SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: SUCCURSAL EN ESPANA
+  swift: UBSWESMM
+    
+- name: "UBS SECURITIES ESPANA SOCIEDAD DE VALORES SA"
+  city: "MADRID"
+  branch: null
+  swift: UBSSESM1
+    
+- name: "UCABAIL, S.E."
+  city: "MADRID"
+  branch: null
+  swift: UCSSESM1
+    
+- name: "UNICAJA BANCO, S.A."
+  city: "MADRID"
+  branch: CTA GARANTIA
+  swift: UCJAES2MGAR
+    
+- name: "UNICAJA BANCO, S.A."
+  city: "MALAGA"
+  branch: null
+  swift: UCJAES2M
+    
+- name: "UNICORP PATRIMONIO, SOCIEDAD DE VALORES, S.A."
+  city: "MALAGA"
+  branch: null
+  swift: UPSVES21
+    
+- name: "UNICREDIT SPA SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: UNCRESMA
+    
+- name: "UNION DE CREDITOS INMOBILIARIOS, S.A."
+  city: "MADRID"
+  branch: null
+  swift: UCINESMM
+    
+- name: "UNION FENOSA SA"
+  city: "MADRID"
+  branch: null
+  swift: UNFEESM1
+    
+- name: "URQUIJO BOLSA Y VALORES S.V.B., S.A"
+  city: "MADRID"
+  branch: null
+  swift: UBAVESM1
+    
+- name: "URSA INSULATION S.A."
+  city: "MADRID"
+  branch: null
+  swift: URSNESMM
+    
+- name: "URSUS-3CAPITAL A.V, S.A."
+  city: "MADRID"
+  branch: null
+  swift: URSUESM1
+    
+- name: "USATEGI INVERSIONES SICAV SA"
+  city: "BARCELONA"
+  branch: null
+  swift: USISESB1
+    
+- name: "VIDACAIXA, S.A DE SEGUROS Y REASEGUROS"
+  city: "BARCELONA"
+  branch: null
+  swift: VDCAESB1
+    
+- name: "VOLKSWAGEN BANK GMBH SPANISH BRANCH"
+  city: "ALCOBENDAS"
+  branch: null
+  swift: VOWAES21
+    
+- name: "VUELING AIRLINES S.A"
+  city: "BARCELONA"
+  branch: null
+  swift: VLNGESBB
+    
+- name: "WAFABANK"
+  city: "MADRID"
+  branch: null
+  swift: WAFAESM1
+    
+- name: "WIZINK BANK S.A."
+  city: "MADRID"
+  branch: null
+  swift: POPLESMM
+    
+- name: "X-TRADE BROKERS DM S.A. SUCURSAL EN ESPANA"
+  city: "MADRID"
+  branch: null
+  swift: TBESESM1
+    
+- name: "XUNTA DE GALICIA"
+  city: "SANTIAGO DE COMPOSTELA"
+  branch: null
+  swift: CAGCES21
+    
+- name: "ZURICH INSURANCE PLC. SUCURSAL EN ESPANA"
+  city: "BARCELONA"
+  branch: null
+  swift: ZURIESBB
+    

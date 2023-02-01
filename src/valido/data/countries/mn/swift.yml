@@ -1,0 +1,90 @@
+- name: "ARIG BANK OF MONGOLIA (ARIG BANK LLC)"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: ARGBMNUB
+    
+- name: "BANK OF MONGOLIA, THE"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: BOMUMNUB
+    
+- name: "BOGD BANK"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: BOGDMNUB
+    
+- name: "CAPITAL BANK OF MONGOLIA"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: CBMNMNUB
+    
+- name: "CAPITRON BANK"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: CPITMNUB
+    
+- name: "CHINGGIS KHAAN BANK"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: CHKHMNUB
+    
+- name: "CREDIT BANK OF MONGOLIA"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: CRMNMNUB
+    
+- name: "DEVELOPMENT BANK OF MONGOLIA"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: DBOMMNUB
+    
+- name: "GOLOMT BANK OF MONGOLIA"
+  city: "ULAANBAATAR"
+  branch: CUSTODIAN BANKING DEPARTMENT
+  swift: GLMTMNUBCUS
+    
+- name: "GOLOMT BANK OF MONGOLIA"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: GLMTMNUB
+    
+- name: "KHAN BANK OF MONGOLIA"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: AGMOMNUB
+    
+- name: "NATIONAL INVESTMENT BANK OF MONGOLIA"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: NAIMMNUB
+    
+- name: "STATE BANK"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: STBMMNUB
+    
+- name: "TRADE AND DEVELOPMENT BANK OF MONGOLIA"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: TDBMMNUB
+    
+- name: "TRANSBANK"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: TBOMMNUB
+    
+- name: "TRANSPORT DEVELOPMENT BANK OF MONGOLIA"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: TRDMMNU1
+    
+- name: "ULAANBAATAR CITY BANK"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: CIBMMNUB
+    
+- name: "XACBANK"
+  city: "ULAANBAATAR"
+  branch: null
+  swift: CAXBMNUB
+    

@@ -1,0 +1,180 @@
+- name: "ARION BANK"
+  city: "REYKJAVIK"
+  branch: null
+  swift: ESJAISRE
+    
+- name: "ARTICA FINANCE HF."
+  city: "KOPAVOGUR"
+  branch: null
+  swift: ARNIISR1
+    
+- name: "AUDUR CAPITAL HF."
+  city: "REYKJAVIK"
+  branch: null
+  swift: AUCAISR1
+    
+- name: "BORGUN HF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: BORGISRE
+    
+- name: "BYR SECURITIES"
+  city: "REYKJAVIK"
+  branch: null
+  swift: BYSEISR1
+    
+- name: "CENTRAL BANK OF ICELAND"
+  city: "REYKJAVIK"
+  branch: TECHNICAL CODE 1
+  swift: SISLISRETIA
+    
+- name: "CENTRAL BANK OF ICELAND"
+  city: "REYKJAVIK"
+  branch: TECHNICAL CODE 2
+  swift: SISLISREASA
+    
+- name: "CENTRAL BANK OF ICELAND"
+  city: "REYKJAVIK"
+  branch: null
+  swift: SISLISRE
+    
+- name: "EIMSKIPAFELAG ISLANDS HF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: EIMIISRE
+    
+- name: "FOSSAR MARKADIR HF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: FOMRISR1
+    
+- name: "HF VERDBREF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: VERRISR1
+    
+- name: "ICELANDIC SECURITIES LTD."
+  city: "AKUREYRI"
+  branch: null
+  swift: ICSCISR1
+    
+- name: "ISLANDSBANKI HF"
+  city: "KOPAVOGUR"
+  branch: null
+  swift: GLITISRE
+    
+- name: "ISLANDSBANKI SECURITIES"
+  city: "REYKJAVIK"
+  branch: null
+  swift: VISLISR1
+    
+- name: "ISLANDSPOSTUR HF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: ICGIISR1
+    
+- name: "ISLENSKIR FJARFESTAR HF."
+  city: "REYKJAVIK"
+  branch: null
+  swift: ISFJISR1
+    
+- name: "JOKLAR-VERDBREF HF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: JOKLISR1
+    
+- name: "KVIKA BANKI HF."
+  city: "REYKJAVIK"
+  branch: null
+  swift: MPBAISRE
+    
+- name: "LANASJODUR SVEITARFELAGA"
+  city: "REYKJAVIK"
+  branch: null
+  swift: LASVISR1
+    
+- name: "LANDSBANKINN HF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: NBIIISRE
+    
+- name: "NASDAQ OMX ICELAND HF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: XICEISR1
+    
+- name: "NATIONAL REGISTRY OF ICELAND"
+  city: "REYKJAVIK"
+  branch: null
+  swift: NARIISR1
+    
+- name: "OSSUR HF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: OSSRISR1
+    
+- name: "REYKJAVIK CAPITAL HF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: NOVEISR1
+    
+- name: "SAGA CAPITAL FJARFESTINGARBANKI HF."
+  city: "AKUREYRI"
+  branch: null
+  swift: SACVISR1
+    
+- name: "SPARISJOOUR MYRASYSLU"
+  city: "BORGARNES"
+  branch: null
+  swift: SPMYISR1
+    
+- name: "SPARISJOOURINN I KEFLAVIK"
+  city: "REYKJANESBAE"
+  branch: null
+  swift: SPKFISR1
+    
+- name: "SPH"
+  city: "HAFNARFJORDUR"
+  branch: null
+  swift: SPPHISR1
+    
+- name: "SPRON VERDBREF HF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: SPVRISR1
+    
+- name: "T PLUS"
+  city: "AKUREYRI"
+  branch: null
+  swift: TPLSISR1
+    
+- name: "THE ICELANDIC SECURITIES DEPOSITORY LTD."
+  city: "REYKJAVIK"
+  branch: null
+  swift: ICSDISR1
+    
+- name: "TINDAR VERDBREF"
+  city: "REYKJAVIK"
+  branch: null
+  swift: TIVEISR1
+    
+- name: "VALITOR HF"
+  city: "HAFNARFJORDUR"
+  branch: null
+  swift: VATOISRE
+    
+- name: "VBS INVESTMENT BANK"
+  city: "REYKJAVIK"
+  branch: null
+  swift: VBINISR1
+    
+- name: "VIRDING HF."
+  city: "REYKJAVIK"
+  branch: null
+  swift: VIRDISR1
+    
+- name: "VSP"
+  city: "REYKJAVIK"
+  branch: null
+  swift: VSPVISR1
+    

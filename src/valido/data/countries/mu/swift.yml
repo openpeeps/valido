@@ -1,0 +1,300 @@
+- name: "ABC BANKING CORPORATION LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: ABCKMUMU
+    
+- name: "AFRASIA BANK LIMITED"
+  city: "EBENE"
+  branch: EBENE BRANCH
+  swift: AFBLMUMU101
+    
+- name: "AFRASIA BANK LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: AFBLMUMU
+    
+- name: "AFRICAN ALLIANCE STOCKBROKING HOLDINGS LIMITED"
+  city: "CYBER CITY"
+  branch: null
+  swift: AASHMUM1
+    
+- name: "AXYS LEASING LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: AXBKMUMU
+    
+- name: "AXYS STOCKBROKING LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: AXSOMUM1
+    
+- name: "BANK OF BARODA"
+  city: "PORT LOUIS"
+  branch: OFFSHORE BANKING UNIT
+  swift: BARBMUMUOBU
+    
+- name: "BANK OF BARODA"
+  city: "PORT LOUIS"
+  branch: null
+  swift: BARBMUMU
+    
+- name: "BANK OF CHINA (MAURITIUS) LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: BKCHMUMU
+    
+- name: "BANK OF MAURITIUS"
+  city: "PORT LOUIS"
+  branch: null
+  swift: BOMMMUPG
+    
+- name: "BANK OF MAURITIUS"
+  city: "PORT LOUIS"
+  branch: null
+  swift: BOMMMUPL
+    
+- name: "BANK ONE LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: BKONMUMU
+    
+- name: "BANQUE DES MASCAREIGNES LTEE"
+  city: "PORT LOUIS"
+  branch: null
+  swift: BAIMMUMU
+    
+- name: "BANYANTREE BANK LIMITED"
+  city: "CYBER CITY"
+  branch: null
+  swift: BTBLMUMU
+    
+- name: "BARCLAYS BANK MAURITIUS LTD"
+  city: "PORT LOUIS"
+  branch: M.A.F.E.X BRANCH
+  swift: BARCMUMUMAF
+    
+- name: "BARCLAYS BANK MAURITIUS LTD"
+  city: "PORT LOUIS"
+  branch: MAURITIUS OFFSHORE BANKING UNIT
+  swift: BARCMUMUOBU
+    
+- name: "BARCLAYS BANK MAURITIUS LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: BARCMUMU
+    
+- name: "BRITISH AMERICAN TOBACCO MAURITIUS"
+  city: "PORT LOUIS"
+  branch: null
+  swift: BATSMUM1
+    
+- name: "CAPITAL MARKETS BROKERS LIMITED"
+  city: "EBENE"
+  branch: null
+  swift: CMAKMUM1
+    
+- name: "CENTRAL DEPOSITORY AND SETTLEMENT CO. LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: CEDTMUM1
+    
+- name: "CENTURY BANKING CORPORATION LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: CBCLMUMU
+    
+- name: "CITIGROUP GLOBAL MARKETS MAURITIUS PRIVATE LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: CGMMMUM1
+    
+- name: "CITIGROUP HOLDINGS MAURITIUS LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: CIHAMUM1
+    
+- name: "CITIGROUP STRATEGIC HOLDINGS MAURITIUS LTD."
+  city: "PORT LOUIS"
+  branch: null
+  swift: CSHMMUM1
+    
+- name: "CLSA (MAURITIUS) LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: CLSAMUM1
+    
+- name: "DBM LTD. (MAURITIUS)"
+  city: "PORT LOUIS"
+  branch: null
+  swift: DBMAMUM1
+    
+- name: "DEUTSCHE BANK (MAURITIUS) LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: DBMLMUMU
+    
+- name: "DEUTSCHE SECURITIES MAURITIUS LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: DEUTMUML
+    
+- name: "DUNEARN INVESTMENTS (MAURITIUS) PTE LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: DEIMMUMU
+    
+- name: "EXON FINANCE LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: EXONMUM1
+    
+- name: "HABIB BANK LTD MAURITIUS"
+  city: "PORT LOUIS"
+  branch: null
+  swift: HABBMUMU
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LTD., THE"
+  city: "EBENE"
+  branch: HBMU BRANCH
+  swift: HSBCMUMUOBU
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LTD., THE"
+  city: "EBENE"
+  branch: null
+  swift: HSBCMUMU
+    
+- name: "HUIZHOU ONE LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: HUONMUM1
+    
+- name: "IDFC ADVISORS LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: IDADMUM1
+    
+- name: "IHS HOLDING LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: IHSAMUMU
+    
+- name: "INVESTEC BANK (MAURITIUS) LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: IVESMUMU
+    
+- name: "MANTARAY INVESTMENTS (MAURITIUS) PTE LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: MAVUMUM1
+    
+- name: "MAUBANK LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: MPCBMUMU
+    
+- name: "MCB STOCKBROKERS LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: MCSOMUM1
+    
+- name: "NEWTON SECURITIES LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: NESCMUM1
+    
+- name: "NOMURA MAURITIUS LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: NOMAMUMU
+    
+- name: "PLATINUM ONE LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: PLOEMUM1
+    
+- name: "PROVIDENCE LIFE LIMITED, PCC"
+  city: "EBENE"
+  branch: null
+  swift: PLLPMUMU
+    
+- name: "RICHEFOND LIMITED"
+  city: "GRAND BAY"
+  branch: null
+  swift: RICFMUM1
+    
+- name: "SBI (MAURITIUS) LTD"
+  city: "PORT LOUIS"
+  branch: WILLIAM NEWTON STREET
+  swift: INILMUMU101
+    
+- name: "SBI (MAURITIUS) LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: INILMUMU
+    
+- name: "SBM BANK(MAURITIUS)LTD"
+  city: "PORT LOUIS"
+  branch: CUSTODY
+  swift: STCBMUMU575
+    
+- name: "SBM BANK(MAURITIUS)LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: STCBMUMU
+    
+- name: "SPARKASSA EKONOMISK FORENING LTEE"
+  city: "PAMPLEMOUSSES"
+  branch: null
+  swift: KSSAMUM1
+    
+- name: "STANDARD BANK (MAURITIUS) LIMITED"
+  city: "EBENE"
+  branch: null
+  swift: SBICMUMU
+    
+- name: "STANDARD CHARTERED BANK (MAURITIUS) LTD"
+  city: "EBENE"
+  branch: SECURITIES SERVICES UNIT
+  swift: SCBLMUMUSSU
+    
+- name: "STANDARD CHARTERED BANK (MAURITIUS) LTD"
+  city: "EBENE"
+  branch: null
+  swift: SCBLMUMU
+    
+- name: "STANDARD CHARTERED BANK (MAURITIUS) LTD"
+  city: "PORT LOUIS"
+  branch: FM ASSET SERVICING
+  swift: SCBLMUMUZOP
+    
+- name: "STOCK EXCHANGE OF MAURITIUS LTD, THE"
+  city: "PORT LOUIS"
+  branch: null
+  swift: XMAUMUM1
+    
+- name: "SUPER GROUP TRADING LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: SGCTMUM1
+    
+- name: "SWAN SECURITIES LTD"
+  city: "PORT LOUIS"
+  branch: null
+  swift: GENRMUM1
+    
+- name: "THE MAURITIUS COMMERCIAL BANK LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: MCBLMUMU
+    
+- name: "THOMAS COOK (MAURITIUS) OPERATIONS COMPANY LIMITED"
+  city: "PORT LOUIS"
+  branch: null
+  swift: TCILMUM1
+    
+- name: "WARWYCK PRIVATE BANK LTD"
+  city: "PHOENIX"
+  branch: null
+  swift: WPBLMUMU
+    

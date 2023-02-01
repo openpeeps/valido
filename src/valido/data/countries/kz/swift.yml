@@ -1,0 +1,410 @@
+- name: "AL HILAL ISLAMIC BANK JSC"
+  city: "ALMATY"
+  branch: null
+  swift: HLALKZKZ
+    
+- name: "ALFA BANK JSC SB"
+  city: "ALMATY"
+  branch: null
+  swift: ALFAKZKA
+    
+- name: "ASIACREDIT BANK"
+  city: "ALMATY"
+  branch: null
+  swift: LARIKZKA
+    
+- name: "ATFBANK JSC"
+  city: "ALMATY"
+  branch: null
+  swift: ALMNKZKA
+    
+- name: "ATFBANK JSC"
+  city: "ALMATY"
+  branch: null
+  swift: ALMNKZKATRE
+    
+- name: "BANK KASSA NOVA"
+  city: "ASTANA"
+  branch: null
+  swift: KSNVKZKA
+    
+- name: "BANK OF ASTANA JSC"
+  city: "ALMATY"
+  branch: null
+  swift: ASFBKZKA
+    
+- name: "BANK OF CHINA KAZAKHSTAN"
+  city: "ALMATY"
+  branch: null
+  swift: BKCHKZKA
+    
+- name: "BANK RBK"
+  city: "ALMATY"
+  branch: null
+  swift: KINCKZKA
+    
+- name: "BRITISH AMERICAN TOBACCO KAZAKHSTAN TRADING LLP"
+  city: "ALMATY"
+  branch: null
+  swift: BATSKZK1
+    
+- name: "CENTRAL ASIAN STOCK EXCHANGE"
+  city: "ALMATY"
+  branch: null
+  swift: XKAZKZK1
+    
+- name: "CENTRAL SECURITIES DEPOSITORY, JSC"
+  city: "ALMATY"
+  branch: null
+  swift: CEDUKZKA
+    
+- name: "CHASE MANHATTAN BANK"
+  city: "ALMATY"
+  branch: null
+  swift: CHASKZK1
+    
+- name: "CJSC CITIBANK KAZAKHSTAN"
+  city: "ALMATY"
+  branch: TRADE SERVICES DEPT.
+  swift: CITIKZX1TRD
+    
+- name: "CJSC CITIBANK KAZAKHSTAN"
+  city: "ALMATY"
+  branch: null
+  swift: CITIKZKA
+    
+- name: "CREDIT ALTYN BANK"
+  city: "ALMATY"
+  branch: null
+  swift: CRAYKZK1
+    
+- name: "DELTA BANK, JSC"
+  city: "ALMATY"
+  branch: null
+  swift: NFBAKZ23
+    
+- name: "DEVELOPMENT BANK OF KAZAKHSTAN JSC"
+  city: "ASTANA"
+  branch: null
+  swift: DVKAKZKA
+    
+- name: "EURASIAN BANK"
+  city: "ALMATY"
+  branch: null
+  swift: EURIKZKA
+    
+- name: "EURASIAN DEVELOPMENT BANK"
+  city: "ALMATY"
+  branch: EURASIAN FUND FOR STABILIZATION AND DEVELOPMENT
+  swift: EABRKZKAACF
+    
+- name: "EURASIAN DEVELOPMENT BANK"
+  city: "ALMATY"
+  branch: null
+  swift: EABRKZKA
+    
+- name: "EXIMBANK KAZAKHSTAN JOINT-STOCK COMPANY"
+  city: "ALMATY"
+  branch: null
+  swift: EXKAKZKA
+    
+- name: "EXPRESS BANK JSC"
+  city: "ALMATY"
+  branch: null
+  swift: INKZKZK1
+    
+- name: "FORTEBANK JSC"
+  city: "ALMATY"
+  branch: null
+  swift: IRTYKZKA001
+    
+- name: "FORTEBANK JSC"
+  city: "ASTANA"
+  branch: null
+  swift: IRTYKZKA
+    
+- name: "HALYK BANK"
+  city: "ALMATY"
+  branch: null
+  swift: HALYKZK1
+    
+- name: "HALYK SAVINGS BANK OF KAZAKSTAN"
+  city: "ALMATY"
+  branch: TREASURY DEPARTMENT
+  swift: HSBKKZKXTSY
+    
+- name: "HALYK SAVINGS BANK OF KAZAKSTAN"
+  city: "ALMATY"
+  branch: null
+  swift: HSBKKZKX
+    
+- name: "HSBC SECURITIES KAZAKHSTAN LLP"
+  city: "ALMATY"
+  branch: null
+  swift: HSBCKZB1
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA"
+  city: "ALMATY"
+  branch: null
+  swift: ICBKKZKX
+    
+- name: "INTERNATIONAL SCIENCE AND TECHOLOGY CENTER"
+  city: "ASTANA"
+  branch: null
+  swift: INIYKZ21
+    
+- name: "JOINT STOCK COMPANY HOUSE CONSTRUCTION SAVINGS BANK OF KAZAKHSTAN"
+  city: "ALMATY"
+  branch: null
+  swift: HCSKKZKA
+    
+- name: "JSC 'ALTYN BANK' (SB OF JSC 'HALYK BANK')"
+  city: "ALMATY"
+  branch: null
+  swift: ATYNKZKA
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "AKTAU"
+  branch: AKTAU BRANCH
+  swift: KCJBKZK1AKT
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "AKTOBE"
+  branch: AKTOBE BRANCH
+  swift: KCJBKZK1ATB
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "ALMATY"
+  branch: ALMATY BRANCH
+  swift: KCJBKZK1ALM
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "ALMATY"
+  branch: ALMATY REGIONAL BRANCH
+  swift: KCJBKZK1AOF
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "ALMATY"
+  branch: null
+  swift: KCJBKZKX
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "ASTANA"
+  branch: ASTANA BRANCH
+  swift: KCJBKZK1AST
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "ATYRAU"
+  branch: ATYRAU BRANCH
+  swift: KCJBKZK1ATR
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "KARAGANDA"
+  branch: KARAGANDA BRANCH
+  swift: KCJBKZK1KAR
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "KOKSHETAU"
+  branch: KOKSHETAU BRANCH
+  swift: KCJBKZK1KOK
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "KOSTANAY"
+  branch: KOSTANAI BRANCH
+  swift: KCJBKZK1KOS
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "KYZYLORDA"
+  branch: KYZYLORDA BRANCH
+  swift: KCJBKZK1KZO
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "PAVLODAR"
+  branch: PAVLODAR BRANCH
+  swift: KCJBKZK1PVL
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "PETROPAVLOVSK"
+  branch: PETROPAVLOVSK BRANCH
+  swift: KCJBKZK1PTR
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "SEMEY"
+  branch: SEMEY
+  swift: KCJBKZK1SMP
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "SHIMKENT"
+  branch: SHYMKENT BRANCH
+  swift: KCJBKZK1SMK
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "TALDYKORGAN"
+  branch: TALDYKORGAN BRANCH
+  swift: KCJBKZK1TLD
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "TARAZ"
+  branch: TARAZ BRANCH
+  swift: KCJBKZK1TRZ
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "URALSK"
+  branch: URALSK BRANCH
+  swift: KCJBKZK1URL
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "UST-KAMENOGORSK"
+  branch: UST-KAMENOGORSK BRANCH
+  swift: KCJBKZK1UST
+    
+- name: "JSC 'BANK CENTERCREDIT'"
+  city: "ZHEZKAZGAN"
+  branch: ZHEZKAZGAN BRANCH
+  swift: KCJBKZK1GZK
+    
+- name: "JSC 'BANK EXPOCREDIT'"
+  city: "ALMATY"
+  branch: null
+  swift: ABNAKZKX
+    
+- name: "JSC 'BANK EXPOCREDIT'"
+  city: "ATYRAU"
+  branch: ATYRAU BRANCH
+  swift: ABNAKZKXATY
+    
+- name: "JSC 'BANK EXPOCREDIT'"
+  city: "TENGIZ"
+  branch: TCOV BRANCH
+  swift: ABNAKZKXTCO
+    
+- name: "JSC CAPITAL BANK KAZAKHSTAN"
+  city: "ALMATY"
+  branch: null
+  swift: TBKBKZKA
+    
+- name: "JSC MITTAL STEEL TEMIRTAU"
+  city: "TEMIRTAU"
+  branch: null
+  swift: USINKZ21
+    
+- name: "KASPI BANK JSC"
+  city: "ALMATY"
+  branch: null
+  swift: CASPKZKA
+    
+- name: "KAZAKHSTAN STOCK EXCHANGE"
+  city: "ALMATY"
+  branch: null
+  swift: KICEKZKX
+    
+- name: "KAZAKHSTAN-ZIRAAT INTERNATIONAL BANK"
+  city: "ALMATY"
+  branch: null
+  swift: KZIBKZKA
+    
+- name: "'KAZKOMMERTSBANK' JSC"
+  city: "ALMATY"
+  branch: null
+  swift: KZKOKZKX
+    
+- name: "KAZPOCHTABANK, JOINT-STOCK BANK"
+  city: "ALMATY"
+  branch: null
+  swift: KAZPKZK1
+    
+- name: "KAZPOST OAO"
+  city: "ALMATY"
+  branch: null
+  swift: KAJSKZK1
+    
+- name: "KREDITNOE TOVARISCHESTVO ASTANA CONSOLIDATION"
+  city: "ASTANA"
+  branch: null
+  swift: KTACKZ21
+    
+- name: "NATIONAL BANK OF KAZAKHSTAN"
+  city: "ALMATY"
+  branch: null
+  swift: NBRKKZKX
+    
+- name: "NATIONAL BANK OF PAKISTAN CJSC SB"
+  city: "ALMATY"
+  branch: null
+  swift: NBPAKZKA
+    
+- name: "NURBANK JOINT STOCK COMPANY"
+  city: "ALMATY"
+  branch: null
+  swift: NURSKZKX
+    
+- name: "QAZAQ BANKI JOINT STOCK COMPANY"
+  city: "ALMATY"
+  branch: null
+  swift: SENIKZKA
+    
+- name: "SAMSUNG ELECTRONICS KZ AND CENTRAL ASIA"
+  city: "ALMATY"
+  branch: null
+  swift: SECTKZK1
+    
+- name: "SAMSUNG ELECTRONICS KZ AND CENTRAL ASIA"
+  city: "ALMATY"
+  branch: null
+  swift: SECTKZK1981
+    
+- name: "SB JSC HOME CREDIT AND FINANCE BANK"
+  city: "ALMATY"
+  branch: null
+  swift: INLMKZKA
+    
+- name: "SB SBERBANK JSC"
+  city: "ALMATY"
+  branch: null
+  swift: SABRKZKA
+    
+- name: "SB SBERBANK JSC"
+  city: "ASTANA"
+  branch: ASTANA BRANCH
+  swift: SABRKZKAAST
+    
+- name: "SHINHAN BANK KAZAKHSTAN JSC"
+  city: "ALMATY"
+  branch: null
+  swift: SHBKKZKA
+    
+- name: "SOVEREIGN WEALTH FUND SAMRUK-KAZYNA JSC"
+  city: "ASTANA"
+  branch: null
+  swift: SMKZKZKA
+    
+- name: "TENGRI BANK JSC"
+  city: "ALMATY"
+  branch: null
+  swift: TNGRKZKX
+    
+- name: "TSESNABANK JOINT-STOCK COMPANY"
+  city: "ASTANA"
+  branch: null
+  swift: TSESKZKA
+    
+- name: "TURKIYE KAZAKHSTAN INTERNATIONAL BANK"
+  city: "ALMATY"
+  branch: null
+  swift: TKIBKZK1
+    
+- name: "VISOR CAPITAL"
+  city: "ALMATY"
+  branch: null
+  swift: VIAAKZK1
+    
+- name: "VTB BANK (KAZAKHSTAN)"
+  city: "ALMATY"
+  branch: null
+  swift: VTBAKZKZ
+    
+- name: "ZAMAN-BANK JSC"
+  city: "EKIBASTUZ"
+  branch: null
+  swift: ZAJSKZ22
+    

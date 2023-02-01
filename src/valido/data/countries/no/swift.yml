@@ -1,0 +1,3655 @@
+- name: "A. SUNDVALL A.S."
+  city: "OSLO"
+  branch: null
+  swift: SUNVNOK1
+    
+- name: "AASEN SPAREBANK"
+  city: "ASEN"
+  branch: null
+  swift: AASANO21
+    
+- name: "ABG SECURITIES LIMITED"
+  city: "OSLO"
+  branch: null
+  swift: ABSRNOK1
+    
+- name: "ABG SUNDAL COLLIER NORGE ASA"
+  city: "OSLO"
+  branch: null
+  swift: AGSRNOK1
+    
+- name: "ACTA ASSET MANAGEMENT ASA"
+  city: "STAVANGER"
+  branch: null
+  swift: AANSNO21
+    
+- name: "ACTA BANK ASA"
+  city: "STAVANGER"
+  branch: null
+  swift: ACBANO21
+    
+- name: "ACTIVE KNOWLEDGE MODELING AS"
+  city: "LYSAKER"
+  branch: null
+  swift: ACKMNOK1
+    
+- name: "AFJORD SPAREBANK"
+  city: "AFJORD"
+  branch: null
+  swift: AFJONO21
+    
+- name: "ALFRED BERG KAPITALFORVALTNING AS"
+  city: "OSLO"
+  branch: null
+  swift: ALBFNOK1
+    
+- name: "ALLEGRO FINANS ASA"
+  city: "TRONDHEIM"
+  branch: null
+  swift: ALNSNO21
+    
+- name: "ANDEBU SPAREBANK"
+  city: "ANDEBU"
+  branch: null
+  swift: ANBUNO21
+    
+- name: "ANKENES SPAREBANK"
+  city: "NARVIK"
+  branch: null
+  swift: ANKENO21
+    
+- name: "ARCTIC ENERGY PARTNERS AS"
+  city: "TRONDHEIM"
+  branch: null
+  swift: ARETNO21
+    
+- name: "ARCTIC FUND MANAGEMENT AS"
+  city: "OSLO"
+  branch: null
+  swift: ARFGNOK1
+    
+- name: "ARCTIC SECURITIES ASA"
+  city: "OSLO"
+  branch: null
+  swift: ASEANOK1
+    
+- name: "ARENDAL OG OMEGNS SPAREKASSE"
+  city: "ARENDAL"
+  branch: null
+  swift: ARENNO21
+    
+- name: "ASKIM OG SPYDEBERG SPAREBANK"
+  city: "ASKIM"
+  branch: null
+  swift: ASKSNO21
+    
+- name: "ATLANTIC SECURITIES ASA"
+  city: "OSLO"
+  branch: null
+  swift: ATSANOK1
+    
+- name: "AURLAND SPAREBANK"
+  city: "AURLAND"
+  branch: null
+  swift: AUSPNO21
+    
+- name: "AURSKOG SPAREBANK"
+  city: "AURSKOG"
+  branch: null
+  swift: AUSNNO21
+    
+- name: "AXIR ASA"
+  city: "OSLO"
+  branch: null
+  swift: AXSANOK1
+    
+- name: "BAMBLE OG LANGESUND SPAREBANK"
+  city: "STATHELLE"
+  branch: null
+  swift: BLSPNO21
+    
+- name: "BANK NORWEGIAN"
+  city: "OSLO"
+  branch: null
+  swift: NORWNOK1
+    
+- name: "BANK2 ASA"
+  city: "OSLO"
+  branch: null
+  swift: BTWONOK1
+    
+- name: "BANKENES SIKRINGSFOND"
+  city: "OSLO"
+  branch: null
+  swift: SIKRNOK1
+    
+- name: "BB BANK ASA"
+  city: "BERGEN"
+  branch: null
+  swift: BNSSNOB1
+    
+- name: "BERG SPAREBANK"
+  city: "HALDEN"
+  branch: null
+  swift: BRGPNO21
+    
+- name: "BERGEN BUNKERS AS"
+  city: "BERGEN"
+  branch: null
+  swift: BEBNNOB1
+    
+- name: "BERGEN CAPITAL MANAGEMENT AS"
+  city: "BERGEN"
+  branch: null
+  swift: BCMMNOB1
+    
+- name: "BERGEN ENERGI MARKETS AS"
+  city: "BERGEN"
+  branch: null
+  swift: BEEKNOB1
+    
+- name: "BERGEN FONDSMEGLERFORRETNING A/S"
+  city: "BERGEN"
+  branch: null
+  swift: BEFONOB1
+    
+- name: "BIEN SPAREBANK AS"
+  city: "OSLO"
+  branch: null
+  swift: BIENNOK1
+    
+- name: "BIRKENES SPAREBANK"
+  city: "BIRKELAND"
+  branch: null
+  swift: BISNNO21
+    
+- name: "BJUGN SPAREBANK"
+  city: "BJUGN"
+  branch: null
+  swift: BJUGNO21
+    
+- name: "BLAKER SPAREBANK"
+  city: "SORUMSAND"
+  branch: null
+  swift: BLSANO21
+    
+- name: "BNBANK ASA"
+  city: "TRONDHEIM"
+  branch: null
+  swift: KBNONO22
+    
+- name: "BNP PARIBAS S.A. NORWAY BRANCH"
+  city: "OSLO"
+  branch: null
+  swift: BNPANOKK
+    
+- name: "BOREA NOTERTE MANAGEMENT AS"
+  city: "BERGEN"
+  branch: null
+  swift: BONMNOB1
+    
+- name: "BUD FRAENA OG HUSTAD SPAREBANK"
+  city: "ELNESVAGEN"
+  branch: null
+  swift: BFHSNO21
+    
+- name: "C WORLDWIDE ASSET MANAGEMENT AS"
+  city: "OSLO"
+  branch: null
+  swift: WOAMNOK1
+    
+- name: "CAR ASA"
+  city: "OSLO"
+  branch: null
+  swift: RRASNOK1
+    
+- name: "CARNEGIE A.S."
+  city: "OSLO"
+  branch: null
+  swift: CANGNOK1
+    
+- name: "CHRISTIANIA SECURITIES AS"
+  city: "OSLO"
+  branch: null
+  swift: CHUANOK1
+    
+- name: "CITIBANK EUROPE PLC NORWAY BRANCH"
+  city: "OSLO"
+  branch: null
+  swift: CITINOKX
+    
+- name: "COSMOS MARKETS ASA"
+  city: "SANDEFJORD"
+  branch: null
+  swift: CSMANO21
+    
+- name: "CULTURA SPAREBANK"
+  city: "OSLO"
+  branch: null
+  swift: CULTNOK1
+    
+- name: "DANSKE BANK A/S"
+  city: "KRISTIANSUND N"
+  branch: KRISTIANSUND
+  swift: DABANO22KSU
+    
+- name: "DANSKE BANK A/S"
+  city: "OSLO"
+  branch: OSLO BRANCH
+  swift: DABANO22OSL
+    
+- name: "DANSKE BANK A/S"
+  city: "SKIEN"
+  branch: SKIEN BRANCH
+  swift: DABANO22SKE
+    
+- name: "DANSKE BANK A/S"
+  city: "SOGNDAL"
+  branch: SOGNDAL
+  swift: DABANO22SOG
+    
+- name: "DANSKE BANK A/S"
+  city: "STAVANGER"
+  branch: STAVANGER
+  swift: DABANO22SVG
+    
+- name: "DANSKE BANK A/S"
+  city: "STEINKJER"
+  branch: STEINKJER
+  swift: DABANO22STE
+    
+- name: "DANSKE BANK A/S"
+  city: "STJOERDAL"
+  branch: STJOERDAL BRANCH
+  swift: DABANO22STJ
+    
+- name: "DANSKE BANK A/S"
+  city: "STORD"
+  branch: STORD BRANCH
+  swift: DABANO22STO
+    
+- name: "DANSKE BANK A/S"
+  city: "TROMSOE"
+  branch: TROMSOE BRANCH
+  swift: DABANO22TRM
+    
+- name: "DANSKE BANK A/S"
+  city: "TRONDHEIM"
+  branch: CLS SERVICES
+  swift: DABANO22CLS
+    
+- name: "DANSKE BANK A/S"
+  city: "TRONDHEIM"
+  branch: null
+  swift: DABANO22
+    
+- name: "DIALOG FINANSADGIVNING AS"
+  city: "OSLO"
+  branch: null
+  swift: DIFNNOK1
+    
+- name: "DNB ASSET MANAGEMENT AS"
+  city: "OSLO"
+  branch: null
+  swift: DNAMNOKK
+    
+- name: "DNB BANK ASA"
+  city: "OSLO"
+  branch: null
+  swift: DNBANOKK
+    
+- name: "DNB MARKETS CUSTODY, A BUSINESS UNIT OF DNB BANK   ASA, OSLO"
+  city: "OSLO"
+  branch: null
+  swift: DNBANOKC
+    
+- name: "DNB MARKETS, A BUSINESS UNIT OF DNB BANK ASA, OSLO"
+  city: "BERGEN"
+  branch: CLS NOSTRO AGENT CONTROL BRANCH
+  swift: DNBANOKXCLS
+    
+- name: "DNB MARKETS, A BUSINESS UNIT OF DNB BANK ASA, OSLO"
+  city: "OSLO"
+  branch: null
+  swift: DNBANOKX
+    
+- name: "DNV GL GROUP AS"
+  city: "HOVIK"
+  branch: null
+  swift: DNVGNO22
+    
+- name: "DRANGEDAL OG TORDAL SPAREBANK"
+  city: "DRANGEDAL"
+  branch: null
+  swift: DRANNO21
+    
+- name: "DVB BANK SE"
+  city: "OSLO"
+  branch: null
+  swift: DVKBNOK1
+    
+- name: "EASY TRADE ASA"
+  city: "OSLO"
+  branch: null
+  swift: EATANOK1
+    
+- name: "EASYBANK ASA"
+  city: "OSLO"
+  branch: null
+  swift: VERDNOK1
+    
+- name: "EIDSBERG SPAREBANK"
+  city: "MYSEN"
+  branch: null
+  swift: EIDSNO21
+    
+- name: "EIKA KAPITALFORVALTNING AS"
+  city: "OSLO"
+  branch: null
+  swift: EIKANOK1
+    
+- name: "EKSPORTFINANS ASA"
+  city: "OSLO"
+  branch: null
+  swift: EKSPNOKK
+    
+- name: "ENEBAKK SPAREBANK"
+  city: "ENEBAKK"
+  branch: null
+  swift: BAKKNO21
+    
+- name: "ETNE SPAREBANK"
+  city: "ETNE"
+  branch: null
+  swift: ETNENO21
+    
+- name: "ETNEDAL SPAREBANK"
+  city: "ETNEDAL"
+  branch: null
+  swift: ETSPNO21
+    
+- name: "EUROPEAN COMMODITY MANAGEMENT AS"
+  city: "BERGEN"
+  branch: null
+  swift: EUCGNOB1
+    
+- name: "EVJE OG HORNNES SPAREBANK"
+  city: "EVJE"
+  branch: null
+  swift: EVJENO21
+    
+- name: "EXPLORA ACTIVE MANAGEMENT AS"
+  city: "OSLO"
+  branch: null
+  swift: EXAANOK1
+    
+- name: "EXPLORA CAPITAL MANAGEMENT ASA"
+  city: "OSLO"
+  branch: null
+  swift: EXMANOK1
+    
+- name: "FANA SPAREBANK"
+  city: "BERGEN"
+  branch: null
+  swift: FANANOB1
+    
+- name: "FEARNLEY FOND A/S"
+  city: "OSLO"
+  branch: null
+  swift: FEFONOK1
+    
+- name: "FINANSCERT NORGE AS"
+  city: "OSLO"
+  branch: null
+  swift: FNOONOK1
+    
+- name: "FIRST ASSET MANAGEMENT"
+  city: "OSLO"
+  branch: null
+  swift: FRAANOK1
+    
+- name: "FIRST FONDENE AS"
+  city: "OSLO"
+  branch: null
+  swift: FRFNNOK1
+    
+- name: "FIRST SECURITIES WEALTH MANAGEMENT AS"
+  city: "OSLO"
+  branch: null
+  swift: FSWMNOK1
+    
+- name: "FISH POOL ASA"
+  city: "BERGEN"
+  branch: null
+  swift: FSPANOB1
+    
+- name: "FJALER SPAREBANK"
+  city: "DALE I SUNNFJORD"
+  branch: null
+  swift: FJASNO21
+    
+- name: "FLEKKEFJORD SPAREBANK"
+  city: "FLEKKEFJORD"
+  branch: null
+  swift: FLEKNO21
+    
+- name: "FOLKETRYGDFONDET"
+  city: "OSLO"
+  branch: null
+  swift: FOLTNOKK
+    
+- name: "FONDSFINANS AS"
+  city: "OSLO"
+  branch: null
+  swift: FONSNOK1
+    
+- name: "FONDSFINANS KAPITALFORVALTNING ASA"
+  city: "OSLO"
+  branch: null
+  swift: FOKANOK1
+    
+- name: "FORMUESFORVALTNING AKTIV FORVALTNING AS"
+  city: "OSLO"
+  branch: null
+  swift: FOAFNOKK
+    
+- name: "FORNEBU SPAREBANK"
+  city: "FORNEBU"
+  branch: null
+  swift: TELENO21
+    
+- name: "FORTE FONDSFORVALTNING AS"
+  city: "TRONDHEIM"
+  branch: null
+  swift: FFONNO21
+    
+- name: "FRAM FONDENE"
+  city: "DRAMMEN"
+  branch: null
+  swift: FRFONO21
+    
+- name: "GALLESIO PARTNERS AS"
+  city: "OSLO"
+  branch: null
+  swift: GAPTNOK1
+    
+- name: "GE MONEY BANK NUF"
+  city: "STAVANGER"
+  branch: null
+  swift: MNNUNO21
+    
+- name: "GILDESKAL SPAREBANK"
+  city: "INNDYR"
+  branch: null
+  swift: GILDNO21
+    
+- name: "GJENSIDIGE BANK ASA"
+  city: "FOERDE"
+  branch: null
+  swift: GJASNO21
+    
+- name: "GRONG SPAREBANK"
+  city: "GRONG"
+  branch: null
+  swift: GRONNO21
+    
+- name: "GRUE SPAREBANK"
+  city: "KIRKENAER"
+  branch: null
+  swift: GRUENO21
+    
+- name: "GUARDIAN CORPORATE AS"
+  city: "OSLO"
+  branch: null
+  swift: GUCRNOK1
+    
+- name: "H AND Q NORDEN SECURITIES HAGSTROMER AND QVIBERG FONDKOMMISSION AB"
+  city: "OSLO"
+  branch: null
+  swift: NSHQNO21
+    
+- name: "HALTDALEN SPAREBANK"
+  city: "HALTDALEN"
+  branch: null
+  swift: HALTNO21
+    
+- name: "HANDELSBANKEN"
+  city: "OSLO"
+  branch: NORDIC CUSTODY SERVICES
+  swift: HANDNOKKCUS
+    
+- name: "HANDELSBANKEN"
+  city: "OSLO"
+  branch: null
+  swift: HANDNOKK
+    
+- name: "HARSTAD SPAREBANK"
+  city: "HARSTAD"
+  branch: null
+  swift: HASBNO21
+    
+- name: "HAUGESUND SPAREBANK"
+  city: "HAUGESUND"
+  branch: null
+  swift: HAUGNO21
+    
+- name: "HEGRA SPAREBANK"
+  city: "HEGRA"
+  branch: null
+  swift: HESPNOB1
+    
+- name: "HEIMDAL FORVALTNING AS"
+  city: "STAVANGER"
+  branch: null
+  swift: HEFONO21
+    
+- name: "HELGELAND SPAREBANK"
+  city: "MOSJOEN"
+  branch: null
+  swift: HELGNO21
+    
+- name: "HEWLETT-PACKARD NORGE AS"
+  city: "OSLO"
+  branch: null
+  swift: HENRNOK1
+    
+- name: "HJARTDAL OG GRANSHERAD SPAREBANK"
+  city: "SAULAND"
+  branch: null
+  swift: HJARNO21
+    
+- name: "HJELMELAND SPAREBANK"
+  city: "HJELMELAND"
+  branch: null
+  swift: HJELNO21
+    
+- name: "HOEGH CAPITAL MANAGEMENT ASA"
+  city: "OSLO"
+  branch: null
+  swift: HCMSNOK1
+    
+- name: "HOLAND SPAREBANK"
+  city: "BJORKELANGEN"
+  branch: null
+  swift: HOLLNO21
+    
+- name: "HOLBERG FONDSFORVALTNING AS"
+  city: "BERGEN"
+  branch: null
+  swift: HOLFNOB1
+    
+- name: "HOLLA OG LUNDE SPAREBANK"
+  city: "ULEFOSS"
+  branch: null
+  swift: HOSANO21
+    
+- name: "HONEFOSS SPAREBANK"
+  city: "HOENEFOSS"
+  branch: null
+  swift: HOSPNO21
+    
+- name: "HORISONT KAPITALFORVALTNING AS"
+  city: "OSLO"
+  branch: ASSET MANAGEMENT
+  swift: HOKANOK1AMG
+    
+- name: "HORISONT KAPITALFORVALTNING AS"
+  city: "OSLO"
+  branch: null
+  swift: HOKANOK1
+    
+- name: "ICAP ENERGY AS"
+  city: "BERGEN"
+  branch: null
+  swift: ICAENOB1
+    
+- name: "IDRE SOGN SPAREBANK"
+  city: "ARDALSTANGEN"
+  branch: null
+  swift: IDRENO21
+    
+- name: "INDUSTRIFINANS AKTIV FORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: INAFNOK1
+    
+- name: "INTERKRAFT CAPITAL MANAGEMENT AS"
+  city: "OSLO"
+  branch: null
+  swift: ITCMNOK1
+    
+- name: "INTERNATIONAL MARITIME EXCHANGE ASA"
+  city: "OSLO"
+  branch: null
+  swift: IMEANOK1
+    
+- name: "J. P. MORGAN EUROPE LIMITED, OSLO BRANCH"
+  city: "OSLO"
+  branch: null
+  swift: CHASNOKK
+    
+- name: "J. P. MORGAN EUROPE LIMITED, OSLO BRANCH"
+  city: "OSLO"
+  branch: null
+  swift: CHASNOKKOSL
+    
+- name: "JAEREN SPAREBANK"
+  city: "BRYNE"
+  branch: null
+  swift: KLEPNO21
+    
+- name: "JERNBANEPERSONALETS SPAREBANK"
+  city: "OSLO"
+  branch: null
+  swift: JERNNO21
+    
+- name: "JOOL MARKETS AS"
+  city: "OSLO"
+  branch: null
+  swift: JOMANOK1
+    
+- name: "KARL JOHAN FONDS AS"
+  city: "OSLO"
+  branch: null
+  swift: KJFNNOK1
+    
+- name: "KLAEBU SPAREBANK"
+  city: "KLAEBU"
+  branch: null
+  swift: KLBUNO21
+    
+- name: "KLP BANKEN AS"
+  city: "TRONDHEIM"
+  branch: null
+  swift: KLPKNO21
+    
+- name: "KLP FORSIKRING"
+  city: "OSLO"
+  branch: null
+  swift: KLPFNOK1
+    
+- name: "KLP KAPITALFORVALTNING AS"
+  city: "OSLO"
+  branch: null
+  swift: KLPANOKK
+    
+- name: "KOMMUNAL LANDSPENSJONSKASSE"
+  city: "OSLO"
+  branch: null
+  swift: KOMLNOK1
+    
+- name: "KOMMUNALBANKEN AS"
+  city: "OSLO"
+  branch: null
+  swift: KOBANOKK
+    
+- name: "KONGSBERG GRUPPEN ASA"
+  city: "KONGSBERG"
+  branch: null
+  swift: KBGGNO2K
+    
+- name: "KRAGERO SPAREBANK"
+  city: "KRAGERO"
+  branch: null
+  swift: KREGNO21
+    
+- name: "KVINESDAL SPAREBANK"
+  city: "KVINESDAL"
+  branch: null
+  swift: KVIDNO21
+    
+- name: "LANDKREDITT BANK AS"
+  city: "OSLO"
+  branch: null
+  swift: LANDNOK1
+    
+- name: "LARVIKBANKEN BRUNLANES SPAREBANK"
+  city: "LARVIK"
+  branch: null
+  swift: LABRNOB1
+    
+- name: "LILLESANDS SPAREBANK"
+  city: "LILLESAND"
+  branch: null
+  swift: LILLNO21
+    
+- name: "LILLESTROM SPAREBANK"
+  city: "LILLESTROEM"
+  branch: null
+  swift: LISTNO21
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: HC1
+  swift: LINLNOK1HC1
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: HL1
+  swift: LINLNOK1HL1
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: HL3
+  swift: LINLNOK1HL3
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: HY1
+  swift: LINLNOK1HY1
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: HY3
+  swift: LINLNOK1HY3
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LC1
+  swift: LINLNOK1LC1
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LC2
+  swift: LINLNOK1LC2
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LC3
+  swift: LINLNOK1LC3
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LC5
+  swift: LINLNOK1LC5
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LL1
+  swift: LINLNOK1LL1
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LL2
+  swift: LINLNOK1LL2
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LL3
+  swift: LINLNOK1LL3
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LL5
+  swift: LINLNOK1LL5
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LO1
+  swift: LINLNOK1LO1
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LY1
+  swift: LINLNOK1LY1
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LY2
+  swift: LINLNOK1LY2
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LY3
+  swift: LINLNOK1LY3
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: LY5
+  swift: LINLNOK1LY5
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: NLP NO GLOBAL EQUIRY 1
+  swift: LINLNOK1LC4
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: NLP NO GLOBAL EQUIRY 2
+  swift: LINLNOK1LY4
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: NLP NO GLOBAL EQUIRY 3
+  swift: LINLNOK1LL4
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: UC1
+  swift: LINLNOK1UC1
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: UL1
+  swift: LINLNOK1UL1
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: UY1
+  swift: LINLNOK1UY1
+    
+- name: "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS"
+  city: "OSLO"
+  branch: null
+  swift: LINLNOK1
+    
+- name: "LOFOTEN SPAREBANK"
+  city: "BOESTAD"
+  branch: null
+  swift: BOGENO21
+    
+- name: "LOM OG SKJAK SPAREBANK"
+  city: "LOM"
+  branch: null
+  swift: LOSKNO21
+    
+- name: "LUSTER SPAREBANK"
+  city: "GAUPNE"
+  branch: null
+  swift: LUSKNO21
+    
+- name: "LY INVEST AS"
+  city: "MOELV"
+  branch: null
+  swift: IEVENO21
+    
+- name: "MARKEDSKRAFT ASA"
+  city: "ARENDAL"
+  branch: null
+  swift: MRASNO21
+    
+- name: "MARKER SPAREBANK"
+  city: "ORJE"
+  branch: null
+  swift: MASPNO21
+    
+- name: "MELDAL SPAREBANK"
+  city: "MELDAL"
+  branch: null
+  swift: MESPNO21
+    
+- name: "MELHUS SPAREBANK"
+  city: "MELHUS"
+  branch: null
+  swift: MELHNO21
+    
+- name: "MODUM SPAREBANK"
+  city: "VIKERSUND"
+  branch: null
+  swift: MODUNO21
+    
+- name: "MOE SECURITIES ASA"
+  city: "OSLO"
+  branch: null
+  swift: MOEENOK1
+    
+- name: "MOELVEN INDUSTRIER ASA"
+  city: "MOELV"
+  branch: null
+  swift: MOELNO21
+    
+- name: "MYBANK ASA"
+  city: "OSLO"
+  branch: null
+  swift: MYASNOK1
+    
+- name: "NESSET SPAREBANK"
+  city: "EIDSVAG"
+  branch: null
+  swift: NESPNO21
+    
+- name: "NETFONDS BANK ASA"
+  city: "OSLO"
+  branch: null
+  swift: NEFNNOKK
+    
+- name: "NORCAP AS"
+  city: "LYSAKER"
+  branch: null
+  swift: NRRCNO21
+    
+- name: "NORD POOL ASA"
+  city: "LYSAKER"
+  branch: null
+  swift: NOPSNO21
+    
+- name: "NORDBOE DRIFT"
+  city: "NISSEDAL"
+  branch: null
+  swift: NODRNO21
+    
+- name: "NORDEA BANK AB (PUBL), FILIAL I NORGE"
+  city: "OSLO"
+  branch: CUSTODY INTERNATIONAL
+  swift: NDEANOKKVPU
+    
+- name: "NORDEA BANK AB (PUBL), FILIAL I NORGE"
+  city: "OSLO"
+  branch: REALKREDITAKTIESELSKAB
+  swift: NDEANOKKNKR
+    
+- name: "NORDEA BANK AB (PUBL), FILIAL I NORGE"
+  city: "OSLO"
+  branch: THE NORDEA EIENDOMSKREDITT
+  swift: NDEANOKKNEK
+    
+- name: "NORDEA BANK AB (PUBL), FILIAL I NORGE"
+  city: "OSLO"
+  branch: null
+  swift: NDEANOKK
+    
+- name: "NORDEA BANK AB (PUBL), FILIAL I NORGE"
+  city: "OSLO"
+  branch: null
+  swift: NDEANOKKNCL
+    
+- name: "NORDEA GLOBAL - ASSET SIDE"
+  city: "OSLO"
+  branch: null
+  swift: NGASNOK1
+    
+- name: "NORDEA GLOBAL HIGH YIELD - ASSET SIDE"
+  city: "OSLO"
+  branch: null
+  swift: NGHINOK1
+    
+- name: "NORDEA STABILE AKSJER GLOBAL - ASSET SIDE"
+  city: "OSLO"
+  branch: null
+  swift: NSAGNOK1
+    
+- name: "NORDEA STABILE AKSJER GLOBAL ETISK - ASSET SIDE"
+  city: "OSLO"
+  branch: null
+  swift: NSALNOK1
+    
+- name: "NORDISK ENERGIFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: NOEENOK1
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: BRA
+  swift: NBHKNOKKBRA
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: CENTRAL GOVERNMENT'S CONSOLIDATED ACCOUNT SYSTEM
+  swift: NBHKNOKKSKK
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: DEPARTMENT FOR MARKET OPERATIONS AND ANALYSIS
+  swift: NBHKNOKKMOA
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: INTERIM TVANGSBALANSERING
+  swift: NBHKNOKKTVA
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: NORGES BANK AS AN AUTHORISED AGENT IN NBO
+  swift: NBHKNOKKASA
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: NORGES BANK AS EXTERNAL COLLATERAL AGENT (SIL)
+  swift: NBHKNOKKSIL
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: NORGES BANK KOLLOR ASA
+  swift: NBHKNOKKKOL
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: S-LAAN1
+  swift: NBHKNOKKS01
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: S-LAAN2
+  swift: NBHKNOKKS02
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: S-LAAN3
+  swift: NBHKNOKKS03
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: S-LAAN4
+  swift: NBHKNOKKS04
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: S-LAAN5
+  swift: NBHKNOKKS05
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: TECHNICAL INFRASTRUCTURE AGENT ROLE FOR NBO
+  swift: NBHKNOKKTIA
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: TIA ROLE FOR KOLLOR NBO
+  swift: NBHKNOKKTIK
+    
+- name: "NORGES BANK"
+  city: "OSLO"
+  branch: null
+  swift: NBHKNOKK
+    
+- name: "NORGES BANK (DIVISION NORGES BANK INVESTMENT MANAGEMENT)"
+  city: "OSLO"
+  branch: null
+  swift: NGIMNOKK
+    
+- name: "NORGES BANK -DIV. REAL ESTATE MANAGEMENT"
+  city: "OSLO"
+  branch: null
+  swift: NBRENOKK
+    
+- name: "NORNE SECURITIES AS"
+  city: "BERGEN"
+  branch: null
+  swift: NSSVNOB1
+    
+- name: "NORSK HYDRO A.S.A., HYDRO FINANS"
+  city: "OSLO"
+  branch: null
+  swift: NHYDNOKK
+    
+- name: "NORSK HYDRO A.S.A., HYDRO FINANS"
+  city: "OSLO"
+  branch: null
+  swift: NHYDNOKKHIF
+    
+- name: "NORSK HYDRO A.S.A., HYDRO FINANS"
+  city: "OSLO"
+  branch: null
+  swift: NHYDNOKKHPJ
+    
+- name: "NORSK HYDRO ASA"
+  city: "OSLO"
+  branch: null
+  swift: NHYDNOA1
+    
+- name: "NORSK SKIPSHYPOTHEKBANK A.S."
+  city: "OSLO"
+  branch: null
+  swift: NOSKNOK1
+    
+- name: "NORWEGIAN EMISSION TRADING REGISTRY"
+  city: "OSLO"
+  branch: null
+  swift: NETSNOK1
+    
+- name: "NOTTERO SPAREBANK"
+  city: "TONSBERG"
+  branch: null
+  swift: NOTTNO21
+    
+- name: "NRP SECURITIES ASA"
+  city: "OSLO"
+  branch: null
+  swift: NRSANOK1
+    
+- name: "OBOS BANKEN AS"
+  city: "OSLO"
+  branch: null
+  swift: OBOSNOK1
+    
+- name: "ODAL SPAREBANK"
+  city: "SAGSTUA"
+  branch: null
+  swift: ODASNO21
+    
+- name: "ODIN FORVALTNING AS"
+  city: "OSLO"
+  branch: null
+  swift: ODFONOKK
+    
+- name: "OFOTEN SPAREBANK"
+  city: "BOGEN I OFOTEN"
+  branch: null
+  swift: OFSPNO21
+    
+- name: "OPPDALSBANKEN"
+  city: "OPPDAL"
+  branch: null
+  swift: OPPDNO21
+    
+- name: "ORION ANALYSE AS"
+  city: "KRISTIANSAND S"
+  branch: null
+  swift: ORIONO21
+    
+- name: "ORKLA FINANS KAPITALFORVALTNING AS"
+  city: "OSLO"
+  branch: null
+  swift: ORFFNOK1
+    
+- name: "ORKLA SPAREBANK"
+  city: "ORKANGER"
+  branch: null
+  swift: OKDLNO21
+    
+- name: "ORLAND SPAREBANK"
+  city: "BREKSTAD"
+  branch: null
+  swift: ORLANO21
+    
+- name: "ORSKOG SPAREBANK"
+  city: "ORSKOG"
+  branch: null
+  swift: ORKONO21
+    
+- name: "OSLO BORS ASA"
+  city: "OSLO"
+  branch: null
+  swift: XOSLNOK1
+    
+- name: "OSTRE AGDER SPAREBANK"
+  city: "SUNDEBRU"
+  branch: null
+  swift: GJSPNO21
+    
+- name: "OYSTRE SLIDRE SPAREBANK"
+  city: "HEGGENES"
+  branch: null
+  swift: OYSLNO21
+    
+- name: "PARETO BANK ASA"
+  city: "OSLO"
+  branch: null
+  swift: PTAANOK1
+    
+- name: "PARETO FONDS A/S"
+  city: "OSLO"
+  branch: null
+  swift: PAFNNOK1
+    
+- name: "PARETO FORVALTNING AS"
+  city: "OSLO"
+  branch: null
+  swift: PAFVNOK1
+    
+- name: "PARETO NORDIC INVESTMENTS AS"
+  city: "OSLO"
+  branch: null
+  swift: PANVNOK1
+    
+- name: "PARETO PPN AS"
+  city: "BRYNE"
+  branch: null
+  swift: PAPNNO21
+    
+- name: "POSTEN NORGE AS"
+  city: "OSLO"
+  branch: null
+  swift: NORGNOK1
+    
+- name: "PRIVATBANKEN ASA"
+  city: "OSLO"
+  branch: null
+  swift: PBASNOK1
+    
+- name: "RINDAL SPAREBANK"
+  city: "RINDAL"
+  branch: null
+  swift: RINDNO21
+    
+- name: "RINGERIKES SPAREBANK"
+  city: "HOENEFOSS"
+  branch: null
+  swift: RIRINO21
+    
+- name: "ROMSDALS FELLESBANK ASA"
+  city: "MOLDE"
+  branch: null
+  swift: ROFENO21
+    
+- name: "ROROSBANKEN ROROS SPAREBANK"
+  city: "ROROS"
+  branch: null
+  swift: RORBNO21
+    
+- name: "RS PLATOU MARKETS AS"
+  city: "OSLO"
+  branch: null
+  swift: NOSUNOK1
+    
+- name: "RS PLATOU SECURITIES"
+  city: "HOEVIK"
+  branch: null
+  swift: PLSENO21
+    
+- name: "SAFE DEPOSIT BANK OF NORWAY AS"
+  city: "OSLO"
+  branch: null
+  swift: SDBNNOKK
+    
+- name: "SAGA SECURITIES AS"
+  city: "OSLO"
+  branch: null
+  swift: SASUNOK1
+    
+- name: "SAMUEL MONTAGU NORGE A/S"
+  city: "OSLO"
+  branch: null
+  swift: SAMNNOK1
+    
+- name: "SANDNES SPAREBANK"
+  city: "SANDNES"
+  branch: null
+  swift: SASKNO22
+    
+- name: "SANTANDER CONSUMER BANK AS"
+  city: "LYSAKER"
+  branch: null
+  swift: SAOMNO21
+    
+- name: "SBANKEN ASA"
+  city: "BERGEN"
+  branch: null
+  swift: SKIANOBB
+    
+- name: "SEB ENSKILDA AS"
+  city: "OSLO"
+  branch: null
+  swift: ENSKNOKK
+    
+- name: "SEB PRIVATE BANKING"
+  city: "OSLO"
+  branch: null
+  swift: ESSENO22
+    
+- name: "SECTOR EPSILON ASA"
+  city: "OSLO"
+  branch: null
+  swift: SCESNOK1
+    
+- name: "SECTOR FUND SERVICES ASA"
+  city: "OSLO"
+  branch: null
+  swift: SFEANOK1
+    
+- name: "SECTOR GAMMA ASA"
+  city: "OSLO"
+  branch: null
+  swift: SEGSNOK1
+    
+- name: "SECTOR OMEGA ASA"
+  city: "OSLO"
+  branch: null
+  swift: SCGANOK1
+    
+- name: "SECTOR THETA AS"
+  city: "OSLO"
+  branch: null
+  swift: SETHNOK1
+    
+- name: "SELBU SPAREBANK"
+  city: "SELBU"
+  branch: null
+  swift: SELSNO21
+    
+- name: "SETSKOG SPAREBANK"
+  city: "SETSKOG"
+  branch: null
+  swift: SSPANO21
+    
+- name: "SIX X-CLEAR AG NORWEGIAN BRANCH"
+  city: "OSLO"
+  branch: OSLO CLEARING
+  swift: OSCLNOKKLAN
+    
+- name: "SIX X-CLEAR AG NORWEGIAN BRANCH"
+  city: "OSLO"
+  branch: OSLO CLEARING
+  swift: OSCLNOKKVPO
+    
+- name: "SIX X-CLEAR AG NORWEGIAN BRANCH"
+  city: "OSLO"
+  branch: null
+  swift: OSCLNOKK
+    
+- name: "SIX X-CLEAR AG NORWEGIAN BRANCH"
+  city: "OSLO"
+  branch: null
+  swift: OSCLNOKX
+    
+- name: "SIX X-CLEAR AG NORWEGIAN BRANCH"
+  city: "OSLO"
+  branch: null
+  swift: OSCLNOKXCLN
+    
+- name: "SIX X-CLEAR AG NORWEGIAN BRANCH"
+  city: "OSLO"
+  branch: null
+  swift: OSCLNOKXCLR
+    
+- name: "SKAGEN AS"
+  city: "STAVANGER"
+  branch: null
+  swift: SKGNNO22
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN"
+  city: "OSLO"
+  branch: SEB OSLO CALYPSO BRANCH CODE
+  swift: ESSENOKXCAL
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN"
+  city: "OSLO"
+  branch: null
+  swift: ESSENOKX
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN"
+  city: "OSLO"
+  branch: null
+  swift: ESSENOKXCLS
+    
+- name: "SKUDENES AND AAKRA SPAREBANK"
+  city: "AKREHAMN"
+  branch: null
+  swift: SKAANO21
+    
+- name: "SKUE SPAREBANK"
+  city: "NESBYEN"
+  branch: null
+  swift: NEPRNO21
+    
+- name: "SOGNE OG GREIPSTAD SPAREBANK"
+  city: "SOEGNE"
+  branch: null
+  swift: SOGSNO21
+    
+- name: "SOKNEDAL SPAREBANK"
+  city: "SOKNEDAL"
+  branch: null
+  swift: SOKNNO21
+    
+- name: "SPAREBANK 1 GUDBRANDSDAL"
+  city: "VINSTRA"
+  branch: null
+  swift: SGFSNO21
+    
+- name: "SPAREBANK 1 HALLINGDAL"
+  city: "AL"
+  branch: null
+  swift: HAALNO21
+    
+- name: "SPAREBANK 1 HALLINGDAL"
+  city: "GOL"
+  branch: null
+  swift: HAALNO21GOL
+    
+- name: "SPAREBANK 1 HALLINGDAL"
+  city: "HEMSEDAL"
+  branch: null
+  swift: HAALNO21HEM
+    
+- name: "SPAREBANK 1 MARKETS AS"
+  city: "OSLO"
+  branch: null
+  swift: AREUNOK1
+    
+- name: "SPAREBANK 1 NORD-NORGE"
+  city: "TROMSOE"
+  branch: null
+  swift: SNOWNO22
+    
+- name: "SPAREBANK 1 NORDVEST"
+  city: "KRISTIANSUND N"
+  branch: null
+  swift: NORVNO21
+    
+- name: "SPAREBANK 1 OSTFOLD AKERSHUS"
+  city: "MOSS"
+  branch: null
+  swift: RYGSNO21
+    
+- name: "SPAREBANK 1 OSTLANDET (FORMERLY SPAREBANKEN HEDMARK)"
+  city: "HAMAR"
+  branch: HEAD OFFICE
+  swift: SHEDNO22
+    
+- name: "SPAREBANK 1 OSTLANDET (FORMERLY SPAREBANKEN HEDMARK)"
+  city: "KONGSVINGER"
+  branch: KONGSVINGER BRANCH
+  swift: SHEDNO22KVR
+    
+- name: "SPAREBANK 1 SMN"
+  city: "OSLO"
+  branch: SPAREBANK 1 MARKETS
+  swift: SPTRNO22SB1
+    
+- name: "SPAREBANK 1 SMN"
+  city: "TRONDHEIM"
+  branch: null
+  swift: SPTRNO22
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "AALGAARD"
+  branch: null
+  swift: SPRONO22AGD
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "BRYNE"
+  branch: null
+  swift: SPRONO22BNE
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "EGERSUND"
+  branch: null
+  swift: SPRONO22EGE
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "FLEKKEFJORD"
+  branch: null
+  swift: SPRONO22FLE
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "FORUS"
+  branch: null
+  swift: SPRONO22FOR
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "HAUGESUND"
+  branch: null
+  swift: SPRONO22HAU
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "JOERPELAND"
+  branch: null
+  swift: SPRONO22JPL
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "KRISTIANSAND S"
+  branch: null
+  swift: SPRONO22KRS
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "OELEN"
+  branch: null
+  swift: SPRONO22OLN
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "SANDNES"
+  branch: null
+  swift: SPRONO22SDS
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "SOLA"
+  branch: null
+  swift: SPRONO22SOL
+    
+- name: "SPAREBANK 1 SR-BANK ASA"
+  city: "STAVANGER"
+  branch: null
+  swift: SPRONO22
+    
+- name: "SPAREBANK 1 VERDIPAPIRSERVICE AS"
+  city: "OSLO"
+  branch: null
+  swift: SPVDNOK1
+    
+- name: "SPAREBANK 1 VESTFOLD"
+  city: "SANDEFJORD"
+  branch: null
+  swift: VEFONO21
+    
+- name: "SPAREBANKEN DIN"
+  city: "BO I TELEMARK"
+  branch: null
+  swift: BSPANO21
+    
+- name: "SPAREBANKEN FLORA BREMANGER"
+  city: "FLOROE"
+  branch: null
+  swift: FLOENO21
+    
+- name: "SPAREBANKEN HEMNE"
+  city: "KYRKSAETEROERA"
+  branch: null
+  swift: HEMNNO21
+    
+- name: "SPAREBANKEN MOERE"
+  city: "AALESUND"
+  branch: null
+  swift: SPARNO22
+    
+- name: "SPAREBANKEN NARVIK"
+  city: "NARVIK"
+  branch: null
+  swift: NARVNO21
+    
+- name: "SPAREBANKEN OEST"
+  city: "DRAMMEN"
+  branch: null
+  swift: SAOENO22
+    
+- name: "SPAREBANKEN RANA"
+  city: "MO I RANA"
+  branch: null
+  swift: SPNANO21
+    
+- name: "SPAREBANKEN SOGN OG FJORDANE"
+  city: "FOERDE"
+  branch: null
+  swift: SOFJNO22
+    
+- name: "SPAREBANKEN SOR (FORMERLY SPAREBANKEN PLUSS)"
+  city: "KRISTIANSAND S"
+  branch: null
+  swift: SPSONO22
+    
+- name: "SPAREBANKEN TELEMARK"
+  city: "SKIEN"
+  branch: null
+  swift: SPTLNO21
+    
+- name: "SPAREBANKEN VEST"
+  city: "BERGEN"
+  branch: null
+  swift: SPAVNOBB
+    
+- name: "SPAREBANKEN VEST"
+  city: "BREMNES"
+  branch: null
+  swift: SPAVNOBBBRE
+    
+- name: "SPAREBANKEN VEST"
+  city: "FJELL"
+  branch: null
+  swift: SPAVNOBBFJE
+    
+- name: "SPAREBANKEN VEST"
+  city: "ODDA"
+  branch: null
+  swift: SPAVNOBBDDA
+    
+- name: "SPAREBANKEN VEST"
+  city: "OS"
+  branch: null
+  swift: SPAVNOBBOSO
+    
+- name: "SPAREBANKEN VEST"
+  city: "STORD"
+  branch: null
+  swift: SPAVNOBBSTO
+    
+- name: "SPARESKILLINGSBANKEN KRISTIANSAND S"
+  city: "KRISTIANSAND S"
+  branch: null
+  swift: SPSKNO21
+    
+- name: "SPYDEBERG SPAREBANK"
+  city: "SPYDEBERG"
+  branch: null
+  swift: SPYDNO21
+    
+- name: "STADSBYGD SPAREBANK"
+  city: "STADSBYGD"
+  branch: null
+  swift: STADNO21
+    
+- name: "STATKRAFT AS"
+  city: "OSLO"
+  branch: null
+  swift: STKFNOK1
+    
+- name: "STATOIL ASA"
+  city: "STAVANGER"
+  branch: null
+  swift: SASANO22
+    
+- name: "STATOIL KAPITALFORVALTNING ASA"
+  city: "STAVANGER"
+  branch: null
+  swift: STKSNO22
+    
+- name: "STAVANGER FONDSFORVALTNING AS"
+  city: "STAVANGER"
+  branch: null
+  swift: STFONOK1
+    
+- name: "STOREBRAND BANK ASA"
+  city: "OSLO"
+  branch: null
+  swift: STFBNOKK
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch:  SBL OBLIGASJONER OMLOP
+  swift: STKTNOK1053
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: ALCATEL-LUCENT NORWAY PENSJONSKASSE
+  swift: STKTNOK1087
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: ASKER KOMMUNALE PENSJONSKASSE
+  swift: STKTNOK108X
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: BAERUM KOMMUNALE PENSJONSKASSE
+  swift: STKTNOK108Y
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: BKK PENSJONSKASSE
+  swift: STKTNOK107X
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: BOLIDEN ODDA AS
+  swift: STKTNOK107V
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: BW GAS ASA PENSJONSKASSE
+  swift: STKTNOK1085
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: BW GAS PENSJONSKASSE
+  swift: STKTNOK109X
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: DELPHI EMERGING
+  swift: STKTNOK108N
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: DELPHI EUROPA
+  swift: STKTNOK101S
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: DELPHI KOMBINASJON
+  swift: STKTNOK101T
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: DELPHI N
+  swift: STKTNOK101V
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: DELPHI NORDEN
+  swift: STKTNOK101U
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: DELPHI VEKST
+  swift: STKTNOK101W
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: DELPHI VERDEN
+  swift: STKTNOK101X
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: DEN NORSKE LEGEFORENING
+  swift: STKTNOK107W
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: ECA LAAN
+  swift: STKTNOK109F
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB ABSOLUTE RETURN
+  swift: STKTNOK102S
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB CREDIT BONDS
+  swift: STKTNOK102P
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB EQUITI SW
+  swift: STKTNOK102H
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB EQUITY E
+  swift: STKTNOK102J
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB EQUITY EMERGING MARKETS
+  swift: STKTNOK102L
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB EQUITY NA
+  swift: STKTNOK102I
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB EQUITY P
+  swift: STKTNOK102K
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB GOVERNMENT BONDS
+  swift: STKTNOK102M
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB GOVERNMENT GUANTEED BONDS
+  swift: STKTNOK102Q
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB INDEX LINKED BONDS
+  swift: STKTNOK102N
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB MONEY MARKETS INSTRUMENTS
+  swift: STKTNOK102R
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB MORTGAGE BONDS
+  swift: STKTNOK102O
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB PRIVATE DEBT
+  swift: STKTNOK109W
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB PRIVATE EQUITY
+  swift: STKTNOK1052
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB REAL ESTATE
+  swift: STKTNOK102T
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB SHAREHOLDER
+  swift: STKTNOK102V
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUB TAA
+  swift: STKTNOK102U
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUROPLAN FIXED INCOME EARLY R
+  swift: STKTNOK102Z
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUROPLAN FIXED INCOME
+  swift: STKTNOK102Y
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUROPLAN MIXED 60/40
+  swift: STKTNOK102W
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: EUROPLAN MIXED 80/20
+  swift: STKTNOK102X
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: FELLESORDNINGEN
+  swift: STKTNOK1090
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: FJELL KOMMUNALE PENSJONSKASSE
+  swift: STKTNOK107S
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: FLEX 1
+  swift: STKTNOK104F
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: FRENDE LIVSFORSIKRING
+  swift: STKTNOK109H
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: FRENDE SKADEFORSIKRING
+  swift: STKTNOK109I
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING AKE
+  swift: STKTNOK1031
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING AP
+  swift: STKTNOK1032
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING AS
+  swift: STKTNOK1098
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING ASA P350LO
+  swift: STKTNOK109J
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING ASE
+  swift: STKTNOK109L
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING AU
+  swift: STKTNOK1033
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING AU
+  swift: STKTNOK103K
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING AX
+  swift: STKTNOK1034
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING COM
+  swift: STKTNOK1035
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING EM
+  swift: STKTNOK1036
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING FX
+  swift: STKTNOK1037
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING HY
+  swift: STKTNOK1038
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING IG
+  swift: STKTNOK1039
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING JP
+  swift: STKTNOK103A
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING LR
+  swift: STKTNOK103B
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING LR
+  swift: STKTNOK103L
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING OA
+  swift: STKTNOK103C
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING ON
+  swift: STKTNOK103D
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING P350SN
+  swift: STKTNOK1056
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING PE
+  swift: STKTNOK103E
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING PE
+  swift: STKTNOK103M
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING PM
+  swift: STKTNOK103F
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING SA
+  swift: STKTNOK103G
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING SI
+  swift: STKTNOK103H
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING TA
+  swift: STKTNOK103I
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING TA
+  swift: STKTNOK103N
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING TAKTISK ALLOKERING 3
+  swift: STKTNOK108F
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING VS
+  swift: STKTNOK103J
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GJENSIDIGE FORSIKRING
+  swift: STKTNOK108M
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GLOBAL ESG
+  swift: STKTNOK1095
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GLOSTA
+  swift: STKTNOK1066
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: GODFOND SVERIGE AND VARDEN
+  swift: STKTNOK108R
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: INVESTERINGSVALD KUNDE X
+  swift: STKTNOK104G
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: INVESTERINGSVALG KUNDE Y
+  swift: STKTNOK104H
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: KRAFT FOODS PENSJONSKASSE
+  swift: STKTNOK1083
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: KRISTIANSAND KOMMUNALE PENSJONSKASSE
+  swift: STKTNOK108A
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: KRONOS NORGE PENSJONSKASSE
+  swift: STKTNOK1086
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: KVINNHERAD KOMMUNE KRAFTFOND
+  swift: STKTNOK1084
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: LOENSKOG KOMMUNALE PENSJONSKASSE
+  swift: STKTNOK107Z
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: LOERENSKOG KOMMUNALE PENSJONSKASSE
+  swift: STKTNOK108V
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: MINVOL
+  swift: STKTNOK108B
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: MOLDE KOMMUNALE PENSJONSKASSE (KOLLEKTIV)
+  swift: STKTNOK109U
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: MOLDE KOMMUNE PENSJONSKASSE KOLLEKTIV
+  swift: STKTNOK107U
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK1069
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106A
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106B
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106C
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106D
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106E
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106F
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106G
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106H
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106I
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106J
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106K
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106L
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106M
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106N
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106O
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106P
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106Q
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106R
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDBEN LIFE AND PENSION
+  swift: STKTNOK106S
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORDIC INTERNATIONAL
+  swift: STKTNOK109T
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: NORGES BANKS PENSJONSKASSE
+  swift: STKTNOK108D
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: ODRENT
+  swift: STKTNOK108K
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: ORKLA STOREBRAND INVESTEREINGSPROFIL 2
+  swift: STKTNOK103T
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: OSLO BOLIG OG SPARELAG
+  swift: STKTNOK108E
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: P956NL
+  swift: STKTNOK109G
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: PERS. FORS. FELLESMIDLER
+  swift: STKTNOK1049
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: PRIVATE DEBT
+  swift: STKTNOK109E
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: REDNINGSSELSKAPET
+  swift: STKTNOK109V
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SANDEFJORD KOMMUNE (KRAFTFOND)
+  swift: STKTNOK1080
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SAS
+  swift: STKTNOK1030
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SB EKSTRA FORSIKTIG
+  swift: STKTNOK109Q
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SB EKSTRA OFFENSIV
+  swift: STKTNOK109P
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL ANDRE PLASSERINGER
+  swift: STKTNOK104N
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL EIENDOM INDIREKTE
+  swift: STKTNOK108L
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL EKSTERNE HEDGEFOND
+  swift: STKTNOK104X
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL EKSTRA OFFENSIV PENSJON BASIS
+  swift: STKTNOK108C
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL EMD EKSTERNE
+  swift: STKTNOK104P
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL EMERGING MARKETS
+  swift: STKTNOK104O
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL GLOBALE AKSJER
+  swift: STKTNOK1050
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL HEDGEFOND INVESTERINGER
+  swift: STKTNOK104W
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL INFRASTRUKTUR
+  swift: STKTNOK104U
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL KREDIT UTLAND
+  swift: STKTNOK104Y
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL LR OBLIGASJONER UTLAND
+  swift: STKTNOK104R
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL MIKROFINANS
+  swift: STKTNOK104Q
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL N AKJSER
+  swift: STKTNOK104Z
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL OBLIGASJONER N STAT
+  swift: STKTNOK104S
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL OBLIGASJONER UTLAND
+  swift: STKTNOK104T
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL PENGEMARKED N
+  swift: STKTNOK104L
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL PENGEMARKED UTLAND KREDITT
+  swift: STKTNOK104M
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL PRIVATE EQUITY
+  swift: STKTNOK1051
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SBL SKOG
+  swift: STKTNOK104V
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SISSENER SIRIUS ASA
+  swift: STKTNOK108G
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SL FRIPOLISER4
+  swift: STKTNOK109K
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SLUTTVEDERLAGSORDNINGEN
+  swift: STKTNOK108Z
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP 250
+  swift: STKTNOK100I
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP 300
+  swift: STKTNOK100J
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP 520
+  swift: STKTNOK100K
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP ABSOLUTE RETURN
+  swift: STKTNOK100E
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP AKTIEFOND STABIL
+  swift: STKTNOK108O
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP AKTIEINDEXFOND EUROPA
+  swift: STKTNOK101H
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP AKTIEINDEXFOND GLOBAL SUS.
+  swift: STKTNOK101I
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP AP
+  swift: STKTNOK100M
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP BYGGA
+  swift: STKTNOK101G
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP COMMODITIES
+  swift: STKTNOK100G
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP CREDIT B.
+  swift: STKTNOK1019
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP CREDIT BONDS
+  swift: STKTNOK1009
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP EK TP
+  swift: STKTNOK100P
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP EMERGING MARKETS SRI
+  swift: STKTNOK1054
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP EMU BLANDFOND
+  swift: STKTNOK101F
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP EQ. E M
+  swift: STKTNOK1014
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP EQ. EURO
+  swift: STKTNOK1012
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP EQ. PAC.
+  swift: STKTNOK1013
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP EQ.
+  swift: STKTNOK1010
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP EQ.
+  swift: STKTNOK1011
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP EQUITY EMERGIMG MARKETS
+  swift: STKTNOK1004
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP EQUITY EUROPE
+  swift: STKTNOK1002
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GENERATION 40-TAL
+  swift: STKTNOK101A
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GENERATION 50-TAL
+  swift: STKTNOK101B
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GENERATION 60-TAL
+  swift: STKTNOK101C
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GENERATION 70-TAL
+  swift: STKTNOK101D
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GENERATION 80-TAL
+  swift: STKTNOK101E
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GLOBAL PLUS
+  swift: STKTNOK109R
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GLOBAL TOPP 100
+  swift: STKTNOK108I
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GOV. BONDS
+  swift: STKTNOK1016
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GOVERMENT BONDS
+  swift: STKTNOK1006
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GOVERMENT GUARANTED BONDS
+  swift: STKTNOK100A
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP GRNOEA OBLIGATIONER
+  swift: STKTNOK1099
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP HEDGE AK
+  swift: STKTNOK100Q
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP HEDGE COLL
+  swift: STKTNOK100R
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP HEDGE RTR
+  swift: STKTNOK100S
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP INDEX LINKED BONDS
+  swift: STKTNOK1007
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP INDEX
+  swift: STKTNOK1017
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP INFRASTRUCTURE
+  swift: STKTNOK100H
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP KF
+  swift: STKTNOK100L
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP LEVA
+  swift: STKTNOK101K
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP LIV FONDFORSAEKRING AB FONDLAGER
+  swift: STKTNOK108H
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP MATCH AP
+  swift: STKTNOK100C
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP MIX 100
+  swift: STKTNOK109D
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP MIX 20
+  swift: STKTNOK109A
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP MIX 50
+  swift: STKTNOK109B
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP MIX 80
+  swift: STKTNOK109C
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP MONEY MARKET INSTRUMENTS
+  swift: STKTNOK100D
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP MORTGAGE BONDS
+  swift: STKTNOK1008
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP MORTGARE
+  swift: STKTNOK1018
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP PENSION AND FORSIKRING
+  swift: STKTNOK109M
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP PRIV. EQ.
+  swift: STKTNOK1015
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP PRIVATE EQUITY
+  swift: STKTNOK1005
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP REAL ESTATE
+  swift: STKTNOK100F
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP SPP EK EJ TP
+  swift: STKTNOK100O
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP SVERIGE PLUS
+  swift: STKTNOK109Z
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP TFFR
+  swift: STKTNOK100N
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP TILLVAEXTMARKEDNAD PLUS
+  swift: STKTNOK109S
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: SPP UNRATED BONDS
+  swift: STKTNOK100B
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STATOIL EKSTRA FORSIKTIG PENSJON
+  swift: STKTNOK1096
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STATOIL EKSTRA OFFENSIV PENSJON
+  swift: STKTNOK1097
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STIFTELSEN SJOMANNSHJELPEN
+  swift: STKTNOK1082
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STIFTELSEN SORLANDTES KOMPETANSEFOND
+  swift: STKTNOK107R
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STORD KOMMUNE
+  swift: STKTNOK1089
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND 5-ARIG 2014 HOY
+  swift: STKTNOK104K
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND 5-ARIG 2014 STANDARD
+  swift: STKTNOK104J
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND AGFIX
+  swift: STKTNOK102G
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND AKSJESPAR
+  swift: STKTNOK101Q
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND AKTIV ALLOKERING
+  swift: STKTNOK101O
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND ALLOKERING
+  swift: STKTNOK108W
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND ASA
+  swift: STKTNOK107P
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND ASIA PACIFIC INDEKS I
+  swift: STKTNOK101P
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND BARNESPAR
+  swift: STKTNOK101R
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND EKSISTERENDE INDIVIDUAL
+  swift: STKTNOK104E
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND EUROPA 1
+  swift: STKTNOK101Y
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND EUROPA
+  swift: STKTNOK101Z
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND FILIAL S
+  swift: STKTNOK104A
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND FOND
+  swift: STKTNOK107N
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND FOND
+  swift: STKTNOK107O
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND FRIPOLISER BALANSERET
+  swift: STKTNOK104C
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND FRIPOLISER FORSIKTIG
+  swift: STKTNOK104B
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND FRIPOLISER OFFENSIV
+  swift: STKTNOK104D
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND GARANTIKONTO
+  swift: STKTNOK104I
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND GLOBAL INDEKS I
+  swift: STKTNOK1022
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND GLOBAL KREDITT IG
+  swift: STKTNOK1055
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND GLOBAL OBLIGASJON A
+  swift: STKTNOK1021
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND GLOBAL QUANT EQUITY
+  swift: STKTNOK1023
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND GLOBAL SRI
+  swift: STKTNOK1024
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND GLOBAL
+  swift: STKTNOK1020
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND GLOBAL
+  swift: STKTNOK109N
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND HELSEFORSIKRING AS
+  swift: STKTNOK107Q
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND HOY
+  swift: STKTNOK1048
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND HYBRID
+  swift: STKTNOK1094
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND INDIVIDUAL FORSIKRING
+  swift: STKTNOK1067
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND INDIVIDUAL OFFENSIV
+  swift: STKTNOK1068
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LINK BALANSERET ALLOKERING
+  swift: STKTNOK103P
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LINK BALANSERET PENSJON
+  swift: STKTNOK103O
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LINK FORSIKTIG  ALLOKERING
+  swift: STKTNOK103R
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LINK FORSIKTIG PENSJON
+  swift: STKTNOK103Q
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LINK OFFENSIV  ALLOKERING
+  swift: STKTNOK103S
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LINK OFFENSIV PENSJON
+  swift: STKTNOK103U
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LIVSFORSIKRING AK
+  swift: STKTNOK1043
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LIVSFORSIKRING AS 901
+  swift: STKTNOK1041
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LIVSFORSIKRING AS 901SI
+  swift: STKTNOK1042
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LIVSFORSIKRING AS AA
+  swift: STKTNOK103Y
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LIVSFORSIKRING AS AN
+  swift: STKTNOK103Z
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LIVSFORSIKRING AS SI
+  swift: STKTNOK1040
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LIVSFORSIKRING EF
+  swift: STKTNOK1044
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LIVSFORSIKRING PE
+  swift: STKTNOK1045
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND LIVSFORSIKRINGC
+  swift: STKTNOK106T
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND NA I
+  swift: STKTNOK1025
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND NHO BALANSERT PENSJON
+  swift: STKTNOK103V
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND NHO FORSIKTIG PENSJON
+  swift: STKTNOK103W
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND NHO OFFENSIV PENSJON
+  swift: STKTNOK103X
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND NORDEN
+  swift: STKTNOK1026
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND OBLIGASJON+
+  swift: STKTNOK1027
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND OPTIMER
+  swift: STKTNOK102F
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND PENSJONSPAR
+  swift: STKTNOK1028
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND PIONER
+  swift: STKTNOK1029
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND RENTER+
+  swift: STKTNOK102A
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND SPAR 2020
+  swift: STKTNOK102B
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND SPAR 2030
+  swift: STKTNOK102C
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND SPAR 2040
+  swift: STKTNOK102D
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND STANDARD
+  swift: STKTNOK1047
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND TRIPPEL SMART
+  swift: STKTNOK108J
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND VEKST
+  swift: STKTNOK109Y
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRAND WGA HEALTH CARE
+  swift: STKTNOK102E
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STOREBRNAD LAV
+  swift: STKTNOK1046
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: STROMSUNDS KOMMUNS PENSIONSSTIFTELSE
+  swift: STKTNOK108Q
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: TONSBEERG KOMMUNE
+  swift: STKTNOK107T
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: TRYGVE TELLEFSENS LEGAT
+  swift: STKTNOK1081
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: TRYSIL KOMMUNE
+  swift: STKTNOK107Y
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: VOLDA KOMMUNE
+  swift: STKTNOK1088
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1000
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1001
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1003
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK101J
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK101L
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK101M
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK101N
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1057
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1058
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1059
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105A
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105B
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105C
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105D
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105E
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105F
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105G
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105H
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105I
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105J
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105K
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105L
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105M
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105N
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105O
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105P
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK105Q
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK106U
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK106V
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK106W
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK106X
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK106Y
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK106Z
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1070
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1071
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1072
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1073
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1074
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1075
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1076
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1077
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1078
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1079
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107A
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107B
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107C
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107D
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107E
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107F
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107G
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107H
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107I
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107J
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107K
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107L
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK107M
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK108S
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK108T
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1091
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1092
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "OSLO"
+  branch: null
+  swift: STKTNOK1093
+    
+- name: "STOREBRAND KAPITALFORVALTNING"
+  city: "TROMSOE"
+  branch: TROMSOE KOMMUNALE PENSJONSKASSE
+  swift: STKTNOK108U
+    
+- name: "STROMMEN SPAREBANK"
+  city: "STROEMMEN"
+  branch: null
+  swift: STMMNO21
+    
+- name: "SUNDAL COLLIER AND CO AS"
+  city: "OSLO"
+  branch: null
+  swift: SUCONOK1
+    
+- name: "SUNNDAL SPAREBANK"
+  city: "SUNNDALSORA"
+  branch: null
+  swift: SUSANO21
+    
+- name: "SURNADAL SPAREBANK"
+  city: "SURNADAL"
+  branch: null
+  swift: SURSNO21
+    
+- name: "SWEDBANK AB"
+  city: "OSLO"
+  branch: null
+  swift: FISANOKK
+    
+- name: "SWEDBANK AB"
+  city: "OSLO"
+  branch: null
+  swift: SWEDNOKK
+    
+- name: "TELENOR ASA"
+  city: "FORNEBU"
+  branch: null
+  swift: TEORNO22
+    
+- name: "TELLER AS"
+  city: "OSLO"
+  branch: null
+  swift: TELRNOK1
+    
+- name: "TERRA FONDS ASA"
+  city: "OSLO"
+  branch: null
+  swift: TRFANOK1
+    
+- name: "TERRA KORTBANK AS"
+  city: "OSLO"
+  branch: null
+  swift: TEKONOK1
+    
+- name: "TERRA MARKETS"
+  city: "OSLO"
+  branch: null
+  swift: ORSANOK1
+    
+- name: "TINGVOLL SPAREBANK"
+  city: "TINGVOLL"
+  branch: null
+  swift: TGVLNO21
+    
+- name: "TINN SPAREBANK"
+  city: "RJUKAN"
+  branch: null
+  swift: TINNNO21
+    
+- name: "TJELDSUND SPAREBANK"
+  city: "RAMSUND"
+  branch: null
+  swift: TJELNO21
+    
+- name: "TOLAB ACQUISITION AS"
+  city: "OSLO"
+  branch: null
+  swift: TOACNOK1
+    
+- name: "TOLGA-OS SPAREBANK"
+  city: "TOLGA"
+  branch: null
+  swift: TOSPNO21
+    
+- name: "TOTENS SPAREBANK"
+  city: "LENA"
+  branch: null
+  swift: TOTENO21
+    
+- name: "TRIENT ASSET MANAGEMENT AS"
+  city: "OSLO"
+  branch: null
+  swift: TRTGNOK1
+    
+- name: "TROGSTAD SPAREBANK"
+  city: "TROGSTAD"
+  branch: null
+  swift: TRSPNO21
+    
+- name: "TYSNES SPAREBANK"
+  city: "UGGDAL"
+  branch: null
+  swift: TYSSNO21
+    
+- name: "VALLE SPAREBANK"
+  city: "VALLE"
+  branch: null
+  swift: VSPANO21
+    
+- name: "VANG SPAREBANK"
+  city: "VANG I VALDRES"
+  branch: null
+  swift: VASPNO21
+    
+- name: "VEGARSHEI SPAREBANK"
+  city: "VEGARSHEI"
+  branch: null
+  swift: VESPNO21
+    
+- name: "VERDIPAPIRFONDET NORDEA AVKASTNING"
+  city: "OSLO"
+  branch: null
+  swift: VENANOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA EUROPA"
+  city: "OSLO"
+  branch: null
+  swift: VENENOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA EUROPEISK KREDITOBLIGASJON"
+  city: "OSLO"
+  branch: null
+  swift: VNEKNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA GLOBAL"
+  city: "OSLO"
+  branch: null
+  swift: VENONOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA GLOBAL HIGH YIELD"
+  city: "OSLO"
+  branch: null
+  swift: VNGHNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA GLOBAL II"
+  city: "OSLO"
+  branch: null
+  swift: VENLNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA GLOBAL STATSOBLIGASJON"
+  city: "OSLO"
+  branch: null
+  swift: VNGSNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA INTERNASJONALE AKSJER"
+  city: "OSLO"
+  branch: null
+  swift: VNIANOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA INTERNASJONALE AKSJER III"
+  city: "OSLO"
+  branch: null
+  swift: VNIKNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA KAPITAL"
+  city: "OSLO"
+  branch: null
+  swift: VENKNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA KREDITT"
+  city: "OSLO"
+  branch: null
+  swift: VEOKNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA LIKVIDITET"
+  city: "OSLO"
+  branch: null
+  swift: VENDNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA LIKVIDITET 20"
+  city: "OSLO"
+  branch: null
+  swift: VENINOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA LIKVIDITET II"
+  city: "OSLO"
+  branch: null
+  swift: VENVNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA LIKVIDITET III"
+  city: "OSLO"
+  branch: null
+  swift: VNLINOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA LIKVIDITET PLUSS"
+  city: "OSLO"
+  branch: null
+  swift: VNLPNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA NORDEN"
+  city: "OSLO"
+  branch: null
+  swift: VENNNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA NORGE PLUSS"
+  city: "OSLO"
+  branch: null
+  swift: VNNPNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA NORGE VERDI"
+  city: "OSLO"
+  branch: null
+  swift: VNNVNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA OBLIGASJON II"
+  city: "OSLO"
+  branch: null
+  swift: VENBNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA OBLIGASJON III"
+  city: "OSLO"
+  branch: null
+  swift: VNOINOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA PENGEMARKEDSFOND"
+  city: "OSLO"
+  branch: null
+  swift: VENMNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA PLAN 10"
+  city: "OSLO"
+  branch: null
+  swift: VEDANOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA PLAN 100"
+  city: "OSLO"
+  branch: null
+  swift: VENPNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA PLAN 30"
+  city: "OSLO"
+  branch: null
+  swift: VEONNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA PLAN 50"
+  city: "OSLO"
+  branch: null
+  swift: VEOANOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA PLAN 65"
+  city: "OSLO"
+  branch: null
+  swift: VEDPNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA PLAN 80"
+  city: "OSLO"
+  branch: null
+  swift: VEDLNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA PLAN RENTE"
+  city: "OSLO"
+  branch: null
+  swift: VNPRNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA STABIL AVKASTNING"
+  city: "OSLO"
+  branch: null
+  swift: VNSVNOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA STABILE AKSJER GLOBAL"
+  city: "OSLO"
+  branch: null
+  swift: VNSANOK1
+    
+- name: "VERDIPAPIRFONDET NORDEA STABILE AKSJER GLOBAL ETISK"
+  city: "OSLO"
+  branch: null
+  swift: VNSKNOK1
+    
+- name: "VERDIPAPIRSENTRALEN, VPS"
+  city: "OSLO"
+  branch: CCP SETTLEMENT
+  swift: VPSNNOKKCCP
+    
+- name: "VERDIPAPIRSENTRALEN, VPS"
+  city: "OSLO"
+  branch: VPS CLEARING
+  swift: VPSNNOKKCLE
+    
+- name: "VERDIPAPIRSENTRALEN, VPS"
+  city: "OSLO"
+  branch: VPS CLEARING
+  swift: VPSNNOKKCLR
+    
+- name: "VERDIPAPIRSENTRALEN, VPS"
+  city: "OSLO"
+  branch: null
+  swift: VPSNNOKK
+    
+- name: "VESTRE SLIDRE SPAREBANK"
+  city: "SLIDRE"
+  branch: null
+  swift: VESLNO21
+    
+- name: "VIK SPAREBANK"
+  city: "VIKISOGN"
+  branch: null
+  swift: VISRNO21
+    
+- name: "VOLDA OG ORSTA SPAREBANK"
+  city: "VOLDA"
+  branch: null
+  swift: VOLDNO21
+    
+- name: "VOSS SPAREBANK"
+  city: "VOSS"
+  branch: null
+  swift: VOSKNO21
+    
+- name: "VOSS VEKSEL- OG LANDMANDSBANK ASA"
+  city: "VOSS"
+  branch: null
+  swift: VVELNO21
+    
+- name: "WARREN BANK AS"
+  city: "OSLO"
+  branch: null
+  swift: NODENO21
+    
+- name: "WARREN BANK AS"
+  city: "OSLO"
+  branch: null
+  swift: WARRNOK1
+    
+- name: "YA BANK AS"
+  city: "OSLO"
+  branch: null
+  swift: YABANOK1
+    
+- name: "YARA INTERNATIONAL ASA"
+  city: "OSLO"
+  branch: null
+  swift: YARANOKK
+    

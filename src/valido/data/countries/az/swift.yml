@@ -1,0 +1,260 @@
+- name: "ACCESSBANK"
+  city: "BAKU"
+  branch: null
+  swift: ACABAZ22
+    
+- name: "ADJEMIBANK"
+  city: "BAKU"
+  branch: null
+  swift: ADJEAZ21
+    
+- name: "AFB BANK OJSC"
+  city: "BAKU"
+  branch: null
+  swift: AZFIAZ22
+    
+- name: "AGBANK OPEN JOINT-STOCK COMPANY"
+  city: "BAKU"
+  branch: null
+  swift: AZEGAZ22
+    
+- name: "AGRARKREDIT CLOSED JOINT-STOCK SOCIETY NON-BANK CREDIT ORGANIZATION"
+  city: "BAKU"
+  branch: null
+  swift: ACJTAZ22
+    
+- name: "AMRAHBANK OJSC"
+  city: "BAKU"
+  branch: null
+  swift: AMRAAZ22
+    
+- name: "ATABANK OJSS"
+  city: "BAKU"
+  branch: null
+  swift: ATAZAZ22
+    
+- name: "AZBUSINESSBANK"
+  city: "BAKU"
+  branch: null
+  swift: AZBUAZ21
+    
+- name: "AZERBAIJAN INDUSTRY BANK OJSC"
+  city: "BAKU"
+  branch: null
+  swift: CAPNAZ22
+    
+- name: "AZERPOST LIMITED LIABILITY COMPANY"
+  city: "BAKU"
+  branch: null
+  swift: AZPOAZ22
+    
+- name: "AZERSHARABBANK"
+  city: "BAKU"
+  branch: null
+  swift: AZRSAZ21
+    
+- name: "AZER-TURK BANK"
+  city: "BAKU"
+  branch: null
+  swift: AZRTAZ22
+    
+- name: "BANK BTB"
+  city: "BAKU"
+  branch: null
+  swift: BBTBAZ22
+    
+- name: "BANK MELLI IRAN, BAKU BRANCH"
+  city: "BAKU"
+  branch: null
+  swift: MELIAZ22
+    
+- name: "BANK OF BAKU"
+  city: "BAKU"
+  branch: null
+  swift: JBBKAZ22
+    
+- name: "BANK SILK WAY OJSV"
+  city: "BAKU"
+  branch: null
+  swift: AZALAZ22
+    
+- name: "CAPITAL INVESTMENT BANK"
+  city: "BAKU"
+  branch: null
+  swift: CANSAZ21
+    
+- name: "CAPITALBANK"
+  city: "BAKU"
+  branch: null
+  swift: CAPKAZ21
+    
+- name: "CASPIAN DEVELOPMENT BANK (CDB) OJSC"
+  city: "BAKU"
+  branch: null
+  swift: CDBBAZ22
+    
+- name: "CENTRAL BANK OF THE REPUBLIC OF AZERBAIJAN"
+  city: "BAKU"
+  branch: null
+  swift: NABZAZ2C
+    
+- name: "CENTRAL BANK OF THE REPUBLIC OF AZERBAIJAN"
+  city: "BAKU"
+  branch: null
+  swift: NABZAZ2CRTS
+    
+- name: "CENTRAL BANK OF THE REPUBLIC OF AZERBAIJAN"
+  city: "BAKU"
+  branch: null
+  swift: NABZAZ2X
+    
+- name: "DEMIRBANK OJSC"
+  city: "BAKU"
+  branch: null
+  swift: AZERAZ22
+    
+- name: "EGE INTERNATIONAL BAKU BANK"
+  city: "BAKU"
+  branch: null
+  swift: TRIDAZ21
+    
+- name: "EURASIA BANK"
+  city: "BAKU"
+  branch: null
+  swift: AVRAAZ22
+    
+- name: "EXPRESSBANK"
+  city: "BAKU"
+  branch: null
+  swift: AZENAZ22
+    
+- name: "GARANTIYABANK"
+  city: "BAKU"
+  branch: null
+  swift: GARNAZ21
+    
+- name: "GUNAYBANK JOINT STOCK BANK"
+  city: "BAKU"
+  branch: null
+  swift: GUNAAZ22
+    
+- name: "INVESTMENT COMMERCIAL BANK 'NIKOIL' (FORMERLY CB 'ULPAR')"
+  city: "BAKU"
+  branch: null
+  swift: NICBAZ22
+    
+- name: "JOINT-STOCK COMMERCIAL BANK RABITABANK (GAZANBANK BRANCH)"
+  city: "BAKU"
+  branch: GAZANBANK BRANCH
+  swift: RBTAAZ2102G
+    
+- name: "KAPITAL BANK"
+  city: "BAKU"
+  branch: null
+  swift: AIIBAZ2X
+    
+- name: "MECH R BANK"
+  city: "BAKU"
+  branch: null
+  swift: MECHAZ21
+    
+- name: "MILLI IRAN BANK"
+  city: "BAKU"
+  branch: null
+  swift: MILIAZ21
+    
+- name: "MUGANBANK OJSC"
+  city: "BAKU"
+  branch: null
+  swift: MUGAAZ22
+    
+- name: "NAKHCHIVANBANK OJSC"
+  city: "NAKHCHIVAN"
+  branch: null
+  swift: NAXBAZ22
+    
+- name: "NATIONAL BANK OF PAKISTAN BAKU BRANCH (STATE)"
+  city: "BAKU"
+  branch: null
+  swift: NBPAAZ22
+    
+- name: "NATIONAL DEPOSITORY CENTER OF THE REPUBLIC OF AZERBAIJAN"
+  city: "BAKU"
+  branch: null
+  swift: ANDCAZ22
+    
+- name: "NBC BANK OPEN JOINT STOCK COMPANY"
+  city: "BAKU"
+  branch: null
+  swift: NBCBAZ22
+    
+- name: "OJSC VTB BANK (AZERBAIJAN)"
+  city: "BAKU"
+  branch: null
+  swift: VTBAAZ22
+    
+- name: "PARA NON-BANK CREDIT ORGANIZATION OJSC"
+  city: "BAKU"
+  branch: null
+  swift: PAAAAZ21
+    
+- name: "PASHA BANK"
+  city: "BAKU"
+  branch: HEAD OFFICE
+  swift: PAHAAZ22
+    
+- name: "RABITABANK"
+  city: "BAKU"
+  branch: null
+  swift: RBTAAZ22
+    
+- name: "ROYAL BANK OJSC"
+  city: "BAKU"
+  branch: null
+  swift: ROBKAZ21
+    
+- name: "STATE OIL FUND OF THE REPUBLIC OF AZERBAIJAN"
+  city: "BAKU"
+  branch: null
+  swift: SOILAZ22
+    
+- name: "STATE TREASURY AGENCY"
+  city: "BAKU"
+  branch: null
+  swift: CTREAZ22
+    
+- name: "THE INTERNATIONAL BANK OF AZERBAIJAN OJSC"
+  city: "BAKU"
+  branch: null
+  swift: IBAZAZ2X
+    
+- name: "TURANBANK OJSC"
+  city: "BAKU"
+  branch: null
+  swift: TURAAZ22
+    
+- name: "ULFATBANK"
+  city: "BAKU"
+  branch: null
+  swift: ULFAAZ21
+    
+- name: "UNIBANK CB"
+  city: "BAKU"
+  branch: null
+  swift: UBAZAZ22
+    
+- name: "XALQ BANK OPEN JOINT-STOCK COMPANY"
+  city: "BAKU"
+  branch: null
+  swift: HAJCAZ22
+    
+- name: "YAPIKREDI AZERBAIJAN CLOSED JSC"
+  city: "BAKU"
+  branch: null
+  swift: KABAAZ22
+    
+- name: "ZIRAAT BANK AZERBAIJAN OJSC"
+  city: "BAKU"
+  branch: null
+  swift: TCZBAZ22
+    

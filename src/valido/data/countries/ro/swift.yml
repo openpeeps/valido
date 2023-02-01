@@ -1,0 +1,1315 @@
+- name: "ACTINVEST SA"
+  city: "BRASOV"
+  branch: null
+  swift: ACTNRO21
+    
+- name: "ACTIVE INTERNATIONAL SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: ACIRROB1
+    
+- name: "ALIOR BANK SA WARSAW BUCHAREST BRANCH"
+  city: "BUCHAREST"
+  branch: null
+  swift: ALBPROBU
+    
+- name: "ALPHA BANK ROMANIA SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: BUCUROBU
+    
+- name: "ALPHA FINANCE ROMANIA SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: ALNRROB1
+    
+- name: "ARCELORMITTAL TUBULAR PRODUCTS ROMAN SA"
+  city: "GALATI"
+  branch: null
+  swift: USINRO21GAL
+    
+- name: "ARCELORMITTAL TUBULAR PRODUCTS ROMAN SA"
+  city: "IASI"
+  branch: null
+  swift: USINRO21IAS
+    
+- name: "ARCELORMITTAL TUBULAR PRODUCTS ROMAN SA"
+  city: "ROMAN"
+  branch: null
+  swift: USINRO21
+    
+- name: "ARCELORMITTAL TUBULAR PRODUCTS ROMAN SA"
+  city: "ROMAN"
+  branch: null
+  swift: USINRO21MSR
+    
+- name: "AUSTRO-ROM S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: AUSMROB1
+    
+- name: "B.C.R. SECURITIES S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BCERROB1
+    
+- name: "BANC POST S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BPOSROBU
+    
+- name: "BANCA CENTRALA COOPERATISTA CREDITCOOP"
+  city: "BUCHAREST"
+  branch: null
+  swift: CRCOROBU
+    
+- name: "BANCA COMERCIALA FEROVIARA S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BFERROBU
+    
+- name: "BANCA COMERCIALA ROMANA S.A"
+  city: "ARAD"
+  branch: ARAD BRANCH
+  swift: RNCBROBUAR0
+    
+- name: "BANCA COMERCIALA ROMANA S.A"
+  city: "BUCHAREST"
+  branch: null
+  swift: RNCBROBU
+    
+- name: "BANCA COMERCIALA ROMANA S.A"
+  city: "BUCHAREST"
+  branch: null
+  swift: RNCBROBUT2S
+    
+- name: "BANCA COMERCIALA ROMANA S.A"
+  city: "RESITA"
+  branch: CARAS SEVERIN BRANCH
+  swift: RNCBROBUCS0
+    
+- name: "BANCA COMERCIALA ROMANA S.A"
+  city: "SFANTU GHEORGHE"
+  branch: COVASNA BRANCH
+  swift: RNCBROBUCV0
+    
+- name: "BANCA COMERCIALA ROMANA S.A"
+  city: "SLOBOZIA"
+  branch: IALOMITA BRANCH
+  swift: RNCBROBUIL0
+    
+- name: "BANCA ROMANA DE CREDITE SI INVESTITII S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: MINDROBU
+    
+- name: "BANCA ROMANEASCA S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BRMAROBU
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "AIUD"
+  branch: AIUD
+  swift: BTRLRO22ABI
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ALBA IULIA"
+  branch: ALBA BRANCH
+  swift: BTRLRO22ABA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ALESD"
+  branch: AG. ALESD
+  swift: BTRLRO22BH4
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ALEXANDRIA"
+  branch: ALEXANDRIA
+  swift: BTRLRO22TRA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ARAD"
+  branch: AG. ARAD
+  swift: BTRLRO22AR1
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ARAD"
+  branch: AG. ARAD
+  swift: BTRLRO22AR2
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ARAD"
+  branch: ARAD BRANCH
+  swift: BTRLRO22ARA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BACAU"
+  branch: BACAU BRANCH
+  swift: BTRLRO22BCA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BAIA MARE"
+  branch: BAIA MARE BRANCH
+  swift: BTRLRO22MMA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BEIUS"
+  branch: BEIUS
+  swift: BTRLRO22BHB
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BISTRITA"
+  branch: BISTRITA BRANCH
+  swift: BTRLRO22BNA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BOTOSANI"
+  branch: BOTOSANI
+  swift: BTRLRO22BTA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BRAILA"
+  branch: BRAILA BRANCH
+  swift: BTRLRO22BRA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BRASOV"
+  branch: BRASOV BRANCH
+  swift: BTRLRO22BVA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: AG. DOROBANTI
+  swift: BTRLRO22BB4
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: AG. MAGHERU
+  swift: BTRLRO22BB3
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: AG. MARRIOTT
+  swift: BTRLRO22BB2
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: BUCURESTI CHIBRIT
+  swift: BTRLRO22BBC
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: BUCURESTI OTOPENI
+  swift: BTRLRO22BOT
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: BUCURESTI VOLUNTARI
+  swift: BTRLRO22BVO
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: CENTRE NOUVEAU BRANCH
+  swift: BTRLRO22BBL
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: MILITARI BRANCH
+  swift: BTRLRO22BB1
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: OBOR BRANCH
+  swift: BTRLRO22BBB
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: PANTELIMON BRANCH
+  swift: BTRLRO22BBP
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: PIATA ALBA-IULIA BRANCH
+  swift: BTRLRO22BBA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: ROSETTI BRANCH
+  swift: BTRLRO21BBT
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUCHAREST"
+  branch: VICTORIEI BRANCH
+  swift: BTRLRO22BBV
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "BUZAU"
+  branch: BUZAU BRANCH
+  swift: BTRLRO22BZA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CAMPIA TURZII"
+  branch: CAMPIA TURZII BRANCH
+  swift: BTRLRO21CJ7
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CAMPINA"
+  branch: AG. CAMPINA
+  swift: BTRLRO21PH1
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CAREI"
+  branch: AG. CAREI
+  swift: BTRLRO22SMC
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CHISINAU CRIS"
+  branch: AG. CHISINAU CRIS
+  swift: BTRLRO22AR4
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: AG BARITIU
+  swift: BTRLRO21CJ3
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: AG MANASTUR
+  swift: BTRLRO21CJ2
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: AG. BILLA
+  swift: BTRLRO22CJ8
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: AG. DOROBANTILOR
+  swift: BTRLRO21CJ1
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: BT SECURITIES
+  swift: BTRLRO22BTS
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: CLUJ-NAPOCA BRANCH
+  swift: BTRLRO22CJA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: GRIGORESCU BRANCH
+  swift: BTRLRO21CJ5
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: MARASTI BRANCH
+  swift: BTRLRO21CJ6
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: MARASTI
+  swift: BTRLRO22CJM
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: ZORILOR BRANCH
+  swift: BTRLRO21CJ4
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: ZORILOR
+  swift: BTRLRO22CJZ
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: null
+  swift: BTRLRO22
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CONSTANTA"
+  branch: CONSTANTA BRANCH
+  swift: BTRLRO22CTA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "CRAIOVA"
+  branch: CRAIOVA BRANCH
+  swift: BTRLRO22DJA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "DEJ"
+  branch: DEJ BRANCH
+  swift: BTRLRO22CJD
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "DEVA"
+  branch: DEVA BRANCH
+  swift: BTRLRO22HDA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "DRAGASANI"
+  branch: DRAGASANI
+  swift: BTRLRO22VLD
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "FAGARAS"
+  branch: FAGARAS
+  swift: BTRLRO22BVF
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "FALTICENI"
+  branch: FALTICENI
+  swift: BTRLRO22SVF
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "FOCSANI"
+  branch: FOCSANI BRANCH
+  swift: BTRLRO22VRA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "GALATI"
+  branch: GALATI BRANCH
+  swift: BTRLRO22GLA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "GHERLA"
+  branch: GHERLA
+  swift: BTRLRO22CJG
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "GIURGIU"
+  branch: AG. GIURGIU
+  swift: BTRLRO21GR1
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "GIURGIU"
+  branch: ZONA LIBERTA GIURGIU BRANCH
+  swift: BTRLRO22GRA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "HUEDIN"
+  branch: HUEDIN
+  swift: BTRLRO22CJH
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "HUNEDOARA"
+  branch: AG HUNEDOARA
+  swift: BTRLRO21HD1
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "IASI"
+  branch: IASI BRANCH
+  swift: BTRLRO22ISA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "INEU"
+  branch: AG. INEU
+  swift: BTRLRO22AR5
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "LUGOJ"
+  branch: AG. LUGOJ
+  swift: BTRLRO22TML
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "MANGALIA"
+  branch: AG. MANGALIA
+  swift: BTRLRO22CTM
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "MEDIAS"
+  branch: MEDIAS BRANCH
+  swift: BTRLRO21SB1
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "MIERCUREA CIUC"
+  branch: MIERCUREA CIUC BRANCH
+  swift: BTRLRO21HRA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "NADLAC"
+  branch: AG. NADLAC
+  swift: BTRLRO22AR3
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ODORHEIU SECUIESC"
+  branch: ODORHEIU SECUIESC
+  swift: BTRLRO22HRO
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ONESTI"
+  branch: ONESTI
+  swift: BTRLRO22BCO
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ORADEA"
+  branch: AG CANTEMIR
+  swift: BTRLRO21BH2
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ORADEA"
+  branch: AG LOTUS
+  swift: BTRLRO21BH3
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ORADEA"
+  branch: AG. REPUBLICII
+  swift: BTRLRO21BH1
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ORADEA"
+  branch: ORADEA BRANCH
+  swift: BTRLRO22BHA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "PETROSANI"
+  branch: PETROSANI
+  swift: BTRLRO22HDP
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "PIATRA NEAMT"
+  branch: NEAMT BRANCH
+  swift: BTRLRO22NTA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "PITESTI"
+  branch: PITESTI BRANCH
+  swift: BTRLRO22AGA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "PLOIESTI"
+  branch: PLOIESTI BRANCH
+  swift: BTRLRO22PHA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "RADAUTI"
+  branch: AG. RADAUTI
+  swift: BTRLRO22SVR
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "RAMNICU SARAT"
+  branch: RAMNICU SARAT
+  swift: BTRLRO22BZR
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "RAMNICU VALCEA"
+  branch: VALCEA BRANCH
+  swift: BTRLRO22VLA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "REGHIN"
+  branch: AG. REGHIN
+  swift: BTRLRO22MSR
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "RESITA"
+  branch: RESITA
+  swift: BTRLRO22CSA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ROMAN"
+  branch: AG. ROMAN
+  swift: BTRLRO22NTR
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "SATU MARE"
+  branch: SATU MARE BRANCH
+  swift: BTRLRO22SMA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "SEBES"
+  branch: SEBES BRANCH
+  swift: BTRLRO21AB1
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "SFANTU GHEORGHE"
+  branch: SFANTU GHEORGHE BRANCH
+  swift: BTRLRO22CVA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "SIBIU"
+  branch: SIBIU BRANCH
+  swift: BTRLRO21SB2
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "SIBIU"
+  branch: SIBIU BRANCH
+  swift: BTRLRO22SBA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "SIGHET"
+  branch: AG. SIGHET
+  swift: BTRLRO22MMS
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "SIGHISOARA"
+  branch: SIGHISOARA BRANCH
+  swift: BTRLRO21MS2
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "SLATINA"
+  branch: SLATINA
+  swift: BTRLRO22OTA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "SLOBOZIA"
+  branch: SLOBOZIA
+  swift: BTRLRO22ILA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "SUCEAVA"
+  branch: SUCEAVA BRANCH
+  swift: BTRLRO22SVA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TARGOVISTE"
+  branch: DAMBOVITA BRANCH
+  swift: BTRLRO22DBA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TARGU JIU"
+  branch: TG. JIU BRANCH
+  swift: BTRLRO22GJA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TARGU MURES"
+  branch: MURES BRANCH
+  swift: BTRLRO22MSA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TARGU MURES"
+  branch: TARGU MURES BRANCH
+  swift: BTRLRO21MS1
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TARGU NEAMT"
+  branch: TARGU NEAMT
+  swift: BTRLRO22NTT
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TARGU SECUIESC"
+  branch: AG. TG. SECUIESC
+  swift: BTRLRO22CVT
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TECUCI"
+  branch: TECUCI
+  swift: BTRLRO22GLT
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TIMISOARA"
+  branch: TIMISOARA BRANCH
+  swift: BTRLRO22TMA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TULCEA"
+  branch: TULCEA BRANCH
+  swift: BTRLRO21TLA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TURDA"
+  branch: TURDA BRANCH
+  swift: BTRLRO22CJT
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "TURNU SEVERIN"
+  branch: MEHEDINTI BRANCH
+  swift: BTRLRO22MHA
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "VATRA DORNEI"
+  branch: VATRA DORNEI
+  swift: BTRLRO22SVV
+    
+- name: "BANCA TRANSILVANIA S.A."
+  city: "ZALAU"
+  branch: ZALAU BRANCH
+  swift: BTRLRO22SJA
+    
+- name: "BANK LEUMI ROMANIA S.A."
+  city: "BRASOV"
+  branch: null
+  swift: DAFBRO22BRA
+    
+- name: "BANK LEUMI ROMANIA S.A."
+  city: "BUCHAREST"
+  branch: HEAD OFFICE
+  swift: DAFBRO22
+    
+- name: "BANK LEUMI ROMANIA S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: DAFBRO22BUC
+    
+- name: "BANK LEUMI ROMANIA S.A."
+  city: "CLUJ-NAPOCA"
+  branch: null
+  swift: DAFBRO22CLU
+    
+- name: "BANK LEUMI ROMANIA S.A."
+  city: "CONSTANTA"
+  branch: null
+  swift: DAFBRO22CTA
+    
+- name: "BANK LEUMI ROMANIA S.A."
+  city: "ORADEA"
+  branch: null
+  swift: DAFBRO22ORA
+    
+- name: "BANK LEUMI ROMANIA S.A."
+  city: "TIMISOARA"
+  branch: null
+  swift: DAFBRO22TIM
+    
+- name: "BANK OF CYPRUS PCL NICOSIA, ROMANIAN BRANCH"
+  city: "BUCHAREST"
+  branch: null
+  swift: BCYPROBU
+    
+- name: "BCR BANCA PENTRU LOCUINTE S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BCRLROBU
+    
+- name: "BFOREX GLOBAL TRADING S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BGLTROB1
+    
+- name: "BLOM BANK FRANCE S.A. ROMANIA BRANCH"
+  city: "BUCHAREST"
+  branch: null
+  swift: BLOMROBU
+    
+- name: "BLUE ROCK FINANCIAL SERVICES"
+  city: "BUCHAREST"
+  branch: null
+  swift: TRPTRO21
+    
+- name: "BNP PARIBAS S.A. PARIS SUCURSALA BUCURESTI"
+  city: "BUCHAREST"
+  branch: null
+  swift: FTSBROBU
+    
+- name: "BRD - GROUPE SOCIETE GENERALE SA"
+  city: "BUCHAREST"
+  branch: CAMPINEANU BRANCH
+  swift: BRDEROBUCAM
+    
+- name: "BRD - GROUPE SOCIETE GENERALE SA"
+  city: "BUCHAREST"
+  branch: SECURITIES DIVISION
+  swift: BRDEROBUTIT
+    
+- name: "BRD - GROUPE SOCIETE GENERALE SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: BRDEROBU
+    
+- name: "BRD SECURITIES-GROUPE SOCIETE GENERALE S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BSGSROB1
+    
+- name: "BT SECURITIES S.A."
+  city: "CLUJ-NAPOCA"
+  branch: null
+  swift: SEEERO21
+    
+- name: "BUCURESTI GLOBAL INVEST S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BUGIROB1
+    
+- name: "BURSA DE VALORI BUCURESTI SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: XBSEROB1
+    
+- name: "BURSA ROMANA DE MARFURI (ROMANIAN COMMODITIES EXCHANGE) SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: BURMROB1
+    
+- name: "CAPA FINANCE IFN SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: PATRROB1
+    
+- name: "CAPITAL FINANCIAL SERVICES SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: CPFSROBU
+    
+- name: "CAPITOL S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: CATLROB1
+    
+- name: "CARPATICA INVEST SA"
+  city: "SIBIU"
+  branch: null
+  swift: CRNVRO21
+    
+- name: "CASA DE COMPENSARE BUCURESTI S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: CCBUROB1
+    
+- name: "CASA ROMANA DE COMPENSATIE S.A."
+  city: "SIBIU"
+  branch: null
+  swift: CSRCRO21
+    
+- name: "CEC BANK-S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: CECEROBU
+    
+- name: "CENTRAL EUROPEAN INVESTMENTS S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: CEENROB1
+    
+- name: "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA"
+  city: "BUCHAREST"
+  branch: TARGET 2
+  swift: CITIROBUTGT
+    
+- name: "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA"
+  city: "BUCHAREST"
+  branch: TRADE SERVICES DEPT.
+  swift: CITIROBUTRD
+    
+- name: "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA"
+  city: "BUCHAREST"
+  branch: null
+  swift: CITIROBU
+    
+- name: "CITY INVEST S.A."
+  city: "GALATI"
+  branch: null
+  swift: CIYIRO21
+    
+- name: "CONFIDENT INVEST BUCHAREST S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: COIHROB1
+    
+- name: "CREDIT AGRICOLE BANK ROMANIA S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BSEAROBU
+    
+- name: "CREDIT EUROPE BANK (ROMANIA) S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: FNNBROBU
+    
+- name: "DELTA VALORI MOBILIARE (D.V.M.) S.A"
+  city: "BUCHAREST"
+  branch: null
+  swift: DVMDROB1
+    
+- name: "DEPOZITARUL CENTRAL S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: DECNROBU
+    
+- name: "DORINVEST S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: DORNROB1
+    
+- name: "EASTERN SECURITIES S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: EASCROB1
+    
+- name: "EGNATIA SECURITIES S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: EGNTROB1
+    
+- name: "ELDAINVEST S.A."
+  city: "GALATI"
+  branch: null
+  swift: ELDARO21
+    
+- name: "EQUITY INVEST S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: EQIVROB1
+    
+- name: "ESTEURO CAPITAL S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: ESCPROB1
+    
+- name: "ESTINVEST S.A."
+  city: "FOCSANI"
+  branch: null
+  swift: ESTIRO21
+    
+- name: "ETEBA ROMANIA S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: ETROROB1
+    
+- name: "ETR ROMANIA"
+  city: "BUCHAREST"
+  branch: null
+  swift: ETRMROB1
+    
+- name: "EUROBANK SECURITIES S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: EFESROB1
+    
+- name: "EUROSAVAM S.A."
+  city: "PLOIESTI"
+  branch: null
+  swift: EURVROB1
+    
+- name: "EXIMBANK OF ROMANIA"
+  city: "BUCHAREST"
+  branch: null
+  swift: EXIMROBU
+    
+- name: "FAIRWIND SECURITIES S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: UNSUROB1
+    
+- name: "FINACO SECURITIES S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: FIUEROB1
+    
+- name: "G.I.F.-GRUPUL DE INTERMEDIERE FINANCIARA S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: GGIFROB1
+    
+- name: "G.M. INVEST S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: IVTEROB1
+    
+- name: "GARANTI BANK S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: UGBIROBU
+    
+- name: "GLOBAL VALORI MOBILIARE S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: GLVMROB1
+    
+- name: "GOLDRING S.A."
+  city: "TARGU MURES"
+  branch: null
+  swift: GOLIRO21
+    
+- name: "HARINVEST S.A."
+  city: "RAMNICU VALCEA"
+  branch: null
+  swift: HARIRO21
+    
+- name: "HB INVEST S.A."
+  city: "BRASOV"
+  branch: null
+  swift: IVTSRO21
+    
+- name: "HTI VALORI MOBILIARE S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: HTVMROB1
+    
+- name: "IDEA BANK SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: ROINROBU
+    
+- name: "IEBA TRUST S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: IETRROB1
+    
+- name: "IFB FINWEST S.A."
+  city: "ARAD"
+  branch: null
+  swift: IFFNRO21
+    
+- name: "ING BANK N.V., BUCHAREST BRANCH"
+  city: "BUCHAREST"
+  branch: null
+  swift: INGBROBU
+    
+- name: "INTERCAPITAL INVEST S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: ITINROB1
+    
+- name: "INTERDEALER CAPITAL INVEST S.A."
+  city: "CLUJ-NAPOCA"
+  branch: null
+  swift: INLNRO21
+    
+- name: "INTERFINBROK CORPORATION S.A."
+  city: "CONSTANTA"
+  branch: null
+  swift: INAORO21
+    
+- name: "INTERVAM S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: ITTRROB1
+    
+- name: "INTESA SANPAOLO ROMANIA S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: WBANRO22
+    
+- name: "INVEST TRUST S.A."
+  city: "CRAIOVA"
+  branch: null
+  swift: INUTRO21
+    
+- name: "KD CAPITAL MANAGEMENT S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: CPMAROB1
+    
+- name: "KIRA CREDITO AND CAUZIONI IFN S.A"
+  city: "IASI"
+  branch: null
+  swift: KCCFRO21
+    
+- name: "KMG ROMPETROL"
+  city: "BUCHAREST"
+  branch: null
+  swift: KMGRROBU
+    
+- name: "LIBRA BANK S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BRELROBU
+    
+- name: "LIBRA BANK S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: BRELROBUCAM
+    
+- name: "MARFIN BANK (ROMANIA) S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: EGNAROBX
+    
+- name: "MINISTRY OF PUBLIC FINANCE"
+  city: "BUCHAREST"
+  branch: null
+  swift: TREZROBU
+    
+- name: "MONDIAL SA"
+  city: "LUGOJ"
+  branch: null
+  swift: MODLRO21
+    
+- name: "MUNTENIA GLOBAL INVEST S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: MUGIROB1
+    
+- name: "NATIONAL BANK OF ROMANIA"
+  city: "BUCHAREST"
+  branch: null
+  swift: NBORROBP
+    
+- name: "NATIONAL BANK OF ROMANIA"
+  city: "BUCHAREST"
+  branch: null
+  swift: NBORROBS
+    
+- name: "NATIONAL BANK OF ROMANIA"
+  city: "BUCHAREST"
+  branch: null
+  swift: NBORROBU
+    
+- name: "NATIONAL BANK OF ROMANIA - REGIS"
+  city: "BUCHAREST"
+  branch: null
+  swift: NBORROBA
+    
+- name: "NATIONAL BANK OF ROMANIA - SAFIR"
+  city: "BUCHAREST"
+  branch: null
+  swift: NBORROBB
+    
+- name: "NHL SECURITIES S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: SMRSROB1
+    
+- name: "NOVA INVEST S.A."
+  city: "SATU MARE"
+  branch: null
+  swift: NOIVRO21
+    
+- name: "OLTENIA GRUP INVEST S.A."
+  city: "CRAIOVA"
+  branch: null
+  swift: OLGIRO21
+    
+- name: "OTP BANK ROMANIA S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: OTPVROBU
+    
+- name: "PATRIA BANK S.A."
+  city: "SIBIU"
+  branch: null
+  swift: CARPRO22
+    
+- name: "PIRAEUS BANK ROMANIA"
+  city: "BUCHAREST"
+  branch: null
+  swift: PIRBROBU
+    
+- name: "PORSCHE BANK ROMANIA SA"
+  city: "VOLUNTARI"
+  branch: null
+  swift: PORLROBU
+    
+- name: "PRIME TRANSACTION S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: PRTAROB1
+    
+- name: "PROCREDITBANK S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: MIROROBU
+    
+- name: "RAIFFEISEN BANCA PENTRU LOCUINTE S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: RZBLROBU
+    
+- name: "RAIFFEISEN BANK S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: RZBRROBU
+    
+- name: "RAIFFEISEN CAPITAL AND INVESTMENT S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: RACIROB1
+    
+- name: "RASDAQ"
+  city: "BUCHAREST"
+  branch: null
+  swift: XRASROB1
+    
+- name: "RBS SECURITIES (ROMANIA) S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: AASOROB1
+    
+- name: "ROINVEST BUCOVINA S.A."
+  city: "SUCEAVA"
+  branch: null
+  swift: ROBURO21
+    
+- name: "ROMANIAN POST NATIONAL COMPANY"
+  city: "BUCHAREST"
+  branch: null
+  swift: RONCROB1
+    
+- name: "ROMBELL SECURITIES S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: ROECROB1
+    
+- name: "ROMCAPITAL S.A."
+  city: "TIMIS"
+  branch: null
+  swift: ROMCRO21
+    
+- name: "ROMEXTERRA FINANCE S.A"
+  city: "TARGU MURES"
+  branch: null
+  swift: FNCCRO21
+    
+- name: "S.C. DEPOZITARUL SIBEX S.A."
+  city: "SIBIU"
+  branch: null
+  swift: DESXRO21
+    
+- name: "S.S.I.F. FORTIUS FINANCE S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: SSFIROB1
+    
+- name: "S.S.I.F. ORIZONT VEST S.A."
+  city: "ORADEA"
+  branch: null
+  swift: SSOVRO21
+    
+- name: "S.S.I.F. PIRAEUS SECURITIES ROMANIA S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: SPSMROB1
+    
+- name: "S.S.I.F. ROMINTRADE S.A."
+  city: "BRASOV"
+  branch: null
+  swift: SSRORO21
+    
+- name: "S.S.I.F. VIENNA INVESTMENT TRUST S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: FIEFROB1
+    
+- name: "SAMSUNG ELECTRONICS ROMANIA SRL"
+  city: "VOLUNTARI"
+  branch: null
+  swift: SECTRO21
+    
+- name: "SAMSUNG ELECTRONICS ROMANIA SRL"
+  city: "VOLUNTARI"
+  branch: null
+  swift: SECTRO214B6
+    
+- name: "SC SMITH AND SMITH SRL"
+  city: "BUCHAREST"
+  branch: null
+  swift: SSRRROB1
+    
+- name: "SOCIETATE DE INVESTITII FINANCIARE BROKER S.A."
+  city: "CLUJ-NAPOCA"
+  branch: null
+  swift: SIFKRO21
+    
+- name: "SOCIETATEA NATIONALA DE COMPENSARE, DECONTARE SI DEPOZITARE PENTRU VALORI MOBILIARE SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: SNCDROB1
+    
+- name: "SPEED TRANSFER FINANCIAR SRL"
+  city: "BUCHAREST"
+  branch: null
+  swift: SRFSROB1
+    
+- name: "SSIF MOBINVEST S.A."
+  city: "ORADEA"
+  branch: null
+  swift: SSMORO21
+    
+- name: "SSIF STK TRADING S.A."
+  city: "ARAD"
+  branch: null
+  swift: SSSRRO21
+    
+- name: "SUPER GOLD INVEST S.A."
+  city: "PITESTI"
+  branch: null
+  swift: SUGIRO21
+    
+- name: "SWISS CAPITAL SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: KSRSROB1
+    
+- name: "T.G.H. INVESTMENT S.A."
+  city: "IASI"
+  branch: null
+  swift: TGINRO21
+    
+- name: "TARGET CAPITAL S.A."
+  city: "CLUJ-NAPOCA"
+  branch: null
+  swift: TACIRO21
+    
+- name: "TBI BANK EAD SOFIA BUCHAREST BRANCH"
+  city: "BUCHAREST"
+  branch: null
+  swift: TBIBROBU
+    
+- name: "TRADEVILLE SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: VANGROB1
+    
+- name: "TRANSFOND S.A."
+  city: "BUCHAREST"
+  branch: BACK OFFICE APPLICATION
+  swift: TRFDROBSSNT
+    
+- name: "TRANSFOND S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: TRFDROBS
+    
+- name: "TRANSFOND S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: TRFDROBU
+    
+- name: "TREND S.A."
+  city: "BACAU"
+  branch: null
+  swift: TEENRO21
+    
+- name: "UNICAPITAL S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: UNCPROB1
+    
+- name: "UNICREDIT BANK SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: BACXROBU
+    
+- name: "UNICREDIT CA-IB SECURITIES SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: CAUEROB1
+    
+- name: "URSUS BREWERIES SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: SABMROB1
+    
+- name: "VALAHIA CAPITAL SA"
+  city: "BUCHAREST"
+  branch: null
+  swift: VACTROB1
+    
+- name: "VALMOB INTERMEDIA S.A."
+  city: "PITESTI"
+  branch: null
+  swift: VAITRO21
+    
+- name: "VENETO BANCA S.P.A. ITALIA MONTEBELLUNA SUCURSALA BUCURESTI"
+  city: "BUCHAREST"
+  branch: null
+  swift: BITRROBU
+    
+- name: "VENTRUST INVESTMENT S.A."
+  city: "TARGU MURES"
+  branch: null
+  swift: VEIVRO21
+    
+- name: "VOLTINVEST S.A."
+  city: "CRAIOVA"
+  branch: null
+  swift: VOLTRO21
+    
+- name: "W.B.S. ROMANIA S.A."
+  city: "BUCHAREST"
+  branch: null
+  swift: WBROROB1
+    

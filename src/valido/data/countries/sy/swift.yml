@@ -1,0 +1,425 @@
+- name: "AL BARAKA BANK SYRIA"
+  city: "DAMASCUS"
+  branch: null
+  swift: BBSYSYDA
+    
+- name: "ARAB BANK-SYRIA"
+  city: "DAMASCUS"
+  branch: null
+  swift: ARBXSYDA
+    
+- name: "BANK AL-SHARQ S.A."
+  city: "DAMASCUS"
+  branch: null
+  swift: SHRQSYDA
+    
+- name: "BANK AUDI SYRIA S.A."
+  city: "DAMASCUS"
+  branch: null
+  swift: BASYSYDA
+    
+- name: "BANK OF JORDAN-SYRIA-"
+  city: "DAMASCUS"
+  branch: null
+  swift: BJORSYDA
+    
+- name: "BANK OF SYRIA AND OVERSEAS"
+  city: "DAMASCUS"
+  branch: null
+  swift: BSOMSYDA
+    
+- name: "BANQUE BEMO SAUDI FRANSI S.A."
+  city: "DAMASCUS"
+  branch: null
+  swift: BBSFSYDA
+    
+- name: "BYBLOS BANK SYRIA SA"
+  city: "DAMASCUS"
+  branch: null
+  swift: BYBASYDA
+    
+- name: "CENTRAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: null
+  swift: CBSYSYDA
+    
+- name: "CHAM BANK"
+  city: "DAMASCUS"
+  branch: null
+  swift: CHMMSYDA
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "AL RAKKA"
+  branch: AL RAKKA BRANCH
+  swift: CMSYSYDARK1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "AL SUWAIDA"
+  branch: AL SUWAIDA BRANCH
+  swift: CMSYSYDASW1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "ALEPPO"
+  branch: ALEPPO 1 BRANCH
+  swift: CMSYSYDAAL1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "ALEPPO"
+  branch: ALEPPO 2 BRANCH
+  swift: CMSYSYDAAL2
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "ALEPPO"
+  branch: ALEPPO 3 BRANCH
+  swift: CMSYSYDAAL3
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "ALEPPO"
+  branch: ALEPPO 6 BRANCH
+  swift: CMSYSYDAAL6
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "ALEPPO"
+  branch: ALEPPO 8 BRANCH
+  swift: CMSYSYDAAL8
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "ALEPPO"
+  branch: ALEPPO BRANCH NR.4
+  swift: CMSYSYDAAL4
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "ALEPPO"
+  branch: ALEPPO BRANCH NR.5
+  swift: CMSYSYDAAL5
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "ALEPPO"
+  branch: ALEPPO BRANCH NR.7
+  swift: CMSYSYDAAL7
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "ALEPPO"
+  branch: ALEPPO FREE ZONE BRANCH
+  swift: CMSYSYDAAFZ
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: AL TEL
+  swift: CMSYSYDATL1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: BRANCH NR.10 DAMASCUS
+  swift: CMSYSYDAD10
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: BRANCH NR.11 DAMASCUS
+  swift: CMSYSYDAD11
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: BRANCH NR.12 DAMASCUS
+  swift: CMSYSYDAD12
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: BRANCH NR.13 DAMASCUS
+  swift: CMSYSYDAD13
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: BRANCH NR.15 DAMASCUS
+  swift: CMSYSYDAD15
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: BRANCH NR.18 DAMASCUS
+  swift: CMSYSYDAD18
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: BRANCH NR.7 DAMASCUS
+  swift: CMSYSYDADA7
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: BRANCH NR.8 DAMASCUS
+  swift: CMSYSYDADA8
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: BRANCH NR.9 DAMASCUS
+  swift: CMSYSYDADA9
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DAHET ASSAD BR
+  swift: CMSYSYDAD24
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DAMASCUS 1 BRANCH
+  swift: CMSYSYDADA1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DAMASCUS 16 BRANCH
+  swift: CMSYSYDAD16
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DAMASCUS 17 BRANCH
+  swift: CMSYSYDAD17
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DAMASCUS 2 BRANCH
+  swift: CMSYSYDADA2
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DAMASCUS 3 BRANCH
+  swift: CMSYSYDADA3
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DAMASCUS 4 BRANCH
+  swift: CMSYSYDADA4
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DAMASCUS 5 BRANCH
+  swift: CMSYSYDADA5
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DAMASCUS 6 BRANCH
+  swift: CMSYSYDADA6
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DAMASCUS FREE ZONE BRANCH
+  swift: CMSYSYDADFZ
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DEIR ATTIEH BR
+  swift: CMSYSYDAD25
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: DOUMA BRANCH
+  swift: CMSYSYDADUM
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: MALLIEH BR
+  swift: CMSYSYDAD21
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: MASAKIN BARZEH BR
+  swift: CMSYSYDABA1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: ZABADANI
+  swift: CMSYSYDAZA1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: null
+  swift: CMSYSYDA
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: null
+  swift: CMSYSYDAD14
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: null
+  swift: CMSYSYDAD26
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: null
+  swift: CMSYSYDAD27
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DAMASCUS"
+  branch: null
+  swift: CMSYSYDAD28
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DARAA"
+  branch: DARAA BRANCH
+  swift: CMSYSYDADR1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DEIR ALZZOR"
+  branch: BOU KAMAL
+  swift: CMSYSYDABK1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DEIR ALZZOR"
+  branch: DEIR ALZZOR BRANCH
+  swift: CMSYSYDADZ1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "DEIR ALZZOR"
+  branch: MAYADINE
+  swift: CMSYSYDAMA1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "HAMA"
+  branch: HAMA 1 BRANCH
+  swift: CMSYSYDAHA1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "HAMA"
+  branch: HAMA BRANCH NR.2
+  swift: CMSYSYDAHA2
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "HAMA"
+  branch: HAMA BRANCH NR.3
+  swift: CMSYSYDAHA3
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "HAMA"
+  branch: null
+  swift: CMSYSYDAHA4
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "HASSAKAH"
+  branch: HASSAKAH BRANCH
+  swift: CMSYSYDAHS1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "HOMS"
+  branch: BRANCH NR.2 HOMS
+  swift: CMSYSYDAHO2
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "HOMS"
+  branch: BRANCH NR.3 HOMS
+  swift: CMSYSYDAHO3
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "HOMS"
+  branch: BRANCH NR.4 HOMS
+  swift: CMSYSYDAHO4
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "HOMS"
+  branch: HOMS 1 BRANCH
+  swift: CMSYSYDAHO1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "IDLIB"
+  branch: IDLIB BRANCH
+  swift: CMSYSYDAID1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "KAMECHLI"
+  branch: KAMECHLI BRANCH
+  swift: CMSYSYDAKA1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "LATAKIA"
+  branch: JABLEH BR
+  swift: CMSYSYDAJA1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "LATAKIA"
+  branch: LATAKIA 1 BRANCH
+  swift: CMSYSYDALA1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "LATAKIA"
+  branch: LATAKIA BRANCH NR.2
+  swift: CMSYSYDALA2
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "LATAKIA"
+  branch: LATAKIA BRANCH NR.3
+  swift: CMSYSYDALA3
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "LATAKIA"
+  branch: LATAKIA FREE ZONE BRANCH
+  swift: CMSYSYDALFZ
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "LATAKIA"
+  branch: null
+  swift: CMSYSYDALA4
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "TARTOUS"
+  branch: DREIKISH BR
+  swift: CMSYSYDADK1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "TARTOUS"
+  branch: SAFITA
+  swift: CMSYSYDASA1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "TARTOUS"
+  branch: TARTOUS 1 BRANCH
+  swift: CMSYSYDATA1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "TARTOUS"
+  branch: TARTOUS BRANCH NR.2
+  swift: CMSYSYDATA2
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "TARTOUS"
+  branch: TARTOUS FREE ZONE BRANCH
+  swift: CMSYSYDATFZ
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "TARTOUS"
+  branch: null
+  swift: CMSYSYDABM1
+    
+- name: "COMMERCIAL BANK OF SYRIA"
+  city: "TARTOUS"
+  branch: null
+  swift: CMSYSYDABS1
+    
+- name: "FRANSABANK SYRIA SA"
+  city: "DAMASCUS"
+  branch: null
+  swift: FSBSSYDA
+    
+- name: "INTERNATIONAL BANK FOR TRADE AND FINANCE, THE"
+  city: "DAMASCUS"
+  branch: null
+  swift: GBTFSYDA
+    
+- name: "QNB"
+  city: "DAMASCUS"
+  branch: null
+  swift: QNBASYDA
+    
+- name: "REAL ESTATE BANK"
+  city: "DAMASCUS"
+  branch: null
+  swift: REBSSYDA
+    
+- name: "SYRIA GULF BANK, S.A."
+  city: "DAMASCUS"
+  branch: null
+  swift: SGBSSYDA
+    
+- name: "SYRIA INTERNATIONAL ISLAMIC BANK"
+  city: "DAMASCUS"
+  branch: null
+  swift: SIIBSYDA
+    

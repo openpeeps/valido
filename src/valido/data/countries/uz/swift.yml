@@ -1,0 +1,325 @@
+- name: "ASIA ALLIANCE BANK"
+  city: "TASHKENT"
+  branch: null
+  swift: ASACUZ22
+    
+- name: "CENTRAL BANK OF THE REPUBLIC UZBEKISTAN"
+  city: "TASHKENT"
+  branch: null
+  swift: CBUZUZ22
+    
+- name: "CREDIT-STANDARD BANK"
+  city: "TASHKENT"
+  branch: null
+  swift: CRIDUZ21
+    
+- name: "'HI-TECH BANK' PRIVATE CLOSED JOINT STOCK COMMERCIAL BANK"
+  city: "TASHKENT"
+  branch: null
+  swift: HPCJUZ22
+    
+- name: "INFINBANK"
+  city: "TASHKENT"
+  branch: null
+  swift: INFBUZ2X
+    
+- name: "IPOTEKA-BANK"
+  city: "TASHKENT"
+  branch: null
+  swift: UZHOUZ22
+    
+- name: "JOINT STOCK COMMERCIAL BANK 'AGROBANK'"
+  city: "TASHKENT"
+  branch: null
+  swift: PAKHUZ22
+    
+- name: "JOINT STOCK COMMERCIAL BANK SAVDOGAR"
+  city: "TASHKENT"
+  branch: null
+  swift: JSCSUZ22
+    
+- name: "JOINT-STOCK COMMERCIAL BANK ASAKA"
+  city: "TASHKENT"
+  branch: null
+  swift: ASBKUZ22
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "ANDIJAN"
+  branch: ANDIJAN BRANCH
+  swift: TUROUZ21AND
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "BUKHARA"
+  branch: BUKHARA BRANCH
+  swift: TUROUZ21BUH
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "FERGHANA"
+  branch: FERGANA BRANCH
+  swift: TUROUZ21FER
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "GULISTAN"
+  branch: SYRDARYA BRANCH
+  swift: TUROUZ21SYR
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "JIZZAH"
+  branch: JIZZAH BRANCH
+  swift: TUROUZ21JIZ
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "KARSHI"
+  branch: KARSHI BRANCH
+  swift: TUROUZ21KAR
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "NAMANGAN"
+  branch: NAMANGAN BRANCH
+  swift: TUROUZ21NAM
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "NAVOI"
+  branch: NAVOI BRANCH
+  swift: TUROUZ21NAV
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "NUKUS"
+  branch: NUKUS BRANCH
+  swift: TUROUZ21NUK
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "SAMARKAND"
+  branch: SAMARKAND BRANCH
+  swift: TUROUZ21SAM
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "SHAKHRISABZ"
+  branch: SHAKHRISABZ BRANCH
+  swift: TUROUZ21SHK
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "TASHKENT"
+  branch: CHILANZAR BRANCH
+  swift: TUROUZ21CHL
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "TASHKENT"
+  branch: KHAMZA BRANCH
+  swift: TUROUZ21KHZ
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "TASHKENT"
+  branch: MIROBOD BRANCH
+  swift: TUROUZ21MIR
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "TASHKENT"
+  branch: null
+  swift: TUROUZ22
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "TERMEZ"
+  branch: SURKHANDARYA BRANCH
+  swift: TUROUZ21SUR
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "URGENCH"
+  branch: KHOREZM BRANCH
+  swift: TUROUZ21KHR
+    
+- name: "JOINT-STOCK COMMERCIAL BANK TURONBANK"
+  city: "ZANGIOTA"
+  branch: ZANGIOTA BRANCH
+  swift: TUROUZ21ZAN
+    
+- name: "JOINT-STOCK COMMERCIAL XALQ BANK OF THE REPUBLIC OF UZBEKISTAN"
+  city: "TASHKENT"
+  branch: null
+  swift: SCPEUZ22
+    
+- name: "JSC ALOQABANK"
+  city: "TASHKENT"
+  branch: null
+  swift: JSCLUZ22
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "ANDIJAN"
+  branch: ANDIJAN
+  swift: INIPUZ21AND
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "KARSHI"
+  branch: KARSHI
+  swift: INIPUZ21QAR
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "NAMANGAN"
+  branch: NAMANGAN
+  swift: INIPUZ21NAM
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "NAVOI"
+  branch: NAVOI BRANCH
+  swift: INIPUZ21NAV
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "SAMARKAND"
+  branch: REGIONAL BRANCH 'UMAR'
+  swift: INIPUZ21UMA
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "SHAKHRISABZ"
+  branch: SHAKHRISABZ
+  swift: INIPUZ21SHZ
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "TASHKENT"
+  branch: CHILANZAR
+  swift: INIPUZ21CHL
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "TASHKENT"
+  branch: MIRABAD BRANCH
+  swift: INIPUZ21MRB
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "TASHKENT"
+  branch: MIRZO ULUGBEK BRANCH
+  swift: INIPUZ21MUB
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "TASHKENT"
+  branch: SAGBON
+  swift: INIPUZ21SGB
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "TASHKENT"
+  branch: SHAYHONTOHUR
+  swift: INIPUZ21SHB
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "TASHKENT"
+  branch: URIKZOR BRANCH
+  swift: INIPUZ21URB
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "TASHKENT"
+  branch: YAKKASARAY BRANCH
+  swift: INIPUZ21YKB
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "TASHKENT"
+  branch: null
+  swift: INIPUZ22
+    
+- name: "JSIC BANK IPAK YULI"
+  city: "YANGIYUL"
+  branch: YANGIYUL'
+  swift: INIPUZ21YNG
+    
+- name: "KAPITALBANK, JSCB"
+  city: "TASHKENT"
+  branch: null
+  swift: KACHUZ22
+    
+- name: "KDB BANK UZBEKISTAN JSC"
+  city: "TASHKENT"
+  branch: null
+  swift: KODBUZ22
+    
+- name: "KHAMKORBANK AKB"
+  city: "ANDIZHAN"
+  branch: null
+  swift: KHKKUZ22
+    
+- name: "KHOREZM INTERREGION COMMODITY EXCHANGE"
+  city: "TASHKENT"
+  branch: null
+  swift: XKCEUZ31
+    
+- name: "MICROCREDITBANK"
+  city: "TASHKENT"
+  branch: null
+  swift: MICDUZ22
+    
+- name: "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN"
+  city: "TASHKENT"
+  branch: null
+  swift: NBFAUZ2X
+    
+- name: "OJSC MICROCREDITBANK"
+  city: "TASHKENT"
+  branch: null
+  swift: OJMIUZ21
+    
+- name: "PJSCB 'ORIENT FINANCE'"
+  city: "TASHKENT"
+  branch: null
+  swift: ORFBUZ22
+    
+- name: "PJSCB TURKISTON"
+  city: "TASHKENT"
+  branch: null
+  swift: TRKSUZ22
+    
+- name: "PJSCB UNIVERSAL BANK"
+  city: "KOKAND"
+  branch: null
+  swift: PJUNUZ22
+    
+- name: "PRIVATE BANK 'DAVR BANK'"
+  city: "TASHKENT"
+  branch: null
+  swift: DVRBUZ22
+    
+- name: "'QISHLOQ QURILISH BANK' JOINT-STOCK COMMERCIAL BANK"
+  city: "TASHKENT"
+  branch: null
+  swift: GJSOUZ22
+    
+- name: "RAVNAQ BANK"
+  city: "TASHKENT"
+  branch: null
+  swift: RVBKUZ22
+    
+- name: "TRUSTBANK, PRIVATE JOINT STOCK-EXCHANGE BANK"
+  city: "TASHKENT"
+  branch: null
+  swift: TRSAUZ22
+    
+- name: "UNIVERSAL BANK PRIVATE JOINT-STOCK COMMERCIAL BANK"
+  city: "KOKANY"
+  branch: null
+  swift: POUNUZ21
+    
+- name: "UNIVERSAL BROKER'S EXCHANGE 'TASHKENT'"
+  city: "TASHKENT"
+  branch: null
+  swift: XUNIUZ21
+    
+- name: "UNIVERSAL COMMODITY EXCHANGE 'TASHKENT'"
+  city: "TASHKENT"
+  branch: null
+  swift: XCETUZ21
+    
+- name: "UT-BANK"
+  city: "TASHKENT"
+  branch: null
+  swift: UZTUUZ22
+    
+- name: "'UZBEK INDUSTRIAL AND CONSTRUCTION BANK' JOINT-STOCK COMMERCIAL BANK"
+  city: "TASHKENT"
+  branch: null
+  swift: UJSIUZ22
+    
+- name: "UZBEKISTAN REPUBLICAN CURRENCY EXCHANGE, THE"
+  city: "TASHKENT"
+  branch: null
+  swift: XCUEUZ21
+    
+- name: "UZBEKISTAN STOCK EXCHANGE"
+  city: "TASHKENT"
+  branch: null
+  swift: XSTEUZ21
+    

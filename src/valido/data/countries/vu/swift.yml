@@ -1,0 +1,90 @@
+- name: "ALPEN BARUCH BANK LIMITED"
+  city: "PORT VILA"
+  branch: null
+  swift: ALBUVUVV
+    
+- name: "ANZ BANK (VANUATU) LTD"
+  city: "VILA"
+  branch: null
+  swift: ANZBVUVX
+    
+- name: "ASIA MERCHANT BANK LIMITED"
+  city: "PORT VILA"
+  branch: null
+  swift: AMBVVUVU
+    
+- name: "BANK SOUTH PACIFIC (VANUATU) LIMITED"
+  city: "VILA"
+  branch: null
+  swift: BOSPVUVX
+    
+- name: "BRED (VANUATU) LTD"
+  city: "PORT VILA"
+  branch: null
+  swift: BREDVUVU
+    
+- name: "FINANCIAL PARTNERS BANK LIMITED"
+  city: "PORT VILA"
+  branch: null
+  swift: FPBLVUV1
+    
+- name: "GREENROCK SECURITIES LIMITED"
+  city: "PORT VILA"
+  branch: null
+  swift: GRCRVUV1
+    
+- name: "INTEGRATED MARKETS LTD"
+  city: "PORT VILA"
+  branch: null
+  swift: INKRVUV1
+    
+- name: "INVESTORS' TRUST LIMITED"
+  city: "VILA"
+  branch: null
+  swift: ITLIVUV1
+    
+- name: "MG COMMERCIAL BANK LIMITED"
+  city: "PORT VILA"
+  branch: null
+  swift: MGCBVUVV
+    
+- name: "NATIONAL BANK OF VANUATU LIMITED"
+  city: "PORT VILA"
+  branch: null
+  swift: NBOVVUVU
+    
+- name: "NAUTILUS INTERNATIONAL BANK LTD"
+  city: "PORT VILA"
+  branch: null
+  swift: NAIOVUV1
+    
+- name: "PACIFIC INTERNATIONAL TRUST CO. LTD"
+  city: "PORT VILA"
+  branch: null
+  swift: PITCVUV1
+    
+- name: "PACIFIC PRIVATE BANK LIMITED"
+  city: "PORT VILA"
+  branch: null
+  swift: PPBLVUVU
+    
+- name: "PROSPERITY BANKING CORPORATION LIMITED"
+  city: "PORT VILA"
+  branch: null
+  swift: PBCLVUVV
+    
+- name: "RESERVE BANK OF VANUATU"
+  city: "PORT VILA"
+  branch: null
+  swift: RBVAVUVU
+    
+- name: "VANTU BANK LIMITED"
+  city: "PORT VILA"
+  branch: null
+  swift: VANTVUVU
+    
+- name: "VANUATU INTERNATIONAL TRUST COMPANY LIMITED"
+  city: "PORT VILA"
+  branch: null
+  swift: VITRVUV1
+    

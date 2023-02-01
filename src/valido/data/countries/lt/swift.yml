@@ -1,0 +1,750 @@
+- name: "AB CITADELE BANKAS"
+  city: "VILNIUS"
+  branch: null
+  swift: INDULT2X
+    
+- name: "AB FMI FINASTA"
+  city: "VILNIUS"
+  branch: null
+  swift: FNSTLTL1
+    
+- name: "ABFC FINANCE"
+  city: "VILNIUS"
+  branch: null
+  swift: ABFCLT21
+    
+- name: "AKADEMINE KREDITO UNIJA"
+  city: "KAUNAS"
+  branch: null
+  swift: AKKULT21
+    
+- name: "AKCIN BENDROV VB BUSTO KREDIT IR OBLIGACIJ BANKAS"
+  city: "VILNIUS"
+  branch: null
+  swift: BKOBLT21
+    
+- name: "AKCINE BENDROVE LIETUVOS PASTAS"
+  city: "VILNIUS"
+  branch: null
+  swift: ABLPLT21
+    
+- name: "AMBERIO KREDITAS"
+  city: "GARGZDAI"
+  branch: null
+  swift: AMKRLT21
+    
+- name: "ANTIGRAVITY PAYMENT SYSTEMS, LLC"
+  city: "VILNIUS"
+  branch: null
+  swift: APSLLT21
+    
+- name: "AS MERIDIAN TRADE BANK LITHUANIAN BRANCH"
+  city: "VILNIUS"
+  branch: null
+  swift: MULTLT2X
+    
+- name: "BALTIC INVESTMENT GROUP"
+  city: "VILNIUS"
+  branch: null
+  swift: IBHBLT21
+    
+- name: "BIGBANK AS LITHUANIA BRANCH"
+  city: "VILNIUS"
+  branch: null
+  swift: BIGKLT21
+    
+- name: "BIRZU KREDITO UNIJA"
+  city: "DRUSKININKAI"
+  branch: null
+  swift: BIKNLT21
+    
+- name: "BNP FINANCE, AB"
+  city: "VILNIUS"
+  branch: null
+  swift: BNFNLT21
+    
+- name: "CITADELE FAKTORINGAS IR LIZINGAS"
+  city: "VILNIUS"
+  branch: null
+  swift: CFLZLT21
+    
+- name: "CJSC FBC MRC MARKETS"
+  city: "VILNIUS"
+  branch: null
+  swift: CFMALT21
+    
+- name: "'CONNECTPAY' UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: CNUALT21
+    
+- name: "CORPORATE SERVICES UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: CRVULT21
+    
+- name: "CREDITSTAR LITHUANIA, UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: CRHBLT21
+    
+- name: "DANSKE BANK A/S,LITHUANIA BRANCH"
+  city: "VILNIUS"
+  branch: null
+  swift: SMPOLT22
+    
+- name: "DISKONTAS FINANSINIO MAKLERIO UAB"
+  city: "PANEVEZYS"
+  branch: null
+  swift: DISTLT21
+    
+- name: "EKSPRES COMMERCIAL BANK"
+  city: "VILNIUS"
+  branch: null
+  swift: EKCBLT21
+    
+- name: "ELEKTRONINIU MOKEJIMU AGENTURA UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: EMAULT21
+    
+- name: "EVERNORD UAB FMI"
+  city: "VILNIUS"
+  branch: null
+  swift: EVUFLT21
+    
+- name: "EVLI BANK LTD"
+  city: "VILNIUS"
+  branch: null
+  swift: EVSELT21
+    
+- name: "FINANCIAL BROKERAGE COMPANY DV INVEST LTD"
+  city: "VILNIUS"
+  branch: null
+  swift: DVINLT21
+    
+- name: "FINHILL"
+  city: "VILNIUS"
+  branch: null
+  swift: FIHHLT21
+    
+- name: "FM UAB SUPREMA"
+  city: "VILNIUS"
+  branch: null
+  swift: SPRALT21
+    
+- name: "FMI UAB BALTIC STOCKHOLM SPARKASSA"
+  city: "KLAIPEDA"
+  branch: null
+  swift: BATKLT21
+    
+- name: "G. STEPONKAUS KONTORA FMUAB"
+  city: "VILNIUS"
+  branch: null
+  swift: STEKLT21
+    
+- name: "GENERAL FINANCING"
+  city: "VILNIUS"
+  branch: null
+  swift: GRFNLT21
+    
+- name: "GLOCASH PAYMENT"
+  city: "VILNIUS"
+  branch: null
+  swift: GLPELT21
+    
+- name: "GYVENTOJU IR SMULKAUS VERSLO KREDITO UNIJA"
+  city: "KAUNAS"
+  branch: null
+  swift: GSVKLT21
+    
+- name: "IBS LITHUANIA"
+  city: "VILNIUS"
+  branch: null
+  swift: IBIULT21
+    
+- name: "IGNALINOS KREDITO UNIJA"
+  city: "IGNALINA"
+  branch: null
+  swift: IGKULT21
+    
+- name: "II AUJAMA-CREDIT"
+  city: "KAUNAS"
+  branch: null
+  swift: AUJALT21
+    
+- name: "INTERNATIONAL FINTECH UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: INHULT21
+    
+- name: "INVL FINASTA"
+  city: "VILNIUS"
+  branch: null
+  swift: IVFILT21
+    
+- name: "IPF DIGITAL LIETUVA, UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: IDLULT21
+    
+- name: "JURBARKO KREDITO UNIJA"
+  city: "TAURAGE"
+  branch: null
+  swift: JUKULT21
+    
+- name: "KAPITALO SRAUTAL UAB FM"
+  city: "VILNIUS"
+  branch: null
+  swift: KPTLLT21
+    
+- name: "KELMES KREDITO UNIJA"
+  city: "SIAULIAI"
+  branch: null
+  swift: KEKULT21
+    
+- name: "KREDITO BANKAS"
+  city: "VILNIUS"
+  branch: null
+  swift: KRBALT21
+    
+- name: "KREDITO UNIJA AMBER"
+  city: "VILNIUS"
+  branch: null
+  swift: KUAMLT21
+    
+- name: "KREDITO UNIJA PANEVEZIO REGIONO TAUPOMOJI KASA"
+  city: "PANEVEZYS"
+  branch: null
+  swift: KUPRLT21
+    
+- name: "KREDITO UNIJA SOSTINES KREDITAS"
+  city: "VILNIUS"
+  branch: null
+  swift: KUSRLT21
+    
+- name: "KREDITO UNIJA VILNIAUS KREDITAS"
+  city: "TRAKAI"
+  branch: null
+  swift: KUVKLT21
+    
+- name: "KREDITO UNIJA ZANAVYKU BANKELIS"
+  city: "SAKIAI"
+  branch: null
+  swift: KRUZLT21
+    
+- name: "LATEKO LIZINGAS, UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: LLUALT21
+    
+- name: "LIETUVOS BANKAS (BANK OF LITHUANIA)"
+  city: "VILNIUS"
+  branch: BANKING SERVICE
+  swift: LIABLT2XMMS
+    
+- name: "LIETUVOS BANKAS (BANK OF LITHUANIA)"
+  city: "VILNIUS"
+  branch: INFORMATION SERVICE
+  swift: LIABLT2XSNO
+    
+- name: "LIETUVOS BANKAS (BANK OF LITHUANIA)"
+  city: "VILNIUS"
+  branch: PAYMENT SYSTEMS DEPARTMENT
+  swift: LIABLT2XMSD
+    
+- name: "LIETUVOS BANKAS (BANK OF LITHUANIA)"
+  city: "VILNIUS"
+  branch: TARGET2 CONTINGENCY
+  swift: LIABLT2XCON
+    
+- name: "LIETUVOS BANKAS (BANK OF LITHUANIA)"
+  city: "VILNIUS"
+  branch: null
+  swift: LIABLT2X
+    
+- name: "LIETUVOS BANKAS (BANK OF LITHUANIA)"
+  city: "VILNIUS"
+  branch: null
+  swift: LIABLT2XPAY
+    
+- name: "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)"
+  city: "VILNIUS"
+  branch: PM
+  swift: CSDLLT22RTG
+    
+- name: "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)"
+  city: "VILNIUS"
+  branch: null
+  swift: CSDLLT22
+    
+- name: "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)"
+  city: "VILNIUS"
+  branch: null
+  swift: CSDLLT22577
+    
+- name: "LITHUANIAN CENTRAL CREDIT UNION"
+  city: "KAUNAS"
+  branch: null
+  swift: LCKULT22
+    
+- name: "LTL KREDITO UNIJA"
+  city: "VILNIUS"
+  branch: null
+  swift: LTKULT21
+    
+- name: "LUMINOR BANK AB (FORMER AB DNB BANKAS LITHUANIA)"
+  city: "VILNIUS"
+  branch: FOR MINIMUM RESERVES AT CENTRAL BANK
+  swift: AGBLLT2XTGT
+    
+- name: "LUMINOR BANK AB (FORMER AB DNB BANKAS LITHUANIA)"
+  city: "VILNIUS"
+  branch: null
+  swift: AGBLLT2X
+    
+- name: "LUMINOR BANK AB (FORMER NORDEA BANK AB LITHUANIA)"
+  city: "VILNIUS"
+  branch: null
+  swift: NDEALT2X
+    
+- name: "MAJESTIC FINANCIAL UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: MAABLT21
+    
+- name: "METASITE BUSINESS SOLUTIONS, UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: MBSULT21
+    
+- name: "MISTERTANGO"
+  city: "VILNIUS"
+  branch: null
+  swift: MIEGLT21
+    
+- name: "MOKILIZINGAS"
+  city: "VILNIUS"
+  branch: null
+  swift: MOKZLT21
+    
+- name: "MOMENT CREDIT"
+  city: "VILNIUS"
+  branch: null
+  swift: MMCRLT21
+    
+- name: "MONETA INTERNATIONAL UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: MOIULT21
+    
+- name: "MP INVESTMENT BANK HF"
+  city: "VILNIUS"
+  branch: null
+  swift: INBHLT21
+    
+- name: "NASDAQ OMX VILNIUS AB"
+  city: "VILNIUS"
+  branch: null
+  swift: XLITLT21
+    
+- name: "NAUGVILDA FMI UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: NAUVLT21
+    
+- name: "OP CORPORATE BANK PLC LITHUANIA BRANCH"
+  city: "VILNIUS"
+  branch: null
+  swift: OKOYLT2X
+    
+- name: "PAREIGUNU KREDITO UNIJA"
+  city: "VILNIUS"
+  branch: null
+  swift: PAKULT21
+    
+- name: "PAYSERA LT UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: EVIULT21
+    
+- name: "PERLO PASLAUGOS"
+  city: "VILNIUS"
+  branch: null
+  swift: PEPGLT21
+    
+- name: "PROVIDENT FINANSAI"
+  city: "VILNIUS"
+  branch: null
+  swift: PRDFLT21
+    
+- name: "RASEINIU KREDITO UNIJA"
+  city: "RASEINIAI"
+  branch: null
+  swift: RAKNLT21
+    
+- name: "RATO KREDITO UNIJA"
+  city: "VILNIUS"
+  branch: null
+  swift: VRKULT21
+    
+- name: "RENTION UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: RNUALT21
+    
+- name: "REVOLUT TECHNOLOGIES UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: RETBLT21
+    
+- name: "SB LIZINGAS"
+  city: "KAUNAS"
+  branch: null
+  swift: LIZGLT21
+    
+- name: "SEB BANK"
+  city: "VILNIUS"
+  branch: null
+  swift: CBVILT2X
+    
+- name: "SEB ENSKILDA UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: SENULT21
+    
+- name: "SEVEN SEAS EUROPE"
+  city: "VILNIUS"
+  branch: null
+  swift: SESOLT21
+    
+- name: "SIA UNICREDIT LEASING LIETUVOS FILIALAS"
+  city: "VILNIUS"
+  branch: null
+  swift: SULLLT21
+    
+- name: "SIAULIU BANKAS AB"
+  city: "SIAULIAI"
+  branch: null
+  swift: CBSBLT26
+    
+- name: "SIAULIU KREDITO UNIJA"
+  city: "VILNIUS"
+  branch: null
+  swift: SIKNLT21
+    
+- name: "SILALES KREDITO UNIJA"
+  city: "SILUTE"
+  branch: null
+  swift: SIKILT21
+    
+- name: "SINKUS FM UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: SIKULT21
+    
+- name: "SOHO GROUP, UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: SORBLT21
+    
+- name: "STATE ENTERPRISE CENTRE OF REGISTERS"
+  city: "VILNIUS"
+  branch: null
+  swift: SNCTLT21
+    
+- name: "STOKKER FINANCE, UAB"
+  city: "KAUNAS"
+  branch: null
+  swift: SFNALT21
+    
+- name: "SVENSKA HANDELSBANKEN AB"
+  city: "VILNIUS"
+  branch: null
+  swift: HANDLT2X
+    
+- name: "SWEDBANK AB"
+  city: "VILNIUS"
+  branch: null
+  swift: HABALT22
+    
+- name: "SWEDBANK INVESTICIJU VALDYMAS UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: ROBRLT21
+    
+- name: "TRUSTCOM FINANCIAL UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: TRFBLT21
+    
+- name: "UAB ALTERNATIVE PAYMENTS"
+  city: "VILNIUS"
+  branch: null
+  swift: UAPYLT21
+    
+- name: "UAB ARGENTUM MOBILE"
+  city: "VILNIUS"
+  branch: null
+  swift: UAAMLT21
+    
+- name: "UAB ARN GROUP"
+  city: "KAUNAS"
+  branch: null
+  swift: ARNPLT21
+    
+- name: "UAB BALTIJOS KREDITO SPRENDIMAI"
+  city: "VILNIUS"
+  branch: null
+  swift: BKSULT21
+    
+- name: "UAB BC FINANCE"
+  city: "KAUNAS"
+  branch: null
+  swift: BCFNLT21
+    
+- name: "UAB BENDRAS FINANSAVIMAS"
+  city: "VILNIUS"
+  branch: null
+  swift: BFSVLT21
+    
+- name: "UAB BLENDER LITHUANIA"
+  city: "VILNIUS"
+  branch: null
+  swift: BLDRLT21
+    
+- name: "UAB CREDIT SERVICE"
+  city: "VILNIUS"
+  branch: null
+  swift: CDSVLT21
+    
+- name: "UAB DEVERE E-MONEY"
+  city: "VILNIUS"
+  branch: null
+  swift: UADELT21
+    
+- name: "UAB FERRATUM FINANCE"
+  city: "VILNIUS"
+  branch: null
+  swift: UAFILT21
+    
+- name: "UAB FINANSU BITE"
+  city: "VILNIUS"
+  branch: null
+  swift: FNBULT21
+    
+- name: "UAB FINTEGENCE"
+  city: "VILNIUS"
+  branch: null
+  swift: UAFNLT21
+    
+- name: "UAB FINVERTA"
+  city: "KAUNAS"
+  branch: null
+  swift: FNVTLT21
+    
+- name: "UAB FM BALTIJOS VERTYBLNLAI POPLERLAI"
+  city: "VILNIUS"
+  branch: null
+  swift: BVPPLT21
+    
+- name: "UAB FM FINBALTUS"
+  city: "VILNIUS"
+  branch: null
+  swift: FNBTLT21
+    
+- name: "UAB FM INTERNATIONAL MARKET"
+  city: "VILNIUS"
+  branch: null
+  swift: INLTLT21
+    
+- name: "UAB FM TECHNOLOGIJU VALDYMO"
+  city: "KAUNAS"
+  branch: null
+  swift: TEVALT21
+    
+- name: "UAB FMI FINVESTA"
+  city: "VILNIUS"
+  branch: null
+  swift: UAFFLT22
+    
+- name: "UAB FMI JUS TARPININKAS"
+  city: "KAUNAS"
+  branch: null
+  swift: UABFLT21
+    
+- name: "UAB FMI SPEKONIS IR GASTONAS"
+  city: "VILNIUS"
+  branch: null
+  swift: SPEKLT21
+    
+- name: "UAB FMI ZABOLIS IR PARTNERIAI"
+  city: "VILNIUS"
+  branch: null
+  swift: UFZPLT21
+    
+- name: "UAB G4S LIETUVA"
+  city: "VILNIUS"
+  branch: null
+  swift: GFSLLT21
+    
+- name: "UAB GLOBEBILL LITHUANIA"
+  city: "VILNIUS"
+  branch: null
+  swift: UAGLLT21
+    
+- name: "UAB HST KOMUNIKACIJOS"
+  city: "KAUNAS"
+  branch: null
+  swift: HSTKLT21
+    
+- name: "UAB INSTAREM EU"
+  city: "VILNIUS"
+  branch: null
+  swift: UAINLT21
+    
+- name: "UAB INVL ASSET MANAGEMENT"
+  city: "VILNIUS"
+  branch: null
+  swift: UIAMLT21
+    
+- name: "UAB KATALOGAS"
+  city: "KAUNAS"
+  branch: null
+  swift: UAKALT21
+    
+- name: "UAB KUBIS"
+  city: "VILNIUS"
+  branch: null
+  swift: UKUBLT21
+    
+- name: "UAB LITKREDITAS"
+  city: "VILNIUS"
+  branch: null
+  swift: LKDTLT21
+    
+- name: "UAB LSV INTERGROUP"
+  city: "KAUNAS"
+  branch: null
+  swift: LSVILT21
+    
+- name: "UAB MEDICINOS BANKAS"
+  city: "VILNIUS"
+  branch: null
+  swift: MDBALT22
+    
+- name: "UAB MINIBANK"
+  city: "KLAIPEDA"
+  branch: null
+  swift: MNBNLT21
+    
+- name: "UAB MOBILUS MOKEJIMAI"
+  city: "VILNIUS"
+  branch: null
+  swift: UAMMLT21
+    
+- name: "UAB MOGO LT"
+  city: "VILNIUS"
+  branch: null
+  swift: MOGOLT21
+    
+- name: "UAB MYRIAD CAPITAL"
+  city: "VILNIUS"
+  branch: null
+  swift: UAMALT21
+    
+- name: "UAB NEO FINANCE"
+  city: "VILNIUS"
+  branch: null
+  swift: UANFLT21
+    
+- name: "UAB NORDEA FINANCE LITHUANIA"
+  city: "VILNIUS"
+  branch: null
+  swift: NFLBLT21
+    
+- name: "UAB NORDECUM"
+  city: "VILNIUS"
+  branch: null
+  swift: NODCLT21
+    
+- name: "UAB PASKOLU GARANTAS"
+  city: "KLAIPEDA"
+  branch: null
+  swift: PKGRLT21
+    
+- name: "UAB PERVESK"
+  city: "SIAULIAI"
+  branch: null
+  swift: UAPELT21
+    
+- name: "UAB POLENERA"
+  city: "VILNIUS"
+  branch: null
+  swift: UAPOLT21
+    
+- name: "UAB PRO INVEST GROUP"
+  city: "KAUNAS"
+  branch: null
+  swift: PNGPLT21
+    
+- name: "UAB PROCENTAS"
+  city: "KAUNAS"
+  branch: null
+  swift: UAPRLT21
+    
+- name: "UAB PYRROS LITHUANIA"
+  city: "VILNIUS"
+  branch: null
+  swift: UAPLLT21
+    
+- name: "UAB SIGIRE"
+  city: "KAUNAS"
+  branch: null
+  swift: SGRULT21
+    
+- name: "UAB SOSTINES KREDITAI"
+  city: "VILNIUS"
+  branch: null
+  swift: STKDLT21
+    
+- name: "UAB SUTELKTINIS FINANSAVIMAS"
+  city: "VILNIUS"
+  branch: null
+  swift: UASFLT21
+    
+- name: "UAB ZEROSUM LEASING"
+  city: "VILNIUS"
+  branch: null
+  swift: UAZLLT21
+    
+- name: "VERIFIED PAYMENTS"
+  city: "VILNIUS"
+  branch: null
+  swift: VEPALT21
+    
+- name: "VIA PAYMENTS UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: VIPULT21
+    
+- name: "VILAVISKIO KREDITO UNIJA"
+  city: "VILKAVISKIS"
+  branch: null
+  swift: VIKILT21
+    
+- name: "VILNIAUS KREDITO UNIJA"
+  city: "VILNIUS"
+  branch: null
+  swift: VIKULT21
+    
+- name: "VIVUM FMI UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: VIVULT21
+    
+- name: "WB21 UAB"
+  city: "VILNIUS"
+  branch: null
+  swift: UABULT21
+    

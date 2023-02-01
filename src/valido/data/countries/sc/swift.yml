@@ -1,0 +1,75 @@
+- name: "AL SALAM BANK SEYCHELLES LIMITED"
+  city: "PROVIDENCE MAHE"
+  branch: null
+  swift: BMUSSCSC
+    
+- name: "BANK AL HABIB LIMITED"
+  city: "VICTORIA"
+  branch: null
+  swift: BAHLSCSC
+    
+- name: "BANK OF BARODA"
+  city: "VICTORIA"
+  branch: null
+  swift: BARBSCSC
+    
+- name: "BANK OF CEYLON, SEYCHELLES BRANCH"
+  city: "VICTORIA"
+  branch: null
+  swift: BCEYSCSC
+    
+- name: "BARCLAYS BANK (SEYCHELLES) LTD"
+  city: "VICTORIA"
+  branch: null
+  swift: BARCSCSC
+    
+- name: "BARONS DE EZE LIMITED"
+  city: "VICTORIA"
+  branch: null
+  swift: BAEZSCS1
+    
+- name: "CENTRAL BANK OF SEYCHELLES"
+  city: "VICTORIA"
+  branch: null
+  swift: SSCBSCSC
+    
+- name: "HABIB BANK LIMITED"
+  city: "VICTORIA"
+  branch: null
+  swift: HABBSCSC
+    
+- name: "MAGNATE PREMIER PRIVATE BANK LIMITED"
+  city: "VICTORIA"
+  branch: null
+  swift: MARVSCS1
+    
+- name: "MCB SEYCHELLES"
+  city: "VICTORIA"
+  branch: null
+  swift: MCBLSCSC
+    
+- name: "MILS CORP LIMITED"
+  city: "PROVIDENCE MAHE"
+  branch: null
+  swift: MLLSSCS1
+    
+- name: "NOUVOBANQ"
+  city: "VICTORIA"
+  branch: null
+  swift: NOVHSCSC
+    
+- name: "RM INTERNATIONAL HOLDINGS AG"
+  city: "PROVIDENCE MAHE"
+  branch: null
+  swift: INHLSCS1
+    
+- name: "SBM BANK (SEYCHELLES) LIMITED."
+  city: "VICTORIA"
+  branch: null
+  swift: STCBSCSC
+    
+- name: "SEYCHELLES COMMERCIAL BANK"
+  city: "VICTORIA"
+  branch: null
+  swift: SEYSSCSC
+    

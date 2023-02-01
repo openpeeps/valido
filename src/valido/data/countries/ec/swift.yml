@@ -1,0 +1,3060 @@
+- name: "AMERICORP INTERMEDIARIA FINANCIERA S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: AMIFECE1
+    
+- name: "ANALYTICA INVESTMENTS"
+  city: "QUITO"
+  branch: null
+  swift: IVTTECE1
+    
+- name: "ASOCIACION DE BANCOS PRIVADOS DEL ECUADOR"
+  city: "QUITO"
+  branch: null
+  swift: ABPCECE1
+    
+- name: "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA PICHINCHA"
+  city: "QUITO"
+  branch: null
+  swift: MUPIECEQ
+    
+- name: "BANCO AMAZONAS S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: BASAECEG
+    
+- name: "BANCO AMAZONAS S.A."
+  city: "QUITO"
+  branch: null
+  swift: BACZECE1
+    
+- name: "BANCO BOLIVARIANO C.A."
+  city: "GUAYAQUIL"
+  branch: MATRIZ
+  swift: BBOLECEG100
+    
+- name: "BANCO BOLIVARIANO C.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: BBOLECEG
+    
+- name: "BANCO CAJA DE CREDITO AGRICOLA Y GANADERO S.A."
+  city: "QUITO"
+  branch: null
+  swift: EGGAECE1
+    
+- name: "BANCO CAPITAL S.A"
+  city: "QUITO"
+  branch: null
+  swift: BCAPECQ1
+    
+- name: "BANCO CENTRAL DEL ECUADOR"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: BCENECEQ120
+    
+- name: "BANCO CENTRAL DEL ECUADOR"
+  city: "QUITO"
+  branch: null
+  swift: BCENECEQ
+    
+- name: "BANCO CENTRAL DEL ECUADOR"
+  city: "QUITO"
+  branch: null
+  swift: BCENECEQ100
+    
+- name: "BANCO COFIEC C.A."
+  city: "AMBATO"
+  branch: null
+  swift: COFBECE1AMB
+    
+- name: "BANCO COFIEC C.A."
+  city: "CUENCA"
+  branch: null
+  swift: COFBECE1CUE
+    
+- name: "BANCO COFIEC C.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: COFBECE1GYE
+    
+- name: "BANCO COFIEC C.A."
+  city: "QUITO"
+  branch: null
+  swift: COFBECE1
+    
+- name: "BANCO COFIEC C.A."
+  city: "QUITO"
+  branch: null
+  swift: COFBECU1
+    
+- name: "BANCO COMERCIAL DE MANABI S.A."
+  city: "PORTOVIEJO"
+  branch: null
+  swift: CBMIECE1
+    
+- name: "BANCO COOPNACIONAL S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: CPOCECE1
+    
+- name: "BANCO DE GUAYAQUIL"
+  city: "CUENCA"
+  branch: COMERCIO EXTERIOR REGION SUR
+  swift: GUAYECEG305
+    
+- name: "BANCO DE GUAYAQUIL"
+  city: "CUENCA"
+  branch: SUCURSAL CUENCA
+  swift: GUAYECEG300
+    
+- name: "BANCO DE GUAYAQUIL"
+  city: "GUAYAQUIL"
+  branch: COMERCIO EXTERIOR REGION CENTRO
+  swift: GUAYECEG105
+    
+- name: "BANCO DE GUAYAQUIL"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: GUAYECEG
+    
+- name: "BANCO DE GUAYAQUIL"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: GUAYECEG100
+    
+- name: "BANCO DE GUAYAQUIL"
+  city: "QUITO"
+  branch: COMERCIO EXTERIOR REGION NORTE
+  swift: GUAYECEG505
+    
+- name: "BANCO DE GUAYAQUIL"
+  city: "QUITO"
+  branch: SUCURSAL QUITO
+  swift: GUAYECEG500
+    
+- name: "BANCO DE LA PRODUCCION S.A. PRODUBANCO"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: PRODECEQ100
+    
+- name: "BANCO DE LA PRODUCCION S.A. PRODUBANCO"
+  city: "QUITO"
+  branch: null
+  swift: PRODECEQ
+    
+- name: "BANCO DE LOJA"
+  city: "LOJA"
+  branch: null
+  swift: LOJBECEL
+    
+- name: "BANCO DE MACHALA, C.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: BMACECEG
+    
+- name: "BANCO DE MACHALA, C.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: BMACECEG0EG
+    
+- name: "BANCO DE MACHALA, C.A."
+  city: "NARANJAL"
+  branch: null
+  swift: BMACECEG0E4
+    
+- name: "BANCO DE MACHALA, C.A."
+  city: "PASAJE"
+  branch: null
+  swift: BMACECEG0E5
+    
+- name: "BANCO DE MACHALA, C.A."
+  city: "PINAS"
+  branch: null
+  swift: BMACECEG0E3
+    
+- name: "BANCO DE MACHALA, C.A."
+  city: "QUEVEDO"
+  branch: null
+  swift: BMACECEG0E8
+    
+- name: "BANCO DE MACHALA, C.A."
+  city: "SANTA ROSA"
+  branch: null
+  swift: BMACECEG0E7
+    
+- name: "BANCO DE MACHALA, C.A."
+  city: "ZARUMA"
+  branch: null
+  swift: BMACECEG0E6
+    
+- name: "BANCO DEL AUSTRO S.A."
+  city: "CUENCA"
+  branch: COMERCIO EXTERIOR
+  swift: AUSTECEQ305
+    
+- name: "BANCO DEL AUSTRO S.A."
+  city: "CUENCA"
+  branch: SERVICIOS BANCARIOS
+  swift: AUSTECEQ310
+    
+- name: "BANCO DEL AUSTRO S.A."
+  city: "CUENCA"
+  branch: TRESORIA
+  swift: AUSTECEQ315
+    
+- name: "BANCO DEL AUSTRO S.A."
+  city: "CUENCA"
+  branch: null
+  swift: AUSTECEQ
+    
+- name: "BANCO DEL AUSTRO S.A."
+  city: "GUAYAQUIL"
+  branch: SUCURSAL GUAYAQUIL
+  swift: AUSTECEQ100
+    
+- name: "BANCO DEL AUSTRO S.A."
+  city: "QUITO"
+  branch: SUCURSAL QUITO
+  swift: AUSTECEQ500
+    
+- name: "BANCO DEL AZUAY"
+  city: "CUENCA"
+  branch: null
+  swift: BAAZECE1
+    
+- name: "BANCO DEL AZUAY"
+  city: "QUITO"
+  branch: null
+  swift: BAAZECE10EQ
+    
+- name: "BANCO DEL LITORAL S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: LITBECE1
+    
+- name: "BANCO DEL PACIFICO"
+  city: "AMBATO"
+  branch: null
+  swift: PACIECEG400
+    
+- name: "BANCO DEL PACIFICO"
+  city: "CUENCA"
+  branch: null
+  swift: PACIECEG300
+    
+- name: "BANCO DEL PACIFICO"
+  city: "GUAYAQUIL"
+  branch: HEAD OFFICE
+  swift: PACIECEG
+    
+- name: "BANCO DEL PACIFICO"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: PACIECEG100
+    
+- name: "BANCO DEL PACIFICO"
+  city: "IBARRA"
+  branch: null
+  swift: PACIECEGIBA
+    
+- name: "BANCO DEL PACIFICO"
+  city: "LA LIBERTAD"
+  branch: null
+  swift: PACIECEG110
+    
+- name: "BANCO DEL PACIFICO"
+  city: "MACHALA"
+  branch: null
+  swift: PACIECEG200
+    
+- name: "BANCO DEL PACIFICO"
+  city: "MANTA"
+  branch: null
+  swift: PACIECEG600
+    
+- name: "BANCO DEL PACIFICO"
+  city: "PORTOVIEJO"
+  branch: null
+  swift: PACIECEG640
+    
+- name: "BANCO DEL PACIFICO"
+  city: "QUITO"
+  branch: null
+  swift: PACIECEG500
+    
+- name: "BANCO DEL PACIFICO"
+  city: "RIOBAMBA"
+  branch: null
+  swift: PACIECEG350
+    
+- name: "BANCO DEL PACIFICO"
+  city: "SANTA CRUZ"
+  branch: GALAPAGOS
+  swift: PACIECEG871
+    
+- name: "BANCO DEL PACIFICO"
+  city: "SANTO DOMINGO"
+  branch: null
+  swift: PACIECEG510
+    
+- name: "BANCO DEL TUNGURAHUA S.A."
+  city: "GUAYAQUIL"
+  branch: HEAD OFFICE AND ALL BRANCHES
+  swift: BATUECE1
+    
+- name: "BANCO DELBANK S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: DEBNECE1
+    
+- name: "BANCO DESARROLLO DE LOS PUEBLOS S.A."
+  city: "MARCABELI"
+  branch: MARCABELI BRANCH
+  swift: CODSECEQ001
+    
+- name: "BANCO DESARROLLO DE LOS PUEBLOS S.A."
+  city: "QUITO"
+  branch: null
+  swift: CODSECEQ
+    
+- name: "BANCO D-MIRO S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: DMIRECE1
+    
+- name: "BANCO FINANCORP S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: BACFECE1
+    
+- name: "BANCO FINCA S.A."
+  city: "QUITO"
+  branch: null
+  swift: FCNCECE1
+    
+- name: "BANCO GENERAL RUMINAHUI S.A."
+  city: "GUAYAQUIL"
+  branch: GUAYAQUIL BRANCH
+  swift: BGRMECEQ100
+    
+- name: "BANCO GENERAL RUMINAHUI S.A."
+  city: "MACHALA"
+  branch: MACHALA BRANCH
+  swift: BGRMECEQ200
+    
+- name: "BANCO GENERAL RUMINAHUI S.A."
+  city: "QUITO"
+  branch: CASH MANAGEMENT
+  swift: BGRMECEQ505
+    
+- name: "BANCO GENERAL RUMINAHUI S.A."
+  city: "QUITO"
+  branch: null
+  swift: BGRMECEQ
+    
+- name: "BANCO INTERNACIONAL S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: BINTECEQ100
+    
+- name: "BANCO INTERNACIONAL S.A."
+  city: "QUITO"
+  branch: HEAD OFFICE AND ALL BRANCHES
+  swift: BINTECEQ
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "AMBATO"
+  branch: null
+  swift: PICHECEQ400
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "AZOGUES"
+  branch: AZOGUES BRANCH
+  swift: PICHECEQ450
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "CUENCA"
+  branch: BRANCH 304
+  swift: PICHECEQ304
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "CUENCA"
+  branch: BRANCH 306
+  swift: PICHECEQ306
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "CUENCA"
+  branch: BRANCH 307
+  swift: PICHECEQ307
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "CUENCA"
+  branch: INTERNATIONAL OPERATIONS
+  swift: PICHECEQ302
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "CUENCA"
+  branch: MONEY TRANSFER
+  swift: PICHECEQ305
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "CUENCA"
+  branch: null
+  swift: PICHECEQ300
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "ESMERALDAS"
+  branch: null
+  swift: PICHECEQ700
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUARANDA"
+  branch: GUARANDA BRANCH
+  swift: PICHECEQ370
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG. ALBAN BORJA
+  swift: PICHECEQ112
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG. ALBORADA
+  swift: PICHECEQ111
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG. CENTENARIO SUR
+  swift: PICHECEQ107
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG. CENTENARIO
+  swift: PICHECEQ110
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG. CENTRO
+  swift: PICHECEQ108
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG. LA LIBERTAD
+  swift: PICHECEQ106
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG. MALL DEL SOL
+  swift: PICHECEQ113
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG. URDESA
+  swift: PICHECEQ114
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG.
+  swift: PICHECEQ101
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG.
+  swift: PICHECEQ115
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG.
+  swift: PICHECEQ116
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG.
+  swift: PICHECEQ117
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: AG.POLICENTRO
+  swift: PICHECEQ118
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: BRANCH 119
+  swift: PICHECEQ119
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: BRANCH 120
+  swift: PICHECEQ120
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: BRANCH 121
+  swift: PICHECEQ121
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: DOMESTIC OPERATIONS
+  swift: PICHECEQ103
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: INTERNATIONAL OPERATIONS
+  swift: PICHECEQ102
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: MONEY TRANSFER
+  swift: PICHECEQ105
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: TREASURY AND SECURITIES OPERATIONS
+  swift: PICHECEQ104
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: PICHECEQ100
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "IBARRA"
+  branch: IBARRA BRANCH
+  swift: PICHECEQ250
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "LATACUNGA"
+  branch: LATACUNGA BRANCH
+  swift: PICHECEQ270
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "MACHALA"
+  branch: null
+  swift: PICHECEQ200
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "MANTA"
+  branch: MONEY TRANSFER DEPT.
+  swift: PICHECEQ605
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "MANTA"
+  branch: null
+  swift: PICHECEQ600
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "OTAVALO"
+  branch: OTAVALO BRANCH
+  swift: PICHECEQ253
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "PORTOVIEJO"
+  branch: null
+  swift: PICHECEQ610
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUEVEDO"
+  branch: QUEVEDO BRANCH
+  swift: PICHECEQ804
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. AMAZONAS
+  swift: PICHECEQ511
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. AV. PORTUGAL
+  swift: PICHECEQ514
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. C.C.INAQUITO
+  swift: PICHECEQ519
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. CARONDELET
+  swift: PICHECEQ517
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. CUMBAYA
+  swift: PICHECEQ523
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. EL BOSQUE
+  swift: PICHECEQ516
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. EL DORADO
+  swift: PICHECEQ109
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. EL INCA
+  swift: PICHECEQ520
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. GONZALEZ SUAREZ
+  swift: PICHECEQ521
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. INAQUITO
+  swift: PICHECEQ515
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. LA REPUBLICA
+  swift: PICHECEQ513
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. PLAZA GRANDE
+  swift: PICHECEQ510
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. QUICENTRO
+  swift: PICHECEQ518
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG. VILLAFLORA
+  swift: PICHECEQ522
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ525
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ526
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ527
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ528
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ529
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ530
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ531
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ532
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ533
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ534
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ535
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ536
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.
+  swift: PICHECEQ552
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: AG.ELOY ALFARO
+  swift: PICHECEQ524
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: BRANCH 537
+  swift: PICHECEQ537
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: BRANCH 538
+  swift: PICHECEQ538
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: BRANCH 539
+  swift: PICHECEQ539
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: BRANCH 540
+  swift: PICHECEQ540
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: BRANCH 541
+  swift: PICHECEQ541
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: DOMESTIC OPERATIONS
+  swift: PICHECEQ503
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: HEAD INTERNATIONAL DIVISION
+  swift: PICHECEQ502
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: HEAD OFFICE
+  swift: PICHECEQ
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: INTERNATIONAL CORRESPONDENTS
+  swift: PICHECEQ509
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: LOAN AND CREDITS
+  swift: PICHECEQ500
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: MONEY TRANSFER DEPARTMENT
+  swift: PICHECEQ505
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: RECONCILIATION
+  swift: PICHECEQ508
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: SUC. EL VALLE
+  swift: PICHECEQ551
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: SUC.NORTE
+  swift: PICHECEQ512
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: TREASURY AND SECURITIES OPERATIONS
+  swift: PICHECEQ504
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: null
+  swift: PICHECEQ501
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: null
+  swift: PICHECEQ506
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "QUITO"
+  branch: null
+  swift: PICHECEQ507
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "RIOBAMBA"
+  branch: RIOBAMBA BRANCH
+  swift: PICHECEQ350
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "SANTO DOMINGO"
+  branch: null
+  swift: PICHECEQ550
+    
+- name: "BANCO PICHINCHA C.A."
+  city: "TULCAN"
+  branch: TULCAN BRANCH
+  swift: PICHECEQ900
+    
+- name: "BANCO PROCREDIT S.A."
+  city: "QUITO"
+  branch: null
+  swift: ALFLECE1
+    
+- name: "BANCO PROCREDIT S.A."
+  city: "QUITO"
+  branch: null
+  swift: PRCBECEQ
+    
+- name: "BANCO SOLIDARIO S.A."
+  city: "QUITO"
+  branch: null
+  swift: BSGEECEQ
+    
+- name: "BANCO SUDAMERICANO S.A."
+  city: "QUITO"
+  branch: null
+  swift: BKSOECE1
+    
+- name: "BANCO UNIVERSAL, S.A. UNIBANCO"
+  city: "QUITO"
+  branch: null
+  swift: BUNIECE1
+    
+- name: "BANICREDIT INTERMEDIARIA FINANCIERA S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: BAIFECE1
+    
+- name: "BANRED"
+  city: "QUITO"
+  branch: null
+  swift: BNNRECE1
+    
+- name: "CAJA CENTRAL FINANCOOP"
+  city: "QUITO"
+  branch: null
+  swift: CJCFECE1
+    
+- name: "CAJA DE AHORRO Y CREDITO EL INGENIO"
+  city: "LOJA"
+  branch: null
+  swift: AACGECE1
+    
+- name: "CAJA DE AHORRO Y CREDITO EL MANIZAL"
+  city: "PALTAS"
+  branch: null
+  swift: CHTZECE1
+    
+- name: "CAJA DE AHORRO Y CREDITO FRANCISCA CHIGUA"
+  city: "ESPINDOLA"
+  branch: null
+  swift: AARFECE1
+    
+- name: "CAJA DE AHORRO Y CREDITO FRONTERA SUR"
+  city: "GONZANAMA"
+  branch: null
+  swift: AAROECE1
+    
+- name: "CAJA DE AHORRO Y CREDITO JUVENTUD Y DESARROLLO"
+  city: "AMBATO"
+  branch: null
+  swift: CHIZECE1
+    
+- name: "CAJA DE AHORRO Y CREDITO MANU"
+  city: "SARAGURO"
+  branch: null
+  swift: AACUECE1
+    
+- name: "CAJA DE AHORRO Y CREDITO NUESTRA SENORA DE LA MERCED"
+  city: "OLMEDO"
+  branch: null
+  swift: AACRECE1
+    
+- name: "CAJA DE AHORRO Y CREDITO ORIENTE"
+  city: "EL COCA"
+  branch: null
+  swift: AARRECE1
+    
+- name: "CAJA DE AHORRO Y CREDITO SAN FRANCISCO"
+  city: "GONZANAMA"
+  branch: null
+  swift: AARNECE1
+    
+- name: "CAJA DE AHORRO Y CREDITO ZHONDELEG"
+  city: "CHORDELEG"
+  branch: null
+  swift: CHOZECE1
+    
+- name: "CAJA DE CREDITO DESARROLLO"
+  city: "AMBATO"
+  branch: null
+  swift: CJCDECE1
+    
+- name: "CAJA SOLIDARIA CHIQUICHA"
+  city: "PELILEO"
+  branch: null
+  swift: CSOCECE1
+    
+- name: "CAJA SOLIDARIA DE AHORRO Y CREDITO CORDTUCH"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CSADECE1
+    
+- name: "CAJA SOLIDARIA ESTRELLA DEL MUNDO"
+  city: "AMBATO"
+  branch: null
+  swift: CSEMECE1
+    
+- name: "CAJA SOLIDARIA JATUN NAN"
+  city: "PELILEO"
+  branch: null
+  swift: CSJNECE1
+    
+- name: "CAJA SOLIDARIA PASA"
+  city: "AMBATO"
+  branch: null
+  swift: CJSPECE1
+    
+- name: "CAJA SOLIDARIA WARMIKUNA KAWSAY"
+  city: "SALASACA"
+  branch: null
+  swift: CSWKECE1
+    
+- name: "CASA DE VALORES MULTIVALORES B.G. S.A."
+  city: "QUITO"
+  branch: null
+  swift: CVMUECE1
+    
+- name: "CITIBANK, N.A."
+  city: "AMBATO"
+  branch: null
+  swift: CITIECE10EA
+    
+- name: "CITIBANK, N.A."
+  city: "CUENCA"
+  branch: null
+  swift: CITIECE10E2
+    
+- name: "CITIBANK, N.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: CITIECE10EG
+    
+- name: "CITIBANK, N.A."
+  city: "QUITO"
+  branch: null
+  swift: CITIECE1
+    
+- name: "CODECA INTERMEDIARIA FINANCIERA S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: COIFECE1
+    
+- name: "COOP DE AHORRO Y CREDITO DE LA CORP DE ORG. CAMPESINAS INDIGENAS DE QUISAPINCHA COCIQ"
+  city: "AMBATO"
+  branch: null
+  swift: OAIOECE1
+    
+- name: "COOP DE AHORRO Y CREDITO DE LA ESCUELA SUP POLITECNICA AGROPECUARI DE MANABI MANUEL FELIZ LOPEZ"
+  city: "CALCETA"
+  branch: null
+  swift: OADUECE1
+    
+- name: "COOPERATIVA AHORRO Y CREDITO AFRO ECUATORIANA DE LA PEQUENA EMPRESA LTDA CACAEPE"
+  city: "ESMERALDAS"
+  branch: null
+  swift: OADFECE1
+    
+- name: "COOPERATIVA AHORRO Y CREDITO UNION EL EJIDO"
+  city: "COTACACHI"
+  branch: null
+  swift: OAEIECE1
+    
+- name: "COOPERATIVA DE  AHORRO Y CREDITO PADRE JULIAN LORENTE LTDA"
+  city: "LOJA"
+  branch: null
+  swift: CHRPECE1
+    
+- name: "COOPERATIVA DE AHORRO CREDITO ERCO LTDA"
+  city: "CUENCA"
+  branch: null
+  swift: CEORECE1
+    
+- name: "COOPERATIVA DE AHORRO CREDITO Y FINANCIERA INDIGENA DEL ECUADOR"
+  city: "QUITO"
+  branch: null
+  swift: CHOFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CACPECO LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: CCPCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 1 DE JULIO"
+  city: "AMBATO"
+  branch: null
+  swift: CORJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 13 DE ABRIL"
+  city: "VENTANAS"
+  branch: null
+  swift: OATBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 15 DE ABRIL LTDA"
+  city: "PORTOVIEJO"
+  branch: null
+  swift: CHDRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 15 DE AGOSTO DE PILACOTO"
+  city: "LATACUNGA"
+  branch: null
+  swift: CDRGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 15 DE DICIEMBRE"
+  city: "AMBATO"
+  branch: null
+  swift: OARBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 15 DE MAYO"
+  city: "AMBATO"
+  branch: null
+  swift: CAOYECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 16 DE JUNIO"
+  city: "MACHALA"
+  branch: null
+  swift: CHCJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 20 DE FEBRERO LTDA."
+  city: "QUITO"
+  branch: null
+  swift: CHOBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 21 DE NOVIEMBRE LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CRTVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 22 DE JUNIO"
+  city: "PALTAS"
+  branch: null
+  swift: CHOJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 23 DE ENERO"
+  city: "PUYANGO"
+  branch: null
+  swift: OHREECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 23 DE JULIO LTDA"
+  city: "CAYAMBE"
+  branch: null
+  swift: CACJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 23 DE MAYO LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CHCYECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 26 DE SEPTIEMBRE LAZARO CONDO"
+  city: "CHUNCHI"
+  branch: null
+  swift: OHCEECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 27 DE ABRIL"
+  city: "LOJA"
+  branch: null
+  swift: OATAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 29 DE AGOSTO"
+  city: "QUITO"
+  branch: null
+  swift: OHEAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 29 DE ENERO"
+  city: "LOJA"
+  branch: null
+  swift: OHEEECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO '29 DE OCTUBRE' LTDA"
+  city: "CUENCA"
+  branch: AGENCIA CUENCA
+  swift: COOCECE1320
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO '29 DE OCTUBRE' LTDA"
+  city: "GUAYAQUIL"
+  branch: AGENCIA GUAYAQUIL
+  swift: COOCECE1203
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO '29 DE OCTUBRE' LTDA"
+  city: "IBARRA"
+  branch: AGENCIA IBARRA
+  swift: COOCECE1528
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO '29 DE OCTUBRE' LTDA"
+  city: "LOJA"
+  branch: AGENCIA LOJA
+  swift: COOCECE1305
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO '29 DE OCTUBRE' LTDA"
+  city: "QUITO"
+  branch: AGENCIA PRINCIPAL QUITO
+  swift: COOCECE1101
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO '29 DE OCTUBRE' LTDA"
+  city: "QUITO"
+  branch: null
+  swift: COOCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 4 DE OCTUBRE"
+  city: "PENIPE"
+  branch: null
+  swift: CEOCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 4 DE OCTUBRE SAN FRANCISCO DE CHAMBO"
+  city: "CHAMBO"
+  branch: null
+  swift: OAOBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO 9 DE OCTUBRE LTDA"
+  city: "SALCEDO"
+  branch: null
+  swift: CHDTECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ABDON CALDERON    LTDA"
+  city: "PORTOVIEJO"
+  branch: null
+  swift: OACBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ACCION IMBABURAPAK LTDA."
+  city: "OTAVALO"
+  branch: null
+  swift: CPHCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ACCION RURAL LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CDAIECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ACCION TUNGURAHUA LTDA."
+  city: "AMBATO"
+  branch: null
+  swift: OAEAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ACCION Y DESARROLLO LTDA"
+  city: "GUAMOTE"
+  branch: null
+  swift: CCDRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO AGRARIA MUSHUK KAWSAY LTDA"
+  city: "FRANCISCO DE ORELLANA"
+  branch: null
+  swift: CAMWECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO AGRICOLA JUNIN"
+  city: "JUNIN"
+  branch: null
+  swift: OACRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO AGRO PRODUCTIVA MANABI LTDA"
+  city: "PORTOVIEJO"
+  branch: null
+  swift: OAEGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO AGUILAS DE CRISTO"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: OHCGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ALFONSO JARAMILLO LEON C.C.C"
+  city: "CUENCA"
+  branch: null
+  swift: CFJLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ALIANZA DEL VALLE LTDA"
+  city: "AMAGUANA"
+  branch: null
+  swift: CAEZECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ALIANZA MINAS LTDA"
+  city: "SAN JOSE DE MINAS"
+  branch: null
+  swift: CAZMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ALLI TARPUC"
+  city: "RIOBAMBA"
+  branch: null
+  swift: OAILECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO AMAZONAS LTDA"
+  city: "PUYO"
+  branch: null
+  swift: CCAZECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO AMBATO LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CDCAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ANDALUCIA LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CHEDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ANDINA LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: CEADECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ANTORCHA LTDA."
+  city: "ESMERALDAS"
+  branch: null
+  swift: OARHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ARTESANOS LTDA"
+  city: "IBARRA"
+  branch: null
+  swift: CDASECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ATUNTAQUI LTDA"
+  city: "ATUNTAQUI"
+  branch: null
+  swift: CATQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO BANOS DE AGUA SANTA LTDA."
+  city: "BANOS"
+  branch: null
+  swift: OHRBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO BANOS LTDA"
+  city: "BANOS"
+  branch: null
+  swift: OHCBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO BARTOLOME"
+  city: "AMBATO"
+  branch: null
+  swift: OAEBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO BASHALAN LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: COOHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO BUENA FE LTDA"
+  city: "BUENA FE"
+  branch: null
+  swift: OAIBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CAC-CICA (MIES)"
+  city: "CUENCA"
+  branch: null
+  swift: OHRIECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CACIQUE GURITAVE"
+  city: "AZOGUES"
+  branch: null
+  swift: CADQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CACPE CELICA"
+  city: "CELICA"
+  branch: null
+  swift: OATPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CACPE MANABI"
+  city: "PORTOVIEJO"
+  branch: null
+  swift: OACPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CALCETA LTDA"
+  city: "CALCETA"
+  branch: null
+  swift: OATEECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CAMARA DE COMERCIO DE AMBATO LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CMCOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CAMARA DE COMERCIO DE LOJA"
+  city: "LOJA"
+  branch: null
+  swift: OHERECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CAMARA DE COMERCIO DE RIOBAMBA LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: OADBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CAMARA DE COMERCIO DEL CANTON BOLIVAR LTDA"
+  city: "BOLIVAR"
+  branch: null
+  swift: OARCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CAMARA DE COMERCIO INDIGENA DE GUAMOTE LTDA"
+  city: "GUAMOTE"
+  branch: null
+  swift: CCRDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CAMARA DE COMERCIO JOYA DE LOS SACHAS LTDA"
+  city: "JOYA DE LOS SACHAS"
+  branch: null
+  swift: OHRMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CAMARA DE COMERCIODE SANTO DOMINGO"
+  city: "SANTO DOMINGO"
+  branch: null
+  swift: OARAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CAMARA DE COMERCIODEL CANTON EL CARMEN LTDA"
+  city: "EL CARMEN"
+  branch: null
+  swift: OAERECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CAMINO DE ORO KURINAN"
+  city: "AMBATO"
+  branch: null
+  swift: CRRKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CANAR LTDA"
+  city: "CANAR"
+  branch: null
+  swift: OADCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CARIAMANGA LTDA"
+  city: "CALVAS"
+  branch: null
+  swift: OARMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CARROCEROS DE TUNGURAHUA"
+  city: "AMBATO"
+  branch: null
+  swift: OATCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CASAG"
+  city: "QUITO"
+  branch: null
+  swift: CHRGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CHIBULEO LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CROHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CHOCO TUNGURAHUA RUNA LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CAIHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CHOLA CUENCANA LTDA."
+  city: "CUENCA"
+  branch: null
+  swift: OAEHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CHONE LTDA"
+  city: "CHONE"
+  branch: null
+  swift: CADHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CIUDAD DE ZAMORA"
+  city: "ZAMORA"
+  branch: null
+  swift: OHRUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO COCA LTDA"
+  city: "FRANCISCO DE ORELLANA"
+  branch: null
+  swift: OAOCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO COLEGIO DE INGENIEROS CIVILES DEL AZUAY C.I.C.A."
+  city: "CUENCA"
+  branch: null
+  swift: OHCCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO COMERCIO LTDA"
+  city: "PORTOVIEJO"
+  branch: null
+  swift: CHRCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CONSTRUCCION COMERCIO Y PRODUCCION LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CHDOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CONSTRUCTOR DEL DESARROLLO SOLIDARIO CODESO LTDA."
+  city: "GUAMOTE"
+  branch: null
+  swift: OHEOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO COOPAC AUSTRO LTDA"
+  city: "CUENCA"
+  branch: null
+  swift: OADPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO COOPARTAMOS LTDA"
+  city: "RUMINAHUI"
+  branch: null
+  swift: OAEPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO COOPINDIGENA LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: OAOOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO COOPROGRESO LTDA."
+  city: "QUITO"
+  branch: null
+  swift: CHCRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO COOPTOPAXI LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: CACXECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CORDILLERA DE LOS ANDES LTDA"
+  city: "QUITO"
+  branch: null
+  swift: OACLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CORPORACION CENTRO LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CHDPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO COTOCOLLAO LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CHDCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CREA LTDA."
+  city: "CUENCA"
+  branch: null
+  swift: OAORECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CRECER WINARI LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: OACCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CRECIENDO JUNTOS LTDA"
+  city: "FRANCISCO DE ORELLANA"
+  branch: null
+  swift: OATDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CREDI FACIL LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: OHCIECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CREDI UNION LTDA"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: OHRRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CREDI YA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: OHECECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CREDIAMIGO LTDA"
+  city: "LOJA"
+  branch: null
+  swift: OAIDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CREDIL LTDA"
+  city: "SALCEDO"
+  branch: null
+  swift: CHDLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CREDISOCIO"
+  city: "SANTO DOMINGO"
+  branch: null
+  swift: OHEDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CREDISUR"
+  city: "QUITO"
+  branch: null
+  swift: OATRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CRISTO REY"
+  city: "LOJA"
+  branch: null
+  swift: CRIYECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO CUNA DE LA NACIONALIDAD LTDA"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: OAICECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE CRECIMIENTO ECONOMICO RENTABLE CRECER LTDA"
+  city: "LOJA"
+  branch: null
+  swift: OHEIECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA CAMARA DE COMERCIO DE CATAMAYO CADECAT LTDA"
+  city: "CATAMAYO"
+  branch: null
+  swift: OHCRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA CAMARA DE COMERCIO DE GONZANAMA"
+  city: "GONZANAMA"
+  branch: null
+  swift: OHRCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA CAMARA DE COMERCIO DE PINDAL CADECOPI"
+  city: "PINDAL"
+  branch: null
+  swift: OAECECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA MICROEMPRESAFORTUNA"
+  city: "LOJA"
+  branch: null
+  swift: OAIPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA BIBLIAN LTDA"
+  city: "BIBLIAN"
+  branch: null
+  swift: CPMBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA CACPE MACARA"
+  city: "LOJA"
+  branch: null
+  swift: CODQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA CACPE YANZATZA LTDA"
+  city: "YANTZAZA"
+  branch: null
+  swift: CAIQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA DE LOJA CACPE LOJA LTDA"
+  city: "LOJA"
+  branch: null
+  swift: CARQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA DE PALORA"
+  city: "PALORA"
+  branch: null
+  swift: CORQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA DE PASTAZA LTDA"
+  city: "PUYO"
+  branch: null
+  swift: CACQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA GUALAQUIZA"
+  city: "GUALAQUIZA"
+  branch: null
+  swift: CPEQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA EMPRESA ZAMORA CHINCHIPE"
+  city: "ZAMORA"
+  branch: null
+  swift: CAOQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LA PEQUENA Y MEDIANA EMPRESA COOPYMEC-MACARA"
+  city: "MACARA"
+  branch: null
+  swift: COCQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LOS PROFESIONALES DEL VOLANTE UNION LTDA"
+  city: "LOJA"
+  branch: null
+  swift: OAIFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS DEL MINISTERIO DE EDUCACION Y CULTURA"
+  city: "QUITO"
+  branch: null
+  swift: OAIVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DE VIVIENDA Y DESARROLLO CASA FACIL LTDA"
+  city: "LOJA"
+  branch: null
+  swift: CHOVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DEL AZUAY"
+  city: "GUALACEO"
+  branch: null
+  swift: CHCZECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO DE ARQUITECTOS DEL AZUAY"
+  city: "CUENCA"
+  branch: null
+  swift: OHELECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO FISCAL EXPERIMENTAL VICENTE ROCAFUERTE"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: OAOLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DEL EMIGRANTE ECUATORIANO Y SU FAMILIA LTDA"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: OAREECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DEL SINDICATO DE CHOFERES PROFESIONALES DE LOJA"
+  city: "LOJA"
+  branch: null
+  swift: OHENECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DEL SINDICATO DE CHOFERES PROFESIONALES DEL AZUAY LTDA"
+  city: "CUENCA"
+  branch: null
+  swift: OADTECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DESARROLLO INTEGRAL"
+  city: "QUITO"
+  branch: null
+  swift: OHCDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DESARROLLO POPULARLTDA"
+  city: "AMBATO"
+  branch: null
+  swift: OAEDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DORADO LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CRODECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO DR CORNELIO SAENZ VERA LTDA"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: OHDCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ECONOMIA DEL SUR ECOSUR"
+  city: "SARAGURO"
+  branch: null
+  swift: OADEECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ECUAFUTURO LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: OAIUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EDUCADORES DE CHIMBORAZO LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CECHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EDUCADORES DE EL ORO LTDA"
+  city: "MACHALA"
+  branch: null
+  swift: OADOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EDUCADORES DE PASTAZA LTDA"
+  city: "PUYO"
+  branch: null
+  swift: OARUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EDUCADORES DE TUNGURAHUA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CETAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EDUCADORES DE ZAMORA CHINCHIPE LTD"
+  city: "ZAMORA"
+  branch: null
+  swift: OADDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EDUCADORES DEL AZUAY"
+  city: "CUENCA"
+  branch: null
+  swift: OHEUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EDUCADORES PRIMARIOS DEL COTOPAXI"
+  city: "LATACUNGA"
+  branch: null
+  swift: OACDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EDUCADORES TULCAN LTDA."
+  city: "TULCAN"
+  branch: null
+  swift: OARDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EL CAFETAL"
+  city: "BABAHOYO"
+  branch: null
+  swift: OHCFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EL CALVARIO LTDA"
+  city: "TISALEO"
+  branch: null
+  swift: OARVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EL COMERCIANTE LTDA"
+  city: "SARAGURO"
+  branch: null
+  swift: OATOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EL DISCAPACITADO"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: CHOOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EL MIGRANTE SOLIDARIO"
+  city: "BIBLIAN"
+  branch: null
+  swift: CHDGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EL PARAISO MANGA DEL CURA"
+  city: "EL CARMEN"
+  branch: null
+  swift: OHEPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EL SAGRARIO LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CHSGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EL TESORO PILLARENO"
+  city: "PILLARO"
+  branch: null
+  swift: OATTECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EL TRANSPORTISTA CACET"
+  city: "QUITO"
+  branch: null
+  swift: OACTECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EMPLEADOS BANCARIOS DE EL ORO LTDA"
+  city: "MACHALA"
+  branch: null
+  swift: OAIEECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO EMPRENDEDORES COOPEMPRENDER LIMITADA"
+  city: "QUITO"
+  branch: null
+  swift: OAEEECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ESCENCIA INDIGENA LTDA"
+  city: "IBARRA"
+  branch: null
+  swift: OACEECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ESFUERZO UNIDO PARA EL DESARROLLO DEL CHILCO LA ESPERANZA LTDA"
+  city: "TISALEO"
+  branch: null
+  swift: CHEZECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ESPERANZA Y PROGRESO DEL VALLE"
+  city: "RUMINAHUI"
+  branch: null
+  swift: CAOZECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FAMILIA AUSTRAL LTDA"
+  city: "AZOGUES"
+  branch: null
+  swift: CFASECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FAMILIA SOLIDARIA"
+  city: "MACHALA"
+  branch: null
+  swift: OHEFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FASAYNAN LTDA"
+  city: "CHORDELEG"
+  branch: null
+  swift: CHRYECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FERNANDO DAQUILEMA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CHCFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FOCAP"
+  city: "LAGO AGRIO"
+  branch: null
+  swift: OHRFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FOCASH LTDA."
+  city: "LAGO AGRIO"
+  branch: null
+  swift: OACHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FOCLA"
+  city: "LAGO AGRIO"
+  branch: null
+  swift: CHDFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FONDO PARA EL DESARROLLO Y LA VIDA FOND VIDA"
+  city: "QUITO"
+  branch: null
+  swift: OHDFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FORTALEZA"
+  city: "SAN MIGUEL DE URCUQUI"
+  branch: null
+  swift: CRRZECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FRANDESC LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CRTFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FUERZA ENTRE NOSOTROS PARA IMPULSAR EL EXITO FENIX"
+  city: "QUITO"
+  branch: null
+  swift: CHDZECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FUNDAR"
+  city: "VINCES"
+  branch: null
+  swift: OARFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FUTURO LAMANENSE"
+  city: "LA MANA"
+  branch: null
+  swift: OHETECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FUTURO Y DESARROLLO FUNDESARROLLO"
+  city: "QUITO"
+  branch: null
+  swift: CHTFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO FUTURO Y PROGRESO DE GALAPAGOS"
+  city: "SANTA CRUZ"
+  branch: null
+  swift: OATFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO GANANSOL LTDA"
+  city: "GUALACEO"
+  branch: null
+  swift: OARGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO GENERAL RUMINAHUI"
+  city: "QUITO"
+  branch: null
+  swift: OAOGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO GENESIS LTDA"
+  city: "IBARRA"
+  branch: null
+  swift: OADGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO GONZANAMA"
+  city: "GONZANAMA"
+  branch: null
+  swift: CHRZECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO GRAMEEN AMAZONAS LTDA"
+  city: "LAGO AGRIO"
+  branch: null
+  swift: OAIRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO GUACHAPALA"
+  city: "GUACHAPALA"
+  branch: null
+  swift: CHTHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO GUAMOTE LTDA"
+  city: "GUAMOTE"
+  branch: null
+  swift: OATMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO GUARANDA LTDA"
+  city: "GUARANDA"
+  branch: null
+  swift: CRGNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO GUARUMAL DEL CENTRO LTDA"
+  city: "DAULE"
+  branch: null
+  swift: OATGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO GUEL LTDA"
+  city: "SIGSIG"
+  branch: null
+  swift: OHCUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO HERMES GAIBOR VERDESOTO"
+  city: "LATACUNGA"
+  branch: null
+  swift: OADHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO HUAICANA LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CRTHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO HUAQUILLAS LTDA"
+  city: "HUAQUILLAS"
+  branch: null
+  swift: CHDQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO HUAYCO PUNGO"
+  city: "OTAVALO"
+  branch: null
+  swift: CHUPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO HUINARA LTDA"
+  city: "JIMA"
+  branch: null
+  swift: COTHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ILINIZA LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: CAIZECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO INDIGENA ALFA Y OMEGA LTDA"
+  city: "QUITO"
+  branch: null
+  swift: OATNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO INDIGENA SAC PELILEO LTDA"
+  city: "PELILEO"
+  branch: null
+  swift: OAONECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO INDIGENAS GALAPAGOS LTDA."
+  city: "SANTA CRUZ"
+  branch: null
+  swift: OHRGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO INKA KIPU"
+  city: "AMBATO"
+  branch: null
+  swift: CACKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO INNOVACION ANDINA LTDA."
+  city: "LATACUNGA"
+  branch: null
+  swift: OHCVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO INTEGRAL"
+  city: "CUENCA"
+  branch: null
+  swift: CNTGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO INTERCULTURAL TARPUK RUNA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: OADIECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO INTERCULTURAL TAWANTINSUYU LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: OAOTECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO INTI WASI LTDA INTICOOP"
+  city: "SARAGURO"
+  branch: null
+  swift: CHTTECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO JARDIN AZUAYO LTDA"
+  city: "PAUTE"
+  branch: null
+  swift: CCJAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO JOSE-AIRO"
+  city: "LOJA"
+  branch: null
+  swift: CARJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO JOYOCOTO LTDA"
+  city: "GUARANDA"
+  branch: null
+  swift: CATJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO JUAN DE SALINAS"
+  city: "SANGOLQUI"
+  branch: null
+  swift: CJSLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO JUAN PIO DE MORA LTDA"
+  city: "SAN MIGUEL"
+  branch: null
+  swift: CAEJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA."
+  city: "CUENCA"
+  branch: null
+  swift: CJEPECEQ
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD UNIDA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CHRJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO KISAPINCHA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: COEKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO KURI WASI LTDA"
+  city: "PELILEO"
+  branch: null
+  swift: CHOKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LA BENEFICA LTDA"
+  city: "EL CARMEN"
+  branch: null
+  swift: CHEFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LA DOLOROSA LTDA."
+  city: "DURAN"
+  branch: null
+  swift: CHTDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LA FLORESTA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: OAELECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LA FLORIDA"
+  city: "SANTA ISABEL"
+  branch: null
+  swift: OAOFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LA INMACULADA DE SAN PLACIDO LTDA"
+  city: "PORTOVIEJO"
+  branch: null
+  swift: OAIIECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LA LIBERTAD LTDA"
+  city: "LA LIBERTAD"
+  branch: null
+  swift: OADLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LA NUEVA JERUSALEN"
+  city: "QUITO"
+  branch: null
+  swift: CDNJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LA UNION LTDA"
+  city: "PORTOVIEJO"
+  branch: null
+  swift: OATUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LAS LAGUNAS"
+  city: "SARAGURO"
+  branch: null
+  swift: OAIGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LLANGANATES"
+  city: "PILLARO"
+  branch: null
+  swift: CLLGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LOS ANDES LATINOS LTDA"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: OATLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LOS CHASQUIS PASTOCALLE LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: CHTQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LOS RIOS LTDA"
+  city: "BABAHOYO"
+  branch: null
+  swift: CLRSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LUCHA CAMPESINA"
+  city: "CUMANDA"
+  branch: null
+  swift: CREHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO LUZ DEL VALLE"
+  city: "RUMINAHUI"
+  branch: null
+  swift: CATZECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MACODES LTDA"
+  city: "CUENCA"
+  branch: null
+  swift: OADAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MAGISTERIO MANABITA LIMITADA"
+  city: "PORTOVIEJO"
+  branch: null
+  swift: OACIECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MALCHINGUI LTDA"
+  city: "PEDRO MONCAYO"
+  branch: null
+  swift: CDMLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MANANTIAL DE ORO LTDA"
+  city: "MACHACHI"
+  branch: null
+  swift: CMCNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MANUEL ESTEBAN GODOY ORTEGA LTDA COOPMEGO"
+  city: "LOJA"
+  branch: null
+  swift: CPGMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MAQUITA CUSHUN LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CHRQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MAQUITA CUSHUNCHIC LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CHOQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MARCABELI LTDA"
+  city: "MARCABELI"
+  branch: null
+  swift: CHTBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MARIA AUXILIADORA DE QUIROGA LTDA"
+  city: "COTACACHI"
+  branch: null
+  swift: OADRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MERCED LTDA"
+  city: "CUENCA"
+  branch: null
+  swift: CSMDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO METROPOLIS LTDA"
+  city: "QUINSALOMA"
+  branch: null
+  swift: OHDMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MI TIERRA"
+  city: "PELILEO"
+  branch: null
+  swift: CMTRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MICROEMPRESARIAL SUCRE"
+  city: "SUCRE"
+  branch: null
+  swift: OHCMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MIGRANTES Y       EMPRENDEDORES LTDA"
+  city: "LOJA"
+  branch: null
+  swift: OADMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MINGA LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CMINECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MUJERES UNIDAS"
+  city: "IBARRA"
+  branch: null
+  swift: CDMUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MULTICULTURAL BANCO INDIGENA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CHTMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MULTIEMPRESARIAL LTDA"
+  city: "CUENCA"
+  branch: null
+  swift: OHRLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MUSHUC RUNA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CMRUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MUSHUG CAUSAY LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CHRHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MUSHUK PAKARI LTDA"
+  city: "SALCEDO"
+  branch: null
+  swift: CHCKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MUSHUK PAKARIK"
+  city: "AMBATO"
+  branch: null
+  swift: CHDHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MUSHUK SOLIDARIA"
+  city: "LATACUNGA"
+  branch: null
+  swift: CRIKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MUSHUK YUYAY"
+  city: "CANAR"
+  branch: null
+  swift: COTKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO MUSHUKWASI"
+  city: "SARAGURO"
+  branch: null
+  swift: CAEWECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO NUESTROS ABUELOS LTDA"
+  city: "ESMERALDAS"
+  branch: null
+  swift: CNUBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO NUEVA ESPERANZA LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CNESECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO NUEVA FUERZA ALIANZA"
+  city: "AMBATO"
+  branch: null
+  swift: OACVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO NUEVA HUANCAVILCA"
+  city: "LA LIBERTAD"
+  branch: null
+  swift: CNHCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO NUEVA LOJA LTDA"
+  city: "LAGO AGRIO"
+  branch: null
+  swift: OAEVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO NUEVA VISION"
+  city: "QUITO"
+  branch: null
+  swift: OAOVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO NUEVOS HORIZONTES LTDA"
+  city: "MACHALA"
+  branch: null
+  swift: CHRVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO NUKA LLAKTA LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CHTKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO NUKANCHIK"
+  city: "CUENCA"
+  branch: null
+  swift: CRDKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO OCIPSA"
+  city: "AMBATO"
+  branch: null
+  swift: OAROECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO OLMEDO"
+  city: "OLMEDO"
+  branch: null
+  swift: OHCLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO ONCE DE JUNIO"
+  city: "MACHALA"
+  branch: null
+  swift: CHRNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO OSCUS LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CSOSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PABLO MUNOZ VEGA"
+  city: "TULCAN"
+  branch: null
+  swift: CHCBECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PADRE VICENTE PONCE RUBIO"
+  city: "TULCAN"
+  branch: null
+  swift: OAODECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PANAMERICANA LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: OHRPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PARA LA VIVIENDA ORDEN Y SEGURIDAD"
+  city: "QUITO"
+  branch: null
+  swift: OHRVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PEDRO MONCAYO LTDA"
+  city: "PEDRO MONCAYO"
+  branch: null
+  swift: CPMYECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PICHINCHA LTDA."
+  city: "QUITO"
+  branch: null
+  swift: OAIHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PIJAL"
+  city: "OTAVALO"
+  branch: null
+  swift: CHDJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PILAHUIN"
+  city: "SALCEDO"
+  branch: null
+  swift: CAOHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PILAHUIN TIO LTDA"
+  city: "OTAVALO"
+  branch: null
+  swift: CRIHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO POLICIA NACIONAL LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CPCCECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO POPULAR Y SOLIDARIA"
+  city: "SANTA ROSA"
+  branch: null
+  swift: OAOPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PREVISION AHORRO YDESAROLLO LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CHCVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PRIMERO DE ENERO DEL AUSTRO EN LIQUIDACION"
+  city: "CUENCA"
+  branch: null
+  swift: CPEAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PRODUCCION AHORRO INVERSION SERVICIO P.A.I.S. LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: OARRECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PRODUCCION Y DESARROLLO AGRICOLA COOPRODESA LTDA"
+  city: "SAQUISILI"
+  branch: null
+  swift: OHROECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PROFUTURO LTDA"
+  city: "CUENCA"
+  branch: null
+  swift: OACFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PROMOCION DE VIDA ASOCIADA LTDA PROVIDA"
+  city: "CUENCA"
+  branch: null
+  swift: CPVAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PUCARA LTDA"
+  city: "PASTOCALLE"
+  branch: null
+  swift: OHCPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PUELLARO LTDA"
+  city: "QUITO"
+  branch: null
+  swift: CRPUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PUERTO FRANCISCO  DE ORELLANA"
+  city: "FRANCISCO DE ORELLANA"
+  branch: null
+  swift: OARPECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PUERTO LOPEZ LTDA"
+  city: "PUERTO LOPEZ"
+  branch: null
+  swift: OACUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PUJILI LTDA."
+  city: "PUJILI"
+  branch: null
+  swift: CHTJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO QUILANGA LTDA"
+  city: "QUILANGA"
+  branch: null
+  swift: CHCQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO RIOBAMBA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CHDMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO RIOCHICO"
+  city: "PORTOVIEJO"
+  branch: null
+  swift: CHEHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO RUNA SHUNGO"
+  city: "LATACUNGA"
+  branch: null
+  swift: OACNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAINT MICHEL LTDA."
+  city: "AMBATO"
+  branch: null
+  swift: OHDSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SALASACA"
+  city: "SAN PEDRO DE PELILEO"
+  branch: null
+  swift: OARLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SALATE"
+  city: "PELILEO"
+  branch: null
+  swift: CSLSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SALINAS LIMITADA"
+  city: "GUARANDA"
+  branch: null
+  swift: OATIECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN ANTONIO DE TOACASO"
+  city: "LATACUNGA"
+  branch: null
+  swift: OHCNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN ANTONIO LTDA"
+  city: "IBARRA"
+  branch: null
+  swift: OAESECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN BARTOLO LTDA."
+  city: "RIOBAMBA"
+  branch: null
+  swift: OHCSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN FERNANDO"
+  city: "AMBATO"
+  branch: null
+  swift: OAEFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN FERNANDO LIMITADA"
+  city: "LATACUNGA"
+  branch: null
+  swift: OAISECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN FRANCISCO DE ASIS LTDA."
+  city: "QUITO"
+  branch: null
+  swift: CHTNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN FRANCISCO LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CSNFECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN GABRIEL LTDA"
+  city: "MONTUFAR"
+  branch: null
+  swift: CSGAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN ISIDRO"
+  city: "SUCRE"
+  branch: null
+  swift: OARNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN JORGE LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CSJGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN JOSE LTDA"
+  city: "CHIMBO"
+  branch: null
+  swift: CSJSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN JOSE S.J."
+  city: "CUENCA"
+  branch: null
+  swift: CSJOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN JUAN DE COTOGCHOA"
+  city: "RUMINAHUI"
+  branch: null
+  swift: CADJECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN MARCOS"
+  city: "AZOGUES"
+  branch: null
+  swift: OACSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN MARTIN DE TISALEO LTDA"
+  city: "TISALEO"
+  branch: null
+  swift: OAINECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN MIGUEL DE LOS BANCOS LTD"
+  city: "SAN MIGUEL DE LOS BANCOS"
+  branch: null
+  swift: CSMNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN MIGUEL DE PALLATANGA"
+  city: "SAN MIGUEL DE PALLATANGA"
+  branch: null
+  swift: OHRNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN MIGUEL DE SIGCHOS"
+  city: "SIGCHOS"
+  branch: null
+  swift: OAOSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN PABLO"
+  city: "AMBATO"
+  branch: null
+  swift: OAENECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN PEDRO DE      TABOADA LTDA"
+  city: "SANGOLQUI"
+  branch: null
+  swift: CHRDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN PEDRO LTDA"
+  city: "GUARANDA"
+  branch: null
+  swift: OAOAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN SANTIAGO DE MOLLETURO"
+  city: "CUENCA"
+  branch: null
+  swift: OAIAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN SEBASTIAN"
+  city: "LOJA"
+  branch: null
+  swift: OADNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAN VICENTE DEL SUR LTDA."
+  city: "QUITO"
+  branch: null
+  swift: OHESECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SANTA ANA LTDA"
+  city: "SANTA ANA"
+  branch: null
+  swift: OHCTECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SANTA ANITA LTDA"
+  city: "COTACACHI"
+  branch: null
+  swift: CDSAECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SANTA ISABEL LTDA"
+  city: "LOJA"
+  branch: null
+  swift: OADSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SANTA LUCIA"
+  city: "AMBATO"
+  branch: null
+  swift: OAETECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SANTA MARIA DE LA MANGA DEL CURA LTDA."
+  city: "EL CARMEN"
+  branch: null
+  swift: OHRTECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SANTA ROSA DE PATUTAN LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: OATSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SANTA ROSA LTDA"
+  city: "SANTA ROSA"
+  branch: null
+  swift: CHDNECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SAQUISILI LTDA."
+  city: "SAQUISILI"
+  branch: null
+  swift: CRCQECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SARAGUROS"
+  city: "SARAGURO"
+  branch: null
+  swift: CHOGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SEMILLA DEL PROGRESO LTDA"
+  city: "SARAGURO"
+  branch: null
+  swift: CESGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SEMILLAS DE PANGUA"
+  city: "LATACUNGA"
+  branch: null
+  swift: OHEMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SENOR DE GIRON"
+  city: "GIRON"
+  branch: null
+  swift: CSOGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SERVIDORES MUNICIPALES DE CUENCA"
+  city: "CUENCA"
+  branch: null
+  swift: OAOEECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SIERRA CENTRO LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: OAOIECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SIMIATUG LIMITADA"
+  city: "GUARANDA"
+  branch: null
+  swift: OAITECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SIMON BOLIVAR LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: OHCOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SINCHI RUNA LTDA"
+  city: "SAQUISILI"
+  branch: null
+  swift: CRCHECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SOCIO AMIGO COOPSA"
+  city: "MARCABELI"
+  branch: null
+  swift: OAEOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SOL DE LOS ANDES LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: CHTOECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SOLIDARIA LTDA"
+  city: "LOJA"
+  branch: null
+  swift: OARSECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SOLIDARIDAD Y PROGRESO ORIENTAL"
+  city: "AZOGUES"
+  branch: null
+  swift: CRTDECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SUMAC LLACTA LTDA"
+  city: "RIOBAMBA"
+  branch: null
+  swift: OAEMECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SUMAK NAN LTDA."
+  city: "AMBATO"
+  branch: null
+  swift: CRTKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO SUMAK SAMY LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CORKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO TENA LTDA"
+  city: "TENA"
+  branch: null
+  swift: CTENECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO TIENDA DE DINERO LTDA."
+  city: "PORTOVIEJO"
+  branch: null
+  swift: OARTECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO TULCAN"
+  city: "TULCAN"
+  branch: null
+  swift: CHRLECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO TUNGURAHUA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: CTUGECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO UNIBLOCK Y SERVICIOS LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: CHDKECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO UNION MERCEDARIA LTDA"
+  city: "LATACUNGA"
+  branch: null
+  swift: CHOUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO UNION QUISAPINCHA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: OAOUECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO UNIOTAVALO LTDA"
+  city: "OTAVALO"
+  branch: null
+  swift: CHTVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO VALLES DEL LIRIO AICEP"
+  city: "AMBATO"
+  branch: null
+  swift: OATVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO VENCEDORES DE PICHINCHA LTDA CACVP"
+  city: "QUITO"
+  branch: null
+  swift: CHDVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO VENCEDORES DE TUNGURAHUA LTDA"
+  city: "AMBATO"
+  branch: null
+  swift: OADVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO VIRGEN DEL CISNE"
+  city: "LATACUNGA"
+  branch: null
+  swift: CRDVECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO WARMIKUNAPAK PIKCHARI"
+  city: "AMBATO"
+  branch: null
+  swift: CADWECE1
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO WUAMANLOMA LTDA"
+  city: "PELILEO"
+  branch: null
+  swift: CACWECE1
+    
+- name: "COOPERATIVA DE LA MICROEMPRESA DE CHIMBORAZO"
+  city: "RIOBAMBA"
+  branch: null
+  swift: COMZECE1
+    
+- name: "COOPERATIVA DE SERVICIOS MULTIPLES AGRO VIDA"
+  city: "GUANO"
+  branch: null
+  swift: CSMRECE1
+    
+- name: "COOPERATIVA SAN PEDRO DE PELILEO"
+  city: "PELILEO"
+  branch: null
+  swift: CSELECE1
+    
+- name: "COOPJADAN LTDA, COOPERATIVA DE AHORRO Y CREDITO JADAN"
+  city: "GUALACEO"
+  branch: null
+  swift: CCHEECE1
+    
+- name: "CORPORACION DE DESARROLLO DE MERCADO SECUNDARIO DE HIPOTECAS CTH S.A."
+  city: "QUITO"
+  branch: null
+  swift: CDMCECE1
+    
+- name: "CORPORACION DE DESARROLLO FINANCIERA RHUMY WARA"
+  city: "PELILEO"
+  branch: null
+  swift: CDSUECE1
+    
+- name: "CORPORACION DE DESARROLLO FINANCIERO PRODVISION"
+  city: "PELILEO"
+  branch: null
+  swift: CDFPECE1
+    
+- name: "CORPORACION DE DESARROLLO SOCIAL Y FINANCIERO ISLAS ENCANTADAS"
+  city: "SALASACA"
+  branch: null
+  swift: CDSFECE1
+    
+- name: "CORPORACION DE DESARROLLO SOCIAL Y FINANCIERO VIENTOS SOLIDARIOS"
+  city: "PELILEO"
+  branch: null
+  swift: CDSIECE1
+    
+- name: "CORPORACION EN LAS HUELLAS DEL BANCO GRAMEEN"
+  city: "LOJA"
+  branch: null
+  swift: COHRECE1
+    
+- name: "CORPORACION FINANCIERA NACIONAL"
+  city: "QUITO"
+  branch: null
+  swift: CFNAECEQ
+    
+- name: "CORPORACION NACIONAL DE TELECOMUNICACIONES (CNT)"
+  city: "QUITO"
+  branch: null
+  swift: CNTNECE1
+    
+- name: "CORPORACION ORIENTE"
+  city: "PUYO"
+  branch: null
+  swift: CRNRECE1
+    
+- name: "CORPORACION SAN FRANCISCO DE CHIBULEO"
+  city: "AMBATO"
+  branch: null
+  swift: CSFCECE1
+    
+- name: "CORPORACION SANTANDER"
+  city: "AMBATO"
+  branch: null
+  swift: CRSDECE1
+    
+- name: "CREDITO Y DINERO S.A. (CREDINERO)"
+  city: "CUENCA"
+  branch: null
+  swift: CRDCECE1
+    
+- name: "DEFACTOR S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: DEFAECE1
+    
+- name: "DEPOSITO CENTRALIZADO DE COMPENSACION Y LIQUIDACION DE VALORES DECEVALE SA"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: DCVEECE1
+    
+- name: "DINERS CLUB DEL ECUADOR S A"
+  city: "QUITO"
+  branch: null
+  swift: DICCECE1
+    
+- name: "ECUACORP S.A. CORP. ECUATORIANA DE INVERSIONES"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: ECEIECE1
+    
+- name: "EMPRESA ELECTRICA QUITO"
+  city: "QUITO"
+  branch: null
+  swift: EMEQECE1
+    
+- name: "EMPRESA PUBLICA DE AGUA POTABLE Y SANEAMIENTO"
+  city: "QUITO"
+  branch: null
+  swift: EPAPECE1
+    
+- name: "FACTOR AMAZONAS S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: FACAECE1
+    
+- name: "FACTURINSA FACTURAS INTERNACIONALES S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: FAFIECE1
+    
+- name: "FINANCIERA CONSULCREDITO S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: FCOCECE1
+    
+- name: "FINANCIERA DE LA REPULICA S. A. FIR"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: FIREECEG
+    
+- name: "FINANCIERA DEL AUSTRO S.A."
+  city: "CUENCA"
+  branch: null
+  swift: FDAUECE1
+    
+- name: "FINANCIERA LEASINCORP S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: FNLEECE1
+    
+- name: "FINANRED S.A."
+  city: "CUENCA"
+  branch: null
+  swift: FIAAECE1
+    
+- name: "FINANSA COMPANIA FINANCIERA NACIONAL"
+  city: "QUITO"
+  branch: null
+  swift: FCFNECE1
+    
+- name: "FINANSER INTERMEDIARIA FINANCIERA S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: FIIFECE1
+    
+- name: "FININCO S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: FIIIECE1
+    
+- name: "GLOBAL SOCIEDAD FINANCIERA S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: GLSFECE1
+    
+- name: "GUAYAQUIL STOCK EXCHANGE"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: XGUAECE1
+    
+- name: "INSTITUTO ECUATORIANO DE CREDITO EDUCATIVO Y BECAS"
+  city: "QUITO"
+  branch: null
+  swift: IECEECE1
+    
+- name: "INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL (IESS)"
+  city: "QUITO"
+  branch: null
+  swift: IESSECE1
+    
+- name: "INTERDIN INTERMEDIARIA FINANCIERA S.A."
+  city: "QUITO"
+  branch: null
+  swift: INIFECE1
+    
+- name: "INTERMEDIARIA FINANCIERA GLOBAL C.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: INFGECE1
+    
+- name: "INVERSIONES MODERNAS ECUATORIANAS INMOEC S.A."
+  city: "MANTA"
+  branch: null
+  swift: IMEIECE1
+    
+- name: "INVESTUNION"
+  city: "QUITO"
+  branch: null
+  swift: IUNIECE1
+    
+- name: "LLOYDS TSB BANK PLC"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: LOYDECE1200
+    
+- name: "LLOYDS TSB BANK PLC"
+  city: "QUITO"
+  branch: null
+  swift: LOYDECE1
+    
+- name: "MINISTERIO DE AGRICULTURA (MAGAP)"
+  city: "QUITO"
+  branch: null
+  swift: MIGMECE1
+    
+- name: "MINISTERIO DE FINANZAS"
+  city: "QUITO"
+  branch: null
+  swift: MIFZECE1
+    
+- name: "MINISTERIO DE INCLUSION ECONOMICA Y SOCIAL"
+  city: "QUITO"
+  branch: null
+  swift: MIEYECE1
+    
+- name: "MINISTERIO DE SALUD PUBLICA"
+  city: "QUITO"
+  branch: null
+  swift: MSAPECE1
+    
+- name: "MUNICIPIO DE QUITO"
+  city: "QUITO"
+  branch: null
+  swift: MUQUECE1
+    
+- name: "MUTUALISTA AMBATO"
+  city: "AMBATO"
+  branch: null
+  swift: MUATECE1
+    
+- name: "MUTUALISTA AZUAY"
+  city: "CUENCA"
+  branch: null
+  swift: MUAZECE1
+    
+- name: "MUTUALISTA IMBABURA"
+  city: "IBARRA"
+  branch: null
+  swift: MUIMECE1
+    
+- name: "PACIFICARD S.A."
+  city: "GUAYAQUIL"
+  branch: null
+  swift: PAIDECE1
+    
+- name: "PAPELES FIDUCIARIOS S.A. PAFISA"
+  city: "QUITO"
+  branch: null
+  swift: PAFPECE1
+    
+- name: "PICHINCHA CASA DE VALORES PICAVAL S.A"
+  city: "QUITO"
+  branch: null
+  swift: PICVECE1
+    
+- name: "PROFIN PROMOTORA DE FINANCIAMIENTO COMERCIAL"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: PPFCECE1
+    
+- name: "QUITO STOCK EXCHANGE"
+  city: "QUITO"
+  branch: null
+  swift: XQUIECE1
+    
+- name: "RED FINANCIERA RURAL"
+  city: "QUITO"
+  branch: null
+  swift: RFRUECE1
+    
+- name: "SABMILLER ECUADOR"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: SABMECE1
+    
+- name: "SABMILLER ECUADOR"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: SABMECE1CNS
+    
+- name: "SABMILLER ECUADOR"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: SABMECE1DSA
+    
+- name: "SABMILLER ECUADOR"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: SABMECE1FMA
+    
+- name: "SERVICIO DE RENTAS INTERNAS (SRI)"
+  city: "QUITO"
+  branch: null
+  swift: SRISECE1
+    
+- name: "SOCIEDAD FINANCIERA INTERAMERICANA S.A"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: SFNIECE1
+    
+- name: "TECFINSA-TECNOLOGIA FINANCIERA PARA EL DESARROLLO"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: TECFECE1
+    
+- name: "TRANSFIEC"
+  city: "QUITO"
+  branch: null
+  swift: TRAFECE1
+    
+- name: "UNIFINSA SOCIEDAD FINANCIERA"
+  city: "AMBATO"
+  branch: null
+  swift: UNOFECE1
+    
+- name: "VALORFINSA S.A. INTERMEDIARIA FINANCIERA"
+  city: "QUITO"
+  branch: null
+  swift: VAIFECE1
+    
+- name: "VAZCORP SOCIEDAD FINANCIERA S.A."
+  city: "CUENCA"
+  branch: null
+  swift: VASFECE1
+    
+- name: "VISA BANCO DE GUAYAQUIL"
+  city: "GUAYAQUIL"
+  branch: null
+  swift: VIGUECE1
+    

@@ -1,0 +1,15 @@
+- name: "BANK OF ERITREA"
+  city: "ASMARA"
+  branch: null
+  swift: BOERERAI
+    
+- name: "COMMERCIAL BANK OF ERITREA"
+  city: "ASMARA"
+  branch: null
+  swift: CBERERAI
+    
+- name: "HOUSING AND COMMERCE BANK OF ERITREA"
+  city: "ASMARA"
+  branch: null
+  swift: HCBEERAI
+    

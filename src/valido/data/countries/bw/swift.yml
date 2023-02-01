@@ -1,0 +1,230 @@
+- name: "AFRICAN BANKING CORPORATION OF BOTSWANA (PROPRIETARY) LIMITED"
+  city: "GABORONE"
+  branch: null
+  swift: FMBZBWGA
+    
+- name: "BANK GABORONE LIMITED"
+  city: "GABORONE"
+  branch: null
+  swift: BGLIBWGX
+    
+- name: "BANK OF BARODA (BOTSWANA) LIMITED"
+  city: "GABORONE"
+  branch: null
+  swift: BARBBWGX
+    
+- name: "BANK OF BOTSWANA"
+  city: "GABORONE"
+  branch: null
+  swift: BBOTBWGX
+    
+- name: "BANK OF INDIA (BOTSWANA) LIMITED"
+  city: "GABORONE"
+  branch: null
+  swift: BKIDBWGX
+    
+- name: "BARCLAYS BANK OF BOTSWANA LTD."
+  city: "GABORONE"
+  branch: null
+  swift: BARCBWGX
+    
+- name: "BOTSWANA STOCK EXCHANGE"
+  city: "GABORONE"
+  branch: null
+  swift: XBOTBWG1
+    
+- name: "BRITISH AMERICAN TOBACCO BOTSWANA (PTY) LIMITED"
+  city: "GABORONE"
+  branch: null
+  swift: BATSBW21
+    
+- name: "CAPITAL BANK LIMITED"
+  city: "GABORONE"
+  branch: null
+  swift: CAPLBWGA
+    
+- name: "CAPITAL SECURITIES"
+  city: "GABORONE"
+  branch: null
+  swift: CSERBWG1
+    
+- name: "DEBSWANA DIAMOND COMPANY (PTY) LTD"
+  city: "GABORONE"
+  branch: null
+  swift: DDCOBWGA
+    
+- name: "FIRST NATIONAL BANK OF BOTSWANA LIMITED"
+  city: "GABORONE"
+  branch: ELECTRONIC MONEY MARKET DEPOSITORY
+  swift: FIRNBWGXCUS
+    
+- name: "FIRST NATIONAL BANK OF BOTSWANA LIMITED"
+  city: "GABORONE"
+  branch: null
+  swift: FIRNBWGX
+    
+- name: "FX AFRICA (BOTSWANA) PTY LTD"
+  city: "GABORONE"
+  branch: null
+  swift: FXAFBWG1
+    
+- name: "INVESTEC SECURITIES (BOTSWANA) (PTY) LTD"
+  city: "GABORONE"
+  branch: null
+  swift: ISBTBWG1
+    
+- name: "MOTSWEDI SECURITIES (PTY) LTD."
+  city: "GABORONE"
+  branch: null
+  swift: MOSYBWG1
+    
+- name: "NATIONAL DEVELOPMENT BANK"
+  city: "FRANCISTOWN"
+  branch: null
+  swift: DNABBWG10BF
+    
+- name: "NATIONAL DEVELOPMENT BANK"
+  city: "GABORONE"
+  branch: null
+  swift: DNABBWG1
+    
+- name: "NATIONAL DEVELOPMENT BANK"
+  city: "KANYE"
+  branch: null
+  swift: DNABBWG10BK
+    
+- name: "NATIONAL DEVELOPMENT BANK"
+  city: "MAUN"
+  branch: null
+  swift: DNABBWG10BM
+    
+- name: "NATIONAL DEVELOPMENT BANK"
+  city: "SELEBI PHIKWE"
+  branch: null
+  swift: DNABBWG10BP
+    
+- name: "NATIONAL DEVELOPMENT BANK"
+  city: "SEROWE"
+  branch: null
+  swift: DNABBWG10BS
+    
+- name: "PAA CAPITAL PTY LTD"
+  city: "GABORONE"
+  branch: null
+  swift: PCPYBWG1
+    
+- name: "SABMILLER BOTSWANA"
+  city: "GABORONE"
+  branch: null
+  swift: SABMBWG1
+    
+- name: "SABMILLER BOTSWANA"
+  city: "GABORONE"
+  branch: null
+  swift: SABMBWG1BBL
+    
+- name: "SABMILLER BOTSWANA"
+  city: "GABORONE"
+  branch: null
+  swift: SABMBWG1KBL
+    
+- name: "STANBIC BANK BOTSWANA LIMITED"
+  city: "GABORONE"
+  branch: null
+  swift: SBICBWGX
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "FRANCISTOWN"
+  branch: HASKINS STREET
+  swift: SCHBBWGX017
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "FRANCISTOWN"
+  branch: INDUSTRIAL BRANCH
+  swift: SCHBBWGX026
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "GABORONE"
+  branch: BROADHURST
+  swift: SCHBBWGX024
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "GABORONE"
+  branch: FOREIGN TRADE
+  swift: SCHBBWGX036
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "GABORONE"
+  branch: HEAD OFFICE
+  swift: SCHBBWGX
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "GABORONE"
+  branch: INDUSTRIAL
+  swift: SCHBBWGX023
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "GABORONE"
+  branch: MALL BRANCH
+  swift: SCHBBWGX021
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "GABORONE"
+  branch: PROFESSIONAL HOUSE
+  swift: SCHBBWGX027
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "GABORONE"
+  branch: SECURITIES SERVICES UNIT
+  swift: SCHBBWGXSSU
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "GABORONE"
+  branch: STANDARD HOUSE
+  swift: SCHBBWGX022
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "JWANENG"
+  branch: null
+  swift: SCHBBWGX008
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "LOBATSE"
+  branch: null
+  swift: SCHBBWGX009
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "MAHALPYE"
+  branch: null
+  swift: SCHBBWGX013
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "MAUN"
+  branch: null
+  swift: SCHBBWGX019
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "ORAPA"
+  branch: null
+  swift: SCHBBWGX018
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "PALAPYE"
+  branch: null
+  swift: SCHBBWGX015
+    
+- name: "STANDARD CHARTERED BANK BOTSWANA LTD."
+  city: "SELEBI PHIKWE"
+  branch: null
+  swift: SCHBBWGX016
+    
+- name: "STATE BANK OF INDIA (BOTSWANA) LTD"
+  city: "GABORONE"
+  branch: null
+  swift: SBINBWGX
+    
+- name: "STOCKBROKERS BOTSWANA LTD."
+  city: "GABORONE"
+  branch: null
+  swift: STOOBWG1
+    

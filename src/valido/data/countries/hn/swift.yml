@@ -1,0 +1,265 @@
+- name: "AMERICA CDC CASA DE CAMBIO S.A.DE C.F."
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: ACSAHNT1
+    
+- name: "ARRENDAMIENTOS Y CREDITOS ATLANTIDA, S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: ARCDHNT1
+    
+- name: "BANCO ATLANTIDA"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: ATTDHNTE
+    
+- name: "BANCO AZTECA DE HONDURAS, SA"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: AZTKHNTE
+    
+- name: "BANCO CENTRAL DE HONDURAS"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BCEHHNTE
+    
+- name: "BANCO CENTRAL DE HONDURAS BANCO CENTRAL"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BCEHHNTT
+    
+- name: "BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BCIEHNTE
+    
+- name: "BANCO CUSCATLAN DE HONDURAS"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BACUHNT1
+    
+- name: "BANCO DAVIVIENDA HONDURAS, S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BGAHHNTE
+    
+- name: "BANCO DE AMERICA CENTRAL HONDURAS, S.A.(BAC BAMER)"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BMILHNTE
+    
+- name: "BANCO DE DESARROLLO RURAL HONDURAS, S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: PRCBHNTE
+    
+- name: "BANCO DE HONDURAS, S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: HONAHNT2
+    
+- name: "BANCO DE LAS FUERZAS ARMADAS"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BLFAHNT1
+    
+- name: "BANCO DE LOS TRABAJADORES"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: TSBOHNTA
+    
+- name: "BANCO DE OCCIDENTE S.A."
+  city: "SAN PEDRO SULA"
+  branch: SAN PEDRO SULA
+  swift: BOCCHNTESPS
+    
+- name: "BANCO DE OCCIDENTE S.A."
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: BOCCHNTE
+    
+- name: "BANCO DE OCCIDENTE S.A."
+  city: "SANTA ROSA DE COPAN"
+  branch: SANTA ROSA DE COPAN
+  swift: BOCCHNTESRC
+    
+- name: "BANCO DE OCCIDENTE S.A."
+  city: "TEGUCIGALPA"
+  branch: TEGUCIGALPA
+  swift: BOCCHNTETGU
+    
+- name: "BANCO DEL PAIS,S.A."
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: PISAHNTE
+    
+- name: "BANCO FICOHSA"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: FIHOHNT1
+    
+- name: "BANCO FINANCIERA CENTROAMERICANA S.A. FICENSA"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: CABFHNTE
+    
+- name: "BANCO FINANCIERA COMERCIAL HONDURENA S.A. (BANCO FICOHSA)"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: FCOHHNTE
+    
+- name: "BANCO GRUPO EL AHORRO HONDURENO S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BCHOHNT1
+    
+- name: "BANCO HONDURENO DEL CAFE"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BHCAHNTH
+    
+- name: "BANCO HONDURENO DEL CAFE S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BHCAHNT1
+    
+- name: "BANCO HONDURENO PARA LA PRODUCCION Y LA VIVIENDA"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: HOPVHNT1
+    
+- name: "BANCO LAFISE (HONDURAS), S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BCCEHNTE
+    
+- name: "BANCO MUNICIPAL AUTONOMO"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BMAUHNT1
+    
+- name: "BANCO NACIONAL DE DESARROLLO AGRICOLA"
+  city: "COMAYAGUELA"
+  branch: null
+  swift: DEAGHNT1
+    
+- name: "BANCO NACIONAL DE DESARROLLO AGRICOLA"
+  city: "COMAYAGUELA"
+  branch: null
+  swift: DEAGHNT1022
+    
+- name: "BANCO POPULAR S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: POUUHNT1
+    
+- name: "BANCO PROMERICA, S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: BPRHHNTE
+    
+- name: "BANCO SOGERIN S.A."
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: SOGBHNT1
+    
+- name: "BRITISH AMERICAN TOBACCO CENTRAL AMERICA S.A., SUCURSAL HONDURAS"
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: BATSHN31
+    
+- name: "CASA DE BOLSA DE VALORES S.A. (CABVAL)"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: CBVCHNT1
+    
+- name: "CASA DE CAMBIO"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: CSAIHNT1
+    
+- name: "CASA DE CAMBIO ROBLE VIEJO S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: CCRVHNT1
+    
+- name: "CASA DEL BOLSA PROMOCIONES E INVERSIONES EN BOLSA, S.A."
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: CBPNHNT1
+    
+- name: "CENTRAL HONDURENA DE VALORES Y LIQUIDACION (CEHVAL)"
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: CHVLHNT1
+    
+- name: "COMPANIA FINANCIERA, S.A. COFISA"
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: CFNCHNT1
+    
+- name: "CONTINENTAL CASA DE BOLSA, S.A"
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: CNCSHNT1
+    
+- name: "CORPORACION FINANCIERA INTERNACIONAL (COFINTER)"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: CFNIHNT1
+    
+- name: "FINANCIERA CODIMERSA EDIFICIO CODIMERSA"
+  city: "SANTA ROSA"
+  branch: null
+  swift: FCEOHNT1
+    
+- name: "FINANCIERA CREDIQ SA"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: FIRQHNT1
+    
+- name: "FINANCIERA FINCA HONDURAS"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: FIFHHNT1
+    
+- name: "FINANCIERA SOLIDARIA, S.A."
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: FIODHNT1
+    
+- name: "FOMENTO FINANCIERO, S.A. CASA DE BOLSA"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: FFCBHNT1
+    
+- name: "LAFISE VALORES CASA DE BOLSA"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: LVCBHNT1
+    
+- name: "ODEF FINANCIERA S.A."
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: ODFIHNT1
+    
+- name: "SERVIGIROS CASA DE CAMBIO S.A."
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: SEAIHNT1
+    
+- name: "SONIVAL, CASA DE BOLSA, S. A"
+  city: "TEGUCIGALPA"
+  branch: null
+  swift: SOABHNT1
+    
+- name: "TABACALERA HONDURENA S.A."
+  city: "CORTES"
+  branch: null
+  swift: BATSHNT1
+    
+- name: "TABACALERA ISTMENA S.A"
+  city: "SAN PEDRO SULA"
+  branch: null
+  swift: BATSHN41
+    

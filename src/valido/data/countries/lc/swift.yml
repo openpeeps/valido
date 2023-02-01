@@ -1,0 +1,70 @@
+- name: "1ST NATIONAL BANK ST.LUCIA LIMITED"
+  city: "CASTRIES"
+  branch: null
+  swift: LUOBLCLC
+    
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "CASTRIES"
+  branch: null
+  swift: NOSCLCLC
+    
+- name: "BANK OF SAINT LUCIA LIMITED"
+  city: "CASTRIES"
+  branch: null
+  swift: BOSLLCLC
+    
+- name: "BANKINNO INC"
+  city: "RODNEY BAY"
+  branch: null
+  swift: BKNOLCL1
+    
+- name: "BOSLIL BANK LIMITED"
+  city: "GROS-ISLET"
+  branch: null
+  swift: BSLULCLC
+    
+- name: "CARIBBEAN PRIVATE BANK LIMITED"
+  city: "CASTRIES"
+  branch: null
+  swift: CIPVLCL1
+    
+- name: "EUROEXIM BANK (ST. LUCIA) LTD"
+  city: "GROS-ISLET"
+  branch: null
+  swift: EULULCL1
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED"
+  city: "CASTRIES"
+  branch: null
+  swift: FCIBLCLC
+    
+- name: "GOVERNMENT OF SAINT LUCIA"
+  city: "CASTRIES"
+  branch: null
+  swift: GVLCLCLC
+    
+- name: "HERMES BANK LIMITED"
+  city: "GROS-ISLET"
+  branch: null
+  swift: HEMMLCL2
+    
+- name: "PETRUS PRIVATE BANK"
+  city: "CASTRIES"
+  branch: null
+  swift: PTRVLCLC
+    
+- name: "PLG CAPITAL BANK LTD"
+  city: "CASTRIES"
+  branch: null
+  swift: PLGCLCLC
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "CASTRIES"
+  branch: null
+  swift: ROYCLCLC
+    
+- name: "STATETRUST BANK AND TRUST LTD."
+  city: "CASTRIES"
+  branch: null
+  swift: STTTLCLC
+    

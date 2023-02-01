@@ -1,0 +1,140 @@
+- name: "ARTOSIS LLC"
+  city: "CHISINAU"
+  branch: null
+  swift: ARLCMD2X
+    
+- name: "BANCA COMERCIALA 'COMERTBANK' S.A."
+  city: "CHISINAU"
+  branch: null
+  swift: CMTBMD2X
+    
+- name: "BANCA COMERCIALA EXIMBANK-GRUPPO VENETO BANCA S.A."
+  city: "CHISINAU"
+  branch: null
+  swift: EXMMMD22
+    
+- name: "BANCA DE FINANTE SI COMERT S.A. (FINCOMBANK S.A.)"
+  city: "CHISINAU"
+  branch: null
+  swift: FTMDMD2X
+    
+- name: "BC ENERGBANK S.A."
+  city: "CHISINAU"
+  branch: null
+  swift: ENEGMD22
+    
+- name: "BC EUROCREDITBANK S.A."
+  city: "CHISINAU"
+  branch: null
+  swift: ECBMMD2X
+    
+- name: "BC 'MOBIASBANCA-GROUPE SOCIETE GENERALE' S.A."
+  city: "CHISINAU"
+  branch: null
+  swift: MOBBMD22
+    
+- name: "BC MOLDOVA - AGROINDBANK S.A."
+  city: "CHISINAU"
+  branch: null
+  swift: AGRNMD2X
+    
+- name: "BC PROCREDIT BANK S.A."
+  city: "CHISINAU"
+  branch: null
+  swift: PRCBMD22
+    
+- name: "BENDERYSOCBANK"
+  city: "BENDERY"
+  branch: null
+  swift: BENRMD21
+    
+- name: "CJSC AGROPROMBANK'"
+  city: "BENDERY"
+  branch: BENDERY BRANCH
+  swift: AGRRMD21BEN
+    
+- name: "CJSC AGROPROMBANK'"
+  city: "DNESTROVSK"
+  branch: DNESTROVSK BRANCH
+  swift: AGRRMD21DNK
+    
+- name: "CJSC AGROPROMBANK'"
+  city: "DUBOSSARY"
+  branch: DUBOSSARY BRANCH
+  swift: AGRRMD21DUB
+    
+- name: "CJSC AGROPROMBANK'"
+  city: "GRIGORIOPOL"
+  branch: GRIGORIOPOL BRANCH
+  swift: AGRRMD21GRI
+    
+- name: "CJSC AGROPROMBANK'"
+  city: "KAMENKA"
+  branch: KAMENKA BRANCH
+  swift: AGRRMD21KAM
+    
+- name: "CJSC AGROPROMBANK'"
+  city: "RYBNITSA"
+  branch: RYBNITSA BRANCH
+  swift: AGRRMD21RYB
+    
+- name: "CJSC AGROPROMBANK'"
+  city: "SLOBODZEYA"
+  branch: SLOBODZEYA BRANCH
+  swift: AGRRMD21SLB
+    
+- name: "CJSC AGROPROMBANK'"
+  city: "TIRASPOL"
+  branch: null
+  swift: AGRRMD21
+    
+- name: "CJSC TIRASPROMSTROYBANK"
+  city: "TIRASPOL"
+  branch: null
+  swift: CJTIMD21
+    
+- name: "CLOSED JOINT STOCK COMPANY (CJSC) 'TRANS-DNIESTER SAVINGS BANK' ('SBERBANK')"
+  city: "TIRASPOL"
+  branch: null
+  swift: CJSMMD21
+    
+- name: "JOINT-STOCK COMMERCIAL VICTORIABANK"
+  city: "CHISINAU"
+  branch: null
+  swift: VICBMD2X
+    
+- name: "JOINT-STOCK COMPANY THE EXPORT-IMPORT BANK"
+  city: "TIRASPOL"
+  branch: null
+  swift: GAJCMD21
+    
+- name: "JSCB IPOTECHNIY"
+  city: "TIRASPOL"
+  branch: null
+  swift: IPOJMD21
+    
+- name: "MOLDINDCONBANK"
+  city: "CHISINAU"
+  branch: null
+  swift: MOLDMD2X
+    
+- name: "NATIONAL BANK OF MOLDOVA"
+  city: "CHISINAU"
+  branch: HEAD OFFICE
+  swift: NBMDMD2X
+    
+- name: "ROMANIAN COMMERCIAL BANK CHISINAU S.A."
+  city: "CHISINAU"
+  branch: null
+  swift: RNCBMD2X
+    
+- name: "STATE ENTERPRISE 'POSTA MOLDOVEI'"
+  city: "CHISINAU"
+  branch: null
+  swift: PMODMD21
+    
+- name: "TRANS-DNIESTER REPUBLICAN BANK"
+  city: "TIRASPOL"
+  branch: null
+  swift: PRBTMD21
+    

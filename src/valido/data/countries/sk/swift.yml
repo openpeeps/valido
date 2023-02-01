@@ -1,0 +1,610 @@
+- name: "ACROSS WEALTH MANAGEMENT, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: AWMOSKB1
+    
+- name: "AGENTURA PRE RIADENIE DLHU A LIKVIDITY"
+  city: "BRATISLAVA"
+  branch: null
+  swift: APRDSKB1
+    
+- name: "AIG FUNDS CENTRAL EUROPE SPRAV.SPOL., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: AFEUSKB1
+    
+- name: "AKCENTA, S.U.D., POBOCKA SLOVENSKO"
+  city: "KOSICE"
+  branch: null
+  swift: AKCTSK21
+    
+- name: "ALLIANZ ASSET MANAGEMENT, SPRAV. SPOL.,A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: AAMPSKB1
+    
+- name: "AM SLSP SPRAV. SPOL., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: SLSSSKB1
+    
+- name: "AMSLICO AIG SECURITIES O.C.P, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: AASCSKB1
+    
+- name: "ASSET MANAGEMENT SLOVENSKEJ SPORITE LNE, SPRAV. SPOL., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: AMLSSKB1
+    
+- name: "BHS SLOVAKIA, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: BHSOSKB1
+    
+- name: "BKS BANK AG, POBOCKA ZAHRANICNEJ BANKY"
+  city: "BRATISLAVA"
+  branch: null
+  swift: BFKKSKBB
+    
+- name: "BNP PARIBAS PERSONAL FINANCE SA POBOCKA ZAHRANICNEJ BANKY"
+  city: "BRATISLAVA"
+  branch: null
+  swift: BPPCSKB1
+    
+- name: "BROKERSKY DOM O.C.P. A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: BRODSKB1
+    
+- name: "BUDA-CASH ZRT.-POBOCKA BRATISLAVA"
+  city: "BRATISLAVA"
+  branch: null
+  swift: BUZBSKB1
+    
+- name: "BURZA CENNYCH PAPIEROV V BRATISLAVE, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: XBRASKB1
+    
+- name: "CAPITAL INVEST, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: CINHSKB1
+    
+- name: "CAPITAL MARKETS, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: CMRCSKB1
+    
+- name: "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S."
+  city: "BRATISLAVA"
+  branch: DEPOSITORY INFORMATION SYSTEM
+  swift: CSDSSKBASYS
+    
+- name: "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S."
+  city: "BRATISLAVA"
+  branch: DEPOSITORY TECHNICAL ACCOUNT
+  swift: CSDSSKBADTA
+    
+- name: "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: CSDSSKBA
+    
+- name: "CESKOSLOVENSKA OBCHODNA BANKA, A.S."
+  city: "BRATISLAVA"
+  branch: SLOVAK REPUBLIC DIVISION
+  swift: CEKOSKBX
+    
+- name: "CITIBANK EUROPE PLC, POBOCKA ZAHRANICNEJ BANKY"
+  city: "BRATISLAVA"
+  branch: RESTRICTED USE CITIBANK BRATISLAVA TARGET 2
+  swift: CITISKBASEC
+    
+- name: "CITIBANK EUROPE PLC, POBOCKA ZAHRANICNEJ BANKY"
+  city: "BRATISLAVA"
+  branch: null
+  swift: CITISKBA
+    
+- name: "COMMERZBANK AG"
+  city: "BRATISLAVA"
+  branch: ADMINISTRATION
+  swift: COBASKBXTBR
+    
+- name: "COMMERZBANK AG"
+  city: "BRATISLAVA"
+  branch: null
+  swift: COBASKBX
+    
+- name: "CSOB ASSET MANAGEMENT, SPRAV.SPOL., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: CSMPSKB1
+    
+- name: "CSOB STAVEBNA SPORITELNA, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: KBSPSKBX
+    
+- name: "DLHOPIS, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: DLOCSKB1
+    
+- name: "EUROPEAN INVESTMENT CENTRE"
+  city: "BRATISLAVA"
+  branch: null
+  swift: EUICSKB1
+    
+- name: "EUROPEAN RATING AGENCY, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: EUACSKB1
+    
+- name: "EXPORT-IMPORT BANK OF SLOVAK REPUBLIC"
+  city: "BRATISLAVA"
+  branch: null
+  swift: EXSKSKBX
+    
+- name: "FIMEX CAPITAL O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: FIAPSKB1
+    
+- name: "FIO BANKA, A.S., POBOCKA ZAHRANICNEJ BANKY"
+  city: "BRATISLAVA"
+  branch: null
+  swift: FIOZSKBA
+    
+- name: "FIO O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: FOOCSKB1
+    
+- name: "FIRST DATA SLOVAKIA, S.R.O."
+  city: "BRATISLAVA"
+  branch: null
+  swift: FDXXSKBA
+    
+- name: "INFINITY CAPITAL, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: IFCCSKB1
+    
+- name: "ING BANK N.V., POBOCKA ZAHR, BANKY"
+  city: "BRATISLAVA"
+  branch: null
+  swift: INGBSKBX
+    
+- name: "INVESTICNA A DOCHODKOVA, SPRAV. SPOL., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: IDSSSKB1
+    
+- name: "J AND T BANKA, A.S.,POBOCKA ZAHRANICNEJ BANKY"
+  city: "BRATISLAVA"
+  branch: null
+  swift: JTBPSKBA
+    
+- name: "J AND T CORPORATE FINANCE SLOVAKIA, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: SESCSKB1
+    
+- name: "J AND T FINANCE GROUP, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: FGRPSKB1
+    
+- name: "KDB BANK EUROPE LTD SLOVAKIAN BRANCH OFFICE"
+  city: "BRATISLAVA"
+  branch: null
+  swift: KODBSKBX
+    
+- name: "KOMERCNI BANKA , A.S., POBOCKA ZAHRANICNEJ BANKY"
+  city: "BRATISLAVA"
+  branch: RESTRICTED TARGET USE
+  swift: KOMBSKBATGT
+    
+- name: "KOMERCNI BANKA , A.S., POBOCKA ZAHRANICNEJ BANKY"
+  city: "BRATISLAVA"
+  branch: null
+  swift: KOMBSKBA
+    
+- name: "M SECURITIES O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: KEIOSKB1
+    
+- name: "MBANK S.A., POBOCKA ZAHRANICNEJ BANKY"
+  city: "BRATISLAVA"
+  branch: null
+  swift: BREXSKBX
+    
+- name: "MINISTRY OF FINANCE OF THE SLOVAK REPUBLIC"
+  city: "BRATISLAVA"
+  branch: null
+  swift: MFSRSKB1
+    
+- name: "MOBIS SLOVAKIA S.R.O."
+  city: "GBELANY"
+  branch: null
+  swift: HYMOSK21
+    
+- name: "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O."
+  city: "BRATISLAVA"
+  branch: CUSTOMER NAMING CONVENTION
+  swift: KRAFSKBAPYL
+    
+- name: "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O."
+  city: "BRATISLAVA"
+  branch: SHARED SERVICE CENTRE
+  swift: KRAFSKBASSC
+    
+- name: "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O."
+  city: "BRATISLAVA"
+  branch: TREASURY
+  swift: KRAFSKBATSY
+    
+- name: "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O."
+  city: "BRATISLAVA"
+  branch: null
+  swift: KRAFSKBA
+    
+- name: "MONEY MARKET BROKERS, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: MMBCSKB1
+    
+- name: "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)"
+  city: "BRATISLAVA"
+  branch: ACCOUNT FOR EBA CLEARING SETTLEMENT
+  swift: NBSBSKBXEBA
+    
+- name: "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)"
+  city: "BRATISLAVA"
+  branch: ACCOUNT FOR FEES
+  swift: NBSBSKBXFE1
+    
+- name: "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)"
+  city: "BRATISLAVA"
+  branch: ACCOUNT FOR INTERESTS
+  swift: NBSBSKBXIN1
+    
+- name: "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)"
+  city: "BRATISLAVA"
+  branch: AS
+  swift: NBSBSKBXSIP
+    
+- name: "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)"
+  city: "BRATISLAVA"
+  branch: CCB ACCOUNT
+  swift: NBSBSKBXCCB
+    
+- name: "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)"
+  city: "BRATISLAVA"
+  branch: ECB ACCOUNT
+  swift: NBSBSKBXEUX
+    
+- name: "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)"
+  city: "BRATISLAVA"
+  branch: TARGET2 CUSTOMER PAYMENTS
+  swift: NBSBSKBXTGT
+    
+- name: "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)"
+  city: "BRATISLAVA"
+  branch: TEST ACCOUNT
+  swift: NBSBSKBX100
+    
+- name: "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)"
+  city: "BRATISLAVA"
+  branch: TEST ACCOUNT
+  swift: NBSBSKBX200
+    
+- name: "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)"
+  city: "BRATISLAVA"
+  branch: null
+  swift: NBSBSKBX
+    
+- name: "NARODNY CENTRALNY DEPOZITAR CENNYCH PAPIEROV, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: NCDCSKBA
+    
+- name: "NARODNY CENTRALNY DEPOZITAR CENNYCH PAPIEROV, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: NCDCSKBATPM
+    
+- name: "OBERBANK AG"
+  city: "BRATISLAVA"
+  branch: null
+  swift: OBKLSKBA
+    
+- name: "OTP BANKA SLOVENSKO, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: OTPVSKBX
+    
+- name: "OXYS CAPITAL, A.S., O.C.P."
+  city: "BRATISLAVA"
+  branch: null
+  swift: OXCCSKB1
+    
+- name: "PALCO BROKERS, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: PABOSKB1
+    
+- name: "PAYMENT INSTITUTION NFD A.S."
+  city: "STARA LUBOVNA"
+  branch: null
+  swift: NFDNSKBA
+    
+- name: "PORTFIN, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: POOCSKB1
+    
+- name: "POSTOVA BANKA A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: POBNSKBA
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "BANSKA BYSTRICA"
+  branch: BANSKA BYSTRICA BRANCH
+  swift: KOMASK2XBBY
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "BANSKA STIAVNICA"
+  branch: BANSKA STIAVNICA BRANCH
+  swift: KOMASK2XBST
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "BRATISLAVA"
+  branch: BRATISLAVA BRANCH
+  swift: KOMASK2XBRA
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "BREZNO"
+  branch: BREZNO BRANCH
+  swift: KOMASK2XBRE
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "KOSICE"
+  branch: KOSICE BRANCH
+  swift: KOMASK2XKOS
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "LIPTOVSKY HRADOK"
+  branch: LIPTOVSKY HRADOK BRANCH
+  swift: KOMASK2XLHR
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "LUCENEC"
+  branch: LUCENEC BRANCH
+  swift: KOMASK2XLCN
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "MALACKY"
+  branch: MALACKY BRANCH
+  swift: KOMASK2XMAL
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "MICHALOVCE"
+  branch: MICHALOVCE BRANCH
+  swift: KOMASK2XMCH
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "NITRA"
+  branch: NITRA BRANCH
+  swift: KOMASK2XNIT
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "POVAZSKA BYSTRICA"
+  branch: POVAZSKA BYSTRICA BRANCH
+  swift: KOMASK2XPBY
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "SPISSKA NOVA VES"
+  branch: SPISSKA NOVA VES BRANCH
+  swift: KOMASK2XSNV
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "TRENCIN"
+  branch: TRENCIN BRANCH
+  swift: KOMASK2XTRE
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "TRNAVA"
+  branch: TRNAVA BRANCH
+  swift: KOMASK2XTNA
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "ZILINA"
+  branch: HEAD OFFICE
+  swift: KOMASK2X
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S."
+  city: "ZILINA"
+  branch: ZILINA BRANCH
+  swift: KOMASK2XZIL
+    
+- name: "PRIMA BANKA SLOVENSKO, A.S. (FORMERLY SBERBANK SLOVENSKO, A.S.)"
+  city: "ZILINA"
+  branch: null
+  swift: LUBASKBX
+    
+- name: "PRIVATBANKA, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: BSLOSK22
+    
+- name: "PROXENTA FINANCE, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: PRFOSKB1
+    
+- name: "PRVA STAVEBNA SPORITELNA, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: PRVASKBA
+    
+- name: "QUANTON SOLUTIONS"
+  city: "BRATISLAVA"
+  branch: null
+  swift: QSOLSKB1
+    
+- name: "RAIFFEISEN CENTROBANK AG SLOVAK BRANCH, POBOCKA ZAHRANICNEJ BANKY"
+  city: "BRATISLAVA"
+  branch: null
+  swift: CENBSKB1
+    
+- name: "RM-S MARKET, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: RMMOSKB1
+    
+- name: "RVS, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: SNCESKB1
+    
+- name: "SALVE INVESTMENTS, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: SAIPSKB1
+    
+- name: "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O."
+  city: "BRATISLAVA"
+  branch: SEH-SK
+  swift: SECTSKS1492
+    
+- name: "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O."
+  city: "GALANTA"
+  branch: SESK
+  swift: SECTSKS14M0
+    
+- name: "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O."
+  city: "TRNAVA"
+  branch: SELSK
+  swift: SECTSKS14B5
+    
+- name: "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O."
+  city: "TRNAVA"
+  branch: null
+  swift: SECTSKS1
+    
+- name: "SEVISBROKERS FINANCE O.C.P., A.S."
+  city: "ZILINA"
+  branch: null
+  swift: SEFOSK21
+    
+- name: "SFM GROUP, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: SFGOSKB1
+    
+- name: "SKODA AUTO SLOVENSKO"
+  city: "BRATISLAVA"
+  branch: null
+  swift: SKAOSKB1
+    
+- name: "SLAVIA CAPITAL, A.S., O.C.P."
+  city: "BRATISLAVA"
+  branch: null
+  swift: SLCCSKB1
+    
+- name: "SLOVAK NATIONAL EMISSION REGISTRY"
+  city: "ZILINA"
+  branch: null
+  swift: SNERSK21
+    
+- name: "SLOVENSKA SPORITELNA, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: GIBASKBX
+    
+- name: "SLOVENSKA ZARUCNA A ROZVOJOVA BANKA, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: SLZBSKBA
+    
+- name: "STATNA POKLADNICA"
+  city: "BRATISLAVA"
+  branch: null
+  swift: SPSRSKBA
+    
+- name: "STATNA POKLADNICA"
+  city: "BRATISLAVA"
+  branch: null
+  swift: SPSRSKBAARD
+    
+- name: "SYMPATIA FINANCIE, O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: SYFOSKB1
+    
+- name: "TATRA ASSET MANAGEMENT, SPRAV.SPOL. A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: TAMPSKB1
+    
+- name: "TATRA BANKA A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: TATRSKBX
+    
+- name: "TRUST PAY, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: TPAYSKBX
+    
+- name: "UNIBON-SPORITELNI A UVERNI DRUZSTVO"
+  city: "BRATISLAVA"
+  branch: null
+  swift: UNUDSKB1
+    
+- name: "UNICREDIT BANK CZ AND SK, SK BRANCH"
+  city: "BRATISLAVA"
+  branch: INTERNAL FILE ACT ROUTING
+  swift: UNCRSKBXFAR
+    
+- name: "UNICREDIT BANK CZ AND SK, SK BRANCH"
+  city: "BRATISLAVA"
+  branch: SECURITIES SETTLEMENT
+  swift: UNCRSKBXOWN
+    
+- name: "UNICREDIT BANK CZ AND SK, SK BRANCH"
+  city: "BRATISLAVA"
+  branch: null
+  swift: UNCRSKBX
+    
+- name: "VALOR O.C.P., A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: VOCPSKB1
+    
+- name: "VOLKSWAGEN FINANCE SLUZBY SLOVENSKO"
+  city: "BRATISLAVA"
+  branch: null
+  swift: VFSSSKB1
+    
+- name: "VSEOBECNA UVEROVA BANKA A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: SUBASKBX
+    
+- name: "WUSTENROT STAVEBNA SPORITELNA, A.S."
+  city: "BRATISLAVA"
+  branch: null
+  swift: WUSTSKBA
+    
+- name: "X-TRADE BROKERS DM S.A., ORGANIZACNA ZLOZKA"
+  city: "BRATISLAVA"
+  branch: null
+  swift: TBRDSKB1
+    

@@ -1,0 +1,3010 @@
+- name: "A.G. SECURITIES"
+  city: "HELSINKI"
+  branch: null
+  swift: AGPAFIH1
+    
+- name: "ACCOUNTOR ETELA-SUOMI OY"
+  city: "HELSINKI"
+  branch: null
+  swift: ACETFIH1
+    
+- name: "ACCUNIA OY"
+  city: "HELSINKI"
+  branch: null
+  swift: ACUUFIH1
+    
+- name: "AHTARIN OSUUSPANKKI"
+  city: "AHTARI"
+  branch: null
+  swift: AHOSFI21
+    
+- name: "AITO SAASTOPANKKI OY"
+  city: "TAMPERE"
+  branch: null
+  swift: AISAFI21
+    
+- name: "AKAAN SEUDUN OSUUSPANKKI"
+  city: "TOIJALA"
+  branch: null
+  swift: AKSUFI21
+    
+- name: "AKTIA ASSET MANAGEMENT OY AB"
+  city: "HELSINKI"
+  branch: null
+  swift: AKAMFIH1
+    
+- name: "AKTIA BANK P.L.C."
+  city: "HELSINKI"
+  branch: null
+  swift: HELSFIHH
+    
+- name: "ALAJARVEN OSUUSPANKKI"
+  city: "ALAJARVI"
+  branch: null
+  swift: ALOUFI21
+    
+- name: "ALASTARON OSUUSPANKKI"
+  city: "ALASTARO"
+  branch: null
+  swift: ALOPFI21
+    
+- name: "ALAVIESKAN OSUUSPANKKI"
+  city: "ALAVIESKA"
+  branch: null
+  swift: ALONFI21
+    
+- name: "ALAVUDEN SEUDUN OSUUSPANKKI"
+  city: "ALAVUS"
+  branch: null
+  swift: ALEPFI21
+    
+- name: "ALEXANDRIA PANKKIIRILIIKE OYJ"
+  city: "HELSINKI"
+  branch: null
+  swift: ALPYFIH1
+    
+- name: "ALFRED BERG OMAISUUDENHOITO SUOMI OY"
+  city: "HELSINKI"
+  branch: null
+  swift: ABOOFIH1
+    
+- name: "ALFRED BERG PANKKIIRILIIKE"
+  city: "HELSINKI"
+  branch: null
+  swift: ALFFFIH1
+    
+- name: "ANDELSBANKEN FOR ALAND"
+  city: "MARIEHAMN"
+  branch: null
+  swift: ANADFI21
+    
+- name: "ANDELSBANKEN RASEBORG"
+  city: "KARIS"
+  branch: null
+  swift: ANRSFI21
+    
+- name: "AROS SECURITIES OY"
+  city: "HELSINKI"
+  branch: null
+  swift: ABBOFIH1
+    
+- name: "ARTJARVEN OSUUSPANKKI"
+  city: "ARTJARVI"
+  branch: null
+  swift: AROUFI21
+    
+- name: "AS LHV PANK FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: LPFBFIH1
+    
+- name: "ASKOLAN OSUUSPANKKI"
+  city: "MONNINKYLA"
+  branch: null
+  swift: ASOSFI21
+    
+- name: "ATINE GROUP OY"
+  city: "HELSINKI"
+  branch: null
+  swift: ATGOFIH1
+    
+- name: "AURAN OSUUSPANKKI"
+  city: "AURA"
+  branch: null
+  swift: AUOSFI21
+    
+- name: "AURATOR VARAINHOITO OY-AURATOR ASSET MANAGEMENT"
+  city: "TURKU"
+  branch: null
+  swift: AVAAFI21
+    
+- name: "AVIDA FINANS AB, FILIAL I FINLAND"
+  city: "ESPOO"
+  branch: null
+  swift: AFFNFI21
+    
+- name: "B10 VARAINHOITO OY"
+  city: "HELSINKI"
+  branch: null
+  swift: VARIFIH1
+    
+- name: "BANK OF ALAND PLC"
+  city: "MARIEHAMN"
+  branch: TREASURY DEPARTMENT
+  swift: AABAFI22TMS
+    
+- name: "BANK OF ALAND PLC"
+  city: "MARIEHAMN"
+  branch: null
+  swift: AABAFI22
+    
+- name: "BASWARE CORPORATION"
+  city: "ESPOO"
+  branch: null
+  swift: BAWCFI21
+    
+- name: "BELGRANO INVERSIONES OY"
+  city: "HELSINKI"
+  branch: null
+  swift: BEIDFIH1
+    
+- name: "BIGBANK AS FINLAND BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: BIGKFIH1
+    
+- name: "BIGBANK AS SUOMEN SIVULIIKE"
+  city: "HELSINKI"
+  branch: null
+  swift: BISKFIH1
+    
+- name: "BONUM BANK PLC"
+  city: "ESPOO"
+  branch: null
+  swift: POPFFI22
+    
+- name: "BOSTADSOBLIGATIONSFONDEN"
+  city: "HELSINKI"
+  branch: null
+  swift: BOTDFIH1
+    
+- name: "CARGOTEC OYJ"
+  city: "HELSINKI"
+  branch: null
+  swift: CTECFIHH
+    
+- name: "CARNEGIE ASSET MANAGEMENT FINLAND LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: CRTEFIH1
+    
+- name: "CELERES RAHASTOYHTIO OY"
+  city: "HELSINKI"
+  branch: null
+  swift: CERHFIH1
+    
+- name: "CENTRAL BANK OF SAVINGS BANKS FINLAND PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: ITELFIHH
+    
+- name: "CITIBANK EUROPE PLC FINLAND BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: CITIFIHX
+    
+- name: "COLLECTOR CREDIT AB, FILIAL FINLAND"
+  city: "HELSINKI"
+  branch: null
+  swift: CCFFFIH1
+    
+- name: "CONVENTUM SECURITIES LIMITED"
+  city: "HELSINKI"
+  branch: null
+  swift: CVMLFIH1
+    
+- name: "CREDIT AGRICOLE CIB"
+  city: "HELSINKI"
+  branch: null
+  swift: BSUIFIHH
+    
+- name: "D. CARNEGIE AB, FINLAND BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: CASFFIH1
+    
+- name: "DANSKE BANK"
+  city: "HELSINKI"
+  branch: null
+  swift: DABAFIHX
+    
+- name: "DANSKE BANK A/S HELSINKI BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: PROEFIH1
+    
+- name: "DANSKE BANK PLC"
+  city: "HELSINKI"
+  branch: CLS SERVICES
+  swift: DABAFIHHCLS
+    
+- name: "DANSKE BANK PLC"
+  city: "HELSINKI"
+  branch: DANSKE CAPITAL
+  swift: DABAFIHHCAP
+    
+- name: "DANSKE BANK PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: DABAFIHH
+    
+- name: "DANSKE KIINNITYSLUOTTOPANKKI OYJ"
+  city: "HELSINKI"
+  branch: null
+  swift: DAKOFIHH
+    
+- name: "DANSKE MORTGAGE BANK PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: DAKOFIH1
+    
+- name: "DE LAGE LANDEN FINANS AB, SOUMEN SIVULIIKE"
+  city: "HELSINKI"
+  branch: null
+  swift: DLFNFIH1
+    
+- name: "DIGIA FINANCIAL SOFTWARE LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: DIFSFIH1
+    
+- name: "DINERS CLUB FINLAND BRANCH OF DINERS CLUB NORDIC AB"
+  city: "HELSINGFORS"
+  branch: null
+  swift: DCFBFIH1
+    
+- name: "DNB BANK ASA, FILIAL FINLAND"
+  city: "HELSINKI"
+  branch: null
+  swift: DNBAFIHX
+    
+- name: "E. OHMAN J OR FONDBOLAG FINLAND AB"
+  city: "HELSINKI"
+  branch: null
+  swift: OJFAFIH1
+    
+- name: "EKENAS SPARBANK"
+  city: "EKENAS"
+  branch: null
+  swift: EKSRFI21
+    
+- name: "ELCOTEQ SE"
+  city: "ESPOO"
+  branch: null
+  swift: ELCOFI21
+    
+- name: "ELINA PANKKIIRILIIKE OY"
+  city: "HELSINKI"
+  branch: null
+  swift: ELPAFIH1
+    
+- name: "ELITE PRIVATE BANKING LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: ELPRFIH1
+    
+- name: "ELO MUTUAL PENSION INSURANCE COMPANY"
+  city: "ESPOO"
+  branch: null
+  swift: EMPNFI21
+    
+- name: "EMISSIONS TRADING REGISTRY OF FINLAND"
+  city: "HELSINKI"
+  branch: null
+  swift: ETRFFIH1
+    
+- name: "ENON OSUUSPANKKI"
+  city: "ENO"
+  branch: null
+  swift: ENOSFI21
+    
+- name: "EQ ASSET MANAGEMENT OY"
+  city: "HELSINKI"
+  branch: null
+  swift: ASNGFIH1
+    
+- name: "EQ PANKKI OY"
+  city: "HELSINKI"
+  branch: null
+  swift: EQPIFIH1
+    
+- name: "EQ TURKU OMAISUUDENHOITO OY"
+  city: "TURKU"
+  branch: null
+  swift: TUOMFI21
+    
+- name: "ERAJARVEN SAASTOPANKKI"
+  city: "ERAJARVI"
+  branch: null
+  swift: ERSSFI21
+    
+- name: "ERIK SELIN BANKERS LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: ERSBFIH1
+    
+- name: "ERIKOISSIJOITUSRAHASTO NORDEA NAVIGO"
+  city: "HELSINKI"
+  branch: null
+  swift: ERNNFIH1
+    
+- name: "ESTLANDER AND PARTNERS LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: ESPRFIH1
+    
+- name: "ESTLANDER AND RONNLUND FINANCIAL PRODUCTS OY"
+  city: "VAASA"
+  branch: null
+  swift: ERFPFI21
+    
+- name: "ETELA-KARJALAN OSUUSPANKKI"
+  city: "LAPPEENRANTA"
+  branch: null
+  swift: ETOSFI21
+    
+- name: "ETELA-KARJALAN SAASTOPANKKI"
+  city: "LAPPEENRANTA"
+  branch: null
+  swift: ETSAFI21
+    
+- name: "ETELA-PAIJANTEEN OSUUSPANKKI"
+  city: "VAAKSY"
+  branch: null
+  swift: ETOAFI21
+    
+- name: "ETELA-POHJANMAAN OSUUSPANKKI"
+  city: "SEINAJOKI"
+  branch: null
+  swift: ETOPFI21
+    
+- name: "ETELA-SAVON OSUUSPANKKI"
+  city: "MIKKELI"
+  branch: null
+  swift: ETOUFI21
+    
+- name: "ETERA MUTUAL PENSION INS. CO."
+  city: "HELSINKI"
+  branch: null
+  swift: EMPIFI21
+    
+- name: "EUFEX PANKKI OYJ"
+  city: "HELSINKI"
+  branch: null
+  swift: EUFPFIH1
+    
+- name: "EURAJOEN SAASTOPANKKI"
+  city: "RAUMA"
+  branch: null
+  swift: EUSPFI21
+    
+- name: "EURAN OSUUSPANKKI"
+  city: "EURA"
+  branch: null
+  swift: EUOUFI21
+    
+- name: "EUROCARD AB, FILIAL I FINLAND"
+  city: "HELSINGFORS"
+  branch: null
+  swift: EUFFFIH1
+    
+- name: "EUROCLEAR FINLAND LTD"
+  city: "HELSINKI"
+  branch: CSD COMMUNITY
+  swift: APKEFIHHCLP
+    
+- name: "EUROCLEAR FINLAND LTD"
+  city: "HELSINKI"
+  branch: MONEY MARKET SYSTEM
+  swift: APKEFIHHATP
+    
+- name: "EUROCLEAR FINLAND LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: APKEFIHH
+    
+- name: "EUROCLEAR FINLAND LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: APKEFIHHMIG
+    
+- name: "EVLI BANK PLC"
+  city: "HELSINKI"
+  branch: INVESTMENT FUNDS
+  swift: EVSEFIHHFND
+    
+- name: "EVLI BANK PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: EVSEFIHH
+    
+- name: "FA SOLUTIONS OY"
+  city: "HELSINKI"
+  branch: null
+  swift: SOLTFIH1
+    
+- name: "FENNIA ASSET MANAGEMENT LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: FEANFIH1
+    
+- name: "FIM ASSET MANAGEMENT LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: FMAMFIH1
+    
+- name: "FIM PANKKIIRILIIKE"
+  city: "HELSINKI"
+  branch: null
+  swift: FIPAFIH1
+    
+- name: "FINLANDIA GROUP OYJ"
+  city: "HELSINKI"
+  branch: null
+  swift: FIGYFIH1
+    
+- name: "FINNAIR PLC"
+  city: "VANTAA"
+  branch: null
+  swift: FNARFI21
+    
+- name: "FOLKIA AS, SUOMEN SIVULIIKE"
+  city: "HELSINKI"
+  branch: null
+  swift: FOSIFIH1
+    
+- name: "FOREA CAPITAL OY"
+  city: "HELSINKI"
+  branch: null
+  swift: FOCTFIH1
+    
+- name: "FOREX BANK AB, FILIAL I FINLAND"
+  city: "HELSINKI"
+  branch: null
+  swift: FORXFIH1
+    
+- name: "FORSSAN SEUDUN OSUUSPANKKI"
+  city: "FORSSA"
+  branch: null
+  swift: FOSOFI21
+    
+- name: "FORTUM OYJ"
+  city: "ESPOO"
+  branch: null
+  swift: FOOYFI21
+    
+- name: "FOURTON OY"
+  city: "ESPOO"
+  branch: null
+  swift: FOURFI21
+    
+- name: "FRONT CAPITAL OY"
+  city: "HELSINKI"
+  branch: null
+  swift: FRCPFIH1
+    
+- name: "FSB OY PANKKIIRILIIKE"
+  city: "HELSINKI"
+  branch: null
+  swift: FSOPFIH1
+    
+- name: "GCC CAPITAL AB, FILIAL I FINLAND"
+  city: "HELSINKI"
+  branch: null
+  swift: GCFFFIH1
+    
+- name: "GLITNIR ALTERNATIVE INVESTMENTS OY"
+  city: "HELSINKI"
+  branch: null
+  swift: GLAIFIH1
+    
+- name: "HAAPAJARVEN OSUUSPANKKI"
+  city: "HAAPAJARVI"
+  branch: null
+  swift: HAOUFI21
+    
+- name: "HAAPAMAEN SEUDUN OSUUSPANKKI"
+  city: "HAAPAMAKI"
+  branch: null
+  swift: HASKFI21
+    
+- name: "HAILUODON OSUUSPANKKI"
+  city: "HAILUOTO"
+  branch: null
+  swift: HAOAFI21
+    
+- name: "HALSUAN OSUUSPANKKI"
+  city: "HALSUA"
+  branch: null
+  swift: HAONFI21
+    
+- name: "HAMEENLINNAN SEUDUN OSUUSPANKKI"
+  city: "HAMEENLINNA"
+  branch: null
+  swift: HAEOFI21
+    
+- name: "HAMINAN SEUDUN OSUUSPANKKI"
+  city: "HAMINA"
+  branch: null
+  swift: HAEPFI21
+    
+- name: "HANNULAN OSUUSPANKKI"
+  city: "HANNULA"
+  branch: null
+  swift: HAOSFI21
+    
+- name: "HARJAVALLAN OSUUSPANKKI"
+  city: "HARJAVALTA"
+  branch: null
+  swift: HAOKFI21
+    
+- name: "HARTOLAN OSUUSPANKKI"
+  city: "HARTOLA"
+  branch: null
+  swift: HAOIFI21
+    
+- name: "HAUHON OSUUSPANKKI"
+  city: "HAUHO"
+  branch: null
+  swift: HAUSFI21
+    
+- name: "HAUKIVUOREN OSUUSPANKKI"
+  city: "HAUKIVUORI"
+  branch: null
+  swift: HAUUFI21
+    
+- name: "HEAD ASSET MANAGEMENT OY"
+  city: "HELSINKI"
+  branch: null
+  swift: HEAAFIH1
+    
+- name: "HEINAVEDEN OSUUSPANKKI"
+  city: "HEINAVESI"
+  branch: null
+  swift: HEOUFI21
+    
+- name: "HELLANMAAN OSUUSPANKKI"
+  city: "LAPUA"
+  branch: null
+  swift: HEOSFI21
+    
+- name: "HELMI SAASTOPANKKI OY"
+  city: "LAHTI"
+  branch: null
+  swift: HESAFI21
+    
+- name: "HELSINGIN OP PANKKI OYJ"
+  city: "HELSINKI"
+  branch: null
+  swift: HEPYFI21
+    
+- name: "HELSINKI CAPITAL PARTNERS RAHASTOYHTIO OY"
+  city: "HELSINKI"
+  branch: null
+  swift: HCPRFIH1
+    
+- name: "HIMANGAN OSUUSPANKKI"
+  city: "HIMANKA"
+  branch: null
+  swift: HIOSFI21
+    
+- name: "HIRVENSALMEN OSUUSPANKKI"
+  city: "HIRVENSALMI"
+  branch: null
+  swift: HIOUFI21
+    
+- name: "HOLVI PAYMENT SERVICES LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: HOLVFIHH
+    
+- name: "HONKAJOEN OSUUSPANKKI"
+  city: "HONKAJOKI"
+  branch: null
+  swift: HOOSFI21
+    
+- name: "HONKILAHDEN OSUUSPANKKI"
+  city: "HONKILAHTI"
+  branch: null
+  swift: HOOUFI21
+    
+- name: "HUHTAMON OSUUSPANKKI"
+  city: "HUHTAMO"
+  branch: null
+  swift: HUOSFI21
+    
+- name: "HUITTISTEN OSUUSPANKKI"
+  city: "HUITTINEN"
+  branch: null
+  swift: HUOUFI21
+    
+- name: "HUITTISTEN SAASTOPANKKI"
+  city: "HUITTINEN"
+  branch: null
+  swift: HUSOFI21
+    
+- name: "HUMPPILAN OSUUSPANKKI"
+  city: "HUMPPILA"
+  branch: null
+  swift: HUOPFI21
+    
+- name: "ICECAPITAL ASSET MANAGEMENT LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: ICSNFIH1
+    
+- name: "ICECAPITAL MARKETS LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: ICSUFIH1
+    
+- name: "IF P AND C INSURANCE LTD"
+  city: "ESPOO"
+  branch: null
+  swift: IFPCFIH1
+    
+- name: "IKAALISTEN OSUUSPANKKI"
+  city: "IKAALINEN"
+  branch: null
+  swift: IKOSFI21
+    
+- name: "IKANO BANK AB (PUBL), FINLAND FILIAL"
+  city: "VANTAA"
+  branch: null
+  swift: KPFFFI21
+    
+- name: "ILOMANTSIN OSUUSPANKKI"
+  city: "ILOMANTSI"
+  branch: null
+  swift: ILOSFI21
+    
+- name: "INDEX HELSINKI OSAKEYHTIO"
+  city: "HELSINKI"
+  branch: null
+  swift: INHAFIH1
+    
+- name: "INVESTA ASSET MANAGEMENT"
+  city: "HELSINKI"
+  branch: null
+  swift: INATFIH1
+    
+- name: "ISOJOEN OSUUSPANKKI"
+  city: "ISOJOKI"
+  branch: null
+  swift: ISOUFI21
+    
+- name: "J.P. MORGAN EUROPE LIMITED, HELSINGIN SIVULIIKE"
+  city: "HELSINKI"
+  branch: null
+  swift: CHASFIHH
+    
+- name: "JAM ADVISORS LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: JAADFIH1
+    
+- name: "JAMIJARVEN OSUUSPANKKI"
+  city: "JAMIJARVI"
+  branch: null
+  swift: JAOUFI21
+    
+- name: "JAMSAN SEUDUN OSUUSPANKKI"
+  city: "JAMSA"
+  branch: null
+  swift: JASSFI21
+    
+- name: "JANAKKALAN OSUUSPANKKI"
+  city: "TURENKI"
+  branch: null
+  swift: JAOPFI21
+    
+- name: "JOENSUUN SEUDUN OSUUSPANKKI"
+  city: "JOENSUU"
+  branch: null
+  swift: JOSSFI21
+    
+- name: "JOKIOISTEN OSUUSPANKKI"
+  city: "JOKIOINEN"
+  branch: null
+  swift: JOOSFI21
+    
+- name: "JOROISTEN OSUUSPANKKI"
+  city: "JOROINEN"
+  branch: null
+  swift: JORUFI21
+    
+- name: "JUUAN OSUUSPANKKI"
+  city: "JUUKA"
+  branch: null
+  swift: JUOSFI21
+    
+- name: "KAINUUN OSUUSPANKKI"
+  city: "KAJAANI"
+  branch: null
+  swift: KAOKFI21
+    
+- name: "KALAJOEN OSUUSPANKKI"
+  city: "KALAJOKI"
+  branch: null
+  swift: KAOIFI21
+    
+- name: "KALANNIN SAASTOPANKKI"
+  city: "UUSIKAUPUNKI"
+  branch: null
+  swift: KALAFI21
+    
+- name: "KALKKISTEN OSUUSPANKKI"
+  city: "KALKKINEN"
+  branch: null
+  swift: KASPFI21
+    
+- name: "KANGASALAN SEUDUN OSUUSPANKKI"
+  city: "KANGASALA"
+  branch: null
+  swift: KASOFI21
+    
+- name: "KANGASNIEMEN OSUUSPANKKI"
+  city: "KANGASNIEMI"
+  branch: null
+  swift: KAUSFI21
+    
+- name: "KANNONKOSKEN OSUUSPANKKI"
+  city: "KANNONKOSKI"
+  branch: null
+  swift: KANOFI21
+    
+- name: "KANNUKSEN OSUUSPANKKI"
+  city: "KANNUS"
+  branch: null
+  swift: KAUUFI21
+    
+- name: "KANTASAASTOPANKKI OY"
+  city: "HAMEENLINNA"
+  branch: null
+  swift: KANPFI21
+    
+- name: "KARJALAN OSUUSPANKKI"
+  city: "MYNAMAKI"
+  branch: null
+  swift: KAUAFI21
+    
+- name: "KARKOLAN OSUUSPANKKI"
+  city: "JARVELA"
+  branch: null
+  swift: KAOSFI21
+    
+- name: "KARKUN OSUUSPANKKI"
+  city: "SASTAMALA"
+  branch: null
+  swift: KAUNFI21
+    
+- name: "KARVIAN OSUUSPANKKI"
+  city: "KARVIA"
+  branch: null
+  swift: KAOPFI21
+    
+- name: "KAUSTISEN OSUUSPANKKI"
+  city: "KAUSTINEN"
+  branch: null
+  swift: KAOAFI21
+    
+- name: "KAYLAN OSUUSPANKKI"
+  city: "KAYLA"
+  branch: null
+  swift: KAONFI21
+    
+- name: "KEIKYAN OSUUSPANKKI"
+  city: "SASTAMALA"
+  branch: null
+  swift: KESKFI21
+    
+- name: "KEITELEEN OSUUSPANKKI"
+  city: "KEITELE"
+  branch: null
+  swift: KEOPFI21
+    
+- name: "KEMIN SEUDUN OSUUSPANKKI"
+  city: "KEMI"
+  branch: null
+  swift: KESOFI21
+    
+- name: "KEMIRA OYJ"
+  city: "HELSINKI"
+  branch: null
+  swift: KEMIFIH1
+    
+- name: "KERIMAEN OSUUSPANKKI"
+  city: "KERIMAKI"
+  branch: null
+  swift: KEOKFI21
+    
+- name: "KESALAHDEN OSUUSPANKKI"
+  city: "KESALAHTI"
+  branch: null
+  swift: KEOIFI21
+    
+- name: "KESKINAINEN ELAKEVAKUUTUSYHTIOE ILMARINEN"
+  city: "HELSINKI"
+  branch: null
+  swift: IMPIFIH1
+    
+- name: "KESKI-SUOMEN OSUUSPANKKI"
+  city: "JYVASKYLA"
+  branch: null
+  swift: KEOUFI21
+    
+- name: "KESKI-UUDENMAAN OSUUSPANKKI"
+  city: "JARVENPAA"
+  branch: null
+  swift: KEONFI21
+    
+- name: "KEURUUN OSUUSPANKKI"
+  city: "KEURUU"
+  branch: null
+  swift: KEOAFI21
+    
+- name: "KIHNION OSUUSPANKKI"
+  city: "KIHNIO"
+  branch: null
+  swift: KIOUFI21
+    
+- name: "KIIHTELYSVAARAN OSUUSPANKKI"
+  city: "KIIHTELYSVAARA"
+  branch: null
+  swift: KIOPFI21
+    
+- name: "KIIKOISTEN OSUUSPANKKI"
+  city: "KIIKOINEN"
+  branch: null
+  swift: KIOAFI21
+    
+- name: "KIIKOISTEN SAASTOPANKKI"
+  city: "KIIKOINEN"
+  branch: null
+  swift: KISOFI21
+    
+- name: "KITEEN SEUDUN OSUUSPANKKI"
+  city: "KITEE"
+  branch: null
+  swift: KISUFI21
+    
+- name: "KIURUVEDEN OSUUSPANKKI"
+  city: "KIURUVESI"
+  branch: null
+  swift: KIOSFI21
+    
+- name: "KJK CAPITAL OY"
+  city: "HELSINKI"
+  branch: null
+  swift: KJKCFIH1
+    
+- name: "KOILLIS-SAVON OSUUSPANKKI"
+  city: "NILSIA"
+  branch: null
+  swift: KOOUFI21
+    
+- name: "KOITIN-PERTUNMAAN OSUUSPANKKI"
+  city: "KOITTI"
+  branch: null
+  swift: KOOKFI21
+    
+- name: "KOKEMAEN OSUUSPANKKI"
+  city: "KOKEMAKI"
+  branch: null
+  swift: KOOIFI21
+    
+- name: "KOKKOLAN OSUUSPANKKI"
+  city: "KOKKOLA"
+  branch: null
+  swift: KOSPFI21
+    
+- name: "KONE CORPORATION"
+  city: "ESPOO"
+  branch: null
+  swift: KONEFI22
+    
+- name: "KONNEVEDEN OSUUSPANKKI"
+  city: "KONNEVESI"
+  branch: null
+  swift: KONOFI21
+    
+- name: "KORPILAHDEN OSUUSPANKKI"
+  city: "KORPILAHTI"
+  branch: null
+  swift: KOSNFI21
+    
+- name: "KORSNAS ANDELSBANK"
+  city: "KORSNAS"
+  branch: null
+  swift: KOADFI21
+    
+- name: "KORTESJARVEN SAASTOPANKKI"
+  city: "KORTESJARVI"
+  branch: null
+  swift: KOSAFI21
+    
+- name: "KOSKEN OSUUSPANKKI"
+  city: "KOSKI TL"
+  branch: null
+  swift: KOOSFI21
+    
+- name: "KOTKAN SEUDUN OSUUSPANKKI"
+  city: "KOTKA"
+  branch: null
+  swift: KOSOFI21
+    
+- name: "KOUVOLAN SEUDUN OSUUSPANKKI"
+  city: "KOUVOLA"
+  branch: null
+  swift: KOSUFI21
+    
+- name: "KOYLION OSUUSPANKKI"
+  city: "KOYLIO"
+  branch: null
+  swift: KOONFI21
+    
+- name: "KRISTINESTADS SPARBANK"
+  city: "LAPPFJARD"
+  branch: null
+  swift: KRSNFI21
+    
+- name: "KRONOBY ANDELSBANK"
+  city: "KRONOBY"
+  branch: null
+  swift: KRADFI21
+    
+- name: "KUHMOISTEN OSUUSPANKKI"
+  city: "KUHMOINEN"
+  branch: null
+  swift: KUOAFI21
+    
+- name: "KUHMON OSUUSPANKKI"
+  city: "KUHMO"
+  branch: null
+  swift: KUOPFI21
+    
+- name: "KUNTIEN ELAKEVAKUUTUS"
+  city: "HELSINKI"
+  branch: null
+  swift: KUELFIH1
+    
+- name: "KUORTANEEN OSUUSPANKKI"
+  city: "KUORTANE"
+  branch: null
+  swift: KUONFI21
+    
+- name: "KURIKAN OSUUSPANKKI"
+  city: "KURIKKA"
+  branch: null
+  swift: KUOUFI21
+    
+- name: "KURUN OSUUSPANKKI"
+  city: "KURU"
+  branch: null
+  swift: KUOKFI21
+    
+- name: "KUUSAMON OSUUSPANKKI"
+  city: "KUUSAMO"
+  branch: null
+  swift: KUSSFI21
+    
+- name: "KVEVLAX SPARBANK"
+  city: "KORSHOLM"
+  branch: null
+  swift: KVSPFI21
+    
+- name: "KYMIJOEN OSUUSPANKKI"
+  city: "ANJALANKOSKI"
+  branch: null
+  swift: KYOPFI21
+    
+- name: "KYRON SEUDUN OSUUSPANKKI"
+  city: "KYRO"
+  branch: null
+  swift: KYSOFI21
+    
+- name: "KYRONMAAN OSUUSPANKKI"
+  city: "ISOKYRO"
+  branch: null
+  swift: KYOUFI21
+    
+- name: "KYYJARVEN OSUUSPANKKI"
+  city: "KYYJARVI"
+  branch: null
+  swift: KYYOFIH1
+    
+- name: "LAGO KAPITAL LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: LAGOFIH1
+    
+- name: "LAIHIAN OSUUSPANKKI"
+  city: "LAIHIA"
+  branch: null
+  swift: LAOPFI21
+    
+- name: "LAMMIN OSUUSPANKKI"
+  city: "LAMMI"
+  branch: null
+  swift: LAONFI21
+    
+- name: "LAMMIN SAASTOPANKKI"
+  city: "HYVINKAA"
+  branch: null
+  swift: LAMTFI21
+    
+- name: "LAMY OY"
+  city: "HELSINKI"
+  branch: null
+  swift: LAMYFIH1
+    
+- name: "LANDSBANKI ISLANDS"
+  city: "HELSINKI"
+  branch: null
+  swift: LAISFIH1
+    
+- name: "LANGELMAEN SAASTOPANKKI"
+  city: "LANGELMAKI"
+  branch: null
+  swift: LASKFI21
+    
+- name: "LANNEVEDEN OSUUSPANKKI"
+  city: "LANNEVESI"
+  branch: null
+  swift: LAOAFI21
+    
+- name: "LANSI-KYMEN OSUUSPANKKI"
+  city: "ELIMAKI"
+  branch: null
+  swift: LAOKFI21
+    
+- name: "LANSI-SUOMEN OSUUSPANKKI"
+  city: "PORI"
+  branch: null
+  swift: LANOFI21
+    
+- name: "LANSI-UUDENMAAN OSUUSPANKKI"
+  city: "LOHJA"
+  branch: null
+  swift: LAOIFI21
+    
+- name: "LANSI-UUDENMAAN SAASTOPANKKI"
+  city: "LOHJA"
+  branch: null
+  swift: LASTFI21
+    
+- name: "LAPIN OSUUSPANKKI"
+  city: "LAPPI"
+  branch: null
+  swift: LASUFI21
+    
+- name: "LAPINLAHDEN OSUUSPANKKI"
+  city: "LAPINLAHTI"
+  branch: null
+  swift: LAPLFI21
+    
+- name: "LAPPAJARVEN OSUUSPANKKI"
+  city: "LAPPAJARVI"
+  branch: null
+  swift: LAOSFI21
+    
+- name: "LAPPO ANDELSBANK"
+  city: "LAPPO"
+  branch: null
+  swift: LAADFI21
+    
+- name: "LAPUAN OSUUSPANKKI"
+  city: "LAPUA"
+  branch: null
+  swift: LAPUFI21
+    
+- name: "LAVIAN OSUUSPANKKI"
+  city: "LAVIA"
+  branch: null
+  swift: LAOUFI21
+    
+- name: "LEHTIMAEN OSUUSPANKKI"
+  city: "LEHTIMAKI"
+  branch: null
+  swift: LEOSFI21
+    
+- name: "LEMIN OSUUSPANKKI"
+  city: "LEMI"
+  branch: null
+  swift: LEOKFI21
+    
+- name: "LEPPAVIRRAN OSUUSPANKKI"
+  city: "LEPPAVIRTA"
+  branch: null
+  swift: LEOUFI21
+    
+- name: "LIEDON OSUUSPANKKI"
+  city: "LIETO"
+  branch: null
+  swift: LIOSFI21
+    
+- name: "LIEDON SAASTOPANKKI"
+  city: "LIETO"
+  branch: null
+  swift: LSAAFI21
+    
+- name: "LIMINGAN OSUUSPANKKI"
+  city: "LIMINKA"
+  branch: null
+  swift: LIOUFI21
+    
+- name: "LIPERIN OSUUSPANKKI"
+  city: "LIPERI"
+  branch: null
+  swift: LIOPFI21
+    
+- name: "LIQVINET OY"
+  city: "HELSINKI"
+  branch: null
+  swift: LIQVFIH1
+    
+- name: "LOCALTAPIOLA ASSET MANAGEMENT LTD"
+  city: "ESPOO"
+  branch: null
+  swift: LTAPFI22
+    
+- name: "LOIMAAN SEUDUN OSUUSPANKKI"
+  city: "LOIMAA"
+  branch: null
+  swift: LOSOFI21
+    
+- name: "LOKALAHDEN OSUUSPANKKI"
+  city: "LOKALAHTI"
+  branch: null
+  swift: LOOSFI21
+    
+- name: "LOPEN OSUUSPANKKI"
+  city: "LOPPI"
+  branch: null
+  swift: LOOUFI21
+    
+- name: "LOUNAIS-SUOMEN OSUUSPANKKI"
+  city: "PAIMIO"
+  branch: null
+  swift: LOOPFI21
+    
+- name: "LUHANGAN OSUUSPANKKI"
+  city: "TAMMIJARVI"
+  branch: null
+  swift: LUOPFI21
+    
+- name: "LUOPIOISTEN OSUUSPANKKI"
+  city: "LUOPIOINEN"
+  branch: null
+  swift: LUOSFI21
+    
+- name: "LUUMAEN OSUUSPANKKI"
+  city: "TAAVETTI"
+  branch: null
+  swift: LUOAFI21
+    
+- name: "LUVIAN OSUUSPANKKI"
+  city: "LUVIA"
+  branch: null
+  swift: LUOUFI21
+    
+- name: "MAANINGAN OSUUSPANKKI"
+  city: "MAANINKA"
+  branch: null
+  swift: MAOAFI21
+    
+- name: "MANDATUM LIFE INVESTMENT SERVICES LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: MLIRFIH1
+    
+- name: "MANTAN SEUDUN OSUUSPANKKI"
+  city: "MANTTA"
+  branch: null
+  swift: MAEKFI21
+    
+- name: "MANTSALAN OSUUSPANKKI"
+  city: "MANTSALA"
+  branch: null
+  swift: MAOKFI21
+    
+- name: "MARTTILAN OSUUSPANKKI"
+  city: "MARTTILA"
+  branch: null
+  swift: MAUNFI21
+    
+- name: "MASKUN OSUUSPANKKI"
+  city: "MASKU"
+  branch: null
+  swift: MAUKFI21
+    
+- name: "MB CORPORATE FINANCE LIMITED"
+  city: "HELSINKI"
+  branch: null
+  swift: MBCFFIH1
+    
+- name: "MELLILAN SEUDUN OSUUSPANKKI"
+  city: "MELLILA"
+  branch: null
+  swift: MESNFI21
+    
+- name: "MERIMASKUN OSUUSPANKKI"
+  city: "MERIMASKU"
+  branch: null
+  swift: MEOSFI21
+    
+- name: "METSA GROUP TREASURY OY"
+  city: "ESPOO"
+  branch: null
+  swift: MGRPFI22
+    
+- name: "METSAMAAN OSUUSPANKKI"
+  city: "METSAMAA"
+  branch: null
+  swift: MEOUFI21
+    
+- name: "METSO CORPORATION"
+  city: "HELSINKI"
+  branch: null
+  swift: MTSOFIHH
+    
+- name: "MIEHIKKALAN OSUUSPANKKI"
+  city: "MIEHIKKALA"
+  branch: null
+  swift: MIOUFI21
+    
+- name: "MIETOISTEN SAASTOPANKKI"
+  city: "MIETOINEN"
+  branch: null
+  swift: MISNFI21
+    
+- name: "MODEL IT OY"
+  city: "HELSINKI"
+  branch: null
+  swift: MDDEFIH1
+    
+- name: "MOUHIJARVEN OSUUSPANKKI"
+  city: "SASTAMALA"
+  branch: null
+  swift: MOOUFI21
+    
+- name: "MULTIAN OSUUSPANKKI"
+  city: "MULTIA"
+  branch: null
+  swift: MUOSFI21
+    
+- name: "MUNICIPALITY FINANCE PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: MUFIFIHH
+    
+- name: "MYNAMAEN OSUUSPANKKI"
+  city: "MYNAMAKI"
+  branch: null
+  swift: MYOSFI21
+    
+- name: "MYRSKYLAN OSUUSPANKKI"
+  city: "MYRSKYLA"
+  branch: null
+  swift: MYOUFI21
+    
+- name: "MYRSKYLAN SAASTOPANKKI"
+  city: "MYRSKYLA"
+  branch: null
+  swift: MYSAFI21
+    
+- name: "NAGU ANDELSBANK"
+  city: "NAGU"
+  branch: null
+  swift: NAANFI21
+    
+- name: "NAKKILAN OSUUSPANKKI"
+  city: "NAKKILA"
+  branch: null
+  swift: NAOUFI21
+    
+- name: "NARPES SPARBANK"
+  city: "NARPES"
+  branch: null
+  swift: NASKFI21
+    
+- name: "NATIONAL WESTMINSTER BANK PLC, FILIAL I FINLAND"
+  city: "HELSINKI"
+  branch: null
+  swift: NWFFFIH1
+    
+- name: "NESTE OYJ"
+  city: "ESPOO"
+  branch: null
+  swift: NSTEFI22
+    
+- name: "NETPOSTI"
+  city: "HELSINKI"
+  branch: null
+  swift: NETPFIH1
+    
+- name: "NIINIJOEN OSUUSPANKKI"
+  city: "NIINIJOKI"
+  branch: null
+  swift: NIOSFI21
+    
+- name: "NIVALAN JARVIKYLAN OSUUSPANKKI"
+  city: "NIVALA"
+  branch: null
+  swift: NIJOFI21
+    
+- name: "NIVALAN OSUUSPANKKI"
+  city: "NIVALA"
+  branch: null
+  swift: NIOUFI21
+    
+- name: "NOKIA CORPORATION"
+  city: "ESPOO"
+  branch: null
+  swift: NOOAFI21
+    
+- name: "NOMURA INTERNATIONAL PLC, SUOMEN SIVULIIKE"
+  city: "HELSINKI"
+  branch: null
+  swift: NISUFIH1
+    
+- name: "NOOA SAASTOEPANKKI OY"
+  city: "HELSINKI"
+  branch: null
+  swift: NOASFIH1
+    
+- name: "NORDEA AAA GOVERNMENT BOND FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NAGBFIH1
+    
+- name: "NORDEA AKTIEFOND STABIL"
+  city: "HELSINKI"
+  branch: null
+  swift: NOKTFIH1
+    
+- name: "NORDEA AKTIEFONDEN SVERIGE"
+  city: "HELSINKI"
+  branch: null
+  swift: NOKVFIH1
+    
+- name: "NORDEA AKTIEFONDEN VAERDEN"
+  city: "HELSINKI"
+  branch: null
+  swift: NOKAFIH1
+    
+- name: "NORDEA ALFA"
+  city: "HELSINKI"
+  branch: null
+  swift: NOLLFIH1
+    
+- name: "NORDEA AVTALSPENSIONSFOND MIDI"
+  city: "HELSINKI"
+  branch: null
+  swift: NOVDFIH1
+    
+- name: "NORDEA BANK AB (PUBL), FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: MARKETS CLIENTS
+  swift: NDEAFIHHNFC
+    
+- name: "NORDEA BANK AB (PUBL), FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: MARKETS EQUITIES
+  swift: NDEAFIHH030
+    
+- name: "NORDEA BANK AB (PUBL), FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: MARKETS HOUSE
+  swift: NDEAFIHHNFH
+    
+- name: "NORDEA BANK AB (PUBL), FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: NORDEA FINANCE FINLAND LTD
+  swift: NDEAFIHHNFF
+    
+- name: "NORDEA BANK AB (PUBL), FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: NDEAFIHH
+    
+- name: "NORDEA BANK AB (PUBL), FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: NDEAFIHHISA
+    
+- name: "NORDEA BANK AB (PUBL), FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: NDEAFIHHNCL
+    
+- name: "NORDEA BANK AB (PUBL), FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: NDEAFIHHNMB
+    
+- name: "NORDEA BANK AB (PUBL), FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: NDEAFIHHTRI
+    
+- name: "NORDEA CAPITAL PROTECTION 75"
+  city: "HELSINKI"
+  branch: null
+  swift: NOAOFIH1
+    
+- name: "NORDEA CHINA FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOHFFIH1
+    
+- name: "NORDEA CORPORATE BOND FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NCBFFIH1
+    
+- name: "NORDEA DONATIONSMEDELSFOND"
+  city: "HELSINKI"
+  branch: null
+  swift: NODOFIH1
+    
+- name: "NORDEA EASTERN EUROPE FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NEEFFIH1
+    
+- name: "NORDEA EMERGING MARKET BOND FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NEMOFIH1
+    
+- name: "NORDEA EMERGING MARKET EQUITIES FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NEMEFIH1
+    
+- name: "NORDEA EQUITY PORTFOLIO"
+  city: "HELSINKI"
+  branch: null
+  swift: NOELFIH1
+    
+- name: "NORDEA EURO MEDIUM TERM BOND FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NEMTFIH1
+    
+- name: "NORDEA EUROPE FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOEUFIH1
+    
+- name: "NORDEA EUROPEAN EQUITY MARKETS FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NEEMFIH1
+    
+- name: "NORDEA EUROPEAN HIGH YIELD FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NEHYFIH1
+    
+- name: "NORDEA EUROPEAN INDEX FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NEIFFIH1
+    
+- name: "NORDEA EUROPEAN NEW FRONTIERS"
+  city: "HELSINKI"
+  branch: null
+  swift: NENFFIH1
+    
+- name: "NORDEA FAR EAST FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NFEFFIH1
+    
+- name: "NORDEA FINLAND FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOFUFIH1
+    
+- name: "NORDEA FINNISH 130/30"
+  city: "HELSINKI"
+  branch: null
+  swift: NOFHFIH1
+    
+- name: "NORDEA FINNISH SMALL CAP"
+  city: "HELSINKI"
+  branch: null
+  swift: NFMCFIH1
+    
+- name: "NORDEA FIXED INCOME PORTFOLIO PLUS"
+  city: "HELSINKI"
+  branch: null
+  swift: NFIOFIH1
+    
+- name: "NORDEA FOERETAGSOBLIGATIONSFOND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOFEFIH1
+    
+- name: "NORDEA FORESTA FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOFFFIH1
+    
+- name: "NORDEA GENERATIONSFOND 90-TAL"
+  city: "HELSINKI"
+  branch: null
+  swift: NONTFIH1
+    
+- name: "NORDEA GENERATIONSFOND SENIOR"
+  city: "HELSINKI"
+  branch: null
+  swift: NONEFIH1
+    
+- name: "NORDEA GLOBAL DIVIDEND FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NGDFFIH1
+    
+- name: "NORDEA GLOBAL EMERGING MARKETS EQUITIES UCITS ETF"
+  city: "HELSINKI"
+  branch: null
+  swift: NGEMFIH1
+    
+- name: "NORDEA GLOBAL ENCHANCED FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NGEFFIH1
+    
+- name: "NORDEA GLOBAL HIGH YIELD"
+  city: "HELSINKI"
+  branch: null
+  swift: NGHYFIH1
+    
+- name: "NORDEA GLOBAL INDEX FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NGIFFIH1
+    
+- name: "NORDEA GLOBAL TECHNOLOGY FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NGTFFIH1
+    
+- name: "NORDEA HENKIVAKUUTUS"
+  city: "HELSINKI"
+  branch: null
+  swift: NOHEFIH1
+    
+- name: "NORDEA INDEXFOND SVERIGE"
+  city: "HELSINKI"
+  branch: null
+  swift: NONSFIH1
+    
+- name: "NORDEA INDIA FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOIFFIH1
+    
+- name: "NORDEA INSTITUTIONELL AKTIEFOERVALTNING"
+  city: "HELSINKI"
+  branch: null
+  swift: NOIKFIH1
+    
+- name: "NORDEA INVEST, EUROPEAN SMALLER FAVOURITES FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NIEMFIH1
+    
+- name: "NORDEA INVESTMENT MANAGEMENT AB FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: NIMFFIH1
+    
+- name: "NORDEA JAPAN FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOJFFIH1
+    
+- name: "NORDEA LATINAMERIKAFOND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOLTFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, AKTIVA AGGRESSIV"
+  city: "HELSINKI"
+  branch: null
+  swift: NLSAFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, AKTIVA BALANS"
+  city: "HELSINKI"
+  branch: null
+  swift: NLADFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, AKTIVA DEFENSIV"
+  city: "HELSINKI"
+  branch: null
+  swift: NLSNFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, AKTIVA GLOBAL"
+  city: "HELSINKI"
+  branch: null
+  swift: NLAGFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, AKTIVA OFFENSIV"
+  city: "HELSINKI"
+  branch: null
+  swift: NLSLFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, ALTERNATIVES"
+  city: "HELSINKI"
+  branch: null
+  swift: NLALFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, EQUITY NLP"
+  city: "HELSINKI"
+  branch: null
+  swift: NLAFFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, ERKKI ETOLA"
+  city: "HELSINKI"
+  branch: null
+  swift: NLSIFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, HEIKKI KYOSTILA"
+  city: "HELSINKI"
+  branch: null
+  swift: NLAAFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, KAUPPA JA KONE"
+  city: "HELSINKI"
+  branch: null
+  swift: NLANFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, NORDEA MAAILMA OSAKE"
+  city: "HELSINKI"
+  branch: null
+  swift: NLSDFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, PRIVATE EQUITY"
+  city: "HELSINKI"
+  branch: null
+  swift: NLPQFIH1
+    
+- name: "NORDEA LIFE ASSURANCE FINLAND LTD, REAL ESTATE"
+  city: "HELSINKI"
+  branch: null
+  swift: NLSFFIH1
+    
+- name: "NORDEA MEDICA FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOMFFIH1
+    
+- name: "NORDEA NORDENFOND"
+  city: "HELSINKI"
+  branch: null
+  swift: NONOFIH1
+    
+- name: "NORDEA NORDIC FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NONFFIH1
+    
+- name: "NORDEA NORDIC SMALL CAP FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NNSCFIH1
+    
+- name: "NORDEA NORSK KREDITTOBLIGASJON FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NNKFFIH1
+    
+- name: "NORDEA NORTH AMERICA FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NNAFFIH1
+    
+- name: "NORDEA OBLIGATIONSFOND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOOIFIH1
+    
+- name: "NORDEA OLYMPIAFOND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOOLFIH1
+    
+- name: "NORDEA PLAN KONSERVATIV PLACERINGSFORENING"
+  city: "HELSINKI"
+  branch: null
+  swift: NPKPFIH1
+    
+- name: "NORDEA PREMIUM ASSET MANAGEMENT BALANCED FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPAAFIH1
+    
+- name: "NORDEA PREMIUM ASSET MANAGEMENT CONSERVATIVE FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPATFIH1
+    
+- name: "NORDEA PREMIUM ASSET MANAGEMENT GLOBAL BALANCED FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NGBFFIH1
+    
+- name: "NORDEA PREMIUM ASSET MANAGEMENT GLOBAL GROWTH FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NGGFFIH1
+    
+- name: "NORDEA PREMIUM ASSET MANAGEMENT GLOBAL MODERATE FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NGMFFIH1
+    
+- name: "NORDEA PREMIUM ASSET MANAGEMENT GROWTH FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPAGFIH1
+    
+- name: "NORDEA PREMIUM ASSET MANAGEMENT MODERATE FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPANFIH1
+    
+- name: "NORDEA PRIVATE BANKING EQUITY OPPORTUNITIES FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPEOFIH1
+    
+- name: "NORDEA PRIVATE BANKING FIXED INCOME"
+  city: "HELSINKI"
+  branch: null
+  swift: NPFCFIH1
+    
+- name: "NORDEA PRIVATE BANKING FOCUS FINLAND FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPFIFIH1
+    
+- name: "NORDEA PRIVATE BANKING FOCUS NORDIC FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPFNFIH1
+    
+- name: "NORDEA PRIVATE BANKING KORT OBLIGASJON FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPKOFIH1
+    
+- name: "NORDEA PRIVATE BANKING LIKVIDITET FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPLFFIH1
+    
+- name: "NORDEA PRIVATE BANKING NORSK AKSJE PORTEFOLJE"
+  city: "HELSINKI"
+  branch: null
+  swift: NPNAFIH1
+    
+- name: "NORDEA PRIVATE BANKING RAENTEPORTFOELIE"
+  city: "HELSINKI"
+  branch: null
+  swift: NOPRFIH1
+    
+- name: "NORDEA PRO EUROPEAN FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPEFFIH1
+    
+- name: "NORDEA PRO FINLAND FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPFFFIH1
+    
+- name: "NORDEA PRO STABLE RETURN FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPSRFIH1
+    
+- name: "NORDEA RENTEFOND"
+  city: "HELSINKI"
+  branch: null
+  swift: NONDFIH1
+    
+- name: "NORDEA RENTEFOND LAANGA PLACEMENT"
+  city: "HELSINKI"
+  branch: null
+  swift: NRLPFIH1
+    
+- name: "NORDEA RUSSIA FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NRFNFIH1
+    
+- name: "NORDEA SAVINGS 10"
+  city: "HELSINKI"
+  branch: null
+  swift: NOVGFIH1
+    
+- name: "NORDEA SAVINGS 25"
+  city: "HELSINKI"
+  branch: null
+  swift: NOAVFIH1
+    
+- name: "NORDEA SAVINGS 25"
+  city: "HELSINKI"
+  branch: null
+  swift: NOIIFIH1
+    
+- name: "NORDEA SAVINGS 75"
+  city: "HELSINKI"
+  branch: null
+  swift: NOVVFIH1
+    
+- name: "NORDEA SAVINGS FIXED INCOME"
+  city: "HELSINKI"
+  branch: null
+  swift: NSFNFIH1
+    
+- name: "NORDEA SMAABOLAGSFOND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOSDFIH1
+    
+- name: "NORDEA STABILE EQUITIES UCITS ETF"
+  city: "HELSINKI"
+  branch: null
+  swift: NSEUFIH1
+    
+- name: "NORDEA STABLE RETURN FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NSRFFIH1
+    
+- name: "NORDEA STRATEGA 10"
+  city: "HELSINKI"
+  branch: null
+  swift: NOGGFIH1
+    
+- name: "NORDEA STRATEGA FIXED INCOME"
+  city: "HELSINKI"
+  branch: null
+  swift: NSFIFIH1
+    
+- name: "NORDEA SWE INFLATION LINKED BOND FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NSILFIH1
+    
+- name: "NORDEA SWE INSTITUTIONAL SHORT DURATION BOND FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NSISFIH1
+    
+- name: "NORDEA SWEDISH EQUIDITY MARKET FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NSEMFIH1
+    
+- name: "NORDEA SWEDISH IDEAS EQUITY FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NSIQFIH1
+    
+- name: "NORDEA SWEDISH STARS"
+  city: "HELSINKI"
+  branch: null
+  swift: NOWSFIH1
+    
+- name: "NORDEA US EQUIDITY MARKET FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NEMFFIH1
+    
+- name: "NORDEA WORLD FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOWFFIH1
+    
+- name: "NORDEA YIELD FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NOYFFIH1
+    
+- name: "NORDEAPRIVATE BANKING OBLIGASJON FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: NPOFFIH1
+    
+- name: "NORDIC INVESTMENT BANK"
+  city: "HELSINKI"
+  branch: null
+  swift: NOINFIHH
+    
+- name: "NORDNET BANK AB SUOMEN SIVULIIKE"
+  city: "HELSINKI"
+  branch: null
+  swift: NOUSFIH1
+    
+- name: "NORTHERN STAR PARTNERS OY"
+  city: "HELSINKI"
+  branch: null
+  swift: NOTPFIH1
+    
+- name: "NORVESTIA OYJ"
+  city: "HELSINKI"
+  branch: null
+  swift: NOOYFIH1
+    
+- name: "NOUSIAISTEN OSUUSPANKKI"
+  city: "NOUSIAINEN"
+  branch: null
+  swift: NOOSFI21
+    
+- name: "OMA SAASTOPANKKI OY"
+  city: "SEINAJOKI"
+  branch: null
+  swift: OMSAFI2S
+    
+- name: "OMX NORDIC EXCHANGE GROUP OY"
+  city: "HELSINKI"
+  branch: null
+  swift: XFOMFIH1
+    
+- name: "ONVEST OY"
+  city: "VANTAA"
+  branch: null
+  swift: ONVEFI21
+    
+- name: "OP CORPORATE BANK PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: OKOYFIHH
+    
+- name: "OP CORPORATE BANK PLC (MARKETS/CLEARING AND SETTLEMENT)"
+  city: "HELSINKI"
+  branch: null
+  swift: OPSEFIH1
+    
+- name: "OP PENSION FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: PEFNFIH1
+    
+- name: "OP-POHJOLA GROUP (SECURITIES TRANSACTION REPORTINGOP BRANCHES)"
+  city: "HELSINKI"
+  branch: null
+  swift: POHGFIH1
+    
+- name: "OPUSCAPITA GROUP OY"
+  city: "ESPOO"
+  branch: null
+  swift: OPUSFI2H
+    
+- name: "ORIMATTILAN OSUUSPANKKI"
+  city: "ORIMATTILA"
+  branch: null
+  swift: OROSFI21
+    
+- name: "ORIPAAN OSUUSPANKKI"
+  city: "ORIPAA"
+  branch: null
+  swift: OROPFI21
+    
+- name: "ORIVEDEN SEUDUN OSUUSPANKKI"
+  city: "ORIVESI"
+  branch: null
+  swift: ORSOFI21
+    
+- name: "OSTNYLANDS ANDELSBANK"
+  city: "BORGA"
+  branch: null
+  swift: OSANFI21
+    
+- name: "OSTRA KORSHOLMS ANDELSBANK"
+  city: "VEIKARS"
+  branch: null
+  swift: OSKNFI21
+    
+- name: "OSUUSPANKKI KANTRISALO"
+  city: "INKERE"
+  branch: null
+  swift: OSKAFI21
+    
+- name: "OULAISTEN OSUUSPANKKI"
+  city: "OULAINEN"
+  branch: null
+  swift: OUOSFI21
+    
+- name: "OULUN OSUUSPANKKI"
+  city: "OULU"
+  branch: null
+  swift: OUOPFI21
+    
+- name: "OUTOKUMMUN OSUUSPANKKI"
+  city: "OUTOKUMPU"
+  branch: null
+  swift: OUOUFI21
+    
+- name: "OUTOTEC OYJ"
+  city: "ESPOO"
+  branch: null
+  swift: OUTCFI22
+    
+- name: "OVERMARK ANDELSBANK"
+  city: "OVERMARK"
+  branch: null
+  swift: OVANFI21
+    
+- name: "OY AHOLA MALINIEMI PARTNERS AB"
+  city: "HELSINKI"
+  branch: null
+  swift: AHMPFIH1
+    
+- name: "OY SAMLINK AB"
+  city: "ESPOO"
+  branch: null
+  swift: SALKFI21
+    
+- name: "PAATTISTEN OSUUSPANKKI"
+  city: "PAATTINEN"
+  branch: null
+  swift: PAOPFI21
+    
+- name: "PAIJAT-HAMEEN OSUUSPANKKI"
+  city: "LAHTI"
+  branch: null
+  swift: PAOUFI21
+    
+- name: "PALTAMON OSUUSPANKKI"
+  city: "PALTAMO"
+  branch: null
+  swift: PAOAFI21
+    
+- name: "PARETO SECURITIES OY"
+  city: "HELSINKI"
+  branch: null
+  swift: OJFFFIH1
+    
+- name: "PARIKKALAN OSUUSPANKKI"
+  city: "PARIKKALA"
+  branch: null
+  swift: PAOKFI21
+    
+- name: "PARKANON OSUUSPANKKI"
+  city: "PARKANO"
+  branch: null
+  swift: PAOIFI21
+    
+- name: "PARKANON SAASTOPANKKI"
+  city: "PARKANO"
+  branch: null
+  swift: PAAKFI21
+    
+- name: "PEDERSORENEJDENS ANDELSBANK"
+  city: "JAKOBSTAD"
+  branch: null
+  swift: PEAEFI21
+    
+- name: "PENSION FENNIA"
+  city: "HELSINKI"
+  branch: null
+  swift: PEFEFI21
+    
+- name: "PERASEINAJOEN OSUUSPANKKI"
+  city: "PERASEINAJOKI"
+  branch: null
+  swift: PEOUFI21
+    
+- name: "PERHON OSUUSPANKKI"
+  city: "PERHO"
+  branch: null
+  swift: PEOPFI21
+    
+- name: "PETAJAVEDEN OSUUSPANKKI"
+  city: "PETAJAVESI"
+  branch: null
+  swift: PEOSFI21
+    
+- name: "PIELAVEDEN OSUUSPANKKI"
+  city: "PIELAVESI"
+  branch: null
+  swift: PIOUFI21
+    
+- name: "PIELISEN OSUUSPANKKI"
+  city: "LIEKSA"
+  branch: null
+  swift: PIOSFI21
+    
+- name: "PIHTIPUTAAN OSUUSPANKKI"
+  city: "PIHTIPUDAS"
+  branch: null
+  swift: PIOAFI21
+    
+- name: "PIIKKION OSUUSPANKKI"
+  city: "PIIKKIO"
+  branch: null
+  swift: PIIKFI21
+    
+- name: "POHJANMAAN OSUUSPANKKI"
+  city: "KAUHAVA"
+  branch: null
+  swift: KAOUFI21
+    
+- name: "POHJOIS-SAVON OSUUSPANKKI"
+  city: "KUOPIO"
+  branch: null
+  swift: POOSFI21
+    
+- name: "POHJOLA ASSET MANAGEMENT LIMITED"
+  city: "HELSINKI"
+  branch: null
+  swift: POAEFIH1
+    
+- name: "POHJOLAN OSUUSPANKKI"
+  city: "ROVANIEMI"
+  branch: null
+  swift: POOAFI21
+    
+- name: "POLVIJARVEN OSUUSPANKKI"
+  city: "POLVIJARVI"
+  branch: null
+  swift: POOUFI21
+    
+- name: "PORVOON OSUUSPANKKI"
+  city: "PORVOO"
+  branch: null
+  swift: POOPFI21
+    
+- name: "POSION OSUUSPANKKI"
+  city: "POSIO"
+  branch: null
+  swift: POONFI21
+    
+- name: "POYTYAN OSUUSPANKKI"
+  city: "RIIHIKOSKI"
+  branch: null
+  swift: POOKFI21
+    
+- name: "PP-LASKENTA"
+  city: "ESPOO"
+  branch: null
+  swift: PPLAFI21
+    
+- name: "PRIVANET CAPITAL MARKETS OY"
+  city: "HELSINKI"
+  branch: null
+  swift: NAGPFI21
+    
+- name: "PRIVANET CAPITAL MARKETS OY"
+  city: "HELSINKI"
+  branch: null
+  swift: NAGPFIH1
+    
+- name: "PRIVANET SECURITIES LTD"
+  city: "TURKU"
+  branch: null
+  swift: PSEUFI21
+    
+- name: "PUDASJARVEN OSUUSPANKKI"
+  city: "PUDASJARVI"
+  branch: null
+  swift: PUOSFI21
+    
+- name: "PUKKILAN OSUUSPANKKI"
+  city: "PUKKILA"
+  branch: null
+  swift: PUOUFI21
+    
+- name: "PULKKILAN OSUUSPANKKI"
+  city: "PULKKILA"
+  branch: null
+  swift: PUOPFI21
+    
+- name: "PUNKALAITUMEN OSUUSPANKKI"
+  city: "PUNKALAIDUN"
+  branch: null
+  swift: PUONFI21
+    
+- name: "PUOLANGAN OSUUSPANKKI"
+  city: "PUOLANKA"
+  branch: null
+  swift: PUOKFI21
+    
+- name: "PURMO ANDELSBANK"
+  city: "LILLBY"
+  branch: null
+  swift: PUANFI21
+    
+- name: "PYHAJARVEN OSUUSPANKKI"
+  city: "PYHASALMI"
+  branch: null
+  swift: PYOUFI21
+    
+- name: "PYHALAAKSON OSUUSPANKKI"
+  city: "HAAPAVESI"
+  branch: null
+  swift: PYOSFI21
+    
+- name: "PYHARANNAN SAASTOPANKKI"
+  city: "PYHARANTA"
+  branch: null
+  swift: PYSAFI21
+    
+- name: "PYHASELAN PAIKALLISOSUUSPANKKI"
+  city: "HAMMASLAHTI"
+  branch: null
+  swift: PYPAFI21
+    
+- name: "QUORUM FUND MANAGEMENT COMPANY LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: QFMCFIH1
+    
+- name: "RAAHEN SEUDUN OSUUSPANKKI"
+  city: "RAAHE"
+  branch: null
+  swift: RASUFI21
+    
+- name: "RAAKKYLAN OSUUSPANKKI"
+  city: "RAAKKYLA"
+  branch: null
+  swift: RAOSFI21
+    
+- name: "RAMIRENT PLC"
+  city: "VANTAA"
+  branch: null
+  swift: RMRTFI22
+    
+- name: "RANTASALMEN OSUUSPANKKI"
+  city: "RANTASALMI"
+  branch: null
+  swift: RAOUFI21
+    
+- name: "RAUTALAMMIN OSUUSPANKKI"
+  city: "RAUTALAMPI"
+  branch: null
+  swift: RAOKFI21
+    
+- name: "REISJARVEN OSUUSPANKKI"
+  city: "REISJARVI"
+  branch: null
+  swift: REOSFI21
+    
+- name: "RESURS BANK AB SUOMEN SIVULIIKE"
+  city: "HELSINKI"
+  branch: null
+  swift: RESKFIH1
+    
+- name: "RIIHIMAEN SEUDUN OSUUSPANKKI"
+  city: "RIIHIMAKI"
+  branch: null
+  swift: RISOFI21
+    
+- name: "RIISTAVEDEN OSUUSPANKKI"
+  city: "RIISTAVESI"
+  branch: null
+  swift: RIOSFI21
+    
+- name: "RUOVEDEN OSUUSPANKKI"
+  city: "RUOVESI"
+  branch: null
+  swift: RUOSFI21
+    
+- name: "RUUKIN OSUUSPANKKI"
+  city: "RUUKKI"
+  branch: null
+  swift: RUOUFI21
+    
+- name: "RVM INVESTIUM OY"
+  city: "HELSINKI"
+  branch: null
+  swift: RVINFIH1
+    
+- name: "RYMATTYLAN OSUUSPANKKI"
+  city: "RYMATTYLA"
+  branch: null
+  swift: RYOUFI21
+    
+- name: "SAASTOPANKKI OPTIA"
+  city: "IISALMI"
+  branch: null
+  swift: SAOTFI21
+    
+- name: "SAKYLAN OSUUSPANKKI"
+  city: "SAKYLA"
+  branch: null
+  swift: SAOSFI21
+    
+- name: "SALLAN OSUUSPANKKI"
+  city: "SALLA"
+  branch: null
+  swift: SAOUFI21
+    
+- name: "SALON OSUUSPANKKI"
+  city: "SALO"
+  branch: null
+  swift: SAOKFI21
+    
+- name: "SAMPO PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: SAHOFIH1
+    
+- name: "SAMPO PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: SAHOFIH1KVA
+    
+- name: "SAMPO PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: SAHOFIH1MLI
+    
+- name: "SAMPO PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: SAHOFIH1MNS
+    
+- name: "SAMPO PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: SAHOFIH1MUL
+    
+- name: "SAMPO PLC"
+  city: "HELSINKI"
+  branch: null
+  swift: SAHOFIH1SAM
+    
+- name: "SANOMA CORPORATION"
+  city: "HELSINKI"
+  branch: null
+  swift: SAWSFIHH
+    
+- name: "SAUVON OSUUSPANKKI"
+  city: "SAUVO"
+  branch: null
+  swift: SAOIFI21
+    
+- name: "SAVITAIPALEEN OSUUSPANKKI"
+  city: "SAVITAIPALE"
+  branch: null
+  swift: SAUPFI21
+    
+- name: "S-BANK LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: SBANFIHH
+    
+- name: "S-BANK LTD (FORMERLY FIM INVESTMENT SERVICES LTD)"
+  city: "HELSINKI"
+  branch: null
+  swift: FISEFIHH
+    
+- name: "SCANIA FINANS AB, FINNISH BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: SFFNFIH1
+    
+- name: "SEB FUND MANAGEMENT COMPANY FINLAND LTD."
+  city: "HELSINKI"
+  branch: null
+  swift: SEGOFIH1
+    
+- name: "SEB KORT BANK AB, HELSINGIN SIVULIIKE"
+  city: "HELSINGFORS"
+  branch: null
+  swift: SKHSFI21
+    
+- name: "SEB WEALTH MANAGEMENT FINLAND LTD.(FORMER SEB GYLLENBERG ASSET MANAGEMENT LTD.)"
+  city: "HELSINKI"
+  branch: null
+  swift: GYAMFIH1
+    
+- name: "SELIGSON AND CO OYJ"
+  city: "HELSINKI"
+  branch: null
+  swift: SEOYFIH1
+    
+- name: "SIDEBY ANDELSBANK"
+  city: "SIDEBY"
+  branch: null
+  swift: SIAKFI21
+    
+- name: "SIEVIN OSUUSPANKKI"
+  city: "SIEVI"
+  branch: null
+  swift: SIOUFI21
+    
+- name: "SIIKAJOEN OSUUSPANKKI"
+  city: "SIIKAJOKI"
+  branch: null
+  swift: SIOKFI21
+    
+- name: "SIIKALATVAN OSUUSPANKKI"
+  city: "RANTSILA"
+  branch: null
+  swift: SIONFI21
+    
+- name: "SIILINJARVEN OSUUSPANKKI"
+  city: "SIILINJARVI"
+  branch: null
+  swift: SIOSFI21
+    
+- name: "SIJOITUSRAHASTO NORDEA NORTH AMERICAN ENHANCED"
+  city: "HELSINKI"
+  branch: null
+  swift: SNNMFIH1
+    
+- name: "SIJOITUSRAHASTO NORDEA PRIVATE BANKING EQUITY CORE"
+  city: "HELSINKI"
+  branch: null
+  swift: SNPEFIH1
+    
+- name: "SIMPELEEN OSUUSPANKKI"
+  city: "SIMPELE"
+  branch: null
+  swift: SIOIFI21
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN"
+  city: "HELSINKI"
+  branch: null
+  swift: ESSEFIHX
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL) HELSINKI BRANCH"
+  city: "HELSINKI"
+  branch: null
+  swift: ENSSFIH1
+    
+- name: "SKARGARDSSPARBANKEN AB"
+  city: "HOUTSKAR"
+  branch: null
+  swift: SKASFI21
+    
+- name: "SOFI PANKKIIRILIIKE SOFI SECURITIES INC"
+  city: "HELSINKI"
+  branch: null
+  swift: SOPAFIH1
+    
+- name: "SOLIDUS OY"
+  city: "HELSINKI"
+  branch: null
+  swift: SODUFIH1
+    
+- name: "SOMERNIEMEN OSUUSPANKKI"
+  city: "SOMERNIEMI"
+  branch: null
+  swift: SOOSFI21
+    
+- name: "SOMERON OSUUSPANKKI"
+  city: "SOMERO"
+  branch: null
+  swift: SOOUFI21
+    
+- name: "SOMERON SAASTOPANKKI"
+  city: "SOMERO"
+  branch: null
+  swift: SOAOFI21
+    
+- name: "SONKAJARVEN OSUUSPANKKI"
+  city: "SONKAJARVI"
+  branch: null
+  swift: SOOPFI21
+    
+- name: "SOTKAMON OSUUSPANKKI"
+  city: "SOTKAMO"
+  branch: null
+  swift: SOOAFI21
+    
+- name: "SP KAPITAALI OY"
+  city: "HELSINKI"
+  branch: null
+  swift: KAPLFIH1
+    
+- name: "SPECIALFONDEN PAPPERS"
+  city: "HELSINKI"
+  branch: null
+  swift: SEEPFIH1
+    
+- name: "SP-RAHASTOYHTIO OY"
+  city: "HELSINKI"
+  branch: null
+  swift: SPHTFIH1
+    
+- name: "STADSHYPOTEK AB (JULK), SUOMEN SIVUKONTTORITOIMINTA"
+  city: "HELSINKI"
+  branch: null
+  swift: SJSIFIH1
+    
+- name: "STATE TREASURY"
+  city: "HELSINKI"
+  branch: null
+  swift: VKSKFIHH
+    
+- name: "SULKAVAN OSUUSPANKKI"
+  city: "SULKAVA"
+  branch: null
+  swift: SUOUFI21
+    
+- name: "SUODENNIEMEN SAASTOPANKKI"
+  city: "SASTAMALA"
+  branch: null
+  swift: SUSOFI21
+    
+- name: "SUOMEN HYPOTEEKKIYHDISTYS (MORTGAGE SOCIETY OF FINLAND)"
+  city: "HELSINKI"
+  branch: null
+  swift: SHMSFIH1
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: COLLATERAL MANAGEMENT
+  swift: SPFBFIHHCMS
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: ECB OPERATIONS
+  swift: SPFBFIHHECB
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: TARGET2 NCB/ECB INTERNAL
+  swift: SPFBFIHHEUX
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: TARGET2 PMJ-AS DTS
+  swift: SPFBFIHH1A1
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: TARGET2 PMJ-AS NTS
+  swift: SPFBFIHHASI
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: TARGET2 RAHAHUOLTO
+  swift: SPFBFIHH1A2
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: TARGET2 RMA INTERNAL
+  swift: SPFBFIHHRMA
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: TARGET2 SFA INTERNAL
+  swift: SPFBFIHHSFA
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: TARGET2 SFM INTERNAL
+  swift: SPFBFIHHSFM
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: null
+  swift: SPFBFIHH
+    
+- name: "SUOMEN PANKKI - FINLANDS BANK"
+  city: "HELSINKI"
+  branch: null
+  swift: SPFBFIHHCON
+    
+- name: "SUOMEN PANKKIIRILIIKE OY"
+  city: "HELSINKI"
+  branch: null
+  swift: SUPNFIH1
+    
+- name: "SUOMENNIEMEN SAASTOPANKKI"
+  city: "SUOMENNIEMI"
+  branch: null
+  swift: SUSSFI21
+    
+- name: "SUOMUSSALMEN OSUUSPANKKI"
+  city: "SUOMUSSALMI"
+  branch: null
+  swift: SUOPFI21
+    
+- name: "SUONENJOEN OSUUSPANKKI"
+  city: "SUONENJOKI"
+  branch: null
+  swift: SUOAFI21
+    
+- name: "SUUPOHJAN OSUUSPANKKI"
+  city: "KAUHAJOKI"
+  branch: null
+  swift: SUOSFI21
+    
+- name: "SUUR-SAVON OSUUSPANKKI"
+  city: "MIKKELI"
+  branch: null
+  swift: SUONFI21
+    
+- name: "SVEA EKONOMI AB, FILIAL I FINLAND"
+  city: "HELSINKI"
+  branch: null
+  swift: SEIDFIH1
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "HELSINKI"
+  branch: NORDIC CUSTODY SERVICES
+  swift: HANDFIHHCUS
+    
+- name: "SVENSKA HANDELSBANKEN"
+  city: "HELSINKI"
+  branch: null
+  swift: HANDFIHH
+    
+- name: "SWEDBANK AB"
+  city: "HELSINKI"
+  branch: null
+  swift: SWEDFIHH
+    
+- name: "SYSMAN OSUUSPANKKI"
+  city: "SYSMA"
+  branch: null
+  swift: SYOSFI21
+    
+- name: "SYSMAN SAASTOPANKKI"
+  city: "SYSMA"
+  branch: null
+  swift: SYSAFI21
+    
+- name: "TAALERITEHDAS OY"
+  city: "ESPOO"
+  branch: null
+  swift: TAALFI21
+    
+- name: "TAIVALKOSKEN OSUUSPANKKI"
+  city: "TAIVALKOSKI"
+  branch: null
+  swift: TAOAFI21
+    
+- name: "TAIVASSALON OSUUSPANKKI"
+  city: "TAIVASSALO"
+  branch: null
+  swift: TAOUFI21
+    
+- name: "TAMPEREEN SEUDUN OSUUSPANKKI"
+  city: "TAMPERE"
+  branch: null
+  swift: TAEOFI21
+    
+- name: "TAPIOLA ASSET MANAGEMENT LTD"
+  city: "TAPIOLA"
+  branch: null
+  swift: TAPLFI21
+    
+- name: "TARVASJOEN OSUUSPANKKI"
+  city: "TARVASJOKI"
+  branch: null
+  swift: TAOPFI21
+    
+- name: "TELIASONERA FINANS FINLAND, FILIAL TILL TELIASONERA FINANS AB"
+  city: "HELSINGFORS"
+  branch: null
+  swift: TFFFFI21
+    
+- name: "TERVOLAN OSUUSPANKKI"
+  city: "TERVOLA"
+  branch: null
+  swift: TEOUFI21
+    
+- name: "TERVON OSUUSPANKKI"
+  city: "TERVO"
+  branch: null
+  swift: TEOSFI21
+    
+- name: "TF BANK AB, FILIAL FINLAND"
+  city: "HELSINKI"
+  branch: null
+  swift: FIFDFIH1
+    
+- name: "THE ROYAL BANK OF SCOTLAND PLC, FILIAL I FINLAND"
+  city: "HELSINGFORS"
+  branch: null
+  swift: RBOSFIH1
+    
+- name: "THE STATE PENSION FUND"
+  city: "HELSINKI"
+  branch: null
+  swift: STPDFI21
+    
+- name: "TIETO OYJ"
+  city: "HELSINKI"
+  branch: null
+  swift: TICOFIHH
+    
+- name: "TIISTENJOEN OSUUSPANKKI"
+  city: "TIISTENJOKI"
+  branch: null
+  swift: TIOSFI21
+    
+- name: "TITANIUM RAHASTOYHTIO OY"
+  city: "HELSINKI"
+  branch: null
+  swift: TIRHFIH1
+    
+- name: "TOHOLAMMIN OSUUSPANKKI"
+  city: "TOHOLAMPI"
+  branch: null
+  swift: TOOSFI21
+    
+- name: "TORNION OSUUSPANKKI"
+  city: "TORNIO"
+  branch: null
+  swift: TOOPFI21
+    
+- name: "TURUN SEUDUN OSUUSPANKKI"
+  city: "TURKU"
+  branch: null
+  swift: TUSUFI21
+    
+- name: "TUULOKSEN SAASTOPANKKI"
+  city: "HAMEENLINNA"
+  branch: null
+  swift: TUSAFI21
+    
+- name: "TUUPOVAARAN OSUUSPANKKI"
+  city: "TUUPOVAARA"
+  branch: null
+  swift: TUOUFI21
+    
+- name: "TUUSNIEMEN OSUUSPANKKI"
+  city: "TUUSNIEMI"
+  branch: null
+  swift: TUOSFI21
+    
+- name: "TYOTTOMYYSVAKUUTUSRAHASTO"
+  city: "HELSINKI"
+  branch: null
+  swift: TYOTFIH1
+    
+- name: "TYRNAVAN OSUUSPANKKI"
+  city: "TYRNAVA"
+  branch: null
+  swift: TYOSFI21
+    
+- name: "UB RAHASTOYHTIO OY"
+  city: "HELSINKI"
+  branch: null
+  swift: RAHTFIH1
+    
+- name: "UB SECURITIES OY"
+  city: "HELSINKI"
+  branch: null
+  swift: UNBRFIH1
+    
+- name: "ULLAVAN OSUUSPANKKI"
+  city: "ULLAVA"
+  branch: null
+  swift: ULOSFI21
+    
+- name: "UMO CAPITAL OY"
+  city: "HELSINKI"
+  branch: null
+  swift: ULKOFIH1
+    
+- name: "UNITED BANKERS OMAISUUDENHOITO OY"
+  city: "HELSINKI"
+  branch: null
+  swift: UNOMFIH1
+    
+- name: "UPM-KYMMENE CORPORATION"
+  city: "HELSINKI"
+  branch: null
+  swift: UPMKFIHH
+    
+- name: "URJALAN OSUUSPANKKI"
+  city: "URJALA"
+  branch: null
+  swift: UROSFI21
+    
+- name: "UTAJARVEN OSUUSPANKKI"
+  city: "UTAJARVI"
+  branch: null
+  swift: UTOSFI21
+    
+- name: "UUKUNIEMEN OSUUSPANKKI"
+  city: "UUKUNIEMI"
+  branch: null
+  swift: UUOSFI21
+    
+- name: "VAASAN OSUUSPANKKI"
+  city: "VAASA"
+  branch: null
+  swift: VAOPFI21
+    
+- name: "VAKKA-SUOMEN OSUUSPANKKI"
+  city: "UUSIKAUPUNKI"
+  branch: null
+  swift: VAOUFI21
+    
+- name: "VALKEAKOSKEN OSUUSPANKKI"
+  city: "VALKEAKOSKI"
+  branch: null
+  swift: VAOAFI21
+    
+- name: "VALMET CORPORATION"
+  city: "ESPOO"
+  branch: null
+  swift: VLMTFIHH
+    
+- name: "VALO RESEARCH AND TRADING LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: VARAFIH1
+    
+- name: "VAMMALAN SEUDUN OSUUSPANKKI"
+  city: "SASTAMALA"
+  branch: null
+  swift: VASOFI21
+    
+- name: "VAMPULAN OSUUSPANKKI"
+  city: "VAMPULA"
+  branch: null
+  swift: VAONFI21
+    
+- name: "VARAINHALLINTA TRESOR OY"
+  city: "HELSINKI"
+  branch: null
+  swift: VATSFIH1
+    
+- name: "VARPAISJARVEN OSUUSPANKKI"
+  city: "VARPAISJARVI"
+  branch: null
+  swift: VAOKFI21
+    
+- name: "VASKION OSUUSPANKKI"
+  city: "VASKIO"
+  branch: null
+  swift: VAOSFI21
+    
+- name: "VEHMERSALMEN OSUUSPANKKI"
+  city: "VEHMERSALMI"
+  branch: null
+  swift: VEOSFI21
+    
+- name: "VERITAS PENSION FUND"
+  city: "TURKU"
+  branch: null
+  swift: VEPFFI21
+    
+- name: "VESANNON OSUUSPANKKI"
+  city: "VESANTO"
+  branch: null
+  swift: VEOUFI21
+    
+- name: "VESSILA OY AB"
+  city: "HELSINKI"
+  branch: null
+  swift: VESSFIH1
+    
+- name: "VETELIN OSUUSPANKKI"
+  city: "VETELI"
+  branch: null
+  swift: VEOPFI21
+    
+- name: "VETELIN YLIPAAN OSUUSPANKKI"
+  city: "RAYRINKI"
+  branch: null
+  swift: VEYOFI21
+    
+- name: "VIEREMAN OSUUSPANKKI"
+  city: "VIEREMA"
+  branch: null
+  swift: VIERFI21
+    
+- name: "VIHANNIN OSUUSPANKKI"
+  city: "VIHANTI"
+  branch: null
+  swift: VIOSFI21
+    
+- name: "VIMPELIN OSUUSPANKKI"
+  city: "VIMPELI"
+  branch: null
+  swift: VIOUFI21
+    
+- name: "VIMPU INTRESSENTER AB"
+  city: "HELSINKI"
+  branch: null
+  swift: VIITFIH1
+    
+- name: "VIRALA OY AB"
+  city: "HELSINKI"
+  branch: null
+  swift: VIRAFIH1
+    
+- name: "VIROLAHDEN OSUUSPANKKI"
+  city: "VIROLAHTI"
+  branch: null
+  swift: VIOPFI21
+    
+- name: "VIRTAIN OSUUSPANKKI"
+  city: "VIRRAT"
+  branch: null
+  swift: VIOAFI21
+    
+- name: "VISIO VARAINHOITO OY"
+  city: "HELSINKI"
+  branch: null
+  swift: VISVFIH1
+    
+- name: "VORA SPARBANK"
+  city: "VORA"
+  branch: null
+  swift: VOSPFI21
+    
+- name: "WALLSTREET ASSET MANAGEMENT LTD"
+  city: "HELSINKI"
+  branch: null
+  swift: WAAGFIH1
+    
+- name: "WARTSILA OYJ ABP"
+  city: "HELSINKI"
+  branch: null
+  swift: WRTCFIHH
+    
+- name: "WIHURI INTERNATIONAL OY"
+  city: "HELSINKI"
+  branch: null
+  swift: WIHUFIHH
+    
+- name: "WILLIAMS DE BROE"
+  city: "HELSINKI"
+  branch: null
+  swift: WIBRFIH1
+    
+- name: "WIP ASSET MANAGEMENT"
+  city: "HELSINKI"
+  branch: null
+  swift: WIANFIH1
+    
+- name: "YLANEEN OSUUSPANKKI"
+  city: "YLANE"
+  branch: null
+  swift: YLOSFI21
+    
+- name: "YLIHARMAN SAASTOPANKKI"
+  city: "YLIHARMA"
+  branch: null
+  swift: YLSAFI21
+    
+- name: "YLITORNION OSUUSPANKKI"
+  city: "YLITORNIO"
+  branch: null
+  swift: YLOUFI21
+    
+- name: "YLIVIESKAN OSUUSPANKKI"
+  city: "YLIVIESKA"
+  branch: null
+  swift: YLOPFI21
+    
+- name: "YPAJAN OSUUSPANKKI"
+  city: "YPAJA"
+  branch: null
+  swift: YPOSFI21
+    
+- name: "YTTERMARK SPARBANK"
+  city: "NARPES"
+  branch: null
+  swift: YTSPFI21
+    

@@ -1,0 +1,40 @@
+- name: "BANK OF BHUTAN LIMITED"
+  city: "PHUNTSHOLING"
+  branch: PHUENTSHOLING MAIN BRANCH
+  swift: BHUBBTBT001
+    
+- name: "BANK OF BHUTAN LIMITED"
+  city: "THIMPHU"
+  branch: null
+  swift: BHUBBTBT
+    
+- name: "BANK OF BHUTAN LIMITED"
+  city: "THIMPHU"
+  branch: null
+  swift: BHUBBTBT022
+    
+- name: "BHUTAN DEVELOPMENT BANK LIMITED"
+  city: "THIMPHU"
+  branch: null
+  swift: BHDEBTBT
+    
+- name: "BHUTAN NATIONAL BANK LTD"
+  city: "THIMPHU"
+  branch: null
+  swift: BNBTBTBT
+    
+- name: "DRUK PNB BANK LIMITED"
+  city: "THIMPHU"
+  branch: null
+  swift: PUNBBTBT
+    
+- name: "ROYAL MONETARY AUTHORITY OF BHUTAN"
+  city: "THIMPHU"
+  branch: null
+  swift: RMABBTBT
+    
+- name: "T BANK LTD"
+  city: "THIMPHU"
+  branch: null
+  swift: TBBTBTBT
+    

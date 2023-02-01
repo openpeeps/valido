@@ -1,0 +1,240 @@
+- name: "ARCELORMITTAL SKOPJE (CRM)"
+  city: "SKOPJE"
+  branch: null
+  swift: USINMK21
+    
+- name: "BRO-DEAL, INC"
+  city: "SKOPJE"
+  branch: null
+  swift: BDBKMK21
+    
+- name: "BROKER HOUSE POSTEL-BROKER A.D"
+  city: "SKOPJE"
+  branch: null
+  swift: POBRMK21
+    
+- name: "BROKERAGE HOUSE KB BROKER INC.SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: KBBRMK21
+    
+- name: "BROKERAGE HOUSE MAKOS-INVEST BROKER INC"
+  city: "SKOPJE"
+  branch: null
+  swift: MIBRMK21
+    
+- name: "BROKER-SB A.D. SKOPJE BROKERAGE HOUSE OF STOPANSKA BANKA AD SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: SBSBMK21
+    
+- name: "CAPITAL BANK AD"
+  city: "SKOPJE"
+  branch: null
+  swift: INPBMK21
+    
+- name: "CENTRAL COOPERATIVE BANK AD SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: CECBMK22
+    
+- name: "CENTRAL SECURITIES DEPOSITORY JSC"
+  city: "SKOPJE"
+  branch: null
+  swift: CDHVMK21
+    
+- name: "CLEARING HOUSE INTERBANK CLEARING SYSTEMS"
+  city: "SKOPJE"
+  branch: null
+  swift: KIBSMK21
+    
+- name: "EUROSTANDARD BANK AD"
+  city: "SKOPJE"
+  branch: null
+  swift: ESWBMK22
+    
+- name: "FERSPED - BROKER AD"
+  city: "SKOPJE"
+  branch: null
+  swift: FLAMMK21
+    
+- name: "HALKBANK AD SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: EXPCMK22
+    
+- name: "HEALTH INSURANCE FUND OF MACEDONIA"
+  city: "SKOPJE"
+  branch: null
+  swift: HIFDMK21
+    
+- name: "KAPITAL BANKA AD SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: KAPBMK22
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "BITOLA"
+  branch: null
+  swift: KOBSMK2XBTB
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "GOSTIVAR"
+  branch: null
+  swift: KOBSMK2XGVB
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "KAVADARCI"
+  branch: null
+  swift: KOBSMK2XKVB
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "KOCANI"
+  branch: null
+  swift: KOBSMK2XKOB
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "KUMANOVO"
+  branch: null
+  swift: KOBSMK2XKUB
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "OHRID"
+  branch: null
+  swift: KOBSMK2XOHB
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "PRILEP"
+  branch: null
+  swift: KOBSMK2XPRB
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: KOBSMK2X
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "STIP"
+  branch: null
+  swift: KOBSMK2XSTB
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "STRUMICA"
+  branch: null
+  swift: KOBSMK2XSRB
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "TETOVO"
+  branch: null
+  swift: KOBSMK2XTEB
+    
+- name: "KOMERCIJALNA BANKA AD SKOPJE"
+  city: "VELES"
+  branch: null
+  swift: KOBSMK2XVEB
+    
+- name: "MACEDONIAN BANK FOR DEVELOPMENT PROMOTION"
+  city: "SKOPJE"
+  branch: null
+  swift: MBDPMK22
+    
+- name: "MACEDONIAN STOCK EXCHANGE AD"
+  city: "SKOPJE"
+  branch: null
+  swift: XMAEMK21
+    
+- name: "MAK BROKER AD"
+  city: "SKOPJE"
+  branch: null
+  swift: MBBRMK21
+    
+- name: "MONEY MARKET AND SHORT-TERM SECURITIES OF THE REP. OF MACEDONIA"
+  city: "SKOPJE"
+  branch: null
+  swift: PPHVMK21
+    
+- name: "NATIONAL BANK OF THE REPUBLIC OF MACEDONIA"
+  city: "SKOPJE"
+  branch: null
+  swift: NBRMMK2A
+    
+- name: "NATIONAL BANK OF THE REPUBLIC OF MACEDONIA"
+  city: "SKOPJE"
+  branch: null
+  swift: NBRMMK2X
+    
+- name: "NATIONAL PAYMENT CARD AD"
+  city: "SKOPJE"
+  branch: null
+  swift: NPKMMK21
+    
+- name: "NLB BANKA AD SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: TUTNMK22
+    
+- name: "OHRIDSKA BANKA A.D. SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: OHRDMK22
+    
+- name: "PELAGONISKA BANKA AD"
+  city: "PRILEP"
+  branch: null
+  swift: PELAMK21
+    
+- name: "PROCREDIT BANK, MACEDONIA (FORMERLY PRO BUSINESS BANK A.D. SKOPJE)"
+  city: "SKOPJE"
+  branch: null
+  swift: PRBUMK22
+    
+- name: "SAKSES BROKERS INC"
+  city: "SKOPJE"
+  branch: null
+  swift: SKBRMK21
+    
+- name: "SILK ROAD BANK AD SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: KRSKMK2X
+    
+- name: "SPARKASSE BANK MAKEDONIJA AD SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: INSBMK22
+    
+- name: "STOPANSKA BANKA A.D."
+  city: "SKOPJE"
+  branch: null
+  swift: STOBMK2X
+    
+- name: "STOPANSKA BANKA AD BITOLA"
+  city: "BITOLA"
+  branch: null
+  swift: STBBMK22
+    
+- name: "TDR SKOPJE D.O.O.E.L."
+  city: "SKOPJE"
+  branch: null
+  swift: BATSMK21
+    
+- name: "TTK BANKA AD SKOPJE"
+  city: "SKOPJE"
+  branch: null
+  swift: TTXBMK2X
+    
+- name: "UNIVERSAL INVESTMENT BANK AD SKOPJE (UNIBANK)"
+  city: "SKOPJE"
+  branch: null
+  swift: UIBMMK22
+    
+- name: "ZAVOD ZA PLATEN PROMET"
+  city: "SKOPJE"
+  branch: null
+  swift: KMBPMK21
+    
+- name: "ZEMJODELSKA BANKA A.D."
+  city: "SKOPJE"
+  branch: null
+  swift: ZEMBMK21
+    

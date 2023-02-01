@@ -1,0 +1,165 @@
+- name: "ADDIKO BANK A.D."
+  city: "BANJA LUKA"
+  branch: null
+  swift: HAABBA2B
+    
+- name: "ADDIKO BANK DD"
+  city: "SARAJEVO"
+  branch: null
+  swift: HAABBA22
+    
+- name: "ASA BANKA D.D. SARAJEVO"
+  city: "SARAJEVO"
+  branch: null
+  swift: IKBZBA2X
+    
+- name: "BOSNA BANK INTERNATIONAL DD"
+  city: "SARAJEVO"
+  branch: null
+  swift: BBIBBA22
+    
+- name: "CENTRALNA BANKA BOSNE I HERCEGOVINE"
+  city: "SARAJEVO"
+  branch: DEPARTMENT FOR PUBLIC DEBT SERVICING
+  swift: CBBSBA22PDS
+    
+- name: "CENTRALNA BANKA BOSNE I HERCEGOVINE"
+  city: "SARAJEVO"
+  branch: null
+  swift: CBBSBA22
+    
+- name: "DEPOSIT INSURANCE AGENCY OF BOSNIA AND HERZEGOVINA"
+  city: "BANJA LUKA"
+  branch: null
+  swift: DIABBA22
+    
+- name: "DEVELOPMENT BANK OF THE FEDERATION OF BOSNIA AND HERZEGOVINA"
+  city: "SARAJEVO"
+  branch: null
+  swift: IBBHBA22
+    
+- name: "EURO CAPITAL BANK"
+  city: "SARAJEVO"
+  branch: null
+  swift: EUCMBA21
+    
+- name: "FIMA VRIJEDNOSNICE D.O.O."
+  city: "RIJEKA (RIKA)"
+  branch: null
+  swift: FIJDBA21
+    
+- name: "HIPPO BANKA DD. ZENICA"
+  city: "ZENICA"
+  branch: null
+  swift: HBZEBA21
+    
+- name: "INTESA SANPAOLO BANKA D.D. BOSNA I HERCEGOVINA"
+  city: "SARAJEVO"
+  branch: null
+  swift: UPBKBA22
+    
+- name: "KOMERCIJALNA BANKA AD BANJA LUKA"
+  city: "BANJA LUKA"
+  branch: null
+  swift: KOBBBA22
+    
+- name: "KOMERCIJALNO-INVESTICIONA BANKA DD VELIKA KLADUSA"
+  city: "VELIKA KLADUSA"
+  branch: null
+  swift: KINBBA22
+    
+- name: "MF BANKA A.D. BANJA LUKA"
+  city: "BANJA LUKA"
+  branch: null
+  swift: MFBLBA22
+    
+- name: "NLB BANKA A.D. BANJA LUKA"
+  city: "BANJA LUKA"
+  branch: null
+  swift: RAZBBA22
+    
+- name: "NLB BANKA D.D., SARAJEVO"
+  city: "SARAJEVO"
+  branch: null
+  swift: TBTUBA22
+    
+- name: "NOVA BANKA AD BANJALUKA"
+  city: "BANJA LUKA"
+  branch: null
+  swift: NOBIBA22
+    
+- name: "PAVLOVIC INTERNATIONAL BANK A.D."
+  city: "BIJELJINA"
+  branch: null
+  swift: PAVLBA22
+    
+- name: "PRIJEDORSKA BANKA A.D."
+  city: "PRIJEVOR"
+  branch: null
+  swift: PRIJBA21
+    
+- name: "PRIVREDNA BANKA SARAJEVO DD"
+  city: "SARAJEVO"
+  branch: null
+  swift: PBSCBA22
+    
+- name: "PROCREDIT BANK D.D. SARAJEVO, BOSNIA AND HERZEGOVINA"
+  city: "SARAJEVO"
+  branch: null
+  swift: MEBBBA22
+    
+- name: "RAIFFEISEN BANK D.D. BOSNA I HERCEGOVINA"
+  city: "SARAJEVO"
+  branch: null
+  swift: RZBABA2S
+    
+- name: "SBERBANK A.D. BANJA LUKA"
+  city: "BANJA LUKA"
+  branch: null
+  swift: SABRBA2B
+    
+- name: "SBERBANK BH D.D., SARAJEVO"
+  city: "SARAJEVO"
+  branch: null
+  swift: SABRBA22
+    
+- name: "SPARKASSE BANK DD BIH"
+  city: "SARAJEVO"
+  branch: null
+  swift: ABSBBA22
+    
+- name: "TAS D.O.O."
+  city: "SARAJEVO"
+  branch: null
+  swift: TADOBA21
+    
+- name: "UNICREDIT BANK"
+  city: "MOSTAR"
+  branch: null
+  swift: UNCRBA22
+    
+- name: "UNICREDIT BANK A.D. BANJA LUKA (FORMER NOVA BANJALUCKA BANKA A.D. BANJA LUKA)"
+  city: "BANJA LUKA"
+  branch: null
+  swift: BLBABA22
+    
+- name: "UNION BANKA D.D. SARAJEVO"
+  city: "SARAJEVO"
+  branch: null
+  swift: UBKSBA22
+    
+- name: "VAKUFSKA BANKA DD SARAJEVO"
+  city: "SARAJEVO"
+  branch: null
+  swift: VAKUBA22
+    
+- name: "VOLKSWAGEN SARAJEVO D.O.O."
+  city: "VOGOSCA"
+  branch: null
+  swift: VOADBA21
+    
+- name: "ZIRAATBANK BH D.D. SARAJEVO"
+  city: "SARAJEVO"
+  branch: null
+  swift: TZBBBA22
+    

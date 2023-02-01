@@ -1,0 +1,485 @@
+- name: "ACCESSBANK TANZANIA LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: ACTZTZTZ
+    
+- name: "ADVANS BANK TANZANIA"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: ADVBTZTZ
+    
+- name: "AFRICAN BANKING CORPORATION TANZANIA LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: FMBZTZTX
+    
+- name: "AKIBA COMMERCIAL BANK PLC"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: AKCOTZTZ
+    
+- name: "AMANA BANK LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: AMNNTZTZ
+    
+- name: "AZANIA BANK LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: AZANTZTZ
+    
+- name: "BANK M TANZANIA PLC"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: BNKMTZTZ
+    
+- name: "BANK OF BARODA (TANZANIA) LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: BARBTZTZ
+    
+- name: "BANK OF INDIA (TANZANIA) LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: BKIDTZTZ
+    
+- name: "BANK OF TANZANIA"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: TANZTZTX
+    
+- name: "BARCLAYS BANK TANZANIA LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: BARCTZTZ
+    
+- name: "BOA BANK TANZANIA"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: EUAFTZTZ
+    
+- name: "CANARA BANK  (TANZANIA) LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: CNRBTZTZ
+    
+- name: "CHINA COMMERCIAL BANK LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: CHLMTZTZ
+    
+- name: "CITIBANK TANZANIA LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: CITITZTZ
+    
+- name: "COMMERCIAL BANK OF AFRICA (TANZANIA) LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: CBAFTZTZ
+    
+- name: "COVENANT BANK FOR WOMEN (TANZANIA) LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: CBFWTZTZ
+    
+- name: "CRDB BANK LIMITED"
+  city: "ARUSHA"
+  branch: null
+  swift: CORUTZT10T4
+    
+- name: "CRDB BANK LIMITED"
+  city: "DAR ES SALAAM"
+  branch: AZIKIWE BRANCH
+  swift: CORUTZT10TD
+    
+- name: "CRDB BANK LIMITED"
+  city: "DAR ES SALAAM"
+  branch: LUMUMBA BRANCH
+  swift: CORUTZT10T2
+    
+- name: "CRDB BANK LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: CORUTZTZ
+    
+- name: "CRDB BANK LIMITED"
+  city: "MWANZA"
+  branch: null
+  swift: CORUTZT10T5
+    
+- name: "CRDB BANK LIMITED"
+  city: "SHINYANGA"
+  branch: null
+  swift: CORUTZT10T6
+    
+- name: "CRDB BANK LIMITED"
+  city: "TANGA"
+  branch: null
+  swift: CORUTZT10T3
+    
+- name: "CROWN FINANCE AND LEASING LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: CFLLTZT1
+    
+- name: "DAR ES SALAAM COMMUNITY BANK LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: DASUTZTZ
+    
+- name: "DAR ES SALAAM STOCK EXCHANGE"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: DSTXTZTZ
+    
+- name: "DIAMOND TRUST BANK TANZANIA LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: DTKETZTZ
+    
+- name: "EAST AFRICAN DEVELOPMENT BANK"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: AFDETZT1
+    
+- name: "ECOBANK TANZANIA LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: ECOCTZTZ
+    
+- name: "EFATHA BANK LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: EFABTZTZ
+    
+- name: "EQUITY BANK TANZANIA LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: EQBLTZTZ
+    
+- name: "EXIMBANK (TANZANIA) LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: EXTNTZTZ
+    
+- name: "FINCA MICROFINANCE BANK LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: FNMITZTZ
+    
+- name: "FIRST NATIONAL BANK OF TANZANIA"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: FIRNTZTX
+    
+- name: "HABIB AFRICAN BANK"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: HABLTZTZ
+    
+- name: "I AND M BANK (T) LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: IMBLTZTZ
+    
+- name: "INTERNATIONAL COMMERCIAL BANK (TANZANIA) LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: BKMYTZTZ
+    
+- name: "KARADHA COMPANY LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: KACLTZT1
+    
+- name: "KCB BANK TANZANIA LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: KCBLTZTZ
+    
+- name: "KILIMANJARO CO-OPERATIVE BANK LTD"
+  city: "MOSHI"
+  branch: null
+  swift: KLMJTZTZ
+    
+- name: "MAENDELEO BANK LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: MBTLTZTZ
+    
+- name: "MERU COMMUNITY BANK LTD"
+  city: "ARUSHA"
+  branch: null
+  swift: MCBNTZTZ
+    
+- name: "MKOMBOZI COMMERCIAL BANK LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: MKCBTZTZ
+    
+- name: "MUCOBA BANK PLC"
+  city: "IRINGA"
+  branch: null
+  swift: MUOBTZTZ
+    
+- name: "MWALIMU COMMERCIAL BANK PLC"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: MWCOTZTZ
+    
+- name: "MWANGA COMMUNITY BANK LTD"
+  city: "MOSHI"
+  branch: null
+  swift: MWCBTZTZ
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "ARUSHA"
+  branch: ARUSHA BRANCH
+  swift: NLCBTZTX0T4
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "DAR ES SALAAM"
+  branch: BANK HOUSE BRANCH
+  swift: NLCBTZT10T6
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "DAR ES SALAAM"
+  branch: CORPORATE BRANCH
+  swift: NLCBTZTX0T3
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "DAR ES SALAAM"
+  branch: FINANCIAL DEPARTMENT-NBC HOUSE
+  swift: NLCBTZTXFIN
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "DAR ES SALAAM"
+  branch: HEADOFFICE
+  swift: NLCBTZTX
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "DAR ES SALAAM"
+  branch: INDUSTRIAL BRANCH
+  swift: NLCBTZTXIND
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "DAR ES SALAAM"
+  branch: KICHWELE BRANCH
+  swift: NLCBTZTXKIC
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "DAR ES SALAAM"
+  branch: MASDO HOUSE BRANCH
+  swift: NLCBTZT10T7
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "DAR ES SALAAM"
+  branch: MNAZI MMOJA BRANCH
+  swift: NLCBTZTXMNA
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "DAR ES SALAAM"
+  branch: SAMORA BRANCH
+  swift: NLCBTZTX0T8
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "MBEYA"
+  branch: MBEYA BRANCH
+  swift: NLCBTZTXMBE
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "MOROGORO"
+  branch: MOROGORO BRANCH
+  swift: NLCBTZTXMOR
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "MOSHI"
+  branch: MOSHI BRANCH
+  swift: NLCBTZTX0TM
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "MWANZA"
+  branch: MWANZA BRANCH
+  swift: NLCBTZTX0T5
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "TANGA"
+  branch: TANGA BRANCH
+  swift: NLCBTZTXTAN
+    
+- name: "NATIONAL BANK OF COMMERCE, THE"
+  city: "ZANZIBAR"
+  branch: ZANZIBAR BRANCH-UNGUJA
+  swift: NLCBTZTXZAN
+    
+- name: "NIC BANK (TANZANIA) LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: SFICTZTZ
+    
+- name: "NMB BANK PLC"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: NMIBTZTZ
+    
+- name: "ORBIT SECURITES CO LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: ORSUTZT1
+    
+- name: "PEOPLE'S BANK OF ZANZIBAR, THE"
+  city: "ZANZIBAR"
+  branch: CHAKE CHAKE BRANCH
+  swift: PBZATZTZCHK
+    
+- name: "PEOPLE'S BANK OF ZANZIBAR, THE"
+  city: "ZANZIBAR"
+  branch: MWANAKWEREKWE BRANCH
+  swift: PBZATZTZNWK
+    
+- name: "PEOPLE'S BANK OF ZANZIBAR, THE"
+  city: "ZANZIBAR"
+  branch: null
+  swift: PBZATZTZ
+    
+- name: "SABMILLER TANZANIA"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: SABMTZT1
+    
+- name: "SABMILLER TANZANIA"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: SABMTZT1TBL
+    
+- name: "SABMILLER TANZANIA"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: SABMTZT1TDL
+    
+- name: "STANBIC BANK TANZANIA LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: SBICTZTX
+    
+- name: "STANDARD CHARTERED BANK TANZANIA LTD"
+  city: "DAR ES SALAAM"
+  branch: SECURITIES SERVICES UNIT
+  swift: SCBLTZTXSSU
+    
+- name: "STANDARD CHARTERED BANK TANZANIA LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: SCBLTZTX
+    
+- name: "STATE BANK OF INDIA"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: SBINTZT1
+    
+- name: "TANZANIA AGRICULTURAL DEVELOPMENT BANK"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: TZADTZTZ
+    
+- name: "TANZANIA HOUSING BANK"
+  city: "DAR ES SALAAM"
+  branch: CITY BRANCH
+  swift: TAHOTZT1
+    
+- name: "TANZANIA HOUSING BANK"
+  city: "DAR ES SALAAM"
+  branch: HIFADHI BRANCH
+  swift: TAHOTZT10T2
+    
+- name: "TANZANIA HOUSING BANK"
+  city: "DODOMA"
+  branch: DODOMA BRANCH
+  swift: TAHOTZT10T4
+    
+- name: "TANZANIA HOUSING BANK"
+  city: "MBEYA"
+  branch: MBEYA BRANCH
+  swift: TAHOTZT10T6
+    
+- name: "TANZANIA HOUSING BANK"
+  city: "MOROGORO"
+  branch: MOROGORO BRANCH
+  swift: TAHOTZT10T7
+    
+- name: "TANZANIA HOUSING BANK"
+  city: "MOSHI"
+  branch: MOSHI BRANCH
+  swift: TAHOTZT10T8
+    
+- name: "TANZANIA HOUSING BANK"
+  city: "MWANZA"
+  branch: MWANZA BRANCH
+  swift: TAHOTZT10T5
+    
+- name: "TANZANIA HOUSING BANK"
+  city: "TANGA"
+  branch: TANGA BRANCH
+  swift: TAHOTZT10T3
+    
+- name: "TANZANIA HOUSING BANK"
+  city: "ZANZIBAR"
+  branch: ZANZIBAR BRANCH
+  swift: TAHOTZT10TA
+    
+- name: "TANZANIA REVENUE AUTHORITY"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: TARATZTZ
+    
+- name: "TANZANIA WOMEN'S BANK LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: TWBLTZTZ
+    
+- name: "TIB CORPORATE BANK LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: TAINTZTZ
+    
+- name: "TPB BANK PLC"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: TAPBTZTZ
+    
+- name: "TRUST BANK (TANZANIA) LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: TRBATZT1
+    
+- name: "TWIGA BANCORP LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: NABHTZT1
+    
+- name: "TWIGA BANCORP LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: TWIGTZTZ
+    
+- name: "UBL BANK (TANZANIA) LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: UNILTZTZ
+    
+- name: "UCHUMI COMMERCIAL BANK LTD"
+  city: "MOSHI"
+  branch: null
+  swift: UCCTTZTZ
+    
+- name: "ULC (TANZANIA) LTD"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: ULCTTZT1
+    
+- name: "UNITED BANK FOR AFRICA (TANZANIA) LIMITED"
+  city: "DAR ES SALAAM"
+  branch: null
+  swift: UNAFTZTZ
+    

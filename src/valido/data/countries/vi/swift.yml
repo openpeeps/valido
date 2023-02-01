@@ -1,0 +1,30 @@
+- name: "BANK OF NOVA SCOTIA,THE"
+  city: "ST. THOMAS"
+  branch: null
+  swift: NOSCVIVI
+    
+- name: "CITIBANK, N.A."
+  city: "ST. THOMAS"
+  branch: null
+  swift: CITIVIV1
+    
+- name: "EPAY SYSTEMS LIMITED LIABILITY COM"
+  city: "CHRISTIANSTED"
+  branch: null
+  swift: ESLOVIV1
+    
+- name: "EPAY SYSTEMS LIMITED LIABILITY COM"
+  city: "CHRISTIANSTED"
+  branch: DEPARTMENT
+  swift: ESLOVIV1707
+    
+- name: "EPAY SYSTEMS LIMITED LIABILITY COM"
+  city: "CHRISTIANSTED"
+  branch: FINANCIAL SERVICES
+  swift: ESLOVIV1INV
+    
+- name: "FOREIGN EXCHANGE BANK CORP."
+  city: "ST JOHN"
+  branch: null
+  swift: MCSNVIVI
+    

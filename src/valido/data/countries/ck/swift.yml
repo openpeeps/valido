@@ -1,0 +1,30 @@
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD."
+  city: "RAROTONGA"
+  branch: null
+  swift: ANZBCKCR
+    
+- name: "BANK OF SOUTH PACIFIC LIMITED"
+  city: "RAROTONGA"
+  branch: null
+  swift: BOSPCKCR
+    
+- name: "BANK OF THE COOK ISLANDS LIMITED"
+  city: "RAROTONGA"
+  branch: null
+  swift: BCKICKCR
+    
+- name: "CAPITAL SECURITY BANK LIMITED"
+  city: "AVARUA"
+  branch: null
+  swift: CPSBCKCA
+    
+- name: "COOK ISLANDS DEVELOPMENT BANK"
+  city: "RAROTONGA"
+  branch: null
+  swift: CIDBCKC1
+    
+- name: "WALL STREET BANKING CORPORATION LTD, THE"
+  city: "RAROTONGA"
+  branch: null
+  swift: WSBCCKC1
+    

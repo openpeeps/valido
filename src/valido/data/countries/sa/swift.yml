@@ -1,0 +1,615 @@
+- name: "AL AMOUNDI EXCHANGE AND TRADING"
+  city: "JEDDAH"
+  branch: null
+  swift: AMETSAJ1
+    
+- name: "AL INMA BANK"
+  city: "RIYADH"
+  branch: null
+  swift: INMASARI
+    
+- name: "AL RAJHI BANK"
+  city: "RIYADH"
+  branch: HEAD OFFICE
+  swift: RJHISARI
+    
+- name: "ALAMOUDI EXCHANGE COMPANY"
+  city: "JEDDAH"
+  branch: null
+  swift: AMDISAJE
+    
+- name: "ALAWWAL BANK"
+  city: "ALKHOBAR"
+  branch: EASTERN AREA ALKHOBAR
+  swift: AAALSARIALK
+    
+- name: "ALAWWAL BANK"
+  city: "JEDDAH"
+  branch: WESTERN AREA JEDDAH
+  swift: AAALSARIJED
+    
+- name: "ALAWWAL BANK"
+  city: "RIYADH"
+  branch: CENTRAL AREA RIYADH
+  swift: AAALSARIRYD
+    
+- name: "ALAWWAL BANK"
+  city: "RIYADH"
+  branch: CENTRAL TREASURY DEPT.
+  swift: AAALSARICTD
+    
+- name: "ALAWWAL BANK"
+  city: "RIYADH"
+  branch: null
+  swift: AAALSARI
+    
+- name: "ALAWWAL INVEST"
+  city: "RIYADH"
+  branch: null
+  swift: SAHCSARI
+    
+- name: "ALMARAI COMPANY"
+  city: "RIYADH"
+  branch: null
+  swift: ALMRSARI
+    
+- name: "ALRAJHI COMMERCIAL FOREIGN EXCHANGE"
+  city: "JEDDAH"
+  branch: null
+  swift: AFEXSAJ1
+    
+- name: "ARAB NATIONAL BANK"
+  city: "RIYADH"
+  branch: HEAD OFFICE
+  swift: ARNBSARI
+    
+- name: "ARAB PETROLEM INVESTMENTS CORPORATION"
+  city: "DAMMAM"
+  branch: null
+  swift: APICSADM
+    
+- name: "ARAB PETROLEUM INVESTMENTS CORPORATION"
+  city: "DAMMAM"
+  branch: null
+  swift: APIASAR1
+    
+- name: "BANK AL BILAD"
+  city: "DAMMAM"
+  branch: DAMMAM
+  swift: ALBISARIDAM
+    
+- name: "BANK AL BILAD"
+  city: "JEDDAH"
+  branch: JEDDAH
+  swift: ALBISARIJED
+    
+- name: "BANK AL BILAD"
+  city: "RIYADH"
+  branch: ALBILAD CUSTODY
+  swift: ALBISARICAP
+    
+- name: "BANK AL BILAD"
+  city: "RIYADH"
+  branch: TRADE FINANCE CENTER
+  swift: ALBISARITFC
+    
+- name: "BANK AL BILAD"
+  city: "RIYADH"
+  branch: null
+  swift: ALBISARI
+    
+- name: "BANK AL-JAZIRA"
+  city: "ALKHOBAR"
+  branch: ALKHOBAR BRANCH
+  swift: BJAZSAJE013
+    
+- name: "BANK AL-JAZIRA"
+  city: "BURAIDAH"
+  branch: BURAIDAH BRANCH
+  swift: BJAZSAJE026
+    
+- name: "BANK AL-JAZIRA"
+  city: "DAMMAM"
+  branch: DAMMAM BRANCH
+  swift: BJAZSAJE009
+    
+- name: "BANK AL-JAZIRA"
+  city: "HOFUF"
+  branch: HOFUF BRANCH
+  swift: BJAZSAJE025
+    
+- name: "BANK AL-JAZIRA"
+  city: "JEDDAH"
+  branch: HEAD OFFICE
+  swift: BJAZSAJE002
+    
+- name: "BANK AL-JAZIRA"
+  city: "JEDDAH"
+  branch: KHALID BIN WALEED STREET BRANCH
+  swift: BJAZSAJE007
+    
+- name: "BANK AL-JAZIRA"
+  city: "JEDDAH"
+  branch: KING ABDUL AZIZ STREET BR.
+  swift: BJAZSAJE006
+    
+- name: "BANK AL-JAZIRA"
+  city: "JEDDAH"
+  branch: MADINA ROAD BRANCH
+  swift: BJAZSAJE021
+    
+- name: "BANK AL-JAZIRA"
+  city: "JEDDAH"
+  branch: null
+  swift: BJAZSAJE
+    
+- name: "BANK AL-JAZIRA"
+  city: "JUBAIL"
+  branch: JUBAIL BRANCH
+  swift: BJAZSAJE019
+    
+- name: "BANK AL-JAZIRA"
+  city: "MADINA MUNAWWARA"
+  branch: MADINA MUNAWWARA BRANCH
+  swift: BJAZSAJE011
+    
+- name: "BANK AL-JAZIRA"
+  city: "MAKKAH AL-MUKARRAMA"
+  branch: MAKKAH MUKARRAMA BRANCH
+  swift: BJAZSAJE010
+    
+- name: "BANK AL-JAZIRA"
+  city: "RIYADH"
+  branch: OLAYYAH BRANCH
+  swift: BJAZSAJE016
+    
+- name: "BANK AL-JAZIRA"
+  city: "RIYADH"
+  branch: SITTEEN STREET BRANCH
+  swift: BJAZSAJE027
+    
+- name: "BANKMUSCAT"
+  city: "RIYADH"
+  branch: null
+  swift: BMUSSARI
+    
+- name: "BANQUE SAUDI FRANSI"
+  city: "ALKHOBAR"
+  branch: EASTERN REGION
+  swift: BSFRSARIEST
+    
+- name: "BANQUE SAUDI FRANSI"
+  city: "JEDDAH"
+  branch: WESTERN REGION
+  swift: BSFRSARIWST
+    
+- name: "BANQUE SAUDI FRANSI"
+  city: "RIYADH"
+  branch: CENTRAL REGION
+  swift: BSFRSARIRYD
+    
+- name: "BANQUE SAUDI FRANSI"
+  city: "RIYADH"
+  branch: HEAD OFFICE
+  swift: BSFRSARIGEM
+    
+- name: "BANQUE SAUDI FRANSI"
+  city: "RIYADH"
+  branch: null
+  swift: BSFRSARI
+    
+- name: "BNP PARIBAS INVESTMENT COMPANY KSA"
+  city: "RIYADH"
+  branch: null
+  swift: BNPASARB
+    
+- name: "BNP PARIBAS INVESTMENT COMPANY KSA"
+  city: "RIYADH"
+  branch: null
+  swift: BNPASARBWMI
+    
+- name: "BNP PARIBAS SAUDI ARABIA"
+  city: "RIYADH"
+  branch: null
+  swift: BNPASARI
+    
+- name: "CREDIT SUISSE SAUDI ARABIA"
+  city: "RIYADH"
+  branch: null
+  swift: CRESSARA
+    
+- name: "CREDIT SUISSE SAUDI ARABIA"
+  city: "RIYADH"
+  branch: null
+  swift: CRESSARA20R
+    
+- name: "DEUTSCHE BANK AG, RIYADH BRANCH"
+  city: "RIYADH"
+  branch: DOMESTIC CUSTODY SERVICES
+  swift: DEUTSARICUS
+    
+- name: "DEUTSCHE BANK AG, RIYADH BRANCH"
+  city: "RIYADH"
+  branch: null
+  swift: DEUTSARA
+    
+- name: "DEUTSCHE BANK AG, RIYADH BRANCH"
+  city: "RIYADH"
+  branch: null
+  swift: DEUTSARAAWM
+    
+- name: "DEUTSCHE BANK AG, RIYADH BRANCH"
+  city: "RIYADH"
+  branch: null
+  swift: DEUTSARACUS
+    
+- name: "DEUTSCHE BANK AG, RIYADH BRANCH"
+  city: "RIYADH"
+  branch: null
+  swift: DEUTSARI
+    
+- name: "DEUTSCHE BANK AG, RIYADH BRANCH"
+  city: "RIYADH"
+  branch: null
+  swift: DEUTSARIGES
+    
+- name: "DEUTSCHE SECURITIES SAUDI ARABIA"
+  city: "RIYADH"
+  branch: null
+  swift: DEUTSARB
+    
+- name: "EAST AFRICA MARITIME"
+  city: "JEDDAH"
+  branch: null
+  swift: EAAMSAJ1
+    
+- name: "EFG-HERMES KSA"
+  city: "RIYADH"
+  branch: null
+  swift: EFKSSAR1
+    
+- name: "EMIRATES NBD PJSC"
+  city: "RIYADH"
+  branch: null
+  swift: EBILSARI
+    
+- name: "GULF INTERNATIONAL BANK B.S.C., RIYADH"
+  city: "RIYADH"
+  branch: null
+  swift: GULFSARI
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA RIYADH BRANCH, SA"
+  city: "RIYADH"
+  branch: null
+  swift: ICBKSARI
+    
+- name: "INTERNATIONAL ISLAMIC TRADE FINANCE CORPORATION (MEMBER ISLAMIC DEVELOPMENT BANK GROUP)"
+  city: "JEDDAH"
+  branch: null
+  swift: ITFKSAJE
+    
+- name: "ISLAMIC CORPORATION FOR THE DEVELOPMENT OF THE PRIVATE SECTOR (MEMBER, ISLAMIC DEVELOPMENT BANK GROUP)"
+  city: "JEDDAH"
+  branch: null
+  swift: ICDKSAJE
+    
+- name: "ISLAMIC DEVELOPMENT BANK"
+  city: "JEDDAH"
+  branch: INTERNATIONAL TRADE FINANCE
+  swift: ISLDSAJEITF
+    
+- name: "ISLAMIC DEVELOPMENT BANK"
+  city: "JEDDAH"
+  branch: null
+  swift: ISLDSAJE
+    
+- name: "ISLAMIC DEVELOPMENT BANK"
+  city: "JEDDAH"
+  branch: null
+  swift: ISLDSAJEICD
+    
+- name: "J.P. MORGAN SAUDI ARABIA LIMITED"
+  city: "RIYADH"
+  branch: DIRECT CUSTODY AND CLEARING- KINGDOM OF SAUDIA ARABIA
+  swift: JPMGSARYDCC
+    
+- name: "J.P. MORGAN SAUDI ARABIA LIMITED"
+  city: "RIYADH"
+  branch: null
+  swift: JPMGSARY
+    
+- name: "JPMORGAN CHASE BANK, N.A. RIYADH"
+  city: "RIYADH"
+  branch: SAUDI ARABIA EXPENSES
+  swift: CHASSARISAU
+    
+- name: "JPMORGAN CHASE BANK, N.A. RIYADH"
+  city: "RIYADH"
+  branch: null
+  swift: CHASSARI
+    
+- name: "KING ABDULLAH PETROLEUM STUDIES AND RESEARCH CENTER"
+  city: "DHAHRAN"
+  branch: null
+  swift: KPSRSADD
+    
+- name: "M. MOUNIR HALAWANI SONS, EXCHANGE COMPANY"
+  city: "JEDDAH"
+  branch: null
+  swift: HFEXSAJ1
+    
+- name: "MERRILL LYNCH KINGDOM OF SAUDI ARABIA"
+  city: "RIYADH"
+  branch: null
+  swift: MLSASARI
+    
+- name: "MOHAMMED HASSAN YELLA AND SONS EXCHANGE COMPANY"
+  city: "JEDDAH"
+  branch: null
+  swift: MHYCSAJE
+    
+- name: "MORGAN STANLEY SAUDI ARABIA"
+  city: "RIYADH"
+  branch: null
+  swift: MSRISAR1
+    
+- name: "MORGAN STANLEY SAUDI ARABIA"
+  city: "RIYADH"
+  branch: null
+  swift: MSSRSAR1
+    
+- name: "NAHDI MEDICAL COMPANY"
+  city: "JEDDAH"
+  branch: null
+  swift: NHDISAJE
+    
+- name: "NATIONAL BANK OF BAHRAIN"
+  city: "RIYADH"
+  branch: null
+  swift: NBOBSARI
+    
+- name: "NATIONAL BANK OF KUWAIT"
+  city: "JEDDAH"
+  branch: null
+  swift: NBOKSAJE
+    
+- name: "NATIONAL BANK OF PAKISTAN"
+  city: "RIYADH"
+  branch: null
+  swift: NBPASARI
+    
+- name: "NATIONAL BISCUITS AND CONFECTIONERY COMPANY"
+  city: "JEDDAH"
+  branch: null
+  swift: NBCCSAJE
+    
+- name: "NATIONAL COMMERCIAL BANK, THE"
+  city: "DAMMAM"
+  branch: TRADE SERVICES-EAST
+  swift: NCBKSAJE615
+    
+- name: "NATIONAL COMMERCIAL BANK, THE"
+  city: "JEDDAH"
+  branch: HEAD OFFICE
+  swift: NCBKSAJE
+    
+- name: "NATIONAL COMMERCIAL BANK, THE"
+  city: "JEDDAH"
+  branch: JEDDAH, MAIN BRANCH
+  swift: NCBKSAJE101
+    
+- name: "NATIONAL COMMERCIAL BANK, THE"
+  city: "JEDDAH"
+  branch: TRADE SERVICES-WEST
+  swift: NCBKSAJE613
+    
+- name: "NATIONAL COMMERCIAL BANK, THE"
+  city: "JEDDAH"
+  branch: TREASURY DIVISION
+  swift: NCBKSAJE555
+    
+- name: "NATIONAL COMMERCIAL BANK, THE"
+  city: "RIYADH"
+  branch: TRADE SERVICES-CENTRAL
+  swift: NCBKSAJE614
+    
+- name: "NATIONAL FOOD INDUSTRIES CO. LTD"
+  city: "JEDDAH"
+  branch: null
+  swift: NAFDSAJE
+    
+- name: "NATIONAL WATER COMPANY"
+  city: "RIYADH"
+  branch: null
+  swift: NWCYSARI
+    
+- name: "NCB CAPITAL COMPANY"
+  city: "JEDDAH"
+  branch: null
+  swift: NCCOSAJE
+    
+- name: "OMAR KASSEM ALESAYI MARKETING CO. LIMITED"
+  city: "JEDDAH"
+  branch: null
+  swift: OKAMSARI
+    
+- name: "QATAR NATIONAL BANK"
+  city: "RIYADH"
+  branch: null
+  swift: QNBASARI
+    
+- name: "QINVEST SAUDI ARABIA"
+  city: "RIYADH"
+  branch: null
+  swift: QINVSAR1
+    
+- name: "RIYAD BANK"
+  city: "RIYADH"
+  branch: RIYAD CAPITAL
+  swift: RIBLSARISSD
+    
+- name: "RIYAD BANK"
+  city: "RIYADH"
+  branch: null
+  swift: RIBLSARI
+    
+- name: "SADARA CHEMICAL COMPANY"
+  city: "DHAHRAN"
+  branch: null
+  swift: SDCCSADA
+    
+- name: "SAHARA PETROCHEMICALS COMPANY SAUDI JOINT STOCK COMPANY"
+  city: "JUBAIL"
+  branch: null
+  swift: SPCUSAJB
+    
+- name: "SAMBA FINANCIAL GROUP"
+  city: "ALKHOBAR"
+  branch: EASTERN REGION BRANCH
+  swift: SAMBSARIACS
+    
+- name: "SAMBA FINANCIAL GROUP"
+  city: "JEDDAH"
+  branch: WESTERN REGION BRANCH
+  swift: SAMBSARIJCS
+    
+- name: "SAMBA FINANCIAL GROUP"
+  city: "RIYADH"
+  branch: CENTRAL REGION BRANCH
+  swift: SAMBSARIRCS
+    
+- name: "SAMBA FINANCIAL GROUP"
+  city: "RIYADH"
+  branch: CONSUMERS BRANCH
+  swift: SAMBSARIRCP
+    
+- name: "SAMBA FINANCIAL GROUP"
+  city: "RIYADH"
+  branch: RIYADH BRANCH
+  swift: SAMBSARIRFX
+    
+- name: "SAMBA FINANCIAL GROUP"
+  city: "RIYADH"
+  branch: null
+  swift: SAMBSARI
+    
+- name: "SAUDI ARABIAN MONETARY AUTHORITY"
+  city: "RIYADH"
+  branch: null
+  swift: SAMASARI
+    
+- name: "SAUDI ARAMCO"
+  city: "DHAHRAN"
+  branch: null
+  swift: ARAMSADH
+    
+- name: "SAUDI ARAMCO LUBRICATING OIL REFINING COMPANY (LUBEREF)"
+  city: "JEDDAH"
+  branch: null
+  swift: LBRFSAJD
+    
+- name: "SAUDI ARAMCO MOBIL REFINERY COMPANY LIMITED (SAMREF)"
+  city: "YANBU"
+  branch: null
+  swift: SRMRSADB
+    
+- name: "SAUDI ARAMCO PRODUCT TRADING CO."
+  city: "DHAHRAN"
+  branch: null
+  swift: SAPCSADH
+    
+- name: "SAUDI BASIC INDUSTRIES CORPORATION (SABIC)"
+  city: "RIYADH"
+  branch: null
+  swift: SBHQSARR
+    
+- name: "SAUDI BRITISH BANK, THE"
+  city: "RIYADH"
+  branch: HEAD OFFICE
+  swift: SABBSARI
+    
+- name: "SAUDI CERAMIC COMPANY"
+  city: "RIYADH"
+  branch: null
+  swift: SACYSAR1
+    
+- name: "SAUDI CHEVRON PHILLIPS CO."
+  city: "JUBAIL"
+  branch: null
+  swift: SCHMSADE
+    
+- name: "SAUDI ECONOMIC AND DEVELOPMENT COMPANY FOR SECURITIES"
+  city: "JEDDAH"
+  branch: null
+  swift: SEDPSAJE
+    
+- name: "SAUDI INTERNATIONAL PETROCHEMICAL CO. (SIPCHEM)"
+  city: "JUBAIL"
+  branch: null
+  swift: SIPHSADB
+    
+- name: "SAUDI INVESTMENT BANK, THE"
+  city: "RIYADH"
+  branch: null
+  swift: SIBCSARI
+    
+- name: "SAUDI STOCK EXCHANGE"
+  city: "RIYADH"
+  branch: null
+  swift: TSSMSAR1
+    
+- name: "SAUDI TELECOM COMPANY"
+  city: "RIYADH"
+  branch: null
+  swift: STCOSARI
+    
+- name: "SHUAA CAPITAL SAUDI ARABIA"
+  city: "RIYADH"
+  branch: null
+  swift: SHUASAR1
+    
+- name: "STANDARD CHARTERED CAPITAL (SAUDI ARABIA)"
+  city: "RIYADH"
+  branch: null
+  swift: SCBLSARI
+    
+- name: "STATE BANK OF INDIA"
+  city: "JEDDAH"
+  branch: null
+  swift: SBINSAJE
+    
+- name: "SUPREME FOODS COMPANY LIMITED"
+  city: "RIYADH"
+  branch: null
+  swift: SUFCSAR1
+    
+- name: "T.C. ZIRAAT BANKASI A.S."
+  city: "JEDDAH"
+  branch: null
+  swift: TCZBSAJE
+    
+- name: "THE ISLAMIC CORP FOR THE INSURANCE OF INVESTMENT AND EXPORT CREDIT (MEMBER ISLAMIC DEVELOPMENT BANKGROUP)"
+  city: "JEDDAH"
+  branch: null
+  swift: ICECSAJE
+    
+- name: "THE SAUDI FUND FOR DEVELOPMENT"
+  city: "RIYADH"
+  branch: null
+  swift: SFFDSARI
+    
+- name: "UNITED CARTON INDUSTRIES COMPANY"
+  city: "JEDDAH"
+  branch: null
+  swift: UCSASAJ1
+    
+- name: "YANBU ARAMCO SINOPEC REFINING (YASREF) LIMITED"
+  city: "YANBU"
+  branch: null
+  swift: YASRSADB
+    
+- name: "ZAHID TRACTOR AND HM"
+  city: "JEDDAH"
+  branch: null
+  swift: ZTHMSAJE
+    

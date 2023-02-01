@@ -1,0 +1,10 @@
+- name: "CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DE SAINT-PIERRE ET MIQUELON)"
+  city: "SAINT PIERRE ET MIQUELON"
+  branch: null
+  swift: BDILPMPM
+    
+- name: "CISPM"
+  city: "SAINT PIERRE ET MIQUELON"
+  branch: null
+  swift: CIPMPMP1
+    

@@ -1,0 +1,20 @@
+- name: "ALLIED BANKING CORPORATION"
+  city: "TAMUNING"
+  branch: null
+  swift: ABCMGUG1
+    
+- name: "ANZ GUAM, INC."
+  city: "AGANA"
+  branch: null
+  swift: ANZBGUGG
+    
+- name: "BANK OF GUAM"
+  city: "AGANA"
+  branch: null
+  swift: GMBKGUGU
+    
+- name: "BANK OF NAURU"
+  city: "AGANA"
+  branch: null
+  swift: BNAUGUG1
+    

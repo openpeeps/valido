@@ -1,0 +1,505 @@
+- name: "AL BARID BANK"
+  city: "RABAT"
+  branch: null
+  swift: ABBMMAMC
+    
+- name: "ARAB BANK PLC"
+  city: "MARRAKECH"
+  branch: MARRAKECH BRANCH
+  swift: ARABMAMC250
+    
+- name: "ARAB BANK PLC."
+  city: "AGADIR"
+  branch: null
+  swift: ARABMAMC260
+    
+- name: "ARAB BANK PLC."
+  city: "CASABLANCA"
+  branch: AL FIDA AVENUE BRANCH
+  swift: ARABMAM10M4
+    
+- name: "ARAB BANK PLC."
+  city: "CASABLANCA"
+  branch: MAIN BRANCH
+  swift: ARABMAMC210
+    
+- name: "ARAB BANK PLC."
+  city: "CASABLANCA"
+  branch: null
+  swift: ARABMAMC
+    
+- name: "ARAB BANK PLC."
+  city: "FES"
+  branch: null
+  swift: ARABMAMC240
+    
+- name: "ARAB BANK PLC."
+  city: "RABAT"
+  branch: AGDAL BRANCH
+  swift: ARABMAMC221
+    
+- name: "ARAB BANK PLC."
+  city: "RABAT"
+  branch: null
+  swift: ARABMAMC220
+    
+- name: "ARAB BANK PLC."
+  city: "TANGER"
+  branch: null
+  swift: ARABMAMC230
+    
+- name: "ATTIJARI INTERNATIONAL BANK S.A. - BANQUE OFF SHORE"
+  city: "TANGER"
+  branch: null
+  swift: AIBSMAMT
+    
+- name: "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)"
+  city: "CASABLANCA"
+  branch: ATTIJARI INTERMEDIATION
+  swift: BCMAMAMCATI
+    
+- name: "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)"
+  city: "CASABLANCA"
+  branch: BCMAMAMCBAS
+  swift: BCMAMAMCBAS
+    
+- name: "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)"
+  city: "CASABLANCA"
+  branch: BRANCH CTN DEVISE
+  swift: BCMAMAMCDEV
+    
+- name: "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)"
+  city: "CASABLANCA"
+  branch: null
+  swift: BCMAMAMC
+    
+- name: "BANCO DE SABADELL, S.A."
+  city: "CASABLANCA"
+  branch: null
+  swift: BSABMAMC
+    
+- name: "BANK AL-MAGHRIB"
+  city: "RABAT"
+  branch: null
+  swift: BKAMMAMR
+    
+- name: "BANQUE CENTRALE POPULAIRE"
+  city: "CASABLANCA"
+  branch: DEPT. BACK OFFICE
+  swift: BCPOMAMCBKO
+    
+- name: "BANQUE CENTRALE POPULAIRE"
+  city: "CASABLANCA"
+  branch: DEPT. MONETIQUES
+  swift: BCPOMAMCMON
+    
+- name: "BANQUE CENTRALE POPULAIRE"
+  city: "CASABLANCA"
+  branch: DEPT. RECONCILIATION
+  swift: BCPOMAMCREC
+    
+- name: "BANQUE CENTRALE POPULAIRE"
+  city: "CASABLANCA"
+  branch: SCE. DOCUMENTAIRE
+  swift: BCPOMAMCDOC
+    
+- name: "BANQUE CENTRALE POPULAIRE"
+  city: "CASABLANCA"
+  branch: SCE. FINANCIER
+  swift: BCPOMAMCFIN
+    
+- name: "BANQUE CENTRALE POPULAIRE"
+  city: "CASABLANCA"
+  branch: TRANFERTS DES MAROCAINS RESIDANTS A L'ETRANGER
+  swift: BCPOMAMCMRE
+    
+- name: "BANQUE CENTRALE POPULAIRE"
+  city: "CASABLANCA"
+  branch: YSR
+  swift: BCPOMAMCYSR
+    
+- name: "BANQUE CENTRALE POPULAIRE"
+  city: "CASABLANCA"
+  branch: null
+  swift: BCPOMAMC
+    
+- name: "BANQUE CENTRALE POPULAIRE"
+  city: "TANGER"
+  branch: OFFSHORE BRANCH, TANGIER
+  swift: BCPOMAMCCIB
+    
+- name: "BANQUE MAROCAINE DU COMMERCE EXTERIEUR"
+  city: "CASABLANCA"
+  branch: AGENCE CORPORATE
+  swift: BMCEMAMCCOR
+    
+- name: "BANQUE MAROCAINE DU COMMERCE EXTERIEUR"
+  city: "CASABLANCA"
+  branch: COMPTE SPECIAL MRE
+  swift: BMCEMAMCMRE
+    
+- name: "BANQUE MAROCAINE DU COMMERCE EXTERIEUR"
+  city: "CASABLANCA"
+  branch: SALLE DES MARCHES, CASABLANCA
+  swift: BMCEMAMCSDM
+    
+- name: "BANQUE MAROCAINE DU COMMERCE EXTERIEUR"
+  city: "CASABLANCA"
+  branch: null
+  swift: BMCEMAMC
+    
+- name: "BANQUE MAROCAINE DU COMMERCE EXTERIEUR"
+  city: "CASABLANCA"
+  branch: null
+  swift: BMCEMAMCBTI
+    
+- name: "BANQUE MAROCAINE DU COMMERCE EXTERIEUR"
+  city: "TANGER"
+  branch: OFFSHORE BRANCH TRADING ROOM, TANGIER
+  swift: BMCEMAMCTCM
+    
+- name: "BANQUE MAROCAINE DU COMMERCE EXTERIEUR"
+  city: "TANGER"
+  branch: OFFSHORE BRANCH, TANGIER
+  swift: BMCEMAMCTZF
+    
+- name: "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE"
+  city: "CASABLANCA"
+  branch: BMCI FINANCE PARTICIPATIVE
+  swift: BMCIMAMCNFP
+    
+- name: "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE"
+  city: "CASABLANCA"
+  branch: null
+  swift: BMCIMAMC
+    
+- name: "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE"
+  city: "TANGER"
+  branch: OFFSHORE BRANCH
+  swift: BMCIMAMCTOF
+    
+- name: "BANQUE POPULAIRE AGADIR"
+  city: "AGADIR"
+  branch: null
+  swift: BCPOMAMCCES
+    
+- name: "BANQUE POPULAIRE AL HOCEIMA"
+  city: "AL HOCEIMA"
+  branch: null
+  swift: BCPOMAMCALH
+    
+- name: "BANQUE POPULAIRE BENI MELLAL"
+  city: "BENI MELLAL"
+  branch: null
+  swift: BCPOMAMCBNM
+    
+- name: "BANQUE POPULAIRE BERKANE"
+  city: "BERKANE"
+  branch: null
+  swift: BCPOMAMCBRK
+    
+- name: "BANQUE POPULAIRE CASA-ANFA"
+  city: "CASABLANCA"
+  branch: null
+  swift: BCPOMAMCCAS
+    
+- name: "BANQUE POPULAIRE CASA-EST"
+  city: "CASABLANCA"
+  branch: null
+  swift: BCPOMAM10MG
+    
+- name: "BANQUE POPULAIRE CASA-SUD"
+  city: "CASABLANCA"
+  branch: null
+  swift: BCPOMAM10MH
+    
+- name: "BANQUE POPULAIRE EL JADIDA"
+  city: "EL JADIDA"
+  branch: null
+  swift: BCPOMAMCELJ
+    
+- name: "BANQUE POPULAIRE ERRACHIDIA"
+  city: "ERRACHIDIA"
+  branch: null
+  swift: BCPOMAM10MJ
+    
+- name: "BANQUE POPULAIRE FES"
+  city: "FES"
+  branch: null
+  swift: BCPOMAMCFES
+    
+- name: "BANQUE POPULAIRE GHARB"
+  city: "GHARB"
+  branch: null
+  swift: BCPOMAMCGHA
+    
+- name: "BANQUE POPULAIRE LAAYOUNE"
+  city: "LAAYOUNE"
+  branch: null
+  swift: BCPOMAMCLAY
+    
+- name: "BANQUE POPULAIRE MARRAKECH"
+  city: "MARRAKECH"
+  branch: null
+  swift: BCPOMAMCMKH
+    
+- name: "BANQUE POPULAIRE MEKNES"
+  city: "MEKNES"
+  branch: null
+  swift: BCPOMAMCMEK
+    
+- name: "BANQUE POPULAIRE NADOR"
+  city: "NADOR"
+  branch: null
+  swift: BCPOMAMCNAD
+    
+- name: "BANQUE POPULAIRE OUARZAZATE"
+  city: "OUARZAZATE"
+  branch: null
+  swift: BCPOMAM10MS
+    
+- name: "BANQUE POPULAIRE OUJDA"
+  city: "OUJDA"
+  branch: null
+  swift: BCPOMAMCOUJ
+    
+- name: "BANQUE POPULAIRE RABAT"
+  city: "RABAT"
+  branch: null
+  swift: BCPOMAMCRAB
+    
+- name: "BANQUE POPULAIRE SAFI"
+  city: "SAFI"
+  branch: null
+  swift: BCPOMAMCSAF
+    
+- name: "BANQUE POPULAIRE TANGER"
+  city: "TANGER"
+  branch: null
+  swift: BCPOMAMCTAT
+    
+- name: "BANQUE POPULAIRE TAZA"
+  city: "TAZA"
+  branch: null
+  swift: BCPOMAM10MV
+    
+- name: "BANQUE POPULAIRE TETOUAN"
+  city: "TETOUAN"
+  branch: null
+  swift: BCPOMAM10MW
+    
+- name: "BANQUE POPULAIRE TIZNIT"
+  city: "TIZNIT"
+  branch: null
+  swift: BCPOMAM10MY
+    
+- name: "BOURSE DE CASABLANCA SA"
+  city: "CASABLANCA"
+  branch: null
+  swift: XCASMAM1
+    
+- name: "CAISSE DE DEPOT ET DE GESTION"
+  city: "RABAT"
+  branch: null
+  swift: CADGMAMR
+    
+- name: "CAIXABANK, S.A. SUCCURSALE AU MAROC"
+  city: "CASABLANCA"
+  branch: null
+  swift: CAIXMAMC
+    
+- name: "CDG CAPITAL"
+  city: "RABAT"
+  branch: null
+  swift: RDGCMAMR
+    
+- name: "CENTRALE POPULAIRE (BANQUE) SA"
+  city: "CASABLANCA"
+  branch: null
+  swift: CRPMMAM1
+    
+- name: "CFG BANK"
+  city: "CASABLANCA"
+  branch: null
+  swift: CAFGMAMC
+    
+- name: "CITIBANK MAGHREB"
+  city: "CASABLANCA"
+  branch: TRADE SERVICES DEPARTMENT
+  swift: CITIMAMCTRD
+    
+- name: "CITIBANK MAGHREB"
+  city: "CASABLANCA"
+  branch: null
+  swift: CITIMAMC
+    
+- name: "COMPAGNIE NATIONALE ROYAL AIR MAROC"
+  city: "CASABLANCA"
+  branch: null
+  swift: RAMSMAMC
+    
+- name: "CREDIT AGRICOLE DU MAROC"
+  city: "RABAT"
+  branch: AL AKHDAR BRANCH
+  swift: CNCAMAMRAAB
+    
+- name: "CREDIT AGRICOLE DU MAROC"
+  city: "RABAT"
+  branch: null
+  swift: CNCAMAMR
+    
+- name: "CREDIT DU MAROC"
+  city: "AGADIR"
+  branch: TRADE CENTER TALBORJT
+  swift: CDMAMAMC706
+    
+- name: "CREDIT DU MAROC"
+  city: "CASABLANCA"
+  branch: ACTIVITES ET OPERATIONS PARTICIPATIVES
+  swift: CDMAMAMCPAR
+    
+- name: "CREDIT DU MAROC"
+  city: "CASABLANCA"
+  branch: ALL MOROCCO BRANCHES
+  swift: CDMAMAMC
+    
+- name: "CREDIT DU MAROC"
+  city: "CASABLANCA"
+  branch: OFFSHORE SERVICES
+  swift: CDMAMAMCCOS
+    
+- name: "CREDIT DU MAROC"
+  city: "CASABLANCA"
+  branch: TRADE CENTER CENTRE-VILLE
+  swift: CDMAMAMC703
+    
+- name: "CREDIT DU MAROC"
+  city: "CASABLANCA"
+  branch: TRADE CENTER EXPANSION
+  swift: CDMAMAMC700
+    
+- name: "CREDIT DU MAROC"
+  city: "CASABLANCA"
+  branch: null
+  swift: CDMAMAMC701
+    
+- name: "CREDIT DU MAROC"
+  city: "CASABLANCA"
+  branch: null
+  swift: CDMAMAMC702
+    
+- name: "CREDIT DU MAROC"
+  city: "FES"
+  branch: TRADE CENTER QUARAOUYINE
+  swift: CDMAMAMC707
+    
+- name: "CREDIT DU MAROC"
+  city: "MARRAKECH"
+  branch: TRADE CENTER MENARA
+  swift: CDMAMAMC704
+    
+- name: "CREDIT DU MAROC"
+  city: "OUJDA"
+  branch: TRADE CENTER AL MOUSTAGBAL
+  swift: CDMAMAMC708
+    
+- name: "CREDIT DU MAROC"
+  city: "RABAT"
+  branch: TRADE CENTER CHELLAH
+  swift: CDMAMAMC709
+    
+- name: "CREDIT DU MAROC"
+  city: "TANGER"
+  branch: TRADE CENTER BOUGHAZ
+  swift: CDMAMAMC705
+    
+- name: "CREDIT IMMOBILIER ET HOTELIER"
+  city: "CASABLANCA"
+  branch: DEPARTEMENT ETRANGER
+  swift: CIHMMAMCDEP
+    
+- name: "CREDIT IMMOBILIER ET HOTELIER"
+  city: "CASABLANCA"
+  branch: SALLE DES MARCHES
+  swift: CIHMMAMCSDM
+    
+- name: "CREDIT IMMOBILIER ET HOTELIER"
+  city: "CASABLANCA"
+  branch: UMNIA BANK
+  swift: CIHMMAMCUBP
+    
+- name: "CREDIT IMMOBILIER ET HOTELIER"
+  city: "CASABLANCA"
+  branch: null
+  swift: CIHMMAMC
+    
+- name: "GROUPE OCP"
+  city: "CASABLANCA"
+  branch: null
+  swift: GOCPMAMC
+    
+- name: "INTEGRA BOURSE"
+  city: "CASABLANCA"
+  branch: null
+  swift: ITBOMAM1
+    
+- name: "MAROC SERVICES INTERMEDIATION"
+  city: "CASABLANCA"
+  branch: null
+  swift: MAVIMAM1
+    
+- name: "MAROCLEAR SA"
+  city: "CASABLANCA"
+  branch: null
+  swift: MAROMAM1
+    
+- name: "MEDIAFINANCE"
+  city: "CASABLANCA"
+  branch: null
+  swift: MEDCMAMC
+    
+- name: "SAMSUNG ELECTRONICS MOROCCO"
+  city: "CASABLANCA"
+  branch: null
+  swift: SECTMAM1
+    
+- name: "SAMSUNG ELECTRONICS MOROCCO"
+  city: "CASABLANCA"
+  branch: null
+  swift: SECTMAM1780
+    
+- name: "SOCIETE GENERALE MAROCAINE DE BANQUES"
+  city: "CASABLANCA"
+  branch: CASH MANAGEMENT INTERNATIONAL
+  swift: SGMBMAMCCMI
+    
+- name: "SOCIETE GENERALE MAROCAINE DE BANQUES"
+  city: "CASABLANCA"
+  branch: FLUX CASH MANAGEMENT
+  swift: SGMBMAMCFCM
+    
+- name: "SOCIETE GENERALE MAROCAINE DE BANQUES"
+  city: "CASABLANCA"
+  branch: null
+  swift: SGMBMAMC
+    
+- name: "SOCIETE GENERALE TANGER OFFSHORE"
+  city: "TANGER"
+  branch: null
+  swift: SGTGMAMC
+    
+- name: "TANGER (BANQUE INTERNATIONALE DE) SA"
+  city: "TANGER"
+  branch: null
+  swift: ITABMAM1
+    
+- name: "UNION MAROCAINE DE BANQUES"
+  city: "CASABLANCA"
+  branch: null
+  swift: UMABMAMC
+    
+- name: "UPLINE INTERNATIONAL S.A."
+  city: "CASABLANCA"
+  branch: null
+  swift: UPLNMAM1
+    

@@ -1,0 +1,6810 @@
+- name: "3V CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CILAHKH1
+    
+- name: "A ONE INVESTMENT COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: AONEHKH1
+    
+- name: "AB CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CTPTHKH1
+    
+- name: "AB INTERNATIONAL FINANCE LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: ABFLHKHH
+    
+- name: "ABCI SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ABSYHKH1
+    
+- name: "ABN AMRO ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HOGTHKH1
+    
+- name: "ABN AMRO BANK N.V. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: GROUP TREASURY
+  swift: ABNAHKAATRY
+    
+- name: "ABN AMRO BANK N.V. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: INTERNATIONAL DIAMOND AND JEWELRY GROUP
+  swift: ABNAHKAAIDJ
+    
+- name: "ABN AMRO BANK N.V. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: INTERNATIONAL PRIVATE CLIENTS DEPARTMENT
+  swift: ABNAHKAAIPC
+    
+- name: "ABN AMRO BANK N.V. HONG KONG BRANCH"
+  city: "KOWLOON"
+  branch: null
+  swift: ABNAHKAA
+    
+- name: "ABN AMRO CLEARING HONG KONG LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: AALHHKH1
+    
+- name: "AGINCOURT SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GINCHKH1
+    
+- name: "AGRICULTURAL BANK OF CHINA LIMITED HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: ABOCHKHH
+    
+- name: "AIA COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: GROUP INVESTMENT OPERATIONS
+  swift: AIACHKH1GIO
+    
+- name: "AIA COMPANY LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: AIACHKHC
+    
+- name: "AIG ASSET MANAGEMENT (ASIA) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: AGITHKH1
+    
+- name: "AIG GLOBAL INVESTMENT CORPORATION (ASIA) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: AIGCHKH1
+    
+- name: "AIM FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: AIFUHKH1
+    
+- name: "ALEXANDRA STOCK CO."
+  city: "HONG KONG"
+  branch: null
+  swift: ALSTHKH1
+    
+- name: "ALGORITHMIC TRADING GROUP (ATG) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: ATGAHKH1
+    
+- name: "ALLAHABAD BANK"
+  city: "HONG KONG"
+  branch: null
+  swift: ALLAHKHH
+    
+- name: "ALLARD PARTNERS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ALRRHKH1
+    
+- name: "ALLIANZ GLOBAL INVESTORS ASIA PACIFIC LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: THRMHKHH
+    
+- name: "ALLIED BANKING CORPORATION (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ABCHHKHH
+    
+- name: "ALLIED PROFIT SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: APROHKH1
+    
+- name: "ALNAMAA CAPITAL HOLDINGS LIMITED"
+  city: "SHA TIN"
+  branch: null
+  swift: ACHDHKK1
+    
+- name: "ALPHA SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ALPSHKH1
+    
+- name: "AMSTEEL FUTURES (H.K.) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: AMFUHKH1
+    
+- name: "AMSTEEL SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: AMSEHKH1
+    
+- name: "ANDERSON WEN AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: ANDWHKH1
+    
+- name: "ANGLO CHINESE SECURITIES, LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ACHIHKH1
+    
+- name: "ARGENTARIA HOLDINGS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ARHLHKH1
+    
+- name: "ASG BROKERAGE LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: ASGBHKH1
+    
+- name: "ASHIKAGA FINANCE (H.K.) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ASFLHKH1
+    
+- name: "ASIA PACIFIC BANKING GROUP HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: APGTHKH1
+    
+- name: "ASIAN PACIFIC SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: ASPSHKH1
+    
+- name: "AT ASSET MANAGEMENT (ASIA-PACIFIC) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ASMPHKH1
+    
+- name: "AUDREY CHOW SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: AUDCHKH1
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: ANZBHKHX
+    
+- name: "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: ANZBHKHXAAL
+    
+- name: "AUTOMATED SYSTEMS (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ASLSHKH1
+    
+- name: "AXA INVESTMENT MANAGERS ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NMFMHKH1
+    
+- name: "AXIOM INVESTMENT MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: AXIMHKH1
+    
+- name: "AXIOM LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: AXOMHKH1
+    
+- name: "AXIOS CREDIT LIMITED"
+  city: "SHEUNG WAN"
+  branch: null
+  swift: AXCEHKH1
+    
+- name: "AXIS BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: AXISHKHH
+    
+- name: "AXIS BANK LTD (FORMERLY UTI BANK LTD)"
+  city: "HONG KONG"
+  branch: null
+  swift: UTIBHKH1
+    
+- name: "AXT II LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: AXTIHKH1
+    
+- name: "B.N.P. SECURITIES (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BNPHHKH1
+    
+- name: "BA FINANCE (HONG KONG) LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: HONKHKH1
+    
+- name: "BALI SECURITIES CO. LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BLLSHKH1
+    
+- name: "BAN HIN SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BAHEHKH1
+    
+- name: "BANC OF AMERICA SECURITIES ASIA LIMITED"
+  city: "HONG KONG"
+  branch: HONG KONG
+  swift: BOFAHKHUDBT
+    
+- name: "BANC OF AMERICA SECURITIES ASIA LIMITED"
+  city: "HONG KONG"
+  branch: HONG KONG
+  swift: BOFAHKHUFXD
+    
+- name: "BANC OF AMERICA SECURITIES ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ASLDHKH1
+    
+- name: "BANC OF AMERICA SECURITIES ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BOFAHKHU
+    
+- name: "BANC OF AMERICA SECURITIES ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BOFAHKHUTRS
+    
+- name: "BANCA MONTE DEI PASCHI DI SIENA SPA HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: PASCHKHH
+    
+- name: "BANCO BILBAO VIZCAYA ARGENTARIA, S.A., HONG KONG BRANCH"
+  city: "KOWLOON"
+  branch: null
+  swift: BBVAHKHH
+    
+- name: "BANCO SANTANDER, S.A. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: HEAD OFFICE IN HONG KONG
+  swift: BSCHHKHH
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: BKKBHKHH
+    
+- name: "BANK CONSORTIUM TRUST COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BCTCHKHH
+    
+- name: "BANK J. SAFRA SARASIN LTD, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: SARAHKHH
+    
+- name: "BANK JULIUS BAER AND CO. LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: BAERHKHH
+    
+- name: "BANK NEGARA INDONESIA (PERSERO) PT."
+  city: "HONG KONG"
+  branch: null
+  swift: BNINHKHH
+    
+- name: "BANK OF AMERICA, N.A. HONG KONG"
+  city: "HONG KONG"
+  branch: ASIA AGENCY MANAGEMENT
+  swift: BOFAHKHXAAM
+    
+- name: "BANK OF AMERICA, N.A. HONG KONG"
+  city: "HONG KONG"
+  branch: BOA SECURITIES ASIA
+  swift: BOFAHKHXSWP
+    
+- name: "BANK OF AMERICA, N.A. HONG KONG"
+  city: "HONG KONG"
+  branch: EMERGING MARKETS GROUP
+  swift: BOFAHKHXEMG
+    
+- name: "BANK OF AMERICA, N.A. HONG KONG"
+  city: "HONG KONG"
+  branch: FIXED INCOME OPS
+  swift: BOFAHKHXFIO
+    
+- name: "BANK OF AMERICA, N.A. HONG KONG"
+  city: "HONG KONG"
+  branch: GMG HK-FX
+  swift: BOFAHKHXGMG
+    
+- name: "BANK OF AMERICA, N.A. HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: BOFAHKHX
+    
+- name: "BANK OF AMERICA, N.A. HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: BOFAHKHXSEC
+    
+- name: "BANK OF BARODA (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: IBLFHKH1
+    
+- name: "BANK OF BARODA, HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: BOBIHKHH
+    
+- name: "BANK OF CHINA (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: CLS CONTROL BRANCH
+  swift: BKCHHKHHCLS
+    
+- name: "BANK OF CHINA (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: CUSTODY DIVISION
+  swift: BKCHHKHHCSS
+    
+- name: "BANK OF CHINA (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: RENMINBI CLEARING CENTRE
+  swift: BKCHHKHH838
+    
+- name: "BANK OF CHINA (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BKCHHKHH
+    
+- name: "BANK OF CHINA INTERNATIONAL LIMITED"
+  city: "HONG KONG"
+  branch: BOCI FINANCIAL PRODUCTS
+  swift: CDFCHKHHFPX
+    
+- name: "BANK OF CHINA INTERNATIONAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CDFCHKHH
+    
+- name: "BANK OF CHINA LIMITED HONG KONG BR"
+  city: "HONG KONG"
+  branch: null
+  swift: BKCHHKHK
+    
+- name: "BANK OF COMMUNICATIONS (HONG KONG)LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: COMMHKHK
+    
+- name: "BANK OF COMMUNICATIONS CO., LTD. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: COMMHKHH
+    
+- name: "BANK OF COMMUNICATIONS TRUSTEE LIMITED"
+  city: "SHEUNG WAN"
+  branch: null
+  swift: BKTLHKKH
+    
+- name: "BANK OF EAST ASIA,LIMITED,THE"
+  city: "HONG KONG"
+  branch: null
+  swift: BEASHKHH
+    
+- name: "BANK OF FUKUOKA, LTD. -THE-"
+  city: "HONG KONG"
+  branch: null
+  swift: FKBKHKH1
+    
+- name: "BANK OF INDIA"
+  city: "HONG KONG"
+  branch: null
+  swift: BKIDHKHH
+    
+- name: "BANK OF MONTREAL"
+  city: "HONG KONG"
+  branch: BANK OF MONTREAL HONG KONG BRANCH - FX MM
+  swift: BOFMHKHHFXM
+    
+- name: "BANK OF MONTREAL"
+  city: "HONG KONG"
+  branch: BANK OF MONTREAL HONG KONG BRANCH - GLOBAL TRADE AND BANKING
+  swift: BOFMHKHHGTB
+    
+- name: "BANK OF MONTREAL"
+  city: "HONG KONG"
+  branch: BANK OF MONTREAL HONG KONG BRANCH - PRIVATE BANKING
+  swift: BOFMHKHHPWM
+    
+- name: "BANK OF MONTREAL"
+  city: "HONG KONG"
+  branch: null
+  swift: BOFMHKHH
+    
+- name: "BANK OF N.T. BUTTERFIELD AND SON LTD., THE"
+  city: "HONG KONG"
+  branch: null
+  swift: BNTBHKA1
+    
+- name: "BANK OF NOVA SCOTIA, THE"
+  city: "HONG KONG"
+  branch: SCOTIAMOCATTA
+  swift: NOSCHKHHMOC
+    
+- name: "BANK OF NOVA SCOTIA, THE"
+  city: "HONG KONG"
+  branch: null
+  swift: NOSCHKHH
+    
+- name: "BANK OF NOVA SCOTIA, THE"
+  city: "HONG KONG"
+  branch: null
+  swift: NOSCHKHHGFI
+    
+- name: "BANK OF SHANGHAI (HONG KONG) LTD. HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: BOSHHKHH
+    
+- name: "BANK OF SINGAPORE LIMITED (FORMERLY ING ASIA PRIVATE BANK LIMITED)"
+  city: "HONG KONG"
+  branch: null
+  swift: INGPHKHH
+    
+- name: "BANK OF TAIWAN, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: BKTWHKHH
+    
+- name: "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+  city: "HONG KONG"
+  branch: HONG KONG BRANCH
+  swift: BOTKHKHH
+    
+- name: "BANK SINOPAC"
+  city: "HONG KONG"
+  branch: null
+  swift: SINOHKHH
+    
+- name: "BARCLAYS BANK PLC"
+  city: "HONG KONG"
+  branch: null
+  swift: BARCHKHH
+    
+- name: "BARCLAYS BANK PLC"
+  city: "HONG KONG"
+  branch: null
+  swift: BARCHKHW
+    
+- name: "BARCLAYS CAPITAL ASIA LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BZWLHKHH
+    
+- name: "BARCLAYS CAPITAL SECURITIES ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BZWEHKH1
+    
+- name: "BARING ASSET MANAGEMENT (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BIAAHKH1
+    
+- name: "BAT ASIA PACIFIC REGION LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BATSHKH1
+    
+- name: "BBMB FINANCE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BBHKHKH1
+    
+- name: "BCA FINANCE LTD (SUBSIDIARY OF P.T. BCA)"
+  city: "HONG KONG"
+  branch: null
+  swift: CENAHKHR
+    
+- name: "BCOM FINANCE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BMHKHKH1
+    
+- name: "BDO UNIBANK, INC."
+  city: "HONG KONG"
+  branch: null
+  swift: BNORHKHH
+    
+- name: "BEA UNION INVESTMENT MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BUIMHKH1
+    
+- name: "BEAR STEARNS ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BESIHKH1
+    
+- name: "BELL POTTER SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BSHKHKH1
+    
+- name: "BERICH BROKERAGE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BERRHKH1
+    
+- name: "BILLION SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: BILEHKH1
+    
+- name: "BIN YUAN CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BIYCHKH1
+    
+- name: "BLACKROCK ASSET MANAGEMENT NORTH ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BGIAHKH1
+    
+- name: "BLOOMYEARS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BLOOHKH1
+    
+- name: "BNP PARIBAS"
+  city: "HONG KONG"
+  branch: BNPP HONG KONG (WEALTH MANAGEMENT)
+  swift: BNPAHKHHWMB
+    
+- name: "BNP PARIBAS"
+  city: "HONG KONG"
+  branch: HONG KONG BRANCH
+  swift: BNPAHKHH
+    
+- name: "BNP PARIBAS"
+  city: "HONG KONG"
+  branch: HONG KONG COMMODITY FINANCE
+  swift: BNPAHKHHGCG
+    
+- name: "BNP PARIBAS"
+  city: "HONG KONG"
+  branch: null
+  swift: BNPAHKHHCOM
+    
+- name: "BNP PARIBAS FUTURES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BFHOHKH1
+    
+- name: "BNP PARIBAS SECURITIES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: BNPAHKHP
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "HONG KONG"
+  branch: null
+  swift: PARBHKHH
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "HONG KONG"
+  branch: null
+  swift: PARBHKHHISI
+    
+- name: "BNP PRIME PEREGRINE"
+  city: "HONG KONG"
+  branch: null
+  swift: BNPRHKH1
+    
+- name: "BOC CREDIT CARD (INTERNATIONAL) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BCCCHKHH
+    
+- name: "BOCI COMMODITIES AND FUTURES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BOCFHKH1
+    
+- name: "BOCI COMMODITIES AND FUTURES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BOCFHKHK
+    
+- name: "BOCI SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BCGSHKH1
+    
+- name: "BOCI SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BOCIHKHH
+    
+- name: "BOCI-PRUDENTIAL ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BPRUHKH1
+    
+- name: "BOCOM INTERNATIONAL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BOIUHKH1
+    
+- name: "BOKHARY AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: BOKHHKH1
+    
+- name: "BOKHARY SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BOKCHKH1
+    
+- name: "BONANZA SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: BONCHKH1
+    
+- name: "BOND'S SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BONIHKH1
+    
+- name: "BOOKOOK SECURITIES CO LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BOOSHKH1
+    
+- name: "BOWIN INDUSTRIAL COMPANY"
+  city: "LAI CHI KOK"
+  branch: null
+  swift: BOWIHKH1
+    
+- name: "BP INTERNATIONAL FINANCIAL SERVICES (HONG KONG) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BNISHKH1
+    
+- name: "BPI INTERNATIONAL FINANCE LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: BPIIHKHH
+    
+- name: "BRI FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BRIFHKH1
+    
+- name: "BRIGHT SMART FUTURES AND COMMODITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BSFOHKH1
+    
+- name: "BRIGHT SMART SECURITIES INTERNATIONAL (H.K.) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BSSNHKH1
+    
+- name: "BRIGHTON FUTURES (HONG KONG) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BFHKHKH1
+    
+- name: "BROWN BROTHERS HARRIMAN (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BBHCHKHH
+    
+- name: "BSI LTD, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: BSILHKHK
+    
+- name: "BT ASIA SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: AISEHKH1
+    
+- name: "BTIG HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BTHGHKH1
+    
+- name: "BULLISH SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BULSHKH1
+    
+- name: "C T B AUSTRALIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CTBAHKHH
+    
+- name: "C.F. FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CLIFHKH1
+    
+- name: "C.K. SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: SEUTHKH1
+    
+- name: "CA INDOSUEZ (SWITZERLAND) SA, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: AGRIHKHX
+    
+- name: "CADAS CHINA ONE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LYHOHKH1
+    
+- name: "CAITONG INTERNATIONAL SECURITIES CO., LIMITED"
+  city: "SHEUNG WAN"
+  branch: null
+  swift: CNNEHKH1
+    
+- name: "CALASTONE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CLLNHKH1
+    
+- name: "CANADIAN EASTERN FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CAEAHKH1
+    
+- name: "CANADIAN IMPERIAL BANK OF COMMERCE"
+  city: "HONG KONG"
+  branch: null
+  swift: CIBCHKHH
+    
+- name: "CANARA BANK HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: IHIFHKHH
+    
+- name: "CANTOR FITZGERALD (HONG KONG) CAPITAL MARKETS LIMITED INTERNATIONAL FINANCIAL CENTER"
+  city: "HONG KONG"
+  branch: null
+  swift: CFCMHKHH
+    
+- name: "CAPITAL SECURITIES CORP."
+  city: "WAN CHAI"
+  branch: null
+  swift: CAPUHKH1
+    
+- name: "CARANIP FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CLFCHKH1
+    
+- name: "CARLSON INVESTMENT MANAGEMENT FAR EAST LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: CIMRHKH1
+    
+- name: "CARR INDOSUEZ ASIA (DERIVATIVES) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CIADHKH1
+    
+- name: "CARRIER STOCK INVESTMENT COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CASIHKH1
+    
+- name: "CATHAY BANK"
+  city: "HONG KONG"
+  branch: null
+  swift: CATHHKHH
+    
+- name: "CATHAY CONNING ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CCEMHKH1
+    
+- name: "CATHAY SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CSHOHKH1
+    
+- name: "CATHAY UNITED BANK, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: UWCBHKHH
+    
+- name: "CCB INTERNATIONAL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CCNSHKHH
+    
+- name: "CELESTIAL COMMODITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CECMHKH1
+    
+- name: "CELESTIAL SECURITIES LTD SUSANNA CHAN"
+  city: "HONG KONG"
+  branch: null
+  swift: CSLDHKH1
+    
+- name: "CELETIO INVESTMENTS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CELIHKH1
+    
+- name: "CENTURY BANCORP"
+  city: "HONG KONG"
+  branch: null
+  swift: CEAPHKH1
+    
+- name: "CENTURY CITY FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CECFHKH1
+    
+- name: "CENTURY CITY SECURITIES LIMITED"
+  city: "CAUSEWAY BAY"
+  branch: null
+  swift: NCHKHKH1
+    
+- name: "CEPHEI CAPITAL MANAGEMENT (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CCGGHKH1
+    
+- name: "CES CAPITAL INTERNATIONAL CO., LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BENEHKH1
+    
+- name: "CGNPC HUASHENG INVESTMENT LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: CGHIHKKH
+    
+- name: "CHAMPION AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: CHAPHKH1
+    
+- name: "CHAMPION CENTURY LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: CHACHKH1
+    
+- name: "CHAN AND IU CO"
+  city: "HONG KONG"
+  branch: null
+  swift: CHANHKH1
+    
+- name: "CHAN NGOK MING AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: CHNMHKH1
+    
+- name: "CHANG HWA COMMERCIAL BANK LTD., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: CCBCHKHH
+    
+- name: "CHANGJIANG SECURITIES BROKERAGE (HK) LIMITED"
+  city: "SHEUNG WAN"
+  branch: null
+  swift: CHURHKH1
+    
+- name: "CHARK FUNG SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: CHFSHKH1
+    
+- name: "CHAU'S BROTHERS FINANCE COMPANY LIMITED"
+  city: "TSUEN WAN"
+  branch: null
+  swift: CHBRHKH1
+    
+- name: "CHE HSING FINANCE COMANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHHSHKH1
+    
+- name: "CHEE TAK SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHTSHKH1
+    
+- name: "CHEER PEARL INVESTMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHPIHKH1
+    
+- name: "CHEERFUL SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: CHESHKH1
+    
+- name: "CHEKIANG FIRST SECURITIES CO. LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HONCHKH1
+    
+- name: "CHELAC INVESTMENT COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHEIHKH1
+    
+- name: "CHENG YAM ON AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: CHEYHKH1
+    
+- name: "CHEONG LEE SECURITIES LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: CHLSHKH1
+    
+- name: "CHEONG WOON SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: CHEOHKH1
+    
+- name: "CHEUNG ON AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: CHEUHKH1
+    
+- name: "CHEUNG YAN LUNG STOCK INVESTMENT CO."
+  city: "HONG KONG"
+  branch: null
+  swift: CYANHKH1
+    
+- name: "CHI HING CO."
+  city: "HONG KONG"
+  branch: null
+  swift: CHIGHKH1
+    
+- name: "CHIA TAI SECURITIES LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: CTSLHKH1
+    
+- name: "CHIAO YUE FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHYUHKH1
+    
+- name: "CHIAP HUA CREDIT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHCLHKH1
+    
+- name: "CHIBA BANK, LTD., THE, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: CHBAHKHH
+    
+- name: "CHIEF COMMODITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHCOHKH1
+    
+- name: "CHINA ASSET MANAGEMENT (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CAEHHKH1
+    
+- name: "CHINA CITIC BANK INTERNATIONAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KWHKHKHH
+    
+- name: "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED"
+  city: "HONG KONG"
+  branch: CCB (ASIA) TRUSTEE COMPANY LIMITED
+  swift: CCBQHKAXTRU
+    
+- name: "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED"
+  city: "HONG KONG"
+  branch: COMMERCIAL CLIENT
+  swift: CCBQHKAXCML
+    
+- name: "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED"
+  city: "HONG KONG"
+  branch: WHOLESALE CLIENT
+  swift: CCBQHKAXWHS
+    
+- name: "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CCBQHKAX
+    
+- name: "CHINA CONSTRUCTION BANK CORPORATION"
+  city: "HONG KONG"
+  branch: null
+  swift: PCBCHKHH
+    
+- name: "CHINA DEVELOPMENT BANK HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: SDBCHKHH
+    
+- name: "CHINA EVERBRIGHT BANK (HONG KONG BRANCH)"
+  city: "HONG KONG"
+  branch: null
+  swift: EVERHKHH
+    
+- name: "CHINA EVERBRIGHT FINANCIAL HOLDINGS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: EFICHKK1
+    
+- name: "CHINA EVERBRIGHT FOREX AND FUTURES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CEVFHKH1
+    
+- name: "CHINA EVERBRIGHT SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NEWEHKH1
+    
+- name: "CHINA FRONTIER CAPITAL MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CFAEHKH1
+    
+- name: "CHINA GALAXY INTERNATIONAL SECURITIES (HONG KONG) CO., LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CGISHK21
+    
+- name: "CHINA GALAXY INTERNATIONAL SECURITIES (HONG KONG) CO., LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CGISHKH1
+    
+- name: "CHINA INSURANCE GROUP SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NECSHKH1
+    
+- name: "CHINA INTERNATIONAL CAPITAL CORPORATION HONG KONG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: OPERATIONS DEPARTMENT
+  swift: CICRHKH1001
+    
+- name: "CHINA INTERNATIONAL CAPITAL CORPORATION HONG KONG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CICRHKH1
+    
+- name: "CHINA INVESTMENT SECURITIES INTERNATIONAL BROKERAGE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CIEAHKH1
+    
+- name: "CHINA LIFE FRANKLIN ASSET MANAGEMENT CO., LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: CLFKHKH1
+    
+- name: "CHINA MERCHANTS BANK, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: CMBCHKHH
+    
+- name: "CHINA MERCHANTS SECURITIES (HK) CO., LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UBIEHKH1
+    
+- name: "CHINA MINSHENG BANKING CORP., LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: MSBCHKHH
+    
+- name: "CHINA NONFERROUS METALS FUTURES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CNMFHKH1
+    
+- name: "CHINA PACIFIC SECURITIES LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: CHPAHKH1
+    
+- name: "CHINA POINT STOCK BROKERS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: POINHKH1
+    
+- name: "CHINA REAL ESTATE I LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHRAHKH1
+    
+- name: "CHINA REAL ESTATE II LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHRSHKH1
+    
+- name: "CHINA REAL ESTATE III LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CEEIHKH1
+    
+- name: "CHINA REAL ESTATE V LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHREHKH1
+    
+- name: "CHINA REAL ESTATE VI LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHLTHKH1
+    
+- name: "CHINA RENAISSANCE SECURITIES (HONG LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: CRUHHKK1
+    
+- name: "CHINA SECURITIES (INTERNATIONAL) BROKERAGE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CSIRHKH1
+    
+- name: "CHINA STATE FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHSTHKH1
+    
+- name: "CHING YICK CO."
+  city: "HONG KONG"
+  branch: null
+  swift: YICKHKH1
+    
+- name: "CHIYU BANKING CORP. LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: CIYUHKHH
+    
+- name: "CHIYU FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHLFHKH1
+    
+- name: "CHONG HING BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LCHBHKHH
+    
+- name: "CHONG HING FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LCHIHKH1
+    
+- name: "CHONG SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: CHONHKH1
+    
+- name: "CHOW SANG SANG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHOWHKH1
+    
+- name: "CHRISTFUND SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHRIHKH1
+    
+- name: "CHU CHUNG TIN"
+  city: "HONG KONG"
+  branch: null
+  swift: CTINHKH1
+    
+- name: "CHUANGS AND CO. LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: ANGSHKH1
+    
+- name: "CHUNG HSIN AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: CSINHKH1
+    
+- name: "CHUNG LEE AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: CHULHKH1
+    
+- name: "CHUNG NAM SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHNEHKH1
+    
+- name: "CHUNG NAN FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHUNHKH1
+    
+- name: "CHUNG TAK AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: TAKCHKH1
+    
+- name: "CIMB BANK BERHAD HONG KONG BRANCH"
+  city: "KOWLOON"
+  branch: null
+  swift: CIBBHKHK
+    
+- name: "CIMB SECURITIES LTD"
+  city: "KOWLOON"
+  branch: null
+  swift: GKGSHKH1
+    
+- name: "CITIBANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CITIHKAX
+    
+- name: "CITIBANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FNFLHKH1
+    
+- name: "CITIBANK N.A."
+  city: "HONG KONG"
+  branch: CEA - CECA
+  swift: CITIHKHXCEA
+    
+- name: "CITIBANK N.A."
+  city: "HONG KONG"
+  branch: CITIBANK HONG KONG EMFX CONFIRMATIONS
+  swift: CITIHKHXEFX
+    
+- name: "CITIBANK N.A."
+  city: "HONG KONG"
+  branch: CITIBANK HONG KONG PRIVATE LABEL
+  swift: CITIHKHXBAR
+    
+- name: "CITIBANK N.A."
+  city: "HONG KONG"
+  branch: IC ASIA GLOBAL WINDOW
+  swift: CITIHKHXICE
+    
+- name: "CITIBANK N.A."
+  city: "HONG KONG"
+  branch: LCB TRADE
+  swift: CITIHKHXLCB
+    
+- name: "CITIBANK N.A."
+  city: "HONG KONG"
+  branch: NZ PROCESSING
+  swift: CITIHKHXKIW
+    
+- name: "CITIBANK N.A."
+  city: "HONG KONG"
+  branch: null
+  swift: CITIHKHX
+    
+- name: "CITIBANK N.A."
+  city: "HONG KONG"
+  branch: null
+  swift: CITIHKHXPBG
+    
+- name: "CITIBANK N.A."
+  city: "HONG KONG"
+  branch: null
+  swift: CITIHKHXTLC
+    
+- name: "CITIBANK N.A."
+  city: "KOWLOON"
+  branch: CFSL REISSUANCE
+  swift: CITIHKHXREI
+    
+- name: "CITIC PACIFIC LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CPACHKH1
+    
+- name: "CITIC SECURITIES BROKERAGE (HK) LTD"
+  city: "HONG KONG"
+  branch: USA TEAM
+  swift: CAREHKH1USD
+    
+- name: "CITIC SECURITIES BROKERAGE (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: CAREHKH1
+    
+- name: "CITIC SECURITIES BROKERAGE (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: CSCLHKHH
+    
+- name: "CITICORP INTERNATIONAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CILIHKH1
+    
+- name: "CITICORP INTERNATIONAL LTD"
+  city: "HONG KONG"
+  branch: HONGKONG BABEL
+  swift: CITIHKHCBAB
+    
+- name: "CITICORP INTERNATIONAL LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: CITIHKHC
+    
+- name: "CITICORP INVESTMENT SERVICES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CISLHKH1
+    
+- name: "CITIGROUP FIRST INVESTMENT MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CFIMHKH1
+    
+- name: "CITIGROUP GLOBAL MARKETS ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SBHKHKHH
+    
+- name: "CITIGROUP GLOBAL MARKETS CHINA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CGMIHKH1
+    
+- name: "CITIGROUP GLOBAL MARKETS HONG KONG FUTURES AND SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CGAHHKH1
+    
+- name: "CITIGROUP GLOBAL MARKETS HONG KONG FUTURES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SSBHHKH1
+    
+- name: "CITIGROUP GLOBAL MARKETS HONG KONG HOLDINGS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CGMGHKH1
+    
+- name: "CITIGROUP GLOBAL MARKETS HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UASHHKH1
+    
+- name: "CITIGROUP GLOBAL MARKETS HONG KONG NOMINEE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CGMNHKH1
+    
+- name: "CITIGROUP TECHNOLOGY INFRASTRUCTURE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CCFLHKH1
+    
+- name: "CLOVER FUTURES CO.LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: CLFUHKH1
+    
+- name: "CLOVER SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: CLOVHKH1
+    
+- name: "CLSA CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CLSKHKH1
+    
+- name: "CLSA LIMITED"
+  city: "HONG KONG"
+  branch: SETCLEAR PTE LTD ON BEHALF OF BLOOMBERG TRADEBOOK
+  swift: CLSAHKHHTBK
+    
+- name: "CLSA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CLSAHKHH
+    
+- name: "CLSA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CLSAHKHHCSB
+    
+- name: "CLSA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CLSEHKH1
+    
+- name: "CMB INTERNATIONAL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CMBIHKH1
+    
+- name: "COMMERCIAL INVESTMENT CO. LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: CIVEHKH1
+    
+- name: "COMMERZBANK AG"
+  city: "CAUSEWAY BAY"
+  branch: null
+  swift: COBAHKHX
+    
+- name: "COMMONWEALTH BANK OF AUSTRALIA HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: CTBAHKHK
+    
+- name: "COMMONWEALTH FINANCE CORPORATION LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CWFLHKHH
+    
+- name: "COMPU CHART INVESTMENT ADVISER LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: CCIAHKH1
+    
+- name: "COMPU-CHART INVESTMENT ADVISER LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: COIDHKH1
+    
+- name: "COMPUTERSHARE HONG KONG INVESTOR SERVICES LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: CPUHHKHH
+    
+- name: "CORE PACIFIC - YAMAICHI INTERNATIONAL (H.K.) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: YALIHKH1
+    
+- name: "CORE PACIFIC-YAMAICHI SECURITIES (H.K.) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: YSECHKH1
+    
+- name: "CORPORATE BROKERS LIMITED"
+  city: "CAUSEWAY BAY"
+  branch: null
+  swift: CBROHKH1
+    
+- name: "CORPORATE COMMODITIES LIMITED"
+  city: "CAUSEWAY BAY"
+  branch: null
+  swift: COCIHKH1
+    
+- name: "CORPORATE FINANCE (D.T.C.) LIMITED"
+  city: "CAUSEWAY BAY"
+  branch: null
+  swift: COFLHKH1
+    
+- name: "CORRINGTON SECURITIES AND INVESTMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CORGHKH1
+    
+- name: "CORYO INTERNATIONAL (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: CORNHKH1
+    
+- name: "COSMOS FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CFLHHKH1
+    
+- name: "COUTTS AND CO LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: COUTHKHH
+    
+- name: "CREDIT AGRICOLE CIB"
+  city: "HONG KONG"
+  branch: COMMODITY
+  swift: CRLYHKHHCOM
+    
+- name: "CREDIT AGRICOLE CIB"
+  city: "HONG KONG"
+  branch: null
+  swift: CRLYHKHH
+    
+- name: "CREDIT INDUSTRIEL ET COMMERCIAL"
+  city: "HONG KONG"
+  branch: null
+  swift: CMCIHKHH
+    
+- name: "CREDIT SUISSE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BFIRHKH1
+    
+- name: "CREDIT SUISSE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CSFBHKHX
+    
+- name: "CREDIT SUISSE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CSFBHKHXVIS
+    
+- name: "CREDIT SUISSE AG, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: CSHKHKHH
+    
+- name: "CREDIT SUISSE FINANCE LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: SFCLHKH1
+    
+- name: "CREDIT SUISSE FUTURES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CSRBHKH1
+    
+- name: "CREDIT SUISSE SECURITIES (HONG KONG) LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: CSFBHKHE
+    
+- name: "CRESVALE (F.E.) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: CRHOHKH1
+    
+- name: "CROSBY SECURITIES LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: CSUEHKH1
+    
+- name: "CSC SECURITIES (HK) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: CSSTHKH1
+    
+- name: "CSI CAPITAL MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CSCGHKH1
+    
+- name: "CSI GLOBAL MARKETS LIMITED"
+  city: "CENTRAL"
+  branch: null
+  swift: CSGKHKH1
+    
+- name: "CSOP ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CSEGHKH1
+    
+- name: "CTBC BANK CO.,LTD., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: CTCBHKHH
+    
+- name: "CU AND D BROKERAGE LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: BROEHKH1
+    
+- name: "CU FUTURES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: FUUEHKH1
+    
+- name: "CU SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CECUHKH1
+    
+- name: "D.J. INVESTMENT CO."
+  city: "HONG KONG"
+  branch: null
+  swift: DJINHKH1
+    
+- name: "DAEWOO SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DAESHKH1
+    
+- name: "DAH SING BANK, LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: DSBAHKHH
+    
+- name: "DAH SING FINANCE LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: DASIHKH1
+    
+- name: "DAI-ICHI SECURITIES PACIFIC LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: DISPHKH1
+    
+- name: "DAILY GROWTH SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DAGRHKH1
+    
+- name: "DAISHIN SECURITIES"
+  city: "HONG KONG"
+  branch: null
+  swift: SEDAHKH1
+    
+- name: "DAIWA CAPITAL MARKETS HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DWHKHKHH
+    
+- name: "DAIWA CAPITAL MARKETS HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DWHKHKK1
+    
+- name: "DAIWA OVERSEAS FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DAOVHKH1
+    
+- name: "DAO HENG CREDIT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DAHEHKH1
+    
+- name: "DAO HENG FINANCE LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: DAOHHKH1
+    
+- name: "DAO HENG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DAHCHKH1
+    
+- name: "DASHIN COMMODITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DACMHKH1
+    
+- name: "DASWANI TEK"
+  city: "HONG KONG"
+  branch: null
+  swift: DASWHKH1
+    
+- name: "DBS BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: PRIVATE BANKING DEPARTMENT
+  swift: DHBKHKHHPCG
+    
+- name: "DBS BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DHBKHKHH
+    
+- name: "DBS BANK LTD, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: SECURITIES SERVICES DEPARTMENT
+  swift: DBSSHKHHIBD
+    
+- name: "DBS BANK LTD, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: DBSSHKHH
+    
+- name: "DBS FUTURES HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DFHKHKH1
+    
+- name: "DBS VICKERS (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DBSVHKH1
+    
+- name: "DBS VICKERS SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DBSEHKH1
+    
+- name: "DELTA ASIA FINANCIAL FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DAFFHKH1
+    
+- name: "DELTA ASIA SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DASLHKH1
+    
+- name: "DEUTSCHE BANK AG"
+  city: "HONG KONG"
+  branch: GLOBAL MARKETS OPERATIONS
+  swift: DEUTHKHHGMO
+    
+- name: "DEUTSCHE BANK AG"
+  city: "HONG KONG"
+  branch: null
+  swift: DEUTHKHH
+    
+- name: "DEUTSCHE SECURITIES ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DSALHKH1
+    
+- name: "DG CAPITAL COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CACLHKH1
+    
+- name: "DHARMALA INTERNATIONAL FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BRRIHKH1
+    
+- name: "DL BROKERAGE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DLBLHKH1
+    
+- name: "DONGSUH SECURITIES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: DOSEHKH1
+    
+- name: "DONGWON SECURITIES"
+  city: "HONG KONG"
+  branch: null
+  swift: DOSIHKH1
+    
+- name: "DOUBLE HAVEN CAPITAL (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DHCHHKH1
+    
+- name: "DOVER CO."
+  city: "HONG KONG"
+  branch: null
+  swift: DOVEHKH1
+    
+- name: "DUTA INTERNATIONAL FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DUILHKH1
+    
+- name: "DYNASTY THREE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DNTHHKH1
+    
+- name: "DYNASTY TWO LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DYOOHKH1
+    
+- name: "DZ BANK HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: GENOHKHH
+    
+- name: "E FUND MANAGEMENT (HK) CO., LTD."
+  city: "CENTRAL"
+  branch: null
+  swift: FUMEHKH1
+    
+- name: "E. SUN COMMERCIAL BANK LTD, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: ESUNHKHH
+    
+- name: "EAA FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BDNFHKH1
+    
+- name: "EAST ASIA FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: EAAFHKH1
+    
+- name: "EAST ASIA SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TUSSHKH1
+    
+- name: "EAST WEST BANK"
+  city: "HONG KONG"
+  branch: null
+  swift: EWBKHKHH
+    
+- name: "EASTERN SECURITIES AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: SEEAHKH1
+    
+- name: "EATON SECURITIES"
+  city: "HONG KONG"
+  branch: null
+  swift: EATSHKH1
+    
+- name: "EBL FINANCE (HK) LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: EBLDHKHH
+    
+- name: "ECLIPSE FUTURES (HK) LIMITED"
+  city: "CAUSEWAY BAY"
+  branch: null
+  swift: ECFUHKH1
+    
+- name: "EDMOND DE ROTHSCHILD(SUISSE)SA(HONG-KONG BRANCH)"
+  city: "HONG KONG"
+  branch: null
+  swift: PRIBHKHH
+    
+- name: "EFG BANK AG"
+  city: "HONG KONG"
+  branch: null
+  swift: EFGBHKHH
+    
+- name: "EK INVESTMENT MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: INMNHKH1
+    
+- name: "EMBANCORP LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: EMBNHKK1
+    
+- name: "EMIRATES NBD FUND MANAGEMENT LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: ENFGHKH1
+    
+- name: "EMPEROR FUTURES LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: EMFUHKH1
+    
+- name: "EMPEROR SECURITIES LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: FUNEHKH1
+    
+- name: "ERSTE GROUP BANK AG"
+  city: "HONG KONG"
+  branch: null
+  swift: GIBAHKHH
+    
+- name: "ESSENCE INTERNATIONAL SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ESISHKH1
+    
+- name: "ETRADE INSTITUTIONAL,LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: STIRHKH1
+    
+- name: "EVERGREEN SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: EVESHKH1
+    
+- name: "EVERHOT SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: EVEEHKH1
+    
+- name: "EVERLIGHT SHARES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: EVEHHKH1
+    
+- name: "EVER-LONG SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: EVLSHKH1
+    
+- name: "EXCALIBUR SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: EXCSHKH1
+    
+- name: "EXECUTION NOBLE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: EXHKHKH1
+    
+- name: "EXPORT-IMPORT BANK OF KOREA, THE"
+  city: "HONG KONG"
+  branch: null
+  swift: EXIKHKH1
+    
+- name: "EXPRESS MONEY TRANSFER LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: EXMTHKHH
+    
+- name: "FAIR EAGLE SECURITIES COMPANY LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: FAESHKH1
+    
+- name: "FAR ASIA SECURITIES CO LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: FAASHKH1
+    
+- name: "FAR EASTERN INTERNATIONAL BANK, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: FEINHKHH
+    
+- name: "FAST TRACK HOLDINGS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FTHLHKH1
+    
+- name: "FAT LEE CO."
+  city: "HONG KONG"
+  branch: null
+  swift: FATLHKH1
+    
+- name: "FB SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: IBASHKH1
+    
+- name: "FCT (HONG KONG) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: FCHKHKH1
+    
+- name: "FE SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GULSHKH1
+    
+- name: "FEIGENBAUM AND STERN"
+  city: "HONG KONG"
+  branch: null
+  swift: FESTHKH1
+    
+- name: "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI)"
+  city: "HONG KONG"
+  branch: GLOBAL MARKET OPERATIONS
+  swift: NBADHKHHGMO
+    
+- name: "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI)"
+  city: "HONG KONG"
+  branch: null
+  swift: NBADHKHH
+    
+- name: "FIRST CHINA FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FUTEHKH1
+    
+- name: "FIRST COMMERCIAL BANK, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: FCBKHKHH
+    
+- name: "FIRST SHANGHAI INVESTMENTS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FISIHKH1
+    
+- name: "FIRST SHANGHAI SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: FIHSHKH1
+    
+- name: "FIRST WORLDSEC SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WOBRHKH1
+    
+- name: "FITCH (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FRIPHKH1
+    
+- name: "FONDS POUR L'ETUDE ET LA RECHERCHE ET HAB RE-GUARANTY COMPANY LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: FLRHHKH1
+    
+- name: "FOOK TIN SECURITIES (1987) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: FOTSHKH1
+    
+- name: "FORTIS CLEARING (OPTIONS) HONG KONG LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: FCONHKH1
+    
+- name: "FORTIS FINANCIAL PRODUCTS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MPSSHKH1
+    
+- name: "FORTIS WEALTH MANAGEMENT HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PBSIHKH1
+    
+- name: "FORTUNATE AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: FORNHKH1
+    
+- name: "FOUNDER SECURITIES (HONG KONG) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: FSHOHKH1
+    
+- name: "FOX-PITT KELTON (ASIA) LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: FPKLHKH1
+    
+- name: "FPB ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FPASHKH1
+    
+- name: "FREDDY COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FREDHKH1
+    
+- name: "FRIEDMANN PACIFIC SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: FRPSHKH1
+    
+- name: "FU WAH AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WAHHHKH1
+    
+- name: "FU YIP SECURITIES AND INVESTMENT COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: YISIHKH1
+    
+- name: "FUBON BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: IBALHKHH
+    
+- name: "FUBON CREDIT (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ICRLHKH1
+    
+- name: "FUBON SECURITIES (HONG KONG) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: FSHKHKH1
+    
+- name: "FUKUOKA FINANCE INTERNATIONAL LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: FFIIHKH1
+    
+- name: "FULBRIGHT SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: FUEEHKH1
+    
+- name: "FULL SPEED SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FUSSHKH1
+    
+- name: "GA LUNG SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: LUNEHKH1
+    
+- name: "GAINWELL SECURITIES COMPANY LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: WAINHKH1
+    
+- name: "GAM HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GLAMHKH1
+    
+- name: "GE CAPITAL (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UNMEHKH1
+    
+- name: "GENERAL CONSTRUCTION CONTRACTOR"
+  city: "SHEUNG WAN"
+  branch: null
+  swift: GEORHKH1
+    
+- name: "GENERAL NOMINEES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GENMHKH1
+    
+- name: "GENERAL STOCKS COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GENTHKH1
+    
+- name: "GET NICE INVESTMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GENIHKH1
+    
+- name: "GF SECURITIES (HONG KONG) BROKERAGE LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SHKRHKH1
+    
+- name: "GIBSON INNOVATIONS LIMITED"
+  city: "SHA TIN"
+  branch: null
+  swift: WOOXHKHH
+    
+- name: "GIORGIO ARMANI HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GAFIHKH1
+    
+- name: "GLOBAL CREDIT SECURITIES LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: KENSHKH1
+    
+- name: "GLOBAL EXCHANGE CENTRE LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: GECGHKHH
+    
+- name: "GOLD FUND SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GOFSHKH1
+    
+- name: "GOLD MILLENNIUM LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BOWEHKH1
+    
+- name: "GOLDEN DRAGON SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: GODSHKH1
+    
+- name: "GOLDEN FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GOFLHKH1
+    
+- name: "GOLDEN FOUNTAIN SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GOFEHKH1
+    
+- name: "GOLDEN HARVEST STOCK INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: GHSIHKH1
+    
+- name: "GOLDEN HILL INVESTMENT COMPANY LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: GOHIHKH1
+    
+- name: "GOLDEN SEA CO"
+  city: "HONG KONG"
+  branch: null
+  swift: GOLSHKH1
+    
+- name: "GOLDENWAY SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GOLEHKH1
+    
+- name: "GOLDMAN SACHS (ASIA) FINANCE"
+  city: "HONG KONG"
+  branch: null
+  swift: GOAFHKHX
+    
+- name: "GOLDMAN SACHS (ASIA) SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GSASHKH1
+    
+- name: "GOLDMAN SACHS AND COMPANY"
+  city: "HONG KONG"
+  branch: null
+  swift: GSCOHKH1
+    
+- name: "GOLDMAN SACHS ASIA BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GSHBHKHK
+    
+- name: "GOLDMAN SACHS INTERNATIONAL"
+  city: "HONG KONG"
+  branch: null
+  swift: GSIZHKH1
+    
+- name: "GOOD HARVEST AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: GOOHHKH1
+    
+- name: "GRAND ASSETS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GRATHKH1
+    
+- name: "GRAND CATHAY SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GCSEHKH1
+    
+- name: "GRAND FORTUNE SECURITIES AND INVESTMENT CO. LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: GFSIHKH1
+    
+- name: "GRAND RESOURCES SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: GRRSHKH1
+    
+- name: "GRAND SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: GRASHKH1
+    
+- name: "GRANSING SECURITIES CO., LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GRSIHKH1
+    
+- name: "GREAT HONEST INVESTMENT COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GRHIHKH1
+    
+- name: "GREAT HONOUR SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: GRHSHKH1
+    
+- name: "GREENLAND HONG KONG HOLDINGS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GHKHHKHH
+    
+- name: "GUODU SECURITIES (HK) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: GUSTHKH1
+    
+- name: "GUOSEN SECURITIES (HK) ASSET MANAGEMENT CO LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: GSAAHKH1
+    
+- name: "GUOSEN SECURITIES (HK) BROKERAGE CO.,LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: GSHKHKHH
+    
+- name: "GUOTAI JUNAN FUTURES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FUHKHKH1
+    
+- name: "GUOTAI JUNAN SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GJSHHKH1
+    
+- name: "GUOYUAN SECURITIES BROKERAGE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GSBHHKH1
+    
+- name: "H.K. HUNG AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: HUNGHKH1
+    
+- name: "HABIB BANK ZURICH (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: BRANCH
+  swift: HFLIHKHHKTX
+    
+- name: "HABIB BANK ZURICH (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: KOW LOON BRANCH
+  swift: HFLIHKHHKNX
+    
+- name: "HABIB BANK ZURICH (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: LAI CHI KOK BRANCH
+  swift: HFLIHKHHKCX
+    
+- name: "HABIB BANK ZURICH (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HFLIHKHH
+    
+- name: "HABIB FINANCE INTERNATIONAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HABBHKHH
+    
+- name: "HACHIJUNI ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HASIHKH1
+    
+- name: "HAI TONG ASSET MANAGEMENT (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HTAMHKH1
+    
+- name: "HAI TONG SECURITIES (HK) BROKERAGE LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: HTSBHKH1
+    
+- name: "HAITONG INTERNATIONAL SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HISMHKH1
+    
+- name: "HAMBURG SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: HAMEHKH1
+    
+- name: "HAMON ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: EAHAHKHH
+    
+- name: "HAMON INVESTMENT MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: EAIMHKH1
+    
+- name: "HANG FAT SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: HAFSHKH1
+    
+- name: "HANG SENG BANK LIMITED"
+  city: "HONG KONG"
+  branch: SECURITIES DEPARTMENT
+  swift: HASEHKHHSEC
+    
+- name: "HANG SENG BANK LIMITED"
+  city: "HONG KONG"
+  branch: SETTLEMENT OF CLS PAYMENT
+  swift: HASEHKHHCLS
+    
+- name: "HANG SENG BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HASEHKHH
+    
+- name: "HANG SENG CREDIT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SEHAHKH1
+    
+- name: "HANG SENG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HASCHKH1
+    
+- name: "HANG TAI SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HATEHKH1
+    
+- name: "HANG TUNG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: RORLHKH1
+    
+- name: "HANI SECURITIES (H.K.) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TEASHKH1
+    
+- name: "HANIL SECURITIES"
+  city: "HONG KONG"
+  branch: null
+  swift: HANEHKH1
+    
+- name: "HANTEC SECURITIES CO. LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HANRHKH1
+    
+- name: "HARMONY SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HAREHKH1
+    
+- name: "HARVESTER STOCK INVESTMENT CO."
+  city: "HONG KONG"
+  branch: null
+  swift: HARVHKH1
+    
+- name: "HDFC BANK LTD"
+  city: "KOWLOON"
+  branch: null
+  swift: HDFCHKHH
+    
+- name: "HEAD AND SHOULDERS CO."
+  city: "HONG KONG"
+  branch: null
+  swift: HEASHKH1
+    
+- name: "HENCHMAN DEVELOPMENT (HOLDINGS) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: HEDHHKH1
+    
+- name: "HENDERSON INTERNATIONAL FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HLIFHKH1
+    
+- name: "HENYEP SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HSLPHKH1
+    
+- name: "HING LEE SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HILEHKH1
+    
+- name: "HING SHING INVESTMENT CO."
+  city: "HONG KONG"
+  branch: null
+  swift: HISIHKH1
+    
+- name: "HING WAI SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: HIWSHKH1
+    
+- name: "HING WONG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HIWEHKH1
+    
+- name: "HIP HING AGENCY CO."
+  city: "HONG KONG"
+  branch: null
+  swift: HIHAHKH1
+    
+- name: "HIROSHIMA FINANCE (ASIA) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: HIFAHKH1
+    
+- name: "HKFE CLEARING CORPORATION LIMITED"
+  city: "HONG KONG"
+  branch: TREASURY DEPARTMENT
+  swift: XHKFHKHHTRE
+    
+- name: "HKFE CLEARING CORPORATION LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: XHKFHKHH
+    
+- name: "HO FUNG SHARES INVESTMENT CO."
+  city: "HONG KONG"
+  branch: null
+  swift: FUSIHKH1
+    
+- name: "HOCOMBAN FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HFILHKH1
+    
+- name: "HOENIG (FAR EAST) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HONIHKH1
+    
+- name: "HOI SANG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HOISHKH1
+    
+- name: "HONG KONG EXCHANGES AND CLEARING LIMITED"
+  city: "HONG KONG"
+  branch: TREASURY SETTLEMENT
+  swift: HKEXHKHHTRE
+    
+- name: "HONG KONG EXCHANGES AND CLEARING LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HKEXHKHH
+    
+- name: "HONG KONG INTERBANK CLEARING LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HKICHKHH
+    
+- name: "HONG KONG MONETARY AUTHORITY"
+  city: "HONG KONG"
+  branch: null
+  swift: HKMAHKHC
+    
+- name: "HONG KONG MORTGAGE CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: null
+  swift: HKMCHKHH
+    
+- name: "HONG KONG SAR GOVERNMENT EXCHANGE FUND (HONG KONG MONETARY AUTHORITY)"
+  city: "HONG KONG"
+  branch: null
+  swift: HKMAHKHH
+    
+- name: "HONG KONG SECURITIES CLEARING COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: TREASURY SETTLEMENT
+  swift: HKSCHKHHTRE
+    
+- name: "HONG KONG SECURITIES CLEARING COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HKSCHKHH
+    
+- name: "HONG KONG SECURITIES CLEARING COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: XHKCHKH1
+    
+- name: "HONG KONG SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: HOKSHKH1
+    
+- name: "HONG KONG WAN KIU INVESTMENT COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HKWKHKH1
+    
+- name: "HONG LEONG BANK BERHAD HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: ISLAMIC BANKING WINDOW
+  swift: HLBBHKHHIBW
+    
+- name: "HONG LEONG BANK BERHAD HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: HLBBHKHH
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: ALL HK OFFICES AND HEAD OFFICE
+  swift: HSBCHKHHHKH
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: ASIAN EQUITY FINANCE
+  swift: HSBCHKHHSBL
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: BROKER BACKOFFICE
+  swift: HSBCHKHHBBO
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: BUSINESS E-BANKING HONG KONG
+  swift: HSBCHKHHBHX
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: CLS DEPARTMENT
+  swift: HSBCHKHHCLS
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: COMMERCIAL E-BANKING HONG KONG
+  swift: HSBCHKHHEBD
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: FUND SERVICES  - A AND V DEPARTMENT
+  swift: HSBCHKHHAVS
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: GLOBAL CUSTODY ASIA PACIFIC
+  swift: HSBCHKHHGCA
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: GLOBAL CUSTODY CASH
+  swift: HSBCHKHHGCC
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: GLOBAL DIRECT 2
+  swift: HSBCHKHHGD2
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: GLOBAL DIRECT
+  swift: HSBCHKHHGDI
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: GLOBAL MARKETS CASH MANAGEMENT OPERATIONS
+  swift: HSBCHKHHNOS
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: GLOBAL MARKETS EQUITIES OPERATIONS
+  swift: HSBCHKHHIBM
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: LOAN AGENCY SYNDICATED FINANCE DEPARTMENT
+  swift: HSBCHKHHLAS
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: PCM E-COMMERCE
+  swift: HSBCHKHHPEC
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: PRIVATE BANKING DIVISION
+  swift: HSBCHKHHPBD
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: PVP DEPARTMENT
+  swift: HSBCHKHHPVP
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: SECURITIES DEPARTMENT
+  swift: HSBCHKHHSEC
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: TREASURY SERVICE DELIVERY, GLOBAL CUSTODY (ASIA PACIFIC), HSS
+  swift: HSBCHKHHTSD
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: TSU BRANCH FOR EXPORT
+  swift: HSBCHKHHEXP
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: TSU BRANCH FOR IMPORT
+  swift: HSBCHKHHIMP
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: USD CLEARING SETTLEMENT INSTITUTION
+  swift: HSBCHKHHUSI
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "HONG KONG"
+  branch: null
+  swift: HSBCHKHH
+    
+- name: "HONGNET LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HONGHKH1
+    
+- name: "HONOUR SECURITIES COMPANY LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: HONUHKH1
+    
+- name: "HOORAY SECURITIES LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: WAUSHKH1
+    
+- name: "HOP LEE STOCK CO"
+  city: "HONG KONG"
+  branch: null
+  swift: HOLTHKH1
+    
+- name: "HOP YICK AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: HOPYHKH1
+    
+- name: "HOP YICK STOCK CO"
+  city: "HONG KONG"
+  branch: null
+  swift: HOYSHKH1
+    
+- name: "HOPE AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: HOPEHKH1
+    
+- name: "HOU TAK SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HOTSHKH1
+    
+- name: "HSBC BANK USA, HONG KONG BRANCH (FORMERLY REPUBLICNATIONAL BANK OF NEW YORK)"
+  city: "HONG KONG"
+  branch: null
+  swift: BLICHKHX
+    
+- name: "HSBC BROKING FUTURES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HBFHHKH1
+    
+- name: "HSBC BROKING SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HEHLHKH1
+    
+- name: "HSBC BROKING SERVICES (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HCBSHKHH
+    
+- name: "HSBC CORPORATE FINANCE LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: HSCAHKH1
+    
+- name: "HSBC FUTURES HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HFHKHKH1
+    
+- name: "HSBC GLOBAL ASSET MANAGEMENT HOLDINGS (BAHAMAS) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HSMBHKHH
+    
+- name: "HSBC INTERNATIONAL TRUSTEE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HINTHKH1
+    
+- name: "HSBC INTERNATIONAL TRUSTEE LTD."
+  city: "HONG KONG"
+  branch: FUND SERVICES ASIA
+  swift: HSBCHKHIFSA
+    
+- name: "HSBC INTERNATIONAL TRUSTEE LTD."
+  city: "HONG KONG"
+  branch: FUND SERVICES DEPT-A AND V
+  swift: HSBCHKHIAVS
+    
+- name: "HSBC INTERNATIONAL TRUSTEE LTD."
+  city: "HONG KONG"
+  branch: GLOBAL WEALTH SOLUTIONS
+  swift: HSBCHKHIGWS
+    
+- name: "HSBC INTERNATIONAL TRUSTEE LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: HSBCHKHI
+    
+- name: "HSBC INTERNATIONAL TRUSTEE LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: HSBCHKHISEL
+    
+- name: "HSBC INTERNATIONAL TRUSTEE LTD."
+  city: "KOWLOON"
+  branch: REGIONAL SERVICES-ME
+  swift: HSBCHKHIRFA
+    
+- name: "HSBC INVESTMENT FUNDS (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HSMHHKHH
+    
+- name: "HSBC PRIVATE BANK (SUISSE) SA"
+  city: "HONG KONG"
+  branch: null
+  swift: BLICHKHK
+    
+- name: "HSBC PROVIDENT FUND TRUSTEE (HONG KONG) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: HSBCHKHP
+    
+- name: "HSBC SECURITIES (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: JCALHKHH
+    
+- name: "HSBC SECURITIES ASIA INTERNATIONAL NOMINEES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HSAIHKH1
+    
+- name: "HSBC SECURITIES ASIA NOMINEES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: HSAOHKH1
+    
+- name: "HSBC SECURITIES BROKERS (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HSBIHKH1
+    
+- name: "HSBC STRUCTURED FUNDS (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HSDAHKH1
+    
+- name: "HSBC TRUSTEE (HONG KONG) LTD."
+  city: "HONG KONG"
+  branch: GLOBAL WEALTH SOLUTIONS
+  swift: HSBCHKHTGWS
+    
+- name: "HSBC TRUSTEE (HONG KONG) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: HSBCHKHT
+    
+- name: "HUA NAN COMMERCIAL BANK LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: HNBKHKHH
+    
+- name: "HUATAI FINANCIAL HOLDINGS (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: HUFHHK21
+    
+- name: "HUATAI FINANCIAL HOLDINGS (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: HUFHHKH1
+    
+- name: "HUATAI FINANCIAL HOLDINGS (HK) LTD"
+  city: "SHEUNG WAN"
+  branch: FIX INCOME PROUECT
+  swift: HUFHHKH1FND
+    
+- name: "HUI KAI SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HESEHKH1
+    
+- name: "HUNG BROTHERS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HUGGHKH1
+    
+- name: "HUNG CHEONG SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: HUCSHKH1
+    
+- name: "HUNG KAI FINANCE COMPANY, LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: HKFIHKH1
+    
+- name: "HUNG YIEH SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HUYSHKH1
+    
+- name: "HWA LAM CO"
+  city: "KOWLOON"
+  branch: null
+  swift: HWALHKH1
+    
+- name: "HYUNDAI SECURITIES (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: HYSEHKH1
+    
+- name: "I AND P COMMODITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: COMDHKH1
+    
+- name: "I AND P SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SERUHKH1
+    
+- name: "IACCOUNT SERVICES (HK) LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: IASEHKK1
+    
+- name: "IBI ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ISIJHKH1
+    
+- name: "ICB FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ICFLHKH1
+    
+- name: "ICBC (ASIA) INVESTMENT HOLDINGS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FUTRHKH1
+    
+- name: "ICBC CREDIT SUISSE ASSET MANAGEMENT (INTERNATIONAL) COMPANY LIMITED"
+  city: "CENTRAL"
+  branch: null
+  swift: ICDIHKH1
+    
+- name: "ICBC INTERNATIONAL HOLDINGS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ICILHKH1
+    
+- name: "ICBC INTERNATIONAL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ICBHHKHH
+    
+- name: "ICBC STANDARD BANK PLC,HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: SBLLHKHH
+    
+- name: "ICEA SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ICSEHKH1
+    
+- name: "ICHIYOSHI INTERNATIONAL (H.K.) LIMITED"
+  city: "CAUSEWAY BAY"
+  branch: null
+  swift: ICINHKH1
+    
+- name: "ICICI BANK LTD"
+  city: "HONG KONG"
+  branch: CENTRAL OPERATIONS
+  swift: ICICHKHHCOP
+    
+- name: "ICICI BANK LTD"
+  city: "HONG KONG"
+  branch: CLEARING SERVICES DEPT
+  swift: ICICHKHHCLR
+    
+- name: "ICICI BANK LTD"
+  city: "HONG KONG"
+  branch: GLOBAL TRADE SERVICE UNIT (GTSU)
+  swift: ICICHKHHGTS
+    
+- name: "ICICI BANK LTD"
+  city: "HONG KONG"
+  branch: HK RTGS (CHATS)
+  swift: ICICHKHHRTG
+    
+- name: "ICICI BANK LTD"
+  city: "HONG KONG"
+  branch: HONG KONG BRANCH
+  swift: ICICHKHH
+    
+- name: "ICICI BANK LTD"
+  city: "HONG KONG"
+  branch: INTL INDIAN OPERATION GROUP (IIOG)
+  swift: ICICHKHHIOG
+    
+- name: "ICICI BANK LTD"
+  city: "HONG KONG"
+  branch: LC REIMBURSEMENT DEPT
+  swift: ICICHKHHREM
+    
+- name: "ICICI BANK LTD"
+  city: "HONG KONG"
+  branch: TREASURY MIDDLE OPERATION GROUP (TMOG)
+  swift: ICICHKHHTMG
+    
+- name: "IDS FUND MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: IDFMHKH1
+    
+- name: "IGOLDENBETA SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: IGSCHKH1
+    
+- name: "INCHROY CREDIT CORPORATION LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: ILCCHKH1
+    
+- name: "INCOME PARTNERS ASSET MANAGEMENT (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: IPAMHKH1
+    
+- name: "INDIAN OVERSEAS BANK, HONG KONG"
+  city: "HONG KONG"
+  branch: TSIM SHA TSUI
+  swift: IOBAHKHHTST
+    
+- name: "INDIAN OVERSEAS BANK, HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: IOBAHKHH
+    
+- name: "INDOSUEZ ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: INASHKH1
+    
+- name: "INDOSUEZ FINANCE HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: IHOKHKH1
+    
+- name: "INDOVER BANK (ASIA) LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: SIFIHKH1
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UBHKHKHH
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: OVERSEA BANK CARD CENTER
+  swift: ICBKHKHHCCI
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: ICBKHKHH
+    
+- name: "INDUSTRIAL BANK CO., LTD. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: CUSTODIAN UNIT
+  swift: FJIBHKHHCUD
+    
+- name: "INDUSTRIAL BANK CO., LTD. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: FJIBHKHH
+    
+- name: "INDUSTRIAL BANK OF KOREA, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: IBKOHKHH
+    
+- name: "INDUSTRIAL SECURITIES (HK) BROKERAGE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: INUBHKH1
+    
+- name: "INFAST BROKERAGE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: INFRHKH1
+    
+- name: "ING BANK N.V."
+  city: "HONG KONG"
+  branch: null
+  swift: INGBHKHH
+    
+- name: "INSTINET PACIFIC LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ISNTHKHH
+    
+- name: "INTERACTIVE BROKERS HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: IBKRHKHH
+    
+- name: "INTERCHINA FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MFHOHKH1
+    
+- name: "INTERCHINA SECURITIES LIMITED"
+  city: "SHAM SHUI PO"
+  branch: null
+  swift: TSHSHKH1
+    
+- name: "INTERCONTINENT SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: INTUHKH1
+    
+- name: "INTERNATIONAL BUSINESS SETTLEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ITBSHKH1
+    
+- name: "INTESA SANPAOLO SPA HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: BCITHKHH
+    
+- name: "INVESTEC ASSET MANAGEMENT ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: IVESHKH1
+    
+- name: "ITG HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ITGHHKH1
+    
+- name: "J.A. FU AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: JAFUHKH1
+    
+- name: "J.P. MORGAN BROKING (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHASHKK1
+    
+- name: "J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED"
+  city: "HONG KONG"
+  branch: FOREIGN SETTLEMENT
+  swift: CHASHKALFOP
+    
+- name: "J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED"
+  city: "HONG KONG"
+  branch: LOCAL SETTLEMENT
+  swift: CHASHKALHOP
+    
+- name: "J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED"
+  city: "HONG KONG"
+  branch: NOMINEES DEPARTMENT
+  swift: CHASHKALNOM
+    
+- name: "J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED"
+  city: "HONG KONG"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASHKALKEY
+    
+- name: "J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHASHKAL
+    
+- name: "J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHMAHKH1
+    
+- name: "J.P. MORGAN SECURITIES (FAR EAST) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHASHKX1
+    
+- name: "J.P. MORGAN SECURITIES ASIA PRIVATE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: JMSAHKH1
+    
+- name: "JAMES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: JAMEHKH1
+    
+- name: "JAPAN ASIA SECURITIES LIMITED"
+  city: "CAUSEWAY BAY"
+  branch: null
+  swift: JAASHKH1
+    
+- name: "JARDINE FLEMING ASSET MANAGEMENT"
+  city: "HONG KONG"
+  branch: null
+  swift: FASMHKH1
+    
+- name: "JEFFERIES HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: JEFFHKHH
+    
+- name: "JEFFERIES PACIFIC LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: JEFPHKH1
+    
+- name: "JENNY AND EDWARD CHEUNG SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: JECSHKH1
+    
+- name: "JF ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: CLIENT SERVICES
+  swift: JFIMHKHHCSD
+    
+- name: "JF ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: NOMINEES DEPARTMENT
+  swift: JFIMHKHHNOM
+    
+- name: "JF ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: JFIMHKHHKEY
+    
+- name: "JF ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: TRADE SUPPORT (AM)
+  swift: JFIMHKHHTAM
+    
+- name: "JF ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: UNIT TRUST OPERATIONS
+  swift: JFIMHKHHUTO
+    
+- name: "JF ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: JFIMHKHH
+    
+- name: "JIN LOONG SECURITIES CO LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: JILSHKH1
+    
+- name: "JK CAPITAL MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CPMTHKH1
+    
+- name: "JOLLY FIRST CAPITAL LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: JOFCHKH1
+    
+- name: "JOSPA INVESTMENT COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: JOSIHKH1
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: DIRECT CUSTODY AND CLEARING, JPMC HK
+  swift: CHASHKHHDCC
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: F AND O HOUSE OPERATIONS
+  swift: CHASHKHHFNO
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: JPMORGAN BROKING - HONG KONG
+  swift: CHASHKHHBHK
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: LOANS AND DEPOSITS SERVICES
+  swift: CHASHKHHLND
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: MONEY TRANSFER SERVICES
+  swift: CHASHKHHMTS
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: OIE - WSS MHR
+  swift: CHASHKHHOIE
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: PBI SYSTEM IMPLEMENTATION
+  swift: CHASHKHHPBI
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASHKHHKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: TRADE SERVICES
+  swift: CHASHKHHTSD
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: TRADING/TREASURY OPERATIONS
+  swift: CHASHKHHTRO
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: TSU BRANCH
+  swift: CHASHKHHDEV
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: TSU BRANCH
+  swift: CHASHKHHQAC
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: TSU BRANCH
+  swift: CHASHKHHUAT
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: CHASHKHH
+    
+- name: "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: CHASHKHP
+    
+- name: "JS CRESVALE SECURITIES INTERNATIONAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CRINHKH1
+    
+- name: "JUPITER TYNDALL (ASIA) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: JTANHKH1
+    
+- name: "K.L. SECURITIES CO"
+  city: "KOWLOON"
+  branch: null
+  swift: SERRHKH1
+    
+- name: "K.S. KAM AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: KMMMHKH1
+    
+- name: "KA WAH INTERNATIONAL MERCHANT FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WAHMHKH1
+    
+- name: "KA WING SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WINUHKH1
+    
+- name: "KA YUE INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: YUEIHKH1
+    
+- name: "KAISER FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KAFUHKH1
+    
+- name: "KAM LUEN CO"
+  city: "HONG KONG"
+  branch: null
+  swift: KAMLHKH1
+    
+- name: "KAM WAH SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: KAWSHKH1
+    
+- name: "KAN FUNG SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: KAFSHKH1
+    
+- name: "KARL-THOMSON SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KATSHKH1
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KASIHKHH
+    
+- name: "KATHERINE IP AND CO. LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KATHHKH1
+    
+- name: "KAY YUE SECURITIES CO., LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KAYSHKH1
+    
+- name: "KBC BANK NV, HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: KREDHKHX
+    
+- name: "KDB ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KODBHKHH
+    
+- name: "KEB HANA BANK"
+  city: "HONG KONG"
+  branch: null
+  swift: KOEXHKHH
+    
+- name: "KEB HANA GLOBAL FINANCE LIMITED (FORMERLY KEB ASIAFINANCE LIMITED)"
+  city: "HONG KONG"
+  branch: null
+  swift: KOEXHKHA
+    
+- name: "KEE CHEONG SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KECSHKH1
+    
+- name: "KELLY AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: KELLHKH1
+    
+- name: "KEXIM ASIA LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: KEXAHKHH
+    
+- name: "KEYWISE CAPITAL MANAGEMENT (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KCAMHKH1
+    
+- name: "KGI ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KGAIHKH1
+    
+- name: "KGI FUTURES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KFHKHKH1
+    
+- name: "KGI INVESTMENTS MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SEASHKH1
+    
+- name: "KGI SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KSHKHKH1
+    
+- name: "KGI WEALTH MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TAICHKH1
+    
+- name: "KILMOREY SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KILSHKH1
+    
+- name: "KIM ENG SECURITIES (HK) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: KMESHKA1
+    
+- name: "KIM ENG SECURITIES (HONG KONG) LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: KMESHKH1
+    
+- name: "KIN FUNG STOCK COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KIFSHKH1
+    
+- name: "KINCHENG-TOKYO FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KITOHKH1
+    
+- name: "KING FOOK SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KIFEHKH1
+    
+- name: "KING WAI CO"
+  city: "HONG KONG"
+  branch: null
+  swift: KINWHKH1
+    
+- name: "KINGSTON SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KINSHKH1
+    
+- name: "KINGSWAY FINANCIAL SERVICES GROUP LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KFSGHKH1
+    
+- name: "KLB ASIA FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KLBAHKH1
+    
+- name: "KNIGHT ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NITEHKH1
+    
+- name: "KO KUN STOCK COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KUNTHKH1
+    
+- name: "KOFFMAN SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: KOSCHKH1
+    
+- name: "KOH'S INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: KOHIHKH1
+    
+- name: "KOKUSAI ASSET MANAGEMENT (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KASMHKH1
+    
+- name: "KOKUSAI SECURITIES (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: KOKSHKH1
+    
+- name: "KONGSON SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KONSHKH1
+    
+- name: "KOO AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: KOOOHKH1
+    
+- name: "KOOKMIN BANK, HONG KONG BRANCH"
+  city: "WAN CHAI"
+  branch: null
+  swift: KHBAHKHH
+    
+- name: "KOREA-JAPAN FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KOJAHKH1
+    
+- name: "KOREAN DEVELOPMENT SECURITIES CO LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: KODSHKH1
+    
+- name: "KO'S BROTHER SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BRORHKH1
+    
+- name: "KOWLOON DEVELOPMENT K. F. LO SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KINAHKH1
+    
+- name: "KUENTAI SECURITIES (KAM NGAN) COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KSNNHKH1
+    
+- name: "KUO PO INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: KUOIHKH1
+    
+- name: "KWAI HUNG SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KWHSHKH1
+    
+- name: "KWAN YICK SECURITIES (INT'L) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KYSIHKH1
+    
+- name: "KWOK CHUNG CHUN SECURITIES"
+  city: "HONG KONG"
+  branch: null
+  swift: KCCSHKH1
+    
+- name: "KWOK HING SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KWHEHKH1
+    
+- name: "KWONG FAT HONG"
+  city: "HONG KONG"
+  branch: null
+  swift: KWFHHKH1
+    
+- name: "KWONG HING CO"
+  city: "HONG KONG"
+  branch: null
+  swift: KWOHHKH1
+    
+- name: "KWONG WAH INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: KWWIHKH1
+    
+- name: "KYOWA FINANCE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KYHKHKH1
+    
+- name: "LAERTES SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LAESHKH1
+    
+- name: "LAI PO HUNG AND COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LAIHHKH1
+    
+- name: "LAMPRELL PLC LTD"
+  city: "WAN CHAI"
+  branch: null
+  swift: LAPPHKH1
+    
+- name: "LAMTEX SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LAMSHKH1
+    
+- name: "LAND BANK OF TAIWAN CO., LTD. HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: LBOTHKHH
+    
+- name: "LAU AND COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LAUUHKH1
+    
+- name: "LAVACRO LUSTRALE ENTERPRISE LTD BLOCK A. FLOOR 15"
+  city: "HONG KONG"
+  branch: null
+  swift: LLEBHKH1
+    
+- name: "LAWSONS SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: LAWSHKH1
+    
+- name: "LBI FINANCE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LBHKHKH1
+    
+- name: "LEE ON TAT INVESTMENT LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: LETIHKH1
+    
+- name: "LEE SHUN SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: LESSHKH1
+    
+- name: "LEE SIN CHAI AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: LESCHKH1
+    
+- name: "LEE WAI AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: LEEWHKH1
+    
+- name: "LEE YUE LIM SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: LYLSHKH1
+    
+- name: "LEE'S SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LEESHKH1
+    
+- name: "LEGARLEON SECURITIES"
+  city: "HONG KONG"
+  branch: null
+  swift: LEGSHKH1
+    
+- name: "LEHIN SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LEHEHKH1
+    
+- name: "LEHMAN BROTHERS ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LEBAHKH1
+    
+- name: "LGT BANK AG, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: BLFLHKHH
+    
+- name: "LIBRA ASIA SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: LASCHKH1
+    
+- name: "LIM ADVISORS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LOIMHKH1
+    
+- name: "LIM ADVISORS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LOIMHKHH
+    
+- name: "LING CO"
+  city: "HONG KONG"
+  branch: null
+  swift: LINGHKH1
+    
+- name: "LINK SECURITIES HONG KONG LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: LSHKHKH1
+    
+- name: "LIPPO LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PUFLHKH1
+    
+- name: "LIPPO SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LIPSHKH1
+    
+- name: "LIQUIDNET ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LIQAHKH1
+    
+- name: "LLOYD GEORGE INVESTMENT MANAGEMENT (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LGITHKH1
+    
+- name: "LLOYD STOCKBROKERS AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: LLOSHKH1
+    
+- name: "LLOYDS TSB PACIFIC LIMITED"
+  city: "HONG KONG"
+  branch: HONG KONG BRANCH
+  swift: LOYDHKHH
+    
+- name: "LUCKY SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LUCSHKH1
+    
+- name: "LUCKY VENTURE GROUP LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: LUVGHKK1
+    
+- name: "LUEN CHEUNG SHARES INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: LCSIHKH1
+    
+- name: "LUEN FAT SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LUFSHKH1
+    
+- name: "LUEN HING SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LUHEHKH1
+    
+- name: "LUEN ON SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LUESHKH1
+    
+- name: "LUEN SING AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: LUEIHKH1
+    
+- name: "M.G. FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FILDHKH1
+    
+- name: "MACQUARIE BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MACQHKHH
+    
+- name: "MACQUARIE BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MACQHKHHCSH
+    
+- name: "MACQUARIE CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: HONG KONG MARKET TRADES
+  swift: BSHLHKHHHKM
+    
+- name: "MACQUARIE CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: PMMKR AGENCY TRADE
+  swift: BSHLHKHHKRW
+    
+- name: "MACQUARIE CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: PMMKR EQUITY FINANCE
+  swift: BSHLHKHHKEF
+    
+- name: "MACQUARIE CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: STOCK B/L ACTIVITIES
+  swift: BSHLHKHHSGM
+    
+- name: "MACQUARIE CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BSHLHKHH
+    
+- name: "MACQUARIE CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BSHLHKHHSBL
+    
+- name: "MACQUARIE CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BSHLHKHHTHA
+    
+- name: "MACQUARIE EQUITIES (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MEACHKH1
+    
+- name: "MADISON PACIFIC TRUST LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MPACHKHR
+    
+- name: "MAGUSTA SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MAGSHKH1
+    
+- name: "MAINFIRST SECURITIES HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MSHOHKH1
+    
+- name: "MAINLAND SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MAISHKH1
+    
+- name: "MAJAPAHIT FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MLFCHKH1
+    
+- name: "MAJESTIC BOULEVARD LTD"
+  city: "WAN CHAI"
+  branch: null
+  swift: MABVHKH1
+    
+- name: "MAJESTIC FUND MANAGEMENT LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: MFMNHKH1
+    
+- name: "MALAHON SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MALCHKH1
+    
+- name: "MAN HON YEUNG AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: MAHYHKH1
+    
+- name: "MAN LUNG CO"
+  city: "HONG KONG"
+  branch: null
+  swift: MANLHKH1
+    
+- name: "MAN SUN SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: MASUHKH1
+    
+- name: "MAN WO INVESTMENT CO. LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MANIHKH1
+    
+- name: "MANAGED ACCOUNT PARTNERS LIMITED"
+  city: "SHEUNG WAN"
+  branch: null
+  swift: MNAPHKK1
+    
+- name: "MANSION HOUSE SECURITIES ( F.E. ) LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: MAHSHKH1
+    
+- name: "MANSON HONG KONG LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: MAHKHKH1
+    
+- name: "MANULIFE (INTERNATIONAL) LIMITED"
+  city: "KWUN TONG"
+  branch: null
+  swift: MFCTHKHH
+    
+- name: "MANULIFE ASSET MANAGEMENT (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: MP47
+  swift: MAMHHKH1IIO
+    
+- name: "MANULIFE ASSET MANAGEMENT (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MAMHHKH1
+    
+- name: "MANY FAIR SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: MAFSHKH1
+    
+- name: "MARLIN ORD MINNETT"
+  city: "HONG KONG"
+  branch: null
+  swift: MAOMHKH1
+    
+- name: "MARLIN PARTNERS LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: MARPHKH1
+    
+- name: "MARS SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MASRHKH1
+    
+- name: "MARSHALL WACE ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MWAMHKH1
+    
+- name: "MARUMAN SECURITIES (ASIA) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: MSCOHKH1
+    
+- name: "MARUSO SECURITIES (ASIA) CO LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: MSECHKH1
+    
+- name: "MASHREQBANK PSC., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: HONG KONG BRANCH
+  swift: MSHQHKHHHKD
+    
+- name: "MASHREQBANK PSC., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: HONG KONG BRANCH
+  swift: MSHQHKHHHKH
+    
+- name: "MASHREQBANK PSC., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: MSHQHKHH
+    
+- name: "MASON SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MSSCHKH1
+    
+- name: "MASTER SECURITIES AND INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: MASIHKH1
+    
+- name: "MAXGAIN INVESTMENT LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: MAXNHKH1
+    
+- name: "MAYBAN SECURITIES (H.K.) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PHASHKH1
+    
+- name: "MAYBANK HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: MBBEHKHH
+    
+- name: "MAYFAIR SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MAYEHKH1
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., HONGKONG BRANCH"
+  city: "KOWLOON"
+  branch: null
+  swift: ICBCHKHH
+    
+- name: "MEGA SECURITIES (HONG KONG) COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHOEHKH1
+    
+- name: "MEGABASE SECURITIES LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: MEGSHKH1
+    
+- name: "MELBOURNE INVESTMENT CO"
+  city: "KOWLOON"
+  branch: null
+  swift: MELVHKH1
+    
+- name: "MELCO RESORTS AND ENTERTAINMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MPELHKHH
+    
+- name: "MELLI BANK PLC (HONG KONG BRANCH)"
+  city: "HONG KONG"
+  branch: null
+  swift: MELIHKHH
+    
+- name: "MERRILL LYNCH AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: MLCOHKH1
+    
+- name: "MERRILL LYNCH FAR EAST LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MLHKHKH1
+    
+- name: "MERRILL LYNCH FAR EAST LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MLPFHKH1
+    
+- name: "MERRILL LYNCH FAR EAST LTD."
+  city: "HONG KONG"
+  branch: ASIA APR GLOSS TO UNAVISTA
+  swift: MLFEHKHHAUV
+    
+- name: "MERRILL LYNCH FAR EAST LTD."
+  city: "HONG KONG"
+  branch: GLO INTERFACE DEPARTEMENT
+  swift: MLFEHKHHGLO
+    
+- name: "MERRILL LYNCH FAR EAST LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: MLFEHKHH
+    
+- name: "METRO SOURCING INTERNATIONAL LTD"
+  city: "KOWLOON"
+  branch: null
+  swift: MGBHHKHH
+    
+- name: "METROPOLITAN FINANCE CORPORATION LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MELFHKH1
+    
+- name: "MHS FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MHFUHKH1
+    
+- name: "MING FUNG SHARES INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: MFSIHKH1
+    
+- name: "MING HON SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MIHSHKH1
+    
+- name: "MIRAE ASSET GLOBAL INVESTMENTS (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MAGVHKH1
+    
+- name: "MIRAE ASSET SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MAHGHKH1
+    
+- name: "MITSUBISHI UFJ TRUST AND BANKING CORPORATION"
+  city: "HONG KONG"
+  branch: null
+  swift: MTBCHKHH
+    
+- name: "MITSUI TRUST FINANCE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MHKOHKH1
+    
+- name: "MIZUHO BANK, LTD. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: LCH CLIENT CLEARING
+  swift: MHCBHKHHFCM
+    
+- name: "MIZUHO BANK, LTD. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: MHCBHKHH
+    
+- name: "MIZUHO SECURITIES ASIA LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: MHSCHKHH
+    
+- name: "MONEYSWAP EXCHANGE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SWAPHKHH
+    
+- name: "MONEZIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MOEZHKH1
+    
+- name: "MONTGOMERY SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MONEHKH1
+    
+- name: "MOODY'S INVESTORS SERVICE HONG KONG  LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: MISGHKH1
+    
+- name: "MORGAN STANLEY ASIA INTERNATIONAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MSAIHKHH
+    
+- name: "MORGAN STANLEY ASIA LIMITED"
+  city: "HONG KONG"
+  branch: FOREIGN EXCHANGE OPERATIONS
+  swift: MSHKHKHXFXO
+    
+- name: "MORGAN STANLEY ASIA LIMITED"
+  city: "HONG KONG"
+  branch: GLOBAL PAYROLL
+  swift: MSHKHKHXGPR
+    
+- name: "MORGAN STANLEY ASIA LIMITED"
+  city: "HONG KONG"
+  branch: INSTITUTIONAL EQUITY DIVISION
+  swift: MSHKHKHXSGX
+    
+- name: "MORGAN STANLEY ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MSHKHKHX
+    
+- name: "MORGAN STANLEY ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MSHKHKHXCLS
+    
+- name: "MORGAN STANLEY ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MSHKHKHXIED
+    
+- name: "MORGAN STANLEY ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MSHKHKHXPTE
+    
+- name: "MORGAN STANLEY HONG KONG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MSSEHKH1
+    
+- name: "MORNING STAR SECURITIES LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: KERSHKH1
+    
+- name: "MUFG SECURITIES ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: MFHKHKHH
+    
+- name: "N. M. ROTHSCHILD AND SONS (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ROTHHKH1
+    
+- name: "NANYANG COMMERCIAL BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NYCBHKHH
+    
+- name: "NANYANG FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NALFHKH1
+    
+- name: "NATCAN FINANCE ASIA LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: NFASHKH1
+    
+- name: "NATIONAL AUSTRALIA BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NATAHKHH
+    
+- name: "NATIONAL BANK OF PAKISTAN HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: NBPAHKHH
+    
+- name: "NATIONAL BANK OF PAKISTAN HONG KONG"
+  city: "KOWLOON"
+  branch: KOWLOON BRANCH
+  swift: NBPAHKHHKLN
+    
+- name: "NATIONAL RESOURCES SECURITIES LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: NARSHKH1
+    
+- name: "NATIONAL SECURITIES (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: NATSHKH1
+    
+- name: "NATIXIS (FORMERLY NATEXIS BANQUES POPULAIRES)"
+  city: "KOWLOON"
+  branch: null
+  swift: NATXHKHX
+    
+- name: "NAVA SC SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NAVAHKH1
+    
+- name: "NCGA HOLDINGS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NCHOHKH1
+    
+- name: "NEW GALA SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NEGSHKH1
+    
+- name: "NEW JAPAN SECURITIES"
+  city: "HONG KONG"
+  branch: null
+  swift: NJSCHKH1
+    
+- name: "NEW TREND FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NETFHKH1
+    
+- name: "NEW UNION SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: NEUEHKH1
+    
+- name: "NG WA YEE AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: YEEEHKH1
+    
+- name: "NIKE HONG KONG LIMITED"
+  city: "KWUN TONG"
+  branch: null
+  swift: NIKEHKH1
+    
+- name: "NIKE INTERNATIONAL LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: NIKEHKK1
+    
+- name: "NIPPON CREDIT INTERNATIONAL (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NIHKHKH1
+    
+- name: "NIPPON WEALTH LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NIWEHKH1
+    
+- name: "NOBLE GROUP LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: NOBGHKHH
+    
+- name: "NOBLE RESOURCES S.A."
+  city: "HONG KONG"
+  branch: null
+  swift: NORRHKH1
+    
+- name: "NOMURA ASSET MANAGEMENT HONK KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NOMAHKHH
+    
+- name: "NOMURA FUTURES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NFHKHKH1
+    
+- name: "NOMURA INTERNATIONAL (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: NOMHHKL1
+    
+- name: "NOMURA INTERNATIONAL (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NOMHHKHH
+    
+- name: "NOMURA SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NSHKHKH1
+    
+- name: "NORMAN AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: NORMHKH1
+    
+- name: "NORMAN KONG AND CO"
+  city: "KOWLOON"
+  branch: null
+  swift: NOROHKH1
+    
+- name: "NORTH SEA SECURITIES"
+  city: "HONG KONG"
+  branch: null
+  swift: NOSSHKH1
+    
+- name: "NORTHERN TRUST COMPANY OF HONG KONG LIMITED, THE (FORMERLY NORTHERN GLOBAL FINANCIAL SERVICES LTD.)"
+  city: "HONG KONG"
+  branch: null
+  swift: CNORHKH1
+    
+- name: "O.T.B. FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LIMFHKH1
+    
+- name: "OAKREED FINANCIAL SERVICES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OAKFHKH1
+    
+- name: "O-BANK CO., LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: IBOTHKHH
+    
+- name: "OCBC FINANCE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OCHKHKH1
+    
+- name: "OCBC SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OCSEHKH1
+    
+- name: "OCBC WING HANG BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WIHBHKHH
+    
+- name: "OKACHI INVESTMENTS (HK) COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OKAIHKH1
+    
+- name: "OKASAN INTERNATIONAL (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OKIAHKH1
+    
+- name: "ON HING SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: HINEHKH1
+    
+- name: "ONEPIP (HONG KONG) LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: ONEPHKHH
+    
+- name: "ONG ASIA (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: ONGAHKH1
+    
+- name: "ONSHINE SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ONSSHKH1
+    
+- name: "ONWARD SECURITY COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ONWSHKH1
+    
+- name: "OP CALYPSO CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CLCLHKH1
+    
+- name: "OPPENHEIMER INVESTMENTS ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OPISHKH1
+    
+- name: "ORIENT FIRST CAPITAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OFCAHKH1
+    
+- name: "ORIENT SECURITIES (HONG KONG) LIMITED"
+  city: "CENTRAL"
+  branch: null
+  swift: OSHKHKH1
+    
+- name: "ORIENTAL PATRON SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OPSLHKH1
+    
+- name: "ORIENTAL STOCKS AND SHARES (INVESTMENT) CO"
+  city: "HONG KONG"
+  branch: null
+  swift: OSSIHKH1
+    
+- name: "ORION ROYAL PACIFIC LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: ORPAHKH1
+    
+- name: "OTC CLEARING HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OCCPHKHH
+    
+- name: "OTC CLEARING HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OCCPHKHHTRE
+    
+- name: "OUB FINANCE (H.K.) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: OUFLHKH1
+    
+- name: "OVERSEA-CHINESE BANKING CORPORATION LIMITED, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: OCBCHKHH
+    
+- name: "PACIFIC CHALLENGE FUTURES HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PCFHHKH1
+    
+- name: "PACIFIC EAGLE ASSET MANAGEMENT LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: PEAGHKHK
+    
+- name: "PACIFIC FOUNDATION SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PACFHKH1
+    
+- name: "PACIFIC RIM SECURITIES"
+  city: "KOWLOON"
+  branch: null
+  swift: PARCHKH1
+    
+- name: "PAK LEE STOCK COMPANY LIMITED"
+  city: "CAUSEWAY BAY"
+  branch: null
+  swift: PALTHKH1
+    
+- name: "PANASONIC LOGISTICS (HONG KONG) CO.,LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: PANAHKH1
+    
+- name: "PANGU CAPITAL LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: PCAPHKH1
+    
+- name: "PARIBAS ASIA EQUITY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PAHKHKH1
+    
+- name: "PARIBAS ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PAASHKH1
+    
+- name: "PARKMIX LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: CHASHKB1
+    
+- name: "PASAY STOCK AND SHARES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PASHHKH1
+    
+- name: "PAUL FAN SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PAFEHKH1
+    
+- name: "PAUL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PAUSHKH1
+    
+- name: "PBI SECURITIES HONG KONG LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: PBIEHKH1
+    
+- name: "PBL FINANCE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PRBLHKHH
+    
+- name: "PCI EXPRESS PADALA (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PEPLHKH1
+    
+- name: "PCL HOLDINGS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PACHHKH1
+    
+- name: "PEACE TOWN SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PETSHKH1
+    
+- name: "PEREGRINE BROKERAGE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PEREHKH1
+    
+- name: "PEREGRINE DERIVATIVES HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: PDERHKH1
+    
+- name: "PERFECT COINS SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: PECEHKH1
+    
+- name: "PHILIPPINE NATIONAL BANK"
+  city: "HONG KONG"
+  branch: null
+  swift: PNBMHKHH
+    
+- name: "PHILLIP SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PHSEHKH1
+    
+- name: "PHILTRUST FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PHFLHKH1
+    
+- name: "PHOENIX CAPITAL FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PHCFHKH1
+    
+- name: "PICC ASSET MANAGEMENT (HONG KONG) COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PAMHHKH1
+    
+- name: "PICTET AND CIE (EUROPE) S.A. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: PICTHKHH
+    
+- name: "PING AN OF CHINA ASSET MANAGEMENT (HONG KONG) COMPANY LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: PCAGHKHH
+    
+- name: "PING AN OF CHINA SECURITIES (HK)"
+  city: "HONG KONG"
+  branch: null
+  swift: PICSHKH1
+    
+- name: "PING AN SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PINSHKH1
+    
+- name: "PIPER JAFFRAY ASIA SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GDBDHKH1
+    
+- name: "PIPER JAFFRAY ASIA SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PJASHKH1
+    
+- name: "PNB INTERNATIONAL FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PNLFHKH1
+    
+- name: "PO FUNG FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FUNGHKH1
+    
+- name: "PO KAY SECURITIES AND SHARES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KASHHKH1
+    
+- name: "POLARIS SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: POLSHKH1
+    
+- name: "POLYGON"
+  city: "HONG KONG"
+  branch: null
+  swift: POLYHKH1
+    
+- name: "POWER SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: POWEHKH1
+    
+- name: "PREMIA PARTNERS COMPANY LIMITED"
+  city: "CENTRAL"
+  branch: null
+  swift: PRAYHKH1
+    
+- name: "PRESIDENT SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PSHKHKH1
+    
+- name: "PRIMEASIA INVESTMENT MANAGEMENT LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: PRIAHKK1
+    
+- name: "PRIMEAST SECURITIES HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: PRIMHKH1
+    
+- name: "PRIMECREDIT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CHPOHKH1
+    
+- name: "PROMISING SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PROIHKH1
+    
+- name: "PROSPEROUS INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: PRSNHKH1
+    
+- name: "PRUDENCE INVESTMENT MANAGEMENT (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PIMOHKH1
+    
+- name: "PRUDENTIAL BROKERAGE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PRUBHKH1
+    
+- name: "PRUDENTIAL INDEX TRADING COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PRIRHKH1
+    
+- name: "PRUDENTIAL-BACHE FOREX (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BTFAHKH1
+    
+- name: "PT BANK MANDIRI (PERSERO) HK BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: BMRIHKHH
+    
+- name: "PUBLIC BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CBHKHKHH
+    
+- name: "PUBLIC FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: JLFCHKH1
+    
+- name: "PUBLIC FINANCIAL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: AFHSHKH1
+    
+- name: "PUBLIC FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ASFFHKH1
+    
+- name: "PUBLIC SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: JCGSHKH1
+    
+- name: "PUNJAB NATIONAL BANK"
+  city: "HONG KONG"
+  branch: null
+  swift: PUNBHKHH
+    
+- name: "PUTNAM CORPORATION SHEUNG WAN"
+  city: "HONG KONG"
+  branch: null
+  swift: PCSWHKH1
+    
+- name: "QUAM ASSET MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DIMSHKH1
+    
+- name: "QUAM SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: DMTSHKH1
+    
+- name: "QUEST STOCKBROKERS (HK) LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: QUETHKH1
+    
+- name: "R. YU AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: YUCOHKH1
+    
+- name: "RABOBANK HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: RABOHKHH
+    
+- name: "RADLAND INTERNATIONAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KAMKHKH1
+    
+- name: "RAMON INVESTMENT COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: RAMVHKH1
+    
+- name: "RANK GLORY INVESTMENT LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: RAGVHKH1
+    
+- name: "RB INTERNATIONAL FINANCE (HONG KONG) LIMITED (FORMERLY KNOWN AS'RZB AUSTRIA FINANCE (HONG KONG) LIMITED')"
+  city: "HONG KONG"
+  branch: null
+  swift: RZBAHKHH
+    
+- name: "RBC CAPITAL MARKETS (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: RBDSHKHH
+    
+- name: "RBC INVESTMENT MANAGEMENT (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ROTRHKH1
+    
+- name: "RBC INVESTMENT SERVICES (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: RIGRHKH1
+    
+- name: "RBC INVESTOR SERVICES TRUST HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BILLHKHT
+    
+- name: "RBS ASIA SECURITIES (HONG KONG) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: HGAHHKH1
+    
+- name: "RCBC INTERNATIONAL FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: RCLFHKH1
+    
+- name: "REALIGHT INVESTMENT LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: REAIHKH1
+    
+- name: "REGENT FUND MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: REFMHKH1
+    
+- name: "RELIGARE CAPITAL MARKETS (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: REPEHKH1
+    
+- name: "RENAISSANCE CAPITAL (HONG KONG) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: RCHKHKH1
+    
+- name: "RESIDENTS SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: RESSHKH1
+    
+- name: "REXCAPITAL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ASIOHKH1
+    
+- name: "RHB SECURITIES HONG KONG LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: OSKSHKH1
+    
+- name: "RICH PLEASURE SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: RIPSHKH1
+    
+- name: "RICOFULL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: RICEHKH1
+    
+- name: "RNB FINANCE (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: RNHKHKH1
+    
+- name: "ROCTEC SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ROCSHKH1
+    
+- name: "ROSA SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ROSCHKH1
+    
+- name: "ROTHSCHILD ASSET MANAGEMENT (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: RASMHKH1
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "HONG KONG"
+  branch: RBC INVESTMENT SERVICES (ASIA) LTD
+  swift: ROYCHKHHISA
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "HONG KONG"
+  branch: null
+  swift: ROYCHKHH
+    
+- name: "ROYAL BANK OF SCOTLAND PLC"
+  city: "HONG KONG"
+  branch: null
+  swift: RBOSHKHX
+    
+- name: "RSI BANCORP LIMITED"
+  city: "SHEUNG WAN"
+  branch: null
+  swift: RSBCHKH1
+    
+- name: "RYOKO SECURITIES (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: RYSEHKH1
+    
+- name: "S. W. WOO AND COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WOOOHKH1
+    
+- name: "S.B. INDIA HONG KONG FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: INHKHKH1
+    
+- name: "SAFE INVESTMENT COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: PBOCHKHH
+    
+- name: "SAI SHING SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: SASCHKH1
+    
+- name: "SAKURA FINANCE HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SFHLHKH1
+    
+- name: "SALOMON PARTNERS WRS WERNER ROTHSCHILD AND CIE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SPWRHKH1
+    
+- name: "SAMSUNG ASSET MANAGEMENT(HONG KONG) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: SANKHKH1
+    
+- name: "SAMSUNG C AND T HONGKONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SCNTHKH1
+    
+- name: "SAMSUNG ELECTRONICS (HONG KONG) CO., LTD."
+  city: "HONG KONG"
+  branch: SEHK
+  swift: SECTHKH1610
+    
+- name: "SAMSUNG ELECTRONICS (HONG KONG) CO., LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: SECTHKH1
+    
+- name: "SAMSUNG SECURITIES ASIA LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SAMCHKH1
+    
+- name: "SAN WAN YUAN AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: SAWYHKH1
+    
+- name: "SANFULL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SANUHKH1
+    
+- name: "SASSOON OVERSEAS SERVICES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SASYHKH1
+    
+- name: "SASSOON SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SASYHKS1
+    
+- name: "SBI E2-CAPITAL FINANCIAL SERVICES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SBEBHKH1
+    
+- name: "SBI E2-CAPITAL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: GOODHKH1
+    
+- name: "SBI SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SSHKHKH1
+    
+- name: "SBV ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SASLHKH1
+    
+- name: "SCOTIABANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BNHKHKH1
+    
+- name: "SCOTIABANK (HONG KONG) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: NOSCHKH2
+    
+- name: "SECURITIES AND FUTURES COMMISSION"
+  city: "HONG KONG"
+  branch: null
+  swift: SFCIHKH1
+    
+- name: "SEHK OPTIONS CLEARING HOUSE LIMITED,THE"
+  city: "HONG KONG"
+  branch: TREASURY
+  swift: SEOCHKHHTRE
+    
+- name: "SEHK OPTIONS CLEARING HOUSE LIMITED,THE"
+  city: "HONG KONG"
+  branch: null
+  swift: SEOCHKHH
+    
+- name: "SELINA AND CO. LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SELIHKH1
+    
+- name: "SEOUL (ASIA) FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SEOAHKH1
+    
+- name: "SEOUL SECURITIES CO LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SEOSHKH1
+    
+- name: "SG SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: BENGALORE - ACFI ACTIVITY FOR SG SECURITIES HKG
+  swift: SGSEHKHHGSC
+    
+- name: "SG SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: HK ACFI ACTIVITY FOR SG SECURITIES
+  swift: SGSEHKHHHKA
+    
+- name: "SG SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: HK HR ACTIVITY FOR SG SECURITIES
+  swift: SGSEHKHHHHR
+    
+- name: "SG SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: HK OPER ACTIVITY FOR SG SECURITIES
+  swift: SGSEHKHHHKO
+    
+- name: "SG SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SGSEHKHH
+    
+- name: "SHACOM FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SHFTHKH1
+    
+- name: "SHANGHAI COMMERCIAL BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SCBKHKHH
+    
+- name: "SHANGHAI HONGKONG INTERNATIONAL SECURITIES LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: SESHHKH1
+    
+- name: "SHANGHAI HUA LONG REALITY LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SHLAHKH1
+    
+- name: "SHANGHAI PUDONG DEVELOPMENT BANK HONGKONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: SPDBHKHH
+    
+- name: "SHAREGAIN DEVELOPMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SHAEHKH1
+    
+- name: "SHELL HONG KONG LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SHHKHKH1
+    
+- name: "SHENYIN WANGUO FINANCE (H.K.) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ONGFHKH1
+    
+- name: "SHENYIN WANGUO FUTURES (H.K.) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ONCOHKH1
+    
+- name: "SHENYIN WANGUO SECURITIES (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SWSLHKH1
+    
+- name: "SHING ON SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SHIRHKH1
+    
+- name: "SHINHAN ASIA LTD."
+  city: "KOWLOON"
+  branch: null
+  swift: SHBKHKHH
+    
+- name: "SHINHAN BANK, HONG KONG BRANCH"
+  city: "KOWLOON"
+  branch: null
+  swift: SHBKHKHX
+    
+- name: "SHINKO SECURITIES (H.K.) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: SNKOHKH1
+    
+- name: "SHUI CHEUNG CO"
+  city: "HONG KONG"
+  branch: null
+  swift: SHUCHKH1
+    
+- name: "SHUK KWUN AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: SHUWHKH1
+    
+- name: "SHUN LOONG SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SHLEHKH1
+    
+- name: "SIAM COMMERCIAL BANK PCL,THE"
+  city: "HONG KONG"
+  branch: null
+  swift: SICOHKHH
+    
+- name: "SILVER GRACE BANCORP LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: SGRAHKH1
+    
+- name: "SILVER TREE HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: STHKHKH1
+    
+- name: "SILVERHORN INVESTMENT ADVISORS LIMITED"
+  city: "CENTRAL"
+  branch: null
+  swift: SIVVHKHH
+    
+- name: "SIN HUA FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SIHUHKH1
+    
+- name: "SINCERE SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TRONHKH1
+    
+- name: "SINOLINK SECURITIES (HK) CO. LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: SLSCHKH1
+    
+- name: "SINOPAC FUTURES (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: NSFAHKH1
+    
+- name: "SINOPAC SECURITIES (ASIA) LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: SISAHKH1
+    
+- name: "SINOPAC SOLUTIONS AND SERVICES"
+  city: "HONG KONG"
+  branch: null
+  swift: SSOSHKH1002
+    
+- name: "SINOPAC SOLUTIONS AND SERVICES"
+  city: "KOWLOON"
+  branch: null
+  swift: SSOSHKH1
+    
+- name: "SIR ELLY KADOORIE AND SONS LIMITED"
+  city: "CENTRAL"
+  branch: null
+  swift: SEKLHKHC
+    
+- name: "SIU ON STOCK INVESTMENT COMPANY LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: SISIHKH1
+    
+- name: "SIU WING STOCKS AND SHARES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: SWSSHKH1
+    
+- name: "SIU YIP COMMODITY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SIYCHKH1
+    
+- name: "SIX SIGMA BROKERAGE LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SISBHKH1
+    
+- name: "SKANDINAVISKA ENSKILDA BANKEN AB"
+  city: "HONG KONG"
+  branch: null
+  swift: ESSEHKHH
+    
+- name: "SKN SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: KWAAHKH1
+    
+- name: "SMBC NIKKO SECURITIES(HONG KONG) LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: NKSCHKHH
+    
+- name: "SOCIETE GENERALE ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SOGEHKA1
+    
+- name: "SOCIETE GENERALE, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: SOGEHKHH
+    
+- name: "SOEN TAK SECURITIES CO LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SOTSHKH1
+    
+- name: "SOFAER GLOBAL RESEARCH (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SOCAHKH1
+    
+- name: "SOLID KING SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SOKSHKH1
+    
+- name: "SOO PEI SHAO AND COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SOPSHKH1
+    
+- name: "SOO PUI CHEN SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SOPHHKH1
+    
+- name: "SOUTH CHINA SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SOCSHKH1
+    
+- name: "SOUTHWEST SECURITIES (HK) BROKERAGE LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: SSRKHKH1
+    
+- name: "SPRINGS CAPITAL (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SCHKHKH1
+    
+- name: "SPS COMMODITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SPCOHKH1
+    
+- name: "SPS GROUP LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SUPSHKH1
+    
+- name: "SPS SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SPSSHKH1
+    
+- name: "STACO INTERNATIONAL FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SIFLHKH1
+    
+- name: "STANDARD CAPITAL BROKERAGE LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: STCRHKH1
+    
+- name: "STANDARD CHARTERED ASIA LIMITED"
+  city: "KWUN TONG"
+  branch: null
+  swift: STCAHKH1
+    
+- name: "STANDARD CHARTERED BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: FM ASSET SERVICING
+  swift: SCBLHKHHZOP
+    
+- name: "STANDARD CHARTERED BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: HK SECURITIES DIVISION
+  swift: SCBLHKHHZHS
+    
+- name: "STANDARD CHARTERED BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: HONG KONG PRIVATE BANK
+  swift: SCBLHKHHZPB
+    
+- name: "STANDARD CHARTERED BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: LOANS DEPARTMENT
+  swift: SCBLHKH1ZLA
+    
+- name: "STANDARD CHARTERED BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: MAC BRANCH
+  swift: SCBLHKHHMAC
+    
+- name: "STANDARD CHARTERED BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: SCB HONG KONG INVESTIGATIONS (INTERNAL BIC)
+  swift: SCBLHKH1INV
+    
+- name: "STANDARD CHARTERED BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: SECURITIES DIVISION
+  swift: SCBLHKHHZSS
+    
+- name: "STANDARD CHARTERED BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: WEALTH MANAGEMENT
+  swift: SCBLHKHHWHK
+    
+- name: "STANDARD CHARTERED BANK (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SCBLHKHH
+    
+- name: "STANDARD CHARTERED EQUITOR INTERNATIONAL TRUST LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SCELHKH1
+    
+- name: "STANDARD CHARTERED FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: STCHHKH1
+    
+- name: "STANDARD CHARTERED SECURITIES LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: SCSEHKH1
+    
+- name: "STAR SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: STAEHKH1
+    
+- name: "STATE BANK OF INDIA"
+  city: "HONG KONG"
+  branch: null
+  swift: SBINHKHH
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: GLOBAL CUSTODY DIVISION
+  swift: SBOSHKHXAGC
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: TRANSFER AGENCY HONG KONG
+  swift: SBOSHKHXTAD
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: SBOSHKHX
+    
+- name: "STATE STREET GLOBAL ADVISORS ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SSGAHKH1
+    
+- name: "STEPHIL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: STESHKH1
+    
+- name: "STERLING PAYMENT SERVICES LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: STPVHKH1
+    
+- name: "STOCKWELL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: STOEHKH1
+    
+- name: "STONEBRIDGE SECURITIES (HK) LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: STECHKH1
+    
+- name: "SUISSE BANCORP LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SUBPHKH1
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "HONG KONG"
+  branch: null
+  swift: SMBCHKHH
+    
+- name: "SUMITOMO MITSUI TRUST BANK, LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: STBCHKHH
+    
+- name: "SUN HUNG KAI INVESTMENT SERVICES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SHKSHKH1
+    
+- name: "SUN HUNG KAI SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SHKEHKH1
+    
+- name: "SUN HUNG KAI STRUCTURED FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BLFIHKH1
+    
+- name: "SUN ON TAT SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SUTSHKH1
+    
+- name: "SUN TAI CHEUNG FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SUTCHKH1
+    
+- name: "SUN WING YUEN SECURITIES LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SWYSHKH1
+    
+- name: "SUNRISE INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: SUNNHKH1
+    
+- name: "SUN'S SECURITIES CO LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: SUNEHKH1
+    
+- name: "SVENSKA HANDELSBANKEN HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: HANDHKHH
+    
+- name: "SWIFT"
+  city: "HONG KONG"
+  branch: EDUCATION DEPARTMENT
+  swift: SWHQHKHHEDU
+    
+- name: "SWIFT"
+  city: "HONG KONG"
+  branch: null
+  swift: SWHQHKHH
+    
+- name: "SWIFT CUSTOMER SERVICE CENTRE HONG KONG"
+  city: "CUSTOMER SERVICE CENTRE HK"
+  branch: ORDERING AND BILLING SERVICES
+  swift: SWHQHKHKSVC
+    
+- name: "SWIFT CUSTOMER SERVICE CENTRE HONG KONG"
+  city: "CUSTOMER SERVICE CENTRE HK"
+  branch: null
+  swift: SWHQHKHK
+    
+- name: "SWISS REINSURANCE COMPANY, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: SWREHKHH
+    
+- name: "SZEHOPE AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: SZEHHKH1
+    
+- name: "T.S. FININVEST LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: FNNIHKH1
+    
+- name: "T.W. CHEUNG AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: CHENHKH1
+    
+- name: "T.W. SABNANI AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: SABIHKH1
+    
+- name: "TA CHONG BANK LTD. HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: OURBHKHH
+    
+- name: "TA SECURITIES (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SESSHKH1
+    
+- name: "TACHIBANA SECURITIES (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TACHHKH1
+    
+- name: "TAFONWORTHY INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TAFIHKH1
+    
+- name: "TAI CHENG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TACSHKH1
+    
+- name: "TAI CHUEN SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TACEHKH1
+    
+- name: "TAI FUNG AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TAIFHKH1
+    
+- name: "TAI FUNG HONG"
+  city: "HONG KONG"
+  branch: null
+  swift: TAFHHKH1
+    
+- name: "TAI HANG INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TAHNHKH1
+    
+- name: "TAI NING CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TAIIHKH1
+    
+- name: "TAI PO SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TAIRHKH1
+    
+- name: "TAI SANG BANK LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TSBLHKHH
+    
+- name: "TAI SHING STOCK INVESTMENT CO. LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TSSIHKH1
+    
+- name: "TAI TAK SECURITIES (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TATSHKH1
+    
+- name: "TAI WAH AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TAIWHKH1
+    
+- name: "TAI YAU BANK LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: TYBLHKKW
+    
+- name: "TAI YIP STOCK COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TAYSHKH1
+    
+- name: "TAIFAIR SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TAITHKH1
+    
+- name: "TAIFOOK SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TAFCHKH1
+    
+- name: "TAIKANG ASSET MANAGEMENT (HONGKONG) COMPANY LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: TKAMHKH1
+    
+- name: "TAIPEI FUBON COMMERCIAL BANK CO., LTD. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: TPBKHKHH
+    
+- name: "TAIPING SECURITIES (HK) CO LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TSECHKH1
+    
+- name: "TAISHIN INTERNATIONAL BANK HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: TSIBHKHH
+    
+- name: "TAIWAN BUSINESS BANK HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: MBBTHKHH
+    
+- name: "TAIWAN COOPERATIVE BANK, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: TACBHKHH
+    
+- name: "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD., HONG KONG BRANCH"
+  city: "KOWLOON"
+  branch: null
+  swift: MKTBHKHH
+    
+- name: "TAK FUNG SHARES INVESTMENT COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TFSIHKH1
+    
+- name: "TAK HING AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TAKHHKH1
+    
+- name: "TAK ON SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TAKSHKH1
+    
+- name: "TANG KEE AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TANKHKH1
+    
+- name: "TANG PING KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TAPKHKH1
+    
+- name: "TANRICH SECURITIES COMPANY LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: TANSHKH1
+    
+- name: "TARTAN SECURITIES (ASIA) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TASIHKH1
+    
+- name: "TARZAN STOCK AND SHARES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TASNHKH1
+    
+- name: "TAT LEE FINANCE (HK) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TALEHKH1
+    
+- name: "TAT LEE SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TALSHKH1
+    
+- name: "TAT MING HONG"
+  city: "HONG KONG"
+  branch: null
+  swift: TAMHHKH1
+    
+- name: "TBP INVESTMENT ADVISORY (HK) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: TBIAHKH1
+    
+- name: "TEM FAT HING FUNG"
+  city: "HONG KONG"
+  branch: null
+  swift: TFHFHKH1
+    
+- name: "TEN AND TEN SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: TETSHKH1
+    
+- name: "THAI FARMERS FINANCE AND INVESTMENT LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: TFFIHKH1
+    
+- name: "THAI MERCANTILE DEVELOPMENT FINANCE LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: TMDFHKH1
+    
+- name: "THE BANK OF NEW YORK MELLON, HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: IRVTHKHX
+    
+- name: "THE BANK OF NOVA SCOTIA"
+  city: "HONG KONG"
+  branch: null
+  swift: NOSCHK31
+    
+- name: "THE CHUGOKU BANK LIMITED HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: CHGKHKHH
+    
+- name: "THE HACHIJUNI BANK, LTD. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: HABKHKHH
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "HONG KONG"
+  branch: FUND SERVICES-A AND V
+  swift: BBDAHKHXAVS
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BBDAHKHX
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: BKK
+  swift: BTFEHKHHBKK
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: BOM
+  swift: BTFEHKHHBOM
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: DOH
+  swift: BTFEHKHHDOH
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: DUB
+  swift: BTFEHKHHDUB
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: FUND SERVICES ASIA
+  swift: BTFEHKHHFSA
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: FUND SERVICES DEPT - A AND V
+  swift: BTFEHKHHAVS
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: FUND SERVICES
+  swift: BTFEHKHHKHI
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: IMO
+  swift: BTFEHKHHIMO
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: INVESTOR SERVICES
+  swift: BTFEHKHHISD
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: MNL
+  swift: BTFEHKHHMNL
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: REGIONAL SERVICES-ME
+  swift: BTFEHKHHRFA
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: RETIREMENT SCHEMES
+  swift: BTFEHKHHRTS
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: VNI
+  swift: BTFEHKHHVNI
+    
+- name: "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: BTFEHKHH
+    
+- name: "THE IYO BANK, LTD. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: IYOBHKHH
+    
+- name: "THE ROYAL BANK OF SCOTLAND N.V. (HONGKONG)"
+  city: "HONG KONG"
+  branch: null
+  swift: RBOSHKAV
+    
+- name: "THE SHANGHAI COMMERCIAL AND SAVINGS BANK LTD.HK BR."
+  city: "KOWLOON"
+  branch: null
+  swift: SCSBHKHH
+    
+- name: "THE SHIGA BANK, LTD., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: SIGAHKHH
+    
+- name: "THE SHIZUOKA BANK, LTD., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: SHIZHKHH
+    
+- name: "THE STOCK EXCHANGE OF HONG KONG LTD"
+  city: "HONG KONG"
+  branch: TREASURY
+  swift: XHKGHKHHTRE
+    
+- name: "THE STOCK EXCHANGE OF HONG KONG LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: XHKGHKHH
+    
+- name: "THING ON FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: THFUHKH1
+    
+- name: "THOMAS GLOBAL FINANCIAL SERVICES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: THOSHKH1
+    
+- name: "TIM PO SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: TIMSHKH1
+    
+- name: "TISCO SECURITIES HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TISCHKH1
+    
+- name: "TMB BANK PUBLIC COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TMBKHKH1
+    
+- name: "TMB FINANCE (HONG KONG) COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TMHKHKH1
+    
+- name: "TO HOI HUNG CO."
+  city: "HONG KONG"
+  branch: null
+  swift: HOIHHKH1
+    
+- name: "TOKAI TOKYO SECURITIES (ASIA) LIMITED"
+  city: "CENTRAL"
+  branch: null
+  swift: TTSEHKH1
+    
+- name: "TONG YANG SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: TYSEHKH1
+    
+- name: "TOP EQUITY BROKERAGE LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: TOEBHKH1
+    
+- name: "TOPMORE COMMODITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TOCMHKH1
+    
+- name: "TORONTO DOMINION BANK"
+  city: "HONG KONG"
+  branch: null
+  swift: TDOMHKHH
+    
+- name: "TOWN HANG SECURITIES CO. LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TOHSHKH1
+    
+- name: "TOYO SECURITIES ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TYSCHKH1
+    
+- name: "TOYO TRUST ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TOYAHKH1
+    
+- name: "TRADELINK ELECTRONIC COMMERCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TELCHKH1
+    
+- name: "TRADEMORE SECURITIES AND INVESTMENT CO."
+  city: "HONG KONG"
+  branch: null
+  swift: TRSIHKH1
+    
+- name: "TRANSPACIFIC SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TRASHKH1
+    
+- name: "TRICAPITAL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BEFCHKH1
+    
+- name: "TRIPLE A AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: TRIPHKH1
+    
+- name: "TROOPERS SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BETSHKH1
+    
+- name: "TRUST COMPANY OF THE WEST"
+  city: "HONG KONG"
+  branch: null
+  swift: TRCEHKH1
+    
+- name: "TRUTH AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: TRUTHKH1
+    
+- name: "TSUN CHI YUEN SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TSCYHKH1
+    
+- name: "TUNG SHUN AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: TUNSHKH1
+    
+- name: "TUNG TAI SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TUTSHKH1
+    
+- name: "TUNG TAK CO"
+  city: "SHA TIN"
+  branch: null
+  swift: TUNTHKH1
+    
+- name: "TUNG TAK SECURITIES (H.K.) COMPANY LIMITED"
+  city: "SHAM SHUI PO"
+  branch: null
+  swift: TUTEHKH1
+    
+- name: "TUNG WUI SECURITIES CO., LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: TUWSHKH1
+    
+- name: "TUNLIN SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: TUNEHKH1
+    
+- name: "U.S. CAPITAL II INVESTMENTS (HK) LIMITED"
+  city: "HONG KONG"
+  branch: CENTRAL
+  swift: CPISHKK1CEN
+    
+- name: "U.S. CAPITAL II INVESTMENTS (HK) LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: CPISHKK1
+    
+- name: "UBS AG HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: CLS BUSINESS ONLY
+  swift: UBSWHKHHCLS
+    
+- name: "UBS AG HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: HONG KONG BRANCH
+  swift: UBSWHKHH
+    
+- name: "UBS AG HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: SWIFT FOR CORPORATE
+  swift: UBSWHKHHCIC
+    
+- name: "UBS SECURITIES ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UBSWHKH2
+    
+- name: "UBS SECURITIES HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SWDRHKH1
+    
+- name: "UBS SECURITIES HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UBSEHKH1
+    
+- name: "UBS WARBURG FINANCE ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SBFAHKH1
+    
+- name: "UCO BANK"
+  city: "HONG KONG"
+  branch: KOWLOON BRANCH
+  swift: UCBAHKHHKLN
+    
+- name: "UCO BANK"
+  city: "HONG KONG"
+  branch: null
+  swift: UCBAHKHH
+    
+- name: "UMBRELLA FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UMFCHKH1
+    
+- name: "UMBRELLA HONG KONG FINANCE COMPANY"
+  city: "HONG KONG"
+  branch: null
+  swift: UHKFHKH1
+    
+- name: "UNI FOREX LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: UNFXHKH1
+    
+- name: "UNICO SECURITIES LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: UCOSHKH1
+    
+- name: "UNICORN SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UNIEHKH1
+    
+- name: "UNICREDIT BANK AG HONG KONG BRANCH (HYPOVEREINSBANK HONG KONG BRANCH)"
+  city: "HONG KONG"
+  branch: null
+  swift: BVBEHKHH
+    
+- name: "UNI-CROWN INVESTMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UCROHKH1
+    
+- name: "UNION BANCAIRE PRIVEE, HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: UBPGHKHX
+    
+- name: "UNION BANK OF INDIA"
+  city: "HONG KONG"
+  branch: HONGKONG BRANCH
+  swift: UBINHKHH
+    
+- name: "UNION BANK OF INDIA"
+  city: "HONG KONG"
+  branch: HONGKONG LCR
+  swift: UBINHKHHLCR
+    
+- name: "UNION FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: LIFUHKH1
+    
+- name: "UNION SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: IONSHKH1
+    
+- name: "UNITED OVERSEAS BANK LTD HONG KONG"
+  city: "HONG KONG"
+  branch: BANKNOTES DEPARTMENT
+  swift: UOVBHKHHBNS
+    
+- name: "UNITED OVERSEAS BANK LTD HONG KONG"
+  city: "HONG KONG"
+  branch: TRANSACTION BANKING
+  swift: UOVBHKHHCMS
+    
+- name: "UNITED OVERSEAS BANK LTD HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: UOVBHKHH
+    
+- name: "UNITED WEALTH FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: APRAHKH1
+    
+- name: "UNITED WORLD SECURITIES (HK) LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: UNWSHKH1
+    
+- name: "UNIVERSAL EXCHANGE CENTRE LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: UECEHKHK
+    
+- name: "UOB KAY HIAN (HONG KONG) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UKHHHKH1
+    
+- name: "UPBEST SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: UPBSHKH1
+    
+- name: "UPWORTH LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: UPWOHKH1
+    
+- name: "UT FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FILIHKH1
+    
+- name: "VALUE PARTNERS HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: VPHKHKH1
+    
+- name: "VC BROKERAGE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: VCBLHKH1
+    
+- name: "VC FUTURES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CEFUHKH1
+    
+- name: "VERMONT SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: VERSHKH1
+    
+- name: "VERNS ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: VALIHKH1
+    
+- name: "VICTORY ENTERPRISES (INVESTMENT) LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: VICEHKH1
+    
+- name: "VICTORY SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: VICSHKH1
+    
+- name: "VIETNAM FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: BFTVHKHH
+    
+- name: "VISA FUND MANAGEMENT LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: VIEXHKH1
+    
+- name: "VOLKSWAGEN GROUP HONG KONG LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: VGHKHKH1
+    
+- name: "VOLKSWAGEN HONG KONG CO. LTD."
+  city: "WAN CHAI"
+  branch: null
+  swift: VOHKHKH1
+    
+- name: "VTB CAPITAL HONG KONG LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: VTBCHKHK
+    
+- name: "WADER INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WADNHKH1
+    
+- name: "WAH CHEONG SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WACSHKH1
+    
+- name: "WAH SANG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WASEHKH1
+    
+- name: "WAH THAI SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WATEHKH1
+    
+- name: "WAI FAT SECURITIES CO"
+  city: "KOWLOON"
+  branch: null
+  swift: WAFEHKH1
+    
+- name: "WAI KEUNG SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WAKEHKH1
+    
+- name: "WAI MAN STOCK AND SHARES COMPANY LIMITED"
+  city: "SHAM SHUI PO"
+  branch: null
+  swift: WMSSHKH1
+    
+- name: "WALCO SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WALSHKH1
+    
+- name: "WANG LEE CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WANLHKH1
+    
+- name: "WAYFOONG CREDIT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WACLHKH1
+    
+- name: "WAYFOONG FINANCE LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: WFILHKH1
+    
+- name: "WEALTHY INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WEAIHKH1
+    
+- name: "WELFORM INVESTORS CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WELIHKH1
+    
+- name: "WELLFULL SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WELSHKH1
+    
+- name: "WELLS FARGO BANK N.A. HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: WFBIHKH1
+    
+- name: "WELLS FARGO BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: FREIGHT FORWARDER
+  swift: PNBPHKHHBDP
+    
+- name: "WELLS FARGO BANK, N.A., HONG KONG BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: PNBPHKHH
+    
+- name: "WESTPAC BANKING CORPORATION"
+  city: "HONG KONG"
+  branch: null
+  swift: WPACHKHX
+    
+- name: "WESTPAC BANKING CORPORATION"
+  city: "HONG KONG"
+  branch: null
+  swift: WPACHKHXTRD
+    
+- name: "WESTPAC BANKING CORPORATION"
+  city: "HONG KONG"
+  branch: null
+  swift: WPACHKHXTSY
+    
+- name: "WHOLE WIN SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WHWSHKH1
+    
+- name: "WILBY INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WILIHKH1
+    
+- name: "WILHELMSEN SHIP MANAGEMENT HOLDING LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WSMHHKHH
+    
+- name: "WIN WONG SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WIWSHKH1
+    
+- name: "WINFIELD SECURITIES CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WINIHKH1
+    
+- name: "WINFULL SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WIFSHKH1
+    
+- name: "WING CHEUNG HING INVESTMENT CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WCHIHKH1
+    
+- name: "WING FAT SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WIFEHKH1
+    
+- name: "WING FUNG SECURITIES LIMITED"
+  city: "KOWLOON"
+  branch: null
+  swift: KASRHKH1
+    
+- name: "WING HANG SHARES BROKERAGE CO. LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WHSBHKH1
+    
+- name: "WING HONG FINANCE AND MANAGEMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WIHMHKH1
+    
+- name: "WING HONG SECURITIES AND EXCHANGE"
+  city: "HONG KONG"
+  branch: null
+  swift: WHSEHKH1
+    
+- name: "WING LUNG BANK LTD."
+  city: "HONG KONG"
+  branch: null
+  swift: WUBAHKHH
+    
+- name: "WING LUNG CREDIT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WILUHKH1
+    
+- name: "WING LUNG FINANCE LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WINLHKH1
+    
+- name: "WING ON CHEONG SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WICSHKH1
+    
+- name: "WING ON FINANCE COMPANY LIMITED, THE"
+  city: "HONG KONG"
+  branch: null
+  swift: WLFCHKH1
+    
+- name: "WING ON SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WIGSHKH1
+    
+- name: "WING SANG AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WINAHKH1
+    
+- name: "WING TAK AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WIGTHKH1
+    
+- name: "WING YEE CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WIGYHKH1
+    
+- name: "WING YIP COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WINYHKH1
+    
+- name: "WINLAND STOCK AND SHARES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: WISSHKH1
+    
+- name: "WINNING AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: WINNHKH1
+    
+- name: "WINSOME STOCK COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WINCHKH1
+    
+- name: "WINTAKLY SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WINEHKH1
+    
+- name: "WO FUNG SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FUNSHKH1
+    
+- name: "WOC FINANCE COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WOFCHKH1
+    
+- name: "WOCOM SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WOCSHKH1
+    
+- name: "WOORI BANK, HONG KONG"
+  city: "HONG KONG"
+  branch: null
+  swift: HVBKHKHH
+    
+- name: "WORLDSEC INTERNATIONAL (NETHERLANDS) B.V.I"
+  city: "HONG KONG"
+  branch: null
+  swift: WINVHKH1
+    
+- name: "WORLDSEC INTERNATIONAL LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: WOINHKH1
+    
+- name: "WORLDWIDE SECURITIES CO."
+  city: "HONG KONG"
+  branch: null
+  swift: WORSHKH1
+    
+- name: "Y.C. CHOW AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: CHWWHKH1
+    
+- name: "Y.C. FUNG AND CO"
+  city: "HONG KONG"
+  branch: null
+  swift: FUGGHKH1
+    
+- name: "Y.F. CHAN AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: CAANHKH1
+    
+- name: "Y.K. LI CO."
+  city: "HONG KONG"
+  branch: null
+  swift: YKLIHKH1
+    
+- name: "YAN YAN INVESTMENT LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: INEEHKH1
+    
+- name: "YARDLEY SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: YARSHKH1
+    
+- name: "YAU CHEONG AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: YAUCHKH1
+    
+- name: "YEE FAT SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: YEFSHKH1
+    
+- name: "YF FUTURES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: FUCPHKH1
+    
+- name: "YICK FUNG SECURITIES AND INVESTMENT CO."
+  city: "HONG KONG"
+  branch: null
+  swift: YFSIHKH1
+    
+- name: "YICKO SECURITIES LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: YICIHKH1
+    
+- name: "YIEN YIEH FINANCE COMPANY LIMITED, THE"
+  city: "HONG KONG"
+  branch: null
+  swift: YIYIHKH1
+    
+- name: "YING HO STOCK INVESTMENT CO."
+  city: "HONG KONG"
+  branch: null
+  swift: YISNHKH1
+    
+- name: "YING KIT STOCK CO"
+  city: "HONG KONG"
+  branch: null
+  swift: YIKSHKH1
+    
+- name: "YING WAH SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: YIWSHKH1
+    
+- name: "YOKOHAMA ASIA LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: YOKAHKH1
+    
+- name: "YU ON COMMODITIES CO. LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: CODMHKH1
+    
+- name: "YU ON SECURITIES COMPANY LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: SEUSHKH1
+    
+- name: "YUANTA SECURITIES (HONG KONG) COMPANY LIMITED"
+  city: "WAN CHAI"
+  branch: null
+  swift: CPSIHKH1
+    
+- name: "YUE SHING SECURITIES CO. LTD"
+  city: "HONG KONG"
+  branch: null
+  swift: YUSSHKH1
+    
+- name: "YUEN HANG INVESTMENT CO."
+  city: "HONG KONG"
+  branch: null
+  swift: YUHIHKH1
+    
+- name: "YUNFENG FINANCIAL MARKETS LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: REFKHKH1
+    
+- name: "ZIAR AND CO."
+  city: "HONG KONG"
+  branch: null
+  swift: ZIARHKH1
+    
+- name: "ZLABELS TRADING LIMITED"
+  city: "HONG KONG"
+  branch: null
+  swift: ZLTRHKH1
+    
+- name: "ZURICH INSURANCE COMPANY LTD. HK - BRANCH"
+  city: "HONG KONG"
+  branch: null
+  swift: ZURIHKHH
+    

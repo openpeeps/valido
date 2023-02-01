@@ -1,0 +1,8570 @@
+- name: "2B TRADING B.V."
+  city: "WEESP"
+  branch: null
+  swift: TRNINL21
+    
+- name: "323 TRADING B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: TRNGNL21
+    
+- name: "9STREET CAPITAL MARKETS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: TAAINL21
+    
+- name: "AAGUS FINANCIAL SERVICES GROUP N.V."
+  city: "AMERSFOORT"
+  branch: null
+  swift: AFSRNL21
+    
+- name: "AALBERTS INDUSTRIES N.V."
+  city: "LANGBROEK"
+  branch: null
+  swift: AALBNL22
+    
+- name: "ABB FINANCE B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: ABBCNL2A
+    
+- name: "ABN AMRO BANK N.V."
+  city: "AMSTERDAM"
+  branch: ASSET AND LIABILITY MANAGEMENT SUPPORT
+  swift: ABNANL2AALC
+    
+- name: "ABN AMRO BANK N.V."
+  city: "AMSTERDAM"
+  branch: LC CLEARNET
+  swift: ABNANL2ACOL
+    
+- name: "ABN AMRO BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ABNANL2A
+    
+- name: "ABN AMRO BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ABNANL2AMEL
+    
+- name: "ABN AMRO BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ABNANL2APIP
+    
+- name: "ABN AMRO BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ABNANL2ASFI
+    
+- name: "ABN AMRO BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ABNANL2AWSS
+    
+- name: "ABN AMRO BANK N.V."
+  city: "BREDA"
+  branch: AGENCY SERVICES
+  swift: ABNANL2AAGS
+    
+- name: "ABN AMRO BANK N.V."
+  city: "BREDA"
+  branch: EUROCLEAR NEDERLAND RETAIL
+  swift: ABNANL2ARET
+    
+- name: "ABN AMRO BANK N.V."
+  city: "BREDA"
+  branch: MARKETS NL DEPARTMENT
+  swift: ABNANL2AMAR
+    
+- name: "ABN AMRO BANK N.V."
+  city: "BREDA"
+  branch: null
+  swift: ABNANL2ASOB
+    
+- name: "ABN AMRO BANK N.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: ABNANL2R
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: AACB  ENTITY ROUTING: ASIA PACIFIC
+  swift: ABNCNL2ASYD
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: ABNC B AND AMP.LD
+  swift: ABNCNL2ASBL
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: COLLATERAL
+  swift: ABNCNL2ACOL
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: CUSTODY CLEARING POOL
+  swift: ABNCNL2ACBC
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: CUSTODY POOL
+  swift: ABNCNL2ACUS
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: ENERGY
+  swift: ABNCNL2AENE
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: FUND PROCESSING
+  swift: ABNCNL2AFND
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: MARGIN ACCOUNT
+  swift: ABNCNL2AFOR
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: NON POOL ACCOUNTS
+  swift: ABNCNL2ANPL
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: OTHER CLIENTS
+  swift: ABNCNL2ATBD
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: RE AABC
+  swift: ABNCNL2AABC
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: RE DE GIRO
+  swift: ABNCNL2AGIR
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: RE HCH
+  swift: ABNCNL2AHCH
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: RE LELEUX
+  swift: ABNCNL2ALLX
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: RE MARKETS
+  swift: ABNCNL2AGMK
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ABNCNL2A
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ABNCNL2ABIN
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ABNCNL2AECP
+    
+- name: "ABN AMRO CLEARING BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ABNCNL2AFLR
+    
+- name: "ABR FINANCIAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ABRFNL21
+    
+- name: "ACCENT AIGU B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ACCINL21
+    
+- name: "ACCENT GRAVE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AGRVNL21
+    
+- name: "ACCENT TONIQUE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ACTONL21
+    
+- name: "ACHMEA BANK HOLDING N.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: ACHLNL21
+    
+- name: "ACHMEA BANK NV"
+  city: "DEN HAAG"
+  branch: null
+  swift: AHBKNL2G
+    
+- name: "ACHMEA BANK NV"
+  city: "LEUSDEN"
+  branch: null
+  swift: ARBNNL22
+    
+- name: "ACHMEA BANK NV"
+  city: "TILBURG"
+  branch: BACK OFFICE TREASURY
+  swift: ARBNNL22BOT
+    
+- name: "ACHMEA INVESTMENT MANAGEMENT"
+  city: "ZEIST"
+  branch: null
+  swift: SYAVNL22
+    
+- name: "ACHMEA INVESTMENT MANAGEMENT"
+  city: "ZEIST"
+  branch: null
+  swift: SYAVNL31
+    
+- name: "ACONA BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ACOANL21
+    
+- name: "ACTIAM N.V."
+  city: "UTRECHT"
+  branch: null
+  swift: SNSINL2A
+    
+- name: "ADVIESBUREAU VOOR VERMOGENS-BEHEER VAN GRAFHORST B.V."
+  city: "DELDEN"
+  branch: null
+  swift: AVBGNL21
+    
+- name: "ADVIESGROEP REYERSEN VAN BUUREN B.V"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: ADRBNL21
+    
+- name: "ADYEN B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ADYBNL2A
+    
+- name: "ADYEN B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ADYBNL2ATBE
+    
+- name: "ADYEN B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ADYENL21
+    
+- name: "ADYEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ADYENL2A
+    
+- name: "AEGON BANK N.V."
+  city: "DEN HAAG"
+  branch: AEGON BANK SEPA
+  swift: AEGONL2U100
+    
+- name: "AEGON BANK N.V."
+  city: "NIEUWEGEIN"
+  branch: null
+  swift: AEGONL2U
+    
+- name: "AEGON FINANCIELE DIENSTEN B.V."
+  city: "LEEUWARDEN"
+  branch: null
+  swift: AEFDNL21
+    
+- name: "AEGON INVESTMENT MANAGEMENT B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: AEIMNL21
+    
+- name: "AEGON INVESTMENT MANAGEMENT B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: AEIMNL2G
+    
+- name: "AEGON NV"
+  city: "DEN HAAG"
+  branch: null
+  swift: AENVNL2G
+    
+- name: "AESPEN FUTURES BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: AESPNL21
+    
+- name: "AEX-AGRICULTURAL FUTURES EXCHANGE"
+  city: "AMSTERDAM"
+  branch: null
+  swift: XAEXNL21
+    
+- name: "AFS BROKERS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AFBRNL21
+    
+- name: "AFS CAPITAL MANAGEMENT B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ACMNNL21
+    
+- name: "AFS CAPITAL MARKETS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AFCRNL21
+    
+- name: "AFS MONEYBROKERS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AFMONL21
+    
+- name: "AFS VERMOGENSBEHEER BV"
+  city: "HOUTEN"
+  branch: null
+  swift: AFSVNL21
+    
+- name: "AGRIGENTO BASSA B.V."
+  city: "WARMENHUIZEN"
+  branch: null
+  swift: AGBSNL21
+    
+- name: "AKZO NOBEL CHEMICALS INTERNATIONAL B.V."
+  city: "ARNHEM"
+  branch: null
+  swift: KMIKNL22
+    
+- name: "AKZO NOBEL N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AKZONL2A
+    
+- name: "ALGORITHMIC TRADING GROUP NETHERLANDS MANAGAMENT BV"
+  city: "LEIDEN"
+  branch: null
+  swift: ATGNNL21
+    
+- name: "ALL ENERGY TRADING BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: AETRNL21
+    
+- name: "ALL OPTIONS INTERNATIONAL BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: AOINNL21
+    
+- name: "ALLIANZ NEDERLAND ASSET MANAGEMENT BV"
+  city: "NIEUWEGEIN"
+  branch: null
+  swift: ANAANL21
+    
+- name: "ALPINVEST PARTNERS N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ALPPNL21
+    
+- name: "AMOPTIONS TRADING VIII B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ATRVNL21
+    
+- name: "AMRO SECURITIES"
+  city: "AMSTERDAM"
+  branch: null
+  swift: AMRSNL21
+    
+- name: "AMSTEL CAPITAL MANAGEMENT B.V."
+  city: "LAREN"
+  branch: null
+  swift: ACMGNL21
+    
+- name: "AMSTEL FUNDS EN ASSET MANAGEMENT B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AFAMNL21
+    
+- name: "AMSTEL SECURITIES N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AMSSNL21
+    
+- name: "AMSTERDAM BROKERS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AMBRNL21
+    
+- name: "AMSTERDAM COMMODITY EXCHANGE"
+  city: "AMSTERDAM"
+  branch: null
+  swift: XACENL21
+    
+- name: "AMSTERDAM INTERNATIONAL BANK AND TRUST COMPANY B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AITONL21
+    
+- name: "AMSTERDAM TRADE BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ATBANL2A
+    
+- name: "AMSTERDAMS EFFECTENKANTOOR B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AMEFNL21
+    
+- name: "AMSTERDAMSE EFFECTENBEURS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: XAMSNL21
+    
+- name: "AMSTGELD NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: AMSGNL21
+    
+- name: "ANADOLUBANK NEDERLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ANDLNL2A
+    
+- name: "ANDROPAN ASSET MANAGEMENT B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AAMMNL21
+    
+- name: "ANTHOS ASSET MANAGEMENT B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AAEMNL21
+    
+- name: "ANTHOS BANK B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ANHHNL21
+    
+- name: "AOT SECURITIES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AOSENL21
+    
+- name: "AOT STOCKSPECIALIST B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AOTSNL21
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: CONFIRMATIE PROCES ABP
+  swift: ABPTNL2HABP
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: CONFIRMATIE PROCES BPF
+  swift: ABPTNL2HBPF
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: CONFIRMATIE PROCES PPF
+  swift: ABPTNL2HPPF
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: CONFIRMATIE PROCES SPW
+  swift: ABPTNL2HSPW
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: TREASURY CENTER INZ 8004
+  swift: ABPTNL2HAAC
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: TREASURY CENTER INZ 8005
+  swift: ABPTNL2HAAA
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: TREASURY CENTER INZ 8006
+  swift: ABPTNL2HAAD
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: null
+  swift: ABPTNL2H
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: null
+  swift: ABPTNL2HAAB
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: null
+  swift: ABPTNL2HAOS
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: null
+  swift: ABPTNL2HAOT
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: null
+  swift: ABPTNL2HLOS
+    
+- name: "APG GROEP NV"
+  city: "HEERLEN"
+  branch: null
+  swift: ABPTNL2HLOT
+    
+- name: "ARCADIS PENSIOENFONDS"
+  city: "ARNHEM"
+  branch: null
+  swift: ACPFNL21
+    
+- name: "ARCOS DORADOS BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ADBVNL2A
+    
+- name: "ARGENTA SPAARBANK-BIJKANTOOR NEDERLAND"
+  city: "BREDA"
+  branch: null
+  swift: ARSNNL21
+    
+- name: "ASAHI BANK (NEDERLAND) N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ASNENL21
+    
+- name: "ASICS EUROPE B.V."
+  city: "HOOFDDORP"
+  branch: null
+  swift: ASIXNL2A
+    
+- name: "ASN BANK"
+  city: "DEN HAAG"
+  branch: null
+  swift: ASNBNL21
+    
+- name: "ASR BANK N.V."
+  city: "UTRECHT"
+  branch: null
+  swift: ASRBNL2R
+    
+- name: "ASR VERZEKERINGEN NEDERLAND N.V"
+  city: "UTRECHT"
+  branch: null
+  swift: FTSINL2U
+    
+- name: "ASSET ENHANCEMENT GROUP B.V."
+  city: "BOXTEL"
+  branch: null
+  swift: ASEGNL21
+    
+- name: "ASTER-X CAPITAL MANAGEMENT B.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ASCENL21
+    
+- name: "ASW"
+  city: "HUIZEN"
+  branch: null
+  swift: ASWANL21
+    
+- name: "ATTICA VERMOGENSBEHEER B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ATVENL21
+    
+- name: "ATTIJARIWAFA BANK EUROPE NETHERLANDS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BCMANL2A
+    
+- name: "AVERO BANCAIRE DIENSTEN N.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: AVBDNL21
+    
+- name: "AZL VERMOGENSBEHEER B.V."
+  city: "HEERLEN"
+  branch: null
+  swift: AZLVNL21
+    
+- name: "B.A. VAN DOORN EN COMP B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: DCOMNL21
+    
+- name: "BAKKENIST EN EMMENS N.V."
+  city: "ZEIST"
+  branch: null
+  swift: BKEMNL21
+    
+- name: "BANCO DO ESTADO DE SAO PAOLO S.A."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ESAONL21
+    
+- name: "BANCO EXTERIOR DE ESPANA SA"
+  city: "ROTTERDAM"
+  branch: null
+  swift: EXESNL21
+    
+- name: "BANK BERCOOP N.V."
+  city: "OLDEBERKOOP"
+  branch: null
+  swift: BEOONL21
+    
+- name: "BANK INSINGER DE BEAUFORT N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: INSINL2A
+    
+- name: "BANK INSINGER DE BEAUFORT N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: INSINL2ANRA
+    
+- name: "BANK LABOUCHERE N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: LABCNL21
+    
+- name: "BANK MENDES GANS N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BKMGNL2A
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED, NETHERLANDS BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BOFANLNX
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED, NETHERLANDS BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BOFANLNXLIQ
+    
+- name: "BANK OF CHINA (LUXEMBOURG) S.A., ROTTERDAM BRANCH"
+  city: "ROTTERDAM"
+  branch: null
+  swift: BKCHNL2R
+    
+- name: "BANK OF NEW YORK MELLON SA/NV, AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: LAB
+  swift: BNYMNL22DNB
+    
+- name: "BANK OF NEW YORK MELLON SA/NV, AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BNYMNL22
+    
+- name: "BANK OF SCOTLAND PLC"
+  city: "AMSTERDAM"
+  branch: AMSTERDAM BRANCHE RETAIL
+  swift: BOFSNL21002
+    
+- name: "BANK OF SCOTLAND PLC"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BOFSNL2A
+    
+- name: "BANK OF TAIWAN (EUROPE) N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: TAIPNL21
+    
+- name: "BANK OYENS EN VAN EEGHEN NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: OYENNL21
+    
+- name: "BANK TEN CATE AND CIE NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: TECTNL21
+    
+- name: "BANK VOOR ZEELAND N.V."
+  city: "GOES"
+  branch: null
+  swift: ZEELNL21
+    
+- name: "BANQUE CHAABI DU MAROC"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BCDMNL21
+    
+- name: "BANQUE CHAABI DU MAROC"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BCDMNL22
+    
+- name: "BARCLAYS BANK PLC AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BARCNL21
+    
+- name: "BARY SECURITIES N.V., DE"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BAYRNL21
+    
+- name: "BEER EN VAN STAPELE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BETPNL21
+    
+- name: "BELASTINGDIENST/CENTRALE DOUANE-ADMINISTRATIE"
+  city: "APELDOORN"
+  branch: null
+  swift: BEDONL21
+    
+- name: "BELASTINGDIENST/PARTICULIEREN/ONDERNEMINGEN BUITENLAND/WIR"
+  city: "HEERLEN"
+  branch: null
+  swift: BEOUNL21
+    
+- name: "BENE TRADING BV"
+  city: "ALMERE"
+  branch: null
+  swift: BTRDNL21
+    
+- name: "BENS INTERNATIONAL TRADING B.V."
+  city: "HOORN"
+  branch: null
+  swift: BITDNL21
+    
+- name: "BERBEN'S EFFECTENKANTOOR B.V."
+  city: "WEERT"
+  branch: null
+  swift: BEFENL21
+    
+- name: "BERGSHOEFF OPTIONS B.V."
+  city: "BENTVELD"
+  branch: null
+  swift: BEOPNL21
+    
+- name: "BETTER OPTIONS LLP"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BOLPNL21
+    
+- name: "BEUSMANS CAPITAL MANAGEMENT B.V."
+  city: "MAASTRICHT"
+  branch: null
+  swift: BCMNNL21
+    
+- name: "BEZEMER CLEMENTS SCHIPPER VERMOGENSBEHEER B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: BCSVNL21
+    
+- name: "BINCKBANK N.V."
+  city: "AMSTERDAM"
+  branch: BINCK BELGIUM
+  swift: BICKNL2ATG2
+    
+- name: "BINCKBANK N.V."
+  city: "AMSTERDAM"
+  branch: PROFESSIONAL SERVICES
+  swift: BICKNL21PRF
+    
+- name: "BINCKBANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BICKNL2A
+    
+- name: "BINCKBANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BICKNLB1
+    
+- name: "BINCKBANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BIKKNLA1
+    
+- name: "BINCKBANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BINKNL21
+    
+- name: "BLACKROCK (NETHERLANDS) B.V."
+  city: "EINDHOVEN"
+  branch: null
+  swift: BLNENL21
+    
+- name: "BLAUSTEIN FS N.V."
+  city: "AMERSFOORT"
+  branch: null
+  swift: BLAUNL22
+    
+- name: "BLG WONEN"
+  city: "GELEEN"
+  branch: null
+  swift: BLGWNL21
+    
+- name: "BLUE SKY GROUP B.V."
+  city: "AMSTELVEEN"
+  branch: null
+  swift: BLSGNL21
+    
+- name: "BMCE EUROSERVICES"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BMEUNL21
+    
+- name: "BNG CAPITAL MANAGEMENT B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: BCMTNL21
+    
+- name: "BNP PARIBAS ARBITRAGE ISSUANCE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BPAINL21
+    
+- name: "BNP PARIBAS INVESTMENT PARTNERS NETHERLANDS NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: FIAHNL21
+    
+- name: "BNP PARIBAS OBAM N.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BNAONL21
+    
+- name: "BNP PARIBAS S.A. - THE NETHERLANDS BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BNPANL2A
+    
+- name: "BNP PARIBAS S.A.-THE NETHERLANDS BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BNPANL2H
+    
+- name: "BNP PARIBAS S.A.-THE NETHERLANDS BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BNPANL2HNMC
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "AMSTERDAM"
+  branch: null
+  swift: PARBNL31
+    
+- name: "BOER EN OLIJ SECURITIES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BOOENL21
+    
+- name: "BONDSSPAARBANK VOOR DE EEMSMOND N.V."
+  city: "APPINGEDAM"
+  branch: null
+  swift: BOEMNL21
+    
+- name: "BOOKING.COM"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BOOKNL2A
+    
+- name: "BORGHOLS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BORHNL21
+    
+- name: "BORIS TRADING B.V."
+  city: "HOOFDDORP"
+  branch: null
+  swift: BOTRNL21
+    
+- name: "BOUWFONDS ASSET MANAGEMENT B.V."
+  city: "AMERSFOORT"
+  branch: null
+  swift: BOSMNL21
+    
+- name: "BOUWFONDS REIM B.V."
+  city: "HOEVELAKEN"
+  branch: null
+  swift: BOWRNL21
+    
+- name: "BOX CONSULTANTS B.V."
+  city: "EINDHOVEN"
+  branch: null
+  swift: BOXCNL21
+    
+- name: "BRAND NEW DAY VERMOGENSOPBOUW N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BNDANL2A
+    
+- name: "BUNQ B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BUNQNL2A
+    
+- name: "BUNQ B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: BUNQNL2AHDO
+    
+- name: "BUSTELBERG EFFECTENKANTOOR B.V."
+  city: "BREDA"
+  branch: null
+  swift: BEFTNL21
+    
+- name: "BZW NEDERLAND NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BZWNNL21
+    
+- name: "C.E. DE BRUIN VERMOGENSBEHEER B.V."
+  city: "EINDHOVEN"
+  branch: null
+  swift: BRVENL21
+    
+- name: "CACEIS BANK, NETHERLANDS BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ISAENL2A
+    
+- name: "CACEIS NETHERLANDS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: FNETNL21
+    
+- name: "CAERUS II B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CEERNL21
+    
+- name: "CAERUS III B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CAERNL21
+    
+- name: "CALIMERO TRADING B.V."
+  city: "BADHOEVEDORP"
+  branch: null
+  swift: CTRDNL21
+    
+- name: "CARDANO RISK MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: CRKMNL21
+    
+- name: "CARDANO STRUCTURING B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: CADUNL21
+    
+- name: "CARDIF LEVENSVERZEKERINGEN NV"
+  city: "OOSTERHOUT"
+  branch: null
+  swift: CARZNL21
+    
+- name: "CARDIF SCHADEVERZEKERINGEN NV"
+  city: "OOSTERHOUT"
+  branch: null
+  swift: CACZNL21
+    
+- name: "CARGILL BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: CRGINL21
+    
+- name: "CDK BANK N.V."
+  city: "UTRECHT"
+  branch: null
+  swift: CDKBNL21
+    
+- name: "CEBULON OPTIONS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CEOPNL21
+    
+- name: "CEBULON VOF"
+  city: "AMSTERDAM"
+  branch: null
+  swift: CEVONL21
+    
+- name: "CENTERCROSS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CENCNL21
+    
+- name: "CERVUS CAPITAL PARTNERS NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: CELNNL21
+    
+- name: "CGGVERITAS SERVICES HOLDING B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CGGVNL2A
+    
+- name: "CHARTERHOUSE VERMOGENSBEHEER B.V."
+  city: "ZAANDAM"
+  branch: null
+  swift: CHVENL21
+    
+- name: "CHASSIS BRAKES INTERNATIONAL BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: CBIGNL2A
+    
+- name: "CHIAO TUNG BANK EUROPE N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CHTUNL21
+    
+- name: "CHINA CONSTRUCTION BANK (EUROPE) S.A., AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: PCBCNL2A
+    
+- name: "CHO OPTION TRADERS B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: CHOTNL21
+    
+- name: "CIBA SPECIALTY CHEMICALS TREASURY SERVICE BV"
+  city: "MAASTRICHT"
+  branch: null
+  swift: CIBNNL21
+    
+- name: "CITCO BANK NEDERLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CITCNL2A
+    
+- name: "CITIBANK EUROPE PLC NETHERLANDS BRANCH"
+  city: "AMSTERDAM"
+  branch: INFOPOOL SERVICES
+  swift: CITINL2XCB2
+    
+- name: "CITIBANK EUROPE PLC NETHERLANDS BRANCH"
+  city: "AMSTERDAM"
+  branch: RESTRICTED USE CITIBANK AMSTERDAM TARGET 2
+  swift: CITINL2XSEC
+    
+- name: "CITIBANK EUROPE PLC NETHERLANDS BRANCH"
+  city: "AMSTERDAM"
+  branch: RESTRICTED USE CITIBANK AMSTERDAM TARGET 2
+  swift: CITINL2XTFT
+    
+- name: "CITIBANK EUROPE PLC NETHERLANDS BRANCH"
+  city: "SCHIPHOL"
+  branch: null
+  swift: CITINL2X
+    
+- name: "CLEARNET AMSTERDAM"
+  city: "AMSTERDAM"
+  branch: null
+  swift: CLIQNL21
+    
+- name: "CMV BANK B.V."
+  city: "AMERSFOORT"
+  branch: null
+  swift: CMVCNL21
+    
+- name: "COCA-COLA HBC FINANCE B.V."
+  city: "AMSTERDAM"
+  branch: BG CONFIRMATIONS
+  swift: CCHBNL2A424
+    
+- name: "COCA-COLA HBC FINANCE B.V."
+  city: "AMSTERDAM"
+  branch: NBC
+  swift: CCHBNL2A470
+    
+- name: "COCA-COLA HBC FINANCE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CCHBNL2A
+    
+- name: "COLUMBUS GROUP B.V."
+  city: "MAARSSEN"
+  branch: null
+  swift: COLGNL21
+    
+- name: "COMMERZBANK AG KANTOOR AMSTERDAM"
+  city: "AMSTERDAM"
+  branch: null
+  swift: COBANL2X
+    
+- name: "COMMERZBANK AG KANTOOR AMSTERDAM"
+  city: "AMSTERDAM"
+  branch: null
+  swift: COBANL2XTAM
+    
+- name: "COMMERZBANK AG KANTOOR AMSTERDAM"
+  city: "AMSTERDAM"
+  branch: null
+  swift: COBANL2XTSU
+    
+- name: "CONFERENCE DE LA HAYE DE DROIT INTERNATIONAL PRIVE"
+  city: "THE HAGUE"
+  branch: null
+  swift: CYDINL21
+    
+- name: "CONSORTIUM HELVETICUM B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: COHENL21
+    
+- name: "CONSTELLIUM N.V."
+  city: "SCHIPHOL"
+  branch: null
+  swift: CSTMNL22
+    
+- name: "CONVERSE NETHERLANDS B.V."
+  city: "HILVERSUM"
+  branch: null
+  swift: COVHNL21
+    
+- name: "CONVERSE NETHERLANDS B.V. FINANCE DIVISION"
+  city: "HILVERSUM"
+  branch: null
+  swift: CNFDNL21
+    
+- name: "CORDARES VERMOGENSBEHEER B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CORHNL21
+    
+- name: "CREDIT AGRICOLE CHEUVREUX NETHERLANDS N, AMSTERDAM"
+  city: "AMSTERDAM"
+  branch: null
+  swift: CACHNL21
+    
+- name: "CREDIT EUROPE BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FBHLNL2A
+    
+- name: "CRITERION ARBITRAGE AND TRADING B.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: CRBDNL21
+    
+- name: "CROSS OPTIONS INT. XI B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CRNINL21
+    
+- name: "CURVALUE II B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CUVVNL21
+    
+- name: "CURVALUE III B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CUIINL21
+    
+- name: "DA VINCI DERIVATIVES BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: VIDINL21
+    
+- name: "DAIMLER INTERNATIONAL FINANCE B.V."
+  city: "UTRECHT"
+  branch: null
+  swift: DAIXNL2X
+    
+- name: "DARLING INGREDIENTS INTERNATIONAL FINANCIAL SERVICES BV"
+  city: "SON EN BREUGEL"
+  branch: null
+  swift: DALINL22
+    
+- name: "DCM BROKERS B.V."
+  city: "PURMEREND"
+  branch: null
+  swift: DCMBNL21
+    
+- name: "DE LAGE LANDEN INTERNATIONAL B.V"
+  city: "EINDHOVEN"
+  branch: null
+  swift: DLLINL2E
+    
+- name: "DE VERMOGENSSPECIALIST B.V."
+  city: "SOEST"
+  branch: null
+  swift: VERMNL21
+    
+- name: "DE VESTE VERMOGENSBEHEER B.V."
+  city: "BERGEN OP ZOOM"
+  branch: null
+  swift: VESVNL21
+    
+- name: "DE VOLKSBANK N.V."
+  city: "S-HERTOGENBOSCH"
+  branch: SECURITIES
+  swift: SNSBNL2ABOS
+    
+- name: "DE VOLKSBANK N.V."
+  city: "UTRECHT"
+  branch: FINANCIAL MARKETS
+  swift: SNSBNL2ASFM
+    
+- name: "DE VOLKSBANK N.V."
+  city: "UTRECHT"
+  branch: null
+  swift: SNSBNL2A
+    
+- name: "DE VRIES EN CO B.V."
+  city: "BAARN"
+  branch: null
+  swift: VRIENL21
+    
+- name: "DE VRIES EN WESTERMANN B.V."
+  city: "HOOFDDORP"
+  branch: null
+  swift: VRWENL21
+    
+- name: "DE WAERDT VERMOGENSBEHEER B.V."
+  city: "HAARLEM"
+  branch: null
+  swift: WAVENL21
+    
+- name: "DEEP BLUE CAPITAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: DEBCNL21
+    
+- name: "DEGIRO B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HIQANL21
+    
+- name: "DEGROOF VERMOGENSBEHEER N.V."
+  city: "WEESP"
+  branch: null
+  swift: DVERNL21
+    
+- name: "DELTA LLOYD ASSET MANAGEMENT"
+  city: "AMSTERDAM"
+  branch: null
+  swift: DLIMNL2A
+    
+- name: "DELTA LLOYD ASSET MANAGEMENT"
+  city: "AMSTERDAM"
+  branch: null
+  swift: DLIMNL2B
+    
+- name: "DELTA LLOYD ASSET MANAGEMENT N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: DLANNL21
+    
+- name: "DELTA LLOYD BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: DLBKNL2A
+    
+- name: "DELTA LLOYD RENTEFONDS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: DLRTNL21
+    
+- name: "DEMIR-HALK BANK (NEDERLAND) N.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: DHBNNL2R
+    
+- name: "DEMIR-HALK BANK (NEDERLAND) N.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: DHBNNL2RCOL
+    
+- name: "DENO VERMOGENSBEHEER B.V."
+  city: "MAASTRICHT"
+  branch: null
+  swift: DEVRNL21
+    
+- name: "DEPOSITO GARANTIE FONDS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: DGFANL2A
+    
+- name: "DEUTSCHE BANK AG"
+  city: "AMSTERDAM"
+  branch: AQUARIUS
+  swift: DEUTNL2AABF
+    
+- name: "DEUTSCHE BANK AG"
+  city: "AMSTERDAM"
+  branch: DNB CODE
+  swift: DEUTNL2A002
+    
+- name: "DEUTSCHE BANK AG"
+  city: "AMSTERDAM"
+  branch: ESESCODE
+  swift: DEUTNL2ASSS
+    
+- name: "DEUTSCHE BANK AG"
+  city: "AMSTERDAM"
+  branch: SECURITIES
+  swift: DEUTNL2ASEC
+    
+- name: "DEUTSCHE BANK AG"
+  city: "AMSTERDAM"
+  branch: null
+  swift: DEUTNL2A
+    
+- name: "DEUTSCHE BANK AG (FORMERLY DEUTSCHE BANK NEDERLAND N.V.)"
+  city: "AMSTERDAM"
+  branch: null
+  swift: DEUTNL2N
+    
+- name: "DEXIA BANK NEDERLAND NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: DEXNNL21
+    
+- name: "DIF MANAGEMENT B.V."
+  city: "SCHIPHOL"
+  branch: null
+  swift: DIFMNL2A
+    
+- name: "DIJKSTRA BEAUMONT WEALTH MANAGEMENT B.V."
+  city: "UTRECHT"
+  branch: null
+  swift: DBWMNL21
+    
+- name: "DIMA VERMOGENSBEHEER B.V."
+  city: "BERKEL-ENSCHOT"
+  branch: null
+  swift: DIMVNL21
+    
+- name: "DIREKTBANK N.V."
+  city: "AMSTELVEEN"
+  branch: null
+  swift: DIRKNL21
+    
+- name: "DOMIX OPTIES B.V."
+  city: "NIEUWESCHOOT"
+  branch: null
+  swift: DOMENL21
+    
+- name: "DONE FUND MANAGEMENT BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: DOFMNL21
+    
+- name: "DOUCHKA B.V."
+  city: "ALMERE"
+  branch: null
+  swift: DOUKNL21
+    
+- name: "DSB BANK (ZAANDAM) NV"
+  city: "ZAANDAM"
+  branch: null
+  swift: SBHONL21
+    
+- name: "DSM PENSIONS SERVICES"
+  city: "HEERLEN"
+  branch: null
+  swift: DSMHNL21
+    
+- name: "DUTCH EMISSIONS AUTHORITY"
+  city: "DEN HAAG"
+  branch: null
+  swift: DUEANL21
+    
+- name: "DUTCH MINISTRY OF FINANCE"
+  city: "DEN HAAG"
+  branch: null
+  swift: MIFINL2G
+    
+- name: "DUTCH OPTIONS AND FUTURES INSTITUTE B.V."
+  city: "DRUTEN"
+  branch: null
+  swift: DOFNNL21
+    
+- name: "DUTCH STATE TREASURY AGENCY"
+  city: "DEN HAAG"
+  branch: null
+  swift: DSTANL2A
+    
+- name: "DVB BANK NV"
+  city: "ROTTERDAM"
+  branch: null
+  swift: DVBVNL21
+    
+- name: "DVB BANK SE"
+  city: "SCHIPHOL"
+  branch: null
+  swift: DVKBNL21
+    
+- name: "E.D.I. EQUITY DERIVATIVES INVESTMENTS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: EEDINL21
+    
+- name: "EBANQ BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: EBAQNL21
+    
+- name: "EBURY PARTNERS UK LIMITED"
+  city: "AMSTERDAM"
+  branch: null
+  swift: EBURNL21
+    
+- name: "ECLIPSE OPTIONS (NL) B.V."
+  city: "SCHIPHOL"
+  branch: null
+  swift: ECOTNL21
+    
+- name: "EDUTRADERS III B.V."
+  city: "LUNTEREN"
+  branch: null
+  swift: EDUINL21
+    
+- name: "EFFECTENKANTOOR NIEUWE UITLEG B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: EFNUNL21
+    
+- name: "EFFECTIVE TRADERS AMSTERDAM B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: EFTANL21
+    
+- name: "ENDEMOL SHINE OPCO HOLDING BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ESGRNL2A
+    
+- name: "ENDEX EUROPEAN ENERGY DERIVATIVES EXCHANGE N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: EEEDNL21
+    
+- name: "ENECO ENERGY TRADE B.V."
+  city: "CAPELLE AAN DEN IJSSEL"
+  branch: null
+  swift: ENECNL21
+    
+- name: "ENEL FINANCE INTERNATIONAL N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ENELNL2A
+    
+- name: "EQUENSWORLDLINE SE"
+  city: "UTRECHT"
+  branch: null
+  swift: INNDNL2U
+    
+- name: "EQUENSWORLDLINE SE"
+  city: "UTRECHT"
+  branch: null
+  swift: INNDNL2UDDE
+    
+- name: "EQUENSWORLDLINE SE"
+  city: "UTRECHT"
+  branch: null
+  swift: INNDNL2UEBA
+    
+- name: "EQUENSWORLDLINE SE"
+  city: "UTRECHT"
+  branch: null
+  swift: INNDNL2UEQU
+    
+- name: "EQUENSWORLDLINE SE"
+  city: "UTRECHT"
+  branch: null
+  swift: INNDNL2URAB
+    
+- name: "ERNST EN VAN DEN BROEK VERMOGENSBEHEER B.V."
+  city: "UDENHOUT"
+  branch: null
+  swift: EDBVNL21
+    
+- name: "EUREFFECT ASSET MANAGEMENT B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: EAMNNL21
+    
+- name: "EURO AMERICAN PARTICIPATIONS B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: EUAPNL21
+    
+- name: "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)"
+  city: "AMSTERDAM"
+  branch: FIT ENL
+  swift: NECINL2AFEN
+    
+- name: "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)"
+  city: "AMSTERDAM"
+  branch: TARGET 2
+  swift: NECINL2A206
+    
+- name: "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)"
+  city: "AMSTERDAM"
+  branch: TARGET 2
+  swift: NECINL2A207
+    
+- name: "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)"
+  city: "AMSTERDAM"
+  branch: TARGET 2
+  swift: NECINL2A730
+    
+- name: "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)"
+  city: "AMSTERDAM"
+  branch: TARGET 2
+  swift: NECINL2A775
+    
+- name: "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)"
+  city: "AMSTERDAM"
+  branch: TARGET 2
+  swift: NECINL2A777
+    
+- name: "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)"
+  city: "AMSTERDAM"
+  branch: null
+  swift: NECINL2A
+    
+- name: "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)"
+  city: "AMSTERDAM"
+  branch: null
+  swift: NECINL2A320
+    
+- name: "EURONEXT COM, COMMODITIES FUTURES AND OPTIONS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: XEUCNL21
+    
+- name: "EURONEXT EQF, EQUITIES AND INDICES DERIVATIVES"
+  city: "AMSTERDAM"
+  branch: null
+  swift: XEUENL21
+    
+- name: "EURONEXT IRF, INTEREST RATE FUTURE AND OPTIONS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: XEUINL21
+    
+- name: "EUROPEAN CENTRAL COUNTERPARTY N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: EMCFNL22
+    
+- name: "EUROPEAN CENTRAL COUNTERPARTY N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: EMCFNL2A
+    
+- name: "EUROPEAN CENTRAL COUNTERPARTY N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: EMCFNL2AAGN
+    
+- name: "EUROPEAN CENTRAL COUNTERPARTY N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: EMCFNL2ACLF
+    
+- name: "EUROPEAN CENTRAL COUNTERPARTY N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: EMCFNL2ACOL
+    
+- name: "EXOR HOLDING N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: EXHLNL21
+    
+- name: "EXT B.V."
+  city: "DEN HAAG"
+  branch: null
+  swift: EXTXNL21
+    
+- name: "EXXONMOBIL CAPITAL NETHERLANDS BV"
+  city: "BREDA"
+  branch: null
+  swift: EXXONL21
+    
+- name: "F.I.N.T."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FININL21
+    
+- name: "FALCINVEST ASSET MANAGEMENT B.V."
+  city: "VEENENDAAL"
+  branch: null
+  swift: FAMNNL21
+    
+- name: "FAXTOR SECURITIES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FAXSNL21
+    
+- name: "FCE BANK PLC"
+  city: "AMSTERDAM"
+  branch: null
+  swift: FCEENL21
+    
+- name: "FE NEW N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FENWNL21
+    
+- name: "FENC NETHERLANDS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FENTNL21
+    
+- name: "FGH BANK N.V."
+  city: "UTRECHT"
+  branch: null
+  swift: FRGHNL21
+    
+- name: "FIERET EN VAN LYNDEN B.V."
+  city: "LANGBROEK"
+  branch: null
+  swift: FLYNNL21
+    
+- name: "FIMAGRO B.V."
+  city: "SLUIS"
+  branch: null
+  swift: FMMANL21
+    
+- name: "FINALTRUST VERMOGENSBEHEER B.V."
+  city: "EINDHOVEN"
+  branch: null
+  swift: FVERNL21
+    
+- name: "FINANCIAL TRANSACTIONS SERVICES BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: MULBNL2A
+    
+- name: "FINANCIAL TRANSACTIONS SERVICES BV COBASE"
+  city: "AMSTERDAM"
+  branch: null
+  swift: CBSXNL2A
+    
+- name: "FINANCIELE ONDERNEMING SMIDSWATER B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: FOSMNL21
+    
+- name: "FINANCIELE TERMIJNMARKET AMSTERDAM"
+  city: "AMSTERDAM"
+  branch: null
+  swift: XFTANL21
+    
+- name: "FINLES VERMOGENSBEHEER B.V."
+  city: "UTRECHT"
+  branch: null
+  swift: FIVMNL21
+    
+- name: "FIRST CAPITAL ASSET MANAGERS B.V."
+  city: "WASSENAAR"
+  branch: null
+  swift: FCAMNL21
+    
+- name: "FIRST EURO SECURITIES AND DERIVATIVES TRADING B.V."
+  city: "ALMERE"
+  branch: null
+  swift: FESDNL21
+    
+- name: "FLORINT B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FLOINL21
+    
+- name: "FLOW TRADERS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FLTRNL21
+    
+- name: "FLOW TRADERS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FLTRNLB1
+    
+- name: "FLUHALP TRADING BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: FLUTNL21
+    
+- name: "FORGER EQUITY TRADING B.V."
+  city: "SOEST"
+  branch: null
+  swift: FOETNL21
+    
+- name: "FORTIS (GSLA) B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: GSLANL21
+    
+- name: "FORTIS BANK GLOBAL CLEARING NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: FBGCNL21
+    
+- name: "FORTOP B.V."
+  city: "WASSENAAR"
+  branch: null
+  swift: FOTPNL21
+    
+- name: "FORZA VERMOGENSBEHEER B.V."
+  city: "MAASTRICHT"
+  branch: null
+  swift: FORVNL21
+    
+- name: "FRANKE EN PARTNERS PENSIOEN-ADVIES EN VERMOGENSBEHEER BV"
+  city: "MAASTRICHT"
+  branch: null
+  swift: FPPVNL21
+    
+- name: "FRANX B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FRNXNL2A
+    
+- name: "FRIGOGLASS FINANCE BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: FRIGNL2A
+    
+- name: "FUGRO FINANCIAL RESOURCES B.V."
+  city: "LEIDSCHENDAM"
+  branch: null
+  swift: FUGRNL22
+    
+- name: "FUNDIX N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FUNXNL21
+    
+- name: "FUTURE SURFING B.V."
+  city: "BILTHOVEN"
+  branch: null
+  swift: FUTSNL21
+    
+- name: "GARANTIBANK INTERNATIONAL N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: UGBINL2A
+    
+- name: "GBT III, B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: GBTINL2A
+    
+- name: "GESTION NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: GESONL21
+    
+- name: "GLOBAL COLLECT SERVICES B.V."
+  city: "HOOFDDORP"
+  branch: null
+  swift: GLOONL2A
+    
+- name: "GLOBAL DERIVATIVES TRADING AMSTERDAM B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: GDTANL21
+    
+- name: "GLOBAL EXCHANGE TRADING SERVICES BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: GETSNL21
+    
+- name: "GOOISCH EFFECTENHUIS B.V."
+  city: "S-GRAVELAND"
+  branch: null
+  swift: GOEFNL21
+    
+- name: "GORIS EN LADRU VERMOGENSBEHEER B.V."
+  city: "BUITENKAAG"
+  branch: null
+  swift: GOLVNL21
+    
+- name: "GRANDVISION FINANCE B.V."
+  city: "SCHIPHOL"
+  branch: null
+  swift: GVISNL2A
+    
+- name: "GROEIVERMOGEN N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: GROENL21
+    
+- name: "GROENSTATE VERMOGENSADVIES B.V."
+  city: "HENGELO"
+  branch: null
+  swift: GRVENL21
+    
+- name: "GRUENBERG INVESTMENTS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: GRNVNL21
+    
+- name: "GUNMA BANK EUROPE N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: GUNUNL21
+    
+- name: "GVB CAPITAL MANAGEMENT B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: GVCMNL21
+    
+- name: "HABIB BANK LTD."
+  city: "ROTTERDAM"
+  branch: null
+  swift: HABBNL2R
+    
+- name: "HANZEVAST CAPITAL N.V."
+  city: "HILVERSUM"
+  branch: null
+  swift: HCAPNL21
+    
+- name: "HARMONY VERMOGENSBEHEER B.V."
+  city: "AALSMEER"
+  branch: null
+  swift: HAVENL21
+    
+- name: "HARTWIG II B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HARTNL21
+    
+- name: "HAVENBEDRIJF ROTTERDAM (PORT OF ROTTERDAM)"
+  city: "ROTTERDAM"
+  branch: null
+  swift: POFRNL2R
+    
+- name: "HEEREMA MARINE CONTRACTORS FINANCE BV"
+  city: "LEIDEN"
+  branch: null
+  swift: HMCFNL2L
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2A
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2AID1
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2AJM1
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2AKH1
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2AMX1
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2AMY1
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2AMY2
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2ANG1
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2ANZ1
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2ASG1
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2AUS1
+    
+- name: "HEINEKEN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HNKNNL2AZA1
+    
+- name: "HET HAAGS EFFEKTENKANTOOR B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: HHEFNL21
+    
+- name: "HET HOLLANDSCH EFFECTENKANTOOR B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: HHECNL21
+    
+- name: "HEWLETT-PACKARD NEDERLAND B.V."
+  city: "AMSTELVEEN"
+  branch: null
+  swift: HENLNL21
+    
+- name: "HIERONYMUS OPTIONS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HIOPNL21
+    
+- name: "HIMALAYAN FUND N.V."
+  city: "AMSTELVEEN"
+  branch: null
+  swift: HIFUNL21
+    
+- name: "HIQ TRADING AND LIQUIDITY PROVIDING  N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HIQTNL21
+    
+- name: "HIROSHIMA BANK (EUROPE) N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HIEUNL21
+    
+- name: "HOF HOORNEMAN BANKIERS NV"
+  city: "GOUDA"
+  branch: null
+  swift: HHBANL22
+    
+- name: "HOMBURG PARTICIPATIES B.V."
+  city: "SOEST"
+  branch: null
+  swift: HOMPNL21
+    
+- name: "HOPSTAKEN JOHANNESMA EN CO B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: HOPJNL21
+    
+- name: "HOT TRADERS V.O.F."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HOTVNL21
+    
+- name: "HSBC BANK PLC."
+  city: "AMSTERDAM"
+  branch: SEPA DIRECT DEBITS
+  swift: HSBCNL2ASDD
+    
+- name: "HSBC BANK PLC."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HSBCNL2A
+    
+- name: "IBS ASSET MANAGEMENT B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: IBAANL21
+    
+- name: "ICE CLEAR NETHERLANDS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HCHANL2A
+    
+- name: "ICE CLEAR NETHERLANDS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HCHANL2B
+    
+- name: "ICEPAY BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ICEPNL21
+    
+- name: "ICL FINANCE BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ICFNNL2A
+    
+- name: "IDE INTERNATIONAL DERIVATIVES ENTERPRISE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: IIDNNL21
+    
+- name: "IFN FINANCE B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: IFFANL21
+    
+- name: "IMC B.V."
+  city: "AMSTERDAM"
+  branch: INFO DESK AMS
+  swift: IMCBNL21INF
+    
+- name: "IMC B.V."
+  city: "AMSTERDAM"
+  branch: MARKET MAKING AMS
+  swift: IMCBNL21MMX
+    
+- name: "IMC B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: IMCBNL21
+    
+- name: "IMC OPTIONS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: IMOPNL21
+    
+- name: "IMC SECURITIES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: IMCSNL21
+    
+- name: "IMC TRADING B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: IMTRNL21
+    
+- name: "IMS INSTITUTIONAL MANAGEMENT SERVICES B.V."
+  city: "LEUSDEN"
+  branch: null
+  swift: IIMSNL21
+    
+- name: "INDEPENDENT TRADING COMBINATION EFFECTEN B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ITCFNL21
+    
+- name: "INDUBEL VERMOGENSBEHEER NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: INVHNL21
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A. AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ICBKNL2A
+    
+- name: "ING AM INTERFINANCE SEVICES B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: INGJNL21
+    
+- name: "ING ASSET MANAGEMENT B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: INGKNL21
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: FSS
+  swift: INGBNL2SFSS
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: INTERBANK TRANSACTIONS ONLY, NOT FOR GENERAL USE
+  swift: INGBNL2AICM
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: SECURITES SERVICES NL
+  swift: INGBNL2SWIA
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: SECURITIES SERVICES NL
+  swift: INGBNL2SPAS
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: SECURITIES SERVICES NL
+  swift: INGBNL2SSMK
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: TSU
+  swift: INGBNL2ATSU
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: INGBNL2A
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: INGBNL2ACLS
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: INGBNL2AGPC
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: INGBNL2ALMI
+    
+- name: "ING BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: INGBNL2C
+    
+- name: "ING DIRECT N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: INGDNL21
+    
+- name: "ING IM ADVISORS B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: INGWNL21
+    
+- name: "ING INVESTMENT MANAGEMENT NETHERLANDS N.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: INGONL21
+    
+- name: "ING PERSONAL FUND SERVICES B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: INGQNL21
+    
+- name: "INGRAMM INTERNATIONAL N.V."
+  city: "BARENDRECHT"
+  branch: null
+  swift: IGITNL21
+    
+- name: "INMAXXA B.V."
+  city: "MAASTRICHT"
+  branch: null
+  swift: INMXNL21
+    
+- name: "INSINGER DE BEAUFORT ASSET MANAGEMENT N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: IBAMNL21
+    
+- name: "INSTITUUT VOOR BELEGGINGSSTRATEGIE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: INLGNL21
+    
+- name: "INTAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ITTANL21
+    
+- name: "INTER VALUE OPTIONS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ITVONL21
+    
+- name: "INTERACTIE BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: IACBNL21
+    
+- name: "INTERBANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: INKBNL21
+    
+- name: "INTERIM ONE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ITONNL21
+    
+- name: "INTERNATIONAL ASSETS ADVISORY CORPORATION EUROPE B.V."
+  city: "BAARN"
+  branch: null
+  swift: IAACNL21
+    
+- name: "INTERNATIONAL BANK AND TRUST CORP."
+  city: "AMSTERDAM"
+  branch: null
+  swift: IBTCNL21
+    
+- name: "INTERNATIONAL CARD SERVICES B.V."
+  city: "DIEMEN"
+  branch: null
+  swift: ICSVNL21
+    
+- name: "INTERPOLIS PENSIOENEN VERMOGENSBEHEER B.V."
+  city: "DE MEEM"
+  branch: null
+  swift: INPVNL21
+    
+- name: "INTESA SANPAOLO BANK LUXEMBOURG"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BCITNL2A
+    
+- name: "INVEST CONSULT B.V."
+  city: "PRINSENBEEK"
+  branch: null
+  swift: IVVCNL21
+    
+- name: "INVEST4YOU N.V."
+  city: "HEUSDEN"
+  branch: null
+  swift: INYONL21
+    
+- name: "INVESTMENT MANAGEMENT GROUP"
+  city: "AMSTERDAM"
+  branch: null
+  swift: INMGNL21
+    
+- name: "ISBANK AG, AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ISBKNL2A
+    
+- name: "ISBANK AG, AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ISBKNL2AAMS
+    
+- name: "ITX FINANCIEN II B.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ITXFNL21
+    
+- name: "IVM VERMOGENSBEHEER B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: IVMVNL21
+    
+- name: "IVV ASSET MANAGEMENT B.V."
+  city: "VLAARDINGEN"
+  branch: null
+  swift: IVAENL21
+    
+- name: "J AND T PRIVATE EQUITY B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PREQNL21
+    
+- name: "JANSEN EN VAN NOORT VERMOGENSBEHEER B.V."
+  city: "ZOETERMEER"
+  branch: null
+  swift: JNVENL21
+    
+- name: "JMC INTERNATIONAL MARKETMAKERS COMBINATION BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: JMCINL21
+    
+- name: "JP MORGAN STRUCTURED PRODUCTS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MOSDNL21
+    
+- name: "JPMORGAN CHASE BANK, N.A., AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASNL2XENQ
+    
+- name: "JPMORGAN CHASE BANK, N.A., AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASNL2XKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: CHASNL2X
+    
+- name: "KAIROS ASSET MANAGEMENT B.V."
+  city: "HUIZEN"
+  branch: null
+  swift: KAMENL21
+    
+- name: "KALDENBACH DERIVATIVES TRADING B.V."
+  city: "LEIDSCHENDAM"
+  branch: null
+  swift: KADTNL21
+    
+- name: "KAS BANK N.V"
+  city: "AMSTERDAM"
+  branch: KAS INTERNAL USE
+  swift: KASANL2AECL
+    
+- name: "KAS BANK N.V"
+  city: "AMSTERDAM"
+  branch: KAS TRUST
+  swift: KASANL2AKTR
+    
+- name: "KAS BANK N.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: KASANL2A
+    
+- name: "KAS BANK N.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: KASANL2AAGI
+    
+- name: "KAS BANK N.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: KASANL2ACLR
+    
+- name: "KAS BANK N.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: KASANL2AECP
+    
+- name: "KAS BANK N.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: KASANL2AEXA
+    
+- name: "KAS BANK N.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: KASANL2AGER
+    
+- name: "KAS BANK N.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: KASANL2AS22
+    
+- name: "KAS BANK N.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: KASANL2ASI2
+    
+- name: "KBC BANK NV NEDERLAND"
+  city: "ROTTERDAM"
+  branch: null
+  swift: KREDNL2X
+    
+- name: "KBW WESSELIUS EFFECTENBANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: KBWFNL21
+    
+- name: "KEB HANA BANK, AMSTERDAM BRANCH"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: KOEXNL2A
+    
+- name: "KEIJSER CAPITAL N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: KECLNL21
+    
+- name: "KEMP TRADING BV T/A NINO OPTIONS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: KTNONL21
+    
+- name: "KEMPEN AND CO N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: KEMPNL2A
+    
+- name: "KEMPEN CAPITAL MANAGEMENT NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: KECANL2A
+    
+- name: "KEPLER EQUITIES, AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: JBBRNL21
+    
+- name: "KEYTRADE BANK"
+  city: "ROTTERDAM"
+  branch: null
+  swift: KEYTNL21
+    
+- name: "KLINKENBERG TRADERS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: KLTRNL21
+    
+- name: "KLM ROYAL DUTCH AIRLINES"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: KLMTNL2A
+    
+- name: "KLM UK PENSION SCHEME"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: KLPSNL21
+    
+- name: "KNAB"
+  city: "HOOFDDORP"
+  branch: null
+  swift: KNABNL2H
+    
+- name: "KOCBANK NEDERLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: KOCDNL21
+    
+- name: "KONINKLIJKE AHOLD DELHAIZE N.V."
+  city: "ZAANDAM"
+  branch: null
+  swift: AHOLNL22
+    
+- name: "KONINKLIJKE BOSKALIS WESTMINSTER N.V."
+  city: "PAPENDRECHT"
+  branch: null
+  swift: BOKANL22
+    
+- name: "KONINKLIJKE COOPERATIEVE BLOEMENVEILING FLORAHOLLAND U.A."
+  city: "HONSELERSDIJK"
+  branch: null
+  swift: FLHONL2H
+    
+- name: "KONINKLIJKE DSM N.V."
+  city: "HEERLEN"
+  branch: null
+  swift: KDSMNL2H
+    
+- name: "KONINKLIJKE DSM N.V."
+  city: "HEERLEN"
+  branch: null
+  swift: KDSMNL2HBEL
+    
+- name: "KONINKLIJKE DSM N.V."
+  city: "HEERLEN"
+  branch: null
+  swift: KDSMNL2HNLD
+    
+- name: "KONINKLIJKE KPN NV"
+  city: "DEN HAAG"
+  branch: null
+  swift: KPNCNL2G
+    
+- name: "KONINKLIJKE PHILIPS ELECTRONICS N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: KOPLNL21
+    
+- name: "KONINKLIJKE PHILIPS ELECTRONICS N.V."
+  city: "EINDHOVEN"
+  branch: null
+  swift: KOPLNL2E
+    
+- name: "KOOPMAN INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: KOOMNL2A
+    
+- name: "KOPVOS EN PARTNERS B.V."
+  city: "ROOSENDAAL"
+  branch: null
+  swift: KOPPNL21
+    
+- name: "KUPERUS EFFECTEN B.V."
+  city: "BUSSUM"
+  branch: null
+  swift: KUPENL21
+    
+- name: "LAAKEN ASSET MANAGEMENT N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: LASMNL21
+    
+- name: "LANCELOT VERMOGENSBEHEER B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: LANVNL21
+    
+- name: "LANSCHOT BANKIERS NV F. VAN"
+  city: "AMSTERDAM"
+  branch: null
+  swift: FVLBNL22AMS
+    
+- name: "LANSCHOT BANKIERS NV F. VAN"
+  city: "S-HERTOGENBOSCH"
+  branch: null
+  swift: FVLBNL22
+    
+- name: "LASALLE INVESTMENT MANAGEMENT SECURITIES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: LIMUNL21
+    
+- name: "LEASEPLAN CORPORATION N.V."
+  city: "ALMERE-STAD"
+  branch: LEASE PLAN BANK
+  swift: LPLNNL2ALPB
+    
+- name: "LEASEPLAN CORPORATION N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: LPLNNL2A
+    
+- name: "LEASEPLAN CORPORATION N.V.(REF LEASEPLAN BANK)"
+  city: "AMSTERDAM"
+  branch: null
+  swift: LPLNNL2F
+    
+- name: "LEENEN EN SPENCER VERMOGENSBEHEER B.V."
+  city: "OUD BEIJERLAND"
+  branch: null
+  swift: LESVNL21
+    
+- name: "LENTJES EN DROSSAERTS N.V."
+  city: "S-HERTOGENBOSCH"
+  branch: null
+  swift: LEDRNL21
+    
+- name: "LEONTEQ SECURITIES AG, AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: EFGFNL2A
+    
+- name: "LEOPARK OPTIONS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: LEOPNL21
+    
+- name: "LEVOB BANK N.V."
+  city: "LEUSDEN"
+  branch: null
+  swift: OVBNNL21
+    
+- name: "LG ELECTRONICS EUROPEAN SHARED SERVICE CENTER B.V."
+  city: "ALMERE"
+  branch: null
+  swift: LGETNL21
+    
+- name: "LIBERTY GLOBAL EUROPE FINANCING BV"
+  city: "SCHIPHOL"
+  branch: TELENET
+  swift: LBTYNL2ATIF
+    
+- name: "LIBERTY GLOBAL EUROPE FINANCING BV"
+  city: "SCHIPHOL"
+  branch: null
+  swift: LBTYNL2A
+    
+- name: "LLOYDS BANK PLC."
+  city: "AMSTERDAM"
+  branch: LIQUIDITY
+  swift: LOYDNL21LIQ
+    
+- name: "LLOYDS BANK PLC."
+  city: "AMSTERDAM"
+  branch: null
+  swift: LOYDNL2A
+    
+- name: "LOMBARD ODIER (EUROPE) S.A. NETHERLANDS BRANCH V."
+  city: "AMSTERDAM"
+  branch: NDP DEPT
+  swift: LOCYNL2ANDP
+    
+- name: "LOMBARD ODIER (EUROPE) S.A. NETHERLANDS BRANCH V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: LOCYNL2A
+    
+- name: "LOYALIS FINANCIAL SERVICES N.V."
+  city: "SCHIPHOL"
+  branch: null
+  swift: LOFSNL21
+    
+- name: "LUMILEDS HOLDING B.V."
+  city: "EINDHOVEN"
+  branch: null
+  swift: LULENL2E
+    
+- name: "LUNAR VERMOGENSBEHEER B.V."
+  city: "DOORWERTH"
+  branch: null
+  swift: LUVENL21
+    
+- name: "LUYBEN EN BROUWER CAPITALMANAGEMENT B.V."
+  city: "IJSSELSTEIN"
+  branch: null
+  swift: LUBCNL21
+    
+- name: "LYNX B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: LYNXNL21
+    
+- name: "M EN M TRADING B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: TRGDNL21
+    
+- name: "M.A. EN J.H. DAMSTE BEHEER B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: DAMHNL21
+    
+- name: "MAAS EN VAN LINGEN VERMOGENSBEHEER B.V."
+  city: "ALMERE"
+  branch: null
+  swift: MALVNL21
+    
+- name: "MARKET MAKERS UNITED B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MMUNNL21
+    
+- name: "MARKET WIZARDS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MARWNL21
+    
+- name: "MARS NEDERLAND B.V."
+  city: "VEGHEL"
+  branch: null
+  swift: TWIXNLNL
+    
+- name: "MATH B.V."
+  city: "HAARLEM"
+  branch: null
+  swift: MTTHNL21
+    
+- name: "MATRIX ASSET MANAGEMENT B.V."
+  city: "DELFT"
+  branch: null
+  swift: MATMNL21
+    
+- name: "MAX EFFECT B.V."
+  city: "HAARLEM"
+  branch: null
+  swift: MAXENL21
+    
+- name: "MAYNARD EN KEYNES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MAYKNL21
+    
+- name: "MEEUS VERMOGENSBEHEER B.V."
+  city: "BREDA"
+  branch: null
+  swift: MEEVNL21
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK CO, LTD."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ICBCNL2A
+    
+- name: "MERRILL LYNCH B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MEYNNL21
+    
+- name: "METZLER NEDERLAND B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MENDNL21
+    
+- name: "MIJN BROKER BV"
+  city: "PURMEREND"
+  branch: null
+  swift: MBRONL21
+    
+- name: "MIJN EFFECTEN BV"
+  city: "PURMEREND"
+  branch: null
+  swift: MIJENL21
+    
+- name: "MINT TOWER CAPITAL MANAGEMENT B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MTCANL21
+    
+- name: "MIZUHO BANK EUROPE N.V."
+  city: "AMSTERDAM"
+  branch: 2ND COLLATERAL POOL
+  swift: MHCBNL2ADNB
+    
+- name: "MIZUHO BANK EUROPE N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MHCBNL2A
+    
+- name: "MMX TRADING BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: MMXTNL21
+    
+- name: "MN SERVICES"
+  city: "RIJSWIJK"
+  branch: null
+  swift: SEVSNL21
+    
+- name: "MN SERVICES NV (INVESTMENT MANAGE MENT)"
+  city: "DEN HAAG"
+  branch: null
+  swift: MNSNNL2APAY
+    
+- name: "MN SERVICES NV (INVESTMENT MANAGE MENT)"
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: MNSNNL2A
+    
+- name: "MN SERVICES NV (INVESTMENT MANAGEMENT)"
+  city: "RIJSWIJK"
+  branch: null
+  swift: MNSNNL22
+    
+- name: "MN SERVICES VERMOGENSBEHEER B.V."
+  city: "RIJSWIJK"
+  branch: null
+  swift: SEVENL21
+    
+- name: "MNF BANK N.V."
+  city: "CAPELLE AAN DEN IJSSEL"
+  branch: null
+  swift: MNFMNL21
+    
+- name: "MOLLEMA EN VAN TIL VERMOGENSBEHEER B.V."
+  city: "LEIDEN"
+  branch: null
+  swift: MOTVNL21
+    
+- name: "MOLLIE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MLLENL21
+    
+- name: "MONDIAEN CAPITAL MANAGEMENT N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MCANNL21
+    
+- name: "MONEYOU"
+  city: "AMSTERDAM"
+  branch: null
+  swift: MOYONL21
+    
+- name: "MR1 FUTURES B.V."
+  city: "SOEST"
+  branch: null
+  swift: FURENL21
+    
+- name: "MSREF VI HOLDING COOPERATIEF UA"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SHWPNL2A
+    
+- name: "MUFG BANK (EUROPE) N.V. AMSTERDAM (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (HOLLAND) N.V.)"
+  city: "AMSTERDAM"
+  branch: null
+  swift: BOTKNL2X
+    
+- name: "MUNNIK OPTIES EN FUTURES TRADING B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MOFTNL21
+    
+- name: "MY CAPITAL NETHERLANDS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CAHTNL21
+    
+- name: "N.V. DE VEREENIGDE EFFECTEN COMPAGNIE"
+  city: "EDAM"
+  branch: null
+  swift: VECPNL21
+    
+- name: "NATIONALE NEDERLANDEN FINANCIELE DIENSTEN B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: NNFDNL21
+    
+- name: "NATIONALE-NEDERLANDEN BANK N.V."
+  city: "DEN HAAG"
+  branch: TREASURY
+  swift: NNBANL2GTRY
+    
+- name: "NATIONALE-NEDERLANDEN BANK N.V."
+  city: "DEN HAAG"
+  branch: null
+  swift: NNBANL2G
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: ESES MIGRATION
+  swift: ESESNL2AMIG
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: ESIDC SERVICE
+  swift: ESESNL2A014
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: TARGET2
+  swift: ESESNL2AT2X
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ESESNL2A
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ESESNL2A777
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ESESNL2ACSD
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ESESNL2AFDB
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ESESNL2AINT
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ESESNL2AISS
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ESESNL2ALE1
+    
+- name: "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER"
+  city: "AMSTERDAM"
+  branch: null
+  swift: ESESNL2ALE2
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: AGENCY AMSTERDAM
+  swift: FLORNL2AAMD
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: CCBM
+  swift: FLORNL2ACCB
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: CONTROLLERS DEPARTMENT
+  swift: FLORNL2AFEB
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: CURRENCY DEPARTMENT
+  swift: FLORNL2ACUR
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: DNB/ESES CONTINGENCY ACCOUNT
+  swift: FLORNL2ACAC
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: DNB/ESES CROSS NCB POSITION WITH BDF
+  swift: FLORNL2AFRX
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: DNB/ESES CROSS NCB POSITION WITH NBB
+  swift: FLORNL2ABEX
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: DNB/ESES MIRROR/TECHNICAL ACCOUNT
+  swift: FLORNL2AECL
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: EURO OPERATIONS
+  swift: FLORNL2AEUR
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: FOREIGN EXCHANGE
+  swift: FLORNL2AFEX
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: GUILDERS FUNDS TRANSFER
+  swift: FLORNL2AGFT
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: TARGET2 ECB/NCB ACCOUNT
+  swift: FLORNL2AEUX
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ECMSNL2A
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ECMSNL2ACCB
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FLORNL2A
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FLORNL2ACAR
+    
+- name: "NEDERLANDSCHE BANK (DE) N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: FLORNL2ACON
+    
+- name: "NEDERLANDSCHE BETAAL EN WISSEL MAATSCHAPPIJ B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: NBWMNL2A
+    
+- name: "NEDERLANDSE FINANCIERINGS-MAATSCHAPPIJ VOOR ONTWIKKELINGSLANDEN N.V."
+  city: "DEN HAAG"
+  branch: null
+  swift: NFMONL2G
+    
+- name: "NEDERLANDSE WATERSCHAPSBANK N.V."
+  city: "DEN HAAG"
+  branch: null
+  swift: NWABNL2G
+    
+- name: "NEDERLANDSE WATERSCHAPSBANK N.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: NWABNL2GNMC
+    
+- name: "NEW HBU N.V."
+  city: "AMSTELVEEN"
+  branch: null
+  swift: NEHBNL21
+    
+- name: "NEWTRADE DERIVATIVES I B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: NEDINL21
+    
+- name: "NIBC BANK N.V."
+  city: "DEN HAAG"
+  branch: RETAIL MARKETS BRANCH 1
+  swift: DNIBNL2GRM1
+    
+- name: "NIBC BANK N.V."
+  city: "DEN HAAG"
+  branch: null
+  swift: DNIBNL2G
+    
+- name: "NIBC BANK N.V."
+  city: "DEN HAAG"
+  branch: null
+  swift: DNIBNL2GMAR
+    
+- name: "NIBC BANK N.V."
+  city: "DEN HAAG"
+  branch: null
+  swift: DNIBNL2GTG2
+    
+- name: "NIBC MARKETS N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: NIBQNL2A
+    
+- name: "NIBC PRIVATE INVESTMENT MANAGEMENT N.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: NPIANL21
+    
+- name: "NIDERA B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: NIHANL2R
+    
+- name: "NIEUWENHUYS BRINK CROMMELIN DUURZAAM VERMOGENSBEHEER B.V."
+  city: "WEESP"
+  branch: null
+  swift: NBCDNL21
+    
+- name: "NIKE 360 HOLDING BV"
+  city: "HILVERSUM"
+  branch: null
+  swift: NIKHNL21
+    
+- name: "NIKE ELEVATE CV"
+  city: "HILVERSUM"
+  branch: null
+  swift: NIELNL21
+    
+- name: "NIKE EUROPE HOLDING B.V."
+  city: "HILVERSUM"
+  branch: null
+  swift: NIEHNL21
+    
+- name: "NIKE EUROPEAN OPERATIONS NETHERLAND S B.V."
+  city: "HILVERSUM"
+  branch: null
+  swift: NIKENL21
+    
+- name: "NIKE FUNDAMENTALS CV"
+  city: "HILVERSUM"
+  branch: null
+  swift: NIFDNL21
+    
+- name: "NIKE INNOVATE CV"
+  city: "HILVERSUM"
+  branch: null
+  swift: NIKVNL21
+    
+- name: "NIKE SPHERE C.V."
+  city: "HILVERSUM"
+  branch: null
+  swift: NIPPNL21
+    
+- name: "NIKE SWIFT B.V."
+  city: "HILVERSUM"
+  branch: null
+  swift: NIKENL31
+    
+- name: "NIKE TRADING COMPANY B.V. SINGAPORE BRANCH"
+  city: "HILVERSUM"
+  branch: null
+  swift: NTCINL21
+    
+- name: "NIKE TRADING COMPANY BV"
+  city: "HILVERSUM"
+  branch: null
+  swift: NITCNL21
+    
+- name: "NIKKO BANK (NEDERLAND) N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: NIKNNL21
+    
+- name: "NLD ASSET MANAGEMENT B.V."
+  city: "HOUTEN"
+  branch: null
+  swift: NLAMNL21
+    
+- name: "NN GROUP N.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: NNGRNL2G
+    
+- name: "NN INVESTMENT PARTNERS"
+  city: "DEN HAAG"
+  branch: null
+  swift: INGINL2G
+    
+- name: "NN INVESTMENT PARTNERS"
+  city: "THE HAGUE"
+  branch: null
+  swift: INGINL2H
+    
+- name: "NOMURA ASIA HOLDING N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: NAHLNL2A
+    
+- name: "NOMURA NEDERLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: NOMNNL21
+    
+- name: "NOORDAM VERMOGENSBEHEER B.V."
+  city: "BAARN"
+  branch: null
+  swift: NVERNL21
+    
+- name: "NOORDNEDERLANDS EFFEKTENKANTOOR B.V."
+  city: "GRONINGEN"
+  branch: null
+  swift: NOEFNL21
+    
+- name: "NPEX B.V."
+  city: "DEN HAAG"
+  branch: null
+  swift: NPEXNL21
+    
+- name: "NV BANK NEDERLANDSE GEMEENTEN"
+  city: "DEN HAAG"
+  branch: null
+  swift: BNGHNL2G
+    
+- name: "NV BANK NEDERLANDSE GEMEENTEN"
+  city: "DEN HAAG"
+  branch: null
+  swift: BNGHNL2GNMC
+    
+- name: "NV SETTLEMENT BANK OF THE NETHERLANDS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SBNLNL2A
+    
+- name: "NXCHANGE BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: NXCHNL21
+    
+- name: "NXCHANGE BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: NXCHNL21AMS
+    
+- name: "NYENBURGH BEHEER N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: NYENNL21
+    
+- name: "OFFICE DEPOT FINANCE B.V."
+  city: "VENLO"
+  branch: null
+  swift: ODEFNL2V
+    
+- name: "OHRA BANK N.V."
+  city: "ARNHEM"
+  branch: null
+  swift: OHAANL21
+    
+- name: "OHV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: OHVONL21
+    
+- name: "ONAFHANKELIJK VERMOGENSBEHEER 'S GRAVENHAGE B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: ONVGNL21
+    
+- name: "OOLDERS, HEIJNING EN VOOGELAAR B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: OOHVNL21
+    
+- name: "OPTIMA OPTIONS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: OPOPNL21
+    
+- name: "OPTIMIX VERMOGENSBEHEER N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: OPVENL21
+    
+- name: "OPTIONSXPRESS EUROPE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: OPTENL21
+    
+- name: "OPTIVER VOF"
+  city: "AMSTERDAM"
+  branch: null
+  swift: OPTVNL21
+    
+- name: "OPTIVER VOF"
+  city: "AMSTERDAM"
+  branch: null
+  swift: OPTVNL21IVE
+    
+- name: "OPTRA V.O.F."
+  city: "AMSTERDAM"
+  branch: null
+  swift: OPVONL21
+    
+- name: "OPTRIX V.O.F."
+  city: "AMSTERDAM"
+  branch: null
+  swift: OPTFNL21
+    
+- name: "ORANGINA SCHWEPPES HOLDING B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: OSCHNL2A
+    
+- name: "ORANJEVESTE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ORANNL21
+    
+- name: "OYENS AND VAN EEGHEN WHOLESALE BROKERAGE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: OEWBNL21
+    
+- name: "PAEREL TRADING PARTNERS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PTRPNL21
+    
+- name: "PALLADYNE ASSET MANAGEMENT B.V."
+  city: "WEESP"
+  branch: null
+  swift: PASNNL21
+    
+- name: "PANASONIC GLOBAL TREASURY CENTER B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PANANL21
+    
+- name: "PBI SECURITIES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PBISNL21
+    
+- name: "PENSIOENFONDS DSM NEDERLAND"
+  city: "HEERLEN"
+  branch: null
+  swift: PEDNNL21
+    
+- name: "PENSIOENFONDS NEDERLANDSE BISDOMMEN"
+  city: "AMSTERDAM"
+  branch: null
+  swift: PENMNL21
+    
+- name: "PENSIOENFONDS OPENBAAR VERVOER"
+  city: "UTRECHT"
+  branch: null
+  swift: PEOVNL21
+    
+- name: "PENSIOENFONDS SABIC"
+  city: "HEERLEN"
+  branch: null
+  swift: PEABNL21
+    
+- name: "PENSIOENFONDS WERK (RE)INTEGRATIE"
+  city: "UTRECHT"
+  branch: null
+  swift: PEWRNL21
+    
+- name: "PEREGRINE TRADERS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PTRENL21
+    
+- name: "PERFETTI VAN MELLE HOLDING B.V."
+  city: "BREDA"
+  branch: null
+  swift: PEMHNL22
+    
+- name: "PETERCAM NEDERLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PECSNL21
+    
+- name: "PETRUS WEALTH MANAGEMENT B.V."
+  city: "HOEVEN"
+  branch: null
+  swift: PEWMNL21
+    
+- name: "PGGM"
+  city: "ZEIST"
+  branch: null
+  swift: PGGMNL22
+    
+- name: "PHILIPS LIGHTING HOLDING B.V."
+  city: "EINDHOVEN"
+  branch: null
+  swift: LSOLNL2E
+    
+- name: "PHILIPSE EN CO B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PHIPNL21
+    
+- name: "PON HOLDINGS B.V."
+  city: "ALMERE"
+  branch: null
+  swift: PONHNL22
+    
+- name: "POSTBANK GROEN N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: GRNNNL21
+    
+- name: "PPG FINANCE B.V."
+  city: "UITHOORN"
+  branch: null
+  swift: PPGINL22
+    
+- name: "PRINCIPAL TRADING NETHERLANDS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PRTHNL21
+    
+- name: "PRIVATE FINANCE B.V."
+  city: "LELYSTAD"
+  branch: null
+  swift: PRVFNL21
+    
+- name: "PRO ASSET MANAGEMENT B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PAMENL21
+    
+- name: "PROVENTUS B.V."
+  city: "MIDDELBURG"
+  branch: null
+  swift: PRVNNL21
+    
+- name: "PROVIDENCE CAPITAL N.V."
+  city: "BUSSUM"
+  branch: null
+  swift: PRVCNL21
+    
+- name: "PVF NEDERLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PVNDNL21
+    
+- name: "PVH EUROPE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: PVHENL2A
+    
+- name: "QUANTRUST VERMOGENSBEHEER B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: QUVENL21
+    
+- name: "QV MANAGEMENT B.V."
+  city: "WASSENAAR"
+  branch: null
+  swift: MAGMNL21
+    
+- name: "RABOBANK"
+  city: "UTRECHT"
+  branch: FOR CLS ONLY
+  swift: RABONL2UCLS
+    
+- name: "RABOBANK"
+  city: "UTRECHT"
+  branch: ONLY USE ON REQUEST
+  swift: RABONL2UBRO
+    
+- name: "RABOBANK"
+  city: "UTRECHT"
+  branch: ONLY USE ON REQUEST
+  swift: RABONL2UCLT
+    
+- name: "RABOBANK"
+  city: "UTRECHT"
+  branch: ONLY USE ON REQUEST
+  swift: RABONL2UIBS
+    
+- name: "RABOBANK"
+  city: "UTRECHT"
+  branch: ONLY USE ON REQUEST
+  swift: RABONL2UPBO
+    
+- name: "RABOBANK"
+  city: "UTRECHT"
+  branch: ONLY USE ON REQUEST
+  swift: RABONL2USCR
+    
+- name: "RABOBANK"
+  city: "UTRECHT"
+  branch: RABOBANK SECURITIES
+  swift: RABONL2URSA
+    
+- name: "RABOBANK"
+  city: "UTRECHT"
+  branch: UTRECHT EQUITY FINANCE, FOR ESES CASH ACCOUNT ONLY
+  swift: RABONL2UUEF
+    
+- name: "RABOBANK"
+  city: "UTRECHT"
+  branch: null
+  swift: RABONL2U
+    
+- name: "RAET BV"
+  city: "AMERSFOORT"
+  branch: null
+  swift: RAETNL21
+    
+- name: "RAIFFEISEN SWITZERLAND B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: RASZNL21
+    
+- name: "RBC FINANCE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ROYCNL21
+    
+- name: "REGIOBANK"
+  city: "UTRECHT"
+  branch: null
+  swift: RBRBNL21
+    
+- name: "REICHHOLD FINANCE BV"
+  city: "ROTTERDAM"
+  branch: null
+  swift: REIFNL2R
+    
+- name: "REWE INTERNATIONAL FINANCE B.V."
+  city: "VENLO"
+  branch: null
+  swift: RENNNL21
+    
+- name: "RIBO INVESTMENTS B.V."
+  city: "DORDRECHT"
+  branch: null
+  swift: RIBNNL21
+    
+- name: "RIJNLANDSE BANK N.V."
+  city: "UTRECHT"
+  branch: null
+  swift: RIJNNL21
+    
+- name: "RITZER EN ROUW PRIVATE MANAGEMENT B.V."
+  city: "VELDHOVEN"
+  branch: null
+  swift: RRPANL21
+    
+- name: "RIVER OPTIONS AND FUTURES TRADING B.V."
+  city: "MAASBOMMEL"
+  branch: null
+  swift: ROFTNL21
+    
+- name: "RIWAL FINANCE B.V."
+  city: "DORDRECHT"
+  branch: null
+  swift: RIWLNL2D
+    
+- name: "ROBECO EFFECTENBANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ROEFNL21
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RGVMNL2R
+  swift: RGVMNL2RBON
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RGVMNL2R
+  swift: RGVMNL2RSAB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RABA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RAVE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RBBK
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RBLT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RBOO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCAE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCAL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCAT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCIN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCLF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCLL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCON
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCOV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCRE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCRL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RCYG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RDAK
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RDAR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RDCO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RDIE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RDIS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RDUN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RELR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2REQA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RFAT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RFLY
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RGAS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RGAZ
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RGEO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RHAU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RHEL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RHIP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RJEJ
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RKAM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RKAR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RKOW
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RLEO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RLOT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RMAP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RMEG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RMIN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RMOT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RORB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RORL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RPA2
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RPFA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RPIT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RPLS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RPRO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RPVL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RRDT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RREI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RRIN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RRRU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RRUY
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RSAL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RSFN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RSP1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RSUW
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RSYC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RTAA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RTAN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RTRA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RTRU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RUMT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RVET
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RVLE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RVUV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RWOO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: RIAM
+  swift: RGVMNL2RYUC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGVMNL2RPFR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: SANTA MARIA
+  swift: RGVMNL2RSAM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R001
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R002
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R003
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R004
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R005
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R006
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R007
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R008
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R009
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R010
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R011
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R012
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R013
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R014
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R015
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R016
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R017
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R018
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R019
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R020
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R021
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R022
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R023
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R024
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R025
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R026
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R027
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R028
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R029
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R030
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R031
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R032
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R033
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R034
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R035
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R036
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R037
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R038
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R039
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R040
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R041
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R042
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R043
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R044
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R045
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R046
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R047
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R048
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R049
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R050
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R051
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R052
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R053
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R054
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R055
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R056
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R057
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R058
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R059
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R060
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R061
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R062
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R063
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R064
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R065
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R066
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R067
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R068
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R069
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R070
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R071
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R072
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R073
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R074
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R075
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R076
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R077
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R078
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R079
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R080
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R081
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R082
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R083
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R084
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R085
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R086
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R087
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R088
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R089
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R090
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R091
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R092
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R093
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R094
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R095
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R096
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R097
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R098
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R099
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R100
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R101
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R102
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R103
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R104
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R105
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R106
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R107
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R108
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R109
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R10L
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R110
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R111
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R112
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R113
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R114
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R115
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R116
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R117
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R118
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R119
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R120
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R121
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R122
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R123
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R124
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R125
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R126
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R127
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R128
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R129
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R130
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R131
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R132
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R133
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R134
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R135
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R136
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R137
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R138
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R139
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R140
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R141
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R142
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R143
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R144
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R145
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R146
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R147
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R148
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R149
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R150
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R151
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R152
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R153
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R154
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R155
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R156
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R157
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R158
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R159
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R160
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R161
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R162
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R163
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R164
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R165
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R166
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R167
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R168
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R169
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R170
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R171
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R172
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R173
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R174
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R175
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R176
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R177
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R178
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R179
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R180
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R181
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R182
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R183
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R184
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R185
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R186
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R187
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R188
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R189
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R190
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R191
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R192
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R193
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R194
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R195
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R196
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R197
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R198
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R199
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R200
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R201
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R202
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R203
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R204
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R205
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R206
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R207
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R208
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R209
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R210
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R211
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R212
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R213
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R214
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R215
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R216
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R217
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R218
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R219
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R220
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R221
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R222
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R223
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R224
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R225
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R226
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R227
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R228
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R229
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R230
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R231
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R232
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R233
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R234
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R235
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R236
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R237
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R238
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R239
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R240
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R241
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R242
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R243
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R244
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R245
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R246
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R247
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R248
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R249
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R250
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2R40L
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RA15
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RA20
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RA25
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RA30
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RA35
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RA40
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RABL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RACG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAGA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAGB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAKI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RALA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RALE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAMA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAMI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RANA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RANN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAPN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RARE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAS1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RASG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RASU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RATE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAU1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAU2
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAU3
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RAUG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RBAK
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RBAL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RBLA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RBPD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RBUC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCCE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCCO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCDE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCE1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCE7
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCE8
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCEH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCER
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCFW
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCGI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCLE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCLI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCLM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCOB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCOO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCPE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCRS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCUB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RCUU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RDEF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RDHC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RDHO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RDIN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RDNE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RDOM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RDST
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RDUU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RDYN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RE13
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REBN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REC1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REC7
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REC8
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RECB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REFG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REGB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RELD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REM1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REMN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REMQ
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REMS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REMT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REMV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REN2
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RENE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RERA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RESC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REUN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REVO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2REXC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RFA2
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RFCD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RFCI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RFEU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RFIB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RFIE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RFII
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RFIP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RGCE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RGCS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RGFR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RGGT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RGLF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RGLK
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RGLV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RGSR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RGTA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RH13
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHAL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHB0
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHBH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHBU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHBZ
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHCI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHFG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHIF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHOF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHON
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHY0
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHYA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RHYF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RIEH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RIFD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RIGB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RIGC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RIGH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RIH1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RINF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RIUI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RKAI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RKPL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RLAT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RLCD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RLCE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RLCX
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RLED
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RLFH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RLGH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RLON
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RLUD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RLUF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RMAG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RMEN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RMIR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RMLT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RMNK
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RMOM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RMSA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RNEK
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RNEM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RNEW
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RNIK
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RNIS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RNOM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RNSE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2ROBE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2ROFF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2ROIU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2ROK3
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2ROMH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2ROMI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RONY
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2ROR2
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2ROR3
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2ROR4
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RP10
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RP11
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RP12
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RP13
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RP14
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RP15
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RP16
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPB1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPB2
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPB3
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPB4
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPB5
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPB6
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPB7
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPB8
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPB9
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPEP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPIH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPOP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RPRR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RQE5
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RQEI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RQEM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RQSG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR01
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR02
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR03
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR04
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR05
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR06
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR07
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR08
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR45
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR50
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR55
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RR60
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRAF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRAG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRBN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRCP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RREE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RREJ
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRFE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRFU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRMI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRNL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRO1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRO3
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRO4
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRO5
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RROB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RROF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RROL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RROP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RROR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RROS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRRE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRSL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRTS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRUB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRUH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RRUS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSAA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSAF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSC1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSIO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSKA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSMA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSPD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSPG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSTB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSTS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RSUB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RTEL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RTIN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RTOP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RTR2
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RTRC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RTRI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RTRV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RUBX
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RUDH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RUIE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RUIH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RUIL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RUMH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RUPE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RUS3
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RUSF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RUSL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RVL4
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RVLV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RWAD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RWDS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RWOR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RWTS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RWTV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RYBH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGVMNL2RZEU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21P10
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21P11
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21P12
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21P13
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21P14
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21P15
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21P16
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21PB2
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21PB3
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21PB4
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21PB5
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21PB6
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21PB7
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21PB8
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: RGRBNL2R
+  swift: RGRBNL21PB9
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21AMI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21BAL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21BIO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21BMI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21DIV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21DUU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21DYN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21EUD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21HBZ
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21HDM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21HIF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21HMX
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21HYO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21ICA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21ICB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21IG1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21IG2
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21IG3
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21OMI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21OPA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21RAF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21RCP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21RMI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21ROB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21ROL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21ROP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21ROR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21ROZ
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21RPE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21RSL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21RUB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21SFM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21SOM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: ROBECO NEDERLAND
+  swift: RGRBNL21TOP
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21001
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21002
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21003
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21004
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21005
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21006
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21007
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21008
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21009
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21010
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL2110L
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL2140L
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21A15
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21A20
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21A25
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21A30
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21A35
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21A40
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21ACG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21AGA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21AGB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21AMA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21APN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21ARE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21AS1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21ASU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21BPD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CCE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CCO
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CDE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CE1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CE7
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CE8
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CEH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CFW
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CGI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CLI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21COB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CPE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CUB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21CUU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21DEF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21DHC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21DNE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21E13
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EBN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EC1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EC7
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EC8
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21ECB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EDS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EFG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EGB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EM1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EM4
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EMN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EMQ
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EMS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EMT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EMV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21ENE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21ESC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EUN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21EXC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21FCD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21FCI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21FEU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21FIB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21FIE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21FII
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21GCE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21GCS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21GFR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21GGT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21GLF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21GLK
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21GLV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21GSR
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21GTA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21H13
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21HAL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21HB0
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21HBH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21HBU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21HCI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21HY0
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21HYA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21IEH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21IFD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21IGB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21IGC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21IGH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21IH1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21INF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21IUI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21LCD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21LCE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21LCX
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21LFH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21LGH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21LUD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21LUF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21MLT
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21MOM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21MSA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21NEM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21NIK
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21NOM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21OFF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21OIU
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21OMH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21ONY
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21PB1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21PIH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21QE5
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21QEI
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21QEM
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21QSG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R01
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R02
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R03
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R04
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R05
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R06
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R07
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R08
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R09
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R10
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R11
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R12
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R13
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R14
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R15
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R16
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R17
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R18
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R19
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R20
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R45
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R50
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R55
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21R60
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21RBA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21RBB
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21RBN
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21RO1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21RO3
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21RO4
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21RO5
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21ROF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21RTS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21RUH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21RUS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21SAF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21SC1
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21SMA
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21SPG
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21UBX
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21UDH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21UIE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21UIH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21UIL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21UMH
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21UPE
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21US3
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21USC
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21USF
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21USL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21VAL
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21WAD
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21WDS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21WTS
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21WTV
+    
+- name: "ROBECO INSTITUTIONAL ASSET MANAGEMENT BV/FUNDS"
+  city: "ROTTERDAM"
+  branch: null
+  swift: RGRBNL21YBH
+    
+- name: "ROBECO SECURITIES LENDING B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: RSELNL21
+    
+- name: "ROBEIN BANK N.V."
+  city: "DEN HAAG"
+  branch: null
+  swift: ROBNNL21
+    
+- name: "ROCHE DIABETES CARE NEDERLAND B.V."
+  city: "ALMERE"
+  branch: null
+  swift: RODCNL22
+    
+- name: "ROCHE PHARMHOLDING B.V."
+  city: "WOERDEN"
+  branch: null
+  swift: ROCHNL22
+    
+- name: "ROKU OPTION TRADERS B.V."
+  city: "NAARDEN"
+  branch: null
+  swift: ROPTNL21
+    
+- name: "ROPAL OPTIES B.V."
+  city: "LEUSDEN"
+  branch: null
+  swift: ROPINL21
+    
+- name: "ROPARCO N.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: ROPANL21
+    
+- name: "ROTHMANS FAR EAST B.V."
+  city: "AMSTELVEEN"
+  branch: null
+  swift: BATSNL21
+    
+- name: "ROUWS EN CEULEN BUREAU VOOR VERMOGENSBEHEER"
+  city: "BREDA"
+  branch: null
+  swift: RCBVNL21
+    
+- name: "RV CAPITAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: CPAINL21
+    
+- name: "RVO VERMOGENSADVIES B.V."
+  city: "LIMMEN"
+  branch: null
+  swift: RVOVNL21
+    
+- name: "SABIC CAPITAL BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SBBVNL2A
+    
+- name: "SABMILLER PLC"
+  city: "ROTTERDAM"
+  branch: null
+  swift: SABMNL21
+    
+- name: "SABMILLER PLC"
+  city: "ROTTERDAM"
+  branch: null
+  swift: SABMNL21AFR
+    
+- name: "SABMILLER PLC"
+  city: "ROTTERDAM"
+  branch: null
+  swift: SABMNL21BOT
+    
+- name: "SABMILLER PLC"
+  city: "ROTTERDAM"
+  branch: null
+  swift: SABMNL21MAN
+    
+- name: "SAEN OPTIONS BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SAOPNL21
+    
+- name: "SAEN TRADING B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: SATDNL21
+    
+- name: "SAENED B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: SAEDNL21
+    
+- name: "SAIPEM FINANCE INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: SPMFNL2A
+    
+- name: "SAMSUNG ELECTRONICS AIR CONDITIONER EUROPE B.V."
+  city: "SCHIPHOL"
+  branch: null
+  swift: SECTNL31
+    
+- name: "SAMSUNG ELECTRONICS EUROPE LOGISTICS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SECTNL214N0
+    
+- name: "SAMSUNG ELECTRONICS EUROPE LOGISTICS"
+  city: "DELFT"
+  branch: SEBN
+  swift: SECTNL214B1
+    
+- name: "SAMSUNG ELECTRONICS EUROPE LOGISTICS"
+  city: "DELFT"
+  branch: SELS
+  swift: SECTNL214B0
+    
+- name: "SAMSUNG ELECTRONICS EUROPE LOGISTICS"
+  city: "DELFT"
+  branch: SEO
+  swift: SECTNL214C0
+    
+- name: "SAMSUNG ELECTRONICS EUROPE LOGISTICS"
+  city: "DELFT"
+  branch: STBN
+  swift: SECTNL214B3
+    
+- name: "SAMSUNG ELECTRONICS EUROPE LOGISTICS"
+  city: "DELFT"
+  branch: null
+  swift: SECTNL21
+    
+- name: "SARES INVEST B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: SARNNL21
+    
+- name: "SCHIPHOL NEDERLAND B.V."
+  city: "SCHIPHOL"
+  branch: null
+  swift: SCHINL2A
+    
+- name: "SCHLUMBERGER FINANCE BV"
+  city: "DEN HAAG"
+  branch: null
+  swift: SFBVNL2G
+    
+- name: "SCHLUMBERGER FINANCE BV"
+  city: "DEN HAAG"
+  branch: null
+  swift: SFBVNL2GSHB
+    
+- name: "SCROCCA OPTION TRADING B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: SCOGNL21
+    
+- name: "SCROCCA OPTION TRADING B.V."
+  city: "CASTRICUM"
+  branch: null
+  swift: SCPDNL21
+    
+- name: "SEQUOIA VERMOGENSBEHEER V.O.F."
+  city: "OOSTERBEEK"
+  branch: null
+  swift: SEVONL21
+    
+- name: "SGG NETHERLANDS N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: SGGANL2A
+    
+- name: "SHELL ASSET MANAGEMENT COMPANY B.V."
+  city: "RIJSWIJK"
+  branch: null
+  swift: SHELNL2G
+    
+- name: "SHELL E-BANKING"
+  city: "THE HAGUE"
+  branch: null
+  swift: SHEKNL21
+    
+- name: "SHV HOLDINGS NV"
+  city: "UTRECHT"
+  branch: null
+  swift: SHVUNL2U
+    
+- name: "SIBERIE OPTIONS N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: SCVENL21
+    
+- name: "SIMON A. COHEN VERMOGENSBEHEER B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: SCVRNL21
+    
+- name: "SJS MARKETS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: SJMANL21
+    
+- name: "SMART TRADING"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SMTRNL21
+    
+- name: "SNS"
+  city: "UTRECHT"
+  branch: null
+  swift: ZWLBNL21
+    
+- name: "SOCIALE VERZEKERINGSBANK"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: SOVENL2A
+    
+- name: "SOCIALE VERZEKERINGSBANK"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: SOVENL31
+    
+- name: "SOCIETE FINANCIERE ET FONCIERE"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SOFFNL21
+    
+- name: "SOCIETE GENERALE"
+  city: "AMSTERDAM"
+  branch: SG AMSTERDAM TRADE SERVICE
+  swift: SOGENL2ATRA
+    
+- name: "SOCIETE GENERALE"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SOGENL2A
+    
+- name: "SPAAR- EN VOORSCHOTBANK NV"
+  city: "SURHUISTERVEEN"
+  branch: null
+  swift: SVOONL21
+    
+- name: "SPF BEHEER  B.V."
+  city: "UTRECHT"
+  branch: null
+  swift: SPFENL2U
+    
+- name: "SPF BEHEER  B.V."
+  city: "UTRECHT"
+  branch: null
+  swift: SPFENL2USPF
+    
+- name: "SPF BEHEER  B.V."
+  city: "UTRECHT"
+  branch: null
+  swift: SPFENL2USPV
+    
+- name: "SPF VERMOGENSBEHEER B.V."
+  city: "HEEMSTEDE"
+  branch: null
+  swift: SPVENL21
+    
+- name: "SPIRE EUROPE LIMITED AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SEMNNL21
+    
+- name: "SPOORWEGPENSIOENFONDS"
+  city: "UTRECHT"
+  branch: null
+  swift: SPORNL21
+    
+- name: "ST. BPF VLAKGLAS"
+  city: "HEERLEN"
+  branch: null
+  swift: BPVLNL21
+    
+- name: "STATE STREET BANK INTERNATIONAL GMBH AMSTERDAM BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SBOSNL2A
+    
+- name: "STEENTJES VERMOGENSBEHEER B.V."
+  city: "BREDA"
+  branch: null
+  swift: STVRNL21
+    
+- name: "STELLIO DESIGN"
+  city: "ALBLASSERDAM"
+  branch: null
+  swift: STDENL21
+    
+- name: "STICHTING ALGEMEEN PENSIOENFONDS KLM"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: SAEKNL21
+    
+- name: "STICHTING ANWB BEWAAR"
+  city: "DEN HAAG"
+  branch: null
+  swift: STNWNL21
+    
+- name: "STICHTING AXA BELEGGINGSREKENING"
+  city: "UTRECHT"
+  branch: null
+  swift: STXBNL21
+    
+- name: "STICHTING BEDRIJFSPENSIOENFONDS VOOR DE LANDBOUW"
+  city: "WOERDEN"
+  branch: null
+  swift: SBLDNL21
+    
+- name: "STICHTING BEDRIJFSTAKPENSIOENFONDS VOOR DE DETAILHANDEL"
+  city: "UTRECHT"
+  branch: null
+  swift: STBHNL21
+    
+- name: "STICHTING BEDRIJFSTAKPENSIOENFONDS VOOR DE PARTICULIERE BEVEILIGING"
+  city: "UTRECHT"
+  branch: null
+  swift: SBPENL21
+    
+- name: "STICHTING BEDRIJFSTAKPENSIOENFONDS VOOR DE SCHOEN-, LEDER- EN LEDERWARENINDUSTRIE"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: SBSDNL21
+    
+- name: "STICHTING BELEGGINGSREKENING ANT-TRUST"
+  city: "AMSTERDAM"
+  branch: null
+  swift: STBNNL21
+    
+- name: "STICHTING DEGIRO"
+  city: "AMSTERDAM"
+  branch: null
+  swift: STDGNL21
+    
+- name: "STICHTING DEPOSITOGARANTIEFONDS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: STDINL21
+    
+- name: "STICHTING PENSIOENFONDS AHOLD"
+  city: "ZAANDAM"
+  branch: null
+  swift: STNHNL21
+    
+- name: "STICHTING PENSIOENFONDS ALLIANCE"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: STDANL21
+    
+- name: "STICHTING PENSIOENFONDS ASTELLAS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: STFTNL21
+    
+- name: "STICHTING PENSIOENFONDS ATOS"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: STDTNL21
+    
+- name: "STICHTING PENSIOENFONDS AZL"
+  city: "AMSTERDAM"
+  branch: null
+  swift: STNZNL21
+    
+- name: "STICHTING PENSIOENFONDS BALLAST NEDAM"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SPTDNL21
+    
+- name: "STICHTING PENSIOENFONDS BLUE SKY GROUP"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: SPBYNL21
+    
+- name: "STICHTING PENSIOENFONDS CAP GEMINI NEDERLAND"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SEPGNL21
+    
+- name: "STICHTING PENSIOENFONDS CRODA"
+  city: "AMSTERDAM"
+  branch: null
+  swift: STSDNL21
+    
+- name: "STICHTING PENSIOENFONDS ERIKS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: STNKNL21
+    
+- name: "STICHTING PENSIOENFONDS GAZELLE"
+  city: "AMSTERDAM"
+  branch: null
+  swift: STEZNL21
+    
+- name: "STICHTING PENSIOENFONDS HOOGOVENS"
+  city: "IJMUIDEN"
+  branch: null
+  swift: STPHNL21
+    
+- name: "STICHTING PENSIOENFONDS HUNTSMAN ROZENBURG"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SPHZNL21
+    
+- name: "STICHTING PENSIOENFONDS KLM-CABINEPERSONEEL"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: STPKNL21
+    
+- name: "STICHTING PENSIOENFONDS METAAL EN TECHNIEK"
+  city: "RIJSWIJK"
+  branch: null
+  swift: SPMTNL21
+    
+- name: "STICHTING PENSIOENFONDS NIBC"
+  city: "DEN HAAG"
+  branch: null
+  swift: SPNNNL21
+    
+- name: "STICHTING PENSIOENFONDS OPENBARE BIBLIOTHEKEN"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SPNHNL21
+    
+- name: "STICHTING PENSIOENFONDS PGB"
+  city: "AMSTERDAM"
+  branch: null
+  swift: GRBENL21
+    
+- name: "STICHTING PENSIOENFONDS RECREATIE"
+  city: "UTRECHT"
+  branch: null
+  swift: SPDRNL21
+    
+- name: "STICHTING PENSIOENFONDS STAPLES"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SPNPNL21
+    
+- name: "STICHTING PENSIOENFONDS STAPLES"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SPNPNL21CM1
+    
+- name: "STICHTING PENSIOENFONDS STAPLES"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SPNPNL21CM2
+    
+- name: "STICHTING PENSIOENFONDS STAPLES"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SPNPNL21OPT
+    
+- name: "STICHTING PENSIOENFONDS TANDARTSEN EN TANDARTSSPECIALISTEN"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SPTPNL21
+    
+- name: "STICHTING PENSIOENFONDS TNO"
+  city: "RIJSWIJK"
+  branch: null
+  swift: SPFTNL21
+    
+- name: "STICHTING PENSIOENFONDS VOOR HET VLIEGEND PERSONEEL KLM"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: SPHHNL21
+    
+- name: "STICHTING PENSIOENFONDS WILL NIEMEIJER"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SPWJNL21
+    
+- name: "STICHTING TOTAL PENSIOENFONDS NEDERLAND"
+  city: "AMSTELVEEN"
+  branch: null
+  swift: STNENL21
+    
+- name: "STICHTING TRUST PENSIOENFONDS PVF N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: STPPNL21
+    
+- name: "STICHTING VAKBONDSSPAARBANK SPN"
+  city: "AMSTERDAM"
+  branch: null
+  swift: STVSNL21
+    
+- name: "STOCKWAVE ORDER EXECUTION B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: STOUNL21
+    
+- name: "STOM EN GEUSEBROEK B.V."
+  city: "AMSTELVEEN"
+  branch: null
+  swift: STGENL21
+    
+- name: "STROEVE EN CO. BREDA N.V."
+  city: "BREDA"
+  branch: null
+  swift: STBENL21
+    
+- name: "STX FIXED INCOME BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: STXINL21
+    
+- name: "SUBWAY INTERNATIONAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: SUBTNL21
+    
+- name: "SUCDEN (UK) LTD."
+  city: "ZEIST"
+  branch: null
+  swift: SCDDNL21
+    
+- name: "SUMICLEAR EUROPE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: SUCLNL21
+    
+- name: "SUMMER TRADERS B.V."
+  city: "NAARDEN"
+  branch: null
+  swift: SUMRNL21
+    
+- name: "SVENSKA HANDELSBANKEN (PUBL) AB"
+  city: "SCHIPHOL"
+  branch: null
+  swift: HANDNL2A
+    
+- name: "SWIFT CUSTOMER SERVICE CENTRE EUROPE"
+  city: "CUSTOMER SERVICE CENTRE EUROPE"
+  branch: ORDERING AND BILLING SERVICES
+  swift: SWHQNLNLSVC
+    
+- name: "SWIFT CUSTOMER SERVICE CENTRE EUROPE"
+  city: "CUSTOMER SERVICE CENTRE EUROPE"
+  branch: null
+  swift: SWHQNLNL
+    
+- name: "SWISS LIFE ASSET MANAGEMENT (NEDERLAND) B.V."
+  city: "AMSTELVEEN"
+  branch: null
+  swift: SLSNNL21
+    
+- name: "TAPPEL TRADING B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: TAPRNL21
+    
+- name: "TD BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: TDOMNL2A
+    
+- name: "TEKA B.V."
+  city: "HOOFDDORP"
+  branch: null
+  swift: TEBVNL22
+    
+- name: "TENE EFFECTEN B.V."
+  city: "ZEIST"
+  branch: null
+  swift: TENENL21
+    
+- name: "TEULINGS VAN DER HOEVEN VAN BEUNINGEN VERMOGENSBEHEER"
+  city: "VUGHT"
+  branch: null
+  swift: THBVNL21
+    
+- name: "THE HAGUE OPTIONS I B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: HAOPNL21
+    
+- name: "THE LAST LAP B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: LLAPNL21
+    
+- name: "THE ROYAL BANK OF SCOTLAND N.V."
+  city: "AMSTERDAM"
+  branch: EQUITY OPERATIONS
+  swift: RBOSNL2XEQT
+    
+- name: "THE ROYAL BANK OF SCOTLAND N.V."
+  city: "AMSTERDAM"
+  branch: GLOBAL BANKING AND MARKETS OPERATIONS
+  swift: RBOSNL2RTCM
+    
+- name: "THE ROYAL BANK OF SCOTLAND N.V."
+  city: "AMSTERDAM"
+  branch: MARKETS AND INT'L BANKING OPERATIONS
+  swift: RBOSNL2XTCM
+    
+- name: "THE ROYAL BANK OF SCOTLAND N.V."
+  city: "AMSTERDAM"
+  branch: RBS NV GBM LOAN OPERATIONS
+  swift: RBOSNL2RGLO
+    
+- name: "THE ROYAL BANK OF SCOTLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: RBOSNL2R
+    
+- name: "THE ROYAL BANK OF SCOTLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: RBOSNL2X
+    
+- name: "THE ROYAL BANK OF SCOTLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: RBOSNLNV
+    
+- name: "THEODOOR GILISSEN BANKIERS N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: GILLNL2A
+    
+- name: "THETA CAPITAL MANAGEMENT B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: THCMNL21
+    
+- name: "TIBRA TRADING NETHERLANDS B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: TITNNL21
+    
+- name: "TIELKEMEIJER EN PARTNERS VERMOGENSBEHEER B.V."
+  city: "CAPELLE AAN DEN IJSSEL"
+  branch: null
+  swift: TIPVNL21
+    
+- name: "TIP TRAILER SERVICES MANAGEMENT BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: TIPPNL2A
+    
+- name: "TKP INVESTMENTS BV"
+  city: "GRONINGEN"
+  branch: null
+  swift: TKPINL21
+    
+- name: "TODAY'S BEHEER B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: TODBNL21
+    
+- name: "TOTAL INVESTMENT SERVICES B.V."
+  city: "ECHTELD"
+  branch: null
+  swift: TOISNL21
+    
+- name: "TP VISION HOLDING BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: TPVINL2E
+    
+- name: "TRADINGPORT B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: TRDNNL21
+    
+- name: "TRADIT"
+  city: "LEIDEN"
+  branch: null
+  swift: TRDTNL21
+    
+- name: "TRANSTREND B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: TRNENL21
+    
+- name: "TRAVELEX BANK N.V."
+  city: "DIEMEN"
+  branch: null
+  swift: TRVXNL21
+    
+- name: "TRIODOS BANK N.V."
+  city: "ZEIST"
+  branch: null
+  swift: TRIONL2U
+    
+- name: "TRIODOS INVESTMENT MANAGEMENT BV"
+  city: "ZEIST"
+  branch: null
+  swift: TRIONLA1
+    
+- name: "TRIODOS MEESPIERSON SUSTAINABLE INVESTMENT MANAGEMENT B.V."
+  city: "UTRECHT"
+  branch: null
+  swift: TMSINL21
+    
+- name: "TRUSTPARTNERS N.V."
+  city: "HILVERSUM"
+  branch: null
+  swift: TRUPNL21
+    
+- name: "TRUSTUS CAPITAL MANAGEMENT B.V."
+  city: "JOURE"
+  branch: null
+  swift: TRPGNL21
+    
+- name: "TURTLE TRADING B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: TURTNL21
+    
+- name: "UBS EUROPE SE, NETHERLANDS BRANCH"
+  city: "AMSTERDAM"
+  branch: null
+  swift: UBSWNL2A
+    
+- name: "UBS INVESTMENT BANK NEDERLAND BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: SBWRNL21
+    
+- name: "UFJ BANK NEDERLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: UFJNNL21
+    
+- name: "UNIGARANT FINANCIELE DIENSTEN B.V."
+  city: "AMERSFOORT"
+  branch: null
+  swift: UNFDNL21
+    
+- name: "UNILEVER"
+  city: "ROTTERDAM"
+  branch: null
+  swift: UNLLNL21
+    
+- name: "UNILEVER BELEGGINGSBANK BV"
+  city: "ROTTERDAM"
+  branch: null
+  swift: UNBGNL21
+    
+- name: "UNILEVER FINANCE INTERNATIONAL BV"
+  city: "ROTTERDAM"
+  branch: null
+  swift: BFOFNL2R
+    
+- name: "UNILEVER PLC"
+  city: "ROTTERDAM"
+  branch: null
+  swift: UNLENL21
+    
+- name: "UNION BANCAIRE PRIVEE"
+  city: "AMSTERDAM"
+  branch: null
+  swift: UNBVNL21
+    
+- name: "UNISYS PAYMENT SERVICES AND SOLUTIONS"
+  city: "LEUSDEN"
+  branch: null
+  swift: UPSONL21
+    
+- name: "UNIVEST COMPANY BV"
+  city: "ROTTERDAM"
+  branch: null
+  swift: UNOONL21
+    
+- name: "UTR8 BV"
+  city: "UTRECHT"
+  branch: null
+  swift: UTRUNL21
+    
+- name: "VAN AMSTBERG CAPITAL MANAGEMENT B.V."
+  city: "HILVERSUM"
+  branch: null
+  swift: AMCGNL21
+    
+- name: "VAN DE WOLKEN KNAPPE"
+  city: "AMSTERDAM"
+  branch: null
+  swift: VDWKNL21
+    
+- name: "VAN DER HOOP EFFECTEN BANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: HOEFNL21
+    
+- name: "VAN DER MOOLEN EFFECTENSPECIALIST B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MOEFNL21
+    
+- name: "VAN DER MOOLEN FINANCIAL SERVICES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MOFVNL21
+    
+- name: "VAN DER MOOLEN OBLIGATIES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: MOOINL21
+    
+- name: "VAN DOORENMALEN EN PARTNERS VERMOGENSCONSULTANCY"
+  city: "WEESP"
+  branch: null
+  swift: DOPVNL21
+    
+- name: "VAN DOORN SECURITIES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: VDOSNL21
+    
+- name: "VAN DOORN TRUST AND SECURITIES BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: DOTSNL21
+    
+- name: "VAN GANSEWINKEL GROEP BV"
+  city: "EINDHOVEN"
+  branch: null
+  swift: VGWGNL2E
+    
+- name: "VAN LAWICK EN CO VERMOGENSBEHEER C.V."
+  city: "HILVERSUM"
+  branch: null
+  swift: LAWVNL21
+    
+- name: "VAN LIESHOUT EN PARTNERS N.V."
+  city: "UTRECHT"
+  branch: null
+  swift: LIPANL21
+    
+- name: "VAN OORD FINANCE B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: OORDNL2R
+    
+- name: "VANDERLANDE INDUSTRIES B.V."
+  city: "VEGHEL"
+  branch: null
+  swift: VANDNL2V
+    
+- name: "VATTENFALL ENERGY TRADING NETHERLANDS NV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: VETTNL21
+    
+- name: "VBK SERVICES (NETHERLANDS) B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: VBKSNLA1
+    
+- name: "VELTHUIJSE EN MULDER VERMOGENSBEHEER B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: VEMVNL21
+    
+- name: "VERHOEF EN VAN JAARSVELD VERMOGENSBEHEER"
+  city: "BREDA"
+  branch: null
+  swift: VEJVNL21
+    
+- name: "VERMOGENS ADVIES ADMINISTRATIE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: VEADNL21
+    
+- name: "VERMOGENSPARAPLU BEHEER B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: VEBENL21
+    
+- name: "VERWER EN JANSSEN VERMOGENSMANAGEMENT B.V."
+  city: "SINT JANSTEEN"
+  branch: null
+  swift: VJAVNL21
+    
+- name: "VIERLANDER EFFECTEN N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: VIEFNL21
+    
+- name: "VISTRA (NETHERLANDS) B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: VTRANL2A
+    
+- name: "VLADERACKEN B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: VLARNL21
+    
+- name: "VOLA FINANCIERINGSMAATSCHAPPIJ B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: VOLFNL21
+    
+- name: "VOLKER WESSELS STEVIN FINANCIAL SERVICES BV"
+  city: "ROTTERDAM"
+  branch: null
+  swift: VWFSNL2R
+    
+- name: "VOLKSWAGEN BANK GMBH FILIAAL NEDERLAND"
+  city: "AMERSFOORT"
+  branch: null
+  swift: VOWANL21
+    
+- name: "VOLKSWAGEN INTERNATIONAL FINANCE N.V"
+  city: "AMSTERDAM"
+  branch: null
+  swift: VOIFNL21
+    
+- name: "VPV BANKIERS NV"
+  city: "GOUDA"
+  branch: null
+  swift: VPVGNL21
+    
+- name: "VSB BANK N.V."
+  city: "UTRECHT"
+  branch: null
+  swift: VSBVNL21
+    
+- name: "VTTI B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: VTTINL2R
+    
+- name: "VW INTERNATIONAL PAYMENT SERVICES"
+  city: "AMSTERDAM"
+  branch: null
+  swift: VIPSNL21
+    
+- name: "WAERDEVELDT B.V. ASSET MANAGEMENT AMSTERDAMSE EFFECTENBEURS"
+  city: "AMSTERDAM"
+  branch: null
+  swift: WAMMNL21
+    
+- name: "WALLAART DERIVATIVES B.V."
+  city: "NOORDWIJK"
+  branch: null
+  swift: WADENL21
+    
+- name: "WALLICH EN MATTHES B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: WALMNL21
+    
+- name: "WATERLAND INVESTMENT SERVICES B.V."
+  city: "NAARDEN"
+  branch: null
+  swift: WAIENL21
+    
+- name: "WEALTH MANAGEMENT PARTNERS N.V."
+  city: "AMSTELVEEN"
+  branch: null
+  swift: WMPANL21
+    
+- name: "WEBB TRADERS BV"
+  city: "AMSTERDAM"
+  branch: null
+  swift: WETRNL21
+    
+- name: "WESA-EFFECTEN B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: WESFNL21
+    
+- name: "WESTLANDUTRECHT BANK"
+  city: "AMSTERDAM"
+  branch: null
+  swift: WUBKNL21
+    
+- name: "WESTLANDUTRECHT EFFECTENBANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: AMSTNL21
+    
+- name: "WESTLANDUTRECHT HYPOTHEEKBANK N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: WEHPNL21
+    
+- name: "WESTPLAN INVESTORS PARTICIPATIES B.V."
+  city: "LISSE"
+  branch: null
+  swift: WEIPNL21
+    
+- name: "WIJS EN VAN OOSTVEEN B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: WIJSNL21
+    
+- name: "WILGENHAEGE VERMOGENSBEHEER B.V."
+  city: "HOOFDDORP"
+  branch: null
+  swift: WILVNL21
+    
+- name: "WILSHIRE ASSOCIATES EUROPE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: WIAENL21
+    
+- name: "WIN TRADING B.V."
+  city: "MIDDENBEEMSTER"
+  branch: null
+  swift: WITRNL21
+    
+- name: "WINCHESTER CAPITAL B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: WIAPNL21
+    
+- name: "WJM TRADING B.V."
+  city: "SCHIPHOL"
+  branch: null
+  swift: WJMTNL21
+    
+- name: "WOLTERS, WOLKERS EN CO B.V."
+  city: "S-GRAVENHAGE"
+  branch: null
+  swift: WOWONL21
+    
+- name: "WTSS B.V."
+  city: "ROTTERDAM"
+  branch: null
+  swift: WTSSNL2R
+    
+- name: "YAPI KREDI BANK NEDERLAND N.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: KABANL2A
+    
+- name: "ZEST ADVICE B.V."
+  city: "AMSTERDAM"
+  branch: null
+  swift: ZESANL21
+    
+- name: "ZOM HOLLAND B.V."
+  city: "HOEVELAKEN"
+  branch: null
+  swift: ZOHONL21
+    
+- name: "ZWITSERLEVEN VERMOGENSBEHEER N.V."
+  city: "AMSTELVEEN"
+  branch: null
+  swift: ZWVENL21
+    

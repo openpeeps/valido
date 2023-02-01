@@ -1,0 +1,285 @@
+- name: "AL ARABI INVESTMENT GROUP CO."
+  city: "RAMALLAH"
+  branch: null
+  swift: ARIRPS21
+    
+- name: "AL NAWRAS FINANCIAL INVESTMENT CO."
+  city: "BETHLEHEM"
+  branch: null
+  swift: NAFIPS21
+    
+- name: "AL QUDUS BANK FOR DEVELOPMENT AND INVESTMENT"
+  city: "GAZA"
+  branch: null
+  swift: QUDSPS21
+    
+- name: "AL WASATA SECURITIES CO. LTD"
+  city: "GAZA"
+  branch: null
+  swift: WASUPS21
+    
+- name: "ALWASTA SECURITIES CO"
+  city: "RAMALLAH"
+  branch: null
+  swift: ALWSPS21
+    
+- name: "ARAB BANK PLC"
+  city: "AL-BIREH"
+  branch: AL-BIREH BRANCH
+  swift: ARABPS22030
+    
+- name: "ARAB BANK PLC"
+  city: "AL-RAM"
+  branch: AL-RAM BRANCH
+  swift: ARABPS22110
+    
+- name: "ARAB BANK PLC"
+  city: "BETHANY"
+  branch: BETHANY BRANCH
+  swift: ARABPS22100
+    
+- name: "ARAB BANK PLC"
+  city: "BETHLEHEM"
+  branch: BETHLEHEM BRANCH
+  swift: ARABPS22050
+    
+- name: "ARAB BANK PLC"
+  city: "GAZA"
+  branch: GAZA BRANCH
+  swift: ARABPS22500
+    
+- name: "ARAB BANK PLC"
+  city: "GAZA"
+  branch: RIMAL BRANCH
+  swift: ARABPS22600
+    
+- name: "ARAB BANK PLC"
+  city: "HEBRON"
+  branch: HEBRON BRANCH
+  swift: ARABPS22040
+    
+- name: "ARAB BANK PLC"
+  city: "JENIN"
+  branch: JENIN BRANCH
+  swift: ARABPS22060
+    
+- name: "ARAB BANK PLC"
+  city: "JERICHO"
+  branch: JERICH BRANCH
+  swift: ARABPS22550
+    
+- name: "ARAB BANK PLC"
+  city: "KHAN YOUNIS"
+  branch: KHAN YOUNIS BRANCH
+  swift: ARABPS22650
+    
+- name: "ARAB BANK PLC"
+  city: "NABLUS"
+  branch: NABLUS BRANCH
+  swift: ARABPS22020
+    
+- name: "ARAB BANK PLC"
+  city: "QALQILIAH"
+  branch: QALQILIAH BRANCH
+  swift: ARABPS22080
+    
+- name: "ARAB BANK PLC"
+  city: "RAMALLAH"
+  branch: AL MASYOON BRANCH
+  swift: ARABPS22090
+    
+- name: "ARAB BANK PLC"
+  city: "RAMALLAH"
+  branch: CENTRAL OPERATIONS UNIT, TRADE FINANCE SERVICES
+  swift: ARABPS22COU
+    
+- name: "ARAB BANK PLC"
+  city: "RAMALLAH"
+  branch: CENTRALIZED OUTWARD TRANSFERS DEPT.
+  swift: ARABPS22COT
+    
+- name: "ARAB BANK PLC"
+  city: "RAMALLAH"
+  branch: TREASURY OPERATIONS
+  swift: ARABPS22DLR
+    
+- name: "ARAB BANK PLC"
+  city: "RAMALLAH"
+  branch: null
+  swift: ARABPS22
+    
+- name: "ARAB BANK PLC"
+  city: "TULKARM"
+  branch: TULKARM BRANCH
+  swift: ARABPS22070
+    
+- name: "ARAB ISLAMIC BANK"
+  city: "RAMALLAH"
+  branch: null
+  swift: AISBPS22
+    
+- name: "BANK OF JORDAN PLC"
+  city: "RAMALLAH"
+  branch: null
+  swift: BJORPS22
+    
+- name: "BANK OF PALESTINE PLC"
+  city: "RAMALLAH"
+  branch: null
+  swift: PALSPS22
+    
+- name: "CAIRO AMMAN BANK"
+  city: "RAMALLAH"
+  branch: null
+  swift: CAABPS22
+    
+- name: "EGYPTIAN ARAB LAND BANK"
+  city: "RAMALLAH"
+  branch: null
+  swift: ARLBPS22
+    
+- name: "GLOBAL SECURITIES CO"
+  city: "NABLUS"
+  branch: null
+  swift: GLSUPS21
+    
+- name: "JORDAN AHLI BANK-PLC FOREIGN PUBLIC COMPANY"
+  city: "RAMALLAH"
+  branch: null
+  swift: JONBPS22
+    
+- name: "JORDAN AND PALESTINE INVESTMENT CO."
+  city: "RAMALLAH"
+  branch: null
+  swift: JPAIPS21
+    
+- name: "JORDAN COMMERCIAL BANK"
+  city: "RAMALLAH"
+  branch: null
+  swift: JCBAPS22
+    
+- name: "JORDAN GULF BANK"
+  city: "GAZA"
+  branch: null
+  swift: JGBAPS21
+    
+- name: "JORDAN KUWAIT BANK"
+  city: "RAMALLAH"
+  branch: null
+  swift: JKBAPS22
+    
+- name: "JORDAN PALESTINE CO. FOR FINANCIAL INVESTMENT"
+  city: "RAMALLAH"
+  branch: null
+  swift: JOPFPS21
+    
+- name: "LOTUS FINANCIAL INVESTMENT CO."
+  city: "RAMALLAH"
+  branch: null
+  swift: LOFNPS21
+    
+- name: "NATIONAL COMPANY FOR SECURITIES INVESTMENT"
+  city: "RAMALLAH"
+  branch: null
+  swift: NCSIPS21
+    
+- name: "NAWRAS BROKERAGE CO."
+  city: "BETHLEHEM"
+  branch: null
+  swift: NAWRPS21
+    
+- name: "PALESTINE INVESTMENT BANK"
+  city: "RAMALLAH"
+  branch: null
+  swift: PINVPS22
+    
+- name: "PALESTINE ISLAMIC BANK"
+  city: "RAMALLAH"
+  branch: null
+  swift: PIBCPS22
+    
+- name: "PALESTINE MONETARY AUTHORITY"
+  city: "AL-BIREH"
+  branch: CSD
+  swift: PMAPPS22PEX
+    
+- name: "PALESTINE MONETARY AUTHORITY"
+  city: "AL-BIREH"
+  branch: null
+  swift: PMAPPS22
+    
+- name: "PALESTINE MONETARY AUTHORITY"
+  city: "RAMALLAH"
+  branch: AUTHORIZED SETTLEMENT AGENRT
+  swift: PMAPPS22ASA
+    
+- name: "PALESTINE MONETARY AUTHORITY"
+  city: "RAMALLAH"
+  branch: TECHNICAL INFRATRUCTURE AGENT
+  swift: PMAPPS22TIA
+    
+- name: "PALESTINE MONETARY AUTHORITY"
+  city: "RAMALLAH"
+  branch: null
+  swift: PMAPPS22ACH
+    
+- name: "PALESTINE MONETARY AUTHORITY"
+  city: "RAMALLAH"
+  branch: null
+  swift: PMAPPS2P
+    
+- name: "PALESTINE SECURITIES EXCHANGE"
+  city: "NABLUS"
+  branch: null
+  swift: XPAEPS21
+    
+- name: "QUDS BANK"
+  city: "RAMALLAH"
+  branch: null
+  swift: ALDNPS22
+    
+- name: "SAFA BANK"
+  city: "RAMALLAH"
+  branch: null
+  swift: SAFKPS22
+    
+- name: "SAHEM TRADING AND INVESTMENT COMPANY"
+  city: "RAMALLAH"
+  branch: null
+  swift: STIPPS21
+    
+- name: "TARGET INVESTMENT CO."
+  city: "NABLUS"
+  branch: null
+  swift: TARVPS21
+    
+- name: "TARGET JORDAN PALESTINE SECURITIES"
+  city: "RAMALLAH"
+  branch: null
+  swift: TJPSPS21
+    
+- name: "THE CLEARING, DEPOSITORY AND SETTLEMENT DEPARTMEN(CDS)"
+  city: "NABLUS"
+  branch: null
+  swift: CDSEPS21
+    
+- name: "THE HOUSING BANK FOR TRADE AND FINANCE/RAMALLAH"
+  city: "RAMALLAH"
+  branch: null
+  swift: HBHOPS22
+    
+- name: "THE NATIONAL BANK PLC (FORMERLY AL RAFAH MICROFINANCE BANK)"
+  city: "RAMALLAH"
+  branch: null
+  swift: TNBCPS22
+    
+- name: "UNITED SECURITIES CO"
+  city: "RAMALLAH"
+  branch: null
+  swift: UNTEPS21
+    
+- name: "WATANIYA SECURITIES CO"
+  city: "RAMALLAH"
+  branch: null
+  swift: WATTPS21
+    

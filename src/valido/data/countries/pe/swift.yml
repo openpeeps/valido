@@ -1,0 +1,195 @@
+- name: "AMERIKA FINANCIERA S.A."
+  city: "LIMA"
+  branch: null
+  swift: AMRKPEP1
+    
+- name: "BANCO AZTECA DEL PERU, S.A."
+  city: "LIMA"
+  branch: null
+  swift: AZTKPEPL
+    
+- name: "BANCO CENTRAL DE RESERVA DEL PERU"
+  city: "LIMA"
+  branch: null
+  swift: CRPEPEPL
+    
+- name: "BANCO CONTINENTAL"
+  city: "LIMA"
+  branch: null
+  swift: BCONPEPL
+    
+- name: "BANCO DE COMERCIO"
+  city: "LIMA"
+  branch: null
+  swift: BDCMPEPL
+    
+- name: "BANCO DE CREDITO DEL PERU"
+  city: "LIMA"
+  branch: null
+  swift: BCPLPEPL
+    
+- name: "BANCO DE LA NACION"
+  city: "LIMA"
+  branch: null
+  swift: BANCPEPL
+    
+- name: "BANCO FINANCIERO DEL PERU"
+  city: "LIMA"
+  branch: null
+  swift: FINAPEPL
+    
+- name: "BANCO GNB PERU SA"
+  city: "LIMA"
+  branch: null
+  swift: HBPEPEPL
+    
+- name: "BANCO IBEROAMERICANO"
+  city: "LIMA"
+  branch: null
+  swift: BAIOPEP1
+    
+- name: "BANCO INTERAMERICANO DE FINANZAS"
+  city: "LIMA"
+  branch: null
+  swift: BIFSPEPL
+    
+- name: "BANCO INTERNACIONAL DEL PERU (INTERBANK)"
+  city: "LIMA"
+  branch: null
+  swift: BINPPEPL
+    
+- name: "BANCO NOR PERU"
+  city: "TRUJILLO"
+  branch: null
+  swift: BNPEPEP1
+    
+- name: "BANCO SANTANDER PERU S.A."
+  city: "LIMA"
+  branch: null
+  swift: BSAPPEPL
+    
+- name: "BRITISH AMERICAN TOBACCO DEL PERU HOLDINGS S.A."
+  city: "LIMA"
+  branch: null
+  swift: BATSPE31
+    
+- name: "BRITISH AMERICAN TOBACCO DEL PERU S.A.C."
+  city: "LIMA"
+  branch: null
+  swift: BATSPEP1
+    
+- name: "CAJA RURAL DE AHORRO Y CREDITO CHAVIN SAA"
+  city: "HUARAZ"
+  branch: PRINCIPAL
+  swift: CRHCPEP1001
+    
+- name: "CAJA RURAL DE AHORRO Y CREDITO CHAVIN SAA"
+  city: "TRUJILLO"
+  branch: OFICINA TRUJILLO
+  swift: CRHCPEP1002
+    
+- name: "CAJA RURAL DE AHORRO Y CREDITO CHAVIN SAA"
+  city: "TRUJILLO"
+  branch: null
+  swift: CRHCPEP1
+    
+- name: "CAMPOSOL"
+  city: "LIMA"
+  branch: null
+  swift: CAPOPEPL
+    
+- name: "CAVALI S.A. I.C.L.V."
+  city: "LIMA"
+  branch: null
+  swift: CVLIPEPL
+    
+- name: "CELFIN CAPITAL S.A. SOCIEDAD AGENTE DE BOLSA"
+  city: "LIMA"
+  branch: null
+  swift: CCSTPEP1
+    
+- name: "CETCO S.A."
+  city: "LIMA"
+  branch: null
+  swift: BELPPEPL
+    
+- name: "CITIBANK DEL PERU S.A."
+  city: "LIMA"
+  branch: null
+  swift: CITIPEPL
+    
+- name: "COOPERATIVA DE AHORRO Y CREDITO PACIFICO"
+  city: "LIMA"
+  branch: null
+  swift: PACCPEP1
+    
+- name: "CORPORACION FINANCIERA DE DESARROLLO S.A. - COFIDE"
+  city: "LIMA"
+  branch: null
+  swift: COFDPEPL
+    
+- name: "CREDIBOLSA SOCIEDAD AGENTE DE BOLSA S.A."
+  city: "LIMA"
+  branch: null
+  swift: CBOLPEP1
+    
+- name: "FINANCIERA DE CREDITO DEL PERU"
+  city: "LIMA"
+  branch: null
+  swift: FCPEPEP1
+    
+- name: "ICBC PERU BANK"
+  city: "LIMA"
+  branch: null
+  swift: ICBKPEPL
+    
+- name: "INTERVALORES"
+  city: "LIMA"
+  branch: null
+  swift: INTVPEP1
+    
+- name: "JP MORGAN BANCO DE INVERSION"
+  city: "LIMA"
+  branch: null
+  swift: CHASPEPL
+    
+- name: "KALLPA SECURITIES S.A.B"
+  city: "LIMA"
+  branch: null
+  swift: KAESPEP1
+    
+- name: "SABMILLER PERU"
+  city: "LIMA"
+  branch: null
+  swift: SABMPEP1
+    
+- name: "SABMILLER PERU"
+  city: "LIMA"
+  branch: null
+  swift: SABMPEP1BYJ
+    
+- name: "SABMILLER PERU"
+  city: "LIMA"
+  branch: null
+  swift: SABMPEP1CSC
+    
+- name: "SABMILLER PERU"
+  city: "LIMA"
+  branch: null
+  swift: SABMPEP1CSJ
+    
+- name: "SAMSUNG ELECTRONICS PERU S.A.C"
+  city: "LIMA"
+  branch: null
+  swift: SECTPEP1
+    
+- name: "SAMSUNG ELECTRONICS PERU S.A.C"
+  city: "LIMA"
+  branch: null
+  swift: SECTPEP1860
+    
+- name: "SCOTIABANK PERU S.A.A."
+  city: "LIMA"
+  branch: null
+  swift: BSUDPEPL
+    

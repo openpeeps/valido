@@ -1,0 +1,295 @@
+- name: "BANCO BISA S.A."
+  city: "COCHABAMBA"
+  branch: null
+  swift: BANIBOLXCBB
+    
+- name: "BANCO BISA S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: BANIBOLX
+    
+- name: "BANCO BISA S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: BANIBOLXSCZ
+    
+- name: "BANCO CENTRAL DE BOLIVIA"
+  city: "LA PAZ"
+  branch: null
+  swift: BCEBBOLP
+    
+- name: "BANCO DE CREDITO DE BOLIVIA S.A."
+  city: "COCHABAMBA"
+  branch: null
+  swift: BCPLBOLXCBB
+    
+- name: "BANCO DE CREDITO DE BOLIVIA S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: BCPLBOLX
+    
+- name: "BANCO DE CREDITO DE BOLIVIA S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: BCPLBOLXSCZ
+    
+- name: "BANCO DE CREDITO ORURO"
+  city: "ORURO"
+  branch: null
+  swift: BCROBO21
+    
+- name: "BANCO DE DESARROLLO PRODUCTIVO SAM"
+  city: "LA PAZ"
+  branch: null
+  swift: BDRSBOLP
+    
+- name: "BANCO DE INVERSION BOLIVIANO S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: BIBOBOL1
+    
+- name: "BANCO DE LA NACION ARGENTINA"
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: NACNBOLP
+    
+- name: "BANCO DE LA PAZ, S.A."
+  city: "COCHABAMBA"
+  branch: null
+  swift: BPAZBOL1023
+    
+- name: "BANCO DE LA PAZ, S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: BPAZBOL1
+    
+- name: "BANCO DE LA PAZ, S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: BPAZBOL1022
+    
+- name: "BANCO DO BRASIL S.A. SUCURSAL BOLIVIA"
+  city: "LA PAZ"
+  branch: null
+  swift: BRASBOLX
+    
+- name: "BANCO ECONOMICO S.A."
+  city: "COCHABAMBA"
+  branch: COCHABAMBA BRANCH
+  swift: BOEOBO22CBB
+    
+- name: "BANCO ECONOMICO S.A."
+  city: "LA PAZ"
+  branch: LA PAZ BRANCH
+  swift: BOEOBO22LPZ
+    
+- name: "BANCO ECONOMICO S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: SANTA CRUZ BRANCH
+  swift: BOEOBO22SCZ
+    
+- name: "BANCO ECONOMICO S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: BOEOBO22
+    
+- name: "BANCO ECONOMICO S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: BOEOBO22BEC
+    
+- name: "BANCO FASSIL S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: BSCFBO22
+    
+- name: "BANCO FIE S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: BFIFBOLP
+    
+- name: "BANCO FORTALEZA SA"
+  city: "LA PAZ"
+  branch: null
+  swift: BFORBOLP
+    
+- name: "BANCO GANADERO S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: GNDRBO22
+    
+- name: "BANCO GANADERO S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: GNDRBO22CMI
+    
+- name: "BANCO GANADERO S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: GNDRBO22FIT
+    
+- name: "BANCO GANADERO S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: GNDRBO22GEB
+    
+- name: "BANCO HIPOTECARIO NACIONAL"
+  city: "LA PAZ"
+  branch: null
+  swift: BHNABOL1
+    
+- name: "BANCO LATINOAMERICANO DE DESARROLLO S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: BALDBOL1
+    
+- name: "BANCO MERCANTIL SANTA CRUZ S.A."
+  city: "COCHABAMBA"
+  branch: null
+  swift: MERBBOLXCBB
+    
+- name: "BANCO MERCANTIL SANTA CRUZ S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: MERBBOLX
+    
+- name: "BANCO MERCANTIL SANTA CRUZ S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: MERBBOLXSCZ
+    
+- name: "BANCO MINERO DE BOLIVIA"
+  city: "LA PAZ"
+  branch: null
+  swift: BAMIBOL1
+    
+- name: "BANCO NACIONAL DE BOLIVIA"
+  city: "COCHABAMBA"
+  branch: DEPARTAMENTO INTERNACIONAL
+  swift: BNBOBOLXCBB
+    
+- name: "BANCO NACIONAL DE BOLIVIA"
+  city: "LA PAZ"
+  branch: DPTO. INTERNACIONAL
+  swift: BNBOBOLXLPZ
+    
+- name: "BANCO NACIONAL DE BOLIVIA"
+  city: "LA PAZ"
+  branch: TRESORERIA
+  swift: BNBOBOLXTES
+    
+- name: "BANCO NACIONAL DE BOLIVIA"
+  city: "LA PAZ"
+  branch: null
+  swift: BNBOBOLX
+    
+- name: "BANCO NACIONAL DE BOLIVIA"
+  city: "ORURO"
+  branch: DEPARTAMENTO INTERNACIONAL
+  swift: BNBOBOLXORU
+    
+- name: "BANCO NACIONAL DE BOLIVIA"
+  city: "POTOSI"
+  branch: DEPARTAMENTO INTERNACIONAL
+  swift: BNBOBOLXPOI
+    
+- name: "BANCO NACIONAL DE BOLIVIA"
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: DPTO. INTERNACIONAL
+  swift: BNBOBOLXSCZ
+    
+- name: "BANCO NACIONAL DE BOLIVIA"
+  city: "SUCRE"
+  branch: DEPARTAMENTO INTERNACIONAL
+  swift: BNBOBOLXSRE
+    
+- name: "BANCO NACIONAL DE BOLIVIA"
+  city: "TARIJA"
+  branch: DEPARTAMENTO INTERNACIONAL
+  swift: BNBOBOLXTJA
+    
+- name: "BANCO PRODEM S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: BPRMBOLP
+    
+- name: "BANCO PYME ECOFUTURO S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: PYEOBOLP
+    
+- name: "BANCO SANTA CRUZ S.A."
+  city: "COCHABAMBA"
+  branch: COCHABAMBA BRANCH
+  swift: BSCHBO21CBB
+    
+- name: "BANCO SANTA CRUZ S.A."
+  city: "LA PAZ"
+  branch: LA PAZ BRANCH
+  swift: BSCHBO21LPZ
+    
+- name: "BANCO SANTA CRUZ S.A."
+  city: "ORURO"
+  branch: ORURO BRANCH
+  swift: BSCHBO21024
+    
+- name: "BANCO SANTA CRUZ S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: HEAD OFFICE
+  swift: BSCHBO21
+    
+- name: "BANCO SANTA CRUZ S.A."
+  city: "SUCRE"
+  branch: SUCRE BRANCH
+  swift: BSCHBO21025
+    
+- name: "BANCO SOLIDARIO S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: BSOLBOLP
+    
+- name: "BANCO UNION S.A."
+  city: "COCHABAMBA"
+  branch: SUCURSAL COCHABAMBA
+  swift: BAUNBO22CBB
+    
+- name: "BANCO UNION S.A."
+  city: "LA PAZ"
+  branch: SUCURSAL LA PAZ
+  swift: BAUNBO22LPZ
+    
+- name: "BANCO UNION S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: BAUNBO22
+    
+- name: "BANCO UNION S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: SUCURSAL SANTA CRUZ
+  swift: BAUNBO22SCZ
+    
+- name: "BHN MULTIBANCO S.A."
+  city: "COCHABAMBA"
+  branch: null
+  swift: BHNMBOL1023
+    
+- name: "BHN MULTIBANCO S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: BHNMBOL1
+    
+- name: "BHN MULTIBANCO S.A."
+  city: "SANTA CRUZ DE LA SIERRA"
+  branch: null
+  swift: BHNMBOL1022
+    
+- name: "BOLSA BOLIVIANA DE VALORES S.A."
+  city: "LA PAZ"
+  branch: null
+  swift: XBOLBOL1
+    
+- name: "CITIBANK N.A."
+  city: "LA PAZ"
+  branch: null
+  swift: CITIBOL1
+    

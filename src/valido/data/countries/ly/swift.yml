@@ -1,0 +1,1110 @@
+- name: "AL WAFA BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: ALWFLYLT
+    
+- name: "ALEJMA'A ALARABI BANK"
+  city: "BENGHAZI"
+  branch: null
+  swift: EJABLYLX
+    
+- name: "ALWAHA BANK - TRIPOLI LY"
+  city: "TRIPOLI"
+  branch: null
+  swift: WAHALYLX
+    
+- name: "AMAN BANK FOR COMMERCE AND INVESTMENT"
+  city: "BENGHAZI"
+  branch: BENGHAZI BRANCH
+  swift: ABCNLYLT015
+    
+- name: "AMAN BANK FOR COMMERCE AND INVESTMENT"
+  city: "TRIPOLI"
+  branch: null
+  swift: ABCNLYLT
+    
+- name: "AMAN BANK FOR COMMERCE AND INVESTMENT"
+  city: "TRIPOLI"
+  branch: null
+  swift: ABCNLYLT017
+    
+- name: "ARAB COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: ACOMLYLT
+    
+- name: "ASSARAY TRADE AND INVESTMENT BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: ATIBLYLT
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "AL KHUMS"
+  branch: AL KOMS BRANCH
+  swift: CDBLLYLT101
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: AL HAWARY
+  swift: CDBLLYLT114
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: BENGHAZI MAIN BRANCH
+  swift: CDBLLYLT011
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: BENINA AIRPORT AGENCY
+  swift: CDBLLYLT013
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: CHILDREN AGENCY
+  swift: CDBLLYLT018
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: EL BERKA AGENCY
+  swift: CDBLLYLT015
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: EL FOHIT AGENCY
+  swift: CDBLLYLT111
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: EL FOROSIA AGENCY
+  swift: CDBLLYLT012
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: GARDEN CITY AGENCY
+  swift: CDBLLYLT017
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: ISLAMIC CALL AGENCY
+  swift: CDBLLYLT014
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: MOBILE BANK
+  swift: CDBLLYLT124
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: TWENTY STREET AGENCY
+  swift: CDBLLYLT112
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "BENGHAZI"
+  branch: null
+  swift: CDBLLYLT
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "DERNA"
+  branch: DRNA BRANCH
+  swift: CDBLLYLT091
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "EJDABIA"
+  branch: EJDABIA BRANCH
+  swift: CDBLLYLT019
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "EL BIEDA"
+  branch: EL BIEDA MAIN BRANCH
+  swift: CDBLLYLT061
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "EL ZAWIA"
+  branch: EL ZAWIA MAIN BRANCH
+  swift: CDBLLYLT051
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "EMSSAED"
+  branch: EMSSAED AGENCY
+  swift: CDBLLYLT042
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "MISURATA"
+  branch: AFRICA AGENCY
+  swift: CDBLLYLT032
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "MISURATA"
+  branch: MISURATA MAIN BRANCH
+  swift: CDBLLYLT031
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "SIRTE"
+  branch: SIRTE MAIN BRANCH
+  swift: CDBLLYLT081
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TOBRUK"
+  branch: TOBRUK MAIN BRANCH
+  swift: CDBLLYLT041
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TRIPOLI"
+  branch: BEN ASHOWR
+  swift: CDBLLYLT223
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TRIPOLI"
+  branch: DAT EL IMAD AGENCY
+  swift: CDBLLYLT026
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TRIPOLI"
+  branch: EL FATEH TOWER AGENCY
+  swift: CDBLLYLT023
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TRIPOLI"
+  branch: EL MADAR AGENCY
+  swift: CDBLLYLT029
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TRIPOLI"
+  branch: GERGARISH AGENCY
+  swift: CDBLLYLT025
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TRIPOLI"
+  branch: GOUT AL SHAAL AGENCY
+  swift: CDBLLYLT022
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TRIPOLI"
+  branch: GRAND HOTEL AGENCY
+  swift: CDBLLYLT027
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TRIPOLI"
+  branch: SOUK EL GOUMA AGENCY
+  swift: CDBLLYLT221
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TRIPOLI"
+  branch: TAGORA BRANCH
+  swift: CDBLLYLT222
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "TRIPOLI"
+  branch: TRIPOLI MAIN BRANCH
+  swift: CDBLLYLT021
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "ZLITEN"
+  branch: ZLITEN MAIN BRANCH
+  swift: CDBLLYLT071
+    
+- name: "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)"
+  city: "ZWARA"
+  branch: ZWARA MAIN BRANCH
+  swift: CDBLLYLT052
+    
+- name: "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (TRIPOLI)"
+  city: "TRIPOLI"
+  branch: null
+  swift: BSAHLYLX
+    
+- name: "CENTRAL BANK OF LIBYA"
+  city: "BENGHAZI"
+  branch: BENGHAZI BRANCH
+  swift: CBLJLYLX001
+    
+- name: "CENTRAL BANK OF LIBYA"
+  city: "SEBHA"
+  branch: SEBHA BRANCH
+  swift: CBLJLYLX002
+    
+- name: "CENTRAL BANK OF LIBYA"
+  city: "TRIPOLI"
+  branch: OPERATION DEPARTMENT
+  swift: CBLJLYLX004
+    
+- name: "CENTRAL BANK OF LIBYA"
+  city: "TRIPOLI"
+  branch: null
+  swift: CBLJLYLX
+    
+- name: "CENTRAL BANK OF LIBYA"
+  city: "TRIPOLI"
+  branch: null
+  swift: CBLJLYLY
+    
+- name: "DEVELOPMENT BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: DEVOLYLT
+    
+- name: "FIRST GULF LIBYAN BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: FGBLLYLT
+    
+- name: "GENERAL NATIONAL MARITIME TRANSPORT COMPANY"
+  city: "TRIPOLI"
+  branch: null
+  swift: GNMTLYL1
+    
+- name: "JUMHOURIA BANK"
+  city: "AJELAT"
+  branch: null
+  swift: JAMBLYLT036
+    
+- name: "JUMHOURIA BANK"
+  city: "AL KHUMS"
+  branch: MARGEB BRANCH
+  swift: JAMBLYLT035
+    
+- name: "JUMHOURIA BANK"
+  city: "AL MARJ"
+  branch: AL MARJ BRANCH
+  swift: JAMBLYLT016
+    
+- name: "JUMHOURIA BANK"
+  city: "AL MARJ"
+  branch: null
+  swift: JAMBLYLT052
+    
+- name: "JUMHOURIA BANK"
+  city: "BANI WALID"
+  branch: BANI WALEED BRANCH
+  swift: JAMBLYLT065
+    
+- name: "JUMHOURIA BANK"
+  city: "BANI WALID"
+  branch: null
+  swift: JAMBLYLT028
+    
+- name: "JUMHOURIA BANK"
+  city: "BEN GHASHIR"
+  branch: BEN GHASHIR BRANCH
+  swift: JAMBLYLT029
+    
+- name: "JUMHOURIA BANK"
+  city: "BENGHAZI"
+  branch: ABUATNI BRANCH
+  swift: JAMBLYLT107
+    
+- name: "JUMHOURIA BANK"
+  city: "BENGHAZI"
+  branch: AL HADAEQ AGENCY
+  swift: JAMBLYLT100
+    
+- name: "JUMHOURIA BANK"
+  city: "BENGHAZI"
+  branch: AL MADINA BRANCH
+  swift: JAMBLYLT003
+    
+- name: "JUMHOURIA BANK"
+  city: "BENGHAZI"
+  branch: ALMARED AGANCY
+  swift: JAMBLYLT113
+    
+- name: "JUMHOURIA BANK"
+  city: "BENGHAZI"
+  branch: AL-MOKHTAR BRANCH FOR ISLAMIC BANKING
+  swift: JAMBLYLT503
+    
+- name: "JUMHOURIA BANK"
+  city: "BENGHAZI"
+  branch: BENGHAZI COMMITTEE
+  swift: JAMBLYLT995
+    
+- name: "JUMHOURIA BANK"
+  city: "BENGHAZI"
+  branch: BENGHAZI MIDICAL CENTER
+  swift: JAMBLYLT148
+    
+- name: "JUMHOURIA BANK"
+  city: "BENGHAZI"
+  branch: FWIHAT BRANCH
+  swift: JAMBLYLT072
+    
+- name: "JUMHOURIA BANK"
+  city: "BENGHAZI"
+  branch: SOUK AL NOUR BRANCH
+  swift: JAMBLYLT023
+    
+- name: "JUMHOURIA BANK"
+  city: "BENGHAZI"
+  branch: WAHDA ELARABYA AGENCY
+  swift: JAMBLYLT135
+    
+- name: "JUMHOURIA BANK"
+  city: "DERNA"
+  branch: DERNA BRANCH FOR ISLAMIC BANKING
+  swift: JAMBLYLT505
+    
+- name: "JUMHOURIA BANK"
+  city: "DERNA"
+  branch: DERNIA BRANCH
+  swift: JAMBLYLT004
+    
+- name: "JUMHOURIA BANK"
+  city: "DERNA"
+  branch: null
+  swift: JAMBLYLT060
+    
+- name: "JUMHOURIA BANK"
+  city: "EL BIEDA"
+  branch: ALBIEDA BRANCH
+  swift: JAMBLYLT013
+    
+- name: "JUMHOURIA BANK"
+  city: "GHARIAN"
+  branch: GHARIAN BRANCH FOR ISLAMIC BANKING
+  swift: JAMBLYLT502
+    
+- name: "JUMHOURIA BANK"
+  city: "GHARIAN"
+  branch: GHARYAN BRANCH
+  swift: JAMBLYLT048
+    
+- name: "JUMHOURIA BANK"
+  city: "GHARIAN"
+  branch: JABEL ELGHARBI  COMMITTEE
+  swift: JAMBLYLT993
+    
+- name: "JUMHOURIA BANK"
+  city: "GHARIAN"
+  branch: null
+  swift: JAMBLYLT020
+    
+- name: "JUMHOURIA BANK"
+  city: "JADU"
+  branch: ARHEEBAT BRANCH
+  swift: JAMBLYLT087
+    
+- name: "JUMHOURIA BANK"
+  city: "MISURATA"
+  branch: AHMED SHARIF BRANCH
+  swift: JAMBLYLT006
+    
+- name: "JUMHOURIA BANK"
+  city: "MISURATA"
+  branch: FREE ZONE AGENCY
+  swift: JAMBLYLT150
+    
+- name: "JUMHOURIA BANK"
+  city: "MISURATA"
+  branch: GOAZ ATTEEK AGENCY
+  swift: JAMBLYLT118
+    
+- name: "JUMHOURIA BANK"
+  city: "MISURATA"
+  branch: MISURATA BRANCH
+  swift: JAMBLYLT051
+    
+- name: "JUMHOURIA BANK"
+  city: "MISURATA"
+  branch: MISURATA COMMITTEE
+  swift: JAMBLYLT994
+    
+- name: "JUMHOURIA BANK"
+  city: "SABRATAH"
+  branch: AL ATHAR BRANCH
+  swift: JAMBLYLT077
+    
+- name: "JUMHOURIA BANK"
+  city: "SABRATAH"
+  branch: SABRATHA BRANCH
+  swift: JAMBLYLT033
+    
+- name: "JUMHOURIA BANK"
+  city: "SABRATAH"
+  branch: null
+  swift: JAMBLYLT032
+    
+- name: "JUMHOURIA BANK"
+  city: "SABRI"
+  branch: SABRI AGENCY
+  swift: JAMBLYLT143
+    
+- name: "JUMHOURIA BANK"
+  city: "SEBHA"
+  branch: SEBHA COMMITTIEE
+  swift: JAMBLYLT998
+    
+- name: "JUMHOURIA BANK"
+  city: "TAJURA"
+  branch: AL SHAHENAT AGENCY
+  swift: JAMBLYLT080
+    
+- name: "JUMHOURIA BANK"
+  city: "TAJURA"
+  branch: BLASHER BRANCH
+  swift: JAMBLYLT132
+    
+- name: "JUMHOURIA BANK"
+  city: "TARHOUNA"
+  branch: TARHOUNA BRANCH
+  swift: JAMBLYLT025
+    
+- name: "JUMHOURIA BANK"
+  city: "TOBRUK"
+  branch: TOBRUK ALMADINA
+  swift: JAMBLYLT011
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: AINZARA
+  swift: JAMBLYLT067
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: AL MAYDAN BRANCH
+  swift: JAMBLYLT001
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: AL MGARIEF BRANCH
+  swift: JAMBLYLT002
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: ALANDALUS BRANCH
+  swift: JAMBLYLT090
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: ALKADYSSIA
+  swift: JAMBLYLT110
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: ASSREEM BRANCH
+  swift: JAMBLYLT010
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: ATHARA BRANCH
+  swift: JAMBLYLT015
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: BAB AL JADEED BRANCH
+  swift: JAMBLYLT005
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: BALKHIR BRANCH
+  swift: JAMBLYLT079
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: BARID AGENCY
+  swift: JAMBLYLT145
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: FASHLOUM  BRANCH FOR ISLAMIC BANKING
+  swift: JAMBLYLT501
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: FLLAH BRANCH
+  swift: JAMBLYLT121
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: GURJI AGENCY
+  swift: JAMBLYLT093
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: HAY ELANDULS BRANCH
+  swift: JAMBLYLT120
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: LIBYANA AGENCY
+  swift: JAMBLYLT136
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: MELLITAH OIL AND GAS AGENCY
+  swift: JAMBLYLT094
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: MGHARBA BRANCH
+  swift: JAMBLYLT019
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: MIZRAN BRANCH 
+  swift: JAMBLYLT151
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: RAS HASAN
+  swift: JAMBLYLT137
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: SOUK AL JUMMAA BRANCH
+  swift: JAMBLYLT012
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: SOUK ALTOLATA
+  swift: JAMBLYLT022
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: SOUT OF TRIPOLI BRANCH
+  swift: JAMBLYLT018
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: TRIPOLI COMMITTEE
+  swift: JAMBLYLT991
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: TRIPOLI TOWER AGENCY
+  swift: JAMBLYLT104
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: TRIPOLI UNIVERSITY BRANCH
+  swift: JAMBLYLT043
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: JAMBLYLT
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: JAMBLYLT026
+    
+- name: "JUMHOURIA BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: JAMBLYLT096
+    
+- name: "JUMHOURIA BANK"
+  city: "ZAWIA"
+  branch: AL ZAWYA BRANCH
+  swift: JAMBLYLT009
+    
+- name: "JUMHOURIA BANK"
+  city: "ZAWIA"
+  branch: ZAWYA COMMITTEE
+  swift: JAMBLYLT992
+    
+- name: "JUMHOURIA BANK"
+  city: "ZLITEN"
+  branch: ZALITEN BRANCH
+  swift: JAMBLYLT017
+    
+- name: "JUMHOURIA BANK"
+  city: "ZLITEN"
+  branch: null
+  swift: JAMBLYLT014
+    
+- name: "JUMHOURIA BANK"
+  city: "ZWARA"
+  branch: ABUKMMASH BRANCH
+  swift: JAMBLYLT055
+    
+- name: "LIBYAN FOREIGN BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: LAFBLYLT
+    
+- name: "LIBYAN INVESTMENT AUTHORITY"
+  city: "TRIPOLI"
+  branch: null
+  swift: LIATLYLT
+    
+- name: "LIBYAN ISLAMIC BANK COMPANY JSC"
+  city: "TRIPOLI"
+  branch: ABU MALIANEH BRANCH
+  swift: LYIBLYLT002
+    
+- name: "LIBYAN ISLAMIC BANK COMPANY JSC"
+  city: "TRIPOLI"
+  branch: null
+  swift: LYIBLYLT
+    
+- name: "MABRUK OIL OPERATION"
+  city: "TRIPOLI"
+  branch: null
+  swift: MOOCLYLT
+    
+- name: "MEDITERRANEAN BANK"
+  city: "BENGHAZI"
+  branch: null
+  swift: METILYLT
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "AJDABIA"
+  branch: AJDABIA
+  swift: LNCBLYLT117
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "AL KHUMS"
+  branch: KHUMIS BRANCH
+  swift: LNCBLYLT059
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "BANI WALID"
+  branch: BANI-WALED BRANCH
+  swift: LNCBLYLT098
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "BEIDA"
+  branch: BEIDA - MAIN BRANCH
+  swift: LNCBLYLT054
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "BEIDA"
+  branch: EJEHAD BRANCH
+  swift: LNCBLYLT103
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "BEIDA"
+  branch: MASSA BR.
+  swift: LNCBLYLT096
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "BEIDA"
+  branch: UNIVERSITY OF OMAR ALMUKHTAR BRANCH
+  swift: LNCBLYLT106
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "BENGHAZI"
+  branch: ALHAWARI BRANCH
+  swift: LNCBLYLT079
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "BENGHAZI"
+  branch: ALMUJMAAE ALTGARIE BR
+  swift: LNCBLYLT104
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "BENGHAZI"
+  branch: AROUBA
+  swift: LNCBLYLT115
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "BENGHAZI"
+  branch: BENGHAZI - MAIN BRANCH
+  swift: LNCBLYLT052
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "BENGHAZI"
+  branch: FACTORY OF PIPES
+  swift: LNCBLYLT105
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "DERNA"
+  branch: ALGUBBA BR.
+  swift: LNCBLYLT068
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "DERNA"
+  branch: null
+  swift: LNCBLYLT055
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "EL ZAWIA"
+  branch: ALTRED BRANCH
+  swift: LNCBLYLT087
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "GHADAMIS"
+  branch: GHADAMES BRANCH
+  swift: LNCBLYLT067
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "GHARIAN"
+  branch: DARAG BR.
+  swift: LNCBLYLT085
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "GHARIAN"
+  branch: null
+  swift: LNCBLYLT057
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "GHAT"
+  branch: GHAT BRANCH
+  swift: LNCBLYLT076
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "MISURATA"
+  branch: MISURATA BRANCH
+  swift: LNCBLYLT056
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "RAS LANUF"
+  branch: null
+  swift: LNCBLYLT078
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "SABHA"
+  branch: null
+  swift: LNCBLYLT053
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "SEBHA"
+  branch: EBRAK BR.
+  swift: LNCBLYLT069
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "SEBHA"
+  branch: OUBARI BR.
+  swift: LNCBLYLT072
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "SHAHHAT"
+  branch: SHAHAT BRANCH
+  swift: LNCBLYLT073
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "SIRTE"
+  branch: SIRT BRANCH 
+  swift: LNCBLYLT081
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TAJURA"
+  branch: null
+  swift: LNCBLYLT091
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TARHOUNA"
+  branch: TARHOUNA BRANCH
+  swift: LNCBLYLT102
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TOBRUK"
+  branch: EMSAAD BR.
+  swift: LNCBLYLT066
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TOBRUK"
+  branch: KAMBUT BR
+  swift: LNCBLYLT083
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TOBRUK"
+  branch: null
+  swift: LNCBLYLT058
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: ALMENA BRANCH
+  swift: LNCBLYLT070
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: CITY
+  swift: LNCBLYLT061
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: ELTHAHRRA BRANCH
+  swift: LNCBLYLT099
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: ESBIA BR.
+  swift: LNCBLYLT089
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: HEAD OFFICE
+  swift: LNCBLYLTHOB
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: ISTIKLAL BRANCH
+  swift: LNCBLYLT062
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: MAIN BRANCH
+  swift: LNCBLYLT051
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: MUNICIPALITY SQUARE
+  swift: LNCBLYLT064
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: SEUQELTHOLATHA BRANCH
+  swift: LNCBLYLT065
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: LNCBLYLT
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: LNCBLYLT050
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "ZAWIA"
+  branch: AJMAIL BR.
+  swift: LNCBLYLT101
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "ZAWIA"
+  branch: MUSFAT BRANCH
+  swift: LNCBLYLT077
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "ZAWIA"
+  branch: null
+  swift: LNCBLYLT060
+    
+- name: "NATIONAL COMMERCIAL BANK"
+  city: "ZLITEN"
+  branch: ZLITIN BRANCH
+  swift: LNCBLYLT093
+    
+- name: "NORTH AFRICA BANK"
+  city: "TRIPOLI"
+  branch: BRANCH
+  swift: NABLLYLXTIP
+    
+- name: "NORTH AFRICA BANK"
+  city: "TRIPOLI"
+  branch: ISLAMIC BANKING OPERATIONS
+  swift: NABLLYLXIBC
+    
+- name: "NORTH AFRICA BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: NABLLYLX
+    
+- name: "NURAN BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: NUBKLYLT
+    
+- name: "SAHARA BANK"
+  city: "BENGHAZI"
+  branch: HEAD OFFICE BENGHAZI
+  swift: SABKLYLXBEN
+    
+- name: "SAHARA BANK"
+  city: "TRIPOLI"
+  branch: null
+  swift: SABKLYLX
+    
+- name: "UNITED BANK FOR COMMERCE AND INVESTMENT"
+  city: "TRIPOLI"
+  branch: null
+  swift: UNCNLYLT
+    
+- name: "WAHA OIL COMPANY"
+  city: "TRIPOLI"
+  branch: null
+  swift: WOCMLYL1
+    
+- name: "WAHDA BANK"
+  city: "AJDABIA"
+  branch: null
+  swift: WAHBLYLX041
+    
+- name: "WAHDA BANK"
+  city: "AJELAT"
+  branch: null
+  swift: WAHBLYLX097
+    
+- name: "WAHDA BANK"
+  city: "ANDULUS"
+  branch: null
+  swift: WAHBLYLX018
+    
+- name: "WAHDA BANK"
+  city: "BEN JWAD"
+  branch: null
+  swift: WAHBLYLX046
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: ALMDENA
+  swift: WAHBLYLX108
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: GARDIN
+  swift: WAHBLYLX096
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: GULF
+  swift: WAHBLYLX066
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: HEAD OFFICE
+  swift: WAHBLYLX
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: ISLAMIC
+  swift: WAHBLYLX601
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: MAIDAN BRANCH
+  swift: WAHBLYLX032
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: MAIN BRANCH
+  swift: WAHBLYLX030
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: MAWADELBENA
+  swift: WAHBLYLX111
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: MUKHTAR BRANCH
+  swift: WAHBLYLX031
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: TREASURY
+  swift: WAHBLYLX200
+    
+- name: "WAHDA BANK"
+  city: "BENGHAZI"
+  branch: WAHBLYLX114
+  swift: WAHBLYLX114
+    
+- name: "WAHDA BANK"
+  city: "DERNA"
+  branch: DERNA BRANCH
+  swift: WAHBLYLX040
+    
+- name: "WAHDA BANK"
+  city: "JALO"
+  branch: null
+  swift: WAHBLYLX048
+    
+- name: "WAHDA BANK"
+  city: "MAGARBA"
+  branch: null
+  swift: WAHBLYLX015
+    
+- name: "WAHDA BANK"
+  city: "MISURATA"
+  branch: MISURATA BRANCH
+  swift: WAHBLYLX087
+    
+- name: "WAHDA BANK"
+  city: "MSLATA"
+  branch: null
+  swift: WAHBLYLX100
+    
+- name: "WAHDA BANK"
+  city: "RASHID"
+  branch: null
+  swift: WAHBLYLX020
+    
+- name: "WAHDA BANK"
+  city: "RWISAT"
+  branch: null
+  swift: WAHBLYLX036
+    
+- name: "WAHDA BANK"
+  city: "SABRI"
+  branch: null
+  swift: WAHBLYLX035
+    
+- name: "WAHDA BANK"
+  city: "SIRTE"
+  branch: null
+  swift: WAHBLYLX043
+    
+- name: "WAHDA BANK"
+  city: "SOUK"
+  branch: null
+  swift: WAHBLYLX034
+    
+- name: "WAHDA BANK"
+  city: "TEBSTI"
+  branch: null
+  swift: WAHBLYLX081
+    
+- name: "WAHDA BANK"
+  city: "TOBRUK"
+  branch: null
+  swift: WAHBLYLX083
+    
+- name: "WAHDA BANK"
+  city: "TRIPOLI"
+  branch: 1ST SEPTEMBER BRANCH
+  swift: WAHBLYLX012
+    
+- name: "WAHDA BANK"
+  city: "TRIPOLI"
+  branch: ALJERIA
+  swift: WAHBLYLX056
+    
+- name: "WAHDA BANK"
+  city: "TRIPOLI"
+  branch: BALADIYA BRANCH
+  swift: WAHBLYLX014
+    
+- name: "WAHDA BANK"
+  city: "TRIPOLI"
+  branch: BORJTRIPOLI
+  swift: WAHBLYLX110
+    
+- name: "WAHDA BANK"
+  city: "TRIPOLI"
+  branch: ELSAQA
+  swift: WAHBLYLX106
+    
+- name: "WAHDA BANK"
+  city: "TRIPOLI"
+  branch: ELTHOLATHAA
+  swift: WAHBLYLX016
+    
+- name: "WAHDA BANK"
+  city: "TRIPOLI"
+  branch: JADAH BRANCH
+  swift: WAHBLYLX019
+    
+- name: "WAHDA BANK"
+  city: "TRIPOLI"
+  branch: MAIN BRANCH
+  swift: WAHBLYLX011
+    
+- name: "WAHDA BANK"
+  city: "TRIPOLI"
+  branch: NATIONAL OIL CORPORATION
+  swift: WAHBLYLX090
+    
+- name: "WAHDA BANK"
+  city: "YEFREN"
+  branch: YEFREN BRANCH
+  swift: WAHBLYLX044
+    
+- name: "WAHDA BANK"
+  city: "ZLITEN"
+  branch: null
+  swift: WAHBLYLX050
+    

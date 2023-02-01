@@ -1,0 +1,140 @@
+- name: "BANK OF ASIA (BVI) LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: ABVIVGVG
+    
+- name: "BEVCO LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: BEVCVGV1
+    
+- name: "BEVCO LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: BEVCVGV1BEV
+    
+- name: "BURSATIL CLEARING CORPORATION LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: BCCLVGV1
+    
+- name: "CARLSSON CURRENCY FUND LIMITED"
+  city: "ROADTOWN"
+  branch: null
+  swift: CACFVGV1
+    
+- name: "CHALHOUB GROUP LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: CHGLVGVG
+    
+- name: "CHEMIUM INTERNATIONAL CORP."
+  city: "TORTOLA"
+  branch: null
+  swift: CHNIVGV1
+    
+- name: "CIMB LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: CBMBVGV1
+    
+- name: "DE SHAW INTERNATIONAL"
+  city: "TORTOLA"
+  branch: null
+  swift: SHILVGV1
+    
+- name: "EUROWIRE CLEARING CORPORATION"
+  city: "ROADTOWN"
+  branch: null
+  swift: EUCTVGV1
+    
+- name: "EVERYOUNG CAPITAL MANAGEMENT LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: EVCMVGV1
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LTD"
+  city: "TORTOLA"
+  branch: null
+  swift: FCIBVGVG
+    
+- name: "GORDEL HOLDINGS LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: BEXGVGVG
+    
+- name: "IBIS INTERNATIONAL FUND LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: IBIFVGV1
+    
+- name: "IFXBG LIMITED"
+  city: "ROADTOWN"
+  branch: null
+  swift: IFXGVGV1
+    
+- name: "ION VOLIUM STRATEGY LIMITED"
+  city: "ROADTOWN"
+  branch: null
+  swift: IOVSVGV1
+    
+- name: "LIM ASIA MULTI-STRATEGY FUND INC."
+  city: "ROADTOWN"
+  branch: null
+  swift: LAMFVGV1
+    
+- name: "LIM ASIA SPECIAL SITUATIONS MASTER FUND LIMITED"
+  city: "ROADTOWN"
+  branch: null
+  swift: LAPTVGV1
+    
+- name: "MVM OVERSEAS CAPITAL LTD"
+  city: "ROADTOWN"
+  branch: null
+  swift: MVOCVGV1
+    
+- name: "OURINVEST CAPITAL INC"
+  city: "TORTOLA"
+  branch: null
+  swift: OUCAVGV1
+    
+- name: "PACIFIC ALLIANCE INVESTMENT MANAGEMENT LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: PAIEVGV1
+    
+- name: "PACIFIC CAPITAL GROUP LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: PACGVGV1
+    
+- name: "PYRRHO MANAGEMENT LIMITED"
+  city: "TORTOLA"
+  branch: null
+  swift: PYMAVGV1
+    
+- name: "QUANT ASSET MANAGEMENT"
+  city: "TORTOLA"
+  branch: null
+  swift: QUAAVGV1
+    
+- name: "RAMBURS INC"
+  city: "TORTOLA"
+  branch: null
+  swift: RAMBVGV1
+    
+- name: "SCOTIABANK (BRITISH VIRGIN ISLANDS) LTD."
+  city: "TORTOLA"
+  branch: null
+  swift: NOSCVGVG
+    
+- name: "VALUE STAR ASSET MANAGEMENT"
+  city: "TORTOLA"
+  branch: null
+  swift: VSAMVGV1
+    
+- name: "VP BANK (BVI) LTD"
+  city: "TORTOLA"
+  branch: null
+  swift: VPBVVGV1
+    

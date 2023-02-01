@@ -1,0 +1,180 @@
+- name: "BANK OF AFRICA-SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: AFRISNDA
+    
+- name: "BANQUE ATLANTIQUE SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: ATSNSNDA
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "DAKAR"
+  branch: AGENCE NATIONALE
+  swift: BCAOSNDA001
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "DAKAR"
+  branch: null
+  swift: BCAOSNDA
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "KAOLACK"
+  branch: KAOLACK BRANCH
+  swift: BCAOSNDAKAO
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "ZIGUINCHOR"
+  branch: ZIGUINCHOR BRANCH
+  swift: BCAOSNDAZIG
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST (B.C.E.A.O.)"
+  city: "DAKAR"
+  branch: null
+  swift: BCAOSNDP
+    
+- name: "BANQUE DE DAKAR SA"
+  city: "DAKAR"
+  branch: null
+  swift: BDKRSNDA
+    
+- name: "BANQUE DE L'HABITAT DU SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: LHSESNDA
+    
+- name: "BANQUE DES INSTITUTIONS MUTUALISTES D'AFRIQUE DE L'OUEST"
+  city: "DAKAR"
+  branch: null
+  swift: BIMUSNDA
+    
+- name: "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: BICISNDX
+    
+- name: "BANQUE ISLAMIQUE DU SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: ISSNSNDA
+    
+- name: "BANQUE NATIONALE POUR LE DEVELOPPEMENT ECONOMIQUE DU SENEGAL (BNDE)"
+  city: "DAKAR"
+  branch: null
+  swift: BNDXSNDA
+    
+- name: "BANQUE POUR LE COMMERCE ET L'INDUSTRIE SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: COLISNDA
+    
+- name: "BANQUE REGIONALE DE MARCHES"
+  city: "DAKAR"
+  branch: null
+  swift: BRMXSNDA
+    
+- name: "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (SENEGAL) S.A."
+  city: "DAKAR"
+  branch: null
+  swift: BSAHSNDA
+    
+- name: "BGFIBANK SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: BGFISNDA
+    
+- name: "CAISSE NATIONALE DE CREDIT AGRICOLE DU SENEGAL (C.N.C.A.S.)"
+  city: "DAKAR"
+  branch: null
+  swift: CADKSNDA
+    
+- name: "CAISSE NATIONALE D'EPARGNE"
+  city: "DAKAR"
+  branch: null
+  swift: NDECSND1
+    
+- name: "CITIBANK N.A."
+  city: "DAKAR"
+  branch: null
+  swift: CITISNDA
+    
+- name: "COMPAGNIE BANCAIRE DE L'AFRIQUE OCCIDENTALE"
+  city: "DAKAR"
+  branch: null
+  swift: CBAOSNDA
+    
+- name: "CORIS BANK INTERNATIONAL"
+  city: "DAKAR"
+  branch: null
+  swift: CORISNDA
+    
+- name: "CREDIT DU SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: BCMASNDA
+    
+- name: "CREDIT INTERNATIONAL SA"
+  city: "DAKAR"
+  branch: null
+  swift: CLIBSNDA
+    
+- name: "DEPOSITAIRE CENTRAL-BANQUE DE REGLEMENT (DCBR SENEGAL)"
+  city: "DAKAR"
+  branch: null
+  swift: DCECSND1
+    
+- name: "DIAMONDBANK SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: DBLNSNDA
+    
+- name: "ECOBANK SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: ECOCSNDA
+    
+- name: "INTERNATIONAL COMMERCIAL BANK SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: ICSGSNDA
+    
+- name: "LA POSTE"
+  city: "DAKAR"
+  branch: null
+  swift: LPSTSND1
+    
+- name: "MASSRAF FAYSAL AL ISLAMI SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: MFISSND1
+    
+- name: "ORABANK SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: ORBKSNDA
+    
+- name: "SOCIETE GENERALE DE BANQUES AU SENEGAL"
+  city: "DAKAR"
+  branch: NEW IBE PROJECT
+  swift: SGSNSNDAIBE
+    
+- name: "SOCIETE GENERALE DE BANQUES AU SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: SGSNSNDA
+    
+- name: "SONABANQUE"
+  city: "DAKAR"
+  branch: null
+  swift: SONASND1
+    
+- name: "UNION SENEGALAISE DE BANQUE POUR LE COMMERCE ET L'INDUSTRIE"
+  city: "DAKAR"
+  branch: null
+  swift: USBASND1
+    
+- name: "UNITED BANK FOR AFRICA SENEGAL"
+  city: "DAKAR"
+  branch: null
+  swift: UNAFSNDA
+    

@@ -1,0 +1,200 @@
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "ARIMA"
+  branch: null
+  swift: ADEVTTP1023
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "CHAGUANAS"
+  branch: null
+  swift: ADEVTTP1025
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "PORT OF SPAIN"
+  branch: HEAD OFFICE
+  swift: ADEVTTP1
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "RIO CLARO"
+  branch: null
+  swift: ADEVTTP1027
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "SAN FERNANDO"
+  branch: null
+  swift: ADEVTTP1026
+    
+- name: "AGRICULTURAL DEVELOPMENT BANK"
+  city: "SCARBOROUGH"
+  branch: TOBAGO
+  swift: ADEVTTP1028
+    
+- name: "ANSA MERCHANT BANK LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: ANFMTTP1
+    
+- name: "BANK OF BARODA (TRINIDAD AND TOBAGO) LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: BARBTTPS
+    
+- name: "BOURSE BROKERS LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: BOBRTTP1
+    
+- name: "CARIBBEAN MONEY MARKET BROKERS LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: CMMBTTP1
+    
+- name: "CARIBBEAN STOCKBROKERS LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: CSTKTTP1
+    
+- name: "CENTRAL BANK OF TRINIDAD AND TOBAGO"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: CBTTTTPS
+    
+- name: "CITIBANK (TRINIDAD AND TOBAGO) LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: CITITTPS
+    
+- name: "CITICORP MERCHANT BANK LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: CIMETTP1
+    
+- name: "CLICO INVESTMENT BANK LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: CLNNTTP1
+    
+- name: "CMMB SECURITIES LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: CMMSTTP1
+    
+- name: "FIRST CITIZENS ASSET MANAGEMENT LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: FCTATTP1
+    
+- name: "FIRST CITIZENS BANK LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: FCTTTTPS
+    
+- name: "FIRST CITIZENS MERCHANT BANK LTD."
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: IIMETTP1
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (T AND T) LTD."
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: FCIBTTP2
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (T AND T) LTD."
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: FCIBTTPS
+    
+- name: "INTERCOMMERCIAL TRUST AND MERCHANT BANK LIMITED"
+  city: "CHAGUANAS"
+  branch: null
+  swift: INRHTTP1
+    
+- name: "JMMB BANK (T AND T) LIMITED"
+  city: "CHAGUANAS"
+  branch: null
+  swift: IBLITTPS
+    
+- name: "JMMB BANK (T AND T) LIMITED"
+  city: "CHAGUANAS"
+  branch: null
+  swift: JMMBTTPS
+    
+- name: "MERCANTILE BANKING AND FINANCIAL CORPORATION LIMITED, THE"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: MEFRTTP1
+    
+- name: "NCB GLOBAL FINANCE LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: AICBTTPS
+    
+- name: "RBC ROYAL BANK (TRINIDAD AND TOBAGO) LIMITED (FORMERLY RBTT BANK LIMITED)"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: RBTTTTPX
+    
+- name: "RBTT MERCHANT BANK LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: RBMETTP1
+    
+- name: "REPUBLIC BANK LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: RBNKTTPX
+    
+- name: "REPUBLIC FINANCE AND MERCHANT BANK LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: REFHTTP1
+    
+- name: "REPUBLIC SECURITIES LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: REPSTTP1
+    
+- name: "SCOTIA DBG INVESTMENTS LTD"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: DEBOTTP1
+    
+- name: "SCOTIABANK TRINIDAD AND TOBAGO LTD."
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: NOSCTTPS
+    
+- name: "SCOTIATRUST AND MERCHANT BANK TRINIDAD AND TOBAGO LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: SMTTTTP1
+    
+- name: "THE TRINIDAD AND TOBAGO STOCK EXCHANGE LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: XTRNTTP1
+    
+- name: "THE WEST INDIAN TOBACCO COMPANY LIMITED"
+  city: "SAN JUAN"
+  branch: null
+  swift: BATSTTP1
+    
+- name: "TRINIDAD AND TOBAGO CENTRAL SECURITIES DEPOSITORY LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: TTCSTTP1
+    
+- name: "TRINIDAD AND TOBAGO UNIT TRUST CORPORATION"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: TTUTTTP1
+    
+- name: "UNITED BANK OF TRINIDAD AND TOBAGO"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: UBTTTTP1
+    
+- name: "WEST INDIES STOCKBROKERS LIMITED"
+  city: "PORT OF SPAIN"
+  branch: null
+  swift: WEITTTP1
+    

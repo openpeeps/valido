@@ -1,0 +1,325 @@
+- name: "ALLIANCE INVESTMENT MANAGEMENT LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: ALNGJMK1
+    
+- name: "AUTOMATED PAYMENTS LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: JAPLJMK1
+    
+- name: "BANK OF JAMAICA"
+  city: "KINGSTON"
+  branch: RTGS
+  swift: BAJAJMK11KN
+    
+- name: "BANK OF JAMAICA"
+  city: "KINGSTON"
+  branch: null
+  swift: BAJAJMKN
+    
+- name: "BANK OF NOVA SCOTIA JAMAICA LTD., THE"
+  city: "KINGSTON"
+  branch: null
+  swift: NOSCJMKN
+    
+- name: "BARITA INVESTMENTS LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: BAVSJMK1
+    
+- name: "BPM FINANCIAL LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: BPFIJMK1
+    
+- name: "C.O.K. CO-OPERATIVE CREDIT UNION LTD."
+  city: "KINGSTON"
+  branch: null
+  swift: CCENJMK1
+    
+- name: "CAPITAL AND CREDIT MERCHANT BANK LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: CCMKJMK1
+    
+- name: "CAPITAL AND CREDIT SECURITIES LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: CPCSJMK1
+    
+- name: "CAPITAL SOLUTIONS LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: CPSOJMK1
+    
+- name: "CARRERAS LIMITED"
+  city: "SAINT-CATHERINE"
+  branch: null
+  swift: BATSJMK1
+    
+- name: "CCU INVESTMENTS LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: CCNVJMK1
+    
+- name: "CHURCHES CO-OPERATIVE CREDIT UNION LTD."
+  city: "KINGSTON"
+  branch: null
+  swift: CCEOJMK1
+    
+- name: "CITIBANK N.A."
+  city: "KINGSTON"
+  branch: null
+  swift: CITIJMK1
+    
+- name: "CITIFINANCE LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: CIAFJMK1
+    
+- name: "CREDIT UNION FUND MANAGEMENT COMPANY LTD"
+  city: "KINGSTON"
+  branch: null
+  swift: CUFMJMK1
+    
+- name: "DEVELOPMENT BANK OF JAMAICA LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: NDBJJMK1
+    
+- name: "FIRST GLOBAL BANK LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: FILBJMKN
+    
+- name: "FIRST HERITAGE CO-OPERATIVE CREDIT UNION LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: FHCRJMK1
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA) LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: FCIBJMKN
+    
+- name: "FIRSTCARIBBEAN INTERNATIONAL TRUST AND MERCHANT BANK (JAMAICA) LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: FCIBJM21
+    
+- name: "GUARDIAN ASSET MANAGEMENT JAMAICA LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: GAMJJMK1
+    
+- name: "GUARDIAN LIFE LIMTED"
+  city: "KINGSTON"
+  branch: null
+  swift: GULIJMK1
+    
+- name: "IDEAL FINANCE CORPORATION LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: IDFCJMK1
+    
+- name: "IDEAL PORTFOLIO SERVICES CO LTD"
+  city: "KINGSTON"
+  branch: null
+  swift: IDPSJMK1
+    
+- name: "INFINITI CAPITAL"
+  city: "KINGSTON"
+  branch: null
+  swift: IFCPJMK1
+    
+- name: "INTERTRADE FINANCE CORPORATION LTD."
+  city: "KINGSTON"
+  branch: null
+  swift: ITFCJMK1
+    
+- name: "JAMAICA CENTRAL SECURITIES DEPOSITORY LTD"
+  city: "KINGSTON"
+  branch: RETAIL REPO
+  swift: JCSDJMK1JRR
+    
+- name: "JAMAICA CENTRAL SECURITIES DEPOSITORY LTD"
+  city: "KINGSTON"
+  branch: null
+  swift: JCSDJMK1
+    
+- name: "JAMAICA CO-OPERATIVE CREDIT UNION LEAGUE LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: JCCUJMK1
+    
+- name: "JAMAICA MONEY MARKET BROKERS LTD"
+  city: "KINGSTON"
+  branch: null
+  swift: JMMBJMK1
+    
+- name: "JN BANK LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: JNBSJMKN
+    
+- name: "JN FUND MANAGERS LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: FUNMJMK1
+    
+- name: "M/VL STOCKBROKERS LTD."
+  city: "KINGSTON"
+  branch: null
+  swift: MVSTJMK1
+    
+- name: "MAYBERRY INVESTMENTS LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: MAYNJMK1
+    
+- name: "MF AND G ASSET MANAGEMENT LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: ASAEJMK1
+    
+- name: "MF AND G TRUST AND FINANCE COMPANY"
+  city: "KINGSTON"
+  branch: null
+  swift: MFGTJMK1
+    
+- name: "MONEYMASTERS LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: MONMJMK1
+    
+- name: "NATIONAL COMMERCIAL BANK JAMAICA LIMITED"
+  city: "KINGSTON"
+  branch: KING STREET
+  swift: JNCBJMK10K2
+    
+- name: "NATIONAL COMMERCIAL BANK JAMAICA LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: JNCBJMKX
+    
+- name: "NATIONAL EXPORT-IMPORT BANK OF JAMAICA LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: NAEBJMKI
+    
+- name: "NCB CAPITAL MARKETS LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: NCCMJMK1
+    
+- name: "NCB INSURANCE COMPANY LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: NCICJMK1
+    
+- name: "PAN CARIBBEAN BANK LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: PCARJMK1
+    
+- name: "PAN CARIBBEAN FINANCIAL SERVICES LTD"
+  city: "KINGSTON"
+  branch: null
+  swift: PCFSJMK1
+    
+- name: "PAN CARIBBEAN MERCHANT BANK LTD."
+  city: "KINGSTON"
+  branch: null
+  swift: PCMBJMK1
+    
+- name: "PRIME ASSET MANAGEMENT LTD"
+  city: "KINGSTON"
+  branch: null
+  swift: PRTGJMK1
+    
+- name: "PROVEN FUND MANAGERS LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: FGFSJMK1
+    
+- name: "PROVEN WEALTH LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: PWELJMK1
+    
+- name: "RBTT SECURITIES JAMAICA LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: RBSJJMK1
+    
+- name: "SAGICOR BANK JAMAICA LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: SAJAJMK1
+    
+- name: "SAGICOR BANK JAMAICA LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: SAJAJMKN
+    
+- name: "SAGICOR LIFE JAMAICA LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: SALJJMK1
+    
+- name: "SCOTIA DBG MERCHANT BANK LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: SCDMJMK1
+    
+- name: "SCOTIA INVESTMENTS JAMAICA LTD"
+  city: "KINGSTON"
+  branch: null
+  swift: SCNJJMKN
+    
+- name: "STERLING ASSET MANAGEMENT LTD."
+  city: "KINGSTON"
+  branch: null
+  swift: STEGJMK1
+    
+- name: "STOCKS AND SECURITIES LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: SSERJMK1
+    
+- name: "THE JAMAICA STOCK EXCHANGE LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: XJAMJMK1
+    
+- name: "UGI FINANCE AND INVESTMENTS LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: UGFIJMK1
+    
+- name: "VICTORIA MUTUAL BUILDING SOCIETY"
+  city: "KINGSTON"
+  branch: null
+  swift: VMBSJMKN
+    
+- name: "VICTORIA MUTUAL WEALTH MANAGEMENT LIMITED"
+  city: "KINGSTON"
+  branch: null
+  swift: VMWMJMK1
+    
+- name: "WEST INDIES UNION INVESTMENT MANAGEMENT LIMITED"
+  city: "MANDEVILLE"
+  branch: null
+  swift: WIUIJMK1
+    
+- name: "WORKERS BANK TRUST COMPANY"
+  city: "KINGSTON"
+  branch: null
+  swift: WBTCJMK1
+    
+- name: "WORKERS TRUST AND MERCHANT BANK LTD"
+  city: "KINGSTON"
+  branch: null
+  swift: WTMBJMK1
+    

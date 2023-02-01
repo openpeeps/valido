@@ -1,0 +1,475 @@
+- name: "100 0/0 BANCO, BANCO UNIVERSAL, C.A."
+  city: "CARACAS"
+  branch: null
+  swift: FNCOVECA
+    
+- name: "ACTIVALORES SOCIEDAD DE CORRETAJE S.A.,"
+  city: "CARACAS"
+  branch: null
+  swift: ASDCVEC1
+    
+- name: "ARAVEN FINANCE LTD."
+  city: "CARACAS"
+  branch: null
+  swift: ARAFVEC1
+    
+- name: "ARRENDADORA CONSOLIDADO"
+  city: "CARACAS"
+  branch: null
+  swift: ACONVEC1
+    
+- name: "ARRENDADORA DE VENEZUELA BANVENEZ, SACA"
+  city: "CARACAS"
+  branch: null
+  swift: ARBZVEC1
+    
+- name: "ARRENDADORA DEL ORINOCO, CA"
+  city: "CARACAS"
+  branch: null
+  swift: AORIVEC1
+    
+- name: "ARRENDADORA PROVINCIAL"
+  city: "CARACAS"
+  branch: null
+  swift: ARPRVEC1
+    
+- name: "BAMERINVEST"
+  city: "CARACAS"
+  branch: null
+  swift: BAMTVEC1
+    
+- name: "BANCAMIGA BANCO MICROFINANCIERO"
+  city: "CARACAS"
+  branch: null
+  swift: BMIGVECA
+    
+- name: "BANCARACAS CASA DE BOLSA, C.A."
+  city: "CARACAS"
+  branch: null
+  swift: BCBOVEC1
+    
+- name: "BANCO ACTIVO, C.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: ACTIVECA
+    
+- name: "BANCO AGRICOLA DE VENEZUELA, C.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: BAVEVEC1
+    
+- name: "BANCO BICENTENARIO DEL PUEBLO DE LA CLASE OBRERA, MUJER Y COMUNAS BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: CONDVECP
+    
+- name: "BANCO CANARIAS DE VENEZUELA C.A."
+  city: "CARACAS"
+  branch: null
+  swift: BOCAVEC1
+    
+- name: "BANCO CARONI, C.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: CAROVECA
+    
+- name: "BANCO CARONI, C.A. BANCO UNIVERSAL"
+  city: "PUERTO ORDAZ"
+  branch: null
+  swift: CAROVECA022
+    
+- name: "BANCO CENTRAL DE VENEZUELA"
+  city: "CARACAS"
+  branch: null
+  swift: BCVEVECA
+    
+- name: "BANCO DE COMERCIO EXTERIOR"
+  city: "CARACAS"
+  branch: null
+  swift: BCEVVECA
+    
+- name: "BANCO DE DESARROLLO AGROPECUARIO"
+  city: "CARACAS"
+  branch: null
+  swift: BDAGVEC1
+    
+- name: "BANCO DE DESARROLLO ECONOMICO Y SOCIAL DE VENEZUELA"
+  city: "CARACAS"
+  branch: null
+  swift: FIVVVECA
+    
+- name: "BANCO DE EXPORTACION Y COMERCIO C.A."
+  city: "CARACAS"
+  branch: null
+  swift: BECUVECA
+    
+- name: "BANCO DE FOMENTO REGIONAL CORO, C.A."
+  city: "CORO"
+  branch: null
+  swift: BFRCVE21
+    
+- name: "BANCO DE FOMENTO REGIONAL LOS ANDES"
+  city: "SAN CRISTOBAL"
+  branch: null
+  swift: BFRAVE21
+    
+- name: "BANCO DE LA FUERZA ARMADA NACIONAL BOLIVARIANA, BANCO UNIVERSAL, C.A. (BANFANB)"
+  city: "CARACAS"
+  branch: null
+  swift: BFANVECA
+    
+- name: "BANCO DE LA PROVINCIA DE BUENOS AIRES"
+  city: "CARACAS"
+  branch: null
+  swift: PRBAVEC1
+    
+- name: "BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: VZLAVECA
+    
+- name: "BANCO DEL ALBA"
+  city: "CARACAS"
+  branch: null
+  swift: LLBAVECA
+    
+- name: "BANCO DEL CARIBE C.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: CARBVECA
+    
+- name: "BANCO DEL TESORO, C.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: BDTEVECA
+    
+- name: "BANCO EXTERIOR, C.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: BEXTVECA
+    
+- name: "BANCO FINANCIERO"
+  city: "BARQUISIMETO"
+  branch: null
+  swift: BANFVEC1022
+    
+- name: "BANCO FINANCIERO"
+  city: "CARACAS"
+  branch: null
+  swift: BANFVEC1
+    
+- name: "BANCO FINANCIERO"
+  city: "MARACAIBO"
+  branch: null
+  swift: BANFVEC102M
+    
+- name: "BANCO FINANCIERO"
+  city: "PORLAMAR"
+  branch: null
+  swift: BANFVEC102P
+    
+- name: "BANCO FINANCIERO"
+  city: "PUERTO LA CRUZ"
+  branch: null
+  swift: BANFVEC102C
+    
+- name: "BANCO HIPOTECARIO DE ARAGUA"
+  city: "MARACAY"
+  branch: null
+  swift: BHARVEC1
+    
+- name: "BANCO HIPOTECARIO DE LA VIVIENDA"
+  city: "CARACAS"
+  branch: null
+  swift: BHVIVEC1
+    
+- name: "BANCO HIPOTECARIO DEL ORINOCO, C.A"
+  city: "PUERTO ORDAZ"
+  branch: null
+  swift: HBORVEC1
+    
+- name: "BANCO HIPOTECARIO DEL ZULIA C A"
+  city: "MARACAIBO"
+  branch: null
+  swift: BHZUVE21
+    
+- name: "BANCO HIPOTECARIO VENEZOLANO, C.A."
+  city: "CARACAS"
+  branch: null
+  swift: BHVEVEC1
+    
+- name: "BANCO INDUSTRIAL DE VENEZUELA, C.A."
+  city: "CARACAS"
+  branch: null
+  swift: INDSVECA
+    
+- name: "BANCO INTERAMERICANO DE AHORRO Y PRESTAMO, S A"
+  city: "CARACAS"
+  branch: null
+  swift: BIAPVEC1
+    
+- name: "BANCO NACIONAL DE AHORRO Y PRESTAMO"
+  city: "CARACAS"
+  branch: null
+  swift: BNAPVEC1
+    
+- name: "BANCO NACIONAL DE CREDITO, C.A."
+  city: "CARACAS"
+  branch: SUCURSAL 001
+  swift: NCRTVECA001
+    
+- name: "BANCO NACIONAL DE CREDITO, C.A."
+  city: "CARACAS"
+  branch: null
+  swift: NCRTVECA
+    
+- name: "BANCO NOR-ORIENTAL DE VENEZUELA"
+  city: "PUERTO LA CRUZ"
+  branch: null
+  swift: BNOVVE21
+    
+- name: "BANCO OCCIDENTAL DE DESCUENTO BU C.A."
+  city: "CARACAS"
+  branch: SUCURSAL CARACAS
+  swift: BODEVE2MCCS
+    
+- name: "BANCO OCCIDENTAL DE DESCUENTO BU C.A."
+  city: "MARACAIBO"
+  branch: null
+  swift: BODEVE2M
+    
+- name: "BANCO PLAZA"
+  city: "CARACAS"
+  branch: null
+  swift: PLZAVECA
+    
+- name: "BANCO PROVINCIAL S.A."
+  city: "CARACAS"
+  branch: null
+  swift: BPROVECASUC
+    
+- name: "BANCO PROVINCIAL S.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: BPROVECA
+    
+- name: "BANCO PROVINCIAL S.A. BANCO UNIVERSAL"
+  city: "MARACAIBO"
+  branch: null
+  swift: BPROVECAMAR
+    
+- name: "BANCO PROVINCIAL S.A. BANCO UNIVERSAL"
+  city: "PUERTO ORDAZ"
+  branch: null
+  swift: BPROVECAPZO
+    
+- name: "BANCO SOFITASA"
+  city: "SAN CRISTOBAL"
+  branch: null
+  swift: SFTAVE22
+    
+- name: "BANCRECER S.A. BANCO MICROFINANCIERO"
+  city: "CARACAS"
+  branch: null
+  swift: CCERVECA
+    
+- name: "BANESCO BANCO UNIVERSAL C.A."
+  city: "CARACAS"
+  branch: null
+  swift: UNIOVECA
+    
+- name: "BANEX MERCADO DE CAPITALES SA"
+  city: "CARACAS"
+  branch: null
+  swift: BMDCVEC1
+    
+- name: "BANPLUS BANCO UNIVERSAL, C.A."
+  city: "CARACAS"
+  branch: null
+  swift: BEHRVECA
+    
+- name: "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: REPBVECA
+    
+- name: "CAJA VENEZOLANA DE VALORES, S.A."
+  city: "CARACAS"
+  branch: null
+  swift: CVVCVEA1
+    
+- name: "CARACAS STOCK EXCHANGE"
+  city: "CARACAS"
+  branch: null
+  swift: XCARVEC1
+    
+- name: "CITIBANK N.A. SUCURSAL VENEZUELA"
+  city: "CARACAS"
+  branch: null
+  swift: CITIVECA
+    
+- name: "CITIBANK N.A. SUCURSAL VENEZUELA"
+  city: "MARACAIBO"
+  branch: null
+  swift: CITIVEC102M
+    
+- name: "CITIBANK N.A. SUCURSAL VENEZUELA"
+  city: "VALENCIA"
+  branch: null
+  swift: CITIVEC102V
+    
+- name: "CORP HIPOTECARIO CA"
+  city: "CARACAS"
+  branch: null
+  swift: BHCOVEC1
+    
+- name: "CORPORACION ANDINA DE FOMENTO"
+  city: "CARACAS"
+  branch: null
+  swift: CAFCVECA
+    
+- name: "DEL SUR BANCO UNIVERSAL, C.A."
+  city: "PUERTO ORDAZ"
+  branch: null
+  swift: DSURVECP
+    
+- name: "FINANCORP VALORES, C.A"
+  city: "CARACAS"
+  branch: null
+  swift: FIVAVEC1
+    
+- name: "FITCH VENEZUELA, SOCIEDAD CALIFICADORA DE RIESGO, S.A."
+  city: "CARACAS"
+  branch: null
+  swift: FRIPVEC1
+    
+- name: "INTERACCIONES MERCADO DE CAPITALES S.A."
+  city: "CARACAS"
+  branch: null
+  swift: IMDCVEC1
+    
+- name: "INVERCAPITAL CASA DE BOLSA C.A."
+  city: "CARACAS"
+  branch: null
+  swift: ICBOVEC1
+    
+- name: "ITALBURSATIL CASA DE BOLSA, C.A."
+  city: "CARACAS"
+  branch: null
+  swift: ITBUVEC1
+    
+- name: "ITALCAMBIO, C.A"
+  city: "CARACAS"
+  branch: null
+  swift: ITALVEB1
+    
+- name: "ITALCAMBIO, C.A."
+  city: "CARACAS"
+  branch: null
+  swift: ITALVECA
+    
+- name: "MERCANTIL C.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: BAMRVECA
+    
+- name: "MERCANTIL MERINVEST CASA DE BOLSA"
+  city: "CARACAS"
+  branch: null
+  swift: MMCBVECA
+    
+- name: "MERINVEST SOCIEDAD DE CORRETAJE C.A."
+  city: "SAN BERNARDINO"
+  branch: null
+  swift: MSDEVEC1
+    
+- name: "MINISTERIO DEL PP PARA LA ECONOMIA Y FINANZAS"
+  city: "CARACAS"
+  branch: null
+  swift: TSORVEC1
+    
+- name: "MINISTRY OF THE POPULAR POWER FOR BANKING AND FINANCES PUBLIC CREDIT NATIONAL BUREAU"
+  city: "CARACAS"
+  branch: null
+  swift: MPPIVEC1
+    
+- name: "NOVO BANCO S.A. SUCURSAL VENEZUELA, BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: BESCVECA
+    
+- name: "PROVINCIAL BANCO DE INVERSION, S.A."
+  city: "CARACAS"
+  branch: null
+  swift: SFPRVEC1
+    
+- name: "PROVINCIAL DE VALORES CASA DE BOLSA, C.A."
+  city: "CARACAS"
+  branch: null
+  swift: PVALVEC1
+    
+- name: "SOCIEDAD FINANCIERA CONSOLIDADA"
+  city: "CARACAS"
+  branch: null
+  swift: SOFCVEC1
+    
+- name: "SOCIEDAD FINANCIERA CONSOLIDADA"
+  city: "VALENCIA"
+  branch: null
+  swift: SOFCVEC102V
+    
+- name: "SOCIEDAD FINANCIERA DE OCCIDENTE"
+  city: "MARACAIBO"
+  branch: null
+  swift: SFOCVE21
+    
+- name: "SOCIEDAD FINANCIERA DE VENEZUELA CA"
+  city: "CARACAS"
+  branch: null
+  swift: SFVEVEC1
+    
+- name: "SOCIEDAD FINANCIERA VALINVENCA"
+  city: "CARACAS"
+  branch: null
+  swift: SFVAVEC1
+    
+- name: "SOFICREDITO"
+  city: "CARACAS"
+  branch: null
+  swift: SFCRVEC1
+    
+- name: "SOFIMERCA CASA DE BOLSA, C.A."
+  city: "CARACAS"
+  branch: null
+  swift: SOMEVEC1
+    
+- name: "TRADIMPEX BIENES RAICES C.A."
+  city: "CARACAS"
+  branch: null
+  swift: TRBRVEC1
+    
+- name: "VALINBANK"
+  city: "CARACAS"
+  branch: null
+  swift: VALKVEC1
+    
+- name: "VALORES SANTANDER CASA DE CORRETAJE"
+  city: "CARACAS"
+  branch: null
+  swift: VSCCVEC1
+    
+- name: "VALORES VENCRED SA"
+  city: "CARACAS"
+  branch: null
+  swift: VAVEVEC1
+    
+- name: "VENEZOLANO DE CREDITO, S.A. BANCO UNIVERSAL"
+  city: "CARACAS"
+  branch: null
+  swift: VZCRVECA
+    
+- name: "VESTCORPARTNERS C.A."
+  city: "CARACAS"
+  branch: null
+  swift: VECOVEC1
+    

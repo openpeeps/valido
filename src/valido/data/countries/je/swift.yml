@@ -1,0 +1,1230 @@
+- name: "ABN AMRO TRUST COMPANY (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: ATCJJES1
+    
+- name: "ABU DHABI COMMERCIAL BANK PJSC, JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: null
+  swift: ADCBJESH
+    
+- name: "ALPHA BANK JERSEY LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: ALJEJES1
+    
+- name: "ASAHI LIFE INVESTMENT EUROPE LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: ALIEJES1
+    
+- name: "ASHBURTON (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: ASHMJES1
+    
+- name: "B.A.I.I. TRUST LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: BTRUJES1
+    
+- name: "BALOISE FINANCE (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: BAFJJES1
+    
+- name: "BANK LEUMI JERSEY LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: LUMIJES1
+    
+- name: "BANK OF INDIA, JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: null
+  swift: BKIDJESH
+    
+- name: "BANK OF SCOTLAND - JERSEY TREASURY"
+  city: "ST. HELIER"
+  branch: DON ROAD OFFSHORE
+  swift: BOFSJES1DRO
+    
+- name: "BANK OF SCOTLAND - JERSEY TREASURY"
+  city: "ST. HELIER"
+  branch: INTERNATIONAL , JERSEY
+  swift: BOFSJES1JER
+    
+- name: "BANK OF SCOTLAND - JERSEY TREASURY"
+  city: "ST. HELIER"
+  branch: JERSEY (R) 12.47.53
+  swift: BOFSJES1011
+    
+- name: "BANK OF SCOTLAND - JERSEY TREASURY"
+  city: "ST. HELIER"
+  branch: JERSEY MONEY MKT A/C CTRE (R) 12.47.54
+  swift: BOFSJES1012
+    
+- name: "BANK OF SCOTLAND - JERSEY TREASURY"
+  city: "ST. HELIER"
+  branch: null
+  swift: BOFSJES1
+    
+- name: "BANK OF SCOTLAND (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: JERSEY MONEY MARKET ACCOUNTS CENTRE
+  swift: BOFSJES1001
+    
+- name: "BANK OF SCOTLAND (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: PERSONAL FINANCIAL SERVICES JERSEY
+  swift: BOFSJES1002
+    
+- name: "BANK OF SCOTLAND (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: SPEIRS AND JEFFREY JERSEY BRANCH
+  swift: BOFSJES1SPJ
+    
+- name: "BANK OF SCOTLAND (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: TURCAN CONNELL OFFSHORE BRANCH
+  swift: BOFSJES1TCO
+    
+- name: "BANQUE NATIONALE DE PARIS"
+  city: "ST. HELIER"
+  branch: null
+  swift: BNPAJESH
+    
+- name: "BARCLAYS BANK PLC"
+  city: "GEORGETOWN"
+  branch: PERSONAL BANKING INTERNATIONAL - CUST. A-J (JERSEY)
+  swift: BARCJES1022
+    
+- name: "BARCLAYS BANK PLC"
+  city: "GEORGETOWN"
+  branch: PERSONAL BANKING INTERNATIONAL - CUST. K-Z (JERSEY)
+  swift: BARCJES1023
+    
+- name: "BARCLAYS BANK PLC"
+  city: "GEORGETOWN"
+  branch: PERSONAL BANKING INTERNATIONAL - JERSEY
+  swift: BARCJES1026
+    
+- name: "BARCLAYS BANK PLC"
+  city: "ST. HELIER"
+  branch: BARCLAYS BANK PLC JERSEY
+  swift: BARCJES10S3
+    
+- name: "BARCLAYS BANK PLC"
+  city: "ST. HELIER"
+  branch: BPCI LIMITED WOOLWICH JERSEY
+  swift: BARCJES10WJ
+    
+- name: "BARCLAYS BANK PLC"
+  city: "ST. HELIER"
+  branch: null
+  swift: BARCJES1
+    
+- name: "BARCLAYS BANK PLC FIDUCIARY DEPOSIT BUSINESS"
+  city: "ST. HELIER"
+  branch: null
+  swift: BARCJESX
+    
+- name: "BARCLAYS BANK PLC, JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: null
+  swift: BARCJESA
+    
+- name: "BARCLAYS PRIVATE BANK AND TRUST LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: BPBLJES1
+    
+- name: "BEDELL TRUST COMPANY LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: BEDLJESH
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: GLOBAL CUSTODY
+  swift: PARBJESHISI
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: JERSEY
+  swift: PARBJESHFDA
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1000
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1001
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1002
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1003
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1004
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1005
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1006
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1007
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1008
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1009
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1010
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1011
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1012
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1013
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1014
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1015
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1016
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1017
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1018
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1019
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1020
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1021
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1022
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1023
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1024
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1025
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1026
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1027
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1028
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1029
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1030
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1031
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1032
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1033
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1034
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1035
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1036
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1037
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1038
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1039
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1040
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1041
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1042
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1043
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1044
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1045
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1046
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1047
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1048
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1049
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1050
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1051
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1052
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1053
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1054
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1055
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1056
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1057
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1058
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1059
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1060
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1061
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1062
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1063
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1064
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1065
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1066
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1067
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1068
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1069
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1070
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1071
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1072
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1073
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1074
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1075
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1076
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1077
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1078
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1079
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1080
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1081
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1082
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1083
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1084
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1085
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1086
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1087
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1088
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1089
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1090
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1091
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1092
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1093
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1094
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1095
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1096
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1097
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1098
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1099
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1100
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1101
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1102
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1103
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1104
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1105
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1106
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1107
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1108
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1109
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1110
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1111
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1112
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1113
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1114
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1115
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1116
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1117
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1118
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1119
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: ST. HELIER
+  swift: PARBJEH1120
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: null
+  swift: PARBJEH1
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: null
+  swift: PARBJEH1THR
+    
+- name: "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: null
+  swift: PARBJESH
+    
+- name: "BREVAN HOWARD INVESTMENT PRODUCTS LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: BHIRJES1
+    
+- name: "CAPITA FIDUCIARY GROUP LIMITED"
+  city: "ST. HELIER"
+  branch: CLIENT 1
+  swift: CFGRJES1CL1
+    
+- name: "CAPITA FIDUCIARY GROUP LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: CFGRJES1
+    
+- name: "CAPITA FIDUCIARY GROUP LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: CFGRJES1AVM
+    
+- name: "CAPITA FIDUCIARY GROUP LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: CFGRJES1LVM
+    
+- name: "CATER ALLEN STOCKBROKERS LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: JEFEJES1
+    
+- name: "CAZENOVE PORTFOLIO MANAGEMENT JERSEY"
+  city: "ST. HELIER"
+  branch: null
+  swift: CAZEJES1
+    
+- name: "CFP ENERGY LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: CFPEJES1
+    
+- name: "CITIBANK N.A."
+  city: "ST. HELIER"
+  branch: CITIBANK JERSEY EMFX CONFIRMATIONS
+  swift: CITIJESXEFX
+    
+- name: "CITIBANK N.A."
+  city: "ST. HELIER"
+  branch: PRIVATE BANKING GROUP
+  swift: CITIJESXLPN
+    
+- name: "CITIBANK N.A."
+  city: "ST. HELIER"
+  branch: null
+  swift: CITIJESX
+    
+- name: "CITICORP BANKING CORPORATION"
+  city: "ST. HELIER"
+  branch: null
+  swift: CITIJEHX
+    
+- name: "CITIGROUP (CHANNEL ISLANDS) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: CITIJEJX
+    
+- name: "COLLINS STEWART (OFFSHORE) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: MATSJES1
+    
+- name: "DEUTSCHE BANK INTERNATIONAL LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: MGCOJESH
+    
+- name: "DEUTSCHE INTERNATIONAL CORPORATE SERVICES LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: DICEJES1
+    
+- name: "EBC TRUST COMPANY (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: EBCJJES1
+    
+- name: "EFG PRIVATE BANK (C.I.) LT, JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: null
+  swift: EFGBJESH
+    
+- name: "FENCHURCH TRUST LTD."
+  city: "ST. HELIER"
+  branch: null
+  swift: FETRJES1
+    
+- name: "FERGUSON PLC"
+  city: "ST. HELIER"
+  branch: null
+  swift: FRGSJESH
+    
+- name: "FORTEN ASSET MANAGEMENT LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: FOSNJES1
+    
+- name: "GARTMORE FUND MANAGERS INTERNATIONAL LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: GRTLJES1
+    
+- name: "GOLDMAN SACHS JERSEY LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: GOSYJES1
+    
+- name: "HSBC BANK INTERNATIONAL LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: MIDLJESH
+    
+- name: "HSBC BANK INTERNATIONAL LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: MIDLJESH01A
+    
+- name: "HSBC BANK PLC"
+  city: "ST. HELIER"
+  branch: 402533
+  swift: MIDLJEH104A
+    
+- name: "HSBC BANK PLC"
+  city: "ST. HELIER"
+  branch: FIVE OAKS, JERSEY
+  swift: MIDLJEH106A
+    
+- name: "HSBC BANK PLC"
+  city: "ST. HELIER"
+  branch: HALKETT STREET, JERSEY
+  swift: MIDLJEH105A
+    
+- name: "HSBC BANK PLC"
+  city: "ST. HELIER"
+  branch: null
+  swift: MIDLJEH1
+    
+- name: "HSBC GLOBAL ASSET MANAGEMENT (INTERNATIONAL) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: JCCLJES1
+    
+- name: "HSBC JERSEY ST. BRELADE"
+  city: "ST. BRELADE"
+  branch: null
+  swift: MIDLJEJ1
+    
+- name: "INCOME PARTNERS"
+  city: "ST. HELIER"
+  branch: null
+  swift: ICMEJES1
+    
+- name: "J. P. MORGAN INTERNATIONAL DERIVATIVES LTD."
+  city: "ST. HELIER"
+  branch: null
+  swift: MOIEJES1
+    
+- name: "JPMORGAN CHASE BANK, N.A., JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASJESXENQ
+    
+- name: "JPMORGAN CHASE BANK, N.A., JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASJESXKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: null
+  swift: CHASJESX
+    
+- name: "L.B.I. FINANCE (JERSEY) LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: LBFJJES1
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: HSAMJESH
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: LOYDJEH1
+    
+- name: "LLOYDS BANK PLC"
+  city: "ST. HELIER"
+  branch: null
+  swift: LLCMJESHMKT
+    
+- name: "LLOYDS BANK PLC-JERSEY"
+  city: "ST. BRELADE"
+  branch: ST. BRELADE (774702)
+  swift: LOYDJES1003
+    
+- name: "LLOYDS BANK PLC-JERSEY"
+  city: "ST. HELIER"
+  branch: FIVE OAKS (774703)
+  swift: LOYDJES1004
+    
+- name: "LLOYDS BANK PLC-JERSEY"
+  city: "ST. HELIER"
+  branch: FIVE OAKS (774704)
+  swift: LOYDJES1005
+    
+- name: "LLOYDS BANK PLC-JERSEY"
+  city: "ST. HELIER"
+  branch: JERSEY OFFSHORE CENTRE - 301642 
+  swift: LOYDJES1006
+    
+- name: "LLOYDS BANK PLC-JERSEY"
+  city: "ST. HELIER"
+  branch: JERSEY OFFSHORE CENTRE - 774709
+  swift: LOYDJES1007
+    
+- name: "LLOYDS BANK PLC-JERSEY"
+  city: "ST. HELIER"
+  branch: ST. HELIER (309461)
+  swift: LOYDJES1001
+    
+- name: "LLOYDS BANK PLC-JERSEY"
+  city: "ST. HELIER"
+  branch: ST. HELIER (774701)
+  swift: LOYDJES1002
+    
+- name: "LLOYDS BANK PLC-JERSEY"
+  city: "ST. HELIER"
+  branch: null
+  swift: LOYDJEJ1
+    
+- name: "LLOYDS BANK PLC-JERSEY"
+  city: "ST. HELIER"
+  branch: null
+  swift: LOYDJESH
+    
+- name: "LOMBARD ODIER DARIER HENTSCH (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: LOCYJES1
+    
+- name: "LYXOR/BLACK DIAMOND ARBITRAGE"
+  city: "ST. HELIER"
+  branch: null
+  swift: LYDAJES1
+    
+- name: "MINERVA TRUST AND CORPORATE SERVICES LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: MTCSJESH
+    
+- name: "MORGAN GUARANTY TRUST CO. OF NEW YORK"
+  city: "ST. HELIER"
+  branch: null
+  swift: MGTCJES1
+    
+- name: "MOURANT AND CO. LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: MOURJES1
+    
+- name: "NATWEST OFFSHORE - JERSEY"
+  city: "ST. HELIER"
+  branch: null
+  swift: RBOSJE41
+    
+- name: "NATWEST-JERSEY"
+  city: "ST. HELIER"
+  branch: null
+  swift: RBOSJESH
+    
+- name: "NEDBANK PRIVATE WEALTH LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: RFLCJESX
+    
+- name: "NET-GOLD SERVICES LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: GMNYJESH
+    
+- name: "NEWTON FUND MANAGERS (C.I.) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: NEFAJEH1
+    
+- name: "PALA ASSETS HOLDINGS LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: PASDJES1
+    
+- name: "PALA INVESTMENTS LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: PAVVJES1
+    
+- name: "PERSHING (CHANNEL ISLANDS) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: PERLJESH
+    
+- name: "PLATFORM SECURITIES INTERNATIONAL LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: PLSIJEJ1
+    
+- name: "QUILTER AND CO CHANNEL ISLANDS"
+  city: "ST. HELIER"
+  branch: null
+  swift: QUITJES1
+    
+- name: "R AND H FUND SERVICES (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: FUSJJES1
+    
+- name: "RBS INTERNATIONAL"
+  city: "ST. HELIER"
+  branch: null
+  swift: RBOSJESJ
+    
+- name: "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE"
+  city: "ST. HELIER"
+  branch: null
+  swift: RBOSJESX
+    
+- name: "ROYAL BANK OF SCOTLAND JERSEY ST. HELIER (PLC)"
+  city: "ST. HELIER"
+  branch: JERSEY ST. HELIER BRANCH
+  swift: RBOSJES1028
+    
+- name: "ROYAL BANK OF SCOTLAND JERSEY ST. HELIER (PLC)"
+  city: "ST. HELIER"
+  branch: JERSEY ST. HELIER BRANCH
+  swift: RBOSJES1891
+    
+- name: "ROYAL BANK OF SCOTLAND JERSEY ST. HELIER (PLC)"
+  city: "ST. HELIER"
+  branch: JERSEY ST. HELIER BRANCH
+  swift: RBOSJES1893
+    
+- name: "ROYAL BANK OF SCOTLAND JERSEY ST. HELIER (PLC)"
+  city: "ST. HELIER"
+  branch: null
+  swift: RBOSJES1
+    
+- name: "ROYAL BANK OF SCOTLAND JERSEY ST. HELIER (PLC)"
+  city: "ST. HELIER"
+  branch: null
+  swift: RBOSJES1560
+    
+- name: "SANNE FIDUCIARY SERVICES LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: SNLTJESH
+    
+- name: "SANTANDER UK PLC"
+  city: "ST. HELIER"
+  branch: TREASURY OPERATIONS
+  swift: ANILJESHTSY
+    
+- name: "SANTANDER UK PLC"
+  city: "ST. HELIER"
+  branch: null
+  swift: ANILJESH
+    
+- name: "SG KLEINWORT HAMBROS BANK (CI) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: HAMBJESX
+    
+- name: "SOCIETE GENERAL INVESTMENT MANAGEMENT (CHANNEL IS LANDS) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: SGIMJES1
+    
+- name: "SODITIC AND CO. LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: SOFLJES1
+    
+- name: "STANDARD BANK JERSEY LTD."
+  city: "ST. HELIER"
+  branch: null
+  swift: SBICJESH
+    
+- name: "STANDARD BANK STOCKBROKERS (C.I.) LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: SBICJES1
+    
+- name: "STANDARD BANK STOCKBROKERS (C.I.) LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: SBICJES1243
+    
+- name: "STANDARD CHARTERED BANK, JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: null
+  swift: SCBLJESH
+    
+- name: "STANDARD CHARTERED TRUST CO."
+  city: "ST. HELIER"
+  branch: null
+  swift: SDCTJES1
+    
+- name: "STATE STREET BANK AND TRUST COMPANY"
+  city: "ST. HELIER"
+  branch: null
+  swift: SBOSJESH
+    
+- name: "STONEHAGE FLEMING DEALING AND TREASURY SERVICES (JERSEY) LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: SDTSJESH
+    
+- name: "STONEHAGE FLEMING TRUST HOLDINGS (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: SFSHJESH
+    
+- name: "TINTRADE LTD"
+  city: "ST. HELIER"
+  branch: null
+  swift: TINRJES1
+    
+- name: "TRIDENT TRUST COMPANY LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: TDENJESH
+    
+- name: "UBS AG JERSEY BRANCH"
+  city: "ST. HELIER"
+  branch: JERSEY BRANCH
+  swift: UBSWJESH
+    
+- name: "UNION BANCAIRE PRIVEE, UBP"
+  city: "ST. HELIER"
+  branch: null
+  swift: UBPGJESX
+    
+- name: "VISTRA (JERSEY) LIMITED"
+  city: "ST. HELIER"
+  branch: null
+  swift: VISTJESH
+    

@@ -1,0 +1,410 @@
+- name: "ACUITY SECURITIES LIMITED"
+  city: "COLOMBO"
+  branch: null
+  swift: HNBSLKLX
+    
+- name: "AMANA BANK PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: AMNALKLX
+    
+- name: "ASHA PHILLIP SECURITIES LIMITED"
+  city: "COLOMBO"
+  branch: null
+  swift: ALSBLKL1
+    
+- name: "ASIA STOCKBROKING AND INVESTMENT MANAGMENT (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: ASIMLKL1
+    
+- name: "ASIAN SECURITIES (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: ASSPLKL1
+    
+- name: "AXIS BANK LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: AXISLKLX
+    
+- name: "BANK OF CEYLON"
+  city: "COLOMBO"
+  branch: CENTRAL BUS STAND BRANCH
+  swift: BCEYLKLX573
+    
+- name: "BANK OF CEYLON"
+  city: "COLOMBO"
+  branch: FOREIGN CURRENCY BANKING UNIT
+  swift: BCEYLKLX131
+    
+- name: "BANK OF CEYLON"
+  city: "COLOMBO"
+  branch: METROPOLITAN BRANCH
+  swift: BCEYLKLX618
+    
+- name: "BANK OF CEYLON"
+  city: "COLOMBO"
+  branch: NON RESIDENT FOREIGN CURRENCY UNIT
+  swift: BCEYLKLX125
+    
+- name: "BANK OF CEYLON"
+  city: "COLOMBO"
+  branch: PRIMARY DEALER UNIT
+  swift: BCEYLKLXPRI
+    
+- name: "BANK OF CEYLON"
+  city: "COLOMBO"
+  branch: null
+  swift: BCEYLKLX
+    
+- name: "BANK OF CEYLON"
+  city: "KANDY"
+  branch: SUPER GRADE BRANCH
+  swift: BCEYLKLX002
+    
+- name: "BANK OF CEYLON"
+  city: "PETTAH"
+  branch: null
+  swift: BCEYLKLX004
+    
+- name: "BARTLEET MALLORY STOCKBROKERS (PVT) LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: BMSVLKL1
+    
+- name: "C T SMITH STOCKBROKERS (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: SMSPLKL1
+    
+- name: "CAPITAL ALLIANCE LIMITED"
+  city: "COLOMBO"
+  branch: null
+  swift: CALDLKLX
+    
+- name: "CARGILLS BANK LIMITED"
+  city: "COLOMBO"
+  branch: null
+  swift: CGRBLKLX
+    
+- name: "CDIC SASSOON CUMBERBATCH STOCKBROKERS (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: CSCSLKL1
+    
+- name: "CENTRAL BANK OF SRI LANKA"
+  city: "COLOMBO"
+  branch: EMPLOYEES' PROVIDENT FUND - CBSL
+  swift: CBCELKLXEPF
+    
+- name: "CENTRAL BANK OF SRI LANKA"
+  city: "COLOMBO"
+  branch: null
+  swift: CBCELKLS
+    
+- name: "CENTRAL BANK OF SRI LANKA"
+  city: "COLOMBO"
+  branch: null
+  swift: CBCELKLX
+    
+- name: "CENTRAL DEPOSITORY SYSTEMS (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: CDSPLKLC
+    
+- name: "CEYLON TOBACCO COMPANY PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: BATSLKA1
+    
+- name: "CITIBANK N.A. SRI LANKA"
+  city: "COLOMBO"
+  branch: null
+  swift: CITILKLX
+    
+- name: "COLOMBO STOCK EXCHANGE"
+  city: "COLOMBO"
+  branch: null
+  swift: XCOLLKL1
+    
+- name: "COMMERCIAL BANK OF CEYLON PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: CCEYLKLX
+    
+- name: "COMMERCIAL BANK PRIMARY DEALER LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: CBPDLKL1
+    
+- name: "COMMERCIAL STOCKBROKERS (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: COSPLKL1
+    
+- name: "DE SILVA AND ABEYWARDENA STOCKBROKERS (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: SASVLKL1
+    
+- name: "DEUTSCHE BANK AG, COLOMBO BRANCH"
+  city: "COLOMBO"
+  branch: COLOMBO BRANCH
+  swift: DEUTLKLX001
+    
+- name: "DEUTSCHE BANK AG, COLOMBO BRANCH"
+  city: "COLOMBO"
+  branch: null
+  swift: DEUTLKLX
+    
+- name: "DEUTSCHE BANK AG, COLOMBO BRANCH"
+  city: "COLOMBO"
+  branch: null
+  swift: DEUTLKLXGMO
+    
+- name: "DFCC BANK PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: DFCCLKLX
+    
+- name: "ENTRUST SECURITIES PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: CSSLLKLX
+    
+- name: "FIRST CAPITAL TREASURIES LIMITED"
+  city: "COLOMBO"
+  branch: null
+  swift: FCTLLKLX
+    
+- name: "FITCH RATINGS LANKA LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: FRIPLKL1
+    
+- name: "FORBES AND WALKER STOCKBROKERS (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: FWSPLKL1
+    
+- name: "HABIB BANK LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: HABBLKLC
+    
+- name: "HATTON NATIONAL BANK PLC"
+  city: "COLOMBO"
+  branch: FOREIGN CURRENCY BANKING UNIT
+  swift: HBLILKLX001
+    
+- name: "HATTON NATIONAL BANK PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: HBLILKLX
+    
+- name: "HDF SECURITIES (PVT) LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: HDSPLKL1
+    
+- name: "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+  city: "COLOMBO"
+  branch: null
+  swift: HSBCLKLX
+    
+- name: "ICICI BANK LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: ICICLKLX
+    
+- name: "IIFL SECURITIES CEYLON (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: IFLLLKL1
+    
+- name: "INDIAN BANK"
+  city: "COLOMBO"
+  branch: null
+  swift: IDIBLKLC
+    
+- name: "INDIAN OVERSEAS BANK"
+  city: "COLOMBO"
+  branch: null
+  swift: IOBALKLC
+    
+- name: "JB SECURITIES (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: JSPLLKL1
+    
+- name: "JOHN KEELLS STOCKBROKERS (PVT) LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: JKSPLKL1
+    
+- name: "LANKA ORIX FINANCE PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: LOFCLKLC
+    
+- name: "LANKA SECURITIES (PVT) LIMITED"
+  city: "COLOMBO"
+  branch: null
+  swift: LASPLKL1
+    
+- name: "MCB BANK LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: MUCBLKLC
+    
+- name: "NAT WEALTH SECURITIES LIMITED"
+  city: "COLOMBO"
+  branch: null
+  swift: NWSLLKLX
+    
+- name: "NATION LANKA EQUITIES (PVT) LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: CESPLKL1
+    
+- name: "NATIONAL DEVELOPMENT BANK PLC."
+  city: "COLOMBO"
+  branch: null
+  swift: NDBSLKLX
+    
+- name: "NATIONAL SAVINGS BANK"
+  city: "COLOMBO"
+  branch: null
+  swift: NSBALKLX
+    
+- name: "NATIONS TRUST BANK PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: NTBCLKLX
+    
+- name: "NDBS STOCKBROKERS (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: NDSPLKL1
+    
+- name: "NSB FUND MANAGEMENT COMPANY LIMITED"
+  city: "COLOMBO"
+  branch: null
+  swift: NSBFLKLX
+    
+- name: "PAN ASIA BANKING CORPORATION PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: PABSLKLX
+    
+- name: "PEOPLE'S BANK,HEAD OFFICE"
+  city: "COLOMBO"
+  branch: HEAD OFFICE
+  swift: PSBKLKLX
+    
+- name: "PEOPLE'S BANK,HEAD OFFICE"
+  city: "COLOMBO"
+  branch: INTERNATIONAL DEPARTMENT
+  swift: PSBKLKLX022
+    
+- name: "PEOPLE'S BANK,HEAD OFFICE"
+  city: "COLOMBO"
+  branch: OVERSEAS DEPARTMENT
+  swift: PSBKLKLX023
+    
+- name: "PEOPLE'S MERCHANT BANK LIMITED"
+  city: "COLOMBO"
+  branch: null
+  swift: MEBPLKL1
+    
+- name: "PERPETUAL TREASURIES LIMITED"
+  city: "COLOMBO"
+  branch: null
+  swift: PPTLLKLX
+    
+- name: "PUBLIC BANK BERHAD"
+  city: "COLOMBO"
+  branch: null
+  swift: PBBELKLX
+    
+- name: "SAMPATH BANK PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: BSAMLKLX
+    
+- name: "SENKADAGALA FINANCE PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: SENFLKLX
+    
+- name: "SEYLAN BANK PLC"
+  city: "COLOMBO"
+  branch: TREASURY DIVISION
+  swift: SEYBLKLXTRY
+    
+- name: "SEYLAN BANK PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: SEYBLKLX
+    
+- name: "SOFTLOGIC STOCKBROKERS (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: ARAVLKL1
+    
+- name: "SOMERVILLE STOCKBROKERS (PVT) LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: SOSPLKL1
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "COLOMBO"
+  branch: null
+  swift: SCBLLKLX
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "COLOMBO"
+  branch: null
+  swift: SCBLLKLXEQI
+    
+- name: "STATE BANK OF INDIA"
+  city: "COLOMBO"
+  branch: FOREIGN CURRENCY BANKING UNIT
+  swift: SBINLKLXFCB
+    
+- name: "STATE BANK OF INDIA"
+  city: "COLOMBO"
+  branch: null
+  swift: SBINLKLX
+    
+- name: "STATE BANK OF INDIA"
+  city: "JAFFNA"
+  branch: JAFFNA BRANCH
+  swift: SBINLKLXJFN
+    
+- name: "STATE BANK OF INDIA"
+  city: "KANDY"
+  branch: KANDY BRANCH
+  swift: SBINLKLXKDY
+    
+- name: "TA SECURITIES LANKA (PUT) LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: SETELKL1
+    
+- name: "TKS SECURITIES PVT LTD."
+  city: "COLOMBO"
+  branch: null
+  swift: TKSPLKL1
+    
+- name: "UNION BANK OF COLOMBO PLC"
+  city: "COLOMBO"
+  branch: null
+  swift: UBCLLKLC
+    
+- name: "WEALTHTRUST SECURITIES LTD"
+  city: "COLOMBO"
+  branch: null
+  swift: WTEYLKLX
+    

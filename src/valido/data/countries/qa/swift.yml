@@ -1,0 +1,410 @@
+- name: "ABU DHABI ISLAMIC BANK"
+  city: "DOHA"
+  branch: null
+  swift: ABDIQAQA
+    
+- name: "AHLI BANK QSC"
+  city: "DOHA"
+  branch: AIRPORT BRANCH
+  swift: ABQQQAQAAIR
+    
+- name: "AHLI BANK QSC"
+  city: "DOHA"
+  branch: DOHA NAVAL BASE BRANCH
+  swift: ABQQQAQADNB
+    
+- name: "AHLI BANK QSC"
+  city: "DOHA"
+  branch: MAIN BRANCH
+  swift: ABQQQAQA
+    
+- name: "AHLI BANK QSC"
+  city: "DOHA"
+  branch: MERGHAB BRANCH
+  swift: ABQQQAQAMER
+    
+- name: "AL DAR FOR EXCHANGE WORKS"
+  city: "DOHA"
+  branch: null
+  swift: AFEWQAQA
+    
+- name: "AL KHALIJ COMMERCIAL BANK"
+  city: "DOHA"
+  branch: null
+  swift: KLJIQAQA
+    
+- name: "AL ZAMAN EXCHANGE W.L.L"
+  city: "DOHA"
+  branch: null
+  swift: ALZAQAQA
+    
+- name: "ALFARDAN EXCHANGE LLC"
+  city: "DOHA"
+  branch: null
+  swift: AFXQQAQA
+    
+- name: "ALJAZEERA EXCHANGE COMPANY"
+  city: "DOHA"
+  branch: null
+  swift: AEXCQAQA
+    
+- name: "ARAB BANK PLC"
+  city: "DOHA"
+  branch: ALSADD BRANCH
+  swift: ARABQAQASAD
+    
+- name: "ARAB BANK PLC"
+  city: "DOHA"
+  branch: C RING BRANCH
+  swift: ARABQAQARD3
+    
+- name: "ARAB BANK PLC"
+  city: "DOHA"
+  branch: CENTRAL TRANSFER UNIT
+  swift: ARABQAQACTU
+    
+- name: "ARAB BANK PLC"
+  city: "DOHA"
+  branch: PAYMENTS INVESTIGATIONS
+  swift: ARABQAQAINV
+    
+- name: "ARAB BANK PLC"
+  city: "DOHA"
+  branch: TRADE SERVICES UNIT
+  swift: ARABQAQATSU
+    
+- name: "ARAB BANK PLC"
+  city: "DOHA"
+  branch: TREASURY OPERATIONS
+  swift: ARABQAQATRO
+    
+- name: "ARAB BANK PLC"
+  city: "DOHA"
+  branch: null
+  swift: ARABQAQA
+    
+- name: "ARAB JORDAN INVESTMENT BANK (QATAR) LLC"
+  city: "DOHA"
+  branch: null
+  swift: AJIBQAQA
+    
+- name: "BANK AUDI LLC"
+  city: "DOHA"
+  branch: null
+  swift: AUDBQAQA
+    
+- name: "BARWA BANK"
+  city: "DOHA"
+  branch: null
+  swift: BRWAQAQA
+    
+- name: "BLOM BANK QATAR LLC"
+  city: "DOHA"
+  branch: null
+  swift: BLOMQAQA
+    
+- name: "BNP PARIBAS"
+  city: "DOHA"
+  branch: null
+  swift: BNPAQA21
+    
+- name: "BNP PARIBAS, DOHA"
+  city: "DOHA"
+  branch: null
+  swift: BNPAQAQA
+    
+- name: "BOC LTD QATAR FINANCIAL CENTRE BRANCH WEST BAY"
+  city: "DOHA"
+  branch: null
+  swift: BKCHQAQA
+    
+- name: "CITIBANK N.A."
+  city: "DOHA"
+  branch: null
+  swift: CITIQAQA
+    
+- name: "CITY EXCHANGE CO. W.L.L"
+  city: "DOHA"
+  branch: null
+  swift: CECQQAQ1
+    
+- name: "DLALA BROKERAGE LLC"
+  city: "DOHA"
+  branch: null
+  swift: DLBOQAQA
+    
+- name: "DOHA BANK"
+  city: "DOHA"
+  branch: DOHA ISLAMIC
+  swift: DOHBQAQADIS
+    
+- name: "DOHA BANK"
+  city: "DOHA"
+  branch: MUSHAIREB BRANCH - DOHA CITY
+  swift: DOHBQAQAMSB
+    
+- name: "DOHA BANK"
+  city: "DOHA"
+  branch: SALWA ROAD BRANCH - DOHA INDUSTRIAL AREA
+  swift: DOHBQAQASRB
+    
+- name: "DOHA BANK"
+  city: "DOHA"
+  branch: WEST BAY BRANCH
+  swift: DOHBQAQAWBB
+    
+- name: "DOHA BANK"
+  city: "DOHA"
+  branch: null
+  swift: DOHBQAQA
+    
+- name: "DOHA BANK"
+  city: "DUKHAN"
+  branch: DUKHAN BRANCH
+  swift: DOHBQAQADKB
+    
+- name: "DOHA BANK"
+  city: "UMM SAID"
+  branch: UMM SAID BRANCH
+  swift: DOHBQAQAUSB
+    
+- name: "DOHA SECURITIES MARKET"
+  city: "DOHA"
+  branch: null
+  swift: DSMDQAQA
+    
+- name: "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI) - QFC BRANCH"
+  city: "DOHA"
+  branch: null
+  swift: FGBMQAQA
+    
+- name: "GULF INVESTMENT GROUP"
+  city: "DOHA"
+  branch: null
+  swift: GUIRQAA1
+    
+- name: "GULF INVESTMENTS GROUP"
+  city: "DOHA"
+  branch: null
+  swift: GUIRQAQ1
+    
+- name: "HSBC BANK MIDDLE EAST LIMITED"
+  city: "DOHA"
+  branch: null
+  swift: BBMEQAQX
+    
+- name: "ICICI BANK LIMITED (QFC BRANCH)"
+  city: "DOHA"
+  branch: null
+  swift: ICICQAQA
+    
+- name: "ICICI BANK LIMITED (QFC BRANCH)"
+  city: "DOHA"
+  branch: null
+  swift: ICICQAQACOP
+    
+- name: "ICICI BANK LIMITED (QFC BRANCH)"
+  city: "DOHA"
+  branch: null
+  swift: ICICQAQAGTS
+    
+- name: "ICICI BANK LIMITED (QFC BRANCH)"
+  city: "DOHA"
+  branch: null
+  swift: ICICQAQATMO
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LIMITED"
+  city: "DOHA"
+  branch: CLEAR CENTRE
+  swift: ICBKQAQACLR
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LIMITED"
+  city: "DOHA"
+  branch: null
+  swift: ICBKQAQA
+    
+- name: "INTERNATIONAL BANK OF QATAR (Q.S.C.)"
+  city: "DOHA"
+  branch: null
+  swift: IBOQQAQA
+    
+- name: "INTERNATIONAL FINANCIAL SECURITIES CO."
+  city: "DOHA"
+  branch: null
+  swift: ITFSQAQ1
+    
+- name: "ISLAMIC FINANCIAL SECURITIES COMPANY"
+  city: "DOHA"
+  branch: null
+  swift: IFSOQAQ1
+    
+- name: "LARI EXCHANGE COMPANY QATAR"
+  city: "DOHA"
+  branch: null
+  swift: LAEXQAQ1
+    
+- name: "MASHREQ BANK"
+  city: "DOHA"
+  branch: null
+  swift: MSHQQAQA
+    
+- name: "MASRAF AL RAYAN"
+  city: "DOHA"
+  branch: null
+  swift: MAFRQAQA
+    
+- name: "MINISTRY OF FINANCE"
+  city: "DOHA"
+  branch: null
+  swift: MIIFQAQA
+    
+- name: "QATAR CENTRAL BANK"
+  city: "DOHA"
+  branch: null
+  swift: QMAGQAQA
+    
+- name: "QATAR DEVELOPMENT BANK"
+  city: "DOHA"
+  branch: null
+  swift: QIDBQAQA
+    
+- name: "QATAR FIRST INVESTMENT BANK"
+  city: "DOHA"
+  branch: null
+  swift: QFIBQAQA
+    
+- name: "QATAR FOUNDATION"
+  city: "DOHA"
+  branch: null
+  swift: QFQFQAQA
+    
+- name: "QATAR INTERNATIONAL ISLAMIC BANK"
+  city: "DOHA"
+  branch: null
+  swift: QIIBQAQA
+    
+- name: "QATAR INVESTMENT AUTHORITY"
+  city: "DOHA"
+  branch: null
+  swift: GQICQAQA
+    
+- name: "QATAR ISLAMIC BANK"
+  city: "DOHA"
+  branch: null
+  swift: QISBQAQA
+    
+- name: "QATAR NATIONAL BANK"
+  city: "DOHA"
+  branch: CUSTODIAN
+  swift: QNBAQAQACUS
+    
+- name: "QATAR NATIONAL BANK"
+  city: "DOHA"
+  branch: FORIGN TRADE DEPT
+  swift: QNBAQAQAFTD
+    
+- name: "QATAR NATIONAL BANK"
+  city: "DOHA"
+  branch: OPERATION DEPT
+  swift: QNBAQAQACOD
+    
+- name: "QATAR NATIONAL BANK"
+  city: "DOHA"
+  branch: SECURITY LENDING
+  swift: QNBAQAQASLB
+    
+- name: "QATAR NATIONAL BANK"
+  city: "DOHA"
+  branch: TREASURY DEPT
+  swift: QNBAQAQATRO
+    
+- name: "QATAR NATIONAL BANK"
+  city: "DOHA"
+  branch: null
+  swift: QNBAQAQA
+    
+- name: "QATAR PETROLEUM"
+  city: "DOHA"
+  branch: null
+  swift: QPQPQAQA
+    
+- name: "QATAR PETROLEUM FOR THE SALE OF PETROLEUM PRODUCTS COMPANY LTD"
+  city: "DOHA"
+  branch: null
+  swift: TSWQQAQA
+    
+- name: "QATAR SECURITIES COMPANY"
+  city: "DOHA"
+  branch: null
+  swift: QASCQAQ1
+    
+- name: "QATARGAS OPERATING CO LTD"
+  city: "DOHA"
+  branch: null
+  swift: QAQGQAQA
+    
+- name: "QINVEST LLC"
+  city: "DOHA"
+  branch: null
+  swift: QINVQAQA
+    
+- name: "QNB FINANCIAL SERVICES"
+  city: "DOHA"
+  branch: null
+  swift: QNBFQAQ1
+    
+- name: "RASGAS COMPANY LIMITED"
+  city: "DOHA"
+  branch: null
+  swift: RLNGQAQA
+    
+- name: "RASGAS COMPANY LIMITED"
+  city: "DOHA"
+  branch: null
+  swift: RLNGQAT1
+    
+- name: "SAMBA FINANCIAL GROUP"
+  city: "DOHA"
+  branch: null
+  swift: SAMBQAQA
+    
+- name: "STANDARD CHARTERED BANK"
+  city: "DOHA"
+  branch: null
+  swift: SCBLQAQX
+    
+- name: "TASWEEQ"
+  city: "DOHA"
+  branch: null
+  swift: TSWQQAB1
+    
+- name: "THE COMMERCIAL BANK (Q.S.C)"
+  city: "DOHA"
+  branch: null
+  swift: CBQAQAQA
+    
+- name: "THE GROUP SECURITIES"
+  city: "DOHA"
+  branch: null
+  swift: GRPSQAQA
+    
+- name: "UNION NATIONAL BANK-QATAR"
+  city: "DOHA"
+  branch: null
+  swift: UNBEQAQH
+    
+- name: "UNITED BANK LIMITED, DOHA"
+  city: "DOHA"
+  branch: null
+  swift: UNILQAQA
+    
+- name: "UNITED BANK LIMITED, DOHA"
+  city: "DOHA"
+  branch: null
+  swift: UNILQAQATRY
+    
+- name: "UNITED BANK LTD"
+  city: "DOHA"
+  branch: null
+  swift: UDBKQAQ1
+    

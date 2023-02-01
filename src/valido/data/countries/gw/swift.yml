@@ -1,0 +1,30 @@
+- name: "BANCO DA AFRICA OCIDENTAL SA"
+  city: "BISSAU"
+  branch: null
+  swift: BAOBGWGW
+    
+- name: "BANCO DA UNIAO"
+  city: "BISSAU"
+  branch: null
+  swift: BDUGGWGW
+    
+- name: "BANQUE ATLANTIQUE DA GUINE-BISSAU,SA"
+  city: "BISSAU"
+  branch: null
+  swift: ATGWGWGW
+    
+- name: "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST"
+  city: "BISSAU"
+  branch: null
+  swift: BCAOGWG1
+    
+- name: "ECOBANK GUINEE BISSAU"
+  city: "BISSAU"
+  branch: null
+  swift: ECOCGWGW
+    
+- name: "ORABANK GUINEE BISSAU"
+  city: "BISSAU"
+  branch: null
+  swift: ORBKGWGW
+    

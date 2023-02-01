@@ -1,0 +1,3065 @@
+- name: "A.C. MACPHERSON AND CO. INC."
+  city: "TORONTO"
+  branch: null
+  swift: ACMCCAT1
+    
+- name: "ACCU-RATE CORPORATION"
+  city: "OTTAWA"
+  branch: null
+  swift: ACFXCAW1
+    
+- name: "ACKER FINLEY INC"
+  city: "TORONTO"
+  branch: null
+  swift: ACKFCAT1
+    
+- name: "ACUMEN CAPITAL PARTNERS"
+  city: "CALGARY"
+  branch: null
+  swift: ACCTCA61
+    
+- name: "AIR CANADA"
+  city: "MONTREAL"
+  branch: null
+  swift: ACNACA2Q
+    
+- name: "AIR CANADA PENSION MASTER TRUST FUND"
+  city: "MONTREAL"
+  branch: null
+  swift: ACMTCAMM
+    
+- name: "ALBERTA INVESTMENT MANAGEMENT CORPORATION"
+  city: "EDMONTON"
+  branch: null
+  swift: AIMCCA61
+    
+- name: "ALBERTA INVESTMENT MANAGEMENT CORPORATION"
+  city: "EDMONTON"
+  branch: null
+  swift: AIMCCA66
+    
+- name: "ALBERTA STOCK EXCHANGE, THE"
+  city: "CALGARY"
+  branch: null
+  swift: XALBCA61
+    
+- name: "ALBERTA TEACHERS RETIREMENT FUND BOARD"
+  city: "EDMONTON"
+  branch: null
+  swift: ATRFCA61
+    
+- name: "ALBERTA TREASURY BRANCHES"
+  city: "EDMONTON"
+  branch: null
+  swift: ATBRCA6E
+    
+- name: "ALPHA CAPITAL INC."
+  city: "MONTREAL"
+  branch: null
+  swift: ALPHCAM1
+    
+- name: "ALPHAFIXE CAPITAL"
+  city: "MONTREAL"
+  branch: null
+  swift: ALPICAM1
+    
+- name: "ALTACORP CAPITAL INC."
+  city: "CALGARY"
+  branch: null
+  swift: ALTTCA61
+    
+- name: "AQUILON CAPITAL CORP."
+  city: "TORONTO"
+  branch: null
+  swift: MMIGCAT1
+    
+- name: "ASIA PACIFIC FINANCIAL SERVICES CANADA LIMITED"
+  city: "VICTORIA"
+  branch: null
+  swift: APFICA81
+    
+- name: "AUREUS CAPITAL CORP."
+  city: "MONTREAL"
+  branch: null
+  swift: AURCCAM1
+    
+- name: "AVIVA INVESTORS NORTH AMERICA"
+  city: "TORONTO"
+  branch: null
+  swift: AINMCAT1
+    
+- name: "AZUR GROUP INC"
+  city: "MONTREAL"
+  branch: null
+  swift: AZGRCAMM
+    
+- name: "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH"
+  city: "TORONTO"
+  branch: FOREIGN CURRENCY SERVICES
+  swift: BOFACATTFCS
+    
+- name: "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH"
+  city: "TORONTO"
+  branch: GLOBAL DERIVATIVES AND FOREIGN EXCHANGE
+  swift: BOFACATTGRC
+    
+- name: "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH"
+  city: "TORONTO"
+  branch: TREASURY
+  swift: BOFACATTTSY
+    
+- name: "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: BOFACATT
+    
+- name: "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH"
+  city: "VANCOUVER"
+  branch: null
+  swift: BOFACATTVAN
+    
+- name: "BANK OF CANADA"
+  city: "OTTAWA"
+  branch: null
+  swift: BCANCAW2
+    
+- name: "BANK OF CHINA (CANADA)"
+  city: "TORONTO"
+  branch: null
+  swift: BKCHCATT
+    
+- name: "BANK OF CHINA (CANADA)"
+  city: "VANCOUVER"
+  branch: VANCOUVER BRANCH
+  swift: BKCHCATTVAN
+    
+- name: "BANK OF CHINA TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: BKCHCA21
+    
+- name: "BANK OF CHINA TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: BKCHCAT2
+    
+- name: "BANK OF MONTREAL SHORCAN"
+  city: "TORONTO"
+  branch: null
+  swift: BAMSCAT1
+    
+- name: "BANK OF MONTREAL, THE"
+  city: "MONTREAL"
+  branch: null
+  swift: BOFMCAM3
+    
+- name: "BANK OF MONTREAL, THE"
+  city: "TORONTO"
+  branch: BMO - BROKERS
+  swift: BOFMCAT2BMO
+    
+- name: "BANK OF MONTREAL, THE"
+  city: "TORONTO"
+  branch: BMO NESBITT BURNS
+  swift: BOFMCAM2NBB
+    
+- name: "BANK OF MONTREAL, THE"
+  city: "TORONTO"
+  branch: CLS PAYMENTS ONLY
+  swift: BOFMCAT2CLS
+    
+- name: "BANK OF MONTREAL, THE"
+  city: "TORONTO"
+  branch: FOREIGN EXCHANGE AND MONEY MARKET
+  swift: BOFMCAT2FXM
+    
+- name: "BANK OF MONTREAL, THE"
+  city: "TORONTO"
+  branch: GLOBAL CASH MANAGEMENT OPERATIONS
+  swift: BOFMCAT2GCT
+    
+- name: "BANK OF MONTREAL, THE"
+  city: "TORONTO"
+  branch: INTERNATIONAL BRANCH
+  swift: BOFMCAM2
+    
+- name: "BANK OF MONTREAL, THE"
+  city: "TORONTO"
+  branch: INTERNATIONAL BRANCH
+  swift: BOFMCAT2
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "CALGARY"
+  branch: null
+  swift: NOSCCATTCGY
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "CALGARY"
+  branch: null
+  swift: NOSCCATTTPC
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "HALIFAX"
+  branch: null
+  swift: NOSCCATTHFX
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "MONTREAL"
+  branch: null
+  swift: NOSCCATTMTL
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "MONTREAL"
+  branch: null
+  swift: NOSCCATTTPM
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "OTTAWA"
+  branch: null
+  swift: NOSCCATTOTT
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "SASKATOON"
+  branch: null
+  swift: NOSCCATTSKN
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: ALL OFFICES IN CANADA
+  swift: NOSCCATT
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: BALANCE SHEET MANAGEMENT
+  swift: NOSCCATTBSM
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: CDN SHORT TERM FUNDING
+  swift: NOSCCATTCST
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: COLLECTION DEPARTMENT
+  swift: NOSCCATTCOL
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: CONTINUOUS LINK SETTLEMENT
+  swift: NOSCCATTCLS
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: SECURITIES
+  swift: NOSCCATMSEC
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: TERM FUNDING AND SECURITIZATION
+  swift: NOSCCATTTFS
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: TOR SHORTTERMFUNDING
+  swift: NOSCCATTSTF
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: WEALTH MGMT
+  swift: NOSCCATMWM1
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: null
+  swift: NOSCCATMCMS
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: null
+  swift: NOSCCATMGTB
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: null
+  swift: NOSCCATTFXA
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: null
+  swift: NOSCCATTTOR
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: null
+  swift: NOSCCATTTPG
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "TORONTO"
+  branch: null
+  swift: NOSCCATTTPT
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "VANCOUVER"
+  branch: null
+  swift: NOSCCATTTPV
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "VANCOUVER"
+  branch: null
+  swift: NOSCCATTVCR
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "WINNIPEG"
+  branch: null
+  swift: NOSCCATTTPW
+    
+- name: "BANK OF NOVA SCOTIA"
+  city: "WINNIPEG"
+  branch: null
+  swift: NOSCCATTWPG
+    
+- name: "BANQUE DE DEVELOPPEMENT DU CANADA"
+  city: "MONTREAL"
+  branch: null
+  swift: BAFDCAM1
+    
+- name: "BANQUE NATIONALE DU CANADA"
+  city: "MONTREAL"
+  branch: CALGARY BRANCH CODE
+  swift: BNDCCAMMCGY
+    
+- name: "BANQUE NATIONALE DU CANADA"
+  city: "MONTREAL"
+  branch: CUSTODY
+  swift: BNDCCAMMCUS
+    
+- name: "BANQUE NATIONALE DU CANADA"
+  city: "MONTREAL"
+  branch: INTERNATIONAL DEPARTMENT
+  swift: BNDCCAMMINT
+    
+- name: "BANQUE NATIONALE DU CANADA"
+  city: "MONTREAL"
+  branch: SECURITIES
+  swift: BNDCCAMMVAL
+    
+- name: "BANQUE NATIONALE DU CANADA"
+  city: "MONTREAL"
+  branch: TREASURY DEPARTMENT
+  swift: BNDCCAMMIMM
+    
+- name: "BANQUE NATIONALE DU CANADA"
+  city: "MONTREAL"
+  branch: null
+  swift: BNDCCAMM
+    
+- name: "BANQUE ROYALE DU CANADA"
+  city: "VICTORIAVILLE"
+  branch: null
+  swift: ROYACA21
+    
+- name: "BARCLAYS MCCONNELL LTD"
+  city: "TORONTO"
+  branch: null
+  swift: BMCCCAT1
+    
+- name: "BBN JAMES CAPEL INC"
+  city: "TORONTO"
+  branch: null
+  swift: BBNJCAT1
+    
+- name: "BCPBANK"
+  city: "TORONTO"
+  branch: null
+  swift: BCOMCAT1
+    
+- name: "BEACON SECURITIES LIMITED"
+  city: "HALIFAX"
+  branch: null
+  swift: BEAOCA91
+    
+- name: "BERNER AND COMPANY INC"
+  city: "TORONTO"
+  branch: null
+  swift: BERCCAT1
+    
+- name: "BLACK CREEK INVESTMENT MANAGEMENT INC."
+  city: "TORONTO"
+  branch: null
+  swift: BCNGCAT1
+    
+- name: "BLACKBERRY LIMITED"
+  city: "WATERLOO"
+  branch: null
+  swift: RIMMCA2W
+    
+- name: "BLACKROCK ASSET MANAGEMENT CANADA LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: BAGNCAT1
+    
+- name: "BLOOMBERG TRADEBOOK CANADA COMPANY"
+  city: "TORONTO"
+  branch: null
+  swift: BTRBCATT
+    
+- name: "BLUECHIVE PROCESSING CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: BLPCCAT1
+    
+- name: "BMO HARRIS INVESTMENT MANAGEMENT"
+  city: "TORONTO"
+  branch: null
+  swift: BHIMCAT1
+    
+- name: "BMO NESBITT BURNS INC"
+  city: "TORONTO"
+  branch: null
+  swift: NESUCAM1
+    
+- name: "BMO NESBITT BURNS INC"
+  city: "TORONTO"
+  branch: null
+  swift: NESUCAM10TT
+    
+- name: "BNP PARIBAS (CANADA) VALEURS MOBILIERES INC"
+  city: "MONTREAL"
+  branch: null
+  swift: BNPVCAM1
+    
+- name: "BNP PARIBAS, CANADA BRANCH"
+  city: "MONTREAL"
+  branch: MONTREAL BRANCH
+  swift: BNPACAMM
+    
+- name: "BNP PARIBAS, CANADA BRANCH"
+  city: "MONTREAL"
+  branch: null
+  swift: BNPACAMMSUB
+    
+- name: "BNP PARIBAS, CANADA BRANCH"
+  city: "TORONTO"
+  branch: TORONTO BRANCH
+  swift: BNPACAMMTTT
+    
+- name: "BNP PARIBAS, CANADA BRANCH"
+  city: "VANCOUVER"
+  branch: VANCOUVER BRANCH
+  swift: BNPACAMMVVV
+    
+- name: "BOMBARDIER INC."
+  city: "MONTREAL"
+  branch: BOMBARDIER TRANSPORTATION
+  swift: BIHOCAMMBTG
+    
+- name: "BOMBARDIER INC."
+  city: "MONTREAL"
+  branch: null
+  swift: BIHOCAMM
+    
+- name: "BRAWLEY CATHERS LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: BRWLCAT1
+    
+- name: "BRIGHTWAY CAPITAL (CANADA) LTD."
+  city: "TORONTO"
+  branch: null
+  swift: BRPDCAT1
+    
+- name: "BRINK, HUDSON AND LEFEVER LTD."
+  city: "VANCOUVER"
+  branch: null
+  swift: BHLLCA81
+    
+- name: "BRITISH COLUMBIA INVESTMENT MANAGEMENT CORPORATION"
+  city: "VICTORIA"
+  branch: null
+  swift: BCVMCA81
+    
+- name: "BROOKFIELD ASSET MANAGEMENT"
+  city: "TORONTO"
+  branch: null
+  swift: BAMZCATT
+    
+- name: "BROOKFIELD BRP CANADA CORP."
+  city: "OTTAWA"
+  branch: null
+  swift: BBRPCAWA
+    
+- name: "BURGUNDY ASSET MANAGEMENT LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: BUAMCAT1
+    
+- name: "BURNS FRY LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: BFRLCAT1
+    
+- name: "BUSINESS DEVELOPMENT BANK OF CANADA"
+  city: "MONTREAL"
+  branch: null
+  swift: FBDBCAM1
+    
+- name: "C.M. OLIVER AND COMPANY LIMITED"
+  city: "VANCOUVER"
+  branch: null
+  swift: CHOLCA81
+    
+- name: "C.S. FIRST BOSTON (CANADA) INC."
+  city: "TORONTO"
+  branch: null
+  swift: CSFBCAT1
+    
+- name: "CAISSE DE DEPOT ET PLACEMENT DU QUEBEC"
+  city: "MONTREAL"
+  branch: null
+  swift: CDPECAM1
+    
+- name: "CAISSE DESJARDINS DES CHUTES MONTMORENCY"
+  city: "QUEBEC"
+  branch: null
+  swift: CDCNCA21
+    
+- name: "CAISSE POPULAIRE"
+  city: "DIEPPE"
+  branch: null
+  swift: CAUOCA91
+    
+- name: "CALDWELL SECURITIES LTD"
+  city: "TORONTO"
+  branch: null
+  swift: CALWCAT1
+    
+- name: "CALGARY FOREIGN EXCHANGE LTD."
+  city: "CALGARY"
+  branch: null
+  swift: CLFXCA66
+    
+- name: "CALLIDUS CAPITAL CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: CDUSCATT
+    
+- name: "CAMBRIDGE MERCANTILE CORP."
+  city: "TORONTO"
+  branch: null
+  swift: CMFXCATT
+    
+- name: "CAMECO CORPORATION"
+  city: "SASKATOON"
+  branch: null
+  swift: CEMTCATT
+    
+- name: "CAMLIN ASSET MANAGEMENT"
+  city: "VANCOUVER"
+  branch: null
+  swift: CMAMCA81
+    
+- name: "CANACCORD CAPITAL CORPORATION"
+  city: "VANCOUVER"
+  branch: null
+  swift: CANCCA81
+    
+- name: "CANACCORD CAPITAL CORPORATION"
+  city: "VANCOUVER"
+  branch: null
+  swift: CANCCA81DTC
+    
+- name: "CANADA DEPOSIT INSURANCE CORPORATION"
+  city: "OTTAWA"
+  branch: null
+  swift: CDICCAW2
+    
+- name: "CANADA MONEY TT LTD"
+  city: "BURNABY"
+  branch: null
+  swift: CMTTCA81
+    
+- name: "CANADA PENSION PLAN INVESTMENT BOARD"
+  city: "TORONTO"
+  branch: null
+  swift: CPPBCATA
+    
+- name: "CANADA PENSION PLAN INVESTMENT BOARD"
+  city: "TORONTO"
+  branch: null
+  swift: CPPBCATT
+    
+- name: "CANADAS KYOTO PROTOCOL NATIONAL REGISTRY"
+  city: "GATINEAU"
+  branch: null
+  swift: CKPNCA21
+    
+- name: "CANADIAN DERIVATIVES CLEARING CORP"
+  city: "MONTREAL"
+  branch: null
+  swift: CDCCCAMM
+    
+- name: "CANADIAN FINANCIAL CORPORATION"
+  city: "MONTREAL"
+  branch: null
+  swift: CNFCCAM1
+    
+- name: "CANADIAN IMPERIAL BANK OF COMMERCE"
+  city: "TORONTO"
+  branch: CIBC WORLD MARKETS SECURITIES OPERATIONS (OMGEO)
+  swift: CIBCCATTCWM
+    
+- name: "CANADIAN IMPERIAL BANK OF COMMERCE"
+  city: "TORONTO"
+  branch: CLS SERVICES
+  swift: CIBCCATTCLS
+    
+- name: "CANADIAN IMPERIAL BANK OF COMMERCE"
+  city: "TORONTO"
+  branch: null
+  swift: CIBCCATT
+    
+- name: "CANADIAN NATIONAL RAILWAY COMPANY"
+  city: "MONTREAL"
+  branch: null
+  swift: CNRRCAMT
+    
+- name: "CANADIAN WESTERN BANK"
+  city: "EDMONTON"
+  branch: null
+  swift: CWBKCA61
+    
+- name: "CANADIAN WESTERN BANK"
+  city: "VANCOUVER"
+  branch: null
+  swift: CWBKCA6108V
+    
+- name: "CANOE FINANCIAL LP"
+  city: "TORONTO"
+  branch: null
+  swift: CNFNCAT1
+    
+- name: "CANSO INVESTMENT COUNSEL LTD"
+  city: "RICHMOND HILL"
+  branch: null
+  swift: CAVUCAT1
+    
+- name: "CASGRAIN AND COMPANY LIMITED"
+  city: "MONTREAL"
+  branch: null
+  swift: CASCCAM1
+    
+- name: "CDS CLEARING AND DEPOSITORY"
+  city: "TORONTO"
+  branch: null
+  swift: CDSLCAT2
+    
+- name: "CDS CLEARING AND DEPOSITORY SERVICES INC."
+  city: "CALGARY"
+  branch: null
+  swift: CDSLCAT106C
+    
+- name: "CDS CLEARING AND DEPOSITORY SERVICES INC."
+  city: "MONTREAL"
+  branch: null
+  swift: CDSLCAT10MM
+    
+- name: "CDS CLEARING AND DEPOSITORY SERVICES INC."
+  city: "TORONTO"
+  branch: null
+  swift: CDSLCATT
+    
+- name: "CDS CLEARING AND DEPOSITORY SERVICES INC."
+  city: "TORONTO"
+  branch: null
+  swift: CDSLCATTSMD
+    
+- name: "CDS CLEARING AND DEPOSITORY SERVICES INC."
+  city: "VANCOUVER"
+  branch: null
+  swift: CDSLCAT108V
+    
+- name: "CENTRAL 1 CREDIT UNION"
+  city: "CALGARY"
+  branch: ALBERTA PAYMENTS SERVICES
+  swift: CUCXCATTCAL
+    
+- name: "CENTRAL 1 CREDIT UNION"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: CUCXCATT
+    
+- name: "CENTRAL 1 CREDIT UNION"
+  city: "REGINA"
+  branch: SASKATCHEWAN PAYMENT SERVICES
+  swift: CUCXCATTREG
+    
+- name: "CENTRAL 1 CREDIT UNION"
+  city: "TORONTO"
+  branch: CENTRAL 1 CREDIT UNION ONTARIO PAYMENT SERVICES
+  swift: CUCXCATTONT
+    
+- name: "CENTRAL 1 CREDIT UNION"
+  city: "TORONTO"
+  branch: INVESTMENT DEPARTMENT
+  swift: CUCXCATTINV
+    
+- name: "CENTRAL 1 CREDIT UNION"
+  city: "VANCOUVER"
+  branch: CENTRAL 1 CREDIT UNION BC PAYMENT SERVICES
+  swift: CUCXCATTVAN
+    
+- name: "CENTRAL 1 CREDIT UNION"
+  city: "WINNIPEG"
+  branch: MANITOBA PAYMENTS SERVICES
+  swift: CUCXCATTWPG
+    
+- name: "CENTURY BANCORP"
+  city: "MONTREAL"
+  branch: null
+  swift: CENPCAM1
+    
+- name: "CHINA CONSTRUCTION BANK TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: PCBCCATT
+    
+- name: "CIBC ASSET MANAGEMENT INC."
+  city: "MONTREAL"
+  branch: null
+  swift: CIAECAM1
+    
+- name: "CIBC ASSET MANAGEMENT INC."
+  city: "MONTREAL"
+  branch: null
+  swift: CIEMCAM1
+    
+- name: "CIBC GLOBAL ASSET MANAGEMENT INC."
+  city: "MONTREAL"
+  branch: null
+  swift: CGAACAM1
+    
+- name: "CIDEL ASSET MANAGEMENT INC"
+  city: "TORONTO"
+  branch: null
+  swift: CTBLCATT
+    
+- name: "CIDEL BANK CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: CTBLCAT3
+    
+- name: "CIDEL TRUST COMPANY"
+  city: "CALGARY"
+  branch: null
+  swift: CTBLCA66
+    
+- name: "CITCO BANK CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: CITCCATT
+    
+- name: "CITCO BANK CSV PROCESSING"
+  city: "TORONTO"
+  branch: null
+  swift: CISGCAT1
+    
+- name: "CITIBANK CANADA"
+  city: "TORONTO"
+  branch: CITIBANK NA CANADIAN BRANCH
+  swift: CITICATTBCH
+    
+- name: "CITIBANK CANADA"
+  city: "TORONTO"
+  branch: CITN
+  swift: CITICATT617
+    
+- name: "CITIBANK CANADA"
+  city: "TORONTO"
+  branch: CITT
+  swift: CITICATT615
+    
+- name: "CITIBANK CANADA"
+  city: "TORONTO"
+  branch: SECURITIES SERVICES DEPARTMENT
+  swift: CITICATT623
+    
+- name: "CITIBANK CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: CITICATT
+    
+- name: "CITIBANK CANADA SECURITIES LTD."
+  city: "TORONTO"
+  branch: null
+  swift: CICSCAT1
+    
+- name: "CLARUS SECURITIES INC"
+  city: "TORONTO"
+  branch: null
+  swift: CLSTCAT1
+    
+- name: "CMA LEDUC VALEURS MOBILIERES INC."
+  city: "MONTREAL"
+  branch: null
+  swift: VLMOCAM1
+    
+- name: "CMC MARKETS CANADA INC"
+  city: "TORONTO"
+  branch: null
+  swift: CMCKCATT
+    
+- name: "CN CANADIAN MASTER TRUST FUND"
+  city: "MONTREAL"
+  branch: null
+  swift: CMTFCAM1
+    
+- name: "COERENTE CAPITAL MANAGEMENT INC."
+  city: "MONTREAL"
+  branch: null
+  swift: CCTMCAM1
+    
+- name: "COMMISSION DIRECT INC."
+  city: "TORONTO"
+  branch: null
+  swift: CHDICAT1
+    
+- name: "CONCENTRA FINANCIAL SERVICES ASSOCIATION"
+  city: "SASKATOON"
+  branch: null
+  swift: TCACCAT1
+    
+- name: "CONNOR, CLARK AND COMPANY LTD"
+  city: "TORONTO"
+  branch: null
+  swift: CONCCAT1
+    
+- name: "CONNOR, CLARK AND LUNN FINANCIAL GROUP"
+  city: "VANCOUVER"
+  branch: null
+  swift: CCLFCA81
+    
+- name: "CONTINENTAL BANK OF CANADA"
+  city: "WHITBY"
+  branch: null
+  swift: CNTICA21
+    
+- name: "CONVERSE CANADA CORP"
+  city: "HALIFAX"
+  branch: null
+  swift: CNADCA91
+    
+- name: "CORMARK SECURITIES INC"
+  city: "TORONTO"
+  branch: null
+  swift: SPSLCAT1
+    
+- name: "CREDENTIAL FINANCIAL INC."
+  city: "VANCOUVER"
+  branch: null
+  swift: CRNLCA81
+    
+- name: "CREDIFINANCE SECURITIES LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: CSECCAT1
+    
+- name: "CREDIT AGRICOLE CIB"
+  city: "MONTREAL"
+  branch: null
+  swift: CRLYCAM1
+    
+- name: "CREDIT SUISSE AG, TORONTO BRANCH"
+  city: "CALGARY"
+  branch: null
+  swift: CRESCAT106C
+    
+- name: "CREDIT SUISSE AG, TORONTO BRANCH"
+  city: "MONTREAL"
+  branch: null
+  swift: CRESCAT10MM
+    
+- name: "CREDIT SUISSE AG, TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: CRESCATT
+    
+- name: "CREDIT SUISSE AG, TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: CRESCATTVIS
+    
+- name: "CREDIT SUISSE AG, TORONTO BRANCH"
+  city: "VANCOUVER"
+  branch: null
+  swift: CRESCAT108V
+    
+- name: "CREDIT UNION CENTRAL OF CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: CCCSCAT1
+    
+- name: "CREW HOLDINGS LIMITED"
+  city: "VANCOUVER"
+  branch: null
+  swift: CRHLCA81
+    
+- name: "CTBC BANK CORP. (CANADA)"
+  city: "VANCOUVER"
+  branch: null
+  swift: CTCBCA8V
+    
+- name: "CTI CAPITAL GROUP INC"
+  city: "MONTREAL"
+  branch: null
+  swift: CTICCAM1
+    
+- name: "CUSTOM HOUSE LTD."
+  city: "VICTORIA"
+  branch: null
+  swift: CHFXCA8V
+    
+- name: "DAIMLER CANADA FINANCE INC."
+  city: "MONTREAL"
+  branch: null
+  swift: DCAGCAMM
+    
+- name: "DAIWA SECURITIES CANADA LTD."
+  city: "TORONTO"
+  branch: null
+  swift: DSCACAT1
+    
+- name: "DBRS LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: DRRSCAT1
+    
+- name: "DEACON CAPITAL CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: DCCOCAT1
+    
+- name: "DEMERS CONSEIL INC."
+  city: "MONTREAL"
+  branch: null
+  swift: DEMCCAM1
+    
+- name: "DEUTSCHE BANK AG, CANADA BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: DEUTCATT
+    
+- name: "DEUTSCHE BANK SECURITIES LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: MCMICAT1
+    
+- name: "DIRECTCASH BANK"
+  city: "CALGARY"
+  branch: null
+  swift: DIEECA66
+    
+- name: "DOHERTY AND ASSOCIATES CO. LTD"
+  city: "OTTAWA"
+  branch: null
+  swift: DOASCAW1
+    
+- name: "DOMINICK AND DOMINICK SECURITIES"
+  city: "TORONTO"
+  branch: null
+  swift: DDMSCAT1
+    
+- name: "DUNDEE SECURITIES CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: DUNSCAT1
+    
+- name: "E(THREE)M INVESTMENTS INC."
+  city: "TORONTO"
+  branch: null
+  swift: EMINCAT1
+    
+- name: "EDGECREST CAPITAL CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: EDCCCAT1
+    
+- name: "EDGEPOINT WEALTH"
+  city: "TORONTO"
+  branch: null
+  swift: EDWECAT1
+    
+- name: "EDWARD D. JONES AND CO"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: EDDJCAM1
+    
+- name: "ENDEAVOUR MINING CORPORATION"
+  city: "VANCOUVER"
+  branch: null
+  swift: ENDVCA8V
+    
+- name: "ENTERMONEY EXCHANGE ( ENMONEX) CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: EEECCAT1
+    
+- name: "EQUITY FINANCIAL FX INC."
+  city: "TORONTO"
+  branch: null
+  swift: EQFXCAT1
+    
+- name: "EURO PACIFIC CANADA INC."
+  city: "TORONTO"
+  branch: null
+  swift: EUPCCAT1
+    
+- name: "EXCHANGE BANK OF CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: EXBCCATT
+    
+- name: "EXPERTUS TECHNOLOGIES INC."
+  city: "MONTREAL"
+  branch: null
+  swift: EXTCCAM1
+    
+- name: "EXPORT DEVELOPMENT CANADA"
+  city: "OTTAWA"
+  branch: null
+  swift: EDCOCA21
+    
+- name: "EXPORT DEVELOPMENT CANADA"
+  city: "OTTAWA"
+  branch: null
+  swift: EDCOCAW2
+    
+- name: "FAMILY TRUST CORPORATION"
+  city: "MARKHAM"
+  branch: null
+  swift: FACTCA21
+    
+- name: "FCT INSURANCE COMPANY LTD"
+  city: "OAKVILLE"
+  branch: null
+  swift: FCTICATT
+    
+- name: "FEDERATION DE CAISSES POPULAIRES DESJARDINS DE MONTREAL"
+  city: "MONTREAL"
+  branch: null
+  swift: FCPOCAM1
+    
+- name: "FEDERATION DES CAISSES DESJARDINS DU QUEBEC"
+  city: "LEVIS"
+  branch: HEAD OFFICE
+  swift: CCDQCAMM
+    
+- name: "FEDERATION DES CAISSES DESJARDINS DU QUEBEC"
+  city: "MONTREAL"
+  branch: TREASURY AND INTERNATIONAL MONEY MARKETS
+  swift: CCDQCAMMIMM
+    
+- name: "FEDERATION DES CAISSES POPULAIRES DU MANITOBA"
+  city: "WINNIPEG"
+  branch: null
+  swift: FCPMCA41
+    
+- name: "FIDELITY CLEARING CANADA, ULC"
+  city: "TORONTO"
+  branch: null
+  swift: FCCLCAT1
+    
+- name: "FIDUCIE DESJARDINS"
+  city: "MONTREAL"
+  branch: null
+  swift: FIDDCAM1
+    
+- name: "FINNING INTERNATIONAL INC"
+  city: "VANCOUVER"
+  branch: null
+  swift: FNNGCA8V
+    
+- name: "FIRMA FOREIGN EXCHANGE CORPORATION"
+  city: "EDMONTON"
+  branch: null
+  swift: FFFXCA66
+    
+- name: "FIRST ASSOCIATES INVESTMENTS INC"
+  city: "TORONTO"
+  branch: null
+  swift: FAIICAT1
+    
+- name: "FIRST CANADA SECURITIES CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: FCSCCAT1
+    
+- name: "FIRST CITY CAPITAL INC."
+  city: "MONTREAL"
+  branch: null
+  swift: CCAFCAM1
+    
+- name: "FIRST COMMERCIAL BANK"
+  city: "RICHMOND"
+  branch: VANCOUVER BRANCH
+  swift: FCBKCA8V
+    
+- name: "FIRST COMMERCIAL BANK"
+  city: "TORONTO"
+  branch: TORONTO BRANCH
+  swift: FCBKCA8V909
+    
+- name: "FIRSTENERGY CAPITAL CORP."
+  city: "CALGARY"
+  branch: null
+  swift: FENGCA61
+    
+- name: "FORESTERS ASSET MANAGEMENT INC."
+  city: "TORONTO"
+  branch: null
+  swift: FSTACATT
+    
+- name: "FORMULA GROWTH LIMITED"
+  city: "MONTREAL"
+  branch: null
+  swift: FOGOCAM1
+    
+- name: "FOYSTON, GORDON AND PAYNE INC."
+  city: "TORONTO"
+  branch: null
+  swift: FOGYCAT1
+    
+- name: "FRASER MACKENZIE LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: FRMCCAT1
+    
+- name: "FREEDOM INTERNATIONAL BROKERAGE COMPANY"
+  city: "TORONTO"
+  branch: null
+  swift: FRDMCAT1
+    
+- name: "FUNDSSERV INC"
+  city: "TORONTO"
+  branch: null
+  swift: FSRVCAT1
+    
+- name: "GENUITY CAPITAL MARKETS"
+  city: "TORONTO"
+  branch: null
+  swift: GECRCAT1
+    
+- name: "GENUS CAPITAL MANAGEMENT INC."
+  city: "VANCOUVER"
+  branch: null
+  swift: GCMICA81
+    
+- name: "GEORGIA PACIFIC SECURITIES CORPORATION"
+  city: "VANCOUVER"
+  branch: null
+  swift: GEPSCA81
+    
+- name: "GESTION DE PLACEMENTS HELENE DION INC."
+  city: "MONTREAL"
+  branch: null
+  swift: GPHDCAM1
+    
+- name: "GHS SECURITIES CANADA LTD"
+  city: "CALGARY"
+  branch: null
+  swift: GHSCCA61
+    
+- name: "GLOBAL SECURITIES CORPORATION"
+  city: "VANCOUVER"
+  branch: null
+  swift: GSECCA81
+    
+- name: "GLOBALTRADE CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: GLCRCATT
+    
+- name: "GLUSKIN SHEFF AND ASSOCIATES INC"
+  city: "TORONTO"
+  branch: null
+  swift: GLSACAT1
+    
+- name: "GOLDEN CAPITAL SECURITIES LTD"
+  city: "VANCOUVER"
+  branch: null
+  swift: GLCSCA81
+    
+- name: "GOLDMAN SACHS CANADA INC."
+  city: "TORONTO"
+  branch: GS AND CO/GS INTERNATIONAL CLEARANCE DEPARTMENT
+  swift: GSLTCAT10GS
+    
+- name: "GOLDMAN SACHS CANADA INC."
+  city: "TORONTO"
+  branch: null
+  swift: GSLTCAT1
+    
+- name: "GORDON CAPITAL CORPORATION"
+  city: "MONTREAL"
+  branch: null
+  swift: GOCCCAM1
+    
+- name: "GORDON CAPITAL CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: GOCCCAM10TT
+    
+- name: "GREAT PACIFIC MANAGEMENT CO. LTD."
+  city: "VANCOUVER"
+  branch: null
+  swift: GPMACA81
+    
+- name: "GREENLINE INVESTOR SERVICES"
+  city: "TORONTO"
+  branch: null
+  swift: GRISCAT1
+    
+- name: "GREY HORSE CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: GHCACAT1
+    
+- name: "GREYS FINANCIAL LIMITED"
+  city: "MONCTON"
+  branch: null
+  swift: GRFACA91
+    
+- name: "GREYSTONE MANAGED INVESTMENTS INC"
+  city: "REGINA"
+  branch: null
+  swift: GRMNCA51
+    
+- name: "GRIFFITHS MCBURNEY AND PARTNERS"
+  city: "TORONTO"
+  branch: null
+  swift: GRMPCAT1
+    
+- name: "HABIB CANADIAN BANK"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: HBZUCATT
+    
+- name: "HAMBLIN, WATSA INVESTMENT COUNSEL LTD."
+  city: "TORONTO"
+  branch: null
+  swift: HWICCAT1
+    
+- name: "HAYWOOD SECURITIES INC"
+  city: "VANCOUVER"
+  branch: null
+  swift: HASRCA81
+    
+- name: "HEWARD INVESTMENT MANAGEMENT INC"
+  city: "MONTREAL"
+  branch: null
+  swift: HIMTCAM1
+    
+- name: "HEWLETT-PACKARD (CANADA) CO"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: HECDCAT1
+    
+- name: "HIFX CANADA INC"
+  city: "TORONTO"
+  branch: null
+  swift: HIFXCATT
+    
+- name: "HOWSON TATTERSALL INVESTMENT COUNSEL"
+  city: "TORONTO"
+  branch: null
+  swift: HTICCAT1
+    
+- name: "HSBC BANK CANADA"
+  city: "MONTREAL"
+  branch: null
+  swift: HKBCCATTMON
+    
+- name: "HSBC BANK CANADA"
+  city: "TORONTO"
+  branch: CLS DEPARTMENT
+  swift: HKBCCATTCLS
+    
+- name: "HSBC BANK CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: HKBCCATT
+    
+- name: "HSBC BANK CANADA"
+  city: "VANCOUVER"
+  branch: VANCOUVER
+  swift: HKBCCATTVAN
+    
+- name: "HSBC BANK CANADA"
+  city: "VANCOUVER"
+  branch: null
+  swift: HKBCCA81
+    
+- name: "HSBC BANK USA (TORONTO BRANCH)"
+  city: "TORONTO"
+  branch: null
+  swift: HSBCCAT1
+    
+- name: "HSBC CAPITAL (CANADA) INC"
+  city: "VANCOUVER"
+  branch: null
+  swift: WRCICA81
+    
+- name: "HSBC SECURITIES (CANADA) INC."
+  city: "TORONTO"
+  branch: null
+  swift: HJCCCAT1
+    
+- name: "HSBC SECURITIES CANADA (INC)"
+  city: "TORONTO"
+  branch: null
+  swift: HSCICATT
+    
+- name: "HSBC TRUST COMPANY (CANADA)"
+  city: "EDMONTON"
+  branch: null
+  swift: METCCAT106E
+    
+- name: "HSBC TRUST COMPANY (CANADA)"
+  city: "HALIFAX"
+  branch: null
+  swift: METCCAT102H
+    
+- name: "HSBC TRUST COMPANY (CANADA)"
+  city: "MONTREAL"
+  branch: null
+  swift: METCCAT10MM
+    
+- name: "HSBC TRUST COMPANY (CANADA)"
+  city: "OTTAWA"
+  branch: null
+  swift: METCCAT1022
+    
+- name: "HSBC TRUST COMPANY (CANADA)"
+  city: "TORONTO"
+  branch: null
+  swift: METCCAT1
+    
+- name: "HSBC TRUST COMPANY (CANADA)"
+  city: "TORONTO"
+  branch: null
+  swift: METCCAT1GWM
+    
+- name: "HSBC TRUST COMPANY (CANADA)"
+  city: "VANCOUVER"
+  branch: null
+  swift: METCCAT108V
+    
+- name: "HURONIA TRUST COMPANY"
+  city: "ORILLIA"
+  branch: null
+  swift: HUCTCA21
+    
+- name: "HYDRO-QUEBEC"
+  city: "MONTREAL"
+  branch: null
+  swift: HQQCCAMM
+    
+- name: "HYDRO-QUEBEC PENSION FUND"
+  city: "MONTREAL"
+  branch: null
+  swift: HQPFCAM1
+    
+- name: "HYPERWALLET SYSTEMS INC."
+  city: "VANCOUVER"
+  branch: null
+  swift: HYSYCA81
+    
+- name: "IA CLARINGTON INVESTMENTS INC."
+  city: "TORONTO"
+  branch: null
+  swift: CLNVCAT1
+    
+- name: "IBM CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: IBCNCAT1
+    
+- name: "ICE CLEAR CANADA"
+  city: "WINNIPEG"
+  branch: null
+  swift: XWCECA4W
+    
+- name: "ICICI BANK CANADA"
+  city: "TORONTO"
+  branch: CENTRAL OPERATIONS - CANADA
+  swift: ICICCATTCOP
+    
+- name: "ICICI BANK CANADA"
+  city: "TORONTO"
+  branch: GLOBAL TRADE SERVICE UNIT-CANADA
+  swift: ICICCATTGTS
+    
+- name: "ICICI BANK CANADA"
+  city: "TORONTO"
+  branch: TREASURY
+  swift: ICICCATTRTL
+    
+- name: "ICICI BANK CANADA"
+  city: "TORONTO"
+  branch: TREASURY
+  swift: ICICCATTTSY
+    
+- name: "ICICI BANK CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: ICICCATT
+    
+- name: "INDUSTRIAL ALLIANCE SECURITIES INC."
+  city: "QUEBEC"
+  branch: null
+  swift: LAHPCAM1
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (CANADA)"
+  city: "TORONTO"
+  branch: RMB CLEARING BANK
+  swift: ICBKCAT2CLR
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (CANADA)"
+  city: "TORONTO"
+  branch: null
+  swift: ICBKCAT2
+    
+- name: "INSTANTLINK"
+  city: "TORONTO"
+  branch: null
+  swift: INLKCAT1
+    
+- name: "INSTINET CANADA LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: INCDCAT1
+    
+- name: "INTERACTIVE BROKERS CANADA INC."
+  city: "MONTREAL"
+  branch: null
+  swift: IBKRCAMM
+    
+- name: "INTERNATIONAL AIR TRANSPORT ASSOCIATION"
+  city: "MONTREAL"
+  branch: null
+  swift: IATACAMM
+    
+- name: "INTERNATIONAL DISCOVERY LTD"
+  city: "EDMONTON"
+  branch: null
+  swift: INDYCA61
+    
+- name: "INVESCO TRIMARK"
+  city: "TORONTO"
+  branch: null
+  swift: AFMICATA
+    
+- name: "INVESCO TRIMARK"
+  city: "TORONTO"
+  branch: null
+  swift: AFMICATT
+    
+- name: "INVESTORS GROUP FINANCIAL SERVICES"
+  city: "WINNIPEG"
+  branch: null
+  swift: IGMFCA44
+    
+- name: "INVESTORS GROUP FINANCIAL SERVICES"
+  city: "WINNIPEG"
+  branch: null
+  swift: IGMFCA44001
+    
+- name: "INVESTORS GROUP FINANCIAL SERVICES"
+  city: "WINNIPEG"
+  branch: null
+  swift: IGMFCA44002
+    
+- name: "INVESTORS GROUP FINANCIAL SERVICES"
+  city: "WINNIPEG"
+  branch: null
+  swift: IGMFCA44003
+    
+- name: "INVESTORS GROUP FINANCIAL SERVICES"
+  city: "WINNIPEG"
+  branch: null
+  swift: IGMFCA44004
+    
+- name: "INVESTPRO SECURITIES INC."
+  city: "MONTREAL"
+  branch: null
+  swift: INVTCAM1
+    
+- name: "IPO CAPITAL CORP"
+  city: "TORONTO"
+  branch: null
+  swift: IPCCCAT1
+    
+- name: "ITG CANADA CORP."
+  city: "TORONTO"
+  branch: null
+  swift: ITGCCAT1
+    
+- name: "J. PASZTOR AND ASSOCIATES INC."
+  city: "TORONTO"
+  branch: null
+  swift: JPSACAT1
+    
+- name: "J.D. MACK LIMITED"
+  city: "HALIFAX"
+  branch: null
+  swift: JDMACA91
+    
+- name: "J.P. MORGAN SECURITIES CANADA INC."
+  city: "TORONTO"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: JPMSCATTKEY
+    
+- name: "J.P. MORGAN SECURITIES CANADA INC."
+  city: "TORONTO"
+  branch: null
+  swift: JPMSCATT
+    
+- name: "JENNINGS CAPITAL INC"
+  city: "TORONTO"
+  branch: null
+  swift: JECACAT1
+    
+- name: "JIM PATTISON LTD."
+  city: "VANCOUVER"
+  branch: null
+  swift: JPGCCA8V
+    
+- name: "JONES, GABLE AND COMPANY LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: JGCLCAT1
+    
+- name: "JPMORGAN CHASE BANK, TORONTO BRANCH"
+  city: "TORONTO"
+  branch: CANADA TREASURY
+  swift: CHASCATTNVS
+    
+- name: "JPMORGAN CHASE BANK, TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: CHASCATT
+    
+- name: "JPMORGAN CHASE BANK, TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: CHASCATTCTS
+    
+- name: "JPMORGAN CHASE BANK, TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: CHASCATTENQ
+    
+- name: "JPMORGAN CHASE BANK, TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: CHASCATTKEY
+    
+- name: "KASH MART FINANCIAL LTD"
+  city: "MONTREAL"
+  branch: null
+  swift: KAMFCAM1
+    
+- name: "KEB HANA BANK CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: KOEXCATT
+    
+- name: "LALLEMAND INC"
+  city: "MONTREAL"
+  branch: null
+  swift: LALLCAMM
+    
+- name: "LAURENTIAN BANK OF CANADA"
+  city: "MONTREAL"
+  branch: ALL OFFICES IN CANADA
+  swift: BLCMCAMM
+    
+- name: "LAURENTIAN BANK SECURITIES INC"
+  city: "MONTREAL"
+  branch: null
+  swift: BLCSCAM1
+    
+- name: "LEEDE FINANCIAL MARKETS INC"
+  city: "CALGARY"
+  branch: null
+  swift: RPSICA61
+    
+- name: "LEITH WHEELER INVESTMENT COUNSEL INC"
+  city: "VANCOUVER"
+  branch: null
+  swift: LWICCA81
+    
+- name: "LEVESQUE BEAUBIEN GEOFFRION INC."
+  city: "TORONTO"
+  branch: null
+  swift: LBGECAM10TT
+    
+- name: "LIQUIDNET CANADA INC."
+  city: "TORONTO"
+  branch: null
+  swift: LICDCAT1
+    
+- name: "LOEWEN, ONDAATJE, MCCUTCHEON"
+  city: "TORONTO"
+  branch: null
+  swift: LWOHCAT1
+    
+- name: "LOMBARD ODIER SECURITIES (CANADA) INC."
+  city: "MONTREAL"
+  branch: NDP DEPT
+  swift: LOCYCAMMNDP
+    
+- name: "LOMBARD ODIER SECURITIES (CANADA) INC."
+  city: "MONTREAL"
+  branch: null
+  swift: LOCYCAMM
+    
+- name: "LOMBARD ODIER TRANSATLANTIC LIMITED"
+  city: "MONTREAL"
+  branch: NDP DEPT
+  swift: TRACCAMMNDP
+    
+- name: "LOMBARD ODIER TRANSATLANTIC LIMITED"
+  city: "MONTREAL"
+  branch: null
+  swift: TRACCAMM
+    
+- name: "LOUISBURG INVESTMENTS INC."
+  city: "MONCTON"
+  branch: null
+  swift: LOIVCA91
+    
+- name: "M. COUSINEAU AND ASSOCIES INC."
+  city: "LAVAL"
+  branch: null
+  swift: MCOACAM1
+    
+- name: "MACDOUGALL, MACDOUGALL AND MACTIER INC."
+  city: "MONTREAL"
+  branch: null
+  swift: MCMCCAM1
+    
+- name: "MACDOUGALL, MEYER INC."
+  city: "MONTREAL"
+  branch: null
+  swift: MCMYCAM1
+    
+- name: "MACKENZIE FINANCIAL CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: MAFCCAT1
+    
+- name: "MAGNA INTERNATIONAL INC."
+  city: "AURORA"
+  branch: null
+  swift: MAINCA2A
+    
+- name: "MAGNA INTERNATIONAL INC."
+  city: "AURORA"
+  branch: null
+  swift: MAINCA2B
+    
+- name: "MAISON PLACEMENTS CA INC."
+  city: "TORONTO"
+  branch: null
+  swift: MAPCCAT1
+    
+- name: "MAISON PLACEMENTS CANADA INC."
+  city: "MONTREAL"
+  branch: null
+  swift: MAIPCAM1
+    
+- name: "MANUFACTURERS LIFE INSURANCE COMPANY"
+  city: "TORONTO"
+  branch: null
+  swift: MFCTCATA
+    
+- name: "MANUFACTURERS LIFE INSURANCE COMPANY"
+  city: "TORONTO"
+  branch: null
+  swift: MFCTCATB
+    
+- name: "MANULIFE ASSET MANAGEMENT LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: MAMGCATT
+    
+- name: "MANULIFE BANK OF CANADA"
+  city: "WATERLOO"
+  branch: null
+  swift: MCBTCA2W
+    
+- name: "MANULIFE FINANCIAL CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: MFCTCATT
+    
+- name: "MAPLE BANK GMBH"
+  city: "TORONTO"
+  branch: null
+  swift: MPBKCAT1
+    
+- name: "MARLEAU LEMIRE INC."
+  city: "MONTREAL"
+  branch: null
+  swift: MALECAM1
+    
+- name: "MAWER INVESTMENT MANAGEMENT LTD."
+  city: "CALGARY"
+  branch: null
+  swift: MWIMCA61
+    
+- name: "MCDERMID ST. LAWRENCE CHISHOLM LTD."
+  city: "TORONTO"
+  branch: null
+  swift: MALHCAT1
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK (CANADA)"
+  city: "RICHMOND"
+  branch: RICHMOND BRANCH
+  swift: ICBCCATTRMD
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK (CANADA)"
+  city: "TORONTO"
+  branch: null
+  swift: ICBCCATT
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK (CANADA)"
+  city: "VANCOUVER"
+  branch: VANCOUVER BRANCH
+  swift: ICBCCATTVAN
+    
+- name: "MERIDIAN CREDIT UNION LIMITED"
+  city: "ST CATHARINES"
+  branch: null
+  swift: MRCUCA21
+    
+- name: "MERIDIAN SECURITIES INTERNATIONAL INC."
+  city: "TORONTO"
+  branch: null
+  swift: MESICAT1
+    
+- name: "MERIT INVESTMENT CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: MINCCAT1
+    
+- name: "MERRILL LYNCH CANADA SECURITIES"
+  city: "TORONTO"
+  branch: null
+  swift: MLYCCAT1
+    
+- name: "MERRILL LYNCH CANADA, INC"
+  city: "TORONTO"
+  branch: CANADIAN FX
+  swift: MLCICATTTOR
+    
+- name: "MERRILL LYNCH CANADA, INC"
+  city: "TORONTO"
+  branch: TREASURY
+  swift: MLCICATTTSY
+    
+- name: "MERRILL LYNCH CANADA, INC"
+  city: "TORONTO"
+  branch: null
+  swift: MLCICATT
+    
+- name: "MF GLOBAL CANADA CO."
+  city: "TORONTO"
+  branch: null
+  swift: RFFUCAT1
+    
+- name: "MFC GLOBAL INVESTMENT MANAGEMENT (U.S.A) LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: MFCGCATT
+    
+- name: "MIRABAUD CANADA INC."
+  city: "MONTREAL"
+  branch: null
+  swift: MIRICAMM
+    
+- name: "MIZUHO BANK, LTD., CANADA BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: MHCBCATT
+    
+- name: "MOBIS PARTS CANADA CORPORATION"
+  city: "MARKHAM"
+  branch: null
+  swift: HYMOCA21
+    
+- name: "MONTREAL EXCHANGE THE / BOURSE DE MONTREAL"
+  city: "MONTREAL"
+  branch: OPTIONS AND OTHER DERIVATIVE PRODUCTS
+  swift: XMOOCAM1ODP
+    
+- name: "MONTREAL EXCHANGE THE / BOURSE DE MONTREAL"
+  city: "MONTREAL"
+  branch: null
+  swift: XMOOCAM1
+    
+- name: "MOODY'S CANADA INC."
+  city: "TORONTO"
+  branch: null
+  swift: MODDCAT1
+    
+- name: "MORGAN STANLEY CANADA LIMITED"
+  city: "MONTREAL"
+  branch: MONTREAL BRANCH
+  swift: MSCACATXMON
+    
+- name: "MORGAN STANLEY CANADA LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: MSCACATX
+    
+- name: "MUFG SECURITIES (CANADA), LTD"
+  city: "TORONTO"
+  branch: null
+  swift: MSCDCA8V
+    
+- name: "MULVIHILL CAPITAL MANAGEMENT"
+  city: "TORONTO"
+  branch: null
+  swift: MUCGCAT1
+    
+- name: "MUTUAL TRUST COMPANY, THE"
+  city: "TORONTO"
+  branch: null
+  swift: MCOTCAT1
+    
+- name: "NATIXIS CANADA BRANCH"
+  city: "MONTREAL"
+  branch: null
+  swift: NATXCAMM
+    
+- name: "NBC CLEARING SERVICES INCORPORATED"
+  city: "MONTREAL"
+  branch: null
+  swift: LBGECAM1
+    
+- name: "NEWFOUNDLAND CAPITAL CORPORATION LTD."
+  city: "DARTMOUTH"
+  branch: null
+  swift: NECCCA91
+    
+- name: "NIKE CANADA LTD."
+  city: "THORNHILL"
+  branch: null
+  swift: NIKECA21
+    
+- name: "NIKKO SECURITIES CO. CDA, LTD"
+  city: "TORONTO"
+  branch: null
+  swift: NKSCCAT1
+    
+- name: "NOMURA CANADA INC."
+  city: "TORONTO"
+  branch: null
+  swift: NMUCCAT1
+    
+- name: "NORSTAR SECURITIES INTERNATIONAL INC"
+  city: "TORONTO"
+  branch: null
+  swift: NOSICAT1
+    
+- name: "NORTHLAND CAPITAL PARTNERS INC."
+  city: "TORONTO"
+  branch: null
+  swift: NOAPCAT1
+    
+- name: "OCTAGON CAPITAL CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: OCCCCAT1
+    
+- name: "ODLUM BROWN LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: ODLUCA810TT
+    
+- name: "ODLUM BROWN LIMITED"
+  city: "VANCOUVER"
+  branch: null
+  swift: ODLUCA81
+    
+- name: "OMERS ADMINISTRATION CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: OMACCAT1
+    
+- name: "OMNI CAPITAL INC."
+  city: "MONTREAL"
+  branch: null
+  swift: OMNICAM1
+    
+- name: "ONTARIO PENSION BOARD"
+  city: "TORONTO"
+  branch: null
+  swift: ONPBCAT1
+    
+- name: "ONTARIO TEACHERS' PENSION PLAN BOARD"
+  city: "TORONTO"
+  branch: null
+  swift: OTPBCA21
+    
+- name: "ONTARIO TEACHERS' PENSION PLAN BOARD"
+  city: "TORONTO"
+  branch: null
+  swift: OTPBCA2T
+    
+- name: "PARADIGM CAPITAL INC"
+  city: "TORONTO"
+  branch: null
+  swift: PARDCAT1
+    
+- name: "PAVILION GLOBAL MARKETS LTD"
+  city: "MONTREAL"
+  branch: null
+  swift: BRCOCAMM
+    
+- name: "PAYSYSTEMS CORPORATION"
+  city: "MONTREAL"
+  branch: null
+  swift: PAYSCAM1
+    
+- name: "PENSON FINANCIAL SERVICES CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: PFSICAT1
+    
+- name: "PENSON FINANCIAL SERVICES CANADA INC."
+  city: "MONTREAL"
+  branch: null
+  swift: PFSICAM1
+    
+- name: "PERSHING SECURITIES CANADA LIMITED"
+  city: "SAINT JOHN"
+  branch: null
+  swift: PRSHCA91
+    
+- name: "PETERS AND CO. LIMITED"
+  city: "CALGARY"
+  branch: null
+  swift: PTCOCA61
+    
+- name: "PI FINANCIAL CORP"
+  city: "VANCOUVER"
+  branch: null
+  swift: PISICA81
+    
+- name: "PICTET CANADA L.P."
+  city: "MONTREAL"
+  branch: null
+  swift: PICTCAMM
+    
+- name: "PICTET OVERSEAS INC."
+  city: "MONTREAL"
+  branch: null
+  swift: PICTCAM2
+    
+- name: "PICTON MAHONEY ASSET MANAGEMENT"
+  city: "TORONTO"
+  branch: null
+  swift: PIMHCA21
+    
+- name: "PLACEMENTS LA LAURENTIENNE INC"
+  city: "MONTREAL"
+  branch: null
+  swift: PLALCAM1
+    
+- name: "PNC BANK CANADA BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: PNCCCA22
+    
+- name: "POLAR SECURITIES INC"
+  city: "TORONTO"
+  branch: null
+  swift: POSUCAT1
+    
+- name: "POLLITT AND CO. INC."
+  city: "TORONTO"
+  branch: null
+  swift: POLLCAT1
+    
+- name: "POPE AND COMPANY"
+  city: "TORONTO"
+  branch: null
+  swift: PPECCAT1
+    
+- name: "PREBON YAMANE (CANADA) LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: PYCLCAT1
+    
+- name: "PRESIMA INC."
+  city: "MONTREAL"
+  branch: null
+  swift: PESMCAM1
+    
+- name: "PRO-GENESIS SECURITIES INC."
+  city: "MONTREAL"
+  branch: null
+  swift: PGNSCAM1
+    
+- name: "PUBLIC SECTOR PENSION INVESTMENT BOARD"
+  city: "MONTREAL"
+  branch: null
+  swift: PSPBCA21
+    
+- name: "PUBLIC SECTOR PENSION INVESTMENT BOARD"
+  city: "MONTREAL"
+  branch: null
+  swift: PSPBCAMA
+    
+- name: "PUBLIC SECTOR PENSION INVESTMENT BOARD"
+  city: "MONTREAL"
+  branch: null
+  swift: PSPBCAMM
+    
+- name: "QUESTRADE INC."
+  city: "TORONTO"
+  branch: null
+  swift: QUERCA21
+    
+- name: "QUESTRADE INC."
+  city: "TORONTO"
+  branch: null
+  swift: QUERCAT1
+    
+- name: "R.J. BEATTY FINANCIAL CORP."
+  city: "TORONTO"
+  branch: null
+  swift: RJBFCAT1
+    
+- name: "RABOBANK CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: RABOCATT
+    
+- name: "RADIN CAPITAL PARTNERS INC."
+  city: "TORONTO"
+  branch: null
+  swift: RACRCAT1
+    
+- name: "RAYMOND JAMES LTD."
+  city: "TORONTO"
+  branch: null
+  swift: RJAMCA81TOR
+    
+- name: "RAYMOND JAMES LTD."
+  city: "VANCOUVER"
+  branch: null
+  swift: RJAMCA81
+    
+- name: "RBC ASSET MANAGEMENT"
+  city: "TORONTO"
+  branch: null
+  swift: RBAACAT1
+    
+- name: "RBC DOMINION SECURITIES CAPITAL MARKETS"
+  city: "TORONTO"
+  branch: null
+  swift: RBDSCAW1
+    
+- name: "RBC DOMINION SECURITIES INC."
+  city: "TORONTO"
+  branch: null
+  swift: RBDSCAT1
+    
+- name: "RBC GLOBAL ASSET MANAGEMENT"
+  city: "TORONTO"
+  branch: null
+  swift: RGAMCAT1
+    
+- name: "RBC INVESTOR SERVICES TRUST"
+  city: "MONTREAL"
+  branch: QUEBEC
+  swift: ROTRCATTMPC
+    
+- name: "RBC INVESTOR SERVICES TRUST"
+  city: "TORONTO"
+  branch: CROSS BORDER SETTLEMENT
+  swift: ROTRCAT1CRB
+    
+- name: "RBC INVESTOR SERVICES TRUST"
+  city: "TORONTO"
+  branch: DERIVATIVES
+  swift: ROTRCATTDER
+    
+- name: "RBC INVESTOR SERVICES TRUST"
+  city: "TORONTO"
+  branch: GLOBAL SERVICES
+  swift: ROTRCATTTIC
+    
+- name: "RBC INVESTOR SERVICES TRUST"
+  city: "TORONTO"
+  branch: INSURANCE SERVICES
+  swift: ROTRCATTTSC
+    
+- name: "RBC INVESTOR SERVICES TRUST"
+  city: "TORONTO"
+  branch: PHYSICAL SETTLEMENT
+  swift: ROTRCAT1PYS
+    
+- name: "RBC INVESTOR SERVICES TRUST"
+  city: "TORONTO"
+  branch: SECURITIES LENDING DEPARTMENT
+  swift: ROTRCATTLEN
+    
+- name: "RBC INVESTOR SERVICES TRUST"
+  city: "TORONTO"
+  branch: null
+  swift: ROTRCATT
+    
+- name: "RBCROYAL-BANK"
+  city: "TORONTO"
+  branch: null
+  swift: RBCRCAT1
+    
+- name: "RESEARCH CAPITAL CORPORATION"
+  city: "TORONTO"
+  branch: FOREIGN SETTLEMENTS DEPARTMENT
+  swift: RECCCAT1SET
+    
+- name: "RESEARCH CAPITAL CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: RECCCAT1
+    
+- name: "RESOLUTION CAPITAL INC"
+  city: "MONTREAL"
+  branch: null
+  swift: MNTBCAM1
+    
+- name: "RICHARDSON GREENSHIELDS OF CANADA"
+  city: "MONTREAL"
+  branch: null
+  swift: RIGRCAM1
+    
+- name: "RICHARDSON GREENSHIELDS OF CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: RIGRCAM10TT
+    
+- name: "RIDGEWOOD CAPITAL ASSET MANAGEMENT INC"
+  city: "TORONTO"
+  branch: null
+  swift: RCAACAT1
+    
+- name: "ROBERT CALDWELL CAPITAL CORP."
+  city: "TORONTO"
+  branch: null
+  swift: RCCCCAK1
+    
+- name: "ROYAL BANK ACTION DIRECT INC."
+  city: "TORONTO"
+  branch: null
+  swift: RBITCAR1
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "CALGARY"
+  branch: null
+  swift: ROYCCAT2CIC
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "HALIFAX"
+  branch: null
+  swift: ROYCCAT2HIC
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "MONTREAL"
+  branch: null
+  swift: ROYCCAT2MIC
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "TORONTO"
+  branch: CAPITAL MARKETS DEPT
+  swift: ROYCCAT3IMM
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "TORONTO"
+  branch: CLS NOSTRO SERVICES
+  swift: ROYCCAT2CLS
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "TORONTO"
+  branch: GUARANTEES
+  swift: ROYCCAT2GLA
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "TORONTO"
+  branch: HEAD OFFICE
+  swift: ROYCCAT2
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "TORONTO"
+  branch: RBC GLOBAL SERVICES, ISS
+  swift: ROYCCAT2VFS
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: ROYCCAT2ECL
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: ROYCCAT2IBO
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "VANCOUVER"
+  branch: null
+  swift: ROYCCAT2VIC
+    
+- name: "ROYAL BANK OF CANADA"
+  city: "WINNIPEG"
+  branch: null
+  swift: ROYCCAT2WIC
+    
+- name: "SAKURA BANK (CANADA)"
+  city: "TORONTO"
+  branch: null
+  swift: MITKCA810TT
+    
+- name: "SAKURA BANK (CANADA)"
+  city: "VANCOUVER"
+  branch: null
+  swift: MITKCA81
+    
+- name: "SALMAN PARTNERS INC."
+  city: "TORONTO"
+  branch: null
+  swift: SAPRCA81TOR
+    
+- name: "SALMAN PARTNERS INC."
+  city: "VANCOUVER"
+  branch: null
+  swift: SAPRCA81
+    
+- name: "SALOMON BROTHERS INC."
+  city: "TORONTO"
+  branch: null
+  swift: SBNYCAT1
+    
+- name: "SAMSUNG ELECTRONICS CANADA, INC."
+  city: "MISSISSAUGA"
+  branch: SECA
+  swift: SECTCAT1330
+    
+- name: "SAMSUNG ELECTRONICS CANADA, INC."
+  city: "MISSISSAUGA"
+  branch: null
+  swift: SECTCAT1
+    
+- name: "SANDERS WEALTH MANAGEMENT GROUP LTD."
+  city: "EDMONTON"
+  branch: null
+  swift: SBESCA61
+    
+- name: "SANWA BANK CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: SANCCAT1
+    
+- name: "SANWA BANK CANADA"
+  city: "VANCOUVER"
+  branch: null
+  swift: SANCCAT108V
+    
+- name: "SANWA MCCARTHY SECURITIES LTD."
+  city: "TORONTO"
+  branch: null
+  swift: SWNLCAT1
+    
+- name: "SAVINGS AND INVESTMENT TRUST"
+  city: "MONTREAL"
+  branch: null
+  swift: SAVICAM1
+    
+- name: "SBI CANADA BANK"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: SBINCATX
+    
+- name: "SBI CANADA BANK"
+  city: "VANCOUVER"
+  branch: null
+  swift: SBINCATXVAN
+    
+- name: "SCEPTRE INVESTMENT COUNSEL LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: SCPTCAT1
+    
+- name: "SCOTIA CAPITAL INC."
+  city: "TORONTO"
+  branch: null
+  swift: SCAMCAT1
+    
+- name: "SCOTIA MCLEOD INC."
+  city: "TORONTO"
+  branch: null
+  swift: SCMCCATT
+    
+- name: "SECTORAL ASSET MANAGEMENT"
+  city: "MONTREAL"
+  branch: null
+  swift: SATMCAM1
+    
+- name: "SHINHAN BANK CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: SHBKCATT
+    
+- name: "SIERRA WIRELESS INC."
+  city: "RICHMOND"
+  branch: null
+  swift: SWIRCA8V
+    
+- name: "SIONNA INVESTMENT MANAGERS INC."
+  city: "TORONTO"
+  branch: null
+  swift: SIIMCAT1
+    
+- name: "SNC-LAVALIN GROUP INC."
+  city: "MONTREAL"
+  branch: null
+  swift: SNCLCAMM
+    
+- name: "SOCIETE GENERALE (CANADA BRANCH)"
+  city: "MONTREAL"
+  branch: null
+  swift: SOGECAMB
+    
+- name: "SOCIETE GENERALE (CANADA BRANCH)"
+  city: "TORONTO"
+  branch: null
+  swift: SOGECAMBTOR
+    
+- name: "SOCIETE GENERALE (CANADA)"
+  city: "MONTREAL"
+  branch: null
+  swift: SOGECAMM
+    
+- name: "SOCIETE GENERALE (CANADA)"
+  city: "TORONTO"
+  branch: null
+  swift: SOGECAMMTOR
+    
+- name: "SOCIETE GENERALE CAPITAL CANADA INC."
+  city: "MONTREAL"
+  branch: null
+  swift: NEWGCAMM
+    
+- name: "SOLIUM CAPITAL INC"
+  city: "CALGARY"
+  branch: null
+  swift: SOALCA61
+    
+- name: "SPROTT ASSET MANAGEMENT LP"
+  city: "TORONTO"
+  branch: null
+  swift: SRAMCAT1
+    
+- name: "SPRUNG AND CO. INVESTMENT COUNSEL INC."
+  city: "TORONTO"
+  branch: null
+  swift: SPIUCAT1
+    
+- name: "SS AND C"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: SANECAT1
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: PLATINUM
+  swift: FMCCCATMPLA
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SS AND C ETC
+  swift: FMCCCATMFIN
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SS AND C TRILOGY
+  swift: FMCCCATMTRI
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSC ETC
+  swift: FMCCCATMFII
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC ACU
+  swift: FMCCCATMACU
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC AEG
+  swift: FMCCCATMAEG
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC ANZ
+  swift: FMCCCATMANZ
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC BUR
+  swift: FMCCCATMBUR
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC CAM
+  swift: FMCCCATMCAM
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC CBA
+  swift: FMCCCATMCBA
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC DDJ
+  swift: FMCCCATMDDJ
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC GMA
+  swift: FMCCCATMGMA
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC GOOD
+  swift: FMCCCATMGOO
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC GUA
+  swift: FMCCCATMGUA
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC HIS
+  swift: FMCCCATMHIS
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC IAS
+  swift: FMCCCATMIAS
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC IGA
+  swift: FMCCCATMIGA
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC ING
+  swift: FMCCCATMING
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC KAP
+  swift: FMCCCATMKAP
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC MON
+  swift: FMCCCATMMON
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC PHN
+  swift: FMCCCATMPHN
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC PSP
+  swift: FMCCCATMPSP
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC SAM
+  swift: FMCCCATMSAM
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC SPG
+  swift: FMCCCATMSPG
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC WAR
+  swift: FMCCCATMWAR
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMAGF
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMAUR
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMBMO
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMBUD
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMCAL
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMFCC
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMGLS
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMGRY
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMHEX
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMHOP
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMOST
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMOTP
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMPYR
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETC
+  swift: FMCCCATMSTD
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: SSCNET ETS
+  swift: FMCCCATMPRE
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATM
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMADD
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMDEA
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMEDG
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMEIS
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMGPW
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMIBC
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMIPF
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMLAC
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMMFC
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMOME
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMPEM
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMPHI
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMPNB
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMSIO
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MISSISSAUGA"
+  branch: null
+  swift: FMCCCATMSPR
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "MONTREAL"
+  branch: null
+  swift: FMCCCATMSEC
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "TORONTO"
+  branch: KARARA
+  swift: FMCCCAT1BAM
+    
+- name: "SS AND C TECHNOLOGIES CANADA CORP"
+  city: "WINDSOR"
+  branch: null
+  swift: FMCCCATMSTA
+    
+- name: "SSQ, SOCIETE D'ASSURANCE-VIE INC."
+  city: "QUEBEC"
+  branch: null
+  swift: SSQSCA21
+    
+- name: "ST. STANISLAUS - ST. CASIMIR'S POLISH PARISHES CREDIT UNION LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: SCPCCAT1
+    
+- name: "STANTON ASSET MANAGEMENT INC"
+  city: "MONTREAL"
+  branch: null
+  swift: STTNCAM1
+    
+- name: "STATE STREET BANK AND TRUST CO., CANADA BRANCH"
+  city: "TORONTO"
+  branch: CANADA SETTLEMENTS
+  swift: SBOSCAA1STB
+    
+- name: "STATE STREET BANK AND TRUST CO., CANADA BRANCH"
+  city: "TORONTO"
+  branch: CANADA SETTLEMENTS
+  swift: SBOSCAA1STE
+    
+- name: "STATE STREET BANK AND TRUST CO., CANADA BRANCH"
+  city: "TORONTO"
+  branch: CANADA SETTLEMENTS
+  swift: SBOSCAA1STI
+    
+- name: "STATE STREET BANK AND TRUST CO., CANADA BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: SBOSCAA1
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, CANADA BRANCH"
+  city: "TORONTO"
+  branch: INTEGRATED FINANCIAL SYSTEMS
+  swift: SBOSCATXIFS
+    
+- name: "STATE STREET BANK AND TRUST COMPANY, CANADA BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: SBOSCATX
+    
+- name: "STIFEL NICOLAUS CANADA INC"
+  city: "TORONTO"
+  branch: null
+  swift: WBASCAM1
+    
+- name: "STUART INVESTMENT MANAGEMENT LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: STUICAT1
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION, CANADA BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: SMTOCATT
+    
+- name: "SUN LIFE ASSURANCE CO OF CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: SLADCA21
+    
+- name: "SUN LIFE ASSURANCE COMPANY OF CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: SLOCCATT
+    
+- name: "SUN LIFE FINANCIAL INC."
+  city: "TORONTO"
+  branch: null
+  swift: SULFCAT1
+    
+- name: "SUNCOR ENERGY SERVICES INC."
+  city: "CALGARY"
+  branch: null
+  swift: SUEECA66
+    
+- name: "TAURUS CAPITAL MARKETS, LTD."
+  city: "TORONTO"
+  branch: null
+  swift: TCAPCAT1
+    
+- name: "TD ASSET MANAGEMENT INC."
+  city: "TORONTO"
+  branch: null
+  swift: ASGGCAT1
+    
+- name: "TD CUSTODY, C AND IS"
+  city: "TORONTO"
+  branch: null
+  swift: CUSOCAT1
+    
+- name: "TD EVERGREEN INVESTMENT SERVICES INC"
+  city: "TORONTO"
+  branch: null
+  swift: TDEICAT1
+    
+- name: "TD MS CLEARING"
+  city: "TORONTO"
+  branch: null
+  swift: CLERCAT1
+    
+- name: "TD PD CLEARING"
+  city: "TORONTO"
+  branch: null
+  swift: CLENCAT1
+    
+- name: "THE BANK OF NEW YORK MELLON, TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: MELNCATT
+    
+- name: "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD., CANADA BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: BOTKCATX
+    
+- name: "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD., CANADA BRANCH"
+  city: "VANCOUVER"
+  branch: CANADA BRANCH, VANCOUVER
+  swift: BOTKCATXVCR
+    
+- name: "THE CANADIAN DEPOSITORY FOR SECURITIES LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: CADSCA81
+    
+- name: "THE NORTHERN TRUST COMPANY, CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: CNORCATT
+    
+- name: "THE NORTHERN TRUST COMPANY, CANADA BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: NTCCCAT1
+    
+- name: "THE ROYAL BANK OF SCOTLAND PLC CANADA"
+  city: "TORONTO"
+  branch: null
+  swift: RBOSCATT
+    
+- name: "THOMSON KERNAGHAN AND CO. LTD."
+  city: "TORONTO"
+  branch: null
+  swift: THOKCAT1
+    
+- name: "TIMBERCREEK ASST MANAGEMENT LTD"
+  city: "TORONTO"
+  branch: null
+  swift: TIAGCAT1
+    
+- name: "TORON CAPITAL MARKETS INC."
+  city: "TORONTO"
+  branch: null
+  swift: TOCRCAT1
+    
+- name: "TORONTO DOMINION SECURITIES INC"
+  city: "TORONTO"
+  branch: null
+  swift: TDSECAT1
+    
+- name: "TORONTO FUTURES EXCHANGE"
+  city: "TORONTO"
+  branch: null
+  swift: XTFECAT1
+    
+- name: "TORONTO OPTIONS EXCHANGE"
+  city: "TORONTO"
+  branch: null
+  swift: XTOECAT1
+    
+- name: "TORONTO-DOMINION BANK, THE"
+  city: "CALGARY"
+  branch: null
+  swift: TDOMCATTCAL
+    
+- name: "TORONTO-DOMINION BANK, THE"
+  city: "MONTREAL"
+  branch: null
+  swift: TDOMCATTMTL
+    
+- name: "TORONTO-DOMINION BANK, THE"
+  city: "TORONTO"
+  branch: null
+  swift: TDOMCATT
+    
+- name: "TORONTO-DOMINION BANK, THE"
+  city: "TORONTO"
+  branch: null
+  swift: TDOMCATTTOR
+    
+- name: "TORONTO-DOMINION BANK, THE"
+  city: "VANCOUVER"
+  branch: null
+  swift: TDOMCATTVAN
+    
+- name: "TRAVELEX CANADA LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: TRAVCATT
+    
+- name: "TRAVELEX CANADA LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: TRAVCATTCUR
+    
+- name: "TRAVELEX CANADA LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: TRAVCATTRTL
+    
+- name: "TRAVELEX CANADA LTD."
+  city: "TORONTO"
+  branch: null
+  swift: COOKCATT
+    
+- name: "TRILON SECURITIES CORPORATION"
+  city: "TORONTO"
+  branch: null
+  swift: TRLSCAT1
+    
+- name: "TRISTONE CAPITAL INC"
+  city: "CALGARY"
+  branch: null
+  swift: TRPLCA61
+    
+- name: "TRUST GENERAL DU CANADA"
+  city: "MONTREAL"
+  branch: null
+  swift: TGCACAM1
+    
+- name: "TSX INC."
+  city: "TORONTO"
+  branch: null
+  swift: XTSECAT1
+    
+- name: "TULLETT PREBON AMERICAS CORP TORONTO BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: TPATCAT1
+    
+- name: "TULLETT PREBON CANADA LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: TPCACAT1
+    
+- name: "UBS BANK (CANADA)"
+  city: "MONTREAL"
+  branch: MONTREAL BRANCH
+  swift: UBSWCATTMTL
+    
+- name: "UBS BANK (CANADA)"
+  city: "TORONTO"
+  branch: null
+  swift: UBSWCATT
+    
+- name: "UBS BANK (CANADA)"
+  city: "VANCOUVER"
+  branch: VANCOUVER BRANCH
+  swift: UBSWCATTVAN
+    
+- name: "UBS SECURITIES CANADA INC"
+  city: "TORONTO"
+  branch: null
+  swift: UBSWCATS
+    
+- name: "UBS SECURITIES CANADA INC."
+  city: "TORONTO"
+  branch: null
+  swift: BUNWCAT1
+    
+- name: "UNION SECURITIES LTD."
+  city: "VANCOUVER"
+  branch: null
+  swift: UNSRCA81
+    
+- name: "UNITED OVERSEAS BANK LIMITED VANCOUVER BRANCH"
+  city: "VANCOUVER"
+  branch: null
+  swift: UOVBCA8V
+    
+- name: "VALEURS MOBILIERES DESJARDINS INC"
+  city: "MONTREAL"
+  branch: null
+  swift: VAMDCAM1
+    
+- name: "VALEURS MOBILIERES DUBEAU LTEE."
+  city: "QUEBEC"
+  branch: null
+  swift: VMDUCAQ1
+    
+- name: "VANCITY COMMUNITY INVESTMENT BANK"
+  city: "VANCOUVER"
+  branch: VANCITY
+  swift: CTZNCA8V001
+    
+- name: "VANCITY COMMUNITY INVESTMENT BANK"
+  city: "VANCOUVER"
+  branch: null
+  swift: CTZNCA8V
+    
+- name: "VANCOUVER STOCK EXCHANGE"
+  city: "VANCOUVER"
+  branch: null
+  swift: XVSECA81
+    
+- name: "VERSUS BROKERAGE SERVICES"
+  city: "TORONTO"
+  branch: null
+  swift: VERBCAT1
+    
+- name: "VW CREDIT CANADA"
+  city: "SAINT-LAURENT, QUEBEC"
+  branch: null
+  swift: CRNDCA21
+    
+- name: "VW GROUP CANADA"
+  city: "AJAX,ONTARIO"
+  branch: null
+  swift: GRCDCA21
+    
+- name: "W.D. LATIMER CO. LIMITED"
+  city: "TORONTO"
+  branch: null
+  swift: LATLCAT1
+    
+- name: "WADIAH VENTURES INC"
+  city: "TORONTO"
+  branch: null
+  swift: WAVNCAT1
+    
+- name: "WALL STREET FINANCE (CANADA) LTD."
+  city: "TORONTO"
+  branch: null
+  swift: WSFACAT1
+    
+- name: "WEALHOUSE CAPITAL MANAGEMENT"
+  city: "TORONTO"
+  branch: null
+  swift: WECTCAT1
+    
+- name: "WELLINGTON WEST CAPITAL INC."
+  city: "WINNIPEG"
+  branch: null
+  swift: WLWECA41
+    
+- name: "WELLS FARGO BANK, N. A. CANADIAN BRANCH"
+  city: "TORONTO"
+  branch: null
+  swift: PNBPCATT
+    
+- name: "WELLS FARGO SECURITIES CANADA, LTD."
+  city: "CALGARY"
+  branch: null
+  swift: WFSACA61
+    
+- name: "WOLVERTON SECURITIES LTD"
+  city: "VANCOUVER"
+  branch: null
+  swift: WLVSCA81
+    
+- name: "WORLD WIDE PAYMENTS ON DEMAND"
+  city: "VANCOUVER"
+  branch: null
+  swift: WWPDCA81
+    
+- name: "YAMAICHI INTERNATIONAL (CAN)"
+  city: "MONTREAL"
+  branch: null
+  swift: YINCCAM1
+    
+- name: "YORKTON SECURITIES INC."
+  city: "VANCOUVER"
+  branch: null
+  swift: YKSECA81
+    
+- name: "YORKTON SECURITIES, INC"
+  city: "TORONTO"
+  branch: null
+  swift: YKSECAT1
+    

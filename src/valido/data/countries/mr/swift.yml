@@ -1,0 +1,105 @@
+- name: "ATTIJARI BANK MAURITANIE"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: BCMAMRMR
+    
+- name: "BANQUE AL MUAMELAT AS SAHIHA"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: BMSHMRMR
+    
+- name: "BANQUE AL WAVA MAURITANIENNE ISLAMIQUE (BAMIS)"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: BAAWMRMR
+    
+- name: "BANQUE CENTRALE DE MAURITANIE"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: BCEMMRMR
+    
+- name: "BANQUE DES FINANCEMENTS ISLAMIQUES"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: FIAQMRMR
+    
+- name: "BANQUE EL AMANA (BEA)"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: AMDHMRMR
+    
+- name: "BANQUE ISLAMIQUE DE MAURITANIE"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: BIMMMRMR
+    
+- name: "BANQUE MAURITANIENNE DE L'INVESTISSEMENT"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: BQMIMRMR
+    
+- name: "BANQUE MAURITANIENNE POUR LE COMMERCE INTERNATIONAL"
+  city: "NOUADHIBOU"
+  branch: null
+  swift: MBICMRMR0MN
+    
+- name: "BANQUE MAURITANIENNE POUR LE COMMERCE INTERNATIONAL"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: MBICMRMR
+    
+- name: "BANQUE NATIONALE DE MAURITANIE"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: BQNMMRMR
+    
+- name: "BANQUE POPULAIRE DE MAURITANIE"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: BPMAMRMR
+    
+- name: "BANQUE POUR LE COMMERCE ET L'INDUSTRIE"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: COLIMRMR
+    
+- name: "CHINGUITTY BANK"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: CZRZMRMR
+    
+- name: "GENERALE DE BANQUE DE MAURITANIE POUR L'INVESTISSEMENT ET LE COMMERCE"
+  city: "NOUADHIBOU"
+  branch: null
+  swift: GBMCMRMRNDB
+    
+- name: "GENERALE DE BANQUE DE MAURITANIE POUR L'INVESTISSEMENT ET LE COMMERCE"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: GBMCMRMR
+    
+- name: "NOUVELLE BANQUE DE MAURITANIE"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: NBMRMRMR
+    
+- name: "ORABANK MAURITANIE"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: ORBKMRMR
+    
+- name: "QATAR NATIONAL BANK (QNB)"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: QNBAMRMU
+    
+- name: "SOCIETE GENERALE MAURITANIE"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: BIIMMRMR
+    
+- name: "UNION DES BANQUES DE DEVELOPPEMENT"
+  city: "NOUAKCHOTT"
+  branch: null
+  swift: DEUBMRM1
+    

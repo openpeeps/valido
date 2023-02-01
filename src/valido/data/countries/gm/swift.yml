@@ -1,0 +1,120 @@
+- name: "ACCESS BANK GAMBIA"
+  city: "FAJARA"
+  branch: null
+  swift: ACGAGMGF
+    
+- name: "AGIB BANK LTD"
+  city: "BANJUL"
+  branch: null
+  swift: AGIXGMGM
+    
+- name: "AXIOS CREDIT BANK LTD"
+  city: "BANJUL"
+  branch: null
+  swift: AXCDGMG1
+    
+- name: "BANK OF WEST INDIES INTERNATIONAL LTD"
+  city: "BANJUL"
+  branch: null
+  swift: WEIIGMG1
+    
+- name: "BANK PHB (GAMBIA) LIMITED"
+  city: "BANJUL"
+  branch: null
+  swift: ITBCGMGM
+    
+- name: "BSIC GAMBIA LIMITED"
+  city: "KANIFING"
+  branch: null
+  swift: BSAHGMGM
+    
+- name: "C.J BANK LIMITED"
+  city: "BANJUL"
+  branch: null
+  swift: CJBLGMG1
+    
+- name: "C.J INSURANCE LTD"
+  city: "BANJUL"
+  branch: null
+  swift: ISSCGMG1
+    
+- name: "C.J.V.C BANK LIMITED"
+  city: "BANJUL"
+  branch: null
+  swift: CJVCGMG1
+    
+- name: "CENTRAL BANK OF THE GAMBIA"
+  city: "BANJUL"
+  branch: null
+  swift: CBGAGMGM
+    
+- name: "CITY COMMERCE BANK"
+  city: "BANJUL"
+  branch: null
+  swift: CTCRGMG1
+    
+- name: "ECOBANK GAMBIA"
+  city: "SERREKUNDA"
+  branch: null
+  swift: ECOCGMGM
+    
+- name: "FBN BANK GAMBIA LIMITED"
+  city: "SERREKUNDA"
+  branch: null
+  swift: ICBGGMGS
+    
+- name: "FIDELITY TRUST BANK INTERNATIONAL"
+  city: "BANJUL"
+  branch: null
+  swift: FDTIGMG1
+    
+- name: "FIRST INTERNATIONAL BANK LIMITED"
+  city: "BANJUL"
+  branch: null
+  swift: FIBLGMGM
+    
+- name: "GLOBAL TRUST INVESTMENT BANK LTD"
+  city: "BANJUL"
+  branch: null
+  swift: GLTIGMG1
+    
+- name: "GUARANTY TRUST BANK (GAMBIA) LIMITED"
+  city: "BANJUL"
+  branch: null
+  swift: GTBGGMGM
+    
+- name: "SKYE BANK LIMITED, GAMBIA"
+  city: "BANJUL"
+  branch: null
+  swift: SKYEGMGM
+    
+- name: "STANDARD CHARTERED BANK GAMBIA LIMITED"
+  city: "BANJUL"
+  branch: null
+  swift: SCBLGMGM
+    
+- name: "SUMMIT BANK"
+  city: "BANJUL"
+  branch: null
+  swift: SMMIGMG1
+    
+- name: "TRADE AND TRUST BANK LTD"
+  city: "BANJUL"
+  branch: null
+  swift: TATUGMG1
+    
+- name: "TRUST BANK LTD"
+  city: "BANJUL"
+  branch: null
+  swift: TBLTGMGM
+    
+- name: "U.S. AFRICA BANK (GAMBIA) LTD."
+  city: "BANJUL"
+  branch: null
+  swift: USABGMG1
+    
+- name: "ZENITH BANK GAMBIA"
+  city: "BANJUL"
+  branch: null
+  swift: ZEIBGMGM
+    

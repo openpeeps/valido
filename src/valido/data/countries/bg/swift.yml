@@ -1,0 +1,660 @@
+- name: "ABV INVESTICII EOOD"
+  city: "SOFIA"
+  branch: null
+  swift: ABIEBGS1
+    
+- name: "ACTIVA ASSET MANAGEMENT JSC"
+  city: "SOFIA"
+  branch: null
+  swift: AAMJBGS1
+    
+- name: "ADAMANT CAPITAL PARTNERS AD"
+  city: "SOFIA"
+  branch: null
+  swift: ADCRBGS1
+    
+- name: "AGENCY FOR CREDIT RATINGS AND ANALYSES AD"
+  city: "SOFIA"
+  branch: null
+  swift: ACCGBGS1
+    
+- name: "ALARIC CAPITAL"
+  city: "SOFIA"
+  branch: null
+  swift: AAAPBGS1
+    
+- name: "ALFA ASSET MANAGEMENT EAD"
+  city: "SOFIA"
+  branch: null
+  swift: AAMEBGS1
+    
+- name: "ALLIANZ BANK BULGARIA AD"
+  city: "SOFIA"
+  branch: null
+  swift: BUINBGSF
+    
+- name: "ARCUS ASSET MANAGEMENT JSC"
+  city: "PLOVDIV"
+  branch: null
+  swift: AAAJBG21
+    
+- name: "ASTRA ASSET MANAGEMENT JSC"
+  city: "SOFIA"
+  branch: null
+  swift: AAESBGS1
+    
+- name: "AUSTRIAN BULGARIAN INVESTMENT GROUP AD"
+  city: "SOFIA"
+  branch: null
+  swift: ABIGBGS1
+    
+- name: "AVAL IN JSC"
+  city: "SOFIA"
+  branch: null
+  swift: AVJCBGS1
+    
+- name: "AVC FINANCE PLC"
+  city: "SOFIA"
+  branch: null
+  swift: AVFIBGS1
+    
+- name: "AVUS CAPITAL"
+  city: "SOFIA"
+  branch: null
+  swift: AVCABGS1
+    
+- name: "BALKAN ADVISORY COMPANY-IP EAD"
+  city: "SOFIA"
+  branch: null
+  swift: BAPDBGS1
+    
+- name: "BALKAN INVESTMENT COMPANY AD"
+  city: "SOFIA"
+  branch: null
+  swift: BICYBGS1
+    
+- name: "BANK LEUMI ROMANIA-SOFIA BRANCH"
+  city: "SOFIA"
+  branch: null
+  swift: LUMIBGS1
+    
+- name: "BANKSERVICE AD"
+  city: "SOFIA"
+  branch: T2 INTEROPERABILITY
+  swift: BSBGBGSFIOP
+    
+- name: "BANKSERVICE AD"
+  city: "SOFIA"
+  branch: null
+  swift: BSBGBGSF
+    
+- name: "BENCHMARK FINANCE"
+  city: "SOFIA"
+  branch: null
+  swift: BEFNBGS1
+    
+- name: "BETA CORP JSC"
+  city: "SOFIA"
+  branch: null
+  swift: BEJSBGS2
+    
+- name: "BGPROINVEST"
+  city: "SOFIA"
+  branch: null
+  swift: BGPRBGS1
+    
+- name: "BNP PARIBAS S.A.-SOFIA BRANCH"
+  city: "SOFIA"
+  branch: null
+  swift: BNPABGSX
+    
+- name: "BULBROKERS A D"
+  city: "SOFIA"
+  branch: null
+  swift: BULBBGS1
+    
+- name: "BULBROKERS EAD"
+  city: "SOFIA"
+  branch: null
+  swift: BUAABGS1
+    
+- name: "BULEX INVEST PLC"
+  city: "VARNA"
+  branch: null
+  swift: BUIVBG21
+    
+- name: "BULGARIAN CREDIT RATING AGENCY"
+  city: "SOFIA"
+  branch: null
+  swift: BCRCBGS1
+    
+- name: "BULGARIAN DEVELOPMENT BANK (FORMERLY ENCOURAGEMENT BANK)"
+  city: "SOFIA"
+  branch: null
+  swift: NASBBGSF
+    
+- name: "BULGARIAN NATIONAL BANK"
+  city: "SOFIA"
+  branch: null
+  swift: BNBGBGSF
+    
+- name: "BULGARIAN NATIONAL BANK - BGN"
+  city: "SOFIA"
+  branch: null
+  swift: BNBGBGSD
+    
+- name: "BULGARIAN STOCK EXCHANGE"
+  city: "SOFIA"
+  branch: null
+  swift: XBULBGS1
+    
+- name: "BULGARIAN-AMERICAN CREDIT BANK"
+  city: "SOFIA"
+  branch: null
+  swift: BGUSBGSF
+    
+- name: "BULL TREND BROKERAGE LTD"
+  city: "SOFIA"
+  branch: null
+  swift: BUTKBGS1
+    
+- name: "CAPITAL INVEST JSC"
+  city: "SOFIA"
+  branch: null
+  swift: CAIJBGS1
+    
+- name: "CAPITAL MARKETS JSC"
+  city: "SOFIA"
+  branch: null
+  swift: CAMJBGS1
+    
+- name: "CAPMAN ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: CPSMBGS1
+    
+- name: "CAPMAN INC."
+  city: "SOFIA"
+  branch: null
+  swift: CPNMBGS1
+    
+- name: "CCB ASSETS MANAGEMENT EAD"
+  city: "SOFIA"
+  branch: null
+  swift: CSMEBGS1
+    
+- name: "CENTRAL COOPERATIVE BANK PLC"
+  city: "SOFIA"
+  branch: null
+  swift: CECBBGSF
+    
+- name: "CENTRAL DEPOSITORY AD"
+  city: "SOFIA"
+  branch: null
+  swift: CEDPBGSF
+    
+- name: "CIBANK JSC"
+  city: "SOFIA"
+  branch: null
+  swift: BUIBBGSF
+    
+- name: "CITIBANK EUROPE PLC, BULGARIA BRANCH"
+  city: "SOFIA"
+  branch: TRADE SERVICES DEPARTMENT
+  swift: CITIBGSFTRD
+    
+- name: "CITIBANK EUROPE PLC, BULGARIA BRANCH"
+  city: "SOFIA"
+  branch: null
+  swift: CITIBGSF
+    
+- name: "COMMERCIAL BANK VICTORIA EAD"
+  city: "SOFIA"
+  branch: null
+  swift: BINVBGSF
+    
+- name: "COMPASS INVEST JSC"
+  city: "SOFIA"
+  branch: null
+  swift: COIJBGS1
+    
+- name: "CONCORD ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: CNAEBGS1
+    
+- name: "D COMMERCE BANK AD"
+  city: "SOFIA"
+  branch: null
+  swift: DEMIBGSF
+    
+- name: "D.I.S.L. SECURITIES JSC."
+  city: "SOFIA"
+  branch: null
+  swift: DISJBGS1
+    
+- name: "DE NOVO EAD"
+  city: "SOFIA"
+  branch: null
+  swift: NODABGS1
+    
+- name: "DELTASTOCK AD"
+  city: "SOFIA"
+  branch: null
+  swift: DETTBGS1
+    
+- name: "DELTASTOCK ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: DEEABGS1
+    
+- name: "DILINGOVA FINANSOVA KOMPANIA AD"
+  city: "SOFIA"
+  branch: null
+  swift: DIFKBGS1
+    
+- name: "DSK BANK (FORMERLY STATE SAVINGS BANK)"
+  city: "SOFIA"
+  branch: null
+  swift: STSABGSF
+    
+- name: "EF ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: AMNMBGS1
+    
+- name: "ELANA FUND MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: ELFGBGS1
+    
+- name: "ELANA TRADING INC"
+  city: "SOFIA"
+  branch: null
+  swift: ELTABGS1
+    
+- name: "EUROBANK BULGARIA AD"
+  city: "SOFIA"
+  branch: CUSTODY DEPARTMENT
+  swift: BPBIBGSFSEC
+    
+- name: "EUROBANK BULGARIA AD"
+  city: "SOFIA"
+  branch: INTERNATIONAL SECURITIES DEPOSITORY
+  swift: BPBIBGSFISD
+    
+- name: "EUROBANK BULGARIA AD"
+  city: "SOFIA"
+  branch: null
+  swift: BPBIBGSF
+    
+- name: "EURO-FINANCE LTD"
+  city: "SOFIA"
+  branch: null
+  swift: EUFCBGSF
+    
+- name: "EXPAT ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: EAMGBGS1
+    
+- name: "FACTORI JSCO"
+  city: "SOFIA"
+  branch: null
+  swift: FAJSBGS1
+    
+- name: "FFBH ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: FFAMBGS1
+    
+- name: "FH EVER INC."
+  city: "SOFIA"
+  branch: null
+  swift: EEERBGS1
+    
+- name: "FINANCE ENGINEERING JSC"
+  city: "SOFIA"
+  branch: null
+  swift: FIEJBGS1
+    
+- name: "FINA-S AD INVESTMENT INTERMEDIARY"
+  city: "SOFIA"
+  branch: null
+  swift: FIRYBGS1
+    
+- name: "FINEX LTD"
+  city: "SOFIA"
+  branch: null
+  swift: FNEXBGS1
+    
+- name: "FIRST FINANCIAL BROKERAGE HOUSE LTD."
+  city: "SOFIA"
+  branch: null
+  swift: FFBHBGS1
+    
+- name: "FIRST INVESTMENT BANK AD"
+  city: "SOFIA"
+  branch: null
+  swift: FINVBGSF
+    
+- name: "FOCAL POINT INVESTMENTS JSC"
+  city: "SOFIA"
+  branch: null
+  swift: FPIJBGS1
+    
+- name: "GLOBAL MARKETS"
+  city: "SOFIA"
+  branch: null
+  swift: GLMKBGS1
+    
+- name: "ICARD AD"
+  city: "SOFIA"
+  branch: null
+  swift: INTFBGSF
+    
+- name: "ING BANK N.V. SOFIA BRANCH"
+  city: "SOFIA"
+  branch: null
+  swift: INGBBGSF
+    
+- name: "INTERNATIONAL ASSET BANK AD"
+  city: "SOFIA"
+  branch: null
+  swift: IABGBGSF
+    
+- name: "INVEST CAPITAL JSC"
+  city: "SOFIA"
+  branch: null
+  swift: INCJBGS1
+    
+- name: "INVEST FUND MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: IVFMBGS1
+    
+- name: "INVESTBANK PLC"
+  city: "SOFIA"
+  branch: null
+  swift: IORTBGSF
+    
+- name: "INVETSMENT INTERMEDIARY RNK CAPITAL AD"
+  city: "SOFIA"
+  branch: null
+  swift: IIRCBGS1
+    
+- name: "IP FAVORIT CLS"
+  city: "SOFIA"
+  branch: null
+  swift: FALSBGS1
+    
+- name: "IP INTERCAPITAL MARKETS AD"
+  city: "SOFIA"
+  branch: null
+  swift: INMKBGS1
+    
+- name: "ISBANK AG SOFIA BRANCH"
+  city: "SOFIA"
+  branch: null
+  swift: ISBKBGSF
+    
+- name: "KAROLL"
+  city: "SOFIA"
+  branch: null
+  swift: KAOLBGS1
+    
+- name: "KAROLL CAPITAL MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: KACABGS1
+    
+- name: "KBC SECURITIES N.V-BULGARIA BRANCH"
+  city: "SOFIA"
+  branch: null
+  swift: KSBRBGS1
+    
+- name: "MANAGEMENT COMPANY DSK ASSET MANAGEMENT AD"
+  city: "SOFIA"
+  branch: null
+  swift: MCDABGS1
+    
+- name: "MUNICIPAL BANK ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: MUAABGS1
+    
+- name: "MUNICIPAL BANK PLC"
+  city: "SOFIA"
+  branch: null
+  swift: SOMBBGSF
+    
+- name: "NABA INVEST PLC"
+  city: "VARNA"
+  branch: null
+  swift: NAIVBG21
+    
+- name: "PAYNETICS AD"
+  city: "SOFIA"
+  branch: null
+  swift: PATCBGSF
+    
+- name: "PIRAEUS BANK BULGARIA AD"
+  city: "SOFIA"
+  branch: null
+  swift: PIRBBGSF
+    
+- name: "POSITIVA JSC"
+  city: "SOFIA"
+  branch: null
+  swift: POJSBGS1
+    
+- name: "PRIMA LATIUS EOOD"
+  city: "SOFIA"
+  branch: null
+  swift: PRLDBGS1
+    
+- name: "PROCREDIT BANK (BULGARIA) EAD"
+  city: "SOFIA"
+  branch: null
+  swift: PRCBBGSF
+    
+- name: "RAIFFEISEN ASSET MANAGEMENT (BULGARIA) EAD"
+  city: "SOFIA"
+  branch: null
+  swift: RAMUBGS1
+    
+- name: "RAIFFEISENBANK (BULGARIA) EAD"
+  city: "SOFIA"
+  branch: null
+  swift: RZBBBGSF
+    
+- name: "REAL FINANCE AD"
+  city: "VARNA"
+  branch: null
+  swift: REIABG21
+    
+- name: "REAL FINANCE ASSET MANAGEMENT"
+  city: "VARNA"
+  branch: null
+  swift: RFAABG21
+    
+- name: "SAGLASIE ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: SATGBGS1
+    
+- name: "SELECT ASSET MANAGMENT"
+  city: "SOFIA"
+  branch: null
+  swift: SATTBGS1
+    
+- name: "SKY ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: SKSMBGS1
+    
+- name: "SOCIETE GENERALE EXPRESSBANK"
+  city: "VARNA"
+  branch: CUSTODY MANAGEMENT
+  swift: TTBBBG22CUS
+    
+- name: "SOCIETE GENERALE EXPRESSBANK"
+  city: "VARNA"
+  branch: null
+  swift: TTBBBG22
+    
+- name: "SOFIA INTERNATIONAL SECURITIES AD"
+  city: "SOFIA"
+  branch: null
+  swift: SOIUBGS1
+    
+- name: "SOMONI FINANCIAL BROKERAGE LTD."
+  city: "STARA ZAGORA"
+  branch: null
+  swift: SOFKBG21
+    
+- name: "STANDARD INVESTMENT"
+  city: "SOFIA"
+  branch: null
+  swift: STVVBGS1
+    
+- name: "STATUS INVEST AD"
+  city: "SOFIA"
+  branch: null
+  swift: STVNBGS1
+    
+- name: "STS FINANCE SC"
+  city: "SOFIA"
+  branch: null
+  swift: STSFBGS1
+    
+- name: "SYNERGON ASSET MANAGEMENT JSC"
+  city: "SOFIA"
+  branch: null
+  swift: SAMJBGS1
+    
+- name: "T.C. ZIRAAT BANKASI - SOFIA BRANCH"
+  city: "SOFIA"
+  branch: null
+  swift: TCZBBGSF
+    
+- name: "TBI ASSET MANAGEMENT EAD"
+  city: "SOFIA"
+  branch: null
+  swift: TASGBGS1
+    
+- name: "TBI BANK EAD"
+  city: "SOFIA"
+  branch: null
+  swift: TBIBBGSF
+    
+- name: "TBI INVEST EAD"
+  city: "SOFIA"
+  branch: null
+  swift: TBIEBGS1
+    
+- name: "TEXIM ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: TESMBGS1
+    
+- name: "TEXIM BANK AD"
+  city: "SOFIA"
+  branch: null
+  swift: TEXIBGSF
+    
+- name: "TIC SAEDINENIE PLC"
+  city: "PLOVDIV"
+  branch: null
+  swift: TICEBG21
+    
+- name: "TOKUDA BANK AD"
+  city: "SOFIA"
+  branch: null
+  swift: CREXBGSF
+    
+- name: "TRANSCARD FINANCIAL SERVICES"
+  city: "SOFIA"
+  branch: null
+  swift: TRIVBGS1
+    
+- name: "TREND ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: TESTBGS1
+    
+- name: "UBB ASSET MANAGEMENT"
+  city: "SOFIA"
+  branch: null
+  swift: UBATBGS1
+    
+- name: "UG MARKET FUND MANAGEMENT JSC"
+  city: "PLOVDIV"
+  branch: null
+  swift: UGMJBG21
+    
+- name: "UG MARKET JSC"
+  city: "PLOVDIV"
+  branch: null
+  swift: MAJSBG21
+    
+- name: "UNICREDIT BULBANK AD"
+  city: "PLOVDIV"
+  branch: PLOVDIV BRANCH
+  swift: UNCRBGSF720
+    
+- name: "UNICREDIT BULBANK AD"
+  city: "SOFIA"
+  branch: SERDIKA BRANCH
+  swift: UNCRBGSF031
+    
+- name: "UNICREDIT BULBANK AD"
+  city: "SOFIA"
+  branch: VITOSHA BRANCH
+  swift: UNCRBGSF426
+    
+- name: "UNICREDIT BULBANK AD"
+  city: "SOFIA"
+  branch: null
+  swift: UNCRBGSF
+    
+- name: "UNICREDIT BULBANK AD"
+  city: "V. TARNOVO"
+  branch: V. TARNOVO BRANCH
+  swift: UNCRBGSF081
+    
+- name: "UNICREDIT BULBANK AD"
+  city: "VARNA"
+  branch: null
+  swift: UNCRBGSF733
+    
+- name: "UNITED BULGARIAN BANK"
+  city: "SOFIA"
+  branch: HEADQUARTER
+  swift: UBBSBGSF
+    
+- name: "VARCHEV FINANCE EOOD"
+  city: "VARNA"
+  branch: null
+  swift: VAFEBG21
+    
+- name: "VARCHEV MANAGING COMPANY EAD"
+  city: "VARNA"
+  branch: null
+  swift: VMCEBG21
+    
+- name: "ZAGORA FINACORP AD"
+  city: "HASKOVO"
+  branch: null
+  swift: ZAFIBG21
+    
+- name: "ZLATEN LEV BROKERI LTD"
+  city: "SOFIA"
+  branch: null
+  swift: ZLLBBGS1
+    
+- name: "ZLATEN LEV CAPITAL"
+  city: "SOFIA"
+  branch: null
+  swift: ZLLCBGS1
+    

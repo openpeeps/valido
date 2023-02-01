@@ -1,0 +1,5435 @@
+- name: "A.C.C. STAFF CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ASRUIE21
+    
+- name: "A.N.S.A.C.CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ANUNIE21
+    
+- name: "A.S.T.I. CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ASRNIE21
+    
+- name: "AAREAL BANK AG, DUBLIN BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: AARBIE21
+    
+- name: "ABBEY CAPITAL LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: ABAPIE21
+    
+- name: "ABBEYFEALE CREDIT UNION LIMITED"
+  city: "ABBEYFEALE"
+  branch: null
+  swift: ABRUIE21
+    
+- name: "AC CAPITAL PARTNERS LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: CPATIE21
+    
+- name: "ACC LOAN MANAGEMENT DAC"
+  city: "DUBLIN"
+  branch: null
+  swift: ACCBIE2D
+    
+- name: "ACCENTURE"
+  city: "DUBLIN"
+  branch: null
+  swift: ACNTIE2D
+    
+- name: "ACHILL CREDIT UNION LIMITED"
+  city: "ACHILL"
+  branch: null
+  swift: ACCUIE21
+    
+- name: "ADVANCE INVESTMENT MANAGERS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: AIBKIE2E
+    
+- name: "ADVANCE INVESTMENT MANAGERS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: AIBKIE31
+    
+- name: "AIB BANK"
+  city: "DUBLIN"
+  branch: null
+  swift: AIBKIE2D
+    
+- name: "AIB CAPITAL MARKETS PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: AICMIE21
+    
+- name: "AIB CAPITAL MARKETS PUBLIC LIMITED COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: ACMOIE21
+    
+- name: "AIB FINANCE LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: AIFIIE21
+    
+- name: "AIB MORTGAGE BANK"
+  city: "DUBLIN"
+  branch: null
+  swift: AIMBIE21
+    
+- name: "AIG ASSET MANAGEMENT (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: CUSTODIAN
+  swift: AGITIE21CUS
+    
+- name: "AIG ASSET MANAGEMENT (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: AGITIE21
+    
+- name: "AIG INVESTMENTS IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: AIGCIE21
+    
+- name: "ALNISTA GROWTH FUND INC"
+  city: "DUBLIN"
+  branch: null
+  swift: ALGFIE21
+    
+- name: "AN POST EMPLOYEES' CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: EMCNIE21
+    
+- name: "AN POST OR, IN THE ENGLISH LANGUAGE, THE POST OFFCE"
+  city: "DUBLIN"
+  branch: null
+  swift: PSTSIE21
+    
+- name: "ANNADUFF CREDIT UNION LIMITED"
+  city: "DROMOD"
+  branch: null
+  swift: ANCUIE21
+    
+- name: "ANP INTERNATIONAL FINANCE LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: AFRNIE21
+    
+- name: "AONACH CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: AOCUIE21
+    
+- name: "APEX FUND SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: AFSIIE21
+    
+- name: "ARAINN CREDIT UNION LIMITED"
+  city: "KILRONAN"
+  branch: null
+  swift: ARRIIE21
+    
+- name: "ARCH REINSURANCE EUROPE"
+  city: "DUBLIN"
+  branch: null
+  swift: ARRPIE21
+    
+- name: "ARDEE CREDIT UNION LIMITED"
+  city: "ARDEE"
+  branch: null
+  swift: ARCUIE21
+    
+- name: "ARDFINNAN CREDIT UNION LIMITED"
+  city: "CLONMEL"
+  branch: null
+  swift: ARRNIE21
+    
+- name: "ARKLOW CREDIT UNION LIMITED"
+  city: "ARKLOW"
+  branch: null
+  swift: ARRUIE21
+    
+- name: "ATHBOY CREDIT UNION LIMITED"
+  city: "ATHBOY"
+  branch: null
+  swift: ATCUIE21
+    
+- name: "ATHEA AND DISTRICT CREDIT UNION LIMITED"
+  city: "ATHEA"
+  branch: null
+  swift: ADCUIE21
+    
+- name: "ATHENRY CREDIT UNION LIMITED"
+  city: "ATHENRY"
+  branch: null
+  swift: ATRUIE21
+    
+- name: "ATHLONE CREDIT UNION LIMITED"
+  city: "ATHLONE"
+  branch: null
+  swift: ATROIE21
+    
+- name: "ATHY CREDIT UNION LIMITED"
+  city: "ATHY"
+  branch: null
+  swift: ATEUIE21
+    
+- name: "AUGHRIM STREET PARISH AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ASPDIE21
+    
+- name: "AVA CAPITAL MARKETS LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: AVACIE21
+    
+- name: "AVONMORE CREDIT UNION LIMITED"
+  city: "RATHDRUM"
+  branch: null
+  swift: AVCUIE21
+    
+- name: "AYRFIELD CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: AYCUIE21
+    
+- name: "B AND S CREDIT UNION LIMITED"
+  city: "BALLYBOFEY"
+  branch: null
+  swift: CRUNIE21
+    
+- name: "B.C.P. STOCKBROKERS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BCPKIE21
+    
+- name: "B.H.K. CREDIT UNION LIMITED"
+  city: "DUNDALK"
+  branch: null
+  swift: BHCUIE21
+    
+- name: "BAGENALSTOWN CREDIT UNION LIMITED"
+  city: "BAGENALSTOWN"
+  branch: null
+  swift: BGCUIE21
+    
+- name: "BALLAGHADERREEN AND DISTRICT CREDIT UNION LIMITED"
+  city: "BALLAGHADERREEN"
+  branch: null
+  swift: BDCUIE21
+    
+- name: "BALLINA CREDIT UNION LIMITED"
+  city: "BALLINA"
+  branch: null
+  swift: BLCIIE21
+    
+- name: "BALLINAMORE CREDIT UNION LIMITED"
+  city: "BALLINAMORE"
+  branch: null
+  swift: BLRUIE21
+    
+- name: "BALLINASLOE CREDIT UNION (OUR LADY OF LOURDES) LIMITED"
+  city: "BALLINASLOE"
+  branch: null
+  swift: BCUOIE21
+    
+- name: "BALLINCOLLIG CREDIT UNION LIMITED"
+  city: "BALLINCOLLIG"
+  branch: null
+  swift: BLRNIE21
+    
+- name: "BALLINLOUGH CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: BCRUIE21
+    
+- name: "BALLIVOR-KILDALKEY CREDIT UNION LIMITED"
+  city: "BALLIVOR"
+  branch: null
+  swift: BLROIE21
+    
+- name: "BALLON AND RATHOE CREDIT UNION LIMITED"
+  city: "BALLON"
+  branch: null
+  swift: BRCUIE21
+    
+- name: "BALLYBAY CREDIT UNION LIMITED"
+  city: "BALLYBAY"
+  branch: null
+  swift: BLENIE21
+    
+- name: "BALLYBUNION CREDIT UNION LIMITED"
+  city: "BALLYBUNION"
+  branch: null
+  swift: BLEIIE21
+    
+- name: "BALLYCONNELL CREDIT UNION LIMITED"
+  city: "BALLYCONNELL"
+  branch: null
+  swift: BLTOIE21
+    
+- name: "BALLYFERMOT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BLTUIE21
+    
+- name: "BALLYGALL CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BLTNIE21
+    
+- name: "BALLYHAUNIS AND DISTRICT CREDIT UNION LIMITED"
+  city: "BALLYHAUNIS"
+  branch: null
+  swift: BDCIIE21
+    
+- name: "BALLYJAMESDUFF CREDIT UNION LIMITED"
+  city: "BALLYJAMESDUFF"
+  branch: null
+  swift: BLDUIE21
+    
+- name: "BALLYMAHON AND DISTRICT CREDIT UNION LIMITED"
+  city: "BALLYMAHON"
+  branch: null
+  swift: BDCOIE21
+    
+- name: "BALLYMOTE AND DISTRICT CREDIT UNION LIMITED"
+  city: "BALLYMOTE"
+  branch: null
+  swift: BDCLIE21
+    
+- name: "BALLYMUN CREDIT UNION LIMITED"
+  city: "BALLYMUN"
+  branch: null
+  swift: BLDNIE21
+    
+- name: "BALLYMURN CREDIT UNION LIMITED"
+  city: "ENNISCORTHY"
+  branch: null
+  swift: BLTIIE21
+    
+- name: "BALLYPHEHANE CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: BCDUIE21
+    
+- name: "BALLYRAGGET AND DISTRICT CREDIT UNION LIMITED"
+  city: "BALLYRAGGET"
+  branch: null
+  swift: BDRUIE21
+    
+- name: "BALLYSHANNON AND KILLYBEGS CREDIT UNION LIMITED"
+  city: "DONEGAL TOWN"
+  branch: null
+  swift: BLDIIE21
+    
+- name: "BALTINGLASS CREDIT UNION LIMITED"
+  city: "BALTINGLASS"
+  branch: null
+  swift: BLDOIE21
+    
+- name: "BANAGHER CREDIT UNION LIMITED"
+  city: "BANAGHER"
+  branch: null
+  swift: BNCUIE21
+    
+- name: "BANDON CREDIT UNION LIMITED"
+  city: "BANDON"
+  branch: null
+  swift: BNCNIE21
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: FUTURES
+  swift: MLMBIE2XFUT
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: LOANS
+  swift: MLMBIE2XLON
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: ML COMMODITIES INC.
+  swift: MLMBIE2DMCS
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: ML SECURITIES OOO
+  swift: MLMBIE2XMSO
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: MLI CLEARED DERIVATIVES
+  swift: MLMBIE2XFFO
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: MLMD
+  swift: MLMBIE2XIST
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: MLT BROKERAGE PROPRIETARY TRADING SERVICES DEPARTMENT
+  swift: MLMBIE2XMTB
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: PRECIOUS METALS BRANCH
+  swift: MLMBIE2XMET
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: TREASURY
+  swift: MLMBIE2XTSY
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: MLMBIE2D
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: MLMBIE2X
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: MLMBIE2XITL
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED"
+  city: "DUBLIN"
+  branch: GLOBAL DERRIVATIVE SETTLEMENTS
+  swift: BOFAIE3XGDS
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED"
+  city: "DUBLIN"
+  branch: INTERNATIONAL FINANCIAL SERVICE CENTRE
+  swift: BOFAIE3XIFS
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED"
+  city: "DUBLIN"
+  branch: MANAGED TRANSACTION BANKING SERVICES
+  swift: BOFAIE3XVAM
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BOFAIE3X
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BOFAIE3XEQU
+    
+- name: "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BOFAIE3XSBL
+    
+- name: "BANK OF CHINA (UK)LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: BKCHIE2D
+    
+- name: "BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: BOFIIE2D
+    
+- name: "BANK OF IRELAND (TREASURY)"
+  city: "DUBLIN"
+  branch: null
+  swift: BIGTIE2D
+    
+- name: "BANK OF MONTREAL IRELAND PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: BOFMIE2D
+    
+- name: "BANKERS TRUST INTERNATIONAL PLC (BTI)"
+  city: "DUBLIN"
+  branch: null
+  swift: BKTIIE21
+    
+- name: "BANKIA SA IRISH BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: CAHMIE21
+    
+- name: "BANTRY CREDIT UNION LIMITED"
+  city: "BANTRY"
+  branch: null
+  swift: BNRUIE21
+    
+- name: "BARCLAYS BANK IRELAND PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: BARCIE2D
+    
+- name: "BEAR STEARNS BANK PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: BESNIE21
+    
+- name: "BELFIELD CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BEEUIE21
+    
+- name: "BELFIUS BANK SA/NV, DUBLIN BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: DXIAIE2D
+    
+- name: "BENNETTSBRIDGE CREDIT UNION LIMITED"
+  city: "BENNETTSBRIDGE"
+  branch: null
+  swift: BEENIE21
+    
+- name: "BEREHAVEN CREDIT UNION LIMITED"
+  city: "CASTLETOWNBERE"
+  branch: null
+  swift: BERIIE21
+    
+- name: "BIRR CREDIT UNION LIMITED"
+  city: "BIRR"
+  branch: null
+  swift: BIRNIE21
+    
+- name: "BISHOPSTOWN CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: BIRIIE21
+    
+- name: "BLACK RAVEN CREDIT UNION LIMITED"
+  city: "TALLAGHT"
+  branch: null
+  swift: BREOIE21
+    
+- name: "BLACKBEE INVESTMENTS LTD"
+  city: "CORK"
+  branch: null
+  swift: BLIEIE21
+    
+- name: "BLACKPOOL CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: BLIOIE21
+    
+- name: "BLACKROCK CREDIT UNION LIMITED"
+  city: "BLACKROCK"
+  branch: null
+  swift: BLIUIE21
+    
+- name: "BLACKSTONE DIVERSIFIED MULTI- STRATEGY FUND"
+  city: "DUBLIN"
+  branch: null
+  swift: BDMSIE21
+    
+- name: "BLANCHARDSTOWN AND DISTRICT CREDIT UNION LIMITED"
+  city: "BLANCHARDSTOWN"
+  branch: null
+  swift: BDRNIE21
+    
+- name: "BLARNEY CREDIT UNION LIMITED"
+  city: "BLARNEY"
+  branch: null
+  swift: BLIIIE21
+    
+- name: "BLESSINGTON AND DISTRICT CREDIT UNION LIMITED"
+  city: "BLESSINGTON"
+  branch: null
+  swift: BDRIIE21
+    
+- name: "BLOOMBERG POLARLAKE LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: BPLRIE2D
+    
+- name: "BLOXHAM STOCKBROKERS"
+  city: "DUBLIN"
+  branch: BACK OFFICE
+  swift: BLOXIE21BKO
+    
+- name: "BLOXHAM STOCKBROKERS"
+  city: "DUBLIN"
+  branch: MODEL B BUSINESS
+  swift: BLOXIE21OBC
+    
+- name: "BLOXHAM STOCKBROKERS"
+  city: "DUBLIN"
+  branch: null
+  swift: BLOXIE21
+    
+- name: "BNP PARIBAS IRELAND - DUBLIN BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: BNPAIE2D
+    
+- name: "BNP PARIBAS PRIME BROKERAGE INTERNATIONAL, LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BNPBIE2D
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "DUBLIN"
+  branch: DUBLIN DEPOSITARY AND FIDUCIARY SERVICES
+  swift: HNADIE2DDFS
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "DUBLIN"
+  branch: SECURITIES SERVICES DUBLIN
+  swift: HNADIE2DBNP
+    
+- name: "BNP PARIBAS SECURITIES SERVICES"
+  city: "DUBLIN"
+  branch: null
+  swift: HNADIE2D
+    
+- name: "BNP PARIBAS SECURITIES SERVICES, DUBLIN"
+  city: "DUBLIN"
+  branch: null
+  swift: PARBIE2D
+    
+- name: "BNY MELLON FUND SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BMFEIE21
+    
+- name: "BNY MELLON GLOBAL FUNDS, PUBLIC LIMITED COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: MEGFIE21
+    
+- name: "BORD GAIS EMPLOYEES' CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BGECIE21
+    
+- name: "BORRISOKANE CREDIT UNION LIMITED"
+  city: "BORRISOKANE"
+  branch: null
+  swift: BORUIE21
+    
+- name: "BOS (IRELAND) FUNDING PUBLIC LIMITED COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: ICIVIE21
+    
+- name: "BOYLE CREDIT UNION LIMITED"
+  city: "BOYLE"
+  branch: null
+  swift: BORNIE21
+    
+- name: "BPB INTERNATIONAL FINANCE PLC (BANCA POPULARE DI BERGAMO - CV BANKING GROUP)"
+  city: "DUBLIN"
+  branch: null
+  swift: BEPOIE21
+    
+- name: "BPM IRELAND PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: BPMIIE21
+    
+- name: "BPV FINANCE (INTERNATIONAL) PUBLIC LIMITED COMPAN Y"
+  city: "DUBLIN"
+  branch: null
+  swift: BPVIIE21
+    
+- name: "BRANDES INVESTMENT PARTNERS (EUROPE"
+  city: "DUBLIN"
+  branch: null
+  swift: BIPEIE21
+    
+- name: "BRAY CREDIT UNION LIMITED"
+  city: "BRAY"
+  branch: null
+  swift: BRRUIE21
+    
+- name: "BROADSTONE C.I.E. EMPLOYEES' CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BREEIE21
+    
+- name: "BROOKS THOMAS CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BTCUIE21
+    
+- name: "BROWN BROTHERS HARRIMAN FUND ADMINISTRATION SERVICES (IRELAND), LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: BBHFIE21
+    
+- name: "BROWN BROTHERS HARRIMAN TRUSTEE SERVICES (IRELAND), LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: BBHTIE21
+    
+- name: "BRUFF CREDIT UNION LIMITED"
+  city: "BRUFF"
+  branch: null
+  swift: BRROIE21
+    
+- name: "BUNCLODY CREDIT UNION LIMITED"
+  city: "ENNISCORTHY"
+  branch: null
+  swift: BURNIE21
+    
+- name: "BUNCRANA CREDIT UNION LIMITED"
+  city: "BUNCRANA"
+  branch: null
+  swift: BURUIE21
+    
+- name: "BUTTEVANT AND DONERAILE CREDIT UNION LIMITED"
+  city: "BUTTEVANT"
+  branch: null
+  swift: DOCIIE21
+    
+- name: "C.I.E. (GALWAY) CREDIT UNION LIMITED"
+  city: "GALWAY"
+  branch: null
+  swift: GACNIE21
+    
+- name: "C.I.E. EMPLOYEES DUNDALK CREDIT UNION LIMITED"
+  city: "DUNDALK"
+  branch: null
+  swift: EDCUIE21
+    
+- name: "C.I.E. STAFF (CORK) CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: SCRNIE21
+    
+- name: "CABRA CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CBRNIE21
+    
+- name: "CACEIS BANK, IRELAND BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: ISAEIE2D
+    
+- name: "CAHERCIVEEN CREDIT UNION LIMITED"
+  city: "CAHERCIVEEN"
+  branch: null
+  swift: CADNIE21
+    
+- name: "CAHERDAVIN AND DISTRICT CREDIT UNION LIMITED"
+  city: "REDGATE"
+  branch: null
+  swift: CDEIIE21
+    
+- name: "CAHIR CREDIT UNION LIMITED"
+  city: "CAHIR"
+  branch: null
+  swift: CHCUIE21
+    
+- name: "CALLAN CREDIT UNION LIMITED"
+  city: "CALLAN"
+  branch: null
+  swift: CLRUIE21
+    
+- name: "CAMPBELL O'CONNOR AND CO"
+  city: "DUBLIN"
+  branch: null
+  swift: CAMRIE21
+    
+- name: "CANA CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CNRNIE21
+    
+- name: "CANALI FINANCE LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: CNLIIE2D
+    
+- name: "CANTOR FITZGERALD IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CAZAIE21
+    
+- name: "CAPELLA SECURITIES LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CPSEIE21
+    
+- name: "CAPITAIFS IRELAND LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: CPIRIE21
+    
+- name: "CAPMARK SERVICES IRELAND LIMITED"
+  city: "MULLINGAR"
+  branch: null
+  swift: CMBEIE31
+    
+- name: "CARLOW DISTRICT CREDIT UNION LIMITED"
+  city: "ASKEA"
+  branch: null
+  swift: CDEUIE21
+    
+- name: "CARNEW CREDIT UNION LIMITED"
+  city: "CARNEW"
+  branch: null
+  swift: CNCNIE21
+    
+- name: "CARRICKBRENNAN CREDIT UNION LIMITED"
+  city: "DUN LAOGHAIRE"
+  branch: null
+  swift: CIDUIE21
+    
+- name: "CARRICKMACROSS CREDIT UNION LIMITED"
+  city: "CARRICKMACROSS"
+  branch: null
+  swift: CIENIE21
+    
+- name: "CARRICK-ON-SHANNON AND DISTRICT CREDIT UNION LIMITED"
+  city: "CARRICK-ON-SHANNON"
+  branch: null
+  swift: CDCIIE21
+    
+- name: "CARRICK-ON-SUIR CREDIT UNION LIMITED"
+  city: "CARRICK-ON-SUIR"
+  branch: null
+  swift: CIEOIE21
+    
+- name: "CASHEL CREDIT UNION LIMITED"
+  city: "CASHEL"
+  branch: null
+  swift: CSRUIE21
+    
+- name: "CASHEL-CONNEMARA CREDIT UNION LIMITED"
+  city: "CONNEMARA"
+  branch: null
+  swift: CSDUIE21
+    
+- name: "CASTLE CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CSDIIE21
+    
+- name: "CASTLEBAR CREDIT UNION LIMITED"
+  city: "CASTLEBAR"
+  branch: null
+  swift: CSRNIE21
+    
+- name: "CASTLEBLAYNEY CREDIT UNION LIMITED"
+  city: "CASTLEBLAYNEY"
+  branch: null
+  swift: CSRIIE21
+    
+- name: "CASTLECOMER CREDIT UNION LIMITED"
+  city: "CASTLECOMER"
+  branch: null
+  swift: CSENIE21
+    
+- name: "CASTLECONNELL/AHANE CREDIT UNION LIMITED"
+  city: "CASTLECONNELL"
+  branch: null
+  swift: CSIIIE21
+    
+- name: "CASTLEDERMOT CREDIT UNION LIMITED"
+  city: "CASTLEDERMOT"
+  branch: null
+  swift: CSEIIE21
+    
+- name: "CASTLELOST CREDIT UNION LIMITED"
+  city: "ROCHFORTBRIDGE"
+  branch: null
+  swift: CSTNIE21
+    
+- name: "CASTLEPOLLARD CREDIT UNION LIMITED"
+  city: "CASTLEPOLLARD"
+  branch: null
+  swift: CSEOIE21
+    
+- name: "CASTLEREA AND DISTRICT CREDIT UNION LIMITED"
+  city: "CASTLEREA"
+  branch: null
+  swift: CDCEIE21
+    
+- name: "CATHEDRAL CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: CTCIIE21
+    
+- name: "CAVAN CREDIT UNION LIMITED"
+  city: "CAVAN"
+  branch: null
+  swift: CVCUIE21
+    
+- name: "CELBRIDGE DISTRICT CREDIT UNION LIMITED"
+  city: "CELBRIDGE"
+  branch: null
+  swift: CDRNIE21
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: ACCOUNTS DEPARTMENT
+  swift: IRCEIE2DAPS
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: CMAS
+  swift: IRCEIE2DCCB
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: CONTINGENCY DEPARTMENT
+  swift: IRCEIE2DCON
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: FUTURES
+  swift: IRCEIE2DFOR
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: GOVERNMENT ACCOUNTS
+  swift: IRCEIE2DGOV
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: IRISH ELECTRONIC CLEARING
+  swift: IRCEIE2DIRC
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: IRISH PAPER CLEARING
+  swift: IRCEIE2DIPC
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: TREASURY OPERATIONS MANAGEMENT
+  swift: IRCEIE2DTOM
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: IRCEIE21HAM
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: IRCEIE21PMM
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: IRCEIE2D
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: IRCEIE2DCRS
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: IRCEIE2DCUR
+    
+- name: "CENTRAL BANK OF IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: IRCEIE2DEPA
+    
+- name: "CENTRAL CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CERNIE21
+    
+- name: "CHARLEVILLE CREDIT UNION LIMITED"
+  city: "CHARLEVILLE"
+  branch: null
+  swift: CHRUIE21
+    
+- name: "CHRISTOWS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CHRWIE21
+    
+- name: "CHRISTOWS LTD (BRANCH OFFICE)"
+  city: "DUBLIN"
+  branch: null
+  swift: CHRFIE21
+    
+- name: "CITCO BANK NEDERLAND N.V., DUBLIN BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: CITCIE2D
+    
+- name: "CITCO FUND SERVICES IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: CAY ACCOUNTS
+  swift: CFSHIE2DSCA
+    
+- name: "CITCO FUND SERVICES IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: CUR ACCOUNTS
+  swift: CFSHIE2DSCU
+    
+- name: "CITCO FUND SERVICES IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: TOR ACCOUNTS
+  swift: CFSHIE2DSTO
+    
+- name: "CITCO FUND SERVICES IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CFSHIE2D
+    
+- name: "CITCO FUND SERVICES IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CFSHIE2DFEC
+    
+- name: "CITCO FUND SERVICES IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CFSHIE2DGGY
+    
+- name: "CITCO FUND SERVICES IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CFSHIE2DMUR
+    
+- name: "CITCO FUND SERVICES IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CFSHIE2DSDU
+    
+- name: "CITI FUND SERVICES (IRELAND), LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BSYSIE21
+    
+- name: "CITIBANK EUROPE PLC"
+  city: "DUBLIN"
+  branch: CITIBANK EUROPE PLC DUBLIN
+  swift: CITIIE2XRES
+    
+- name: "CITIBANK EUROPE PLC"
+  city: "DUBLIN"
+  branch: TRANSFER AGENCY SERVICES
+  swift: CITIIE4XITA
+    
+- name: "CITIBANK EUROPE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: CITIIE2X
+    
+- name: "CITIBANK EUROPE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: CITIIEA1
+    
+- name: "CITIBANK EUROPE PLC (FORMERLY CITIBANK INTERNATIONAL LIMITED IRELAND BRANCH)"
+  city: "DUBLIN"
+  branch: null
+  swift: CITIIE3D
+    
+- name: "CITYBUS EMPLOYEES' CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CEEUIE21
+    
+- name: "CIVIL SERVICE CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CSDOIE21
+    
+- name: "CLANMAURICE CREDIT UNION LIMITED"
+  city: "TRALEE"
+  branch: null
+  swift: CLIOIE21
+    
+- name: "CLEARIESTOWN CREDIT UNION LIMITED"
+  city: "BRIDGETOWN"
+  branch: null
+  swift: CLCUIE21
+    
+- name: "CLEARSTREAM HEDGE FUNDS SERVICES DUBLIN"
+  city: "DUBLIN"
+  branch: null
+  swift: CFSDIE21
+    
+- name: "CLOGHERHEAD CREDIT UNION LIMITED"
+  city: "CLOGHERHEAD"
+  branch: null
+  swift: CLIUIE21
+    
+- name: "CLONDALKIN CREDIT UNION LIMITED"
+  city: "CLONDALKIN"
+  branch: null
+  swift: CLRIIE21
+    
+- name: "CLONES CREDIT UNION LIMITED"
+  city: "CLONES"
+  branch: null
+  swift: CLROIE21
+    
+- name: "CLONMEL CREDIT UNION LIMITED"
+  city: "CLONMEL"
+  branch: null
+  swift: CLEUIE21
+    
+- name: "CLONSILLA CREDIT UNION LIMITED."
+  city: "DUBLIN"
+  branch: null
+  swift: CLDUIE21
+    
+- name: "CLONTARF CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CLDNIE21
+    
+- name: "CLOVIS OLIVEIRA SANTOS"
+  city: "NAAS"
+  branch: null
+  swift: CLOAIE21
+    
+- name: "CNH CAPITAL PLC"
+  city: "MEATH"
+  branch: null
+  swift: CNCPIE21
+    
+- name: "COBH CREDIT UNION LIMITED"
+  city: "COBH"
+  branch: null
+  swift: CBRUIE21
+    
+- name: "CO-CO CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CCEUIE21
+    
+- name: "COILL DUBH AND DISTRICT CREDIT UNION LIMITED"
+  city: "NAAS"
+  branch: null
+  swift: CDDCIE21
+    
+- name: "COIS SIONNA CREDIT UNION LIMITED"
+  city: "ASKEATON"
+  branch: null
+  swift: CSCIIE21
+    
+- name: "COLLON CREDIT UNION LIMITED"
+  city: "COLLON"
+  branch: null
+  swift: CLEOIE21
+    
+- name: "COLLOONEY AND DISTRICT CREDIT UNION LIMITED"
+  city: "COLLOONEY"
+  branch: null
+  swift: CDRIIE21
+    
+- name: "COMGEST ASSET MANAGEMENT INTERNATIONAL LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CSNEIE21
+    
+- name: "COMHAR CHREIDMHEASA CHORCA DHUIBHNE TEORANTA"
+  city: "DINGLE"
+  branch: null
+  swift: CCHDIE21
+    
+- name: "COMHAR CREIDMHEASA CHOLM CILLE TEORANTA"
+  city: "INDREABHAN"
+  branch: null
+  swift: CCHCIE21
+    
+- name: "COMHAR CREIDMHEASA CHRIOST RI TEORANTA"
+  city: "CORK"
+  branch: null
+  swift: CCHTIE21
+    
+- name: "COMHAR CREIDMHEASA GHAOTH DOBHEIR TEORANTA"
+  city: "LEITIRCEANANN"
+  branch: null
+  swift: CCGDIE21
+    
+- name: "COMHAR LINN INTO CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CLIRIE21
+    
+- name: "COMMUNITY CREDIT UNION"
+  city: "DUBLIN"
+  branch: null
+  swift: PRCUIE21
+    
+- name: "CONNOLLY CIE CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CNRUIE21
+    
+- name: "COOLEY CREDIT UNION LIMITED"
+  city: "CARLINGFORD"
+  branch: null
+  swift: CLRNIE21
+    
+- name: "COOTEHILL CREDIT UNION LIMITED"
+  city: "COOTEHILL"
+  branch: null
+  swift: CTCNIE21
+    
+- name: "CORONATION CAPITAL LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CNAIIE21
+    
+- name: "CORONTION"
+  city: "DUBLIN"
+  branch: null
+  swift: CNROIE21
+    
+- name: "CREDIT SUISSE ADMINISTRATION SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CSARIE21
+    
+- name: "CREDIT SUISSE AG, DUBLIN"
+  city: "DUBLIN"
+  branch: null
+  swift: CRESIE3P
+    
+- name: "CREDIT SUISSE AG, DUBLIN"
+  city: "DUBLIN"
+  branch: null
+  swift: CRESIE3PPSO
+    
+- name: "CREDIT SUISSE AG, DUBLIN"
+  city: "DUBLIN"
+  branch: null
+  swift: CRESIE3PSTC
+    
+- name: "CREDIT SUISSE INTERNATIONAL DUBLIN BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: CRESIE2D
+    
+- name: "CRH GROUP SERVICES LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CRHPIE2D
+    
+- name: "CROSSHAVEN-CARRIGALINE CREDIT UNION LIMITED"
+  city: "CROSSHAVEN"
+  branch: null
+  swift: CSDNIE21
+    
+- name: "CUCHULLAIN CREDIT UNION LIMITED"
+  city: "DUNDALK"
+  branch: null
+  swift: CUCUIE21
+    
+- name: "CURRENCYFAIR LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CURYIE21
+    
+- name: "DALKEY CREDIT UNION LIMITED"
+  city: "DALKEY"
+  branch: null
+  swift: DACIIE21
+    
+- name: "DANSKE BANK A/S"
+  city: "ATHLONE"
+  branch: ATHLONE
+  swift: DABAIE2D633
+    
+- name: "DANSKE BANK A/S"
+  city: "BAILIEBOROUGH"
+  branch: BAILIEBOROUGH
+  swift: DABAIE2D601
+    
+- name: "DANSKE BANK A/S"
+  city: "BALBRIGGAN"
+  branch: BALBRIGGAN
+  swift: DABAIE2D606
+    
+- name: "DANSKE BANK A/S"
+  city: "BALLINAMORE"
+  branch: BALLINAMORE
+  swift: DABAIE2D611
+    
+- name: "DANSKE BANK A/S"
+  city: "BALLINASLOE"
+  branch: BALLINASLOE
+  swift: DABAIE2D615
+    
+- name: "DANSKE BANK A/S"
+  city: "BALLINCOLLIG"
+  branch: BALLINCOLLIG
+  swift: DABAIE2D757
+    
+- name: "DANSKE BANK A/S"
+  city: "BALLYBOFEY"
+  branch: BALLYBOFEY
+  swift: DABAIE2D621
+    
+- name: "DANSKE BANK A/S"
+  city: "BLACKROCK"
+  branch: BLACKROCK
+  swift: DABAIE2D504
+    
+- name: "DANSKE BANK A/S"
+  city: "BLANCHARDSTOWN"
+  branch: BLANCHARDSTOWN
+  swift: DABAIE2D502
+    
+- name: "DANSKE BANK A/S"
+  city: "BOYLE"
+  branch: BOYLE
+  swift: DABAIE2D626
+    
+- name: "DANSKE BANK A/S"
+  city: "BRAY"
+  branch: BRAY
+  swift: DABAIE2D631
+    
+- name: "DANSKE BANK A/S"
+  city: "CARNDONAGH"
+  branch: CARDONAGH
+  swift: DABAIE2D636
+    
+- name: "DANSKE BANK A/S"
+  city: "CARRICK-ON-SHANNON"
+  branch: CARRICK-ON-SHANNON
+  swift: DABAIE2D646
+    
+- name: "DANSKE BANK A/S"
+  city: "CARRICK-ON-SHANNON"
+  branch: DRUMSHANBO
+  swift: DABAIE2D661
+    
+- name: "DANSKE BANK A/S"
+  city: "CARRICK-ON-SHANNON"
+  branch: MOHILL
+  swift: DABAIE2D696
+    
+- name: "DANSKE BANK A/S"
+  city: "CASTLEBAR"
+  branch: CASTLEBAR
+  swift: DABAIE2D648
+    
+- name: "DANSKE BANK A/S"
+  city: "CAVAN"
+  branch: CAVAN
+  swift: DABAIE2D751
+    
+- name: "DANSKE BANK A/S"
+  city: "CLONMEL"
+  branch: CLONMEL
+  swift: DABAIE2D668
+    
+- name: "DANSKE BANK A/S"
+  city: "CORK"
+  branch: CORK BC
+  swift: DABAIE2D992
+    
+- name: "DANSKE BANK A/S"
+  city: "CORK"
+  branch: CORK
+  swift: DABAIE2D653
+    
+- name: "DANSKE BANK A/S"
+  city: "CORK"
+  branch: REGIONAL OFFICE - SW
+  swift: DABAIE2D804
+    
+- name: "DANSKE BANK A/S"
+  city: "CORK"
+  branch: WILTON
+  swift: DABAIE2D655
+    
+- name: "DANSKE BANK A/S"
+  city: "DROGHEDA"
+  branch: null
+  swift: DABAIE2D753
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: ADMIN PROJECTS
+  swift: DABAIE2D779
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: ALM IRELAND
+  swift: DABAIE2D882
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: ASSET FINANCE FRONT OFF
+  swift: DABAIE2D829
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: ATMS NIB
+  swift: DABAIE2D921
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: AUDIT DEPARTMENT - NIB
+  swift: DABAIE2D938
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BA CUSTOMER NIB
+  swift: DABAIE2D835
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BA. LONG RISK NIB
+  swift: DABAIE2D884
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BAGGOT STREET
+  swift: DABAIE2D520
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BAGGOT STREET
+  swift: DABAIE2D888
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BANKING ACTIV. NIB
+  swift: DABAIE2D800
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BFS NIB
+  swift: DABAIE2D827
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BFS SUPPORT
+  swift: DABAIE2D824
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BRANCH SERVICES - NIB
+  swift: DABAIE2D912
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BUS PARTNER NIB
+  swift: DABAIE2D930
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BUSINESS DEVELOPMENT - NIB
+  swift: DABAIE2D943
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BUSINESS DIRECT INACTIVE
+  swift: DABAIE2D974
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BUSINESS DIRECT
+  swift: DABAIE2D988
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: BUSINESS FIN- FRONT OFF
+  swift: DABAIE2D830
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CARD NIB
+  swift: DABAIE2D775
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CARD, CASH AND TELLER  SUPPORT
+  swift: DABAIE2D786
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CASH SERVICES - NIB
+  swift: DABAIE2D919
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CENTRAL DEPOSIT UNIT
+  swift: DABAIE2D509
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CEO OFFICE NIB
+  swift: DABAIE2D940
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CHANGE MANAGEMENT - NIB
+  swift: DABAIE2D907
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CITY CENTRE BRANCHES
+  swift: DABAIE2D782
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CLEARINGS SERVICES - NIB
+  swift: DABAIE2D925
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: COLLEGE GREEN
+  swift: DABAIE2D501
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: COMMERCIAL BANKING
+  swift: DABAIE2D592
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: COMMERCIAL PROPERTY
+  swift: DABAIE2D991
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CORP AFFAIRS NIB
+  swift: DABAIE2D936
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: COSTCENTRE NIB
+  swift: DABAIE2D900
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CREDIT DEPARTMENT NIB
+  swift: DABAIE2D942
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CROSS BORDER DESK PERSONAL
+  swift: DABAIE2D785
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CUSTOM BUSINESS
+  swift: DABAIE2D821
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CUSTOMER DIRECT - NIB
+  swift: DABAIE2D902
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CUSTOMER DIRECT INACTIVE
+  swift: DABAIE2D973
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CUSTOMER DIRECT SALES - NIB
+  swift: DABAIE2D903
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CUSTOMER DIRECT SERVICES - NIB
+  swift: DABAIE2D904
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: CUSTOMER DIRECT
+  swift: DABAIE2D889
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: DANICA PENSION
+  swift: DABAIE2D781
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: DANSKE BANK - DUBLIN BR
+  swift: DABAIE2D899
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: DEBT MANAGEMENT - NIB
+  swift: DABAIE2D913
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: DM STRAP IRELAND
+  swift: DABAIE2D972
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: DONNYBROOK
+  swift: DABAIE2D515
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: DORMANT ACCOUNTS - NIB
+  swift: DABAIE2D836
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: DUBLIN BC
+  swift: DABAIE2D993
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: ELIM NIB GROUP
+  swift: DABAIE2D946
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: ELIM NIB SUB/SUB
+  swift: DABAIE2D971
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: ELIM. NIB ASSET FIN
+  swift: DABAIE2D968
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: ELIM. NIB PARENT
+  swift: DABAIE2D947
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: EXT, SUPPL. NIB LOCAL RECHARGE
+  swift: DABAIE2D950
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: EXT. SUPPL. NIB CENTRAL RECHARGE
+  swift: DABAIE2D951
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FACILITIES MANAGEMENT NIB
+  swift: DABAIE2D817
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FINANCE - NIB
+  swift: DABAIE2D934
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FINANCE CENTRE - DUBLIN
+  swift: DABAIE2D812
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FINANCE CENTRE - MIDLAND
+  swift: DABAIE2D813
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FINANCE CENTRE - NW
+  swift: DABAIE2D811
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FINANCE CENTRE
+  swift: DABAIE2D987
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FINANCE IB POOL - NIB CONTINUED
+  swift: DABAIE2D956
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FINANCE IB POOL - NIB
+  swift: DABAIE2D935
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FINANCE NIB HIST 20061231
+  swift: DABAIE2D978
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FINANCIAL INFRASTRUCTURE UNIT
+  swift: DABAIE2D923
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FINGLAS
+  swift: DABAIE2D503
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FIXED ASSETS - NIB
+  swift: DABAIE2D945
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FIXED ASSETS - NIIB
+  swift: DABAIE2D963
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: FUTURE PROJECT NIB
+  swift: DABAIE2D818
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: GRP CAPITAL MGT NIB
+  swift: DABAIE2D933
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: H/P NAT IRISH INVESTMENT BK
+  swift: DABAIE2D962
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: HANDLING SERVICES - NIB
+  swift: DABAIE2D915
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: HIGH LEVEL BFS NIB
+  swift: DABAIE2D822
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: HOWTH ROAD
+  swift: DABAIE2D690
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: HR SERVICES / PROJECTS
+  swift: DABAIE2D926
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: INACTIVE BRANCES NIB
+  swift: DABAIE2D806
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: INSTITUTIONAL NIB
+  swift: DABAIE2D990
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: INTERNATIONAL CORPORATE BANKING
+  swift: DABAIE2D783
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: INTERNATIONAL PAYMENTS
+  swift: DABAIE2D508
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: INVESTIGATIONS NIB COSTS
+  swift: DABAIE2D832
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: IRELAND - BUSINESS LOANS
+  swift: DABAIE2D881
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: IRELAND - CUSTOMER SECTION
+  swift: DABAIE2D893
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: IRELAND - MM RETAIL SEC - RESHAR
+  swift: DABAIE2D896
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: IRELAND - MM RETAIL SECURITIES
+  swift: DABAIE2D894
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: IRELAND - MONEY MARKET D/D
+  swift: DABAIE2D895
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: IRELAND - MONEY MARKET
+  swift: DABAIE2D892
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: IRELAND - SPOT
+  swift: DABAIE2D891
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: LARGE PROPERTY CUSTOMERS
+  swift: DABAIE2D887
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: LEASING - NAT IRISH INVESTMENT BK
+  swift: DABAIE2D961
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: LEGAL DEPARTMENT - NIB
+  swift: DABAIE2D944
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: LENDING SERVICES
+  swift: DABAIE2D914
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: LOGISTICS ADM - NIB
+  swift: DABAIE2D918
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: LONG FUNDING NIB
+  swift: DABAIE2D883
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: LORO. NIB
+  swift: DABAIE2D885
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: MARKETING NIB
+  swift: DABAIE2D937
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: MARKETS NIB
+  swift: DABAIE2D880
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: MASTERCARD BUSINESS COLLECTION
+  swift: DABAIE2D773
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: MASTERCARD COLLECTION
+  swift: DABAIE2D772
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: MIGRATION COSTS
+  swift: DABAIE2D949
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NAT AUST GROUP SSP (R.I) TRUSTEE
+  swift: DABAIE2D966
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NAT IRISH BANK FINANCIAL SERVICES
+  swift: DABAIE2D964
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NAT IRISH BANK PENSIONS LTD
+  swift: DABAIE2D965
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NAT IRISH LIFE AND PENSION SERV
+  swift: DABAIE2D969
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NATIONAL IRISH BANK - CAPITAL
+  swift: DABAIE2D932
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NATIONAL IRISH BANK LTD
+  swift: DABAIE2D958
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB CALCULATED EQUITY
+  swift: DABAIE2D839
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB COLLECTIONS
+  swift: DABAIE2D816
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB CONTINUED CAPITAL
+  swift: DABAIE2D955
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB CONTINUED
+  swift: DABAIE2D954
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB DEBT MANAGEMENT
+  swift: DABAIE2D777
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB DEBT MANAGEMENT
+  swift: DABAIE2D778
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB HIST D31FA TP 20070331
+  swift: DABAIE2D957
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB HIST SET OFF D31FA 20070331
+  swift: DABAIE2D959
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB NOMINEES
+  swift: DABAIE2D970
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB OTHER BANK ACTIVITIES
+  swift: DABAIE2D807
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB OTHERS
+  swift: DABAIE2D948
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB SUB HIST M31FJ
+  swift: DABAIE2D808
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB SUB HIST SET OFF
+  swift: DABAIE2D809
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB SUBSIDIARIES
+  swift: DABAIE2D960
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB TEMP CERTEGY
+  swift: DABAIE2D843
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NIB TEMP KAPITI
+  swift: DABAIE2D844
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: NORFIN INVESTMENTS
+  swift: DABAIE2D967
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: O CONNELL STREET
+  swift: DABAIE2D506
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: OPERATIONS NIB
+  swift: DABAIE2D928
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: OPS IRELAND HIST - NIB
+  swift: DABAIE2D910
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: OTHER BFS NIB
+  swift: DABAIE2D823
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: P AND C CORPRATE NIB
+  swift: DABAIE2D929
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: PAYMENT SERVICES - NIB
+  swift: DABAIE2D924
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: PAYMENTS - FRONT OFF
+  swift: DABAIE2D831
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: PREMIUM NIB
+  swift: DABAIE2D834
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: PRIVATE BANKING
+  swift: DABAIE2D784
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: PRODUCT MGMT
+  swift: DABAIE2D908
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: PROPERTIES NIB
+  swift: DABAIE2D916
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: PURCHASING NIB RECHARGES
+  swift: DABAIE2D917
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: RECRUITMENT
+  swift: DABAIE2D927
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: REG FOR LOCAL REPORT IN NIB
+  swift: DABAIE2D999
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: REG FOR LOCAL REPORT
+  swift: DABAIE2D837
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: REGIONAL CREDIT NIB
+  swift: DABAIE2D825
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: REGIONAL OFFICE - DUBLIN
+  swift: DABAIE2D802
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: REGIONAL OFFICE - NW
+  swift: DABAIE2D801
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: RESTRUCTURING PROGRAMME
+  swift: DABAIE2D819
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: RETAIL BRANCHES NIB
+  swift: DABAIE2D810
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: RISK MANAGEMENT - NIB
+  swift: DABAIE2D939
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: RS SUPPORT - NIB
+  swift: DABAIE2D911
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SECURITIES SERV AND TREASURY SETTL
+  swift: DABAIE2D922
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SHARED SERVICES NIB
+  swift: DABAIE2D901
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SHARED SERVS MGT
+  swift: DABAIE2D909
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SME PROPERTY CUSTOMERS
+  swift: DABAIE2D886
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SOLUTIONS - NIB
+  swift: DABAIE2D905
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SOUTH CIRCULAR ROAD
+  swift: DABAIE2D511
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SOUTH DOCKS
+  swift: DABAIE2D756
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SPECIAL PROJECTS NIB
+  swift: DABAIE2D828
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SPECIALIST SALES TOTAL
+  swift: DABAIE2D833
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SSC CLEAR OUT CUSTOMER DIRECT
+  swift: DABAIE2D845
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SSC CLEAR OUT DEVELOPMENT
+  swift: DABAIE2D846
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SSC CLEAR OUT HR SERVICES
+  swift: DABAIE2D850
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SSC CLEAR OUT LOGISTICS
+  swift: DABAIE2D848
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SSC CLEAR OUT RETAIL SERVICES
+  swift: DABAIE2D847
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SSC CLEAR OUT TRANS SERVICES
+  swift: DABAIE2D849
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SSC NIB HIST 20061231
+  swift: DABAIE2D952
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: SSC NIB HIST SET OFF 20061231
+  swift: DABAIE2D953
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: STAFF BRANCH
+  swift: DABAIE2D774
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 1
+  swift: DABAIE2D851
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 11
+  swift: DABAIE2D860
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 11
+  swift: DABAIE2D870
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 12
+  swift: DABAIE2D861
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 12
+  swift: DABAIE2D871
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 13
+  swift: DABAIE2D862
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 13
+  swift: DABAIE2D872
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 14
+  swift: DABAIE2D863
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 14
+  swift: DABAIE2D873
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 15
+  swift: DABAIE2D864
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 15
+  swift: DABAIE2D874
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 16
+  swift: DABAIE2D865
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 16
+  swift: DABAIE2D875
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 17
+  swift: DABAIE2D866
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 17
+  swift: DABAIE2D876
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 18
+  swift: DABAIE2D867
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 18
+  swift: DABAIE2D877
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 19
+  swift: DABAIE2D868
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 19
+  swift: DABAIE2D878
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 2
+  swift: DABAIE2D852
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 20
+  swift: DABAIE2D869
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 20
+  swift: DABAIE2D879
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 3
+  swift: DABAIE2D853
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 4
+  swift: DABAIE2D854
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 5
+  swift: DABAIE2D855
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 6
+  swift: DABAIE2D755
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 6
+  swift: DABAIE2D856
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 7
+  swift: DABAIE2D857
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 8
+  swift: DABAIE2D858
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 9
+  swift: DABAIE2D758
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TALLAGHT 9
+  swift: DABAIE2D859
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TECHNOLOGY NIB
+  swift: DABAIE2D941
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TECHNOLOGY OPERATIONS - NIB
+  swift: DABAIE2D906
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TERENURE
+  swift: DABAIE2D729
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TOTAL CORPORATE SEGMENT NIB
+  swift: DABAIE2D826
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TRADE AND EXPORT FINANCE
+  swift: DABAIE2D920
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TRAINING CENTRE - MIGRATION - NIB
+  swift: DABAIE2D931
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TRANSACTION SERVICES NIB
+  swift: DABAIE2D500
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TREASURY NIB (ONLY FOR CONV.
+  swift: DABAIE2D890
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: TREASURY OPERATIONS
+  swift: DABAIE2D780
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: VISA COLLECTION
+  swift: DABAIE2D770
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: VISA GOLD COLLECTION
+  swift: DABAIE2D771
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: WALKINSTOWN
+  swift: DABAIE2D522
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: WEALTH MANAGEMENT - NIB
+  swift: DABAIE2D838
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: WILTON TERRACE
+  swift: DABAIE2D550
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D640
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D641
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D642
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D643
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D644
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D645
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D735
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D736
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D737
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D738
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D739
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D740
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D742
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D743
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D745
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D746
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D747
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D748
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D749
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D759
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D760
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D761
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D762
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D763
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D764
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D765
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D766
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D767
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D768
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D769
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D840
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D841
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D842
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D897
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D898
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D975
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D976
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D977
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D979
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D980
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D981
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D983
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D984
+    
+- name: "DANSKE BANK A/S"
+  city: "DUBLIN"
+  branch: null
+  swift: DABAIE2D995
+    
+- name: "DANSKE BANK A/S"
+  city: "DUN LAOGHAIRE"
+  branch: DUN LAOGHAIRE
+  swift: DABAIE2D600
+    
+- name: "DANSKE BANK A/S"
+  city: "DUNDALK"
+  branch: DUNDALK
+  swift: DABAIE2D663
+    
+- name: "DANSKE BANK A/S"
+  city: "DUNGLOE"
+  branch: DUNGLOE
+  swift: DABAIE2D666
+    
+- name: "DANSKE BANK A/S"
+  city: "ENNIS"
+  branch: ENNIS
+  swift: DABAIE2D667
+    
+- name: "DANSKE BANK A/S"
+  city: "FERMOY"
+  branch: FERMOY
+  swift: DABAIE2D649
+    
+- name: "DANSKE BANK A/S"
+  city: "GALWAY"
+  branch: GALWAY BC
+  swift: DABAIE2D994
+    
+- name: "DANSKE BANK A/S"
+  city: "GALWAY"
+  branch: GALWAY FSC
+  swift: DABAIE2D754
+    
+- name: "DANSKE BANK A/S"
+  city: "GALWAY"
+  branch: GALWAY
+  swift: DABAIE2D671
+    
+- name: "DANSKE BANK A/S"
+  city: "KELLS"
+  branch: KELLS
+  swift: DABAIE2D676
+    
+- name: "DANSKE BANK A/S"
+  city: "KELLS"
+  branch: REGIONAL OFFICE - MIDLAND
+  swift: DABAIE2D803
+    
+- name: "DANSKE BANK A/S"
+  city: "KILKENNY"
+  branch: KILKENNY
+  swift: DABAIE2D678
+    
+- name: "DANSKE BANK A/S"
+  city: "KILLARNEY"
+  branch: KILLARNEY
+  swift: DABAIE2D680
+    
+- name: "DANSKE BANK A/S"
+  city: "KINGSCOURT"
+  branch: KINGSCOURT
+  swift: DABAIE2D681
+    
+- name: "DANSKE BANK A/S"
+  city: "LANESBOROUGH"
+  branch: LANESBOROUGH
+  swift: DABAIE2D686
+    
+- name: "DANSKE BANK A/S"
+  city: "LETTERKENNY"
+  branch: GWEEDORE
+  swift: DABAIE2D674
+    
+- name: "DANSKE BANK A/S"
+  city: "LETTERKENNY"
+  branch: LETTERKENNY
+  swift: DABAIE2D683
+    
+- name: "DANSKE BANK A/S"
+  city: "LIMERICK"
+  branch: BALLINACURRA
+  swift: DABAIE2D634
+    
+- name: "DANSKE BANK A/S"
+  city: "LIMERICK"
+  branch: FINANCE CENTER - SW
+  swift: DABAIE2D814
+    
+- name: "DANSKE BANK A/S"
+  city: "LIMERICK"
+  branch: FINANCE CENTRE - SE
+  swift: DABAIE2D815
+    
+- name: "DANSKE BANK A/S"
+  city: "LIMERICK"
+  branch: LIMERICK
+  swift: DABAIE2D687
+    
+- name: "DANSKE BANK A/S"
+  city: "LIMERICK"
+  branch: REGIONAL OFFICE - SE
+  swift: DABAIE2D805
+    
+- name: "DANSKE BANK A/S"
+  city: "MALAHIDE"
+  branch: MALAHIDE
+  swift: DABAIE2D688
+    
+- name: "DANSKE BANK A/S"
+  city: "MALLOW"
+  branch: MALLOW
+  swift: DABAIE2D750
+    
+- name: "DANSKE BANK A/S"
+  city: "MILFORD"
+  branch: MILFORD
+  swift: DABAIE2D691
+    
+- name: "DANSKE BANK A/S"
+  city: "MONAGHAN"
+  branch: MONAGHAN
+  swift: DABAIE2D697
+    
+- name: "DANSKE BANK A/S"
+  city: "MULLINGAR"
+  branch: MULLINGAR
+  swift: DABAIE2D698
+    
+- name: "DANSKE BANK A/S"
+  city: "NAAS"
+  branch: NAAS
+  swift: DABAIE2D699
+    
+- name: "DANSKE BANK A/S"
+  city: "NAVAN"
+  branch: NAVAN
+  swift: DABAIE2D752
+    
+- name: "DANSKE BANK A/S"
+  city: "RAPHOE"
+  branch: RAPHOE
+  swift: DABAIE2D711
+    
+- name: "DANSKE BANK A/S"
+  city: "SHERCOCK"
+  branch: SHERCOCK
+  swift: DABAIE2D716
+    
+- name: "DANSKE BANK A/S"
+  city: "SKERRIES"
+  branch: SKERRIES
+  swift: DABAIE2D721
+    
+- name: "DANSKE BANK A/S"
+  city: "SLIGO"
+  branch: SLIGO
+  swift: DABAIE2D723
+    
+- name: "DANSKE BANK A/S"
+  city: "STILLORGAN"
+  branch: STILLORGAN
+  swift: DABAIE2D513
+    
+- name: "DANSKE BANK A/S"
+  city: "SWORDS"
+  branch: SWORDS
+  swift: DABAIE2D728
+    
+- name: "DANSKE BANK A/S"
+  city: "VIRGINIA"
+  branch: VIRGINIA
+  swift: DABAIE2D731
+    
+- name: "DANSKE BANK A/S"
+  city: "WATERFORD"
+  branch: WATERFORD
+  swift: DABAIE2D741
+    
+- name: "DANSKE BANK A/S"
+  city: "WEXFORD"
+  branch: WEXFORD
+  swift: DABAIE2D744
+    
+- name: "DAVYS"
+  city: "DUBLIN"
+  branch: DAVY PRIVATE CLIENTS
+  swift: DAVYIE21BKO
+    
+- name: "DAVYS"
+  city: "DUBLIN"
+  branch: null
+  swift: DAVYIE21
+    
+- name: "DCC CORPORATE FINANCE"
+  city: "DUBLIN"
+  branch: null
+  swift: DCCFIE21
+    
+- name: "DELL BANK INTERNATIONAL D.A.C."
+  city: "DUBLIN"
+  branch: null
+  swift: DBILIE2D
+    
+- name: "DELTA INDEX LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: DEIEIE21
+    
+- name: "DEPFA ACS BANK DAC"
+  city: "DUBLIN"
+  branch: null
+  swift: DPFAIE3X
+    
+- name: "DEPFA BANK PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: DPFAIE2D
+    
+- name: "DERG CREDIT UNION LIMITED"
+  city: "SCARIFF"
+  branch: null
+  swift: DEEUIE21
+    
+- name: "DESMOND CREDIT UNION LIMITED"
+  city: "NEWCASTLE"
+  branch: null
+  swift: DERNIE21
+    
+- name: "DEUTSCHE BANK SECURITIES CORP. ASSET MANAGEMENT LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: DSCMIE21
+    
+- name: "DEUTSCHE INTERNATIONAL CORPORATE SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: ALTERNATIVE FUND SERVICES
+  swift: DEUTIE21AFS
+    
+- name: "DEUTSCHE INTERNATIONAL CORPORATE SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: DEUTIE21
+    
+- name: "DEXIA CREDIT LOCAL DUBLIN"
+  city: "DUBLIN"
+  branch: null
+  swift: CLFRIE2D
+    
+- name: "DOLMEN BUTLER BRISCOE"
+  city: "DUBLIN"
+  branch: STOCKBROKING
+  swift: BUTBIE21SET
+    
+- name: "DOLMEN BUTLER BRISCOE"
+  city: "DUBLIN"
+  branch: null
+  swift: BUTBIE21
+    
+- name: "DOLMEN BUTLER BRISCOE (BLMBERG)"
+  city: "DUBLIN"
+  branch: null
+  swift: DBBBIE21
+    
+- name: "DOLMEN BUTLER BRISCOE (GBLTOPIC)"
+  city: "DUBLIN"
+  branch: null
+  swift: DBBGIE21
+    
+- name: "DOLMEN STOCKBROKERS"
+  city: "DUBLIN"
+  branch: null
+  swift: DOLMIE21
+    
+- name: "DOLMEN STOCKBROKERS"
+  city: "DUBLIN"
+  branch: null
+  swift: DOLMIE21PRI
+    
+- name: "DONABATE AND DISTRICT CREDIT UNION LIMITED"
+  city: "DONABATE"
+  branch: null
+  swift: DDCUIE21
+    
+- name: "DONEGAL (TOWN) CREDIT UNION LIMITED"
+  city: "DONEGAL TOWN"
+  branch: null
+  swift: DTCUIE21
+    
+- name: "DONNYCARNEY/BEAUMONT AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: DDRUIE21
+    
+- name: "DONORE CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: DORUIE21
+    
+- name: "DOUGLAS CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: DCRUIE21
+    
+- name: "DRESDNER KLEINWORT BENSON"
+  city: "DUBLIN"
+  branch: null
+  swift: DRKBIE21
+    
+- name: "DRIMNAGH CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: DRCOIE21
+    
+- name: "DROGHEDA CREDIT UNION LIMITED"
+  city: "DROGHEDA"
+  branch: null
+  swift: DRCUIE21
+    
+- name: "DROMCOLLOGHER CREDIT UNION LIMITED"
+  city: "DROMCOLLOGHER"
+  branch: null
+  swift: DRRUIE21
+    
+- name: "DRUMCONDRA AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: DDCNIE21
+    
+- name: "DRUMSHANBO CREDIT UNION LIMITED"
+  city: "DRUMSHANBO"
+  branch: null
+  swift: DRCIIE21
+    
+- name: "DUBCO CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: DUCUIE21
+    
+- name: "DULEEK CREDIT UNION LIMITED"
+  city: "DULEEK"
+  branch: null
+  swift: DUCNIE21
+    
+- name: "DUNBAR ASSETS IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: ZHBKIE2D
+    
+- name: "DUNBOYNE AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUNBOYNE"
+  branch: null
+  swift: DDCIIE21
+    
+- name: "DUNDALK CREDIT UNION LIMITED"
+  city: "DUNDALK"
+  branch: null
+  swift: DUCIIE21
+    
+- name: "DUNDRUM CREDIT UNION LIMITED"
+  city: "DUNDRUM"
+  branch: null
+  swift: DURUIE21
+    
+- name: "DUNGARVAN CREDIT UNION LIMITED"
+  city: "DUNGARVAN"
+  branch: null
+  swift: DURNIE21
+    
+- name: "DUNLAVIN CREDIT UNION LIMITED"
+  city: "DUNLAVIN"
+  branch: null
+  swift: DCRNIE21
+    
+- name: "DUNLEER PARISH CREDIT UNION LIMITED"
+  city: "DUNLEER"
+  branch: null
+  swift: DPRUIE21
+    
+- name: "DUNMANWAY CREDIT UNION LIMITED"
+  city: "DUNMANWAY"
+  branch: null
+  swift: DCEUIE21
+    
+- name: "DUNNAMAGGIN CREDIT UNION LIMITED"
+  city: "DUNNAMAGGIN"
+  branch: null
+  swift: DURIIE21
+    
+- name: "DUNSHAUGHLIN CREDIT UNION LIMITED"
+  city: "DUNSHAUGHLIN"
+  branch: null
+  swift: DCROIE21
+    
+- name: "DURROW CREDIT UNION LIMITED"
+  city: "DURROW"
+  branch: null
+  swift: DUROIE21
+    
+- name: "EAA COVERED BOND BANK PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: WELAIE2X
+    
+- name: "EAST MEATH CREDIT UNION LIMITED"
+  city: "BETTYSTOWN"
+  branch: null
+  swift: EMCUIE21
+    
+- name: "EAST WALL CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: EWCUIE21
+    
+- name: "EBS D.A.C."
+  city: "DUBLIN"
+  branch: EBS MORTGAGE FINANCE
+  swift: EBSIIE2DEMF
+    
+- name: "EBS D.A.C."
+  city: "DUBLIN"
+  branch: null
+  swift: EBSIIE2D
+    
+- name: "EBS D.A.C."
+  city: "DUBLIN"
+  branch: null
+  swift: EBSIIE2DSDD
+    
+- name: "EDENDERRY CREDIT UNION LIMITED"
+  city: "EDENDERRY"
+  branch: null
+  swift: EDCNIE21
+    
+- name: "ELAVON FINANCIAL SERVICES DAC"
+  city: "DUBLIN"
+  branch: CORPORATE TRUST SERVICES
+  swift: USBKIE2DCTS
+    
+- name: "ELAVON FINANCIAL SERVICES DAC"
+  city: "DUBLIN"
+  branch: QUINTILLION
+  swift: USBKIE2DQUI
+    
+- name: "ELAVON FINANCIAL SERVICES DAC"
+  city: "DUBLIN"
+  branch: null
+  swift: USBKIE2D
+    
+- name: "ELPHIN CREDIT UNION LIMITED"
+  city: "ELPHIN"
+  branch: null
+  swift: ELCUIE21
+    
+- name: "EMERSUB TREASURY IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: EMRTIE2D
+    
+- name: "EMPLOYEES' INTER-RELATED ENTERPRISES CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: EIECIE21
+    
+- name: "EMYVALE DISTRICT CREDIT UNION LIMITED"
+  city: "EMYVALE"
+  branch: null
+  swift: EDCIIE21
+    
+- name: "ENFIELD CREDIT UNION LIMITED"
+  city: "ENFIELD"
+  branch: null
+  swift: ENCUIE21
+    
+- name: "ENNISCORTHY CREDIT UNION LIMITED"
+  city: "ENNISCORTHY"
+  branch: null
+  swift: ENCNIE21
+    
+- name: "ENNISTYMON AND DISTRICT CREDIT UNION LIMITED"
+  city: "ENNISTYMON"
+  branch: null
+  swift: EDRUIE21
+    
+- name: "EPERON"
+  city: "DUBLIN"
+  branch: null
+  swift: KBCAIE31
+    
+- name: "ERRIS CREDIT UNION LIMITED"
+  city: "BELMULLET"
+  branch: null
+  swift: ERCUIE21
+    
+- name: "E-SERVICES AND COMMUNICATIONS CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ECCUIE21
+    
+- name: "ESTUARY CREDIT UNION LIMITED"
+  city: "GLIN"
+  branch: null
+  swift: ESCUIE21
+    
+- name: "EWT DEALING LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: EWDEIE21
+    
+- name: "FAIRVIEW CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: FARIIE21
+    
+- name: "FARRANREE CREDIT UNION LIMITED"
+  city: "FARRANREE"
+  branch: null
+  swift: FAEUIE21
+    
+- name: "FAS CREDIT UNION LIMITED"
+  city: "BALLSBRIDGE"
+  branch: null
+  swift: FACUIE21
+    
+- name: "FAUGHART CREDIT UNION LIMITED"
+  city: "DUNDALK"
+  branch: null
+  swift: FARUIE21
+    
+- name: "FCA BANK SPA. - IRISH BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: FCIRIE21
+    
+- name: "FCE BANK PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: FCEFIE21
+    
+- name: "FERBANE AND DISTRICT CREDIT UNION LIMITED"
+  city: "FERBANE"
+  branch: null
+  swift: FDCUIE21
+    
+- name: "FERGUS CREDIT UNION LIMITED"
+  city: "ENNIS"
+  branch: null
+  swift: FECUIE21
+    
+- name: "FERMOY CREDIT UNION LIMITED"
+  city: "FERMOY"
+  branch: null
+  swift: FECNIE21
+    
+- name: "FETHARD AND DISTRICT CREDIT UNION LIMITED"
+  city: "FETHARD"
+  branch: null
+  swift: FDRUIE21
+    
+- name: "FEXCO CORPORATE PAYMENTS"
+  city: "KILLORGLIN"
+  branch: null
+  swift: FECPIE21
+    
+- name: "FEXCO MERCHANT SERVICES UNLIMITED COMPANY"
+  city: "KILLORGLIN"
+  branch: null
+  swift: FEXMIE2D
+    
+- name: "FEXCO UNLIMITED COMPANY"
+  city: "KILLORGLIN"
+  branch: null
+  swift: FEXCIE2D
+    
+- name: "FIDEURAM ASSET MANAGEMENT (IRELAND) LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: FAMDIE21
+    
+- name: "FINEX"
+  city: "DUBLIN"
+  branch: null
+  swift: XFNXIE21
+    
+- name: "FINGLAS CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: FIRUIE21
+    
+- name: "FIRE FINANCIAL SERVICES LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CPAYIE2D
+    
+- name: "FIRHOUSE CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: FITUIE21
+    
+- name: "FMS WERTMANAGEMENT SERVICE GMBH"
+  city: "DUBLIN"
+  branch: null
+  swift: FWSMIE21
+    
+- name: "FORFAS STAFF CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: FSCNIE21
+    
+- name: "FOXROCK AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: FDCNIE21
+    
+- name: "FOYLE CREDIT UNION LIMITED"
+  city: "MOVILLE"
+  branch: null
+  swift: FOCNIE21
+    
+- name: "FRANCIS STREET PARISH AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: FSPDIE21
+    
+- name: "FTI FINANCE LTD T/A FTI TREASURY"
+  city: "DUBLIN"
+  branch: null
+  swift: FTIFIE2D
+    
+- name: "GAIA FX LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: GAIAIE21
+    
+- name: "GAM FUND MANAGEMENT LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: GLAMIE2D
+    
+- name: "GENERALI PANEUROPE LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: GEPNIE21
+    
+- name: "GLANBIA PLC"
+  city: "KILKENNY"
+  branch: null
+  swift: GLABIE21
+    
+- name: "GLANMIRE AND DISTRICT CREDIT UNION LIMITED"
+  city: "GLANMIRE"
+  branch: null
+  swift: GDCNIE21
+    
+- name: "GLAS SECURITIES LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: GSERIE21
+    
+- name: "GLASTHULE-DUN LAOGHAIRE DISTRICT CREDIT UNION LIMITED"
+  city: "DUN LAOGHAIRE"
+  branch: null
+  swift: GLDRIE21
+    
+- name: "GLENAMADDY CREDIT UNION LIMITED"
+  city: "GLENAMADDY"
+  branch: null
+  swift: GLCUIE21
+    
+- name: "GLOBAL ASSET MANAGEMENT"
+  city: "DUBLIN"
+  branch: null
+  swift: GLAAIE21
+    
+- name: "GLOBAL REACH SECURITIES LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: GLRSIE21
+    
+- name: "GLOBAL SHARES EXECUTION SERVICES LIMITED"
+  city: "CLONAKILTY"
+  branch: null
+  swift: GSESIE22
+    
+- name: "GLOBEOP FINANCIAL SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: GLOPIE21
+    
+- name: "GOLDMAN SACHS IRELAND FINANCE LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: GOSRIE21
+    
+- name: "GOLDMAN SACHS IRELAND FINANCE PUBLIC LIMITED COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: GOSRIE2E
+    
+- name: "GOLDMAN SACHS IRELAND GROUP LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: GOSVIE21
+    
+- name: "GOODBODY STOCKBROKERS"
+  city: "DUBLIN"
+  branch: null
+  swift: GDBSIE21
+    
+- name: "GOODBODY STOCKBROKERS"
+  city: "DUBLIN"
+  branch: null
+  swift: GDBSIE21003
+    
+- name: "GOODBODY STOCKBROKERS"
+  city: "DUBLIN"
+  branch: null
+  swift: GDBSIE21004
+    
+- name: "GOOGLE IRELAND HOLDINGS"
+  city: "DUBLIN"
+  branch: null
+  swift: GOOGIE21
+    
+- name: "GOOGLE IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: GOOGIE31
+    
+- name: "GORESBRIDGE CREDIT UNION LIMITED"
+  city: "GORESBRIDGE"
+  branch: null
+  swift: GOCNIE21
+    
+- name: "GOREY CREDIT UNION LIMITED"
+  city: "GOREY"
+  branch: null
+  swift: GOCIIE21
+    
+- name: "GORT CREDIT UNION LIMITED"
+  city: "GORT"
+  branch: null
+  swift: GORUIE21
+    
+- name: "GOSMORE INVESTMENTS"
+  city: "DUBLIN"
+  branch: null
+  swift: GOIVIE21
+    
+- name: "GRAFTON GROUP PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: GRFTIE2D
+    
+- name: "GRAIGUENAMANAGH CREDIT UNION LIMITED"
+  city: "GRAIGUENAMANAGH"
+  branch: null
+  swift: GRCUIE21
+    
+- name: "GRANARD CREDIT UNION LIMITED"
+  city: "GRANARD"
+  branch: null
+  swift: GRRUIE21
+    
+- name: "GREENHILLS AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: GDCUIE21
+    
+- name: "GREYSTONES AND DISTRICT CREDIT UNION LIMITED"
+  city: "GREYSTONES"
+  branch: null
+  swift: GDCIIE21
+    
+- name: "GUINNESS AND MAHON (IRELAND) LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: GUMIIE21
+    
+- name: "GURRANABRAHER CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: GUCUIE21
+    
+- name: "HACKETSTOWN AND TINAHELY CREDIT UNION LIMITED"
+  city: "HACKETSTOWN"
+  branch: null
+  swift: HTCUIE21
+    
+- name: "HALSTON STREET CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: HSCNIE21
+    
+- name: "HAROLD'S CROSS AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: HCDCIE21
+    
+- name: "HEALTH SERVICES STAFFS CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: HSSRIE21
+    
+- name: "HELABA ASSET SERVICES"
+  city: "DUBLIN"
+  branch: null
+  swift: HELAIE21
+    
+- name: "HELABA INTERNATIONAL FINANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: HELAIE31
+    
+- name: "HEWLETT PACKARD INTERNATIONAL BANK PLC"
+  city: "LEIXLIP"
+  branch: null
+  swift: HEPIIE21
+    
+- name: "HEWLETT-PACKARD INTERNATIONAL BANK PLC"
+  city: "LEIXLIP"
+  branch: null
+  swift: HEINIE21
+    
+- name: "HFC BANK LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: HTSLIE21
+    
+- name: "HIBERNIAN INVESTMENT MANAGERS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: HINAIE21
+    
+- name: "HOLY FAMILY CREDIT UNION LIMITED"
+  city: "DUNDALK"
+  branch: null
+  swift: HFCUIE21
+    
+- name: "HOWTH CREDIT UNION LIMITED"
+  city: "HOWTH"
+  branch: null
+  swift: HOCUIE21
+    
+- name: "HSBC BANK PLC"
+  city: "DUBLIN"
+  branch: SEPA DIRECT DEBITS
+  swift: HSBCIE2DSDD
+    
+- name: "HSBC BANK PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: HSBCIE2D
+    
+- name: "HSBC INSTITUTIONAL TRUST SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BTDLIE2D
+    
+- name: "HSBC IRELAND (HOLDINGS) PUBLIC LIMITED COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: BBDAIE31
+    
+- name: "HSBC SECURITIES SERVICES (IRELAND)LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: HSSDIE21
+    
+- name: "I1U ASSET STRATEGIES LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ASTGIE21
+    
+- name: "INCHICORE AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: IDCUIE21
+    
+- name: "INDOGROUP CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: IDCIIE21
+    
+- name: "ING BANK NV-DUBLIN BRANCH"
+  city: "DUBLIN"
+  branch: DUBLIN BRANCH: INTERNATIONAL CASH MANAGEMENT (ICM) / EU
+  swift: INGBIE2DICM
+    
+- name: "ING BANK NV-DUBLIN BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: INGBIE2D
+    
+- name: "ING EUROPEAN FINANCIAL SERVICES PLC (FORMERLY OYAK EUROPEAN FINANCE PLC)"
+  city: "DUBLIN"
+  branch: null
+  swift: INGBIE3D
+    
+- name: "INGERSOLL-RAND INTERNATIONAL FINANCE LIMITED"
+  city: "SWORDS"
+  branch: null
+  swift: IRIFIE2D
+    
+- name: "INISHOWEN CREDIT UNION LIMITED"
+  city: "CARNDONAGH"
+  branch: null
+  swift: IICNIE21
+    
+- name: "INNISKEEN CREDIT UNION LIMITED"
+  city: "DUNDALK"
+  branch: null
+  swift: ICRUIE21
+    
+- name: "INORA LIFE"
+  city: "DUBLIN"
+  branch: null
+  swift: IOLIIE21
+    
+- name: "INTERCONTINENTAL FINANCE"
+  city: "DUBLIN"
+  branch: null
+  swift: ICFDIE21
+    
+- name: "INTERNATIONAL INVESTMENT AND UNDERWRITING"
+  city: "DUBLIN"
+  branch: null
+  swift: INIRIE21
+    
+- name: "INTERPAY LTD"
+  city: "KILKENNY"
+  branch: null
+  swift: EPAYIE2K
+    
+- name: "INTESA SANPAOLO BANK IRELAND PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: BCITIE2D
+    
+- name: "INVESTEC BANK PLC (IRISH BRANCH)"
+  city: "DUBLIN"
+  branch: null
+  swift: TRIBIE2D
+    
+- name: "INVESTEC CAPITAL AND INVESTMENTS (IRELAND)LTD TRADING AS INVESTEC"
+  city: "DUBLIN"
+  branch: WEALTH MANAGEMENT DIVISION
+  swift: NCBBIE21ALL
+    
+- name: "INVESTEC CAPITAL AND INVESTMENTS (IRELAND)LTD TRADING AS INVESTEC"
+  city: "DUBLIN"
+  branch: null
+  swift: NCBBIE21
+    
+- name: "INVESTMENT TECHNOLOGY GROUP LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: ITGLIE21
+    
+- name: "INVESTMENT TECHNOLOGY GROUP LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: ITGLIE2D
+    
+- name: "INVESTMENT TECHNOLOGY GROUP LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: ITGLIE2DAUS
+    
+- name: "INVESTMENT TECHNOLOGY GROUP LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: ITGLIE2DCAN
+    
+- name: "INVESTMENT TECHNOLOGY GROUP LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: ITGLIE2DHKD
+    
+- name: "INVESTMENT TECHNOLOGY GROUP LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: ITGLIE2DNYC
+    
+- name: "IRG PUBLIC LIMITED COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: IRGPIE21
+    
+- name: "IRISH DENTAL CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: IDCNIE21
+    
+- name: "IRISH LIFE INVESTMENT MANAGERS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: IRLIIE2D
+    
+- name: "IRISH PROGRESSIVE SERVICES INTERNATIONAL LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: IPSIIE2D
+    
+- name: "IRISH PROGRESSIVE SERVICES INTERNATIONAL LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: IPSIIE31
+    
+- name: "IRISH TAXI OWNERS' CO-OP CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ITOCIE21
+    
+- name: "J AND E DAVY"
+  city: "DUBLIN"
+  branch: null
+  swift: DAVEIE21
+    
+- name: "J AND E DAVY"
+  city: "DUBLIN"
+  branch: null
+  swift: DAVEIE21BOS
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: CHASE DUBLIN VANGUARD
+  swift: CHASIE2DVAN
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: DUBLIN TRANSFER AGENCY BGI
+  swift: CHASIE2DBGI
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: DUBLIN TRANSFER AGENCY
+  swift: CHASIE2XBGI
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: JPM DUBLIN FID BRANCH
+  swift: CHASIE2DFID
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: JPM DUBLIN FRT BRANCH
+  swift: CHASIE2DFRT
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+  swift: CHASIE2XENQ
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASIE2XKEY
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: CHASIE2D
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: CHASIE2DARD
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: CHASIE2DDEX
+    
+- name: "J.P. MORGAN BANK (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: CHASIE2X
+    
+- name: "J.P. MORGAN BANK DUBLIN PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: JPMBIE2D
+    
+- name: "JAMES'S ST. CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: JACUIE21
+    
+- name: "JIM LARKIN CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: JLCUIE21
+    
+- name: "KANTURK CREDIT UNION LIMITED"
+  city: "KANTURK"
+  branch: null
+  swift: KCRUIE21
+    
+- name: "KBC BANK IRELAND PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ICONIE2D
+    
+- name: "KBC BANK NV DUBLIN BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: KBDUIE2D
+    
+- name: "KBC FINANCE IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: KRSIIE21
+    
+- name: "KBC MORTGAGE BANK"
+  city: "DUBLIN"
+  branch: null
+  swift: KBMOIE21
+    
+- name: "KBI GLOBAL INVESTORS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: KBENIE2D
+    
+- name: "KBL BANK IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: KBLFIE21
+    
+- name: "KENMARE CREDIT UNION LIMITED"
+  city: "KENMARE"
+  branch: null
+  swift: KECUIE21
+    
+- name: "KILCLOON PARISH AND DISTRICT CREDIT UNION LIMITED"
+  city: "KILCOCK"
+  branch: null
+  swift: KPDCIE21
+    
+- name: "KILCORMAC CREDIT UNION LIMITED"
+  city: "KILCORMAC"
+  branch: null
+  swift: KIRUIE21
+    
+- name: "KILCULLEN CREDIT UNION LIMITED"
+  city: "KILCULLEN"
+  branch: null
+  swift: KIRNIE21
+    
+- name: "KILDARE CREDIT UNION LIMITED"
+  city: "KILDARE"
+  branch: null
+  swift: KIRIIE21
+    
+- name: "KILKERRIN AND CLONBERNE CREDIT UNION LIMITED"
+  city: "BALLINASLOE"
+  branch: null
+  swift: KCCUIE21
+    
+- name: "KILLARNEY CREDIT UNION LIMITED"
+  city: "KILLARNEY"
+  branch: null
+  swift: KIROIE21
+    
+- name: "KILLORGLIN CREDIT UNION LIMITED"
+  city: "KILLORGLIN"
+  branch: null
+  swift: KCUNIE21
+    
+- name: "KILLYBEGS CREDIT UNION LIMITED"
+  city: "KILLYBEGS"
+  branch: null
+  swift: KCRIIE21
+    
+- name: "KILMALLOCK CREDIT UNION LIMITED"
+  city: "KILMALLOCK"
+  branch: null
+  swift: KIEUIE21
+    
+- name: "KILNAMANAGH CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: KICIIE21
+    
+- name: "KILRONAN-DRUMBOYLAN CREDIT UNION LIMITED"
+  city: "BOYLE"
+  branch: null
+  swift: KICUIE21
+    
+- name: "KILRUSH CREDIT UNION LIMITED"
+  city: "KILRUSH"
+  branch: null
+  swift: KIENIE21
+    
+- name: "KILSARAN CREDIT UNION LIMITED"
+  city: "CASTLEBELLINGHAM"
+  branch: null
+  swift: KICNIE21
+    
+- name: "KILTIMAGH DISTRICT CREDIT UNION LIMITED"
+  city: "KILTIMAGH"
+  branch: null
+  swift: KDCUIE21
+    
+- name: "KINGSCOURT CREDIT UNION LIMITED"
+  city: "KINGSCOURT"
+  branch: null
+  swift: KIEIIE21
+    
+- name: "KINNEGAD AND DISTRICT CREDIT UNION LIMITED"
+  city: "KINNEGAD"
+  branch: null
+  swift: KDCNIE21
+    
+- name: "KINSALE AND DISTRICT CREDIT UNION LIMITED"
+  city: "KINSALE"
+  branch: null
+  swift: KDCIIE21
+    
+- name: "KINVARA AND DISTRICT CREDIT UNION LIMITED"
+  city: "KINVARA"
+  branch: null
+  swift: KDCOIE21
+    
+- name: "KNOCKLYON CREDIT UNION LIMITED"
+  city: "KNOCKLYON"
+  branch: null
+  swift: KNCUIE21
+    
+- name: "KORATRADE MTMC LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: KORAIE21
+    
+- name: "LAMBAY CAPITAL LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: LACLIE21
+    
+- name: "LANDESBANK HESSEN THUERINGEN GIROZENTRALE IRISH BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: HELAIE41
+    
+- name: "LANESBORO' BALLYLEAGUE CREDIT UNION LIMITED"
+  city: "LANESBORO"
+  branch: null
+  swift: LBCUIE21
+    
+- name: "LARKHILL AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: LDCUIE21
+    
+- name: "LAW LIBRARY CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: LLCUIE21
+    
+- name: "LBL FINANCE (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: BELAIE21
+    
+- name: "LEASEPLAN FINANCE N.V. (DUBLIN BRANCH)"
+  city: "DUBLIN"
+  branch: null
+  swift: LPLNIE2D
+    
+- name: "LEE OVERLAY PARTNERS LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: LEEOIE2D
+    
+- name: "LEIGHLIN CREDIT UNION LIMITED"
+  city: "LEIGHLINBRIDGE"
+  branch: null
+  swift: LECIIE21
+    
+- name: "LEIXLIP AND DISTRICT CREDIT UNION LIMITED"
+  city: "LEIXLIP"
+  branch: null
+  swift: LDCNIE21
+    
+- name: "LETTERKENNY CREDIT UNION LIMITED"
+  city: "LETTERKENNY"
+  branch: null
+  swift: LECOIE21
+    
+- name: "LGT BANK AG, DUBLIN BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: BLFLIE2D
+    
+- name: "LGT FUND MANAGERS (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BLFLIE2X
+    
+- name: "LIFFORD CREDIT UNION LIMITED"
+  city: "LIFFORD"
+  branch: null
+  swift: LICUIE21
+    
+- name: "LIME BROKERAGE INTERNATIONAL (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: LIMRIE21
+    
+- name: "LIMERICK C.I.E. EMPLOYEES' CREDIT UNION LIMITED"
+  city: "LIMERICK"
+  branch: null
+  swift: LERUIE21
+    
+- name: "LINK CREDIT UNION LIMITED"
+  city: "BAILIEBOROUGH"
+  branch: null
+  swift: BIRUIE21
+    
+- name: "LISDUGGAN DISTRICT CREDIT UNION LIMITED"
+  city: "LISDUGGAN"
+  branch: null
+  swift: LDCOIE21
+    
+- name: "LISMORE AND CAPPOQUIN CREDIT UNION LIMITED"
+  city: "LISMORE"
+  branch: null
+  swift: LCCUIE21
+    
+- name: "LISTOWEL CREDIT UNION LIMITED"
+  city: "LISTOWEL"
+  branch: null
+  swift: LICIIE21
+    
+- name: "LOMBARD IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: LUBIIE21
+    
+- name: "LONDINIUM LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: LONDIE2D
+    
+- name: "LONGFORD CREDIT UNION LIMITED"
+  city: "LONGFORD"
+  branch: null
+  swift: LORNIE21
+    
+- name: "LORDSHIP CREDIT UNION LIMITED"
+  city: "DUNDALK"
+  branch: null
+  swift: LCRUIE21
+    
+- name: "LOUISBURGH CREDIT UNION LIMITED"
+  city: "LOUISBURGH"
+  branch: null
+  swift: LORIIE21
+    
+- name: "LOUTH CREDIT UNION LIMITED"
+  city: "DUNDALK"
+  branch: null
+  swift: LORUIE21
+    
+- name: "LUCAN DISTRICT CREDIT UNION LIMITED"
+  city: "LUCAN"
+  branch: null
+  swift: LDCIIE21
+    
+- name: "M.P.C.C. CREDIT UNION LIMITED"
+  city: "MUNGRET"
+  branch: null
+  swift: MPCIIE21
+    
+- name: "MACQUARIE STRUCTURED SECURITIES EUROPE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: MSSOIE21
+    
+- name: "MACROOM CREDIT UNION LIMITED"
+  city: "MACROOM"
+  branch: null
+  swift: MADOIE21
+    
+- name: "MAGENNIS AND CO."
+  city: "NEWRY"
+  branch: null
+  swift: MAGEIE21
+    
+- name: "MALAHIDE AND DISTRICT CREDIT UNION LIMITED"
+  city: "MALAHIDE"
+  branch: null
+  swift: MDCIIE21
+    
+- name: "MALLOW CREDIT UNION LIMITED"
+  city: "MALLOW"
+  branch: null
+  swift: MATNIE21
+    
+- name: "MANAGEMENT INTERNATIONAL DUBLIN LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: MAIUIE21
+    
+- name: "MANORHAMILTON AND DISTRICT CREDIT UNION LIMITED"
+  city: "MANOR HAMILTON"
+  branch: null
+  swift: MDCOIE21
+    
+- name: "MARINO CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MADNIE21
+    
+- name: "MARKS AND SPENCER FINANCIAL SERVICES PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: MSFSIE21
+    
+- name: "MATT TALBOT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MTCUIE21
+    
+- name: "MAXOL EMPLOYEES' CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MMCUIE21
+    
+- name: "MAYNOOTH CREDIT UNION LIMITED"
+  city: "MAYNOOTH"
+  branch: null
+  swift: MYCUIE21
+    
+- name: "MAYO-DOONANE CREDIT UNION LIMITED"
+  city: "CRETTYARD"
+  branch: null
+  swift: MYCNIE21
+    
+- name: "MAYORSTONE DISTRICT CREDIT UNION LIMITED"
+  city: "LIMERICK"
+  branch: null
+  swift: MDCNIE21
+    
+- name: "MBNA INTERNATIONAL BANK LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: MBITIE21
+    
+- name: "MEATH STREET CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MSCUIE21
+    
+- name: "MEDIOLANUM ASSET MANAGEMENT LIMITED"
+  city: "BALLSBRIDGE"
+  branch: null
+  swift: MEATIE2R
+    
+- name: "MEDIOLANUM ASSET MANAGEMENT LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MEATIE21
+    
+- name: "MELLIFONT CREDIT UNION LIMITED"
+  city: "DROGHEDA"
+  branch: null
+  swift: METUIE21
+    
+- name: "MEMBER FIRST CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CLDIIE21
+    
+- name: "MENLOUGH/SKEHANA CREDIT UNION LIMITED"
+  city: "BALLINASLOE"
+  branch: null
+  swift: MEENIE21
+    
+- name: "MERRION STOCKBROKERS"
+  city: "DUBLIN"
+  branch: null
+  swift: METTIE21
+    
+- name: "MERRION STOCKBROKERS LIMITED"
+  city: "DUBLIN"
+  branch: CENTRAL TRANSACTION MATCHING
+  swift: MESBIE21CTM
+    
+- name: "MERRION STOCKBROKERS LIMITED"
+  city: "DUBLIN"
+  branch: PERSHING FIXED INCOME CLEARING
+  swift: MESBIE21PCS
+    
+- name: "MERRION STOCKBROKERS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MESBIE21
+    
+- name: "METZLER IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: FXSI
+  swift: MIRLIE2ASFX
+    
+- name: "METZLER IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MIRLIE2A
+    
+- name: "MIDLETON CREDIT UNION LIMITED"
+  city: "MIDLETON"
+  branch: null
+  swift: MIRNIE21
+    
+- name: "MILLSTREET PARISH CREDIT UNION LIMITED"
+  city: "MILLSTREET"
+  branch: null
+  swift: MPCNIE21
+    
+- name: "MILLTOWN (KERRY) CREDIT UNION LIMITED"
+  city: "MILLTOWN"
+  branch: null
+  swift: MKCUIE21
+    
+- name: "MILLTOWN/CLONSKEA CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MIRUIE21
+    
+- name: "MITCHELSTOWN CREDIT UNION LIMITED"
+  city: "MITCHELSTOWN"
+  branch: null
+  swift: MIEUIE21
+    
+- name: "MITSUBISHI TRUST FINANCE (IRELAND) PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: MFIIIE21
+    
+- name: "MMI STOCKBROKERS LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: MMIBIE21
+    
+- name: "MOHILL CREDIT UNION LIMITED"
+  city: "MOHIL"
+  branch: null
+  swift: MOEUIE21
+    
+- name: "MONAGHAN CREDIT UNION LIMITED"
+  city: "TIRKEENAN"
+  branch: null
+  swift: MODIIE21
+    
+- name: "MONALEEN PARISH CREDIT UNION LIMITED"
+  city: "CASTLETROY"
+  branch: null
+  swift: MPRUIE21
+    
+- name: "MONASTERBOICE CREDIT UNION LIMITED"
+  city: "DROGHEDA"
+  branch: null
+  swift: MORNIE21
+    
+- name: "MONASTEREVAN CREDIT UNION LIMITED"
+  city: "MONASTEREVAN"
+  branch: null
+  swift: MOEIIE21
+    
+- name: "MONTE PASCHI IRELAND LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: MPILIE21
+    
+- name: "MORGAN GRENFELL FUND ADMINISTRATION SERVICES (IRELAND) LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: MGFAIE21
+    
+- name: "MOUNTMELLICK CREDIT UNION LIMITED"
+  city: "MOUNTMELLICK"
+  branch: null
+  swift: MOEOIE21
+    
+- name: "MOUNTRATH AND DISTRICT CREDIT UNION LIMITED"
+  city: "MOUNTRATH"
+  branch: null
+  swift: MDRUIE21
+    
+- name: "MOYLOUGH/MOUNTBELLEW CREDIT UNION LIMITED"
+  city: "BALLINASLOE"
+  branch: null
+  swift: MOCUIE21
+    
+- name: "MUFG ALTERNATIVE FUND SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: UBSWIE2D
+    
+- name: "MUFG FUND SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MUFGIE2D
+    
+- name: "MUFG FUND SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MUFGIE2DFOD
+    
+- name: "MUFG FUND SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MUFGIE2DPAY
+    
+- name: "MUFG FUND SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MUFGIE2DRTA
+    
+- name: "MUINTIR CLANNA CAOILTE CREDIT UNION LIMITED"
+  city: "CLONAKILTY"
+  branch: null
+  swift: MCCRIE21
+    
+- name: "MUINTIR SKIBBEREEN CREDIT UNION LIMITED"
+  city: "SKIBBEREEN"
+  branch: null
+  swift: MSCNIE21
+    
+- name: "MULCAIR CREDIT UNION LIMITED"
+  city: "NEWPORT"
+  branch: null
+  swift: MURNIE21
+    
+- name: "MULLINAHONE CREDIT UNION LIMITED"
+  city: "THURLES"
+  branch: null
+  swift: MURIIE21
+    
+- name: "MULLINGAR CREDIT UNION LIMITED"
+  city: "MULLINGAR"
+  branch: null
+  swift: MURUIE21
+    
+- name: "MUSICIANS' CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MUCUIE21
+    
+- name: "NAAS CREDIT UNION LIMITED"
+  city: "NAAS"
+  branch: null
+  swift: NACUIE21
+    
+- name: "NAOMH BREANDAIN CREDIT UNION LIMITED"
+  city: "LOUGHREA"
+  branch: null
+  swift: NBCUIE21
+    
+- name: "NAOMH PADRAIG CREDIT UNION LIMITED"
+  city: "GALWAY"
+  branch: null
+  swift: NPCNIE21
+    
+- name: "NARRAGHMORE PARISH CREDIT UNION LIMITED"
+  city: "ATHY"
+  branch: null
+  swift: NPCUIE21
+    
+- name: "NASPA DUBLIN"
+  city: "DUBLIN"
+  branch: null
+  swift: GANUIE21
+    
+- name: "NATIONAL EMISSION TRADING REGISTRY"
+  city: "WEXFORD"
+  branch: null
+  swift: NETGIE21
+    
+- name: "NATIONAL IRISH INVESTMENT BANK LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: NIIBIE21
+    
+- name: "NATIONAL TREASURY MANAGEMENT AGENCY"
+  city: "DUBLIN"
+  branch: null
+  swift: NTMAIE2D
+    
+- name: "NATIONWIDE UK (IRELAND)"
+  city: "DUBLIN"
+  branch: null
+  swift: NUKIIE21
+    
+- name: "NBC GLOBAL FINANCE LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: NBCGIE2D
+    
+- name: "NEDGROUP INVESTMENTS MULTIFUNDS PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: NINMIE21
+    
+- name: "NEILLSTOWN CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: NERUIE21
+    
+- name: "NEMESIS ASSET MANAGEMENT LLP"
+  city: "DUBLIN"
+  branch: null
+  swift: NAALIE21
+    
+- name: "NENAGH CREDIT UNION LIMITED"
+  city: "NENAGH"
+  branch: null
+  swift: NERIIE21
+    
+- name: "NEW ROSS CREDIT UNION LIMITED"
+  city: "NEW ROSS"
+  branch: null
+  swift: NRCUIE21
+    
+- name: "NEWBRIDGE CREDIT UNION LIMITED"
+  city: "NEWBRIDGE"
+  branch: null
+  swift: NEROIE21
+    
+- name: "NEWMARKET CREDIT UNION LIMITED"
+  city: "NEWMARKET"
+  branch: null
+  swift: NEEUIE21
+    
+- name: "NEXGEN CAPITAL LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: NECLIE21
+    
+- name: "NORTH LONGFORD AND ARVA CREDIT UNION LIMITED"
+  city: "BALLINAMUCK"
+  branch: null
+  swift: NLACIE21
+    
+- name: "NORTH SLIGO CREDIT UNION LIMITED"
+  city: "SLIGO"
+  branch: null
+  swift: NSCUIE21
+    
+- name: "NORTH WILLIAM STREET PARISH CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: NWSPIE21
+    
+- name: "NORTHERN ROCK PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: NROKIE21
+    
+- name: "NORTHERN TRUST CUSTODIAL SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: UBCSIE21
+    
+- name: "NORTHERN TRUST FIDUCIARY SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: EUROPEAN TRANSFER AGENCY
+  swift: CNORIE2DETA
+    
+- name: "NORTHERN TRUST FIDUCIARY SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: CNORIE2D
+    
+- name: "NORTHERN TRUST INTERNATIONAL FUND ADMINISTRATION SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: IFMIIE21
+    
+- name: "OASIS GLOBAL MANAGEMENT COMPANY (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: OASMIE21
+    
+- name: "OLDCASTLE CREDIT UNION LIMITED"
+  city: "OLDCASTLE"
+  branch: null
+  swift: OLCUIE21
+    
+- name: "ORIX AVIATION SYSTEMS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ORIXIE2D
+    
+- name: "OUGHTERARD CREDIT UNION LIMITED"
+  city: "OUGHTERARD"
+  branch: null
+  swift: OUCUIE21
+    
+- name: "OUR LADY CROWNED CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: OLCCIE21
+    
+- name: "PALMERSTOWN CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: PAEUIE21
+    
+- name: "PARISH OF DARVER CREDIT UNION LIMITED"
+  city: "DUNDALK"
+  branch: null
+  swift: PDRUIE21
+    
+- name: "PASSAGE WEST/MONKSTOWN CREDIT UNION LIMITED"
+  city: "PASSAGE WEST"
+  branch: null
+  swift: PWCUIE21
+    
+- name: "PEARSE CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: PECUIE21
+    
+- name: "PENNYGOLD TRADING SUPPLIES"
+  city: "DUBLIN"
+  branch: null
+  swift: PETUIE21
+    
+- name: "PEOPLE FIRST CREDIT UNION LTD (ABBEYLEIX)"
+  city: "PORTLAOISE"
+  branch: null
+  swift: ABRNIE21
+    
+- name: "PEOPLE FIRST CREDIT UNION LTD (PORTLAOISE)"
+  city: "PORTLAOISE"
+  branch: null
+  swift: POCOIE21
+    
+- name: "PERMANENT TSB P.L.C."
+  city: "DUBLIN"
+  branch: null
+  swift: IPBSIE2D
+    
+- name: "PERSHING SECURITIES INTERNATIONAL LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: PERLIE2D
+    
+- name: "PETTIGO CREDIT UNION LIMITED"
+  city: "PETTIGOE"
+  branch: null
+  swift: PERUIE21
+    
+- name: "PFIZER INTERNATIONAL BANK EUROPE"
+  city: "DUBLIN"
+  branch: null
+  swift: PFIEIE21
+    
+- name: "PFIZER SERVICE COMPANY IRELAND"
+  city: "DUBLIN"
+  branch: SSC DUBLIN
+  swift: PFIZIE2DGFS
+    
+- name: "PFIZER SERVICE COMPANY IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: PFIZIE2D
+    
+- name: "PFIZER SERVICE COMPANY IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: PFIZIE2DHDO
+    
+- name: "PHIBSBORO AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: PDCUIE21
+    
+- name: "PIERCESTOWN AND DISTRICT CREDIT UNION LIMITED"
+  city: "MURRINTOWN"
+  branch: null
+  swift: PDCIIE21
+    
+- name: "PILTOWN CREDIT UNION LIMITED"
+  city: "PILTOWN"
+  branch: null
+  swift: PICUIE21
+    
+- name: "PIONEER IM"
+  city: "DUBLIN"
+  branch: null
+  swift: PIOEIE21
+    
+- name: "PLASSEY CREDIT UNION LIMITED"
+  city: "CASTLETROY"
+  branch: null
+  swift: PLCNIE21
+    
+- name: "PNC INTERNATIONAL BANK LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: PNINIE21
+    
+- name: "PORTARLINGTON CREDIT UNION LIMITED"
+  city: "PORTARLINGTON"
+  branch: null
+  swift: POCUIE21
+    
+- name: "PORTLAW/BALLYDUFF CREDIT UNION LIMITED"
+  city: "PORTLAW"
+  branch: null
+  swift: PORUIE21
+    
+- name: "PORTUMNA AND DISTRICT CREDIT UNION LIMITED"
+  city: "PORTUMNA"
+  branch: null
+  swift: PDCNIE21
+    
+- name: "POSITIVE EQUITY LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: POEQIE21
+    
+- name: "POSTBANK IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: PTBKIE21
+    
+- name: "PREPAID FINANCIAL SERVICES IRELAND"
+  city: "NAVAN"
+  branch: null
+  swift: PFSRIE21
+    
+- name: "PRISON SERVICE CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: PSCUIE21
+    
+- name: "PROGRESSIVE CREDIT UNION LIMITED"
+  city: "BALBRIGGAN"
+  branch: null
+  swift: BLCUIE21
+    
+- name: "PROGRESSIVE CREDIT UNION LTD"
+  city: "BALBRIGGAN"
+  branch: null
+  swift: BPEUIE21
+    
+- name: "PROLIFIC INTERNATIONAL MANAGEMENT (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: PIMIIE21
+    
+- name: "QUEEN OF PEACE CREDIT UNION LIMITED"
+  city: "LIMERICK"
+  branch: null
+  swift: QPCUIE21
+    
+- name: "QUINTILLION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: QUINIE21
+    
+- name: "RABOBANK (RABODIRECT)"
+  city: "DUBLIN"
+  branch: null
+  swift: RABIIE2D
+    
+- name: "RABOBANK DUBLIN"
+  city: "DUBLIN"
+  branch: null
+  swift: RABIIE3D
+    
+- name: "RAHENY AND DISTRICT CREDIT UNION LIMITED"
+  city: "RAHENY"
+  branch: null
+  swift: RDCOIE21
+    
+- name: "RANELAGH AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: RDCIIE21
+    
+- name: "RATHANGAN AND DISTRICT CREDIT UNION LIMITED"
+  city: "RATHANGAN"
+  branch: null
+  swift: RDRUIE21
+    
+- name: "RATHDOWNEY CREDIT UNION LIMITED"
+  city: "RATHDOWNEY"
+  branch: null
+  swift: RACUIE21
+    
+- name: "RATHFARNHAM AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: RDCUIE21
+    
+- name: "RATHKEALE AND DISTRICT CREDIT UNION LIMITED"
+  city: "RATHKEALE"
+  branch: null
+  swift: RDCLIE21
+    
+- name: "RATHMORE AND DISTRICT CREDIT UNION LIMITED"
+  city: "RATHMORE"
+  branch: null
+  swift: RDRNIE21
+    
+- name: "RATHVILLY PARISH CREDIT UNION LIMITED"
+  city: "RATHVILLY"
+  branch: null
+  swift: RPCUIE21
+    
+- name: "RBC INVESTOR SERVICES IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: BILLIE2D
+    
+- name: "RED LIQUID FINANCE"
+  city: "DUBLIN"
+  branch: null
+  swift: RELFIE21
+    
+- name: "RIALTO CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: RICUIE21
+    
+- name: "RINGSEND AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: RDCNIE21
+    
+- name: "RIVERVALLEY AND RATHINGLE CREDIT UNION LIMITED"
+  city: "SWORDS"
+  branch: null
+  swift: RRCUIE21
+    
+- name: "ROSCOMMON CREDIT UNION LIMITED"
+  city: "ROSCOMMON"
+  branch: null
+  swift: RORUIE21
+    
+- name: "ROSCOMMON INSTITUTIONAL INVESTMENTS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ROIIIE21
+    
+- name: "ROSCREA CREDIT UNION LIMITED"
+  city: "ROSCREA"
+  branch: null
+  swift: RORNIE21
+    
+- name: "ROWLAGH CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ROCIIE21
+    
+- name: "RTE CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: RTCUIE21
+    
+- name: "RUSH CREDIT UNION LIMITED"
+  city: "RUSH"
+  branch: null
+  swift: RUCUIE21
+    
+- name: "SAINT RAPHAEL'S GARDA CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: SRGCIE21
+    
+- name: "SAINT VALENTINE'S CREDIT UNION LIMI"
+  city: "TALLAGHT"
+  branch: null
+  swift: SVCUIE21
+    
+- name: "SALLYNOGGIN/GLENAGEARY CREDIT UNION LIMITED"
+  city: "DUN LAOGHAIRE"
+  branch: null
+  swift: SARUIE21
+    
+- name: "SANDYMOUNT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: SADUIE21
+    
+- name: "SARSFIELD CREDIT UNION LIMITED"
+  city: "LIMERICK"
+  branch: null
+  swift: SADNIE21
+    
+- name: "SAVILLS COMMERCIAL (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: SAVCIE2D
+    
+- name: "SCOTIABANK (IRELAND) DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: NOSCIE2X
+    
+- name: "SENTENIAL LTD"
+  city: "MAYNOOTH"
+  branch: null
+  swift: SLTDIE2M
+    
+- name: "SETANTA ASSET MANAGEMENT LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: SESTIE21
+    
+- name: "SFADCO STAFF CREDIT UNION LIMITED"
+  city: "SHANNON"
+  branch: null
+  swift: SSCOIE21
+    
+- name: "SHANKILL, BALLYBRACK AND DISTRICT CREDIT UNION LIMITED"
+  city: "SHANKILL"
+  branch: null
+  swift: SBDCIE21
+    
+- name: "SHANNON CREDIT UNION LIMITED"
+  city: "SHANNON"
+  branch: null
+  swift: SHRNIE21
+    
+- name: "SHEEPHAVEN CREDIT UNION LIMITED"
+  city: "LETTERKENNY"
+  branch: null
+  swift: SHCUIE21
+    
+- name: "SHELBOURNE MARKETS"
+  city: "DUBLIN"
+  branch: null
+  swift: WOIRIE21
+    
+- name: "SHERCOCK CREDIT UNION LIMITED"
+  city: "SHERCOCK"
+  branch: null
+  swift: SHRIIE21
+    
+- name: "SIXMILEBRIDGE CREDIT UNION LIMITED"
+  city: "SIXMILEBRIDGE"
+  branch: null
+  swift: SICUIE21
+    
+- name: "SKANDIA LIFE IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ROKLIE2D
+    
+- name: "SKERRIES CREDIT UNION LIMITED"
+  city: "SKERRIES"
+  branch: null
+  swift: SKCUIE21
+    
+- name: "SLANE CREDIT UNION LIMITED"
+  city: "SLANE"
+  branch: null
+  swift: SLCNIE21
+    
+- name: "SLIGO CREDIT UNION LIMITED"
+  city: "SLIGO"
+  branch: null
+  swift: SLRUIE21
+    
+- name: "SMURFIT KAPPA TREASURY"
+  city: "DUBLIN"
+  branch: null
+  swift: SMKTIE22
+    
+- name: "SOCIETE GENERALE S.A."
+  city: "DUBLIN"
+  branch: null
+  swift: SOGEIE21
+    
+- name: "SODEXO HOLDINGS IRELAND DESIGNATED ACTIVITY COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: SHIDIE2D
+    
+- name: "SOUTH HILL CREDIT UNION LIMITED"
+  city: "LIMERICK"
+  branch: null
+  swift: SHRUIE21
+    
+- name: "SQUARED FINANCIAL SERVICES LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: SQFSIE21
+    
+- name: "SS. PETER AND PAUL CREDIT UNION LIMITED"
+  city: "CLARECASTLE"
+  branch: null
+  swift: PPCUIE21
+    
+- name: "ST JAMES'S PLACE INTERNATIONAL"
+  city: "DUBLIN"
+  branch: null
+  swift: JPLIIE21
+    
+- name: "ST. AGNES CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: AGCUIE21
+    
+- name: "ST. AILBES CREDIT UNION LIMITED"
+  city: "CAHERCONLISH"
+  branch: null
+  swift: AICUIE21
+    
+- name: "ST. ANTHONY'S AND CLADDAGH CREDIT UNION LIMITED"
+  city: "GALWAY"
+  branch: null
+  swift: ACRUIE21
+    
+- name: "ST. BERNADETTE'S CREDIT UNION (LIMERICK) LIMITED"
+  city: "ROSBRIEN"
+  branch: null
+  swift: BCUIIE21
+    
+- name: "ST. BERNARD'S CREDIT UNION LIMITED"
+  city: "BANSHA"
+  branch: null
+  swift: BERUIE21
+    
+- name: "ST. BRENDAN'S (BALLYGAR) CREDIT UNION LIMITED"
+  city: "BALLYGAR"
+  branch: null
+  swift: BBCUIE21
+    
+- name: "ST. BRIGID'S CREDIT UNION LIMITED"
+  city: "CLARA"
+  branch: null
+  swift: BREIIE21
+    
+- name: "ST. CANICE'S KILKENNY CREDIT UNION LIMITED"
+  city: "KILKENNY"
+  branch: null
+  swift: CKCNIE21
+    
+- name: "ST. COLMAN'S (CLAREMORRIS) CREDIT UNION LIMITED"
+  city: "CLAREMORRIS"
+  branch: null
+  swift: BLRIIE21
+    
+- name: "ST. COLMAN'S (CLAREMORRIS) CREDIT UNION LIMITED"
+  city: "CLAREMORRIS"
+  branch: null
+  swift: CCRNIE21
+    
+- name: "ST. COLMCILLE'S (KELLS) CREDIT UNION LIMITED"
+  city: "KELLS"
+  branch: null
+  swift: CKCUIE21
+    
+- name: "ST. COLUMBA'S CREDIT UNION LIMITED"
+  city: "GALWAY"
+  branch: null
+  swift: CLDOIE21
+    
+- name: "ST. DECLAN'S ASHBOURNE CREDIT UNION LIMITED"
+  city: "ASHBOURNE"
+  branch: null
+  swift: DACNIE21
+    
+- name: "ST. DOMINIC CREDIT UNION LIMITED"
+  city: "SUMMERHILL"
+  branch: null
+  swift: DOROIE21
+    
+- name: "ST. FINBARR'S SOUTH CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: FSCUIE21
+    
+- name: "ST. FRANCIS' CREDIT UNION LIMITED"
+  city: "ENNIS"
+  branch: null
+  swift: FRCUIE21
+    
+- name: "ST. GABRIEL'S CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: GACUIE21
+    
+- name: "ST. JARLATH'S CREDIT UNION LIMITED"
+  city: "TUAM"
+  branch: null
+  swift: JACIIE21
+    
+- name: "ST. JOHN'S CREDIT UNION LIMITED"
+  city: "LIMERICK"
+  branch: null
+  swift: JOCUIE21
+    
+- name: "ST. JOSEPH'S AVIATION CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: JACNIE21
+    
+- name: "ST. JOSEPH'S MAYFIELD CREDIT UNION LIMITED"
+  city: "DILLONS CROSS"
+  branch: null
+  swift: JMCUIE21
+    
+- name: "ST. KEVIN'S PARISH CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: KPCUIE21
+    
+- name: "ST. LAURENCE O'TOOLE'S CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: LOCOIE21
+    
+- name: "ST. LELIA'S CREDIT UNION LIMITED"
+  city: "BALLYNANTY BEG"
+  branch: null
+  swift: LECUIE21
+    
+- name: "ST. LOMAN'S TRIM CREDIT UNION LTD"
+  city: "TRIM"
+  branch: null
+  swift: LTCUIE21
+    
+- name: "ST. MARY'S DONNYBROOK CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MDCUIE21
+    
+- name: "ST. MARY'S MOYNALTY CREDIT UNION LIMITED"
+  city: "KELLS"
+  branch: null
+  swift: MMCNIE21
+    
+- name: "ST. MARY'S NAVAN CREDIT UNION LIMITED"
+  city: "NAVAN"
+  branch: null
+  swift: MNCUIE21
+    
+- name: "ST. MICHAEL'S CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: MICIIE21
+    
+- name: "ST. PATRICK'S (CORK) CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: PCCUIE21
+    
+- name: "ST. PATRICK'S CREDIT UNION (E.S.B. STAFF) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: PCUEIE21
+    
+- name: "ST. PATRICK'S PARISH (LIMERICK) CREDIT UNION LIMITED"
+  city: "LIMERICK"
+  branch: null
+  swift: PPLCIE21
+    
+- name: "ST. PAUL'S GARDA CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: PGCUIE21
+    
+- name: "ST. SCIRE CREDIT UNION LIMITED"
+  city: "NAVAN"
+  branch: null
+  swift: SCRIIE21
+    
+- name: "STAFF OF SUPERQUINN CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: SSCNIE21
+    
+- name: "STATE STREET FUND SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: TRANSFER AGENCY DEPARTMENT
+  swift: SBOSIE2DTAD
+    
+- name: "STATE STREET FUND SERVICES (IRELAND) LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: SBOSIE2D
+    
+- name: "STATE STREET GLOBAL ADVISORS IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: SSGAIE21
+    
+- name: "STILLORGAN CREDIT UNION LIMITED"
+  city: "STILLORGAN"
+  branch: null
+  swift: STEIIE21
+    
+- name: "SUMITOMO MITSUI FINANCE (DUBLIN) LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: SMFDIE2D
+    
+- name: "SUNDRIVE CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: SUCUIE21
+    
+- name: "SUSQUEHANNA INTERNATIONAL GROUP LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: SUIGIE21
+    
+- name: "SUSQUEHANNA INTERNATIONAL GROUP LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: SITGIE21
+    
+- name: "SUSQUEHANNA INTERNATIONAL SECURITIES"
+  city: "DUBLIN"
+  branch: null
+  swift: SUISIE21
+    
+- name: "SUSQUEHANNA INTERNATIONAL SECURITIES LTD."
+  city: "DUBLIN"
+  branch: null
+  swift: SISSIE21
+    
+- name: "SUSQUEHANNA IRELAND LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: SUSQIE21
+    
+- name: "SUSQUEHANNA IRELAND LTD (DUBLIN)"
+  city: "DUBLIN"
+  branch: null
+  swift: SUSHIE21
+    
+- name: "SWILLY-MULROY CREDIT UNION LIMITED"
+  city: "LETTERKENNY"
+  branch: null
+  swift: SWCUIE21
+    
+- name: "SWINFORD AND DISTRICT CREDIT UNION LIMITED"
+  city: "SWINFORD"
+  branch: null
+  swift: SDCUIE21
+    
+- name: "SWORDS AND DISTRICT CREDIT UNION LIMITED"
+  city: "SWORDS"
+  branch: null
+  swift: SDCNIE21
+    
+- name: "TALLAGHT AND DISTRICT CREDIT UNION LIMITED"
+  city: "TALLAGHT"
+  branch: null
+  swift: TDCOIE21
+    
+- name: "TALLAGHT WEST CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: TWCUIE21
+    
+- name: "TALLOW AREA CREDIT UNION LIMITED"
+  city: "TALLOW"
+  branch: null
+  swift: TACUIE21
+    
+- name: "TAO INVESTMENT MANAGERS LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: TAIMIE21
+    
+- name: "TARA AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUNSANY"
+  branch: null
+  swift: TDCIIE21
+    
+- name: "TD GLOBAL FINANCE UNLIMITED COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: GLFIIE21
+    
+- name: "TEACHERS' UNION OF IRELAND CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: TUIRIE21
+    
+- name: "TEMPLEMORE CREDIT UNION LIMITED"
+  city: "TEMPLEMORE"
+  branch: null
+  swift: TERIIE21
+    
+- name: "TEMPLEOGUE AND DISTRICT CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: TDCUIE21
+    
+- name: "TERMONFECKIN CREDIT UNION LIMITED"
+  city: "DROGHEDA"
+  branch: null
+  swift: TECOIE21
+    
+- name: "TEXACO EMPLOYEES' CREDIT UNION LIMI LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: TERUIE21
+    
+- name: "THE BANK OF NEW YORK MELLON SA./NV, DUBLIN BRANCH"
+  city: "DUBLIN"
+  branch: null
+  swift: BNYMIE2D
+    
+- name: "THE FOUR CORNERS CREDIT UNION LIMITED"
+  city: "RATHCOOLE"
+  branch: null
+  swift: FCCUIE21
+    
+- name: "THE INVESTMENT BANK OF IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: IBIDIE21
+    
+- name: "THE IRISH STOCK EXCHANGE LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: XDUBIE21
+    
+- name: "THE IRISH TIMES CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ITCNIE21
+    
+- name: "THE LAWRENCE LIFE ASSURANCE COMPANY LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: LAIRIE21
+    
+- name: "THE LOUGH CREDIT UNION LIMITED"
+  city: "CORK"
+  branch: null
+  swift: LOCIIE21
+    
+- name: "THE MORTGAGE STORE"
+  city: "DUBLIN"
+  branch: null
+  swift: ICSBIE21
+    
+- name: "THE ROSSES CREDIT UNION LIMITED"
+  city: "DONEGAL TOWN"
+  branch: null
+  swift: ROCUIE21
+    
+- name: "THE VICTORY CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: VICUIE21
+    
+- name: "THOMASTOWN CREDIT UNION LIMITED"
+  city: "THOMASTOWN"
+  branch: null
+  swift: THCNIE21
+    
+- name: "THURLES CREDIT UNION LIMITED"
+  city: "THURLES"
+  branch: null
+  swift: THCUIE21
+    
+- name: "TILMAN ASSET MANAGEMENT LTD"
+  city: "DUBLIN"
+  branch: null
+  swift: TIAAIE21
+    
+- name: "TIPPERARY CREDIT UNION LIMITED"
+  city: "TIPPERARY"
+  branch: null
+  swift: TICUIE21
+    
+- name: "TOGHER CREDIT UNION LIMITED"
+  city: "DUNLEER"
+  branch: null
+  swift: TCRUIE21
+    
+- name: "TRALEE C.I.E. CREDIT UNION LIMITED"
+  city: "TRALEE"
+  branch: null
+  swift: TRROIE21
+    
+- name: "TRALEE CREDIT UNION LIMITED"
+  city: "TRALEE"
+  branch: null
+  swift: TRRIIE21
+    
+- name: "TRAMORE CREDIT UNION LIMITED"
+  city: "TRAMORE"
+  branch: null
+  swift: TRRNIE21
+    
+- name: "TRINITY CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: TRRUIE21
+    
+- name: "TUBBERCURRY AND DISTRICT CREDIT UNION LIMITED"
+  city: "TUBBERCURRY"
+  branch: null
+  swift: TDCNIE21
+    
+- name: "TULLAGHOUGHT COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: TUCOIE21
+    
+- name: "TULLAMORE CREDIT UNION LIMITED"
+  city: "TULLAMORE"
+  branch: null
+  swift: TURUIE21
+    
+- name: "TULLOW CREDIT UNION LIMITED"
+  city: "TULLOW"
+  branch: null
+  swift: TUCNIE21
+    
+- name: "TULLYCROSS CREDIT UNION LIMITED"
+  city: "RENVYLE"
+  branch: null
+  swift: TUCUIE21
+    
+- name: "ULSTER BANK IRELAND DAC"
+  city: "DUBLIN"
+  branch: CAPITAL MARKETS
+  swift: ULSBIE2DUCM
+    
+- name: "ULSTER BANK IRELAND DAC"
+  city: "DUBLIN"
+  branch: ECO  DUBLIN
+  swift: ULSBIE2DECO
+    
+- name: "ULSTER BANK IRELAND DAC"
+  city: "DUBLIN"
+  branch: MONEY DESK
+  swift: ULSBIE2DMDK
+    
+- name: "ULSTER BANK IRELAND DAC"
+  city: "DUBLIN"
+  branch: null
+  swift: ULSBIE2D
+    
+- name: "ULSTER BANK IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: UIBLIE21
+    
+- name: "UNICREDIT BANK IRELAND PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: UNCRIE2D
+    
+- name: "UNITY CREDIT UNION LIMITED"
+  city: "LIMERICK"
+  branch: null
+  swift: MPCUIE21
+    
+- name: "VFI CREDIT UNION LIMITED"
+  city: "RATHFARNHAM"
+  branch: null
+  swift: VFCUIE21
+    
+- name: "VIRGINIA CREDIT UNION LIMITED"
+  city: "VIRGINIA"
+  branch: null
+  swift: VICNIE21
+    
+- name: "VIRTU FINANCIAL EUROPE LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: MATUIE21
+    
+- name: "VIRTU FINANCIAL IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: LONDON
+  swift: VIFIIE21LON
+    
+- name: "VIRTU FINANCIAL IRELAND LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: VIFIIE21
+    
+- name: "VIRTU FINANCIAL TRANSACTION SERVICES LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: VFTSIE21
+    
+- name: "VOLKSWAGEN BANK GMBH BRANCH IRELAND"
+  city: "DUBLIN"
+  branch: null
+  swift: VOWAIE21
+    
+- name: "W AND R MORROGH"
+  city: "CORK"
+  branch: null
+  swift: MORRIE21
+    
+- name: "W AND W ADVISORY DUBLIN LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ADDUIE21
+    
+- name: "WALKINSTOWN CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: WACUIE21
+    
+- name: "WATERFORD CREDIT UNION LIMITED"
+  city: "WATERFORD"
+  branch: null
+  swift: WACIIE21
+    
+- name: "WELLS FARGO BANK INTERNATIONAL UNLIMITED COMPANY"
+  city: "DUBLIN"
+  branch: null
+  swift: PNBPIE2D
+    
+- name: "WEST CABRA CREDIT UNION LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: WCCUIE21
+    
+- name: "WEST EURO FINANCE LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: WEFLIE21
+    
+- name: "WESTPORT CREDIT UNION LIMITED"
+  city: "WESTPORT"
+  branch: null
+  swift: WECIIE21
+    
+- name: "WEXFORD CREDIT UNION LIMITED"
+  city: "WEXFORD"
+  branch: null
+  swift: WECUIE21
+    
+- name: "WGZ BANK IRELAND PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: WGZIIE21
+    
+- name: "WICKLOW AND DISTRICT CREDIT UNION L"
+  city: "WICKLOW"
+  branch: null
+  swift: WDCUIE21
+    
+- name: "YOUGHAL CREDIT UNION LIMITED"
+  city: "YOUGHAL"
+  branch: null
+  swift: YOCUIE21
+    
+- name: "ZAIS GROUP INVESTMENT ADVISORS LIMITED"
+  city: "DUBLIN"
+  branch: null
+  swift: ZGIAIE21
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: PB SOLUTION
+  swift: ZURIIE2DPBS
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: ZLAP
+  swift: ZURIIE2DZLA
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ZURIIE2D
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ZURIIE2DCBE
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ZURIIE2DCDK
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ZURIIE2DCFI
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ZURIIE2DCFR
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ZURIIE2DCGB
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ZURIIE2DCIT
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ZURIIE2DCNL
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ZURIIE2DCNO
+    
+- name: "ZURICH INSURANCE PLC"
+  city: "DUBLIN"
+  branch: null
+  swift: ZURIIE2DCSE
+    

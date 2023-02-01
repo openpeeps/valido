@@ -1,0 +1,25 @@
+- name: "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. CENTRAFRIQUE"
+  city: "BANGUI"
+  branch: null
+  swift: BEACCFCF
+    
+- name: "BANQUE POPULAIRE MAROCO-CENTRAFRICAINE B.P.M.C."
+  city: "BANGUI"
+  branch: null
+  swift: BPMCCFCF
+    
+- name: "BANQUE SAHELO-SAHARIENNE CENTRE AFRIQUE"
+  city: "BANGUI"
+  branch: null
+  swift: BSAHCFCF
+    
+- name: "COMMERCIAL BANK CENTRAFRIQUE"
+  city: "BANGUI"
+  branch: null
+  swift: CBCACFCF
+    
+- name: "ECOBANK CENTRAFRIQUE"
+  city: "BANGUI"
+  branch: null
+  swift: ECOCCFCF
+    

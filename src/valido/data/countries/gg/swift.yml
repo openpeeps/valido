@@ -1,0 +1,400 @@
+- name: "ABN AMRO (CHANNEL ISLANDS) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: MEESGGSP
+    
+- name: "ALTERNATIVE RISK MANAGEMENT LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: ARMKGGSP
+    
+- name: "AUGENTIUS FUND ADMINISTRATION (GUERNSEY) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: AFALGGSP
+    
+- name: "BANK J. SAFRA SARASIN LTD, GUERNSEY BRANCH"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: SARAGGSP
+    
+- name: "BANK JULIUS BAER AND CO LTD (GUERNSEY BRANCH)"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BAERGGSP
+    
+- name: "BANK OF CYPRUS (CHANNEL ISLANDS) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BCYPGGS1
+    
+- name: "BANQUE CANTONALE VAUDOISE"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BCVLGGSP
+    
+- name: "BARCLAYS BANK PLC"
+  city: "ST. PETER PORT"
+  branch: BARCLAYS BANK PLC GUERNSEY
+  swift: BARCGGS10S2
+    
+- name: "BARCLAYS BANK PLC"
+  city: "ST. PETER PORT"
+  branch: BCPI LIMITED WOOLWICH GUERNSEY
+  swift: BARCGGS10WG
+    
+- name: "BARCLAYS BANK PLC"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BARCGGS1
+    
+- name: "BARCLAYS FINANCE CO (GUERNSEY) LTD"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BGUEGGS1
+    
+- name: "BARCLAYS PRIVATE BANK AND TRUST LTD"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BPBLGGS1
+    
+- name: "BISYS INVESTMENT SERVICES"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BSYSGGS1
+    
+- name: "BNP PARIBAS (SUISSE) SA"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BPPBGGS1
+    
+- name: "BUTTERFIELD BANK (GUERNSEY) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BNTBGGSX
+    
+- name: "CANACCORD GENUITY WEALTH (INTERNATIONAL) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: CGWIGGSP
+    
+- name: "CENKOS CHANNEL ISLANDS LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: CECIGGS1
+    
+- name: "CHANDLER SECURITIES (EUROPE) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: CHSOGGS1
+    
+- name: "CIE FINANCIERE PARIBAS NEDERLAND"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: PARBGGS1
+    
+- name: "CLSA GUERNSEY LTD"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: CLSAGGS1
+    
+- name: "COLLINS STEWART (CI) LTD"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: COLTGGS1
+    
+- name: "CREDIT SUISSE AG, GUERNSEY BRANCH"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: CRESGGSP
+    
+- name: "CREDIT SUISSE DEPOSIT CENTRE"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: CSDCGGSX
+    
+- name: "CUSTODY OPS (SCIL BULK)"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: COSLGGS1
+    
+- name: "DEUTSCHE BANK INTERNATIONAL LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: MGCOGGS1
+    
+- name: "EFG PRIVATE BANK (CHANNEL ISLANDS) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: EFGBGGSP
+    
+- name: "FIRSTRAND INTERNATIONAL LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: FIOTGGS1
+    
+- name: "FLEET BOSTON FINANCIAL (GUERNSEY)"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: FNBBGGS1
+    
+- name: "FNB CHANNEL ISLANDS"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: FIRNGGSP
+    
+- name: "GREIG MIDDLETON (CI) LTD."
+  city: "ST. PETER PORT"
+  branch: null
+  swift: GREIGGS1
+    
+- name: "HANSON BANK LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: HGLIGGS1
+    
+- name: "HSBC BANK PLC"
+  city: "ALDERNEY"
+  branch: ALDERNEY
+  swift: MIDLGGS101E
+    
+- name: "HSBC BANK PLC"
+  city: "SARK"
+  branch: SARK
+  swift: MIDLGGS101D
+    
+- name: "HSBC BANK PLC"
+  city: "ST. MARTIN"
+  branch: ST MARTIN
+  swift: MIDLGGS101B
+    
+- name: "HSBC BANK PLC"
+  city: "ST. PETER PORT"
+  branch: PREMIER CENTRE
+  swift: MIDLGGS101A
+    
+- name: "HSBC BANK PLC"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: MIDLGGS1
+    
+- name: "HSBC BANK PLC"
+  city: "ST. SAMPSON"
+  branch: ST SAMPSON
+  swift: MIDLGGS101C
+    
+- name: "HSBC PRIVATE BANK (C.I.) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BLICGGSX
+    
+- name: "INTERNATIONAL PRIVATE EQUITY SERVICE LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: IPESGGSP
+    
+- name: "INVESTEC ASSET MANAGEMENT GUERNSEY LTD"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: GFFMGGS1
+    
+- name: "INVESTEC BANK (CHANNEL ISLANDS) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: GMGUGGSP
+    
+- name: "JOANNOU AND PARASKEVAIDES (OVERSEAS) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: JPOLGGSA
+    
+- name: "LAZARD BROTHERS AND CO (GUERNSEY) LTD"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: LBGUGGS1
+    
+- name: "LEONTEQ SECURITIES AG, GUERNSEY BRANCH"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: EFGFGGSP
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "ALDERNEY"
+  branch: ALDERNEY (774708)
+  swift: LOYDGGS1005
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "ST. MARTIN"
+  branch: ST. MARTIN (774707)
+  swift: LOYDGGS1004
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "ST. PETER PORT"
+  branch: GUERNSEY (309373)
+  swift: LOYDGGS1001
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "ST. PETER PORT"
+  branch: GUERNSEY (774705)
+  swift: LOYDGGS1002
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: LOYDGGS1
+    
+- name: "LLOYDS BANK INTERNATIONAL LIMITED"
+  city: "ST. SAMPSON"
+  branch: ST. SAMPSON (774706)
+  swift: LOYDGGS1003
+    
+- name: "NATIONAL BANK OF GREECE S.A."
+  city: "ST. PETER PORT"
+  branch: null
+  swift: ETHNGGS1
+    
+- name: "NATWEST OFFSHORE LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: RBOSGG21
+    
+- name: "NATWEST-GUERNSEY"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: RBOSGGSX
+    
+- name: "NOMURA REINSURANCE 1 IC LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: NREIGGSP
+    
+- name: "NORTHERN TRUST (GUERNSEY) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: BBCOGGSP
+    
+- name: "OAK TRUST (GUERNSEY) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: OAKTGGSP
+    
+- name: "ODEY WEALTH MANAGEMENT (C.I.) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: ODWMGGS1
+    
+- name: "PRAXIS FIDUCIARIES LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: PRAXGGS1
+    
+- name: "PRAXISIFM TRUST LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: PXISGGSP
+    
+- name: "ROTHSCHILD BANK (CI) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: ROSWGGSP
+    
+- name: "ROTHSCHILD BANK INTERNATIONAL LTD"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: ROTHGGSP
+    
+- name: "ROWAN AND COMPANY LTD"
+  city: "VALE"
+  branch: null
+  swift: ROWAGGV1
+    
+- name: "ROYAL BANK OF CANADA (CHANNEL ISLANDS) LIMITED"
+  city: "ST. PETER PORT"
+  branch: OFM
+  swift: ROYCGGSPOFM
+    
+- name: "ROYAL BANK OF CANADA (CHANNEL ISLANDS) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: ROYCGGSP
+    
+- name: "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE"
+  city: "ST. PETER PORT"
+  branch: GUERNSEY LTD CHAPS ONLY
+  swift: RBOSGGS1888
+    
+- name: "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE"
+  city: "ST. PETER PORT"
+  branch: GUERNSEY
+  swift: RBOSGGS1029
+    
+- name: "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE"
+  city: "ST. PETER PORT"
+  branch: ST. PETER PORT, GUERNSEY
+  swift: RBOSGGS1886
+    
+- name: "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: RBOSGGSP
+    
+- name: "SCHRODER INVESTMENT MANAGEMENT (GUERNSEY) LTD"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: SIMGGGS1
+    
+- name: "SCHRODERS (C.I.) LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: SCHDGGSP
+    
+- name: "SEI INVESTMENTS-GUERNSEY LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: SEIQGGSP
+    
+- name: "SEI INVESTMENTS-GUERNSEY LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: SEIQGGSPG26
+    
+- name: "SEI INVESTMENTS-GUERNSEY LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: SEIQGGSPG66
+    
+- name: "SG KLEINWORT HAMBROS BANK (CI) LIMITED - GUERNSEY BRANCH"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: HAMBGGSP
+    
+- name: "SG KLEINWORT HAMBROS BANK (CI) LIMITED - GUERNSEY BRANCH (FORMERLY KLEINWORT BENSON (CI) LTD)"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: KBENGGST
+    
+- name: "SPEARPOINT LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: SPEAGGS1
+    
+- name: "THE CO-OPERATIVE BANK PLC"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: CPBKGGS1
+    
+- name: "TILNEY ASSET MANAGEMENT (GUERNSEY) LTD"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: IAMTGGS1
+    
+- name: "US CB REINSURANCE 1 IC LIMITED"
+  city: "ST. PETER PORT"
+  branch: null
+  swift: USCBGGSP
+    
+- name: "VALCOURT (GUERNSEY) LIMITED."
+  city: "ST. PETER PORT"
+  branch: null
+  swift: VAGUGGS1
+    

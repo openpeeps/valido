@@ -1,0 +1,1410 @@
+- name: "ACL SECURITIES CO. LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: ACSCTHB1
+    
+- name: "ADKINSON SECURITIES LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: ADKSTHB1
+    
+- name: "ADVANCE FINANCE PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: ADVNTHB1
+    
+- name: "AEC SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: ASPCTHB1
+    
+- name: "AFCO SECURITIES CORP LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: AFCETHB1
+    
+- name: "AIA COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: GENERAL INVESTMENT OPERATIONS
+  swift: AIACTHK1GIO
+    
+- name: "AIA COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: AIACTHBK
+    
+- name: "AIG RETAIL BANK PUBLIC CO., LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: AFTCTHB1
+    
+- name: "AIRA SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: PSSCTHB1
+    
+- name: "AL ATAS INTERNATIONAL TRADING HOUSE (THAILAND) LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: AITHTHB1
+    
+- name: "AMERICAN EXPRESS BANK LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: AEIBTHB1
+    
+- name: "AMSTEEL SECURITIES (THAILAND) PUBLIC CO., LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: ASTLTHB1
+    
+- name: "ANZ BANK (THAI) PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: ANZBTHB1
+    
+- name: "ANZ BANK (THAI) PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: ANZBTHBK
+    
+- name: "APPLE WEALTH SECURITIES COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: AWSCTHB1
+    
+- name: "ASIA CREDIT FONCIER CO., LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: ASCITHB1
+    
+- name: "ASIA EQUITY THAILAND LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: ASETTHB1
+    
+- name: "ASIA PLUS SECURITIES COMPANY LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: APSOTH21
+    
+- name: "ASIA PLUS SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: AAASTHB1
+    
+- name: "ASIA SECURITIES TRADING CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: ASSRTHB1
+    
+- name: "ASIA WEALTH SECURITIES COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: CGSTTHB1
+    
+- name: "ASSET PLUS SECURITIES COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: APSSTHB1
+    
+- name: "AYUDHYA SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: AYITTHB1
+    
+- name: "AYUDHYA SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: AYITTHB1001
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: BOND TRADING
+  swift: BKKBTHBKTRD
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: BKKBTHBK
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED"
+  city: "CHIANGMAI"
+  branch: null
+  swift: BKKBTHB10BC
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED"
+  city: "PHUKET"
+  branch: null
+  swift: BKKBTHB10BP
+    
+- name: "BANGKOK BANK PUBLIC COMPANY LIMITED"
+  city: "SONGKHLA"
+  branch: null
+  swift: BKKBTHB10BS
+    
+- name: "BANGKOK CAPITAL ASSET MANAGEMENT COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: CANYTHB1
+    
+- name: "BANGKOK FIRST INVESTMENT AND TRUST PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: BFITTHB1
+    
+- name: "BANGKOK INVESTMENT PUBLIC CO. LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: BIPUTHB1
+    
+- name: "BANGKOK MASS TRANSIT AUTHORITY"
+  city: "BANGKOK"
+  branch: null
+  swift: MARHTHB1
+    
+- name: "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES"
+  city: "BANGKOK"
+  branch: null
+  swift: ALCBTHB1
+    
+- name: "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES"
+  city: "BANGKOK"
+  branch: null
+  swift: BAABTHBK
+    
+- name: "BANK OF AMERICA, N.A. BANGKOK"
+  city: "BANGKOK"
+  branch: BANGKOK BRANCH
+  swift: BOFATH2XTHA
+    
+- name: "BANK OF AMERICA, N.A. BANGKOK"
+  city: "BANGKOK"
+  branch: null
+  swift: BOFATH2X
+    
+- name: "BANK OF AYUDHYA PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: AYUDTHBK
+    
+- name: "BANK OF AYUDHYA PUBLIC COMPANY LIMITED"
+  city: "PHUKET"
+  branch: null
+  swift: AYUDTHB10BP
+    
+- name: "BANK OF AYUDHYA PUBLIC COMPANY LIMITED"
+  city: "SONGKHLA"
+  branch: null
+  swift: AYUDTHB10BS
+    
+- name: "BANK OF AYUDHYA PUBLIC COMPANY LIMITED, BANGKOK SATHORN BRANCH (EX -THE BANK OF TOKYO-MITSUBISHI UFJ LTD)"
+  city: "BANGKOK"
+  branch: BANGKOK SATHORN BRANCH
+  swift: BOTKTHBX
+    
+- name: "BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: BKCHTHBK
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: ACCOUNTING GROUP
+  swift: BOTHTHB1ACG
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: BAHTNET OPERATION TEAM 1, PAYMENT SYSTEMS GROUP
+  swift: BOTHTHB1OP1
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: BAHTNET OPERATION TEAM 2, PAYMENT SYSTEMS GROUP
+  swift: BOTHTHB1OP2
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: BAHTNET OPERATION TEAM, PAYMENT SYSTEMS GROUP
+  swift: BOTHTHB1PSG
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: BOT DEPOSITS ACCOUNT MANAGEMENT SERVICES
+  swift: BOTHTHB1DAS
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: BOT DEPOSITS ACCOUNT SERVICES TEAM
+  swift: BOTHTHB1CAT
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: BOT NORTHEASTERN REGIONAL OFFICE
+  swift: BOTHTHB1NEO
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: BOT NORTHERN REGIONAL OFFICE
+  swift: BOTHTHB1NRO
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: BOT SOUTHERN REGIONAL OFFICE
+  swift: BOTHTHB1SRO
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: CREDIT AND REFINANCING DIVISION, FINANCIAL MARKETS OPERATIONS GROUP
+  swift: BOTHTHB1FOC
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: DEPOSITS AND DEBT INSTRUMENTS GROUP
+  swift: BOTHTHB1DDG
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: ELECTRONIC CLEARING HOUSE, PAYMENT SYSTEMS GROUP
+  swift: BOTHTHB1ECH
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: FUND MANAGEMENT GROUP
+  swift: BOTHTHB1FMG
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: NOTE ISSUE GROUP
+  swift: BOTHTHB1NIG
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: TREASURY OPERATIONS DIVISION, F.O.G.
+  swift: BOTHTHB1FOT
+    
+- name: "BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: null
+  swift: BOTHTHBK
+    
+- name: "BANK OF THAILAND"
+  city: "NAKHON PATHOM"
+  branch: ACCOUNTING AND SUPPLY DEPARTMENT
+  swift: BOTHTHB1ASD
+    
+- name: "BANK OF THAILAND EMPLOYEE'S THRIFT AND CREDIT COOPERATIVE LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: TETCTHB1
+    
+- name: "BANK OF THAILAND, BAHTNET PAYMENT SYSTEM"
+  city: "BANGKOK"
+  branch: null
+  swift: BOTHTHBP
+    
+- name: "BARA DEVELOPMENT FINANCE AND SECURITES CO.LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: BDFCTHB1
+    
+- name: "BARCLAYS DE ZOETE WEDD SECURITIES LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: BZWLTHB1
+    
+- name: "BARING RESEARCH LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: BARHTHB1
+    
+- name: "BNP PARIBAS BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: null
+  swift: BNPATHBK
+    
+- name: "BNP PRIME PEREGINE SECURITIES (THAILAND) LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: BPPETHB1
+    
+- name: "BOOK CLUB FINANCE PUBLIC COMPANY LIMITED, THE"
+  city: "BANGKOK"
+  branch: null
+  swift: BCFPTHB1
+    
+- name: "BPI INTERNATIONAL FINANCE LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: BPIITHB1
+    
+- name: "BUALUANG SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: BSPOTHB1
+    
+- name: "CAISSE NATIONALE DU CREDIT AGRICOLE"
+  city: "BANGKOK"
+  branch: null
+  swift: AGRITHB1
+    
+- name: "CAPITAL NOMURA SECURITIES PUBLIC CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: NMRSTHB1
+    
+- name: "CAPITAL NOMURA SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: CAPETHB1
+    
+- name: "CATHAY TRUST CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: CATTTHB1
+    
+- name: "CHIANGMAI LENDING OFFICE"
+  city: "CHIANGMAI"
+  branch: null
+  swift: LENDTHB10BC
+    
+- name: "CHONBURI LENDING OFFICE"
+  city: "CHONBURI"
+  branch: null
+  swift: LENDTHB1
+    
+- name: "CIMB SECURITIES (THAILAND) CO., LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: SEETTHB1
+    
+- name: "CIMB THAI BANK PUBLIC COMPANY LIMITED (FORMERLY BANKTHAI PUBLIC COMPANY LIMITED)"
+  city: "BANGKOK"
+  branch: null
+  swift: UBOBTHBK
+    
+- name: "CITIBANK N.A."
+  city: "BANGKOK"
+  branch: INTERNATIONAL BANKING FACILITY
+  swift: CITITHBXIBF
+    
+- name: "CITIBANK N.A."
+  city: "BANGKOK"
+  branch: null
+  swift: CITITHBX
+    
+- name: "CITICORP SECURITIES (THAILAND) LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: CISTTHB1
+    
+- name: "CLSA SECURITIES (THAILAND) LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: CLSATHB1
+    
+- name: "COMPTROLLER GENERAL'S DEPARTMENT"
+  city: "BANGKOK"
+  branch: null
+  swift: CGDXTHB1
+    
+- name: "CREDIT SUISSE SECURITIES (THAILAND) LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: CSFBTHB1
+    
+- name: "CROSBY RESEARCH LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: CRSHTHB1
+    
+- name: "DBS VICKERS SECURITIES (THAILAND) COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: DBSVTHB1
+    
+- name: "DEPOSIT PROTECTION AGENCY"
+  city: "BANGKOK"
+  branch: null
+  swift: DEPGTHB1
+    
+- name: "DEUTSCHE BANK AG, BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: null
+  swift: DEUTTHBK
+    
+- name: "DEUTSCHE BANK AG, BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: null
+  swift: DEUTTHBKGMO
+    
+- name: "DHANA NAKORN FINANCE AND SECURITIES PUBLIC CO.,LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: DNFETHB1
+    
+- name: "DUCATI MOTOR THAILAND CO. LTD."
+  city: "PLUAK DAENG"
+  branch: null
+  swift: DMTHTHB1
+    
+- name: "DYNAMIC EASTERN FINANCE THAILAND (1991) PUBLIC CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: DEFTTHB1
+    
+- name: "ELECTRICITY GENERATING AUTHORITY OF THAILAND"
+  city: "BANGKOK"
+  branch: null
+  swift: EGATTHB1
+    
+- name: "EXPORT-IMPORT BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: null
+  swift: EXTHTHBK
+    
+- name: "EXPRESSWAY AND RAPID TRANSIT AUTHORITY OF THAILAND"
+  city: "BANGKOK"
+  branch: null
+  swift: ERTATHB1
+    
+- name: "FAR EAST SECURITIES COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: FESCTHB1
+    
+- name: "FINANCE CENTER-FUCC BANK INTERNATIONAL"
+  city: "BANGKOK"
+  branch: null
+  swift: FUCCTHB1
+    
+- name: "FINANSA CREDIT LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: FIRDTHB1
+    
+- name: "FINANSA SECURITIES LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: FIEUTHB1
+    
+- name: "FINANSIA SYRUS SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: SYSOTHB1
+    
+- name: "FIRST ASIA SECURITIES PUBLIC CO. LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: FASPTHB1
+    
+- name: "FIRST BANGKOK CITY FINANCE AND SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: FBCFTHB1
+    
+- name: "FITCH RATINGS (THAILAND) LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: FRIPTHB1
+    
+- name: "FPB ASIA LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: FPASTHB1
+    
+- name: "G20 ASSET MANAGEMENT CO., LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: GSMNTHB1
+    
+- name: "GE MONEY RETAIL BANK PUBLIC COMPANY"
+  city: "BANGKOK"
+  branch: null
+  swift: MRPCTHB1
+    
+- name: "GENERAL FINANCE AND SECURITIES CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: GEFSTHB1
+    
+- name: "GLOBAL THAI FINANCE AND SECURITIES CO. LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: GTFCTHB1
+    
+- name: "GLOBLEX SECURITIES CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: GLSCTHB1
+    
+- name: "GMO-Z COM SECURITIES (THAILAND) LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: GCSTTHB1
+    
+- name: "GOVERNMENT HOUSING BANK"
+  city: "BANGKOK"
+  branch: null
+  swift: GOHUTHB1
+    
+- name: "GOVERNMENT PENSION FUND"
+  city: "BANGKOK"
+  branch: null
+  swift: GOPFTHB1
+    
+- name: "GOVERNMENT SAVINGS BANK"
+  city: "BANGKOK"
+  branch: null
+  swift: GSBATHBK
+    
+- name: "HG ASIA INVESTMENT RESEARCH LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: ASIRTHB1
+    
+- name: "I V GLOBAL SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: ISPCTHB1
+    
+- name: "INDIAN OVERSEAS BANK (FORMERLY BHARAT OVERSEAS BANK LTD.)"
+  city: "BANGKOK"
+  branch: null
+  swift: BHOBTHBK
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: RMB CLEARING BANK
+  swift: ICBKTHBKCLR
+    
+- name: "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: ICBKTHBK
+    
+- name: "ISLAMIC BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: null
+  swift: TIBTTHBK
+    
+- name: "JAMES CAPEL ASIA LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: JCALTHB1
+    
+- name: "JP MORGAN SECURITIES (THAILAND) LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: JPSTTHB1
+    
+- name: "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: INTERANATIONAL BANKING FACILITY
+  swift: CHASTHBXIBF
+    
+- name: "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: JPMORGAN SECURITIES - THAILAND
+  swift: CHASTHBXSEC
+    
+- name: "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: LOANS AND DEPOSITIS SERVICES
+  swift: CHASTHBXLND
+    
+- name: "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: MONEY TRANSFER SERVICES
+  swift: CHASTHBXMTS
+    
+- name: "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: TEST KEY AND BKE ADMINISTRATION
+  swift: CHASTHBXKEY
+    
+- name: "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: TRADE SERVICES
+  swift: CHASTHBXTSD
+    
+- name: "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: TRADING/TREASURY OPERATIONS
+  swift: CHASTHBXTRO
+    
+- name: "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: null
+  swift: CHASTHBX
+    
+- name: "KAEWSONG (2548) PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: BCFSTHB1
+    
+- name: "KASIKORN ASSET MANAGEMENT CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: KAMOTHB1
+    
+- name: "KASIKORN SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: KSPCTHB1
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: BANGKHUNTHIAN CENTRE
+  swift: KASITHBKSKS
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: BANGKOK INTERNATIONAL BANKING FACILITY
+  swift: KASITHBKIBF
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: CASH MANAGEMENT DEPARTMENT
+  swift: KASITHBKCMD
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: CUSTODIAN SERVICE DIVISION
+  swift: KASITHBKCUS
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: FOREIGN EXCHANGE AND REMITTANCE DEPT
+  swift: KASITHBKOMT
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: FUND MANAGEMENT DEPT
+  swift: KASITHBKFMD
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: PHAHONYOTHIN CENTRE
+  swift: KASITHBKPHA
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: RATBURANA CENTRE
+  swift: KASITHBKRAJ
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: SILOM CENTRE
+  swift: KASITHBKSIL
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: SUAPA CENTRE
+  swift: KASITHBKSPA
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: SUKHUMVIT CENTRE
+  swift: KASITHBKSUK
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: KASITHBK
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "CHIANGMAI"
+  branch: CHIANGMAI CENTRE
+  swift: KASITHBKCHM
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "CHOLBURI"
+  branch: LAEMCHABANG CENTRE
+  swift: KASITHBKLAM
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "HADYAI"
+  branch: HADYAI CENTRE
+  swift: KASITHBKHDY
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "PATHUMTANI"
+  branch: NAVANAKORN CENTRE
+  swift: KASITHBKNAV
+    
+- name: "KASIKORNBANK PUBLIC COMPANY LIMITED"
+  city: "SONGKHLA"
+  branch: null
+  swift: KASITHB10BS
+    
+- name: "KGI SECURITIES (THAILAND) PUBLIC COMPANY LIMITED."
+  city: "BANGKOK"
+  branch: null
+  swift: KSOPTHB1
+    
+- name: "KGI SECURITIES (THAILAND) PUBLIC COMPANY LIMITED."
+  city: "BANGKOK"
+  branch: null
+  swift: KSOPTHB1001
+    
+- name: "KHON KAEN LENDING OFFICE"
+  city: "KHON KAEN"
+  branch: null
+  swift: LENDTHB10BH
+    
+- name: "KIATNAKIN BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: KIFITHB1
+    
+- name: "KIATNAKIN BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: KKPBTHBK
+    
+- name: "KIATNAKIN FINANCE AND SECURITIES PUBLIC CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: KFSPTHB1
+    
+- name: "KIM ENG SECURITIES (THAILAND) PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: KESATHB1
+    
+- name: "KOREA EXCHANGE BANK"
+  city: "BANGKOK"
+  branch: null
+  swift: KOEXTHB1
+    
+- name: "KRUNG THAI BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: KUNMING MESSAGING SUPPORT
+  swift: KRTHTHBKKNM
+    
+- name: "KRUNG THAI BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: PHNOMPENH'S MESSAGING SUPPORT
+  swift: KRTHTHBKPMP
+    
+- name: "KRUNG THAI BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: KRTHTHBK
+    
+- name: "KRUNG THAI BANK PUBLIC COMPANY LIMITED"
+  city: "CHIANGMAI"
+  branch: null
+  swift: KRTHTHB10BC
+    
+- name: "KRUNG THAI BANK PUBLIC COMPANY LIMITED"
+  city: "SAMUTPRAKARN"
+  branch: null
+  swift: KRTHTHB10B2
+    
+- name: "KRUNG THAI BANK PUBLIC COMPANY LIMITED"
+  city: "SONGKHLA"
+  branch: HAYDAI
+  swift: KRTHTHB10BS
+    
+- name: "KRUNGTHAI THANAKIT FINANCE PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: KRUTTHB1
+    
+- name: "KSIT FINANCE AND SECURITIES PLC"
+  city: "BANGKOK"
+  branch: null
+  swift: KFSCTHB1
+    
+- name: "KT ZMICO SECURITIES COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: ZMSCTHB1
+    
+- name: "KTB SECURITIES LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: HSTHTHB1
+    
+- name: "LAND AND HOUSES RETAIL BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: LAHRTHB1
+    
+- name: "LYNN PHILLIPS MORTGAGE CREDIT FONCIER CO.,LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: LPMCTHB1
+    
+- name: "MACQUARIE SECURITIES (THAILAND) LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: IBSTTHB1
+    
+- name: "MASS RAPID TRANSIT AUTHORITY OF THAILAND"
+  city: "BANGKOK"
+  branch: null
+  swift: MRTATHB1
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: BANGNA BRANCH
+  swift: ICBCTHBKBNA
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: HEAD OFFICE, BANGKOK
+  swift: ICBCTHBK
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: RAYONG SUBBRANCH
+  swift: ICBCTHBKRYO
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED"
+  city: "CHONBURI"
+  branch: CHONBURI BRANCH
+  swift: ICBCTHBKCHB
+    
+- name: "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED"
+  city: "RAJBURI"
+  branch: BANPONG BRANCH
+  swift: ICBCTHBKBPO
+    
+- name: "MERCANTILE BANK LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: HLEBTHB1
+    
+- name: "MERCEDES-BENZ (THAILAND) LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: DAIXTHBK
+    
+- name: "MERCEDES-BENZ LEASING (THAILAND) CO. LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: MBLETHBK
+    
+- name: "MERCEDES-BENZ MANUFACTURING (THAILAND) LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: MBMATHBK
+    
+- name: "MERCHANT PARTNERS SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: ADSCTHB1
+    
+- name: "MERRILL LYNCH SECURITIES (THAILAND) LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: SECYTHB1
+    
+- name: "METROPOLITAN WATERWORKS AUTHORITY"
+  city: "BANGKOK"
+  branch: null
+  swift: MEWATHB1
+    
+- name: "MIZUHO BANK, LTD., BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: null
+  swift: MHCBTHB2
+    
+- name: "MIZUHO BANK, LTD., BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: null
+  swift: MHCBTHBK
+    
+- name: "MULTI-CREDIT CORPORATION OF THAILAND LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: MULCTHB1
+    
+- name: "NAKHON RATCHASIMA LENDING OFFICE"
+  city: "NAKHON RATCHASIMA"
+  branch: null
+  swift: LENDTHB10BR
+    
+- name: "NATIONAL FINANCE PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: NFSPTHB1
+    
+- name: "NATIONAL HOUSING AUTHORITY"
+  city: "BANGKOK"
+  branch: null
+  swift: NAHATHB1
+    
+- name: "NATIONAL ITMX CO., LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: NAITTHB1
+    
+- name: "NAVA FINANCE AND SECURITIES CO LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: NAVATHB1
+    
+- name: "NITHIPAT CAPITAL AND SECURITIES CO. LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: NCSCTHB1
+    
+- name: "OFFICE FOR SECURITIES BROKERAGE SERVICES"
+  city: "CHIANGMAI"
+  branch: null
+  swift: OFSBTHB1
+    
+- name: "OFFICE FOR SECURITIES BROKERAGE SERVICES"
+  city: "NAKHON PATHOM"
+  branch: null
+  swift: OFSBTHB10BN
+    
+- name: "OFFICE FOR SECURITIES BROKERAGE SERVICES"
+  city: "SONGKHLA"
+  branch: null
+  swift: OFSBTHB10BS
+    
+- name: "OFFICE FOR SECURITIES BROKERAGE SERVICES"
+  city: "TRANG"
+  branch: null
+  swift: OFSBTHB10BT
+    
+- name: "OSK SECURITIES (THAILAND) PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: BFSOTHB1
+    
+- name: "OVERSEA-CHINESE BANKING CORPORATION LIMITED, BANGKOK BRANCH"
+  city: "BANGKOK"
+  branch: null
+  swift: OCBCTHBK
+    
+- name: "OVERSEAS UNION BANK LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: OUBKTHB1
+    
+- name: "PANASONIC TREASURY CENTRE (THAILAND) CO., LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: PANATHB1
+    
+- name: "PHATRA SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: PHSUTHB1
+    
+- name: "PHILLIP SECURITIES (THAILAND) PUBLIC CO. LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: PSTPTHB1
+    
+- name: "POONPIPAT FINANCE AND SECURITIES CO LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: POFSTHB1
+    
+- name: "PROCESSING CENTER COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: PRCYTHB1
+    
+- name: "PROVINCIAL ELECTRICITY AUTHORITY"
+  city: "BANGKOK"
+  branch: null
+  swift: PREHTHB1
+    
+- name: "PROVINCIAL WATERWORKS AUTHORITY"
+  city: "BANGKOK"
+  branch: null
+  swift: PRWATHB1
+    
+- name: "PTT PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: PTPCTHB1
+    
+- name: "PUBLIC DEBT MANAGEMENT OFFICE"
+  city: "BANGKOK"
+  branch: null
+  swift: PDMOTHB1
+    
+- name: "RHB BANK BERHAD"
+  city: "BANGKOK"
+  branch: null
+  swift: DCBBTHBK
+    
+- name: "S.C.F. FINANCE AND SECURITIES PCL"
+  city: "BANGKOK"
+  branch: null
+  swift: SCFSTHB1
+    
+- name: "SAHAVIRIYA CREDIT FONCIER CO.,LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: SCFCTHB1
+    
+- name: "SAMSUNG C AND T (THAILAND) CO., LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: SCNTTHB1
+    
+- name: "SBI THAI ONLINE SECURITIES COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: STNUTHB1
+    
+- name: "SCB SECURITIES CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: SSTCTHB1
+    
+- name: "SCB SECURITIES CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: SSTCTHB1001
+    
+- name: "SEAMICO SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: SESPTHB1
+    
+- name: "SECONDARY MORTGAGE CORPORATION"
+  city: "BANGKOK"
+  branch: null
+  swift: SMCRTHB1
+    
+- name: "SECURITIES ONE PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: SOPCTHB1
+    
+- name: "SIAM CITY CREDIT FINANCE AND SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: SCCFTHB1
+    
+- name: "SIAM CITY SECURITIES COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: CACYTHB1
+    
+- name: "SIAM COMMERCIAL BANK PCL., THE"
+  city: "BANGKOK"
+  branch: TREASURY DEPARTMENT
+  swift: SICOTHBKTSD
+    
+- name: "SIAM COMMERCIAL BANK PCL., THE"
+  city: "BANGKOK"
+  branch: null
+  swift: SICOTHBK
+    
+- name: "SICCO SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: SSPOTHB1
+    
+- name: "SIME BANK BERHAD"
+  city: "BANGKOK"
+  branch: null
+  swift: SIMETHB1
+    
+- name: "SMALL AND MEDIUM ENTERPRISE DEVELOPMENT BANK OF THAILAND"
+  city: "BANGKOK"
+  branch: null
+  swift: SMEBTHBK
+    
+- name: "SMALL INDUSTRY FINANCE CORPORATION"
+  city: "BANGKOK"
+  branch: null
+  swift: SIFPTHB1
+    
+- name: "SOCIETE GENERALE"
+  city: "BANGKOK"
+  branch: null
+  swift: SOGETHB1
+    
+- name: "STANDARD CHARTERED BANK (THAI) PCL"
+  city: "BANGKOK"
+  branch: null
+  swift: SCBLTHBX
+    
+- name: "STANDARD CHARTERED SECURITIES LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: SCSETHB1
+    
+- name: "STATE RAILWAY OF THAILAND"
+  city: "BANGKOK"
+  branch: null
+  swift: STRHTHB1
+    
+- name: "SUMITOMO MITSUI BANKING CORPORATION"
+  city: "BANGKOK"
+  branch: null
+  swift: SMBCTHBK
+    
+- name: "SUMITOMO MITSUI TRUST BANK (THAI) PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: STBCTHBK
+    
+- name: "THAI ASSET MANAGEMENT CORPORATION"
+  city: "BANGKOK"
+  branch: null
+  swift: TAMOTHB1
+    
+- name: "THAI BOND MARKET ASSOCIATION"
+  city: "BANGKOK"
+  branch: null
+  swift: TBDCTHB1
+    
+- name: "THAI CREDIT RETAIL BANK CO., LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: THCETHB1
+    
+- name: "THAI FINANCIAL SYNDICATE PUBLIC CO LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: TFSPTHB1
+    
+- name: "THAI FINANCIAL TRUST PUBLIC CO LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: TFTPTHB1
+    
+- name: "THAI FUJI FINANCE AND SECURITIES CO LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: TFFSTHB1
+    
+- name: "THAI INVESTMENT AND SECURITIES CO. LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: THISTHB1
+    
+- name: "THAI KEHA CREDIT FONCIER PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: TKCFTHB1
+    
+- name: "THAI LIFE INSURANCE PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: TLIUTHB1
+    
+- name: "THAI PAYMENT NETWORK CO., LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: THPNTHB1
+    
+- name: "THAI SAKURA FINANCE AND SECURITIES CO LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: TSFSTHB1
+    
+- name: "THAI SAMSUNG ELECTRONICS CO.,LTD."
+  city: "CHONBURI"
+  branch: TSE
+  swift: SECTTHB15A0
+    
+- name: "THAI SAMSUNG ELECTRONICS CO.,LTD."
+  city: "CHONBURI"
+  branch: null
+  swift: SECTTHB1
+    
+- name: "THAI SECURITIES CO.LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: THASTHB1
+    
+- name: "THAILAND CLEARING HOUSE CO., LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: TCHCTHB1
+    
+- name: "THAILAND POST CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: TPSTTHB1
+    
+- name: "THAILAND SECURITIES DEPOSITORY CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: TSDCTHBK
+    
+- name: "THAIMEX FINANCE AND SECURITIES PUBLIC CO. LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: TFSUTHB1
+    
+- name: "THAISRI INSURANCE CO., LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: THIOTHB1
+    
+- name: "THANA ONE FINANCE AND SECURITIES LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: TOFETHB1
+    
+- name: "THANACHART BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: EFSPTHB1
+    
+- name: "THANACHART BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: THBKTHBK
+    
+- name: "THANACHART SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: NASMTHB1
+    
+- name: "THANAPOL FINANCE AND SECURITIES CO LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: THFETHB1
+    
+- name: "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: HSBCTHBK
+    
+- name: "THE OCEAN SECURITIES AND FINANCE CO. LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: OCSFTHB1
+    
+- name: "THE OFFICE OF THE SECURITIES AND EXCHANGE COMMISSION"
+  city: "BANGKOK"
+  branch: null
+  swift: OSECTHB1
+    
+- name: "THE REVENUE DEPARTMENT OF THAILAND"
+  city: "BANGKOK"
+  branch: null
+  swift: REDPTHB1
+    
+- name: "THE SIAM INDUSTRIAL CREDIT PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: SSICTHB1
+    
+- name: "THE SRI MUANG INSURANCE COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: SMICTHB1
+    
+- name: "THE STOCK EXCHANGE OF THAILAND"
+  city: "BANGKOK"
+  branch: null
+  swift: XBKKTHB1
+    
+- name: "TISCO BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: TFPCTHB1
+    
+- name: "TISCO SECURITIES COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: TSCCTHB1
+    
+- name: "TMB BANK PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: TMBKTHBK
+    
+- name: "TMB BANK PUBLIC COMPANY LIMITED"
+  city: "CHIANGMAI"
+  branch: null
+  swift: TMBKTHB10BC
+    
+- name: "TMB BANK PUBLIC COMPANY LIMITED"
+  city: "SONGKHLA"
+  branch: null
+  swift: TMBKTHB10BS
+    
+- name: "TRANG LENDING OFFICE"
+  city: "TRANG"
+  branch: null
+  swift: LENDTHB10BT
+    
+- name: "TRINITY SECURITIES COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: TRSOTHB1
+    
+- name: "TSFC SECURITIES LIMITED."
+  city: "BANGKOK"
+  branch: null
+  swift: TSFCTHB1
+    
+- name: "UBS SECURITIES (THAILAND) LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: SWPSTHB1
+    
+- name: "UNION ASIA FINANCE PUBLIC CO. LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: UAPFTHB1
+    
+- name: "UNION SECURITIES CO LTD."
+  city: "BANGKOK"
+  branch: null
+  swift: UNIUTHB1
+    
+- name: "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: UOVBTHBK
+    
+- name: "UNITED SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: UNSETHB1
+    
+- name: "UNITED STATES DEPARTMENT OF STATE"
+  city: "BANGKOK"
+  branch: null
+  swift: USDSTHB1
+    
+- name: "UOB KAY HIAN SECURITIES (THAILAND) CO LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: UKHSTHB1
+    
+- name: "VICKERS BALLAS SECURITIES CO. LTD"
+  city: "BANGKOK"
+  branch: null
+  swift: VIBSTHB1
+    
+- name: "W.I. CARR (FAR EAST) LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: WICATHB1
+    
+- name: "WALL STREET FINANCE AND SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: HEAD OFFICE
+  swift: WSFSTHB10BK
+    
+- name: "WALL STREET FINANCE AND SECURITIES PUBLIC COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: YAOWARAJ BRANCH
+  swift: WSFSTHB1
+    
+- name: "YUANTA SECURITIES (THAILAND) COMPANY LIMITED"
+  city: "BANGKOK"
+  branch: null
+  swift: YSTCTHB1
+    

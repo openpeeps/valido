@@ -1,0 +1,30 @@
+- name: "CENTRAL BANK OF LESOTHO"
+  city: "MASERU"
+  branch: null
+  swift: CBLELSMX
+    
+- name: "FIRST NATIONAL BANK OF LESOTHO"
+  city: "MASERU"
+  branch: null
+  swift: FIRNLSMX
+    
+- name: "LESOTHO POSTBANK"
+  city: "MASERU"
+  branch: null
+  swift: LESHLSMM
+    
+- name: "MALUTI MOUNTAIN BREWERY LIMITED"
+  city: "MASERU"
+  branch: null
+  swift: SABMLSM1
+    
+- name: "NEDBANK (LESOTHO) LIMITED"
+  city: "MASERU"
+  branch: null
+  swift: NEDLLSMX
+    
+- name: "STANDARD LESOTHO BANK LTD."
+  city: "MASERU"
+  branch: null
+  swift: SBICLSMX
+    

@@ -1,0 +1,110 @@
+- name: "ABSA BANK NAMIBIA LIMITED"
+  city: "WINDHOEK"
+  branch: null
+  swift: ABSANAN1
+    
+- name: "BANCO PRIVADO ATLANTICO - EUROPA S.A., NAMIBIA BRANCH"
+  city: "WINDHOEK"
+  branch: null
+  swift: BAPANANX
+    
+- name: "BANK BIC NAMIBIA LIMITED"
+  city: "WINDHOEK"
+  branch: null
+  swift: BBNLNANA
+    
+- name: "BANK OF NAMIBIA"
+  city: "WINDHOEK"
+  branch: CLEARING HOUSE
+  swift: CBKNNANAPCH
+    
+- name: "BANK OF NAMIBIA"
+  city: "WINDHOEK"
+  branch: null
+  swift: CBKNNANX
+    
+- name: "BANK WINDHOEK LIMITED"
+  city: "WINDHOEK"
+  branch: GLOBAL CUSTODY BRANCH
+  swift: BWLINANXCHM
+    
+- name: "BANK WINDHOEK LIMITED"
+  city: "WINDHOEK"
+  branch: null
+  swift: BWLINANX
+    
+- name: "CITY SAVINGS AND INVESTMENT BANK HOLDINGS LTD."
+  city: "WINDHOEK"
+  branch: null
+  swift: CSIHNAN1
+    
+- name: "FIRST NATIONAL BANK OF NAMIBIA LIMITED"
+  city: "WINDHOEK"
+  branch: null
+  swift: FIRNNANX
+    
+- name: "FIRST NATIONAL BANK OF NAMIBIA LIMITED"
+  city: "WINDHOEK"
+  branch: null
+  swift: FIRNNANXCUS
+    
+- name: "INVESTMENT HOUSE NAMIBIA (PTY) LTD"
+  city: "WINDHOEK"
+  branch: null
+  swift: IHNANANX
+    
+- name: "INVESTMENT HOUSE NAMIBIA (PTY) LTD."
+  city: "WINDHOEK"
+  branch: null
+  swift: HYSANAN1
+    
+- name: "IRWIN, JACOBS, GREENE AND ASSOCIATES (PTY) LTD."
+  city: "WINDHOEK"
+  branch: null
+  swift: IJGLNANA
+    
+- name: "LETSHEGO BANK NAMIBIA LIMITED"
+  city: "WINDHOEK"
+  branch: null
+  swift: LFSGNANA
+    
+- name: "NAMCLEAR (PTY) LIMITED"
+  city: "WINDHOEK"
+  branch: null
+  swift: NAMCNANX
+    
+- name: "NAMIBIA EQUITY BROKERS (PTY) LTD"
+  city: "WINDHOEK"
+  branch: null
+  swift: NBOENANX
+    
+- name: "NAMIBIAN STOCK EXCHANGE"
+  city: "WINDHOEK"
+  branch: null
+  swift: XNAMNAN1
+    
+- name: "NEDBANK NAMIBIA LIMITED"
+  city: "WINDHOEK"
+  branch: null
+  swift: NEDSNANX
+    
+- name: "SIMONIS STORM SECURITIES (PTY) LTD"
+  city: "WINDHOEK"
+  branch: null
+  swift: FLMSNANX
+    
+- name: "STANDARD BANK NAMIBIA LIMITED"
+  city: "WINDHOEK"
+  branch: STANLIB
+  swift: SBNMNANXLIB
+    
+- name: "STANDARD BANK NAMIBIA LIMITED"
+  city: "WINDHOEK"
+  branch: null
+  swift: SBNMNANX
+    
+- name: "TRUSTCO BANK NAMIBIA"
+  city: "WINDHOEK"
+  branch: null
+  swift: TRNANANX
+    

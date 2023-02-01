@@ -1,0 +1,90 @@
+- name: "ACCESS BANK SIERRA LEONE LIMITED"
+  city: "FREETOWN"
+  branch: null
+  swift: ABSFSLFR
+    
+- name: "APEX BANK SIERRA LEONE LIMITED"
+  city: "FREETOWN"
+  branch: null
+  swift: APIESLFR
+    
+- name: "BANK OF SIERRA LEONE"
+  city: "FREETOWN"
+  branch: null
+  swift: BSLESLFA
+    
+- name: "BANK OF SIERRA LEONE"
+  city: "FREETOWN"
+  branch: null
+  swift: BSLESLFR
+    
+- name: "COMMERCE AND MORTGAGE BANK (SL) PLC"
+  city: "FREETOWN"
+  branch: null
+  swift: HFCMSLFR
+    
+- name: "ECOBANK SIERRA LEONE LIMITED"
+  city: "FREETOWN"
+  branch: null
+  swift: ECOCSLFR
+    
+- name: "FIRST INTERNATIONAL BANK (SL) LIMITED"
+  city: "FREETOWN"
+  branch: null
+  swift: FSTISLFR
+    
+- name: "GUARANTY TRUST BANK (SL) LTD"
+  city: "FREETOWN"
+  branch: null
+  swift: GTBISLFR
+    
+- name: "INTERNATIONAL COMMERCIAL BANK(SL) LIMITED"
+  city: "FREETOWN"
+  branch: null
+  swift: ICBZSLFR
+    
+- name: "KEYSTONE BANK (SL) LIMITED"
+  city: "FREETOWN"
+  branch: null
+  swift: PHBXSLFR
+    
+- name: "NATIONAL COOPERATIVE DEVELOPMENT BANK LTD."
+  city: "FREETOWN"
+  branch: null
+  swift: NCDBSLF1
+    
+- name: "ROKEL COMMERCIAL BANK (SIERRA LEONE) LTD."
+  city: "FREETOWN"
+  branch: null
+  swift: RCBKSLFR
+    
+- name: "SIERRA LEONE COMMERCIAL BANK LTD"
+  city: "FREETOWN"
+  branch: null
+  swift: SLCBSLFR
+    
+- name: "SKYE BANK (SL) LTD"
+  city: "FREETOWN"
+  branch: null
+  swift: SKYESLFR
+    
+- name: "STANDARD CHARTERED BANK SIERRA LEONE LTD"
+  city: "FREETOWN"
+  branch: null
+  swift: SCBLSLFR
+    
+- name: "UNION TRUST BANK LIMITED"
+  city: "FREETOWN"
+  branch: null
+  swift: UTBSSLFR
+    
+- name: "UNITED BANK FOR AFRICA (S/L) LTD"
+  city: "FREETOWN"
+  branch: null
+  swift: UNAFSLFR
+    
+- name: "ZENITH BANK (SIERRA LEONE) LIMITED"
+  city: "FREETOWN"
+  branch: null
+  swift: ZESLSLFR
+    

@@ -1,0 +1,70 @@
+- name: "BANCO CENTRAL DE CUBA"
+  city: "LA HABANA"
+  branch: REAL TIMEGROSS SETTLEMENT BRANCH
+  swift: BCCUCUHHSLB
+    
+- name: "BANCO CENTRAL DE CUBA"
+  city: "LA HABANA"
+  branch: SISTEMA UNICO DE COMPENSACION REGIONAL
+  swift: BCCUCUHHSUC
+    
+- name: "BANCO CENTRAL DE CUBA"
+  city: "LA HABANA"
+  branch: null
+  swift: BCCUCUHH
+    
+- name: "BANCO DE CREDITO Y COMERCIO"
+  city: "LA HABANA"
+  branch: null
+  swift: BDCRCUHH
+    
+- name: "BANCO DE INVERSIONES S.A."
+  city: "LA HABANA"
+  branch: null
+  swift: BICUCUHH
+    
+- name: "BANCO DE VENEZUELA S.A."
+  city: "LA HABANA"
+  branch: null
+  swift: INDSCUHH
+    
+- name: "BANCO EXTERIOR DE CUBA"
+  city: "LA HABANA"
+  branch: null
+  swift: BECUCUHH
+    
+- name: "BANCO FINANCIERO INTERNACIONAL, S.A."
+  city: "LA HABANA"
+  branch: null
+  swift: BFICCUHH
+    
+- name: "BANCO INTERNACIONAL DE COMERCIO S.A."
+  city: "LA HABANA"
+  branch: null
+  swift: BIDCCUHH
+    
+- name: "BANCO METROPOLITANO S.A."
+  city: "LA HABANA"
+  branch: null
+  swift: BMNBCUHH
+    
+- name: "BANCO NACIONAL DE CUBA"
+  city: "LA HABANA"
+  branch: DIVISION CENTRAL
+  swift: BNACCUHH011
+    
+- name: "BANCO NACIONAL DE CUBA"
+  city: "LA HABANA"
+  branch: DIVISION COMERCIAL
+  swift: BNACCUHH613
+    
+- name: "BANCO NACIONAL DE CUBA"
+  city: "LA HABANA"
+  branch: null
+  swift: BNACCUHH
+    
+- name: "BANCO POPULAR DE AHORRO"
+  city: "LA HABANA"
+  branch: null
+  swift: BPAHCUHH
+    
