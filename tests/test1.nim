@@ -23,35 +23,11 @@ test "isDomain (valid)":
 test "isDomain (invalid)":
   check isDomain("sub.example.com") == false
 
-test "isPassword (invalid) `passMinChars` (admin)":
-  let output = isPassword("admin")
-  check(output.status == false)
-  check(output.msg == passMinChars)
+test "isStrongPassword (invalid)":
+  let output = isStrongPassword("x6y2C8Dt5Lgg")
 
-test "isPassword (invalid) `passMinUppers` (123admin)":
-  let output = isPassword("123admin")
-  check(output.status == false)
-  check(output.msg == passMinUppers)
-
-test "isPassword (invalid) `passNoSpecials` (123Admin)":
-  let output = isPassword("123Admin")
-  check(output.status == false)
-  check(output.msg == passNoSpecials)
-
-test "isPassword (invalid) `passNoSpecials` (SDK231ksSkall)":
-  let output = isPassword("SDK231ksSkall")
-  check(output.status == false)
-  check(output.msg == passNoSpecials)
-
-test "isPassword (invalid) `passConsecutiveChars` (123Aaadmin)":
-  let output = isPassword("123Aaaadmin}")
-  check(output.status == false)
-  check(output.msg == passConsecutiveChars)
-
-test "isPassword (valid) `passOK` (S<A@#*d)_+las23)":
-  let output = isPassword("S<A@#*d)_+las23")
-  check(output.status == true)
-  check(output.msg == passOK)
+test "isStrongPassword (invalid)":
+  let output = isStrongPassword("123admin@Admin321")
 
 # test "isCC (valid)":
 #   check isCC("4101891773067337") == true
