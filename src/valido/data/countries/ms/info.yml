@@ -1,0 +1,43 @@
+info:
+  short: "Montserrat"
+  long: "Montserrat"
+  alpha2: MS
+  alpha3: MSR
+  iso: 500
+  ioc: ""
+  capital: "Plymouth"
+  tld: "ms"
+
+languages: []
+
+currency:
+  code:
+    - "XCD"
+  name:
+    - "East Caribbean Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 664
+
+postal:
+  description: "MS : MSR NNNN"
+  redenundant_chars: " -"
+  regex: "^(MSR)?[0-9]{4}$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "MSR NNNN"
+    
+states:
+  : "Saint Anthony"
+  : "Saint Georges"
+  : "Saint Peter's"
+  

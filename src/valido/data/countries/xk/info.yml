@@ -1,0 +1,42 @@
+info:
+  short: ""
+  long: "Kosovo"
+  alpha2: XK
+  alpha3: XKV
+  iso: 
+  ioc: "KOS"
+  capital: "null"
+  tld: "null"
+
+languages:
+  - bos
+  - rom
+  - sqi
+  - srp
+  - tur
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 383
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states: {}
+  

@@ -1,0 +1,75 @@
+info:
+  short: "Ukraine"
+  long: "Ukraine"
+  alpha2: UA
+  alpha3: UKR
+  iso: 804
+  ioc: "UKR"
+  capital: "Kyiv"
+  tld: "ua"
+
+languages:
+  - rus
+  - ukr
+
+currency:
+  code:
+    - "UAH"
+  name:
+    - "Ukraine Hryvna"
+  symbol:
+    - "&#8372;"
+
+phone:
+  code:
+    - 380
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+    - 39
+    - 50
+    - 63
+    - 66
+    - 67
+    - 68
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  05: "Vinnytsia"
+  07: "Volyn"
+  09: "Luhansk"
+  12: "Dnipropetrovsk"
+  14: "Donetsk"
+  18: "Zhytomyr"
+  21: "Zakarpattia"
+  23: "Zaporizhia"
+  26: "Ivano-Frankivsk"
+  30: "Kyv"
+  32: "Kiev"
+  35: "Kirovohrad"
+  40: "Sevastopol"
+  43: "Avtonomna Respublika Krym"
+  46: "Lviv"
+  48: "Mykolaiv"
+  51: "Odessa"
+  53: "Poltava"
+  56: "Rivne"
+  59: "Sumy"
+  61: "Ternopil"
+  63: "Kharkiv"
+  65: "Kherson"
+  68: "Khmelnytskyi"
+  71: "Cherkasy"
+  74: "Chernihiv"
+  77: "Chernivtsi"
+  

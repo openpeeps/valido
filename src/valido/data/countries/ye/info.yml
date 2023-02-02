@@ -1,0 +1,60 @@
+info:
+  short: "Yemen"
+  long: "Yemen"
+  alpha2: YE
+  alpha3: YEM
+  iso: 887
+  ioc: "YEM"
+  capital: "Sanaa"
+  tld: "ye"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "YER"
+  name:
+    - "Yemen Rial"
+  symbol:
+    - "&#65020;"
+
+phone:
+  code:
+    - 967
+  length:
+    - 9
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AB: "Abyn"
+  AD: "Adan"
+  AM: "'Amrn"
+  BA: "Al Bay'"
+  DA: "A li'"
+  DH: "Dhamr"
+  HD: "aramawt"
+  HJ: "ajjah"
+  HU: "Al udaydah"
+  IB: "Ibb"
+  JA: "Al Jawf"
+  LA: "Laij"
+  MA: "Ma'rib"
+  MR: "Al Mahrah"
+  MW: "Al Mawt"
+  RA: "Raymah"
+  SD: "dah"
+  SH: "Shabwah"
+  SN: "an'"
+  TA: "Tizz"
+  

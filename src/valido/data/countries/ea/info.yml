@@ -1,0 +1,36 @@
+info:
+  short: ""
+  long: "Ceuta, Mulilla"
+  alpha2: EA
+  alpha3: EAM
+  iso: 
+  ioc: ""
+  capital: "null"
+  tld: "null"
+
+languages: []
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states: {}
+  

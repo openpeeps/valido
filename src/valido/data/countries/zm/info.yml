@@ -1,0 +1,48 @@
+info:
+  short: "Zambia"
+  long: "Zambia"
+  alpha2: ZM
+  alpha3: ZMB
+  iso: 894
+  ioc: "ZAM"
+  capital: "Lusaka"
+  tld: "zm"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "ZMW"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 260
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  01: "Western"
+  02: "Central"
+  03: "Eastern"
+  04: "Luapula"
+  05: "Northern"
+  06: "North-Western"
+  07: "Southern"
+  08: "Copperbelt"
+  09: "Lusaka"
+  

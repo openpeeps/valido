@@ -1,0 +1,39 @@
+info:
+  short: ""
+  long: "Holy See (Vatican City State)"
+  alpha2: VA
+  alpha3: VAT
+  iso: 336
+  ioc: ""
+  capital: "Citt"
+  tld: "va"
+
+languages:
+  - ita
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "VA : 00120"
+  redenundant_chars: " -"
+  regex: "^00120$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "00120"
+    
+states:
+  01: "Holy See (Vatican City) "
+  

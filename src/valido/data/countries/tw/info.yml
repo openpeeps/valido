@@ -1,0 +1,61 @@
+info:
+  short: "Taiwan"
+  long: "Taiwan, Republic of China"
+  alpha2: TW
+  alpha3: TWN
+  iso: 158
+  ioc: "TPE"
+  capital: "null"
+  tld: "null"
+
+languages:
+  - zho
+
+currency:
+  code:
+    - "TWD"
+  name:
+    - "Taiwan New Dollar"
+  symbol:
+    - "&#78;&#84;&#36;"
+
+phone:
+  code:
+    - 886
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  CHA: "Chang-hua"
+  CYQ: "Chia-i"
+  HSQ: "Hsin-chu"
+  HUA: "Hua-lien"
+  ILA: "Yi-lan"
+  KEE: "Keelung"
+  KHH: "Kao-hsiung"
+  KIN: "Kinmen"
+  LIE: "Lienchiang"
+  MIA: "Miao-li"
+  NAN: "Nan-t'ou"
+  NWT: "New Taipei"
+  PEN: "P'eng-hu"
+  PIF: "P'ing-chung"
+  TAO: "T'ao-yuan"
+  TNN: "T'ai-nan"
+  TPE: "T'ai-pei"
+  TTT: "T'ai-tung"
+  TXG: "T'ai-chung"
+  YUN: "Yun-lin"
+  

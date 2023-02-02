@@ -1,0 +1,63 @@
+info:
+  short: "Croatia"
+  long: "Croatia"
+  alpha2: HR
+  alpha3: HRV
+  iso: 191
+  ioc: "CRO"
+  capital: "Zagreb"
+  tld: "hr"
+
+languages:
+  - hrv
+
+currency:
+  code:
+    - "HRK"
+  name:
+    - "Croatia Kuna"
+  symbol:
+    - "&#107;&#110;"
+
+phone:
+  code:
+    - 385
+  length:
+    - 8
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  01: "Zagrebacka Zupanija"
+  02: "Krapinsko-Zagorska upanija"
+  03: "Sisako-Moslavaka upanija"
+  04: "Karlovaka upanija"
+  05: "Varadinska upanija"
+  06: "Koprivniko-Krizevaka upanija"
+  07: "Bjelovarsko-Bilogorska upanija"
+  08: "Primorsko-Goranska upanija"
+  09: "Liko-Senjska upanija"
+  10: "Virovitiko-Podravska upanija"
+  11: "Poeko-Slavonska upanija"
+  12: "Brodsko-Posavska upanija"
+  13: "Zadarska upanija"
+  14: "Osjeko-Baranjska upanija"
+  15: "Sibensko-Kninska upanija"
+  16: "Vukovarsko-Srijemska upanija"
+  17: "Splitsko-Dalmatinska upanija"
+  18: "Istarska upanija"
+  19: "Dubrovako-Neretvanska upanija"
+  20: "Meimurska upanija"
+  21: "Grad Zagreb"
+  

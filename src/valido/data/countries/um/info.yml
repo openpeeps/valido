@@ -1,0 +1,48 @@
+info:
+  short: ""
+  long: "United States Minor Outlying Islands"
+  alpha2: UM
+  alpha3: UMI
+  iso: 581
+  ioc: ""
+  capital: ""
+  tld: ""
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  67: "Johnston Atoll"
+  71: "Midway Islands"
+  76: "Navassa Island"
+  79: "Wake Island"
+  81: "Baker Island"
+  84: "Howland Island"
+  86: "Jarvis Island"
+  89: "Kingman Reef"
+  95: "Palmyra Atoll"
+  BN: "Bajo Nuevo Bank"
+  SB: "Serranilla Bank"
+  

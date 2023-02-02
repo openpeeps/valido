@@ -1,0 +1,43 @@
+info:
+  short: "Falkland Islands (Malvinas)"
+  long: "Falkland Islands (Malvinas)"
+  alpha2: FK
+  alpha3: FLK
+  iso: 238
+  ioc: ""
+  capital: "Stanley"
+  tld: "fk"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "FKP"
+  name:
+    - "Falkland Islands (Malvinas) Pound"
+  symbol:
+    - "&#163;"
+
+phone:
+  code:
+    - 500
+  length:
+    - 5
+  mobile_prefix:
+    - 5
+    - 6
+
+postal:
+  description: "FK : FIQQ 1ZZ"
+  redenundant_chars: " -"
+  regex: "^FIQQ1ZZ$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "FIQQ 1ZZ"
+    
+states:
+  : "Falkland Islands (Islas Malvinas) "
+  

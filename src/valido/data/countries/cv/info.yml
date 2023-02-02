@@ -1,0 +1,59 @@
+info:
+  short: "Cape Verde"
+  long: "Cape Verde"
+  alpha2: CV
+  alpha3: CPV
+  iso: 132
+  ioc: "CPV"
+  capital: "Praia"
+  tld: "cv"
+
+languages:
+  - por
+
+currency:
+  code:
+    - "CVE"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 238
+  length:
+    - 7
+  mobile_prefix:
+    - 5
+    - 9
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  BR: "Brava"
+  BV: "Boa Vista"
+  CA: "Santa Catarina"
+  CR: "Santa Cruz"
+  CS: "Calheta de So Miguel"
+  MA: "Maio"
+  MO: "Mosteiros"
+  PA: "Pal"
+  PN: "Porto Novo"
+  PR: "Praia"
+  RB: "Ribeira Brava"
+  RG: "Ribeira Grande"
+  SD: "So Domingos"
+  SF: "So Filipe"
+  SL: "Sal"
+  SN: "So Nicolau"
+  SV: "So Vicente"
+  TA: "Tarrafal"
+  TS: "Tarrafal de So Nicolau"
+  

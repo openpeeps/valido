@@ -1,0 +1,61 @@
+info:
+  short: ""
+  long: "Guernsey"
+  alpha2: GG
+  alpha3: GGY
+  iso: 831
+  ioc: "GCI"
+  capital: "null"
+  tld: "null"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "GBP"
+    - "GGP"
+  name:
+    - "Guernsey Pound"
+    - "United Kingdom Pound"
+  symbol:
+    - "&#163;"
+    - "&#163;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "GB : NNNNN, NN NNN, NNNNNN, NNN NNN, NNNNNNN, NNNN NNN"
+  redenundant_chars: " -"
+  regex: "((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([AZa-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9]?[A-Za-z]))))[0-9][A-Za-z]{2})|GIR0AA"
+  charset: number
+  length:
+    - "5"
+    - "6"
+    - "6"
+    - "7"
+    - "7"
+    - "8"
+  formats:
+    - "NN NNN"
+    - "NNN NNN"
+    - "NNNN NNN"
+    - "NNNNN"
+    - "NNNNNN"
+    - "NNNNNNN"
+    
+states:
+  : "Castel"
+  : "Forest"
+  : "St. Andrew"
+  : "St. Martin"
+  : "St. Peter Port"
+  : "St. Pierre du Bois"
+  : "St. Sampson"
+  : "St. Saviour"
+  : "Torteval"
+  : "Vale"
+  

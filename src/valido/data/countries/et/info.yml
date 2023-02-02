@@ -1,0 +1,50 @@
+info:
+  short: "Ethiopia"
+  long: "Ethiopia"
+  alpha2: ET
+  alpha3: ETH
+  iso: 231
+  ioc: "ETH"
+  capital: "Addis Abeba"
+  tld: "et"
+
+languages:
+  - amh
+
+currency:
+  code:
+    - "ETB"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 251
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  AA: "Addis Ababa"
+  AF: "Afar"
+  AM: "Amhara"
+  BE: "Benshangul-Gumaz"
+  DD: "Dire Dawa"
+  GA: "Gambela"
+  HA: "Harari"
+  OR: "Oromia"
+  SN: "Southern Nations Nationalities and People's Region"
+  SO: "Somali"
+  TI: "Tigray"
+  

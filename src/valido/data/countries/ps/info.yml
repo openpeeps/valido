@@ -1,0 +1,61 @@
+info:
+  short: "Palestine"
+  long: "Palestinian Territory, Occupied"
+  alpha2: PS
+  alpha3: PSE
+  iso: 275
+  ioc: "PLE"
+  capital: "Gaza"
+  tld: "ps"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "EGP"
+    - "ILS"
+    - "JOD"
+  name:
+    - "Egypt Pound"
+    - "Israel Shekel"
+  symbol:
+    - "&#163;"
+    - "&#8362;"
+
+phone:
+  code:
+    - 970
+  length:
+    - 9
+  mobile_prefix:
+    - 5
+
+postal:
+  description: "3-Digits - NNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{3}$"
+  charset: number
+  length:
+    - "3"
+  formats:
+    - "NNN"
+    
+states:
+  BTH: "Bayt Lam"
+  DEB: "Dayr al Bala"
+  GZA: "Ghazzah"
+  HBN: "Ak Khall"
+  JEM: "Al Quds"
+  JEN: "Jann"
+  JRH: "Ar wal Aghwr"
+  KYS: "Khn Ynis"
+  NBS: "Nblus"
+  NGZ: "Shaml Ghazzah"
+  QQA: "Qalqyah"
+  RBH: "Rm Allh wal Brah"
+  RFH: "Rafa"
+  SLT: "Salft"
+  TBS: "bs"
+  TKM: "lkarm"
+  

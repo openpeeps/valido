@@ -1,0 +1,49 @@
+info:
+  short: "American Samoa"
+  long: "American Samoa"
+  alpha2: AS
+  alpha3: ASM
+  iso: 16
+  ioc: "ASA"
+  capital: "Fagatogo"
+  tld: "as"
+
+languages:
+  - eng
+  - smo
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 684258
+    - 684733
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  01: "Tutuila"
+  02: "Aunu'u"
+  03: "Ta'"
+  04: "OfuOlosega"
+  21: "Rose Atoll"
+  22: "Swains Island"
+  

@@ -1,0 +1,47 @@
+info:
+  short: "Northern Mariana Islands"
+  long: "Northern Mariana Islands"
+  alpha2: MP
+  alpha3: MNP
+  iso: 580
+  ioc: ""
+  capital: "Garapan"
+  tld: "mp"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 670
+
+postal:
+  description: "US : NNNNN[-NNNN]"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}([0-9]{4})?$"
+  charset: number
+  length:
+    - "5"
+    - "10"
+  formats:
+    - "NNNNN"
+    - "NNNNN[-NNNN]"
+    
+states:
+  : "Northern Islands"
+  : "Rota"
+  : "Saipan"
+  : "Tinian"
+  

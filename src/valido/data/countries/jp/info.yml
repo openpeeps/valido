@@ -1,0 +1,94 @@
+info:
+  short: "Japan"
+  long: "Japan"
+  alpha2: JP
+  alpha3: JPN
+  iso: 392
+  ioc: "JPN"
+  capital: "Tokyo"
+  tld: "jp"
+
+languages:
+  - jpn
+
+currency:
+  code:
+    - "JPY"
+  name:
+    - "Japan Yen"
+  symbol:
+    - "&#165;"
+
+phone:
+  code:
+    - 81
+  length:
+    - 10
+  mobile_prefix:
+    - 70
+    - 80
+    - 90
+
+postal:
+  description: "7-Digits - NNNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{7}$"
+  charset: number
+  length:
+    - "7"
+  formats:
+    - "NNNNNNN"
+    
+states:
+  01: "Miyagi"
+  01: "Hokkaido"
+  02: "Aomori"
+  03: "Iwate"
+  05: "Akita"
+  06: "Yamagata"
+  07: "Fukushima"
+  07: "Hukusima"
+  08: "Ibaraki"
+  09: "Totigi"
+  09: "Tochigi"
+  10: "Gunma"
+  11: "Saitama"
+  12: "Chiba"
+  12: "Tiba"
+  14: "Kanagawa"
+  15: "Niigata"
+  16: "Toyama"
+  17: "Ishikawa"
+  18: "Hukui"
+  18: "Fukui"
+  19: "Yamanashi"
+  20: "Nagano"
+  21: "Gifu"
+  22: "Shizuoka"
+  23: "Aichi"
+  24: "Mie"
+  25: "Siga"
+  26: "Kyoto"
+  27: "Osaka"
+  28: "Hyogo"
+  29: "Nara"
+  30: "Wakayama"
+  31: "Tottori"
+  32: "Shimane"
+  33: "Okayama"
+  34: "Hiroshima"
+  35: "Yamaguchi"
+  36: "Tokushima"
+  37: "Kagawa"
+  38: "Ehime"
+  39: "Kochi"
+  40: "Hukuoaka"
+  40: "Fukuoka"
+  41: "Saga"
+  42: "Nagasaki"
+  43: "Kumamoto"
+  44: "Oita"
+  45: "Miyazaki"
+  46: "Kagoshima"
+  47: "Okinawa"
+  

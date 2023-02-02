@@ -1,0 +1,55 @@
+info:
+  short: "Luxembourg"
+  long: "Luxembourg"
+  alpha2: LU
+  alpha3: LUX
+  iso: 442
+  ioc: "LUX"
+  capital: "Luxembourg [Luxemburg/L"
+  tld: "lu"
+
+languages:
+  - deu
+  - fra
+  - ltz
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 352
+  length:
+    - 9
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  CA: "Capellen"
+  CL: "Clevaux"
+  DI: "Diekirch"
+  EC: "Echternach"
+  ES: "Esch-sur-Alzette"
+  GR: "Grevenmacher"
+  LU: "Luxembourg"
+  ME: "Mersch"
+  RD: "Redange"
+  RM: "Remich"
+  VD: "Vianden"
+  WI: "Wiltz"
+  

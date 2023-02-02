@@ -1,0 +1,68 @@
+info:
+  short: "Venezuela, Bolivarian Republic of"
+  long: "Venezuela (Bolivarian Republic of)"
+  alpha2: VE
+  alpha3: VEN
+  iso: 862
+  ioc: "VEN"
+  capital: "Caracas"
+  tld: "ve"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "VEF"
+  name:
+    - "Venezuela Bolivar"
+  symbol:
+    - "&#66;&#115;"
+
+phone:
+  code:
+    - 58
+  length:
+    - 10
+  mobile_prefix:
+    - 4
+
+postal:
+  description: "VE : NNNN, NNNN-A"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}[a-zA-Z]?$"
+  charset: number
+  length:
+    - "4"
+    - "6"
+  formats:
+    - "NNNN"
+    - "NNNN-A"
+    
+states:
+  A: "Distrito Federal"
+  B: "Anzotegui"
+  C: "Apure"
+  D: "Aragua"
+  E: "Barinas"
+  F: "Bolvar"
+  G: "Carabobo"
+  H: "Cojedes"
+  I: "Falcn"
+  J: "Gurico"
+  K: "Lara"
+  L: "Mrida"
+  M: "Miranda"
+  N: "Monagas"
+  O: "Nueva Esparta"
+  P: "Portuguesa"
+  R: "Sucre"
+  S: "Tchira"
+  T: "Trujillo"
+  U: "Yaracuy"
+  V: "Zulia"
+  W: "Dependencias Federales"
+  X: "Vargas"
+  Y: "Delta Amacuro"
+  Z: "Amazonas"
+  

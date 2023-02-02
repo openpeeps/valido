@@ -1,0 +1,44 @@
+info:
+  short: "Djibouti"
+  long: "Djibouti"
+  alpha2: DJ
+  alpha3: DJI
+  iso: 262
+  ioc: "DJI"
+  capital: "Djibouti"
+  tld: "dj"
+
+languages:
+  - ara
+  - fra
+
+currency:
+  code:
+    - "DJF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 253
+  length:
+    - 8
+  mobile_prefix:
+    - 77
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AR: "Arta"
+  AS: "Ali Sabieh"
+  DI: "Dikhil"
+  OB: "Obock"
+  TA: "Tadjourah"
+  

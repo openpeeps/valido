@@ -1,0 +1,58 @@
+info:
+  short: "Sudan"
+  long: "Sudan"
+  alpha2: SD
+  alpha3: SDN
+  iso: 736
+  ioc: "SUD"
+  capital: "Khartum"
+  tld: "sd"
+
+languages:
+  - ara
+  - eng
+
+currency:
+  code:
+    - "SDG"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 249
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  DC: "Wasat Darfur Zalinjay"
+  DE: "Sharq Darfur"
+  DN: "Shamal Darfur"
+  DS: "Janub Darfur"
+  DW: "Gharb Darfur"
+  GD: "Al Qadarif"
+  GK: "Gharb Kurdufan"
+  GZ: "Al Jazirah"
+  KA: "Kassala"
+  KH: "Al Khartum"
+  KN: "Shiamal Kurdufan"
+  KS: "Janub Kurdufan"
+  NB: "An Nil al Azraq"
+  NO: "Ash Shamaliyah"
+  NR: "Nahr an Nil"
+  NW: "An Nil al Abyad"
+  RS: "Al Bahr al Ahmar"
+  SI: "Sinnar"
+  

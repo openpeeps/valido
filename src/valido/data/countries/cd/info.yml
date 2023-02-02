@@ -1,0 +1,53 @@
+info:
+  short: "Congo, The Democratic Republic Of The"
+  long: "Congo, Democratic Republic of the"
+  alpha2: CD
+  alpha3: COD
+  iso: 180
+  ioc: "COD"
+  capital: ""
+  tld: "cd"
+
+languages:
+  - fra
+  - kon
+  - lin
+  - swa
+
+currency:
+  code:
+    - "CDF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 243
+  length:
+    - 9
+  mobile_prefix:
+    - 8
+    - 9
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BC: "Bas-Congo"
+  BN: "Bandundu"
+  EQ: "quateur"
+  KA: "Katanga"
+  KE: "Kasa-Occidental"
+  KN: "Kinshasa"
+  KW: "Kasa-Oriental"
+  MA: "Maniema"
+  NK: "Nord-Kivu"
+  OR: "Orientale"
+  SK: "Sud-Kivu"
+  

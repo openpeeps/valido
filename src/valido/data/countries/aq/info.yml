@@ -1,0 +1,36 @@
+info:
+  short: ""
+  long: "British Antarctic Territory"
+  alpha2: AQ
+  alpha3: ATB
+  iso: 
+  ioc: ""
+  capital: "Rothera"
+  tld: "aq"
+
+languages: []
+
+currency:
+  code:
+  name:
+  symbol:
+
+phone:
+  code:
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BO: "Bonaire"
+  SA: "Saba Isand"
+  SE: "Sint Eustatius"
+  

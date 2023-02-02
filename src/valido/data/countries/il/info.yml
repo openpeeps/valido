@@ -1,0 +1,49 @@
+info:
+  short: "Israel"
+  long: "Israel"
+  alpha2: IL
+  alpha3: ISR
+  iso: 376
+  ioc: "ISR"
+  capital: "Jerusalem"
+  tld: "il"
+
+languages:
+  - ara
+  - eng
+  - heb
+
+currency:
+  code:
+    - "ILS"
+  name:
+    - "Israel Shekel"
+  symbol:
+    - "&#8362;"
+
+phone:
+  code:
+    - 972
+  length:
+    - 9
+  mobile_prefix:
+    - 5
+
+postal:
+  description: "7-Digits - NNNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{7}$"
+  charset: number
+  length:
+    - "7"
+  formats:
+    - "NNNNNNN"
+    
+states:
+  D: "HaDarom"
+  HA: "Hefa"
+  JM: "Yerushalayim"
+  M: "HaMerkaz"
+  TA: "Tel-Aviv"
+  Z: "HaTsafon"
+  

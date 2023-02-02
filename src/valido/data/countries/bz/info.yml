@@ -1,0 +1,46 @@
+info:
+  short: "Belize"
+  long: "Belize"
+  alpha2: BZ
+  alpha3: BLZ
+  iso: 84
+  ioc: "BIZ"
+  capital: "Belmopan"
+  tld: "bz"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "BZD"
+  name:
+    - "Belize Dollar"
+  symbol:
+    - "&#66;&#90;&#36;"
+
+phone:
+  code:
+    - 501
+  length:
+    - 7
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BZ: "Belize District"
+  CY: "Cayo District"
+  CZL: "Corozal District"
+  OW: "Orange Walk District"
+  SC: "Stann Creek District"
+  TOL: "Toledo District"
+  

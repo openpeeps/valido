@@ -1,0 +1,59 @@
+info:
+  short: "Somalia"
+  long: "Somalia"
+  alpha2: SO
+  alpha3: SOM
+  iso: 706
+  ioc: "SOM"
+  capital: "Mogadishu"
+  tld: "so"
+
+languages:
+  - som
+
+currency:
+  code:
+    - "SOS"
+  name:
+    - "Somalia Shilling"
+  symbol:
+    - "&#83;"
+
+phone:
+  code:
+    - 252
+  length:
+    - 8
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "SO : AA NNNNN"
+  redenundant_chars: " -"
+  regex: "^[a-zA-Z]{2}[0-9]{5}$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "AA NNNNN"
+    
+states:
+  AW: "Awdal"
+  BK: "Bakool"
+  BN: "Banaadir"
+  BR: "Bari"
+  BY: "Bay"
+  GA: "Galguduud"
+  GE: "Gedo"
+  HI: "Hiiraan"
+  JD: "Jubbada Dhexe"
+  JH: "Jubbada Hoose"
+  MU: "Mudug"
+  NU: "Nugaal"
+  SA: "Sanaag"
+  SD: "Shabeellaha Dhexe"
+  SH: "Shabeellaha Hoose"
+  SO: "Sool"
+  TO: "Togdheer"
+  WO: "Woqooyi Galbeed"
+  

@@ -1,0 +1,47 @@
+info:
+  short: "Kuwait"
+  long: "Kuwait"
+  alpha2: KW
+  alpha3: KWT
+  iso: 414
+  ioc: "KUW"
+  capital: "Kuwait"
+  tld: "kw"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "KWD"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 965
+  length:
+    - 8
+  mobile_prefix:
+    - 5
+    - 6
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AH: "Al Amadi"
+  FA: "Al Farwnyah"
+  HA: "awall"
+  JA: "Al Jahr"
+  KU: "Al imah"
+  MU: "Mubrak al Kabir"
+  

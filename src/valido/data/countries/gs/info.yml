@@ -1,0 +1,46 @@
+info:
+  short: ""
+  long: "South Georgia and the South Sandwich Islands"
+  alpha2: GS
+  alpha3: SGS
+  iso: 239
+  ioc: ""
+  capital: ""
+  tld: "gs"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "GBP"
+  name:
+    - "United Kingdom Pound"
+  symbol:
+    - "&#163;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "GS : SIQQ 1ZZ"
+  redenundant_chars: " -"
+  regex: "^SIQQ1ZZ$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "SIQQ 1ZZ"
+    
+states:
+  : "Bird Island"
+  : "Bristol Island"
+  : "Clerke Rocks"
+  : "Montagu Island"
+  : "Saunders Island"
+  : "South Georgia"
+  : "Southern Thule"
+  : "Traversay Islands"
+  

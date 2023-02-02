@@ -1,0 +1,37 @@
+info:
+  short: ""
+  long: "USSR"
+  alpha2: SU
+  alpha3: USR
+  iso: 
+  ioc: ""
+  capital: "null"
+  tld: "null"
+
+languages:
+  - rus
+
+currency:
+  code:
+    - "RUB"
+  name:
+    - "Russia Ruble"
+  symbol:
+    - "&#1088;&#1091;&#1073;"
+
+phone:
+  code:
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states: {}
+  

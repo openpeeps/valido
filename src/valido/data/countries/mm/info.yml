@@ -1,0 +1,56 @@
+info:
+  short: "Myanmar"
+  long: "Myanmar"
+  alpha2: MM
+  alpha3: MMR
+  iso: 104
+  ioc: "MYA"
+  capital: "Rangoon (Yangon)"
+  tld: "mm"
+
+languages:
+  - mya
+
+currency:
+  code:
+    - "MMK"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 95
+  length:
+    - 8
+    - 9
+    - 10
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  01: "Sagaing"
+  02: "Bago"
+  03: "Magway"
+  04: "Mandalay"
+  05: "Tanintharyi"
+  06: "Yangon"
+  07: "Ayeyarwady"
+  11: "Kachin"
+  12: "Kayah"
+  13: "Kayin"
+  14: "Chin"
+  15: "Mon"
+  16: "Rakhine"
+  17: "Shan"
+  18: "Nay Pyi Taw"
+  

@@ -1,0 +1,61 @@
+info:
+  short: "Sweden"
+  long: "Sweden"
+  alpha2: SE
+  alpha3: SWE
+  iso: 752
+  ioc: "SWE"
+  capital: "Stockholm"
+  tld: "se"
+
+languages:
+  - swe
+
+currency:
+  code:
+    - "SEK"
+  name:
+    - "Sweden Krona"
+  symbol:
+    - "&#107;&#114;"
+
+phone:
+  code:
+    - 46
+  length:
+    - 9
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AB: "Stockholm"
+  AC: "Vasterbottens"
+  BD: "Norrbottens"
+  D: "Sodermanlands"
+  E: "Ostergotlands"
+  F: "Jonkopings"
+  G: "Kronobergs"
+  H: "Kalmar"
+  I: "Gavleborgs"
+  K: "Blekinge"
+  M: "Skane"
+  N: "Hallands"
+  O: "Vastra Gotalands"
+  S: "Varmlands"
+  T: "Orebro"
+  U: "Vastmanlands"
+  W: "Dalarnas"
+  X: "Gotlands"
+  Y: "Vasternorrlands"
+  Z: "Jamtlands"
+  

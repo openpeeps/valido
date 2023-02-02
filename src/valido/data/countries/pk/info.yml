@@ -1,0 +1,50 @@
+info:
+  short: "Pakistan"
+  long: "Pakistan"
+  alpha2: PK
+  alpha3: PAK
+  iso: 586
+  ioc: "PAK"
+  capital: "Islamabad"
+  tld: "pk"
+
+languages:
+  - eng
+  - urd
+
+currency:
+  code:
+    - "PKR"
+  name:
+    - "Pakistan Rupee"
+  symbol:
+    - "&#8360;"
+
+phone:
+  code:
+    - 92
+  length:
+    - 10
+  mobile_prefix:
+    - 3
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  BA: "Balchistn"
+  GB: "Gilgit-Baltistn"
+  IS: "Islmbd"
+  JK: "zd Kashmr"
+  KP: "Khabar Pakhtnkhws"
+  PB: "Punjb"
+  SD: "Sindh"
+  TA: "Federally Administered Tribal Areas"
+  

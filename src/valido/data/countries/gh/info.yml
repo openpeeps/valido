@@ -1,0 +1,52 @@
+info:
+  short: "Ghana"
+  long: "Ghana"
+  alpha2: GH
+  alpha3: GHA
+  iso: 288
+  ioc: "GHA"
+  capital: "Accra"
+  tld: "gh"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "GHC"
+    - "GHS"
+  name:
+    - "Ghana Cedis"
+  symbol:
+    - "&#162;"
+
+phone:
+  code:
+    - 233
+  length:
+    - 9
+  mobile_prefix:
+    - 2
+    - 5
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AA: "Greater Accra"
+  AH: "Ashanti"
+  BA: "Brong-Ahafo"
+  CP: "Central"
+  EP: "Eastern"
+  NP: "Northern"
+  TV: "Volta"
+  UE: "Upper East"
+  UW: "Upper West"
+  WP: "Western"
+  

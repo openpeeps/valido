@@ -1,0 +1,58 @@
+info:
+  short: "Paraguay"
+  long: "Paraguay"
+  alpha2: PY
+  alpha3: PRY
+  iso: 600
+  ioc: "PAR"
+  capital: "Asunci"
+  tld: "py"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "PYG"
+  name:
+    - "Paraguay Guarani"
+  symbol:
+    - "&#71;&#115;"
+
+phone:
+  code:
+    - 595
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  1: "Concepcion"
+  2: "San Pedro"
+  3: "Cordillera"
+  4: "Guaira"
+  5: "Caaguazu"
+  6: "Caazapa"
+  7: "Itapua"
+  8: "Misiones"
+  9: "Paraguari"
+  10: "Alto Parana"
+  11: "Central"
+  12: "Neembucu"
+  13: "Amambay"
+  14: "Canindeyu"
+  15: "Presidente Hayes"
+  16: "Alto Paraguay"
+  ASU: "Asuncion"
+  

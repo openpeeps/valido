@@ -1,0 +1,43 @@
+info:
+  short: "French Polynesia"
+  long: "French Polynesia"
+  alpha2: PF
+  alpha3: PYF
+  iso: 258
+  ioc: ""
+  capital: "Papeete"
+  tld: "pf"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XPF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 689
+  length:
+    - 6
+  mobile_prefix:
+
+postal:
+  description: "PF : 987NN"
+  redenundant_chars: " -"
+  regex: "^987[0-9]{2}$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "987NN"
+    
+states:
+  : "Archipel des Marquises"
+  : "Archipel des Tuamotu"
+  : "Archipel des Tubuai"
+  : "Iles du Vent"
+  : "Iles Sous-le-Vent"
+  

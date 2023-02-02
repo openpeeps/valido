@@ -1,0 +1,41 @@
+info:
+  short: ""
+  long: "Curacao"
+  alpha2: CW
+  alpha3: CUW
+  iso: 
+  ioc: ""
+  capital: "Willemstad"
+  tld: "cw"
+
+languages:
+  - nld
+  - papiamento
+  - eng
+
+currency:
+  code:
+    - "ANG"
+  name:
+    - "Netherlands Antilles Guilder"
+  symbol:
+    - "&#402;"
+
+phone:
+  code:
+    - 599
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  CW: "Curaao"
+  

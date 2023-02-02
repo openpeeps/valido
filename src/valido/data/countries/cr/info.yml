@@ -1,0 +1,51 @@
+info:
+  short: "Costa Rica"
+  long: "Costa Rica"
+  alpha2: CR
+  alpha3: CRI
+  iso: 188
+  ioc: "CRC"
+  capital: "San Jos"
+  tld: "cr"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "CRC"
+  name:
+    - "Costa Rica Colon"
+  symbol:
+    - "&#8353;"
+
+phone:
+  code:
+    - 506
+  length:
+    - 8
+  mobile_prefix:
+    - 5
+    - 6
+    - 7
+    - 8
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  1: "San Jos"
+  2: "Alajuela"
+  3: "Cartago"
+  4: "Heredia"
+  5: "Guanacaste"
+  6: "Puntarenas"
+  7: "Limn"
+  

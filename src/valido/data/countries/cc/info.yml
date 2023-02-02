@@ -1,0 +1,44 @@
+info:
+  short: ""
+  long: "Cocos (Keeling) Islands"
+  alpha2: CC
+  alpha3: CCK
+  iso: 166
+  ioc: ""
+  capital: "West Island"
+  tld: "cc"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "AUD"
+  name:
+    - "Australia Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  DI: "Direction Island"
+  HM: "Home Island"
+  HR: "Horsburgh Island"
+  NK: "North Keeling Island"
+  SI: "South Island"
+  WI: "West Island"
+  

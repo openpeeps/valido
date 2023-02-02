@@ -1,0 +1,54 @@
+info:
+  short: "Lebanon"
+  long: "Lebanon"
+  alpha2: LB
+  alpha3: LBN
+  iso: 422
+  ioc: "LIB"
+  capital: "Beirut"
+  tld: "lb"
+
+languages:
+  - ara
+  - hye
+
+currency:
+  code:
+    - "LBP"
+  name:
+    - "Lebanon Pound"
+  symbol:
+    - "&#163;"
+
+phone:
+  code:
+    - 961
+  length:
+    - 7
+    - 8
+  mobile_prefix:
+    - 3
+    - 7
+
+postal:
+  description: "LB : NNNNN, NNNN NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}(?:[0-9]{4})?$"
+  charset: number
+  length:
+    - "5"
+    - "9"
+  formats:
+    - "NNNN NNNN"
+    - "NNNNN"
+    
+states:
+  AK: "Aakkr"
+  AS: "Liban-Nord"
+  BA: "Beyrouth"
+  BH: "Baalbelk-Hermel"
+  BI: "Bqaa"
+  JA: "Liban-Sud"
+  JL: "Mont-Liban"
+  NA: "Nabaty"
+  

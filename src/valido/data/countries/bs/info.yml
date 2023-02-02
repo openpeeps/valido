@@ -1,0 +1,74 @@
+info:
+  short: "Bahamas"
+  long: "Bahamas"
+  alpha2: BS
+  alpha3: BHS
+  iso: 44
+  ioc: "BAH"
+  capital: "Nassau"
+  tld: "bs"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "BSD"
+  name:
+    - "Bahamas Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 242
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "Acklins Island"
+  02: "Bimini"
+  03: "Cat Island"
+  04: "Exuma"
+  05: "Freeport"
+  06: "Fresh Creek"
+  07: "Governor's Harbour"
+  08: "Green Turtle Cay"
+  09: "Harbour Island"
+  10: "High Rock"
+  11: "Inagua"
+  12: "Kemps Bay"
+  13: "Long Island"
+  14: "Marsh Harbour"
+  15: "Mayaguana"
+  16: "New Providence"
+  17: "Nichollstown and Berry Islands"
+  18: "Ragged Island"
+  19: "Rock Sound"
+  20: "San Salvador and Rum Cay"
+  21: "Sandy Point"
+  22: "Berry Islands"
+  23: "Black Point"
+  24: "Central Abaco"
+  28: "Crooked Island and Long Cay"
+  29: "East Grand Bahama"
+  33: "North Eleuthera"
+  35: "South Abaco"
+  36: "South Andros"
+  37: "South Eleuthera"
+  39: "West Grand Bahama"
+  40: "Moores Island"
+  41: "North Andros"
+  42: "North Abaco"
+  

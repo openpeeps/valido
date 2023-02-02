@@ -1,0 +1,66 @@
+info:
+  short: "Seychelles"
+  long: "Seychelles"
+  alpha2: SC
+  alpha3: SYC
+  iso: 690
+  ioc: "SEY"
+  capital: "Victoria"
+  tld: "sc"
+
+languages:
+  - eng
+  - fra
+
+currency:
+  code:
+    - "SCR"
+  name:
+    - "Seychelles Rupee"
+  symbol:
+    - "&#8360;"
+
+phone:
+  code:
+    - 248
+  length:
+    - 7
+  mobile_prefix:
+    - 2
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "Anse aux Pins"
+  02: "Anse Boileau"
+  03: "Anse Etoile"
+  04: "Anu Cap"
+  05: "Anse Royale"
+  06: "Baie Lazare"
+  07: "Baie Sainte Anne"
+  08: "Beau Vallon"
+  09: "Bel Air"
+  10: "Bel Ombre"
+  11: "Cascade"
+  12: "Glacis"
+  13: "Grand'Anse Mahe"
+  14: "Grand'Anse Praslin"
+  15: "La Digue"
+  16: "La Riviere Anglaise"
+  17: "Mont Buxton"
+  18: "Mont Fleuri"
+  19: "Plaisance"
+  20: "Pointe La Rue"
+  21: "Port Glaud"
+  22: "Saint Louis"
+  23: "Takamaka"
+  24: "Les Mamelles"
+  25: "Roche Caiman"
+  

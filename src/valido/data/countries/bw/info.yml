@@ -1,0 +1,55 @@
+info:
+  short: "Botswana"
+  long: "Botswana"
+  alpha2: BW
+  alpha3: BWA
+  iso: 72
+  ioc: "BOT"
+  capital: "Gaborone"
+  tld: "bw"
+
+languages:
+  - eng
+  - tsn
+
+currency:
+  code:
+    - "BWP"
+  name:
+    - "Botswana Pula"
+  symbol:
+    - "&#80;"
+
+phone:
+  code:
+    - 267
+  length:
+    - 8
+  mobile_prefix:
+    - 71
+    - 72
+    - 73
+    - 74
+    - 75
+    - 76
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  CE: "Central"
+  GH: "Ghanzi"
+  KG: "Kgalagadi"
+  KL: "Kgatleng"
+  KW: "Kweneng"
+  NE: "North-East"
+  NW: "North West"
+  SE: "South East"
+  SO: "Southern"
+  

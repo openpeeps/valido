@@ -1,0 +1,125 @@
+info:
+  short: "Russian Federation"
+  long: "Russian Federation"
+  alpha2: RU
+  alpha3: RUS
+  iso: 643
+  ioc: "RUS"
+  capital: "Moscow"
+  tld: "ru"
+
+languages:
+  - rus
+
+currency:
+  code:
+    - "RUB"
+  name:
+    - "Russia Ruble"
+  symbol:
+    - "&#1088;&#1091;&#1073;"
+
+phone:
+  code:
+    - 7
+  length:
+    - 10
+  mobile_prefix:
+    - 9
+    - 495
+
+postal:
+  description: "RU : NNN[-NNN]"
+  redenundant_chars: " -"
+  regex: "^[0-9]{3}([0-9]{3})?$"
+  charset: number
+  length:
+    - "3"
+    - "7"
+  formats:
+    - "NNN"
+    - "NNN[-NNN]"
+    
+states:
+  AD: "Adygeya"
+  AL: "Altay (Gorno-Altaysk) "
+  ALT: "Altayskiy"
+  AMU: "Amurskaya"
+  ARK: "Arkhangel'skaya"
+  AST: "Astrakhanskaya"
+  BA: "Bashkortostan"
+  BEL: "Belgorodskaya"
+  BRY: "Bryanskaya"
+  BU: "Buryatiya"
+  CE: "Chechenskaya"
+  CHE: "Chelyabinskaya"
+  CHU: "Chukotskiy"
+  CU: "Chuvashskaya"
+  DA: "Dagestan"
+  IN: "Ingushetiya"
+  IRK: "Irkutskaya"
+  IVA: "Ivanovskaya"
+  KAM: "Kamchatskaya"
+  KB: "Kabardino-Balkariya"
+  KC: "Karachayevo-Cherkesiya"
+  KDA: "Krasnodarskiy"
+  KGN: "Kurganskaya"
+  KHA: "Khabarovskiy"
+  KHM: "Khanty-Mansiyskiy"
+  KIR: "Kirovskaya"
+  KK: "Khakasiya"
+  KL: "Kalmykiya"
+  KLU: "Kaluzhskaya"
+  KO: "Komi"
+  KOS: "Kostromskaya"
+  KR: "Kareliya"
+  KRS: "Kurskaya"
+  KYA: "Krasnoyarskiy"
+  LEN: "Leningradskaya"
+  LIP: "Lipetskaya"
+  MAG: "Magadanskaya"
+  ME: "Mariy-El"
+  MO: "Mordoviya"
+  MOS: "Moskovskaya"
+  MOW: "Moskva"
+  MU: "Murmanskaya"
+  NEN: "Nenetskiy"
+  NGR: "Novgorodskaya"
+  NIZ: "Nizhegorodskaya"
+  NVS: "Novosibirskaya"
+  OMS: "Omskaya"
+  ORE: "Orenburgskaya"
+  ORL: "Orlovskaya"
+  PER: "Permskaya"
+  PER: "Permskiy"
+  PRI: "Primorskiy"
+  PSK: "Pskovskaya"
+  ROS: "Rostovskaya"
+  RYA: "Ryazanskaya"
+  SA: "Sakha (Yakutiya) "
+  SAK: "Sakhalinskaya"
+  SAM: "Samarskaya"
+  SAR: "Saratovskaya"
+  SE: "Severnaya Osetiya-Alaniya"
+  SMO: "Smolenskaya"
+  SPE: "Sankt-Peterburg"
+  STA: "Stavropol'skiy"
+  SVE: "Sverdlovskaya"
+  TA: "Tatarstan"
+  TAM: "Tambovskaya"
+  TOM: "Tomskaya"
+  TUL: "Tul'skaya"
+  TVE: "Tverskaya"
+  TY: "Tyva"
+  TYU: "Tyumenskaya"
+  UD: "Udmurtskaya"
+  ULY: "Ul'yanovskaya"
+  VGG: "Volgogradskaya"
+  VLA: "Vladimirskaya"
+  VLG: "Vologodskaya"
+  VOR: "Voronezhskaya"
+  YAN: "Yamalo-Nenetskiy"
+  YAR: "Yaroslavskaya"
+  YEV: "Yevreyskaya"
+  ZAB: "Zabaykal'skiy"
+  

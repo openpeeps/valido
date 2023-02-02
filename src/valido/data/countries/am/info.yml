@@ -1,0 +1,54 @@
+info:
+  short: "Armenia"
+  long: "Armenia"
+  alpha2: AM
+  alpha3: ARM
+  iso: 51
+  ioc: "ARM"
+  capital: "Yerevan"
+  tld: "am"
+
+languages:
+  - hye
+  - rus
+
+currency:
+  code:
+    - "AMD"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 374
+  length:
+    - 8
+  mobile_prefix:
+    - 4
+    - 5
+    - 7
+    - 9
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  AG: "Aragatsotn"
+  AR: "Ararat"
+  AV: "Armavir"
+  ER: "Yerevan"
+  GR: "Gegharkunik"
+  KT: "Kotayk"
+  LO: "Lori"
+  SH: "Shirak"
+  SU: "Syunik"
+  TV: "Tavush"
+  VD: "Vayots Dzor"
+  

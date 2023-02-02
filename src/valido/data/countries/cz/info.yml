@@ -1,0 +1,56 @@
+info:
+  short: "Czech Republic"
+  long: "Czech Republic"
+  alpha2: CZ
+  alpha3: CZE
+  iso: 203
+  ioc: "CZE"
+  capital: "Praha"
+  tld: "cz"
+
+languages:
+  - ces
+
+currency:
+  code:
+    - "CZK"
+  name:
+    - "Czech Republic Koruna"
+  symbol:
+    - "&#75;&#269;"
+
+phone:
+  code:
+    - 420
+  length:
+    - 9
+  mobile_prefix:
+    - 6
+    - 7
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  JC: "Jihoesk kraj"
+  JM: "Jihomoravsk kraj"
+  KA: "Karlovarsk kraj"
+  KR: "Krlovhradeck kraj"
+  LI: "Libereck kraj"
+  MO: "Moravskoslezsk kraj"
+  OL: "Olomouck kraj"
+  PA: "Pardubick kraj"
+  PL: "Plzesk kraj"
+  PR: "Hlavn msto Praha"
+  ST: "Stedoesk kraj"
+  US: "steck kraj"
+  VY: "Vysoina"
+  ZL: "Zlnsk kraj"
+  

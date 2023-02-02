@@ -1,0 +1,63 @@
+info:
+  short: "Mongolia"
+  long: "Mongolia"
+  alpha2: MN
+  alpha3: MNG
+  iso: 496
+  ioc: "MGL"
+  capital: "Ulan Bator"
+  tld: "mn"
+
+languages:
+  - mon
+
+currency:
+  code:
+    - "MNT"
+  name:
+    - "Mongolia Tughrik"
+  symbol:
+    - "&#8366;"
+
+phone:
+  code:
+    - 976
+  length:
+    - 8
+  mobile_prefix:
+    - 5
+    - 8
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  1: "Ulaanbaatar"
+  037: "Darhan"
+  041: "Hovsgol"
+  043: "Hovd"
+  046: "Uvs"
+  047: "Tov"
+  049: "Selenge"
+  051: "Suhbaatar"
+  053: "Omnogovi"
+  055: "Ovorhangay"
+  059: "Dundgovi"
+  061: "Dornod"
+  063: "Dornogovi"
+  064: "Govi-Sumber"
+  065: "Govi-Altay"
+  065: "Dzavhan"
+  067: "Bulgan"
+  069: "Bayanhongor"
+  071: "Bayan-Olgiy"
+  073: "Arhangay"
+  

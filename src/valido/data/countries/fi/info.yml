@@ -1,0 +1,50 @@
+info:
+  short: "Finland"
+  long: "Finland"
+  alpha2: FI
+  alpha3: FIN
+  iso: 246
+  ioc: "FIN"
+  capital: "Helsinki [Helsingfors]"
+  tld: "fi"
+
+languages:
+  - fin
+  - swe
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 358
+  length:
+    - 9
+    - 10
+  mobile_prefix:
+    - 4
+    - 5
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AL: "Ahvenanmaan lni"
+  ES: "Etel-Suomen lni"
+  IS: "It-Suomen lni"
+  LL: "Lapin lni"
+  LS: "Lnsi-Suomen lni"
+  OL: "Oulun lni"
+  

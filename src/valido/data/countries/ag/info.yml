@@ -1,0 +1,72 @@
+info:
+  short: "Antigua and Barbuda"
+  long: "Antigua and Barbuda"
+  alpha2: AG
+  alpha3: ATG
+  iso: 28
+  ioc: "ANT"
+  capital: "Saint John's"
+  tld: "ag"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "XCD"
+  name:
+    - "East Caribbean Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 2687
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "Antigua Island"
+  02: "Barbuda Island"
+  03: "Redonda Island"
+  04: "Bird Island"
+  05: "Bishop Island"
+  06: "Blake Island"
+  09: "Crump Island"
+  10: "Dulcina Island"
+  11: "Exchange Island"
+  12: "Five Islands"
+  13: "Great Bird Island"
+  14: "Green Island"
+  15: "Guiana Island"
+  16: "Hells Gate Island"
+  17: "Hawes Island"
+  18: "Henry Island"
+  19: "Johnson Island"
+  20: "Kid Island"
+  22: "Lobster Island"
+  24: "Maiden Island"
+  25: "Moor Island"
+  26: "Nanny Island"
+  27: "Pelican Island"
+  28: "Prickly Pear Island"
+  29: "Rabbit Island"
+  31: "Red Head Island"
+  32: "Sandy Island"
+  33: "Smith Island"
+  34: "The Sisters"
+  35: "Vernon Island"
+  36: "Wicked Will Island"
+  37: "York Island"
+  

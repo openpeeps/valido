@@ -1,0 +1,72 @@
+info:
+  short: "Iran, Islamic Republic Of"
+  long: "Iran, Islamic Republic of"
+  alpha2: IR
+  alpha3: IRN
+  iso: 364
+  ioc: "IRI"
+  capital: "Tehran"
+  tld: "ir"
+
+languages:
+  - fas
+
+currency:
+  code:
+    - "IRR"
+  name:
+    - "Iran Rial"
+  symbol:
+    - "&#65020;"
+
+phone:
+  code:
+    - 98
+  length:
+    - 10
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "10-Digits - NNNNNNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{10}$"
+  charset: number
+  length:
+    - "10"
+  formats:
+    - "NNNNNNNNNN"
+    
+states:
+  01: "zarbyjn-e Sharq"
+  02: "zarbyjn-e Gharb"
+  03: "Ardabl"
+  04: "Efahn"
+  05: "lm"
+  06: "Bshehr"
+  07: "Tehrn"
+  08: "Chahr Mal va Bakhtr"
+  10: "Khzestn"
+  11: "Zanjn"
+  12: "Semnn"
+  13: "Sstn va Balchestn"
+  14: "Frs"
+  15: "Kermn"
+  16: "Kordestn"
+  17: "Kermnshh"
+  18: "Kohglyeh va Bowyer Amad"
+  19: "Gln"
+  20: "Lorestn"
+  21: "Mzandarn"
+  22: "Markazi"
+  23: "Hormozgn"
+  24: "Hamadn"
+  25: "Yazd"
+  26: "Qom"
+  27: "Golestn"
+  28: "Qazvn"
+  29: "Khorsn-e Jonb"
+  30: "Khorsn-e Raav"
+  32: "Alborz"
+  61: "Khorsn-e Shoml"
+  

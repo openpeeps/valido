@@ -1,0 +1,69 @@
+info:
+  short: "Peru"
+  long: "Peru"
+  alpha2: PE
+  alpha3: PER
+  iso: 604
+  ioc: "PER"
+  capital: "Lima"
+  tld: "pe"
+
+languages:
+  - aym
+  - que
+  - spa
+
+currency:
+  code:
+    - "PEN"
+  name:
+    - "Peru Nuevo Sol"
+  symbol:
+    - "&#83;&#47;&#46;"
+
+phone:
+  code:
+    - 51
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AMA: "Amazonas"
+  ANC: "Ancash"
+  APU: "Apurimac"
+  ARE: "Arequipa"
+  AYA: "Ayacucho"
+  CAJ: "Cajamarca"
+  CAL: "Callao"
+  CUS: "Cusco"
+  HUC: "Huanuco"
+  HUV: "Huancavelica"
+  ICA: "Ica"
+  JUN: "Junin"
+  LAL: "La Libertad"
+  LAM: "Lambayeque"
+  LIM: "Lima"
+  LMA: "Municipalidad Metropolitana de Lima"
+  LOR: "Loreto"
+  MDD: "Madre de Dios"
+  MOQ: "Moquegua"
+  PAS: "Pasco"
+  PIU: "Piura"
+  PUN: "Puno"
+  SAM: "San Martin"
+  TAC: "Tacna"
+  TUM: "Tumbes"
+  UCA: "Ucayali"
+  

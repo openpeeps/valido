@@ -1,0 +1,75 @@
+info:
+  short: "Colombia"
+  long: "Colombia"
+  alpha2: CO
+  alpha3: COL
+  iso: 170
+  ioc: "COL"
+  capital: "Santaf"
+  tld: "co"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "COP"
+    - "COU"
+  name:
+    - "Colombia Peso"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 57
+  length:
+    - 10
+  mobile_prefix:
+    - 3
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  AMA: "Amazonas"
+  ANT: "Antioquia"
+  ARA: "Arauca"
+  ATL: "Atlntico"
+  BOL: "Bolvar"
+  BOY: "Boyac"
+  CAL: "Caldas"
+  CAQ: "Caquet"
+  CAS: "Casanare"
+  CAU: "Cauca"
+  CES: "Cesar"
+  CHO: "Choc"
+  COR: "Crdoba"
+  CUN: "Cundinamarca"
+  DC: "Bogot D.C."
+  GUA: "Guaina"
+  GUV: "Guaviare"
+  HUI: "Huila"
+  LAG: "La Guajira"
+  MAG: "Magdalena"
+  MET: "Meta"
+  NAR: "Nario"
+  NSA: "Norte de Santander"
+  PUT: "Putumayo"
+  QUI: "Quindo"
+  RIS: "Risaralda"
+  SAN: "Santander"
+  SAP: "Archipilago de San Andrs"
+  SUC: "Sucre"
+  TOL: "Tolima"
+  VAC: "Valle del Cauca"
+  VAU: "Vaups"
+  VID: "Vichada"
+  

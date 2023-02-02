@@ -1,0 +1,60 @@
+info:
+  short: "Kazakhstan"
+  long: "Kazakhstan"
+  alpha2: KZ
+  alpha3: KAZ
+  iso: 398
+  ioc: "KAZ"
+  capital: "Astana"
+  tld: "kz"
+
+languages:
+  - kaz
+  - rus
+
+currency:
+  code:
+    - "KZT"
+  name:
+    - "Kazakhstan Tenge"
+  symbol:
+    - "&#1083;&#1074;"
+
+phone:
+  code:
+    - 7
+  length:
+    - 10
+  mobile_prefix:
+    - 70
+    - 74
+    - 77
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  : "Bayqongyr"
+  AKM: "Aqmola"
+  AKT: "Aqtobe"
+  ALA: "Almaty"
+  AST: "Astana"
+  ATY: "Atyrau"
+  KAR: "Qaraghandy"
+  KUS: "Qostanay"
+  KZY: "Qyzylorda"
+  MAN: "Mangghystau"
+  PAV: "Pavlodar"
+  SEV: "Soltustik Qazaqstan"
+  VOS: "Shyghys Qazaqstan"
+  YUZ: "Ongtustik Qazaqstan"
+  ZAP: "Batys Qazaqstan"
+  ZHA: "Zhambyl"
+  

@@ -1,0 +1,39 @@
+info:
+  short: ""
+  long: "Saint-Martin (French part)"
+  alpha2: MF
+  alpha3: MAF
+  iso: 663
+  ioc: ""
+  capital: "Philipsburg"
+  tld: "mf"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "MF : 97150"
+  redenundant_chars: " -"
+  regex: "^97150$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "97150"
+    
+states:
+  : "Saint Martin"
+  

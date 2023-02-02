@@ -1,0 +1,55 @@
+info:
+  short: "Sierra Leone"
+  long: "Sierra Leone"
+  alpha2: SL
+  alpha3: SLE
+  iso: 694
+  ioc: "SLE"
+  capital: "Freetown"
+  tld: "sl"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "SLL"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 232
+  length:
+    - 8
+  mobile_prefix:
+    - 21
+    - 25
+    - 30
+    - 33
+    - 34
+    - 40
+    - 44
+    - 50
+    - 55
+    - 76
+    - 77
+    - 78
+    - 79
+    - 88
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  E: "Eastern"
+  N: "Northern"
+  S: "Southern"
+  W: "Western"
+  

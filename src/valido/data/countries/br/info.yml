@@ -1,0 +1,119 @@
+info:
+  short: "Brazil"
+  long: "Brazil"
+  alpha2: BR
+  alpha3: BRA
+  iso: 76
+  ioc: "BRA"
+  capital: "Braslia"
+  tld: "br"
+
+languages:
+  - por
+
+currency:
+  code:
+    - "BRL"
+  name:
+    - "Brazil Real"
+  symbol:
+    - "&#82;&#36;"
+
+phone:
+  code:
+    - 55
+  length:
+    - 10
+    - 11
+  mobile_prefix:
+    - 31
+    - 32
+    - 34
+    - 38
+    - 41
+    - 43
+    - 44
+    - 45
+    - 47
+    - 48
+    - 51
+    - 53
+    - 54
+    - 55
+    - 61
+    - 62
+    - 65
+    - 67
+    - 68
+    - 69
+    - 71
+    - 73
+    - 74
+    - 75
+    - 77
+    - 79
+    - 81
+    - 82
+    - 83
+    - 84
+    - 85
+    - 86
+    - 91
+    - 92
+    - 95
+    - 96
+    - 98
+    - 119
+    - 129
+    - 139
+    - 149
+    - 159
+    - 169
+    - 179
+    - 189
+    - 199
+    - 219
+    - 229
+    - 249
+    - 279
+    - 289
+
+postal:
+  description: "8-Digits - NNNNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{8}$"
+  charset: number
+  length:
+    - "8"
+  formats:
+    - "NNNNNNNN"
+    
+states:
+  AC: "Acre"
+  AL: "Alagoas"
+  AM: "Amazonas"
+  AP: "Amap"
+  BA: "Bahia"
+  CE: "Cear"
+  DF: "Distrito Federal"
+  ES: "Esprito Santo"
+  GO: "Gois"
+  MA: "Maranho"
+  MG: "Minas Gerais"
+  MS: "Mato Grosso do Sul"
+  MT: "Mato Grosso"
+  PA: "Para"
+  PB: "Paraiba"
+  PE: "Pernambuco"
+  PI: "Piau"
+  PR: "Paran"
+  RJ: "Rio de Janeiro"
+  RN: "Rio Grande do Norte"
+  RO: "Rondnia"
+  RR: "Roraima"
+  RS: "Rio Grande do Sul"
+  SC: "Santa Catarina"
+  SE: "Sergipe"
+  SP: "Sao Paulo"
+  TO: "Tocantins"
+  

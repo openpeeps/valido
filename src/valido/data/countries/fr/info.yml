@@ -1,0 +1,77 @@
+info:
+  short: "France"
+  long: "France"
+  alpha2: FR
+  alpha3: FRA
+  iso: 250
+  ioc: "FRA"
+  capital: "Paris"
+  tld: "fr"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 33
+  length:
+    - 9
+  mobile_prefix:
+    - 6
+    - 7
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  A: "Alsace"
+  B: "Aquitaine"
+  BL: "Saint Barthlemy"
+  C: "Auvergne"
+  CP: "Clipperton"
+  D: "Bourgogne"
+  E: "Bretagne"
+  F: "Centre"
+  G: "Champagne-Ardenne"
+  GF: "Guyane"
+  GP: "Guadeloupe"
+  H: "Corse"
+  I: "Franche-Comt"
+  J: "le-de-France"
+  K: "Languedoc-Roussillon"
+  L: "Limousin"
+  M: "Lorraine"
+  MF: "Saint Martin"
+  MQ: "Martinique"
+  N: "Midi-Pyrnes"
+  NC: "Novelle-Caldonie"
+  O: "Nord-Pas-de-Calais"
+  P: "Basse-Normandie"
+  PF: "Polynsie"
+  PM: "Saint-Pierre-et-Miquelon"
+  Q: "Haute-Normandie"
+  R: "Pays de la Loire"
+  RE: "Runion"
+  S: "Picardie"
+  T: "Poitou-Charentes"
+  TF: "Terres Australes Franaises"
+  U: "Provence-Alpes-Cote d'Azur"
+  V: "Rhone-Alpes"
+  WF: "Wallis-et-Futuna"
+  YT: "Mayotte"
+  

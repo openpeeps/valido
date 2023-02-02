@@ -1,0 +1,46 @@
+info:
+  short: "Bahrain"
+  long: "Bahrain"
+  alpha2: BH
+  alpha3: BHR
+  iso: 48
+  ioc: "BRN"
+  capital: "al-Manama"
+  tld: "bh"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "BHD"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 973
+  length:
+    - 8
+  mobile_prefix:
+    - 3
+
+postal:
+  description: "BH : NNN, NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{3,4}$"
+  charset: number
+  length:
+    - "3"
+    - "4"
+  formats:
+    - "NNN"
+    - "NNNN"
+    
+states:
+  13: "Al Manmah"
+  14: "Al Janbyah"
+  15: "Al Muarraq"
+  16: "Al Wus"
+  17: "Ash Shamlyah"
+  

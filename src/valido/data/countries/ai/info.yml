@@ -1,0 +1,55 @@
+info:
+  short: ""
+  long: "French Afar and Issas"
+  alpha2: AI
+  alpha3: AFI
+  iso: 
+  ioc: ""
+  capital: "Djibouti"
+  tld: ""
+
+languages: []
+
+currency:
+  code:
+  name:
+  symbol:
+
+phone:
+  code:
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "Anguilla"
+  02: "Anguillita Island"
+  03: "Blowing Rock"
+  04: "Cove Cay"
+  05: "Crocus Cay"
+  06: "Deadman's Cay"
+  07: "Dog Island"
+  08: "East Cay"
+  09: "Little Island"
+  10: "Little Scrub Island"
+  11: "Mid Cay"
+  12: "North Cay"
+  13: "Prickly Pear Cays"
+  14: "Rabbit Island"
+  15: "Sandy Island/Sand Island"
+  16: "Scilly Cay"
+  17: "Scrub Island"
+  18: "Seal Island"
+  19: "Sombrero/Hat Island"
+  20: "South Cay"
+  21: "South Wager Island"
+  22: "West Cay"
+  

@@ -1,0 +1,46 @@
+info:
+  short: "Belgium"
+  long: "Belgium"
+  alpha2: BE
+  alpha3: BEL
+  iso: 56
+  ioc: "BEL"
+  capital: "Bruxelles [Brussel]"
+  tld: "be"
+
+languages:
+  - deu
+  - fra
+  - nld
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 32
+  length:
+    - 9
+  mobile_prefix:
+    - 4
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  BRU: "Bruxelles-Capitale"
+  VLG: "Rgion Flamande"
+  WAL: "Rgion Walloni"
+  

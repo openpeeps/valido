@@ -1,0 +1,50 @@
+info:
+  short: "Kyrgyzstan"
+  long: "Kyrgyzstan"
+  alpha2: KG
+  alpha3: KGZ
+  iso: 417
+  ioc: "KGZ"
+  capital: "Bishkek"
+  tld: "kg"
+
+languages:
+  - rus
+
+currency:
+  code:
+    - "KGS"
+  name:
+    - "Kyrgyzstan Som"
+  symbol:
+    - "&#1083;&#1074;"
+
+phone:
+  code:
+    - 996
+  length:
+    - 9
+  mobile_prefix:
+    - 5
+    - 7
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  B: "Batken Oblasty"
+  C: "Chuy Oblasty (Bishkek) "
+  GB: "Bishkek Shaary"
+  J: "Jalal-Abad Oblasty"
+  N: "Naryn Oblasty"
+  O: "Osh Oblasty"
+  T: "Talas Oblasty"
+  Y: "Ysyk-Kol Oblasty (Karakol) "
+  

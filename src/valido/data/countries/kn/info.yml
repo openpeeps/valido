@@ -1,0 +1,42 @@
+info:
+  short: "Saint Kitts And Nevis"
+  long: "Saint Kitts and Nevis"
+  alpha2: KN
+  alpha3: KNA
+  iso: 659
+  ioc: "SKN"
+  capital: "Basseterre"
+  tld: "kn"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "XCD"
+  name:
+    - "East Caribbean Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 869
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  K: "Saint Kitts"
+  N: "Nevis"
+  

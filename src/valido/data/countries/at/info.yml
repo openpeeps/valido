@@ -1,0 +1,54 @@
+info:
+  short: "Austria"
+  long: "Austria"
+  alpha2: AT
+  alpha3: AUT
+  iso: 40
+  ioc: "AUT"
+  capital: "Wien"
+  tld: "at"
+
+languages:
+  - deu
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 43
+  length:
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  1: "Burgenland"
+  2: "Krnten"
+  3: "Niedersterreich"
+  4: "Obersterreich"
+  5: "Salzburg"
+  6: "Steiermark"
+  7: "Tirol"
+  8: "Vorarlberg"
+  9: "Wien"
+  

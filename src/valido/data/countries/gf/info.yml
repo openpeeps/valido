@@ -1,0 +1,42 @@
+info:
+  short: "French Guiana"
+  long: "French Guiana"
+  alpha2: GF
+  alpha3: GUF
+  iso: 254
+  ioc: ""
+  capital: "Cayenne"
+  tld: "gf"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 594
+  length:
+    - 9
+  mobile_prefix:
+    - 694
+
+postal:
+  description: "GF : 973NN"
+  redenundant_chars: " -"
+  regex: "^973[0-9]{2}$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "973NN"
+    
+states:
+  : "French Guiana"
+  

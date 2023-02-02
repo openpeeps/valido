@@ -1,0 +1,50 @@
+info:
+  short: "Singapore"
+  long: "Singapore"
+  alpha2: SG
+  alpha3: SGP
+  iso: 702
+  ioc: "SIN"
+  capital: "Singapore"
+  tld: "sg"
+
+languages:
+  - eng
+  - msa
+  - tam
+  - zho
+
+currency:
+  code:
+    - "SGD"
+  name:
+    - "Singapore Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 65
+  length:
+    - 8
+  mobile_prefix:
+    - 8
+    - 9
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  01: "Central Singapore"
+  02: "North East"
+  03: "North West"
+  04: "South East"
+  05: "South West"
+  

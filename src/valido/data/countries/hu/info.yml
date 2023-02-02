@@ -1,0 +1,87 @@
+info:
+  short: "Hungary"
+  long: "Hungary"
+  alpha2: HU
+  alpha3: HUN
+  iso: 348
+  ioc: "HUN"
+  capital: "Budapest"
+  tld: "hu"
+
+languages:
+  - hun
+
+currency:
+  code:
+    - "HUF"
+  name:
+    - "Hungary Forint"
+  symbol:
+    - "&#70;&#116;"
+
+phone:
+  code:
+    - 36
+  length:
+    - 9
+  mobile_prefix:
+    - 20
+    - 30
+    - 31
+    - 70
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  BA: "Baranya"
+  BC: "Bkscsaba"
+  BE: "Bks"
+  BK: "Bcs-Kiskun"
+  BU: "Budapest"
+  BZ: "Borsod-Abauj-Zemplen"
+  CS: "Csongrd"
+  DE: "Debrecen"
+  DU: "Dunajvros"
+  EG: "Eger"
+  ER: "rd"
+  FE: "Fejr"
+  GS: "Gyr-Moson-Sopron"
+  GY: "Gyr"
+  HB: "Hajd-Bihar"
+  HE: "Heves"
+  HV: "Hdmezvsrhely"
+  KE: "Komrom-Esztergom"
+  KM: "Kecskemt"
+  KV: "Kaposvr"
+  MI: "Miskolc"
+  N: "Jsz-Nagykun-Szolnok"
+  NK: "Nagykanizsa"
+  NO: "Ngrd"
+  NY: "Nyregyhza"
+  PE: "Pest"
+  PS: "Pcs"
+  SD: "Szeged"
+  SF: "Szkesfehrvr"
+  SH: "Szombathely"
+  SK: "Szolnok"
+  SN: "Sopron"
+  SO: "Somogy"
+  SS: "Szekszrd"
+  ST: "Salgtarjn"
+  SZ: "Szabolcs--Bereg"
+  TB: "Tatabnya"
+  TO: "Tolna"
+  VA: "Vas"
+  VE: "Veszprm"
+  VM: "Veszprm (City) "
+  ZA: "Zala"
+  ZE: "Zalaegerszeg"
+  

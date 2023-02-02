@@ -1,0 +1,52 @@
+info:
+  short: "Oman"
+  long: "Oman"
+  alpha2: OM
+  alpha3: OMN
+  iso: 512
+  ioc: "OMA"
+  capital: "Masqat"
+  tld: "om"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "OMR"
+  name:
+    - "Oman Rial"
+  symbol:
+    - "&#65020;"
+
+phone:
+  code:
+    - 968
+  length:
+    - 8
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "3-Digits - NNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{3}$"
+  charset: number
+  length:
+    - "3"
+  formats:
+    - "NNN"
+    
+states:
+  BJ: "Shamal al Batinah"
+  BS: "Janub al Batinah"
+  BU: "Al Buraymi"
+  DA: "Ad Dakhiliyah"
+  MA: "Masqat"
+  MU: "Musandam"
+  SJ: "Shamal ash Sharqiyah"
+  SS: "Janub ash Sharqiyah"
+  WU: "Al Wusta"
+  ZA: "Az Zahirah"
+  ZU: "Zufar"
+  

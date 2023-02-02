@@ -1,0 +1,38 @@
+info:
+  short: ""
+  long: "Bonaire, Saint Eustatius And Saba"
+  alpha2: BQ
+  alpha3: BES
+  iso: 
+  ioc: ""
+  capital: "Oranjestad"
+  tld: "bq"
+
+languages:
+  - nld
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 599
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states: {}
+  

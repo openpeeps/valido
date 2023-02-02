@@ -1,0 +1,47 @@
+info:
+  short: "Grenada"
+  long: "Grenada"
+  alpha2: GD
+  alpha3: GRD
+  iso: 308
+  ioc: "GRN"
+  capital: "Saint George's"
+  tld: "gd"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "XCD"
+  name:
+    - "East Caribbean Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 473
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "Saint Andrew"
+  02: "Saint David"
+  03: "Saint George"
+  04: "Saint John"
+  05: "Saint Mark"
+  06: "Saint Patrick"
+  10: "Southern Grenadine Islands"
+  

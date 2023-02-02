@@ -1,0 +1,66 @@
+info:
+  short: "Ecuador"
+  long: "Ecuador"
+  alpha2: EC
+  alpha3: ECU
+  iso: 218
+  ioc: "ECU"
+  capital: "Quito"
+  tld: "ec"
+
+languages:
+  - que
+  - spa
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 593
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  A: "Azuay"
+  B: "Bolvar"
+  C: "Carchi"
+  D: "Orellana"
+  E: "Esmeraldas"
+  F: "Caar"
+  G: "Guayas"
+  H: "Chimborazo"
+  I: "Imbabura"
+  L: "Loja"
+  M: "Manab"
+  N: "Napo"
+  O: "El Oro"
+  P: "Pichincha"
+  R: "Los Ros"
+  S: "Morona-Santiago"
+  SD: "Santo Domingo de los Tschilas"
+  SE: "Santa Elena"
+  T: "Tungurahua"
+  U: "Sucumbos"
+  W: "Galpagos"
+  X: "Cotopaxi"
+  Y: "Pastaza"
+  Z: "Zamora-Chinchipe"
+  

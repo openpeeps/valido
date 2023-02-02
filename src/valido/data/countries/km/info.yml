@@ -1,0 +1,43 @@
+info:
+  short: "Comoros"
+  long: "Comoros"
+  alpha2: KM
+  alpha3: COM
+  iso: 174
+  ioc: "COM"
+  capital: "Moroni"
+  tld: "km"
+
+languages:
+  - ara
+  - fra
+
+currency:
+  code:
+    - "KMF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 269
+  length:
+    - 7
+  mobile_prefix:
+    - 3
+    - 76
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  A: "Andjoun"
+  G: "Andjazdja"
+  M: "Mohl"
+  

@@ -1,0 +1,75 @@
+info:
+  short: "Bulgaria"
+  long: "Bulgaria"
+  alpha2: BG
+  alpha3: BGR
+  iso: 100
+  ioc: "BUL"
+  capital: "Sofia"
+  tld: "bg"
+
+languages:
+  - bul
+
+currency:
+  code:
+    - "BGN"
+  name:
+    - "Bulgaria Lev"
+  symbol:
+    - "&#1083;&#1074;"
+
+phone:
+  code:
+    - 359
+  length:
+    - 8
+    - 9
+  mobile_prefix:
+    - 43
+    - 87
+    - 88
+    - 89
+    - 98
+    - 99
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  01: "Blagoevgrad"
+  02: "Burgas"
+  03: "Varna"
+  04: "Veliko Turnovo"
+  05: "Vidin"
+  06: "Vraca"
+  07: "Gabrovo"
+  08: "Dobrich"
+  09: "Kurdzhali"
+  10: "Kjustendil"
+  11: "Lovech"
+  12: "Montana"
+  13: "Pazardzhik"
+  14: "Pernik"
+  15: "Pleven"
+  16: "Plovdiv"
+  17: "Razgrad"
+  18: "Ruse"
+  19: "Silistra"
+  20: "Sliven"
+  21: "Smoljan"
+  22: "Sofija-Grad"
+  23: "Sofija"
+  24: "Stara Zagora"
+  25: "Turgovishhe"
+  26: "Khaskovo"
+  27: "Shumen"
+  28: "Jambol"
+  

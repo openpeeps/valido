@@ -1,0 +1,47 @@
+info:
+  short: "Guinea"
+  long: "Guinea"
+  alpha2: GN
+  alpha3: GIN
+  iso: 324
+  ioc: "GUI"
+  capital: "Conakry"
+  tld: "gn"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "GNF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 224
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "3-Digits - NNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{3}$"
+  charset: number
+  length:
+    - "3"
+  formats:
+    - "NNN"
+    
+states:
+  B: "Bok"
+  C: "Conakry"
+  D: "Kindia"
+  F: "Faranah"
+  K: "Kankan"
+  L: "Lab"
+  M: "Mamou"
+  N: "Nzrkor"
+  

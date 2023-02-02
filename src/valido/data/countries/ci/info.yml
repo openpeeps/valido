@@ -1,0 +1,60 @@
+info:
+  short: "Cte d'Ivoire"
+  long: "Cte d'Ivoire, Ivory Coast"
+  alpha2: CI
+  alpha3: CIV
+  iso: 384
+  ioc: "CIV"
+  capital: "Yamoussoukro"
+  tld: "ci"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XOF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 225
+  length:
+    - 8
+  mobile_prefix:
+    - 0
+    - 4
+    - 5
+    - 6
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "Lagunes"
+  02: "Haut-Sassandra"
+  03: "Savanes"
+  04: "Valle du Bandama"
+  05: "Moyen-Como"
+  06: "Dix-Huit Montagnes"
+  07: "Lacs"
+  08: "Zanzan"
+  09: "Bas-Sassandra"
+  10: "Dengul"
+  11: "N'zi-Como"
+  12: "Marahou"
+  13: "Sud-Como"
+  14: "Worodougou"
+  15: "Sud-Bandama"
+  16: "Agnby"
+  17: "Bafing"
+  18: "Fromager"
+  19: "Moyen-Cavally"
+  

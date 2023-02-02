@@ -1,0 +1,40 @@
+info:
+  short: ""
+  long: "Byelorussian SSR"
+  alpha2: BY
+  alpha3: BYS
+  iso: 
+  ioc: ""
+  capital: "Minsk"
+  tld: "by"
+
+languages: []
+
+currency:
+  code:
+  name:
+  symbol:
+
+phone:
+  code:
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BR: "Brest voblast"
+  HO: "Gorod Minsk"
+  HO: "Homiel voblast"
+  HR: "Hrodna voblast"
+  MA: "Mahilyow voblast"
+  MI: "Minsk voblast"
+  VI: "Vitsebsk voblast"
+  

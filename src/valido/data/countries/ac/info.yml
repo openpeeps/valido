@@ -1,0 +1,38 @@
+info:
+  short: ""
+  long: "Ascension Island"
+  alpha2: AC
+  alpha3: ACI
+  iso: 
+  ioc: "SHP"
+  capital: "null"
+  tld: "null"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 247
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states: {}
+  

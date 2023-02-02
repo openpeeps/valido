@@ -1,0 +1,51 @@
+info:
+  short: "Iceland"
+  long: "Iceland"
+  alpha2: IS
+  alpha3: ISL
+  iso: 352
+  ioc: "ISL"
+  capital: "Reykjav"
+  tld: "is"
+
+languages:
+  - isl
+
+currency:
+  code:
+    - "ISK"
+  name:
+    - "Iceland Krona"
+  symbol:
+    - "&#107;&#114;"
+
+phone:
+  code:
+    - 354
+  length:
+    - 7
+  mobile_prefix:
+    - 6
+    - 7
+    - 8
+
+postal:
+  description: "3-Digits - NNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{3}$"
+  charset: number
+  length:
+    - "3"
+  formats:
+    - "NNN"
+    
+states:
+  1: "Hfuborgarsvi utan Reykjavkur"
+  2: "Suurnes"
+  3: "Vesturland"
+  4: "Vestfirir"
+  5: "Norurland vestra"
+  6: "Norurland eystra"
+  7: "Austurland"
+  8: "Suurland"
+  

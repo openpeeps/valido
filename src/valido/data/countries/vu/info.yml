@@ -1,0 +1,47 @@
+info:
+  short: "Vanuatu"
+  long: "Vanuatu"
+  alpha2: VU
+  alpha3: VUT
+  iso: 548
+  ioc: "VAN"
+  capital: "Port-Vila"
+  tld: "vu"
+
+languages:
+  - bis
+  - eng
+  - fra
+
+currency:
+  code:
+    - "VUV"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 678
+  length:
+    - 7
+  mobile_prefix:
+    - 5
+    - 7
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  MAP: "Malampa"
+  PAM: "Pnama"
+  SAM: "Sanma"
+  SEE: "Shfa"
+  TAE: "Tafa"
+  TOB: "Torba"
+  

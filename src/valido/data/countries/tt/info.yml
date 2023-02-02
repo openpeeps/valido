@@ -1,0 +1,56 @@
+info:
+  short: "Trinidad and Tobago"
+  long: "Trinidad and Tobago"
+  alpha2: TT
+  alpha3: TTO
+  iso: 780
+  ioc: "TTO"
+  capital: "Port-of-Spain"
+  tld: "tt"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "TTD"
+  name:
+    - "Trinidad and Tobago Dollar"
+  symbol:
+    - "&#84;&#84;&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 868
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  ARI: "Arima"
+  CHA: "Chaguanas"
+  CTT: "Couva-Tabaquite-Talparo"
+  DMN: "Diefo Martin"
+  MRC: "Mayaro-Rio Claro"
+  PED: "Penal-Debe"
+  POS: "Port-of-Spain"
+  PRT: "Princes Town"
+  PTF: "Point Fortin"
+  SFO: "San Fernando"
+  SGE: "Sangre Grande"
+  SIP: "Siparia"
+  SJL: "San Juan-Laventille"
+  TOB: "Tobago"
+  TUP: "Tunapuna-Piarco"
+  

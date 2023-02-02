@@ -1,0 +1,68 @@
+info:
+  short: "Malawi"
+  long: "Malawi"
+  alpha2: MW
+  alpha3: MWI
+  iso: 454
+  ioc: "MAW"
+  capital: "Lilongwe"
+  tld: "mw"
+
+languages:
+  - eng
+  - nya
+
+currency:
+  code:
+    - "MWK"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 265
+  length:
+    - 9
+  mobile_prefix:
+    - 77
+    - 88
+    - 99
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BA: "Balaka"
+  BL: "Blantyre"
+  CK: "Chikwawa"
+  CR: "Chiradzulu"
+  CT: "Chitipa"
+  DE: "Dedza"
+  DO: "Dowa"
+  KR: "Karonga"
+  KS: "Kasungu"
+  LI: "Lilongwe"
+  LK: "Likoma"
+  MC: "Mchinji"
+  MG: "Mangochi"
+  MH: "Machinga"
+  MU: "Mulanje"
+  MW: "Mwanza"
+  MZ: "Mzimba"
+  NB: "Nkhotakota"
+  NE: "Nkhata Bay"
+  NI: "Ntchisi"
+  NS: "Nsanje"
+  NU: "Ntcheu"
+  PH: "Phalombe"
+  RU: "Rumphi"
+  SA: "Salima"
+  TH: "Thyolo"
+  ZO: "Zomba"
+  

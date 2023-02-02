@@ -1,0 +1,49 @@
+info:
+  short: "Gabon"
+  long: "Gabon"
+  alpha2: GA
+  alpha3: GAB
+  iso: 266
+  ioc: "GAB"
+  capital: "Libreville"
+  tld: "ga"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XAF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 241
+  length:
+    - 8
+  mobile_prefix:
+    - 05
+    - 06
+    - 07
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  1: "Estuaire"
+  2: "Haut-Ogoou"
+  3: "Moyen-Ogoou"
+  4: "Ngouni"
+  5: "Nyanga"
+  6: "Ogoou-Ivindo"
+  7: "Ogoou-Lolo"
+  8: "Ogoou-Maritime"
+  9: "Woleu-Ntem"
+  

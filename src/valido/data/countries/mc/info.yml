@@ -1,0 +1,60 @@
+info:
+  short: "Monaco"
+  long: "Monaco"
+  alpha2: MC
+  alpha3: MCO
+  iso: 492
+  ioc: "MON"
+  capital: "Monaco-Ville"
+  tld: "mc"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 377
+  length:
+    - 8
+    - 9
+  mobile_prefix:
+    - 4
+    - 6
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  CL: "Colle"
+  CO: "Condamine"
+  FO: "Fontvieille"
+  GA: "Gare"
+  JE: "Jardin Exotique"
+  LA: "Larvotto"
+  MA: "Malbousquet"
+  MC: "Monte-Carlo"
+  MG: "Moneghetti"
+  MO: "Monaco-Ville"
+  MU: "Moulins"
+  PH: "Port-Hercule"
+  SD: "Sainte-Dvote"
+  SO: "Source"
+  SP: "Splugues"
+  SR: "Saint-Roman"
+  VR: "Vallon de la Rousse"
+  

@@ -1,0 +1,46 @@
+info:
+  short: "Micronesia, Federated States Of"
+  long: "Micronesia, Federated States of"
+  alpha2: FM
+  alpha3: FSM
+  iso: 583
+  ioc: "FSM"
+  capital: "Palikir"
+  tld: ""
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 691
+  length:
+    - 7
+  mobile_prefix:
+
+postal:
+  description: "US : NNNNN[-NNNN]"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}([0-9]{4})?$"
+  charset: number
+  length:
+    - "5"
+    - "10"
+  formats:
+    - "NNNNN"
+    - "NNNNN[-NNNN]"
+    
+states:
+  KSA: "Kosrae"
+  PNI: "Pohnpei"
+  TRK: "Chuuk (Truk) "
+  YAP: "Yap"
+  

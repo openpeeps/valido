@@ -1,0 +1,110 @@
+info:
+  short: "Azerbaijan"
+  long: "Azerbaijan"
+  alpha2: AZ
+  alpha3: AZE
+  iso: 31
+  ioc: "AZE"
+  capital: "Baku"
+  tld: "az"
+
+languages:
+  - aze
+
+currency:
+  code:
+    - "AZN"
+  name:
+    - "Azerbaijan New Manat"
+  symbol:
+    - "&#1084;&#1072;&#1085;"
+
+phone:
+  code:
+    - 994
+  length:
+    - 9
+  mobile_prefix:
+    - 4
+    - 5
+    - 6
+    - 7
+
+postal:
+  description: "AZ : CCNNNNN"
+  redenundant_chars: " -"
+  regex: "^AZ[0-9]{4}$"
+  charset: varchar
+  length:
+    - "7"
+  formats:
+    - "CCNNNNN"
+    
+states:
+  ABS: "Aberon"
+  AGA: "Astafa"
+  AGC: "Acabdi"
+  AGM: "Adam"
+  AGS: "Ada"
+  AGU: "Asu"
+  AST: "Astara"
+  BAB: "Babk"
+  BAL: "Balakn"
+  BAR: "Brd"
+  BEY: "Beylqan"
+  BIL: "Bilsuvar"
+  CAB: "Cbrayl"
+  CAL: "Clilabad"
+  CUL: "Culfa"
+  DAS: "Daksn"
+  FUZ: "Fzuli"
+  GAD: "Gdby"
+  GOR: "Goranboy"
+  GOY: "Gyay"
+  GYG: "Gygl"
+  HAC: "Hacqabul"
+  IMI: "mili"
+  ISM: "smayll"
+  KAL: "Klbcr"
+  KAN: "Kngrli"
+  KUR: "Krdmir"
+  LAC: "Lan"
+  LAN: "Lnkran"
+  LER: "Lerik"
+  MAS: "Masall"
+  NEF: "Neftala"
+  OGU: "Ouz"
+  ORD: "Ordubad"
+  QAB: "Qbl"
+  QAX: "Qax"
+  QAZ: "Qazax"
+  QBA: "Quba"
+  QBI: "Qubadli"
+  QOB: "Qobustan"
+  QUS: "Qusar"
+  SAB: "Sabirabad"
+  SAD: "Sdrk"
+  SAH: "ahbuz"
+  SAK: "ki"
+  SAL: "Salyan"
+  SAR: "rur"
+  SAT: "Saatl"
+  SBN: "abran"
+  SIY: "Siyzn"
+  SKR: "mkir"
+  SMI: "amax"
+  SMX: "Samux"
+  SUS: "ua"
+  TAR: "Trtr"
+  TOV: "Tovuz"
+  UCA: "Ucar"
+  XAC: "Xamaz"
+  XCI: "Xocal"
+  XIZ: "Xz"
+  XVD: "Xocavnd"
+  YAR: "Yardml"
+  YEV: "Yevlax"
+  ZAN: "Zngilan"
+  ZAQ: "Zaqatala"
+  ZAR: "Zrdab"
+  

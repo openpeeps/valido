@@ -1,0 +1,58 @@
+info:
+  short: "Cuba"
+  long: "Cuba"
+  alpha2: CU
+  alpha3: CUB
+  iso: 192
+  ioc: "CUB"
+  capital: "La Habana"
+  tld: "cu"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "CUC"
+    - "CUP"
+  name:
+    - "Cuba Peso"
+  symbol:
+    - "&#8369;"
+
+phone:
+  code:
+    - 53
+  length:
+    - 8
+  mobile_prefix:
+    - 5
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  01: "Pinar del Ro"
+  03: "La Habana"
+  04: "Matanzas"
+  05: "Villa Clara"
+  06: "Cienfuegos"
+  07: "Sancti Spritus"
+  08: "Ciego de vila"
+  09: "Camagey"
+  10: "Las Tunas"
+  11: "Holgun"
+  12: "Granma"
+  13: "Santiago de Cuba"
+  14: "Guantnamo"
+  15: "Artemisa"
+  16: "Mayabeque"
+  99: "Isla de la Juventud"
+  

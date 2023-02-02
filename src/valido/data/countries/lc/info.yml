@@ -1,0 +1,51 @@
+info:
+  short: "Saint Lucia"
+  long: "Saint Lucia"
+  alpha2: LC
+  alpha3: LCA
+  iso: 662
+  ioc: "LCA"
+  capital: "Castries"
+  tld: "lc"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "XCD"
+  name:
+    - "East Caribbean Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 758
+
+postal:
+  description: "LC : CCNN NNN"
+  redenundant_chars: " -"
+  regex: "^LC[0-9]{5}$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "CCNN NNN"
+    
+states:
+  01: "Anse-la-Raye"
+  02: "Castries"
+  03: "Choiseul"
+  05: "Dennery"
+  06: "Gros Islet"
+  07: "Laborie"
+  08: "Micoud"
+  10: "Soufriere"
+  11: "Vieux Fort"
+  12: "Canaries"
+  

@@ -1,0 +1,56 @@
+info:
+  short: "Central African Republic"
+  long: "Central African Republic"
+  alpha2: CF
+  alpha3: CAF
+  iso: 140
+  ioc: "CAF"
+  capital: "Bangui"
+  tld: "cf"
+
+languages:
+  - fra
+  - sag
+
+currency:
+  code:
+    - "XAF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 236
+  length:
+    - 8
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  10: "Nana-Grebizi"
+  AC: "Ouham"
+  BB: "Bamingui-Bangoran"
+  BGF: "Bangui"
+  BK: "Basse-Kotto"
+  HK: "Haute-Kotto"
+  HM: "Haut-Mbomou"
+  HS: "Mambr-Kad"
+  KG: "Kmo"
+  LB: "Lobaye"
+  MB: "Mbomou"
+  MP: "Ombella-M'Poko"
+  NM: "Nana-Mambr"
+  OP: "Ouham Pnd"
+  SE: "Sangha-Mbar"
+  UK: "Ouaka"
+  VK: "Vakaga"
+  

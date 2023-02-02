@@ -1,0 +1,61 @@
+info:
+  short: "land Islands"
+  long: "Aland Islands"
+  alpha2: AX
+  alpha3: ALA
+  iso: 248
+  ioc: ""
+  capital: "Mariehamn"
+  tld: "ax"
+
+languages:
+  - swe
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 358
+  length:
+    - 6
+    - 7
+    - 8
+  mobile_prefix:
+    - 18
+
+postal:
+  description: "AX : NNNNN, CC-NNNNN"
+  redenundant_chars: " -"
+  regex: "^(AX)?[0-9]{4}$"
+  charset: number
+  length:
+    - "5"
+    - "8"
+  formats:
+    - "CC-NNNNN"
+    - "NNNNN"
+    
+states:
+  BR: "Brnd"
+  EC: "Ecker"
+  FG: "Fgl"
+  FN: "Finstrm"
+  GT: "Geta"
+  HM: "Hammarland"
+  JM: "Jomala"
+  KK: "Kkar"
+  KM: "Kumlinge"
+  LE: "Lemland"
+  LU: "Lumparland"
+  MH: "Mariehamn"
+  SD: "Sund"
+  ST: "Sottunga"
+  SV: "Saltvik"
+  VR: "Vrd"
+  

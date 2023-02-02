@@ -1,0 +1,48 @@
+info:
+  short: "Mali"
+  long: "Mali"
+  alpha2: ML
+  alpha3: MLI
+  iso: 466
+  ioc: "MLI"
+  capital: "Bamako"
+  tld: "ml"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XOF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 223
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+    - 7
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  1: "Kayes"
+  2: "Koulikoro"
+  3: "Sikasso"
+  4: "Segou"
+  5: "Mopti"
+  6: "Tombouctou"
+  7: "Gao"
+  8: "Kidal"
+  BKO: "Bamako"
+  

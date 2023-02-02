@@ -1,0 +1,83 @@
+info:
+  short: "Romania"
+  long: "Romania"
+  alpha2: RO
+  alpha3: ROU
+  iso: 642
+  ioc: "ROU"
+  capital: "Bucuresti"
+  tld: "ro"
+
+languages:
+  - ron
+
+currency:
+  code:
+    - "RON"
+  name:
+    - "Romania New Leu"
+  symbol:
+    - "&#108;&#101;&#105;"
+
+phone:
+  code:
+    - 40
+  length:
+    - 9
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  AB: "Alba"
+  AG: "Arges"
+  AR: "Arad"
+  B: "Bucuresti"
+  BC: "Bacau"
+  BH: "Bihor"
+  BN: "Bistrita-Nasaud"
+  BR: "Braila"
+  BT: "Botosani"
+  BV: "Brasov"
+  BZ: "Buzau"
+  CJ: "Cluj"
+  CL: "Calarasi"
+  CS: "Caras-Severin"
+  CT: "Constanta"
+  CV: "Covasna"
+  DB: "Dambovita"
+  DJ: "Dolj"
+  GJ: "Gorj"
+  GL: "Galati"
+  GR: "Giurgiu"
+  HD: "Hunedoara"
+  HR: "Harghita"
+  IL: "Ialomita"
+  IS: "Iasi"
+  IF: "Ilfov"
+  MH: "Mehedinti"
+  MM: "Maramures"
+  MS: "Mures"
+  NT: "Neamt"
+  OT: "Olt"
+  PH: "Prahova"
+  SB: "Sibiu"
+  SJ: "Salaj"
+  SM: "Satu Mare"
+  SV: "Suceava"
+  TL: "Tulcea"
+  TM: "Timis"
+  TR: "Teleorman"
+  VL: "Valcea"
+  VN: "Vrancea"
+  VS: "Vaslui"
+  

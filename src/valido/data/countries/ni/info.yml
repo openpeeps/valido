@@ -1,0 +1,58 @@
+info:
+  short: "Nicaragua"
+  long: "Nicaragua"
+  alpha2: NI
+  alpha3: NIC
+  iso: 558
+  ioc: "NCA"
+  capital: "Managua"
+  tld: "ni"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "NIO"
+  name:
+    - "Nicaragua Cordoba"
+  symbol:
+    - "&#67;&#36;"
+
+phone:
+  code:
+    - 505
+  length:
+    - 8
+  mobile_prefix:
+    - 8
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AN: "Atlntico Norte"
+  AS: "Atlntico Sur"
+  BO: "Boaco"
+  CA: "Carazo"
+  CI: "Chinandega"
+  CO: "Chontales"
+  ES: "Estel"
+  GR: "Granada"
+  JI: "Jinotega"
+  LE: "Len"
+  MD: "Madriz"
+  MN: "Managua"
+  MS: "Masaya"
+  MT: "Matagalpa"
+  NS: "Nueva Segovia"
+  RI: "Rivas"
+  SJ: "Ro San Juan"
+  

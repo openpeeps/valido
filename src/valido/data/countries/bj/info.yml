@@ -1,0 +1,50 @@
+info:
+  short: "Benin"
+  long: "Benin"
+  alpha2: BJ
+  alpha3: BEN
+  iso: 204
+  ioc: "BEN"
+  capital: "Porto-Novo"
+  tld: "bj"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XOF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 229
+  length:
+    - 8
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AK: "Atakora"
+  AL: "Alibori"
+  AQ: "Atlantique"
+  BO: "Borgou"
+  CO: "Collines Department"
+  DO: "Donga"
+  KO: "Kouffo"
+  LI: "Littoral Department"
+  MO: "Mono Department"
+  OU: "Oum"
+  PL: "Plateau"
+  ZO: "Zou"
+  

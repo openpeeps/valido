@@ -1,0 +1,51 @@
+info:
+  short: "Jordan"
+  long: "Jordan"
+  alpha2: JO
+  alpha3: JOR
+  iso: 400
+  ioc: "JOR"
+  capital: "Amman"
+  tld: "jo"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "JOD"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 962
+  length:
+    - 9
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AJ: "Ajln"
+  AM: "Al Aimah"
+  AQ: "Al 'Aqabah"
+  AT: "A aflah"
+  AZ: "Az Zarq"
+  BA: "Al Balq"
+  IR: "Irbid"
+  JA: "Jarash"
+  KA: "Al Karak"
+  MA: "Al Mafraq"
+  MD: "Mdab"
+  MN: "Man"
+  

@@ -1,0 +1,40 @@
+info:
+  short: "Macao"
+  long: "Macao, Special Administrative Region of China"
+  alpha2: MO
+  alpha3: MAC
+  iso: 446
+  ioc: "MAC"
+  capital: "Macao"
+  tld: "mo"
+
+languages:
+  - por
+  - zho
+
+currency:
+  code:
+    - "MOP"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 853
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  : "Macao"
+  

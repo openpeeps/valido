@@ -1,0 +1,41 @@
+info:
+  short: ""
+  long: "French Southern Territories"
+  alpha2: TF
+  alpha3: ATF
+  iso: 260
+  ioc: ""
+  capital: ""
+  tld: "tf"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  : "Adelie Land"
+  : "Ile Crozet"
+  : "Iles Kerguelen"
+  : "Iles Saint-Paul et Amsterdam"
+  

@@ -1,0 +1,60 @@
+info:
+  short: "Germany"
+  long: "Germany"
+  alpha2: DE
+  alpha3: DEU
+  iso: 276
+  ioc: "GER"
+  capital: "Berlin"
+  tld: "de"
+
+languages:
+  - deu
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 49
+  length:
+    - 10
+    - 11
+  mobile_prefix:
+    - 15
+    - 16
+    - 17
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  BB: "Brandenburg"
+  BE: "Berlin"
+  BW: "Baden-Wrttemberg"
+  BY: "Bayern"
+  HB: "Bremen"
+  HE: "Hessen"
+  HH: "Hamburg"
+  MV: "Mecklenburg-Vorpommern"
+  NI: "Niedersachsen"
+  NW: "Nordrhein-Westfalen"
+  RP: "Rheinland-Pfalz"
+  SH: "Schleswig-Holstein"
+  SL: "Saarland"
+  SN: "Sachsen"
+  ST: "Sachsen-Anhalt"
+  TH: "Thringen"
+  

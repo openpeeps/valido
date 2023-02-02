@@ -1,0 +1,55 @@
+info:
+  short: "El Salvador"
+  long: "El Salvador"
+  alpha2: SV
+  alpha3: SLV
+  iso: 222
+  ioc: "ESA"
+  capital: "San Salvador"
+  tld: "sv"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "SVC"
+  name:
+    - "El Salvador Colon"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 503
+  length:
+    - 8
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  AH: "Ahuachapn"
+  CA: "Cabaas"
+  CH: "Chalatenango"
+  CU: "Cuscatln"
+  LI: "La Libertad"
+  MO: "Morazn"
+  PA: "La Paz"
+  SA: "Santa Ana"
+  SM: "San Miguel"
+  SO: "Sonsonate"
+  SS: "San Salvador"
+  SV: "San Vicente"
+  UN: "La Unin"
+  US: "Usulutn"
+  

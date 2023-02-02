@@ -1,0 +1,43 @@
+info:
+  short: "Runion"
+  long: "Runion"
+  alpha2: RE
+  alpha3: REU
+  iso: 638
+  ioc: ""
+  capital: "Saint-Denis"
+  tld: "re"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 262
+  length:
+    - 9
+  mobile_prefix:
+    - 692
+    - 693
+
+postal:
+  description: "RE : 974NN"
+  redenundant_chars: " -"
+  regex: "^974[0-9]{2}$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "974NN"
+    
+states:
+  : "Runion"
+  

@@ -1,0 +1,74 @@
+info:
+  short: "Ireland"
+  long: "Ireland"
+  alpha2: IE
+  alpha3: IRL
+  iso: 372
+  ioc: "IRL"
+  capital: "Dublin"
+  tld: "ie"
+
+languages:
+  - eng
+  - gle
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 353
+  length:
+    - 9
+  mobile_prefix:
+    - 82
+    - 83
+    - 84
+    - 85
+    - 86
+    - 87
+    - 88
+    - 89
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  CE: "Clare"
+  CN: "Cavan"
+  CO: "Cork"
+  CW: "Carlow"
+  D: "Dublin"
+  DL: "Donegal"
+  G: "Galway"
+  KE: "Kildare"
+  KK: "Kilkenny"
+  KY: "Kerry"
+  LD: "Longford"
+  LH: "Louth"
+  LK: "Limerick"
+  LM: "Leitrim"
+  LS: "Laois"
+  MH: "Meath"
+  MN: "Monaghan"
+  MO: "Mayo"
+  OY: "Offaly"
+  RN: "Roscommon"
+  SO: "Sligo"
+  TA: "Tipperary"
+  WD: "Waterford"
+  WH: "Westmeath"
+  WW: "Wicklow"
+  WX: "Wexford"
+  

@@ -1,0 +1,50 @@
+info:
+  short: "Dominica"
+  long: "Dominica"
+  alpha2: DM
+  alpha3: DMA
+  iso: 212
+  ioc: "DMA"
+  capital: "Roseau"
+  tld: "dm"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "XCD"
+  name:
+    - "East Caribbean Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 767
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  02: "Saint Andrew Parish"
+  03: "Saint David Parish"
+  04: "Saint George Parish"
+  05: "Saint John Parish"
+  06: "Saint Joseph Parish"
+  07: "Saint Luke Parish"
+  08: "Saint Mark Parish"
+  09: "Saint Patrick Parish"
+  10: "Saint Paul Parish"
+  11: "Saint Peter Parish"
+  

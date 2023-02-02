@@ -1,0 +1,77 @@
+info:
+  short: "Indonesia"
+  long: "Indonesia"
+  alpha2: ID
+  alpha3: IDN
+  iso: 360
+  ioc: "INA"
+  capital: "Jakarta"
+  tld: "id"
+
+languages:
+  - ind
+
+currency:
+  code:
+    - "IDR"
+  name:
+    - "Indonesia Rupiah"
+  symbol:
+    - "&#82;&#112;"
+
+phone:
+  code:
+    - 62
+  length:
+    - 9
+    - 10
+    - 11
+    - 12
+  mobile_prefix:
+    - 8
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AC: "Aceh"
+  BA: "Bali"
+  BB: "Bangka Belitung"
+  BE: "Bengkulu"
+  BT: "Banten"
+  GO: "Gorontalo"
+  JA: "Jambi"
+  JB: "Jawa Barat"
+  JI: "Jawa Timur"
+  JK: "Jakarta Raya"
+  JT: "Jawa Tengah"
+  KB: "Kalimantan Barat"
+  KI: "Kalimantan Timur"
+  KR: "Kepulauan Riau"
+  KS: "Kalimantan Selatan"
+  KT: "Kalimantan Tengah"
+  KU: "Kalimantan Utara"
+  LA: "Lampung"
+  MA: "Maluku"
+  MU: "Maluku Utara"
+  NB: "Nusa Tenggara Barat"
+  NT: "Nusa Tenggara Timur"
+  PA: "Papua"
+  PB: "Papua Barat"
+  RI: "Riau"
+  SA: "Sulawesi Utara"
+  SB: "Sumatera Barat"
+  SG: "Sulawesi Tenggara"
+  SR: "Sulawesi Selatan"
+  SS: "Sumatera Selatan"
+  ST: "Sulawesi Tengah"
+  SU: "Sumatera Utara"
+  YO: "Yogyakarta"
+  

@@ -1,0 +1,61 @@
+info:
+  short: "Papua New Guinea"
+  long: "Papua New Guinea"
+  alpha2: PG
+  alpha3: PNG
+  iso: 598
+  ioc: "PNG"
+  capital: "Port Moresby"
+  tld: "pg"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "PGK"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 675
+  length:
+    - 8
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "3-Digits - NNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{3}$"
+  charset: number
+  length:
+    - "3"
+  formats:
+    - "NNN"
+    
+states:
+  CPK: "Chimbu"
+  CPM: "Central"
+  EBR: "East New Britain"
+  EHG: "Eastern Highlands"
+  EPW: "Enga"
+  ESW: "East Sepik"
+  GPK: "Gulf"
+  HLA: "Hela"
+  JWK: "Jiwaka"
+  MBA: "Milne Bay"
+  MOM: "Madang"
+  MPL: "Morobe"
+  MRL: "Manus"
+  NCD: "Port Moresby"
+  NIK: "New Ireland"
+  NPP: "Northern"
+  NSB: "Bougainville"
+  SAN: "West Sepik"
+  SHM: "Southern Highlands"
+  WBK: "West New Britain"
+  WHM: "Western Highlands"
+  WPD: "Western"
+  

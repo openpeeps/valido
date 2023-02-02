@@ -1,0 +1,94 @@
+info:
+  short: "Spain"
+  long: "Spain"
+  alpha2: ES
+  alpha3: ESP
+  iso: 724
+  ioc: "ESP"
+  capital: "Madrid"
+  tld: "es"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 34
+  length:
+    - 9
+  mobile_prefix:
+    - 6
+    - 7
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AN: "Almera"
+  AV: "vila"
+  B: "Barcelona"
+  BA: "Badajoz"
+  BI: "Bizkaia"
+  BU: "Burgos"
+  C: "A Corua"
+  CA: "Cdiz"
+  CC: "Cceres"
+  CM: "Albacete"
+  CO: "Crdoba"
+  CR: "Ciudad Real"
+  CS: "Castelln"
+  CU: "Cueta"
+  CU: "Cuenca"
+  GC: "Las Palmas"
+  GI: "Girona"
+  GR: "Granada"
+  GU: "Guadalajara"
+  H: "Huelva"
+  HU: "Huesca"
+  J: "Jan"
+  L: "Lleida"
+  LE: "Len"
+  LO: "La Rioja"
+  LU: "Lugo"
+  M: "Madrid"
+  MA: "Mlaga"
+  ML: "Melilla"
+  MU: "Murcia"
+  NA: "Navarre"
+  O: "Asturias"
+  OR: "Ourense"
+  P: "Palencia"
+  PM: "Illes Balears"
+  PO: "Pontevedra"
+  S: "Cantabria"
+  SA: "Salamanca"
+  SE: "Sevilla"
+  SG: "Segovia"
+  SO: "Soria"
+  SS: "Gipuzkoa"
+  T: "Tarragona"
+  TE: "Teruel"
+  TF: "Santa Cruz de Tenerife"
+  TO: "Toledo"
+  V: "Valencia"
+  VA: "Valladolid"
+  VC: "Alicante"
+  VI: "Araba/lava"
+  Z: "Zaragoza"
+  ZA: "Zamora"
+  

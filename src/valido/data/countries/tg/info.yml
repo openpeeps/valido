@@ -1,0 +1,43 @@
+info:
+  short: "Togo"
+  long: "Togo"
+  alpha2: TG
+  alpha3: TGO
+  iso: 768
+  ioc: "TOG"
+  capital: "Lom"
+  tld: "tg"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XOF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 228
+  length:
+    - 8
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  C: "Centre"
+  K: "Kara"
+  M: "Maritime"
+  P: "Plateaux"
+  S: "Savannes"
+  

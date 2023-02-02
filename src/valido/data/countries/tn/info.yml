@@ -1,0 +1,65 @@
+info:
+  short: "Tunisia"
+  long: "Tunisia"
+  alpha2: TN
+  alpha3: TUN
+  iso: 788
+  ioc: "TUN"
+  capital: "Tunis"
+  tld: "tn"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "TND"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 216
+  length:
+    - 8
+  mobile_prefix:
+    - 2
+    - 4
+    - 5
+    - 9
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  11: "Tunis"
+  12: "Ariana"
+  13: "Ben Arous"
+  21: "Nabeul"
+  22: "Zaghouan"
+  23: "Bizerte"
+  31: "Beja"
+  32: "Jendouba"
+  33: "Kef"
+  34: "Siliana"
+  41: "Kairouan"
+  42: "Kasserine"
+  43: "Sidi Bouzid"
+  51: "Sousse"
+  52: "Monastir"
+  53: "Mahdia"
+  61: "Sfax"
+  71: "Gafsa"
+  72: "Tozeur"
+  73: "Kebili"
+  81: "Gabes"
+  82: "Medenine"
+  83: "Tataouine"
+  

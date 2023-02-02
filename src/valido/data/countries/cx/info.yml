@@ -1,0 +1,39 @@
+info:
+  short: ""
+  long: "Christmas Island"
+  alpha2: CX
+  alpha3: CXR
+  iso: 162
+  ioc: ""
+  capital: "Flying Fish Cove"
+  tld: "cx"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "AUD"
+  name:
+    - "Australia Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  CX: "Christmas Island"
+  

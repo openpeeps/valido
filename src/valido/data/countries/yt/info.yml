@@ -1,0 +1,58 @@
+info:
+  short: "Mayotte"
+  long: "Mayotte"
+  alpha2: YT
+  alpha3: MYT
+  iso: 175
+  ioc: ""
+  capital: "Mamoutzou"
+  tld: "yt"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 269
+  length:
+    - 9
+  mobile_prefix:
+    - 639
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  01: "Dzaoudzi"
+  02: "Pamandzi"
+  03: "Mamoudzou"
+  04: "Dembeni"
+  05: "Bandrl"
+  06: "Kani-Kli"
+  07: "Bouni"
+  08: "Chirongui"
+  09: "Sada"
+  10: "Ouangani"
+  11: "Chiconi"
+  12: "Tsingoni"
+  13: "M'Tsangamouji"
+  14: "Acoua"
+  15: "Mtsamboro"
+  16: "Bandraboua"
+  17: "Koungou"
+  

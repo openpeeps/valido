@@ -1,0 +1,53 @@
+info:
+  short: "Senegal"
+  long: "Senegal"
+  alpha2: SN
+  alpha3: SEN
+  iso: 686
+  ioc: "SEN"
+  capital: "Dakar"
+  tld: "sn"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XOF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 221
+  length:
+    - 9
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  DB: "Diourbel"
+  DK: "Dakar"
+  FK: "Fatick"
+  KA: "Kaffrine"
+  KD: "Kolda"
+  KE: "Kedougou"
+  KL: "Kaolack"
+  LG: "Louga"
+  MT: "Matam"
+  SE: "Sedhiou"
+  SL: "Saint-Louis"
+  TC: "Tambacounda"
+  TH: "Thies"
+  ZG: "Ziguinchor"
+  

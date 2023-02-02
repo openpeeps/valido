@@ -1,0 +1,48 @@
+info:
+  short: "Cyprus"
+  long: "Cyprus"
+  alpha2: CY
+  alpha3: CYP
+  iso: 196
+  ioc: "CYP"
+  capital: "Nicosia"
+  tld: "cy"
+
+languages:
+  - ell
+  - tur
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 357
+  length:
+    - 8
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  01: "Lefkosia"
+  02: "Lemesos"
+  03: "Larnaka"
+  04: "Ammochostos"
+  05: "Keryneia"
+  05: "Pafos"
+  

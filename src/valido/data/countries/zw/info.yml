@@ -1,0 +1,69 @@
+info:
+  short: "Zimbabwe"
+  long: "Zimbabwe"
+  alpha2: ZW
+  alpha3: ZWE
+  iso: 716
+  ioc: "ZIM"
+  capital: "Harare"
+  tld: "zw"
+
+languages:
+  - eng
+  - nde
+  - sna
+
+currency:
+  code:
+    - "BWP"
+    - "EUR"
+    - "GBP"
+    - "USD"
+    - "ZAR"
+    - "ZWD"
+  name:
+    - "Botswana Pula"
+    - "Euro Member Countries"
+    - "South Africa Rand"
+    - "United Kingdom Pound"
+    - "United States Dollar"
+    - "Zimbabwe Dollar"
+  symbol:
+    - "&#80;"
+    - "&#8364;"
+    - "&#82;"
+    - "&#163;"
+    - "&#36;"
+    - "&#90;&#36;"
+
+phone:
+  code:
+    - 263
+  length:
+    - 9
+  mobile_prefix:
+    - 71
+    - 73
+    - 77
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BU: "Bulawayo"
+  HA: "Harare"
+  MA: "Manicaland"
+  MC: "Mashonaland Central"
+  ME: "Mashonaland East"
+  MI: "Midlands"
+  MN: "Matabeleland North"
+  MS: "Matabeleland South"
+  MV: "Masvingo"
+  MW: "Mashonaland West"
+  

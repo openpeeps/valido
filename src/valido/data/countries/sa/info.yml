@@ -1,0 +1,56 @@
+info:
+  short: "Saudi Arabia"
+  long: "Saudi Arabia"
+  alpha2: SA
+  alpha3: SAU
+  iso: 682
+  ioc: "KSA"
+  capital: "Riyadh"
+  tld: "sa"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "SAR"
+  name:
+    - "Saudi Arabia Riyal"
+  symbol:
+    - "&#65020;"
+
+phone:
+  code:
+    - 966
+  length:
+    - 9
+  mobile_prefix:
+    - 5
+
+postal:
+  description: "US : NNNNN[-NNNN]"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}([0-9]{4})?$"
+  charset: number
+  length:
+    - "5"
+    - "10"
+  formats:
+    - "NNNNN"
+    - "NNNNN[-NNNN]"
+    
+states:
+  01: "Ar Riyad"
+  02: "Makkah al Mukarramah"
+  03: "Al Madinah al Munawwarah"
+  04: "Ash Sharqiyah"
+  05: "Al Qasim"
+  06: "Ha'il"
+  07: "Tabuk"
+  08: "Al Hudud ash Shamaliyah"
+  09: "Jazan"
+  10: "Najran"
+  11: "Al Bahah"
+  12: "Al Jawf"
+  14: "'Asir"
+  

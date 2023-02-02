@@ -1,0 +1,42 @@
+info:
+  short: "Tonga"
+  long: "Tonga"
+  alpha2: TO
+  alpha3: TON
+  iso: 776
+  ioc: "TGA"
+  capital: "Nuku'alofa"
+  tld: "to"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "TOP"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 676
+  length:
+    - 5
+  mobile_prefix:
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "'Eua"
+  02: "Ha'apai"
+  03: "Niuas"
+  04: "Tongatapu"
+  05: "Vava'u"
+  

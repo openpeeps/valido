@@ -1,0 +1,40 @@
+info:
+  short: ""
+  long: "Saint-Barthlemy"
+  alpha2: BL
+  alpha3: BLM
+  iso: 652
+  ioc: ""
+  capital: "Gustavia"
+  tld: "bl"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "BL : 97133"
+  redenundant_chars: " -"
+  regex: "^97133$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "97133"
+    
+states:
+  01: "Sous le Vent"
+  02: "Au Vent"
+  

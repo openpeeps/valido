@@ -1,0 +1,52 @@
+info:
+  short: "Suriname"
+  long: "Suriname *"
+  alpha2: SR
+  alpha3: SUR
+  iso: 740
+  ioc: "SUR"
+  capital: "Paramaribo"
+  tld: "sr"
+
+languages:
+  - nld
+
+currency:
+  code:
+    - "SRD"
+  name:
+    - "Suriname Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 597
+  length:
+    - 7
+  mobile_prefix:
+    - 6
+    - 7
+    - 8
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BR: "Brokopondo"
+  CM: "Commewijne"
+  CR: "Coronie"
+  MA: "Marowijne"
+  NI: "Nickerie"
+  PM: "Paramaribo"
+  PR: "Para"
+  SA: "Saramacca"
+  SI: "Sipaliwini"
+  WA: "Wanica"
+  

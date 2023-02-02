@@ -1,0 +1,41 @@
+info:
+  short: ""
+  long: "Sikkim"
+  alpha2: SK
+  alpha3: SKM
+  iso: 
+  ioc: ""
+  capital: "null"
+  tld: "null"
+
+languages: []
+
+currency:
+  code:
+  name:
+  symbol:
+
+phone:
+  code:
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BC: "Banskobystricky"
+  BL: "Bratislavsky"
+  KI: "Kosicky"
+  NI: "Nitriansky"
+  PV: "Presovsky"
+  TA: "Trnavsky"
+  TC: "Trenciansky"
+  ZI: "Zilinsky"
+  

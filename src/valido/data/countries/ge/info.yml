@@ -1,0 +1,45 @@
+info:
+  short: ""
+  long: "Gilbert and Ellice Islands"
+  alpha2: GE
+  alpha3: GEL
+  iso: 
+  ioc: ""
+  capital: "null"
+  tld: "null"
+
+languages: []
+
+currency:
+  code:
+  name:
+  symbol:
+
+phone:
+  code:
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AB: "Abkhazia (Sokhumi) "
+  AJ: "Ajaria (Bat'umi) "
+  GU: "Guria"
+  IM: "Imereti"
+  KA: "K'akheti"
+  KK: "Kvemo Kartli"
+  MM: "Mtshkheta-Mtianeti"
+  RL: "Rach'a-Lexhkumi-KvemoSvaneti"
+  SJ: "Samtskhe-Javakheti"
+  SK: "Shida Kartli"
+  SZ: "Samegrelo-Zemo Svaneti"
+  TB: "Tbilisi"
+  

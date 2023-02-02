@@ -1,0 +1,55 @@
+info:
+  short: "Greece"
+  long: "Greece"
+  alpha2: GR
+  alpha3: GRC
+  iso: 300
+  ioc: "GRE"
+  capital: "Athenai"
+  tld: "gr"
+
+languages:
+  - ell
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 30
+  length:
+    - 10
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  69: "gion ros"
+  A: "Anatolik Makedona kai Thrki"
+  B: "Kentrik Makedona"
+  C: "Dytik Makedona"
+  D: "peiros"
+  E: "Thessala"
+  F: "Iona Nsia"
+  G: "Dytik Ellda"
+  H: "Stere Ellda"
+  I: "Attik"
+  J: "Peloponnsos"
+  K: "Voreo Aigao"
+  L: "Noto Aigao"
+  M: "Krt"
+  

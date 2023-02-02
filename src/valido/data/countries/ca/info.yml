@@ -1,0 +1,91 @@
+info:
+  short: "Canada"
+  long: "Canada"
+  alpha2: CA
+  alpha3: CAN
+  iso: 124
+  ioc: "CAN"
+  capital: "Ottawa"
+  tld: "ca"
+
+languages:
+  - eng
+  - fra
+
+currency:
+  code:
+    - "CAD"
+  name:
+    - "Canada Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 204
+    - 226
+    - 236
+    - 249
+    - 250
+    - 289
+    - 306
+    - 343
+    - 365
+    - 403
+    - 416
+    - 418
+    - 431
+    - 437
+    - 438
+    - 450
+    - 506
+    - 514
+    - 519
+    - 579
+    - 581
+    - 587
+    - 600
+    - 604
+    - 613
+    - 639
+    - 647
+    - 705
+    - 709
+    - 778
+    - 780
+    - 807
+    - 819
+    - 867
+    - 873
+    - 902
+    - 905
+
+postal:
+  description: "CA : A0A 0A0"
+  redenundant_chars: " -"
+  regex: "^[ABCEGHJKLMNPRSTVXY]\d[ABCEGHJ-NPRSTV-Z][\s\-]?\d[ABCEGHJ-NPRSTV-Z]\d$"
+  charset: varchar
+  length:
+    - "7"
+  formats:
+    - "A0A 0A0"
+    
+states:
+  AB: "Alberta"
+  BC: "British Columbia"
+  MB: "Manitoba"
+  NB: "New Brunswick"
+  NL: "Newfoundland and Labrador"
+  NS: "Nova Scotia"
+  NT: "Northwest Territories"
+  NU: "Nunavut"
+  ON: "Ontario"
+  PE: "Prince Edward Island"
+  QC: "Quebec"
+  SK: "Saskatchewan"
+  YT: "Yukon"
+  

@@ -1,0 +1,56 @@
+info:
+  short: "Nepal"
+  long: "Nepal"
+  alpha2: NP
+  alpha3: NPL
+  iso: 524
+  ioc: "NEP"
+  capital: "Kathmandu"
+  tld: "np"
+
+languages:
+  - nep
+
+currency:
+  code:
+    - "NPR"
+  name:
+    - "Nepal Rupee"
+  symbol:
+    - "&#8360;"
+
+phone:
+  code:
+    - 977
+  length:
+    - 10
+  mobile_prefix:
+    - 97
+    - 98
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  BA: "Bagmati"
+  BH: "Bheri"
+  DH: "Dhawalagiri"
+  GA: "Gandaki"
+  JA: "Janakpur"
+  KA: "Karnali"
+  KO: "Kosi"
+  LU: "Lumbini"
+  MA: "Mahakali"
+  ME: "Mechi"
+  NA: "Narayani"
+  RA: "Rapti"
+  SA: "Sagarmatha"
+  SE: "Seti"
+  

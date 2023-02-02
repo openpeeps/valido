@@ -1,0 +1,42 @@
+info:
+  short: "Tokelau"
+  long: "Tokelau"
+  alpha2: TK
+  alpha3: TKL
+  iso: 772
+  ioc: ""
+  capital: "Fakaofo"
+  tld: "tk"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "NZD"
+  name:
+    - "New Zealand Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 690
+  length:
+    - 4
+  mobile_prefix:
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  : "Atafu"
+  : "Fakaofo"
+  : "Nukunonu"
+  

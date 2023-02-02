@@ -1,0 +1,39 @@
+info:
+  short: "Svalbard And Jan Mayen"
+  long: "Svalbard and Jan Mayen Islands"
+  alpha2: SJ
+  alpha3: SJM
+  iso: 744
+  ioc: ""
+  capital: "Longyearbyen"
+  tld: "sj"
+
+languages: []
+
+currency:
+  code:
+    - "NOK"
+  name:
+    - "Norway Krone"
+  symbol:
+    - "&#107;&#114;"
+
+phone:
+  code:
+    - 47
+  length:
+    - 8
+  mobile_prefix:
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states: {}
+  

@@ -1,0 +1,38 @@
+info:
+  short: ""
+  long: "Heard Island and McDonald Islands"
+  alpha2: HM
+  alpha3: HMD
+  iso: 334
+  ioc: ""
+  capital: ""
+  tld: "hm"
+
+languages: []
+
+currency:
+  code:
+    - "AUD"
+  name:
+    - "Australia Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  : "Heard Island and McDonald Islands"
+  

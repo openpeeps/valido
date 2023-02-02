@@ -1,0 +1,45 @@
+info:
+  short: ""
+  long: "South Sudan"
+  alpha2: SS
+  alpha3: SSD
+  iso: 728
+  ioc: "SSD"
+  capital: "Juba"
+  tld: "ss"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "SSP"
+  name:
+  symbol:
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BN: "Northern Bahr el Ghazal"
+  BW: "Western Bahr el Ghazal"
+  CE: "Central Equatoria"
+  EE: "Eastern Equatoria"
+  EW: "Western Equatoria"
+  JG: "Jonglei"
+  LK: "Lakes"
+  NU: "Upper Nile"
+  UY: "Unity"
+  WR: "Warrap"
+  

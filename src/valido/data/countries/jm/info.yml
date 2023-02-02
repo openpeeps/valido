@@ -1,0 +1,55 @@
+info:
+  short: "Jamaica"
+  long: "Jamaica"
+  alpha2: JM
+  alpha3: JAM
+  iso: 388
+  ioc: "JAM"
+  capital: "Kingston"
+  tld: "jm"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "JMD"
+  name:
+    - "Jamaica Dollar"
+  symbol:
+    - "&#74;&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 876
+
+postal:
+  description: "2-Digits - NN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{2}$"
+  charset: number
+  length:
+    - "2"
+  formats:
+    - "NN"
+    
+states:
+  01: "Kingston"
+  02: "Saint Andrew"
+  03: "Saint Thomas"
+  04: "Portland"
+  05: "Saint Mary"
+  06: "Saint Ann"
+  07: "Trelawny"
+  08: "Saint James"
+  09: "Hanover"
+  10: "Westmoreland"
+  11: "Saint Elizabeth"
+  12: "Manchester"
+  13: "Clarendon"
+  14: "Saint Catherine"
+  

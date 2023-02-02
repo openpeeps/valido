@@ -1,0 +1,46 @@
+info:
+  short: "Virgin Islands, U.S."
+  long: "Virgin Islands, US"
+  alpha2: VI
+  alpha3: VIR
+  iso: 850
+  ioc: "ISV"
+  capital: "Charlotte Amalie"
+  tld: "vi"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 340
+
+postal:
+  description: "US : NNNNN[-NNNN]"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}([0-9]{4})?$"
+  charset: number
+  length:
+    - "5"
+    - "10"
+  formats:
+    - "NNNNN"
+    - "NNNNN[-NNNN]"
+    
+states:
+  SCR: "St. Croix"
+  SJO: "St. John"
+  STH: "St. Thomas"
+  

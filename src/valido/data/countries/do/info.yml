@@ -1,0 +1,52 @@
+info:
+  short: "Dominican Republic"
+  long: "Dominican Republic"
+  alpha2: DO
+  alpha3: DOM
+  iso: 214
+  ioc: "DOM"
+  capital: "Santo Domingo de Guzm"
+  tld: "do"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "DOP"
+  name:
+    - "Dominican Republic Peso"
+  symbol:
+    - "&#82;&#68;&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 809
+    - 829
+    - 849
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  01: "Distrito Nacional"
+  02: "Cibao Central"
+  04: "Norcentral"
+  34: "Nordeste"
+  34: "Noroeste"
+  35: "Norte"
+  37: "Del Valle"
+  38: "Enriquillo"
+  42: "Valdesia"
+  

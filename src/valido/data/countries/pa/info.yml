@@ -1,0 +1,57 @@
+info:
+  short: "Panama"
+  long: "Panama"
+  alpha2: PA
+  alpha3: PAN
+  iso: 591
+  ioc: "PAN"
+  capital: "Ciudad de Panam"
+  tld: "pa"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "PAB"
+    - "USD"
+  name:
+    - "Panama Balboa"
+    - "United States Dollar"
+  symbol:
+    - "&#66;&#47;&#46;"
+    - "&#36;"
+
+phone:
+  code:
+    - 507
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  1: "Bocas del Toro"
+  2: "Cocl"
+  3: "Coln"
+  4: "Chiriqu"
+  5: "Darin"
+  6: "Herrera"
+  7: "Los Santos"
+  8: "Panam"
+  9: "Veraguas"
+  10: "Panam Oeste"
+  EM: "Ember"
+  KY: "Kuna Yala"
+  NB: "Ngbe-Bugl"
+  

@@ -1,0 +1,54 @@
+info:
+  short: "Cook Islands"
+  long: "Cook Islands"
+  alpha2: CK
+  alpha3: COK
+  iso: 184
+  ioc: "COK"
+  capital: "Avarua"
+  tld: "ck"
+
+languages:
+  - eng
+  - mri
+
+currency:
+  code:
+    - "NZD"
+  name:
+    - "New Zealand Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 682
+  length:
+    - 5
+  mobile_prefix:
+    - 5
+    - 7
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  : "Aitutaki"
+  : "Atiu"
+  : "Avarua"
+  : "Mangaia"
+  : "Manihiki"
+  : "Ma'uke"
+  : "Mitiaro"
+  : "Nassau"
+  : "Palmerston"
+  : "Penrhyn"
+  : "Pukapuka"
+  : "Rakahanga"
+  

@@ -1,0 +1,52 @@
+info:
+  short: "Mozambique"
+  long: "Mozambique"
+  alpha2: MZ
+  alpha3: MOZ
+  iso: 508
+  ioc: "MOZ"
+  capital: "Maputo"
+  tld: "mz"
+
+languages:
+  - por
+
+currency:
+  code:
+    - "MZN"
+  name:
+    - "Mozambique Metical"
+  symbol:
+    - "&#77;&#84;"
+
+phone:
+  code:
+    - 258
+  length:
+    - 9
+  mobile_prefix:
+    - 8
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  A: "Niassa"
+  B: "Manica"
+  G: "Gaza"
+  I: "Inhambane"
+  L: "Maputo"
+  MPM: "Maputo (City) "
+  N: "Nampula"
+  P: "Cabo Delgado"
+  Q: "Zambezia"
+  S: "Sofala"
+  T: "Tete"
+  

@@ -1,0 +1,33 @@
+info:
+  short: "Sint Maarten"
+  long: ""
+  alpha2: SX
+  alpha3: SXM
+  iso: 
+  ioc: ""
+  capital: "Philipsburg"
+  tld: "sx"
+
+languages:
+  - nld
+
+currency:
+  code:
+    - "ANG"
+  name:
+    - "Netherlands Antilles Guilder"
+  symbol:
+    - "&#402;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 721
+
+postal:{}
+states:
+  : "Sint Maarten"
+  

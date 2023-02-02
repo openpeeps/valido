@@ -1,0 +1,95 @@
+info:
+  short: "Viet Nam"
+  long: "Viet Nam"
+  alpha2: VN
+  alpha3: VNM
+  iso: 704
+  ioc: "VIE"
+  capital: "Hanoi"
+  tld: "vn"
+
+languages:
+  - vie
+
+currency:
+  code:
+    - "VND"
+  name:
+    - "Viet Nam Dong"
+  symbol:
+    - "&#8363;"
+
+phone:
+  code:
+    - 84
+  length:
+    - 9
+    - 10
+  mobile_prefix:
+    - 1
+    - 3
+    - 5
+    - 7
+    - 8
+    - 9
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  01: "Lai Chu"
+  02: "Lo Cai"
+  03: "H Giang"
+  05: "Sn La"
+  06: "Yn Bi"
+  07: "Tuyn Quang"
+  09: "Lng Sn"
+  13: "Qung Ninh"
+  14: "Ha Bnh"
+  15: "H Ty"
+  18: "Ninh Bnh"
+  20: "Thi Bnh"
+  21: "Thanh Ha"
+  22: "Ngh An"
+  23: "H Tnh"
+  24: "Qung Bnh"
+  25: "Qung Tr"
+  26: "Tha ThinHu"
+  27: "Qung Nam"
+  28: "Kon Tum"
+  29: "Qung Ngi"
+  30: "Gia Lai"
+  32: "Ph Yn"
+  34: "Khnh Ha"
+  35: "Lm ng"
+  36: "Ninh Thun"
+  37: "Ty Ninh"
+  39: "ng Nai"
+  41: "Long An"
+  45: "ng Thp"
+  46: "Tin Giang"
+  47: "Kin Giang"
+  49: "Vnh Long"
+  51: "Tr Vinh"
+  52: "Sc Trng"
+  61: "Hi Dng"
+  63: "H Nam"
+  66: "Hng Yn"
+  67: "Nam nh"
+  68: "Ph Th"
+  69: "Thi Nguyn"
+  70: "Vnh Phc"
+  73: "Hu Giang"
+  CT: "Cn Th"
+  DN: " Nng"
+  HN: "H Ni"
+  HP: "Hi Phng"
+  SG: "H Ch Minh (Si Gn) "
+  

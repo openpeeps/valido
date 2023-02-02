@@ -1,0 +1,62 @@
+info:
+  short: "Bhutan"
+  long: "Bhutan"
+  alpha2: BT
+  alpha3: BTN
+  iso: 64
+  ioc: "BHU"
+  capital: "Thimphu"
+  tld: "bt"
+
+languages:
+  - dzo
+
+currency:
+  code:
+    - "BTN"
+    - "INR"
+  name:
+    - "India Rupee"
+  symbol:
+    - ""
+
+phone:
+  code:
+    - 975
+  length:
+    - 8
+  mobile_prefix:
+    - 17
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  11: "Paro"
+  12: "Chhukha"
+  13: "Haa"
+  14: "Samtse"
+  15: "Thimphu"
+  21: "Tsirang"
+  22: "Dagana"
+  23: "Punakha"
+  24: "Wangdue Phodrang"
+  31: "Sarpang"
+  32: "Trongsa"
+  33: "Bumthang"
+  34: "Zhemgang"
+  41: "Trashigang"
+  42: "Mongar"
+  43: "Pemagatshel"
+  44: "Lhuntse"
+  45: "Samdrup Jongkhar"
+  GA: "Gasa"
+  TY: "Trashiyangtse"
+  

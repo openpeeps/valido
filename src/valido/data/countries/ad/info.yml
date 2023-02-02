@@ -1,0 +1,50 @@
+info:
+  short: "Andorra"
+  long: "Andorra"
+  alpha2: AD
+  alpha3: AND
+  iso: 20
+  ioc: "AND"
+  capital: "Andorra la Vella"
+  tld: "ad"
+
+languages:
+  - cat
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 376
+  length:
+    - 6
+  mobile_prefix:
+    - 3
+    - 4
+    - 6
+
+postal:
+  description: "AD : CCNNN"
+  redenundant_chars: " -"
+  regex: "^AD[0-9]{3}$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "CCNNN"
+    
+states:
+  02: "Canillo"
+  03: "Encamp"
+  04: "La Massana"
+  05: "Ordino"
+  06: "Sant Juli de Lria"
+  07: "Andorra la Vella"
+  08: "Escaldes-Engordany"
+  

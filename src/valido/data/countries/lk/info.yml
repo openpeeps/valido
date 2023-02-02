@@ -1,0 +1,51 @@
+info:
+  short: "Sri Lanka"
+  long: "Sri Lanka"
+  alpha2: LK
+  alpha3: LKA
+  iso: 144
+  ioc: "SRI"
+  capital: ""
+  tld: "lk"
+
+languages:
+  - sin
+  - tam
+
+currency:
+  code:
+    - "LKR"
+  name:
+    - "Sri Lanka Rupee"
+  symbol:
+    - "&#8360;"
+
+phone:
+  code:
+    - 94
+  length:
+    - 9
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  1: "Basnahira"
+  2: "Madhyama"
+  3: "Dakunu"
+  4: "Uturu"
+  5: "Naegenahira"
+  6: "Vayamba"
+  7: "Uturumaeda"
+  8: "Uva"
+  9: "Sabaragamuwa"
+  

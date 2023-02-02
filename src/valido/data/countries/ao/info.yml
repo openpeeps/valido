@@ -1,0 +1,56 @@
+info:
+  short: "Angola"
+  long: "Angola"
+  alpha2: AO
+  alpha3: AGO
+  iso: 24
+  ioc: "ANG"
+  capital: "Luanda"
+  tld: "ao"
+
+languages:
+  - por
+
+currency:
+  code:
+    - "AOA"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 244
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BGO: "Bengo"
+  BGU: "Benguela"
+  BIE: "Bi"
+  CAB: "Cabinda"
+  CCU: "Cuando Cubango"
+  CNN: "Cunene"
+  CNO: "Cuanza Norte"
+  CUS: "Cuanza Sul"
+  HUA: "Huambo"
+  HUI: "Hula"
+  LNO: "Lunda Norte"
+  LSU: "Lunda Sul"
+  LUA: "Luanda"
+  MAL: "Malanje"
+  MOX: "Moxico"
+  NAM: "Namibe"
+  UIG: "Uge"
+  ZAI: "Zaire"
+  

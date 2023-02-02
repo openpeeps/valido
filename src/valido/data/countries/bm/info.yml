@@ -1,0 +1,53 @@
+info:
+  short: "Bermuda"
+  long: "Bermuda"
+  alpha2: BM
+  alpha3: BMU
+  iso: 60
+  ioc: "BER"
+  capital: "Hamilton"
+  tld: "bm"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "BMD"
+  name:
+    - "Bermuda Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 4413
+    - 4415
+    - 4417
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "Devonshire Parish"
+  02: "Hamilton Parish"
+  03: "City of Hamilton"
+  04: "Paget Parish"
+  05: "Pembroke Parish"
+  06: "Town of St. George"
+  07: "St. George's Parish"
+  08: "Sandys Parish"
+  09: "Smith's Parish"
+  10: "Southampton Parish"
+  11: "Warwick Parish"
+  

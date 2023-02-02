@@ -1,0 +1,50 @@
+info:
+  short: "Tuvalu"
+  long: "Tuvalu"
+  alpha2: TV
+  alpha3: TUV
+  iso: 798
+  ioc: "TUV"
+  capital: "Funafuti"
+  tld: "tv"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "AUD"
+    - "TVD"
+  name:
+    - "Australia Dollar"
+    - "Tuvalu Dollar"
+  symbol:
+    - "&#36;"
+    - "&#36;"
+
+phone:
+  code:
+    - 688
+  length:
+    - 5
+  mobile_prefix:
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  FUN: "Funafuti"
+  NIT: "Niutao"
+  NKF: "Nukufetau"
+  NKL: "Nukulaelae"
+  NMA: "Nanumea"
+  NMG: "Nanumanga"
+  NUI: "Nui"
+  VAU: "Vaitupu"
+  

@@ -1,0 +1,62 @@
+info:
+  short: "Honduras"
+  long: "Honduras"
+  alpha2: HN
+  alpha3: HND
+  iso: 340
+  ioc: "HON"
+  capital: "Tegucigalpa"
+  tld: "hn"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "HNL"
+  name:
+    - "Honduras Lempira"
+  symbol:
+    - "&#76;"
+
+phone:
+  code:
+    - 504
+  length:
+    - 8
+  mobile_prefix:
+    - 3
+    - 7
+    - 8
+    - 9
+
+postal:
+  description: "HN : CCNNNNN"
+  redenundant_chars: " -"
+  regex: "^(HN)?[0-9]{5}$"
+  charset: varchar
+  length:
+    - "7"
+  formats:
+    - "CCNNNNN"
+    
+states:
+  AT: "Atlntida"
+  CH: "Choluteca"
+  CL: "Coln"
+  CM: "Comayagua"
+  CP: "Copn"
+  CR: "Corts"
+  EP: "El Paraso"
+  FM: "Francisco Morazan"
+  GD: "Gracias a Dios"
+  IB: "Islas de la Baha"
+  IN: "Intibuc"
+  LE: "Lempira"
+  LP: "La Paz"
+  OC: "Ocotepeque"
+  OL: "Olancho"
+  SB: "Santa Brbara"
+  VA: "Valle"
+  YO: "Yoro"
+  

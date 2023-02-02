@@ -1,0 +1,61 @@
+info:
+  short: "Italy"
+  long: "Italy"
+  alpha2: IT
+  alpha3: ITA
+  iso: 380
+  ioc: "ITA"
+  capital: "Roma"
+  tld: "it"
+
+languages:
+  - ita
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 39
+  length:
+    - 10
+  mobile_prefix:
+    - 3
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  21: "Piemonte"
+  23: "Valle d'Aosta"
+  25: "Lombardia"
+  32: "Trentino-Alto Adige"
+  34: "Veneto"
+  36: "Friuli-Venezia Giulia"
+  42: "Liguria"
+  45: "Emilia-Romagna"
+  52: "Toscana"
+  55: "Umbria"
+  57: "Marche"
+  62: "Lazio"
+  65: "Abruzzo"
+  67: "Molise"
+  72: "Campania"
+  75: "Puglia"
+  77: "Basilicata"
+  78: "Calabria"
+  82: "Sicilia"
+  88: "Sardegna"
+  

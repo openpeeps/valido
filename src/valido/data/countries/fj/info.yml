@@ -1,0 +1,57 @@
+info:
+  short: "Fiji"
+  long: "Fiji"
+  alpha2: FJ
+  alpha3: FJI
+  iso: 242
+  ioc: "FIJ"
+  capital: "Suva"
+  tld: "fj"
+
+languages:
+  - eng
+  - fij
+
+currency:
+  code:
+    - "FJD"
+  name:
+    - "Fiji Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 679
+  length:
+    - 7
+  mobile_prefix:
+    - 7
+    - 9
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "Ba"
+  01: "Bua"
+  03: "Cakaudrove"
+  04: "Kadavu"
+  05: "Lau"
+  06: "Lomaiviti"
+  07: "Macuata"
+  08: "Nadroga and Navosa"
+  09: "Naitasiri"
+  10: "Namosi"
+  011: "Ra"
+  12: "Rewa"
+  12: "Serua"
+  14: "Tailevu"
+  R: "Rotuma"
+  

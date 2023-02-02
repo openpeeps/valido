@@ -1,0 +1,48 @@
+info:
+  short: "Eritrea"
+  long: "Eritrea"
+  alpha2: ER
+  alpha3: ERI
+  iso: 232
+  ioc: "ERI"
+  capital: "Asmara"
+  tld: "er"
+
+languages:
+  - ara
+  - eng
+  - tir
+
+currency:
+  code:
+    - "ERN"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 291
+  length:
+    - 7
+  mobile_prefix:
+    - 1
+    - 7
+    - 8
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AN: "Anseba"
+  DK: "Debub-Keih-Bahri"
+  DU: "Debub"
+  GB: "Gash-Barka"
+  MA: "Maekel"
+  SK: "Semien-Keih-Bahri"
+  

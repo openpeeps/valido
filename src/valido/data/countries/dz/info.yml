@@ -1,0 +1,89 @@
+info:
+  short: "Algeria"
+  long: "Algeria"
+  alpha2: DZ
+  alpha3: DZA
+  iso: 12
+  ioc: "ALG"
+  capital: "Alger"
+  tld: "dz"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "DZD"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 213
+  length:
+    - 9
+  mobile_prefix:
+    - 5
+    - 6
+    - 7
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  01: "Adrar"
+  02: "Chlef"
+  03: "Laghouat"
+  04: "Oum el Bouaghi"
+  05: "Batna"
+  06: "Bjaa"
+  07: "Biskra"
+  08: "Bchar"
+  09: "Blida"
+  10: "Boura"
+  11: "Tamanghasset"
+  12: "Tbessa"
+  13: "Tlemcen"
+  14: "Tiaret"
+  15: "Tizi Ouzou"
+  16: "Algiers"
+  17: "Djelfa"
+  18: "Jijel"
+  19: "Stif"
+  20: "Sada"
+  21: "Skikda"
+  22: "Sidi Bel Abbs"
+  23: "Annaba"
+  24: "Guelma"
+  25: "Constantine"
+  26: "Mda"
+  27: "Mostaganem"
+  28: "Msila"
+  29: "Mascara"
+  30: "Ouargla"
+  31: "Oran"
+  32: "El Bayadh"
+  33: "Illizi"
+  34: "Bordj Bou Arrridj"
+  35: "Boumerds"
+  36: "El Tarf"
+  37: "Tindouf"
+  38: "Tissemsilt"
+  39: "El Oued"
+  40: "Khenchela"
+  41: "Souk Ahras"
+  42: "Tipaza"
+  43: "Mila"
+  44: "An Defla"
+  45: "Nama"
+  46: "An Tmouchent"
+  47: "Ghardaa"
+  48: "Relizane"
+  

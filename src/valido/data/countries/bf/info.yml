@@ -1,0 +1,84 @@
+info:
+  short: "Burkina Faso"
+  long: "Burkina Faso"
+  alpha2: BF
+  alpha3: BFA
+  iso: 854
+  ioc: "BUR"
+  capital: "Ouagadougou"
+  tld: "bf"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XOF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 226
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+    - 7
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BAL: "Bal"
+  BAM: "Bam/Lake Bam"
+  BAN: "Banwa Province"
+  BAZ: "Bazga"
+  BGR: "Bougouriba"
+  BLG: "Boulgou Province"
+  BLK: "Boulkiemd"
+  COM: "Como/Komoe"
+  GAN: "Ganzourgou Province"
+  GNA: "Gnagna"
+  GOU: "Gourma Province"
+  HOU: "Houet"
+  IOB: "Ioba"
+  KAD: "Kadiogo"
+  KEN: "Kndougou"
+  KMD: "Komondjari"
+  KMP: "Kompienga"
+  KOP: "Koulplogo"
+  KOS: "Kossi Province"
+  KOT: "Kouritenga"
+  KOW: "Kourwogo"
+  LER: "Lraba"
+  LOR: "Loroum"
+  MOU: "Mouhoun"
+  NAM: "Namentenga"
+  NAO: "Naouri/Nahouri"
+  NAY: "Nayala"
+  NOU: "Noumbiel"
+  OUB: "Oubritenga"
+  OUD: "Oudalan"
+  PAS: "Passor"
+  PON: "Poni"
+  SEN: "Sno"
+  SIS: "Sissili"
+  SMT: "Sanmatenga"
+  SNG: "Sangui"
+  SOM: "Soum"
+  SOR: "Sourou"
+  TAP: "Tapoa"
+  TUI: "Tui/Tuy"
+  YAG: "Yagha"
+  YAT: "Yatenga"
+  ZIR: "Ziro"
+  ZON: "Zondoma"
+  ZOU: "Zoundwogo"
+  

@@ -1,0 +1,37 @@
+info:
+  short: ""
+  long: "Bouvet Island"
+  alpha2: BV
+  alpha3: BVT
+  iso: 74
+  ioc: ""
+  capital: ""
+  tld: "bv"
+
+languages: []
+
+currency:
+  code:
+    - "NOK"
+  name:
+    - "Norway Krone"
+  symbol:
+    - "&#107;&#114;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BV: "Bouvet Island"
+  

@@ -1,0 +1,44 @@
+info:
+  short: "Guam"
+  long: "Guam"
+  alpha2: GU
+  alpha3: GUM
+  iso: 316
+  ioc: "GUM"
+  capital: "Aga"
+  tld: "gu"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 671
+
+postal:
+  description: "US : NNNNN[-NNNN]"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}([0-9]{4})?$"
+  charset: number
+  length:
+    - "5"
+    - "10"
+  formats:
+    - "NNNNN"
+    - "NNNNN[-NNNN]"
+    
+states:
+  : "Guam"
+  

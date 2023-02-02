@@ -1,0 +1,72 @@
+info:
+  short: "Denmark"
+  long: "Denmark"
+  alpha2: DK
+  alpha3: DNK
+  iso: 208
+  ioc: "DEN"
+  capital: "Copenhagen"
+  tld: "dk"
+
+languages:
+  - dan
+
+currency:
+  code:
+    - "DKK"
+  name:
+    - "Denmark Krone"
+  symbol:
+    - "&#107;&#114;"
+
+phone:
+  code:
+    - 45
+  length:
+    - 8
+  mobile_prefix:
+    - 2
+    - 30
+    - 31
+    - 40
+    - 41
+    - 42
+    - 50
+    - 51
+    - 52
+    - 53
+    - 60
+    - 61
+    - 71
+    - 81
+    - 91
+    - 92
+    - 93
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  81: "Nordjylland"
+  82: "Midtjylland"
+  83: "Syddanmark"
+  84: "Hovedstaden"
+  85: "Sjlland"
+  FO-01: "Nordererne"
+  FO-02: "Sand"
+  FO-03: "Strm"
+  FO-04: "Suder"
+  FO-05: "Vg"
+  FO-06: "ster"
+  GL-KU: "Kujalleq"
+  GL-QA: "Qaasuitsup"
+  GL-QE: "Qeqqata"
+  GL-SM: "Sermersooq"
+  

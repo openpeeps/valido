@@ -1,0 +1,75 @@
+info:
+  short: "Mexico"
+  long: "Mexico"
+  alpha2: MX
+  alpha3: MEX
+  iso: 484
+  ioc: "MEX"
+  capital: "Ciudad de M"
+  tld: "mx"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "MXN"
+    - "MXV"
+  name:
+    - "Mexico Peso"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 52
+  length:
+    - 10
+    - 11
+  mobile_prefix:
+    - 
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AGU: "Aguascalientes"
+  BCN: "Baja California"
+  BCS: "Baja California Sur"
+  CAM: "Campeche"
+  CHH: "Chihuahua"
+  CHP: "Chiapas"
+  COA: "Coahuila de Zaragoza"
+  COL: "Colima"
+  DIF: "Distrito Federal"
+  DUR: "Durango"
+  GRO: "Guerrero"
+  GUA: "Guanajuato"
+  HID: "Hidalgo"
+  JAL: "Jalisco"
+  MEX: "Mexico"
+  MIC: "Michoacan de Ocampo"
+  MOR: "Morelos"
+  NAY: "Nayarit"
+  NLE: "Nuevo Leon"
+  OAX: "Oaxaca"
+  PUE: "Puebla"
+  QUE: "Queretaro de Arteaga"
+  ROO: "Quintana Roo"
+  SIN: "Sinaloa"
+  SLP: "San Luis Potosi"
+  SON: "Sonora"
+  TAB: "Tabasco"
+  TAM: "Tamaulipas"
+  TLA: "Tlaxcala"
+  VER: "Veracruz-Llave"
+  YUC: "Yucatan"
+  ZAC: "Zacatecas"
+  

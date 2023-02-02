@@ -1,0 +1,53 @@
+info:
+  short: "Albania"
+  long: "Albania"
+  alpha2: AL
+  alpha3: ALB
+  iso: 8
+  ioc: "ALB"
+  capital: "Tirana"
+  tld: "al"
+
+languages:
+  - sqi
+
+currency:
+  code:
+    - "ALL"
+  name:
+    - "Albania Lek"
+  symbol:
+    - "&#76;&#101;&#107;"
+
+phone:
+  code:
+    - 355
+  length:
+    - 9
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  01: "Berat"
+  02: "Durrs"
+  03: "Elbasan"
+  04: "Fier"
+  05: "Gjirokastr"
+  06: "Kor"
+  07: "Kuks"
+  08: "Lezh"
+  09: "Dibr"
+  10: "Shkodr"
+  11: "Tirana"
+  12: "Vlor"
+  

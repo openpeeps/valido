@@ -1,0 +1,44 @@
+info:
+  short: "Aruba"
+  long: "Aruba"
+  alpha2: AW
+  alpha3: ABW
+  iso: 533
+  ioc: "ARU"
+  capital: "Oranjestad"
+  tld: "aw"
+
+languages:
+  - nld
+
+currency:
+  code:
+    - "AWG"
+  name:
+    - "Aruba Guilder"
+  symbol:
+    - "&#402;"
+
+phone:
+  code:
+    - 297
+  length:
+    - 7
+  mobile_prefix:
+    - 5
+    - 6
+    - 7
+    - 9
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AW: "Aruba"
+  

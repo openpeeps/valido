@@ -1,0 +1,55 @@
+info:
+  short: "Nauru"
+  long: "Nauru"
+  alpha2: NR
+  alpha3: NRU
+  iso: 520
+  ioc: "NRU"
+  capital: "Yaren"
+  tld: "nr"
+
+languages:
+  - eng
+  - nau
+
+currency:
+  code:
+    - "AUD"
+  name:
+    - "Australia Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 674
+  length:
+    - 7
+  mobile_prefix:
+    - 555
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "Aiwo"
+  02: "Anabar"
+  03: "Anetan"
+  04: "Anibare"
+  05: "Baiti"
+  06: "Boe"
+  07: "Buada"
+  08: "Denigomodu"
+  09: "Ewa"
+  10: "Ijuw"
+  11: "Meneng"
+  12: "Nibok"
+  13: "Uaboe"
+  14: "Yaren"
+  

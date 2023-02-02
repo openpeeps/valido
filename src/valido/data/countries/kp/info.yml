@@ -1,0 +1,54 @@
+info:
+  short: "North Korea"
+  long: "Korea, Democratic People's Republic of"
+  alpha2: KP
+  alpha3: PRK
+  iso: 408
+  ioc: "PRK"
+  capital: "Pyongyang"
+  tld: "kp"
+
+languages:
+  - kor
+
+currency:
+  code:
+    - "KPW"
+  name:
+    - "Korea (North) Won"
+    - "Korea (North) Won"
+  symbol:
+    - "&#8361;"
+    - "&#8361;"
+
+phone:
+  code:
+    - 850
+  length:
+    - 6
+    - 7
+  mobile_prefix:
+    - 
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "P'yongyang-si (P'yongyang City) "
+  02: "P'yongan-namdo (South P'yongan Province) "
+  03: "P'yongan-bukto (North P'yongan Province) "
+  04: "Chagang-do (Chagang Province) "
+  05: "Hwanghae-namdo (South Hwanghae Province) "
+  06: "Hwanghae-bukto (North Hwanghae Province) "
+  07: "Kangwon-do (Kangwon Province) "
+  08: "Hamgyong-namdo (South Hamgyong Province) "
+  09: "Hamgyong-bukto (North Hamgyong Province) "
+  10: "Yanggang-do (Yanggang Province) "
+  13: "Nasn (Najin-Snbong) "
+  

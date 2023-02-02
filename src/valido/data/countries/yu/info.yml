@@ -1,0 +1,33 @@
+info:
+  short: ""
+  long: "Yugoslavia"
+  alpha2: YU
+  alpha3: YUG
+  iso: 
+  ioc: ""
+  capital: "Beograd"
+  tld: ""
+
+languages: []
+
+currency:
+  code:
+  name:
+  symbol:
+
+phone:
+  code:
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states: {}
+  

@@ -1,0 +1,50 @@
+info:
+  short: "Guyana"
+  long: "Guyana"
+  alpha2: GY
+  alpha3: GUY
+  iso: 328
+  ioc: "GUY"
+  capital: "Georgetown"
+  tld: "gy"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "GYD"
+  name:
+    - "Guyana Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 592
+  length:
+    - 7
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  BA: "Barima-Waini"
+  CU: "Cuyuni-Mazaruni"
+  DE: "Demerara-Mahaica"
+  EB: "East Berbice-Corentyne"
+  ES: "Essequibo Islands-West Demerara"
+  MA: "Mahaica-Berbice"
+  PM: "Pomeroon-Supenaam"
+  PT: "Potaro-Siparuni"
+  UD: "Upper Demerara-Berbice"
+  UT: "Upper Takutu-Upper Essequibo"
+  

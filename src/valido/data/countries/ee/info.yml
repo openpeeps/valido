@@ -1,0 +1,63 @@
+info:
+  short: "Estonia"
+  long: "Estonia"
+  alpha2: EE
+  alpha3: EST
+  iso: 233
+  ioc: "EST"
+  capital: "Tallinn"
+  tld: "ee"
+
+languages:
+  - est
+
+currency:
+  code:
+    - "EEK"
+    - "EUR"
+  name:
+    - "Estonia Kroon"
+    - "Euro Member Countries"
+  symbol:
+    - "&#107;&#114;"
+    - "&#8364;"
+
+phone:
+  code:
+    - 372
+  length:
+    - 7
+    - 8
+  mobile_prefix:
+    - 5
+    - 81
+    - 82
+    - 83
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  37: "Harjumaa (Tallinn) "
+  39: "Hiiumaa (Kardla) "
+  41: "Jrvamaa (Paide) "
+  44: "Ida-Virumaa (Johvi) "
+  49: "Jgevamaa (Jogeva) "
+  57: "Lnemaa"
+  59: "Lne-Virumaa (Rakvere) "
+  65: "Plvamaa (Polva) "
+  67: "Prnumaa (Parnu) "
+  70: "Raplamaa (Rapla) "
+  74: "Saaremaa (Kuessaare) "
+  78: "Tartumaa (Tartu) "
+  82: "Valgamaa (Valga) "
+  84: "Viljandimaa (Viljandi) "
+  86: "Vrumaa (Voru) "
+  

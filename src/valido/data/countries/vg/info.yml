@@ -1,0 +1,45 @@
+info:
+  short: "Virgin Islands, British"
+  long: "British Virgin Islands"
+  alpha2: VG
+  alpha3: VGB
+  iso: 92
+  ioc: "IVB"
+  capital: "Road Town"
+  tld: "vg"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 284
+
+postal:
+  description: "VG : CCNNNN"
+  redenundant_chars: " -"
+  regex: "^(VG)?[0-9]{4}$"
+  charset: varchar
+  length:
+    - "6"
+  formats:
+    - "CCNNNN"
+    
+states:
+  ANG: "Anegada"
+  JVD: "Jost Van Dyke"
+  TTA: "Tortola"
+  VGD: "Virgin Gorda"
+  

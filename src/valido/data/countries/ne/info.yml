@@ -1,0 +1,47 @@
+info:
+  short: "Niger"
+  long: "Niger"
+  alpha2: NE
+  alpha3: NER
+  iso: 562
+  ioc: "NIG"
+  capital: "Niamey"
+  tld: "ne"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XOF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 227
+  length:
+    - 8
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  1: "Agadez"
+  2: "Diffa"
+  3: "Dosso"
+  4: "Maradi"
+  5: "Tahoua"
+  6: "Tillabri"
+  7: "Zinder"
+  8: "Niamey"
+  

@@ -1,0 +1,38 @@
+info:
+  short: ""
+  long: "France, Metropolitan"
+  alpha2: FX
+  alpha3: FXM
+  iso: 
+  ioc: ""
+  capital: "null"
+  tld: "null"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 241
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states: {}
+  

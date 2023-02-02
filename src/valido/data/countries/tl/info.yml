@@ -1,0 +1,53 @@
+info:
+  short: "Timor-Leste"
+  long: "Timor-Leste"
+  alpha2: TL
+  alpha3: TLS
+  iso: 626
+  ioc: "TLS"
+  capital: "null"
+  tld: "null"
+
+languages:
+  - por
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 670
+  length:
+    - 8
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AL: "Aileu"
+  AN: "Ainaro"
+  BA: "Baucau"
+  BO: "Bobonaro"
+  CO: "Cova Lima"
+  DI: "Dili"
+  ER: "Ermera"
+  LA: "Lautem"
+  LI: "Liquica"
+  MF: "Manufahi"
+  MT: "Manatuto"
+  OE: "Oecussi"
+  VI: "Viqueque"
+  

@@ -1,0 +1,53 @@
+info:
+  short: "Bolivia"
+  long: "Bolivia"
+  alpha2: BO
+  alpha3: BOL
+  iso: 68
+  ioc: "BOL"
+  capital: "La Paz"
+  tld: "bo"
+
+languages:
+  - aym
+  - que
+  - spa
+
+currency:
+  code:
+    - "BOB"
+    - "BOV"
+  name:
+    - "Bolivia Boliviano"
+  symbol:
+    - "&#36;&#98;"
+
+phone:
+  code:
+    - 591
+  length:
+    - 8
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  B: "Beni"
+  C: "Cochabamba"
+  H: "Chuquisaca"
+  L: "La Paz"
+  N: "Pando"
+  O: "Oruro"
+  P: "Potos"
+  S: "Santa Cruz"
+  T: "Tarija"
+  

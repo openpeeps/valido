@@ -1,0 +1,46 @@
+info:
+  short: "Turkmenistan"
+  long: "Turkmenistan"
+  alpha2: TM
+  alpha3: TKM
+  iso: 795
+  ioc: "TKM"
+  capital: "Ashgabat"
+  tld: "tm"
+
+languages:
+  - rus
+  - tuk
+
+currency:
+  code:
+    - "TMT"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 993
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  A: "Ahal"
+  B: "Balkan"
+  D: "Dashoguz"
+  L: "Lebap"
+  M: "Mary"
+  S: "Asgabat"
+  

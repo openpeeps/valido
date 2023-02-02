@@ -1,0 +1,43 @@
+info:
+  short: "Norfolk Island"
+  long: "Norfolk Island"
+  alpha2: NF
+  alpha3: NFK
+  iso: 574
+  ioc: ""
+  capital: "Kingston"
+  tld: "nf"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "AUD"
+  name:
+    - "Australia Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 672
+  length:
+    - 5
+  mobile_prefix:
+    - 5
+    - 8
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  : "Norfolk Island"
+  

@@ -1,0 +1,63 @@
+info:
+  short: "New Zealand"
+  long: "New Zealand"
+  alpha2: NZ
+  alpha3: NZL
+  iso: 554
+  ioc: "NZL"
+  capital: "Wellington"
+  tld: "nz"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "NZD"
+  name:
+    - "New Zealand Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 64
+  length:
+    - 8
+    - 9
+    - 10
+  mobile_prefix:
+    - 2
+    - 3
+    - 6
+    - 9
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  AUK: "Auckland (Tmaki-makau-rau) "
+  BOP: "Bay of Plenty (Te Moana a Toi Te Huatahi) "
+  CAN: "Canterbury (Waitaha) "
+  CIT: "Chatham Islands Territory (Wharekauri) "
+  GIS: "Gisborne (Tranga nui a Kiwa) "
+  HKB: "Hawke's Bay (Te Matau a Mui) "
+  MBH: "Marlborough"
+  MWT: "Manawatu-Wanganui (Manawatu Whanganui) "
+  NSN: "Nelson (Whakat) "
+  NTL: "Northland (Te Tai tokerau) "
+  OTA: "Otago ( Tkou) "
+  STL: "Southland (Murihiku) "
+  TAS: "Tasman"
+  TKI: "Taranaki (Taranaki) "
+  WGN: "Wellington (Te Whanga-nui-a-Tara) "
+  WKO: "Waikato"
+  WTC: "West Coast (Te Taihau  uru) "
+  

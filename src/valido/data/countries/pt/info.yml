@@ -1,0 +1,63 @@
+info:
+  short: "Portugal"
+  long: "Portugal"
+  alpha2: PT
+  alpha3: PRT
+  iso: 620
+  ioc: "POR"
+  capital: "Lisboa"
+  tld: "pt"
+
+languages:
+  - por
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 351
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "PT : NNNN[ NNN]"
+  redenundant_chars: " -"
+  regex: "^([0-9]{4}|[0-9]{7})$"
+  charset: number
+  length:
+    - "4"
+    - "8"
+  formats:
+    - "NNNN"
+    - "NNNN[ NNN]"
+    
+states:
+  01: "Aveiro"
+  02: "Beja"
+  03: "Braga"
+  04: "Braganca"
+  05: "Castelo Branco"
+  06: "Coimbra"
+  07: "Evora"
+  08: "Faro"
+  09: "Guarda"
+  10: "Leiria"
+  11: "Lisboa"
+  12: "Portalegre"
+  13: "Porto"
+  14: "Santarem"
+  15: "Setubal"
+  16: "Viana do Castelo"
+  17: "Vila Real"
+  18: "Viseu"
+  20: "Acores"
+  30: "Madeira"
+  

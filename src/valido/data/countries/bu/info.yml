@@ -1,0 +1,33 @@
+info:
+  short: ""
+  long: "Burma"
+  alpha2: BU
+  alpha3: BUR
+  iso: 
+  ioc: ""
+  capital: "Naypyitaw"
+  tld: "bu"
+
+languages: []
+
+currency:
+  code:
+  name:
+  symbol:
+
+phone:
+  code:
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states: {}
+  

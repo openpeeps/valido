@@ -1,0 +1,54 @@
+info:
+  short: "Lithuania"
+  long: "Lithuania"
+  alpha2: LT
+  alpha3: LTU
+  iso: 440
+  ioc: "LTU"
+  capital: "Vilnius"
+  tld: "lt"
+
+languages:
+  - lit
+
+currency:
+  code:
+    - "EUR"
+    - "LTL"
+  name:
+    - "Euro Member Countries"
+    - "Lithuania Litas"
+  symbol:
+    - "&#8364;"
+    - "&#76;&#116;"
+
+phone:
+  code:
+    - 370
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "LT : LT-NNNNN"
+  redenundant_chars: " -"
+  regex: "^(LT)?[0-9]{5}$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "LT-NNNNN"
+    
+states:
+  AL: "Alytaus"
+  KL: "Klaipdos"
+  KU: "Kauno"
+  MR: "Marijampols"
+  PN: "Panevio"
+  SA: "iauli"
+  TA: "Taurags"
+  TE: "Teli"
+  UT: "Utenos"
+  VL: "Vilniaus"
+  

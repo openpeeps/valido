@@ -1,0 +1,39 @@
+info:
+  short: ""
+  long: "Western Sahara"
+  alpha2: EH
+  alpha3: ESH
+  iso: 732
+  ioc: ""
+  capital: "El-Aai"
+  tld: "eh"
+
+languages: []
+
+currency:
+  code:
+    - "MAD"
+  name:
+  symbol:
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AOU: "Aousserd"
+  BOD: "Boujdour"
+  ESM: "Es Smara"
+  LAA: "Layoune"
+  OUD: "Oued ed Dahab"
+  

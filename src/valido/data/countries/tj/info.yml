@@ -1,0 +1,44 @@
+info:
+  short: "Tajikistan"
+  long: "Tajikistan"
+  alpha2: TJ
+  alpha3: TJK
+  iso: 762
+  ioc: "TJK"
+  capital: "Dushanbe"
+  tld: "tj"
+
+languages:
+  - rus
+  - tgk
+
+currency:
+  code:
+    - "TJS"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 992
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  DU: "Dushanbe"
+  GB: "Khistoni Badakhshon"
+  KT: "Khatlon"
+  SU: "Sughd"
+  

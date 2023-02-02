@@ -1,0 +1,56 @@
+info:
+  short: "Uzbekistan"
+  long: "Uzbekistan"
+  alpha2: UZ
+  alpha3: UZB
+  iso: 860
+  ioc: "UZB"
+  capital: "Toskent"
+  tld: "uz"
+
+languages:
+  - rus
+  - uzb
+
+currency:
+  code:
+    - "UZS"
+  name:
+    - "Uzbekistan Som"
+  symbol:
+    - "&#1083;&#1074;"
+
+phone:
+  code:
+    - 998
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "6-Digits - NNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{6}$"
+  charset: number
+  length:
+    - "6"
+  formats:
+    - "NNNNNN"
+    
+states:
+  AN: "Andijon"
+  BU: "Buxoro"
+  FA: "Fargona"
+  JI: "Jizzax"
+  NG: "Namangan"
+  NW: "Navoiy"
+  QA: "Qashqadaryo (Qarshi) "
+  QR: "Qoraqalpogiston Respublikasi (Nukus) "
+  SA: "Samarqand"
+  SI: "Sirdaryo (Guliston) "
+  SU: "Surxondaryo (Termiz) "
+  TK: "Toshkent shahri"
+  TO: "Toshkent wiloyati"
+  XO: "Xorazm (Urganch) "
+  

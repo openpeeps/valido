@@ -1,0 +1,44 @@
+info:
+  short: "Turks and Caicos Islands"
+  long: "Turks and Caicos Islands"
+  alpha2: TC
+  alpha3: TCA
+  iso: 796
+  ioc: ""
+  capital: "Cockburn Town"
+  tld: "tc"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 6492
+    - 6493
+    - 6494
+
+postal:
+  description: "TC : TKCA 1ZZ"
+  redenundant_chars: " -"
+  regex: "^TKCA1ZZ$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "TKCA 1ZZ"
+    
+states:
+  : "Turks and Caicos Islands"
+  

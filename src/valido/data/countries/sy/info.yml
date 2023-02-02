@@ -1,0 +1,54 @@
+info:
+  short: "Syrian Arab Republic"
+  long: "Syrian Arab Republic (Syria)"
+  alpha2: SY
+  alpha3: SYR
+  iso: 760
+  ioc: "SYR"
+  capital: "Damascus"
+  tld: "sy"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "SYP"
+  name:
+    - "Syria Pound"
+  symbol:
+    - "&#163;"
+
+phone:
+  code:
+    - 963
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  DI: "Dimashq"
+  DR: "Dar'a"
+  DY: "Dayr az Zawr"
+  HA: "Al Hasakah"
+  HI: "Hims"
+  HL: "Halab"
+  HM: "Hamah"
+  ID: "Idlib"
+  LA: "Al Ladhiqiyah"
+  QU: "Al Qunaytirah"
+  RA: "Ar Raqqah"
+  RD: "Rif Dimashq"
+  SU: "As Suwayda'"
+  TA: "Tartus"
+  

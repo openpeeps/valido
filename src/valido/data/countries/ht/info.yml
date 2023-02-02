@@ -1,0 +1,56 @@
+info:
+  short: "Haiti"
+  long: "Haiti"
+  alpha2: HT
+  alpha3: HTI
+  iso: 332
+  ioc: "HAI"
+  capital: "Port-au-Prince"
+  tld: "ht"
+
+languages:
+  - fra
+  - hat
+
+currency:
+  code:
+    - "HTG"
+    - "USD"
+  name:
+    - "Gourde"
+    - "United States Dollar"
+  symbol:
+    - "&#071"
+    - "&#36;"
+
+phone:
+  code:
+    - 509
+  length:
+    - 8
+  mobile_prefix:
+    - 3
+    - 4
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  AR: "Artibonite"
+  CE: "Centre"
+  GA: "Grand'Anse"
+  ND: "Nord"
+  NE: "Nord-Est"
+  NI: "Nippes"
+  NO: "Nord-Ouest"
+  OU: "Ouest"
+  SD: "Sud"
+  SE: "Sud-Est"
+  

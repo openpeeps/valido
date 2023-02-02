@@ -1,0 +1,50 @@
+info:
+  short: "Guinea-Bissau"
+  long: "Guinea-Bissau"
+  alpha2: GW
+  alpha3: GNB
+  iso: 624
+  ioc: "GBS"
+  capital: "Bissau"
+  tld: "gw"
+
+languages:
+  - por
+
+currency:
+  code:
+    - "XOF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 245
+  length:
+    - 7
+  mobile_prefix:
+    - 5
+    - 6
+    - 7
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  BA: "Bafat"
+  BL: "Bolama-Bijagos"
+  BM: "Biombo"
+  BS: "Bissau"
+  CA: "Cacheu"
+  GA: "Gab"
+  OI: "Oio"
+  QU: "Quinara"
+  TO: "Tombali"
+  

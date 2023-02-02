@@ -1,0 +1,70 @@
+info:
+  short: "Egypt"
+  long: "Egypt"
+  alpha2: EG
+  alpha3: EGY
+  iso: 818
+  ioc: "EGY"
+  capital: "Cairo"
+  tld: "eg"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "EGP"
+  name:
+    - "Egypt Pound"
+  symbol:
+    - "&#163;"
+
+phone:
+  code:
+    - 20
+  length:
+    - 10
+  mobile_prefix:
+    - 1
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  ALX: "Alexandria"
+  ASN: "Aswan"
+  AST: "Asyout"
+  BA: "El Bahr El Ahmar"
+  BH: "Beheira"
+  BNS: "Bani Sueif"
+  C: "Cairo"
+  DK: "Daqahlia"
+  DT: "Dumiat"
+  FYM: "Fayoum"
+  GH: "Gharbia"
+  HU: "Helwan"
+  IS: "El Ismailia"
+  JS: "South Sinai"
+  KB: "Qalubia"
+  KFS: "Kafr El Sheikh"
+  KN: "Qena"
+  LX: "Luxor"
+  MN: "Menia"
+  MNF: "Menofia"
+  MT: "Matrouh"
+  PTS: "Port Said"
+  SHG: "Sohag"
+  SHR: "Sharqia"
+  SIN: "North Sinai"
+  SU: "Sixth of October"
+  SUZ: "El Suez"
+  SUZ: "Giza"
+  WAD: "El Wadi El Gedeed"
+  

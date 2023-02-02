@@ -1,0 +1,60 @@
+info:
+  short: "Liberia"
+  long: "Liberia"
+  alpha2: LR
+  alpha3: LBR
+  iso: 430
+  ioc: "LBR"
+  capital: "Monrovia"
+  tld: "lr"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "LRD"
+  name:
+    - "Liberia Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 231
+  length:
+    - 7
+    - 8
+  mobile_prefix:
+    - 4
+    - 5
+    - 6
+    - 7
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  BG: "Bong"
+  BM: "Bomi"
+  CM: "Grand Cape Mount"
+  GB: "Grand Bassa"
+  GG: "Grand Gedeh"
+  GK: "Grand Kru"
+  GP: "Gbarpolu"
+  LO: "Lofa"
+  MG: "Margibi"
+  MO: "Montserrado"
+  MY: "Maryland"
+  NI: "Nimba"
+  RG: "River Geee"
+  RI: "River Cess"
+  SI: "Sinoe"
+  

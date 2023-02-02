@@ -1,0 +1,49 @@
+info:
+  short: "Australia"
+  long: "Australia"
+  alpha2: AU
+  alpha3: AUS
+  iso: 36
+  ioc: "AUS"
+  capital: "Canberra"
+  tld: "au"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "AUD"
+  name:
+    - "Australia Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 61
+  length:
+    - 9
+  mobile_prefix:
+    - 4
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  ACT: "Australian Capital Territory"
+  NSW: "New South Wales"
+  NT: "Northern Territory"
+  QLD: "Queensland"
+  SA: "South Australia"
+  TAS: "Tasmania"
+  VIC: "Victoria"
+  WA: "Western Australia"
+  

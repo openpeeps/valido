@@ -1,0 +1,72 @@
+info:
+  short: "Serbia"
+  long: "Serbia"
+  alpha2: RS
+  alpha3: SRB
+  iso: 688
+  ioc: "SRB"
+  capital: "null"
+  tld: "null"
+
+languages:
+  - srp
+
+currency:
+  code:
+    - "RSD"
+  name:
+    - "Serbia Dinar"
+  symbol:
+    - "&#1044;&#1080;&#1085;&#46;"
+
+phone:
+  code:
+    - 381
+  length:
+    - 8
+    - 9
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  00: "Beograd (Belgrade) "
+  01: "Severnobaki"
+  02: "Srednjebanatski"
+  03: "Severnobanatski"
+  04: "Junobanatski"
+  05: "Zapadnobaki"
+  06: "Junobaki"
+  07: "Sremski"
+  08: "Mavanski"
+  09: "Kolubarski"
+  10: "Podunavski"
+  11: "Branievski"
+  12: "umadijski"
+  13: "Pomoravski"
+  14: "Borski"
+  15: "Zajearski"
+  16: "Zlatiborski"
+  17: "Moraviki"
+  18: "Raki"
+  19: "Rasinski"
+  20: "Niavski"
+  21: "Topliki"
+  22: "Pirotski"
+  23: "Jablaniki"
+  24: "Pinjski"
+  25: "Kosovski"
+  26: "Peki"
+  27: "Prizrenski"
+  28: "Kosovsko-Mitrovaki"
+  29: "Kosovsko-Pomoravski"
+  

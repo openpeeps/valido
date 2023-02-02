@@ -1,0 +1,33 @@
+info:
+  short: ""
+  long: "Netherlands Antilles"
+  alpha2: AN
+  alpha3: ANT
+  iso: 530
+  ioc: ""
+  capital: "Willemstad"
+  tld: "an"
+
+languages: []
+
+currency:
+  code:
+  name:
+  symbol:
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states: {}
+  

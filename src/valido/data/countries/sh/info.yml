@@ -1,0 +1,43 @@
+info:
+  short: "Saint Helena"
+  long: "Saint Helena"
+  alpha2: SH
+  alpha3: SHN
+  iso: 654
+  ioc: ""
+  capital: "Jamestown"
+  tld: "sh"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "SHP"
+  name:
+    - "Saint Helena Pound"
+  symbol:
+    - "&#163;"
+
+phone:
+  code:
+    - 290
+  length:
+    - 4
+  mobile_prefix:
+
+postal:
+  description: "SH : STHL 1ZZ"
+  redenundant_chars: " -"
+  regex: "^STHL1ZZ$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "STHL 1ZZ"
+    
+states:
+  AC: "Ascension"
+  HL: "Saint Helena"
+  TA: "Tristan da Cunha"
+  

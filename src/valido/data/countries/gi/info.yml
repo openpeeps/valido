@@ -1,0 +1,42 @@
+info:
+  short: "Gibraltar"
+  long: "Gibraltar"
+  alpha2: GI
+  alpha3: GIB
+  iso: 292
+  ioc: ""
+  capital: "Gibraltar"
+  tld: "gi"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "GIP"
+  name:
+    - "Gibraltar Pound"
+  symbol:
+    - "&#163;"
+
+phone:
+  code:
+    - 350
+  length:
+    - 8
+  mobile_prefix:
+    - 5
+
+postal:
+  description: "GI : GX11 1AA"
+  redenundant_chars: " -"
+  regex: "^GX111AA$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "GX11 1AA"
+    
+states:
+  : "Gibraltar"
+  

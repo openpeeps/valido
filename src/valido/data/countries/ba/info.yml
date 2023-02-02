@@ -1,0 +1,46 @@
+info:
+  short: "Bosnia and Herzegovina"
+  long: "Bosnia and Herzegovina"
+  alpha2: BA
+  alpha3: BIH
+  iso: 70
+  ioc: "BIH"
+  capital: "Sarajevo"
+  tld: "ba"
+
+languages:
+  - bos
+  - cre
+  - srp
+
+currency:
+  code:
+    - "BAM"
+  name:
+    - "Bosnia and Herzegovina Convertible Marka"
+  symbol:
+    - "&#75;&#77;"
+
+phone:
+  code:
+    - 387
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  BIH: "Federacija Bosne i Hercegovine"
+  BRC: "Brko Distrikt"
+  SRP: "Republika Srpska"
+  

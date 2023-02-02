@@ -1,0 +1,48 @@
+info:
+  short: "Equatorial Guinea"
+  long: "Equatorial Guinea"
+  alpha2: GQ
+  alpha3: GNQ
+  iso: 226
+  ioc: "GEQ"
+  capital: "Malabo"
+  tld: "gq"
+
+languages:
+  - fra
+  - por
+  - spa
+
+currency:
+  code:
+    - "XAF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 240
+  length:
+    - 9
+  mobile_prefix:
+    - 222
+    - 551
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AN: "Annobn"
+  BN: "Bioko Norte"
+  BS: "Bioko Sur"
+  CS: "Centro Sur"
+  KN: "Ki-Ntem"
+  LI: "Litoral"
+  WN: "Wele-Nzas"
+  

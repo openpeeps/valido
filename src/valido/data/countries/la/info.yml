@@ -1,0 +1,58 @@
+info:
+  short: "Laos"
+  long: "Lao PDR"
+  alpha2: LA
+  alpha3: LAO
+  iso: 418
+  ioc: "LAO"
+  capital: "Vientiane"
+  tld: "la"
+
+languages:
+  - lao
+
+currency:
+  code:
+    - "LAK"
+  name:
+    - "Laos Kip"
+  symbol:
+    - "&#8365;"
+
+phone:
+  code:
+    - 856
+  length:
+    - 10
+  mobile_prefix:
+    - 20
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AT: "Attapu"
+  BK: "Boko"
+  BL: "Bolikhamxai"
+  CH: "Champasak"
+  HO: "Houaphan"
+  KH: "Khammouan"
+  LM: "Louang Namtha"
+  LP: "Louangphabang"
+  OU: "Oudmxai"
+  PH: "Phngsali"
+  SL: "Salavan"
+  SV: "Savannakht"
+  VI: "Vientiane"
+  XA: "Xaignabouli"
+  XE: "Xkong"
+  XI: "Xiangkhouang"
+  XS: "Xaisomboun"
+  

@@ -1,0 +1,64 @@
+info:
+  short: "Montenegro"
+  long: "Montenegro"
+  alpha2: ME
+  alpha3: MNE
+  iso: 499
+  ioc: "MNE"
+  capital: "null"
+  tld: "null"
+
+languages:
+  - mot
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 382
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  01: "Andrijevica"
+  02: "Bar"
+  03: "Berane"
+  04: "Bijelo Polje"
+  05: "Budva"
+  06: "Cetinje"
+  07: "Danilovgrad"
+  08: "Herceg Novi"
+  09: "Kolain"
+  10: "Kotor"
+  11: "Mojkovac"
+  12: "Niki"
+  13: "Plav"
+  14: "Pluine"
+  15: "Pljevlja"
+  16: "Podgorica"
+  17: "Roaje"
+  18: "avnik"
+  19: "Tivat"
+  20: "Ulcinj"
+  21: "abljak"
+  22: "Gusinje"
+  23: "Petnica"
+  

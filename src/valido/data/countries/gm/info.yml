@@ -1,0 +1,45 @@
+info:
+  short: "Gambia"
+  long: "Gambia"
+  alpha2: GM
+  alpha3: GMB
+  iso: 270
+  ioc: "GAM"
+  capital: "Banjul"
+  tld: "gm"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "GMD"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 220
+  length:
+    - 7
+  mobile_prefix:
+    - 7
+    - 9
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  B: "Banjul"
+  L: "Lower River"
+  M: "Central River"
+  N: "North Bank"
+  U: "Upper River"
+  W: "Western"
+  

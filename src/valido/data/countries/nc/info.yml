@@ -1,0 +1,41 @@
+info:
+  short: "New Caledonia"
+  long: "New Caledonia"
+  alpha2: NC
+  alpha3: NCL
+  iso: 540
+  ioc: ""
+  capital: "Noum"
+  tld: "nc"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XPF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 687
+  length:
+    - 6
+  mobile_prefix:
+
+postal:
+  description: "NC : 988NN"
+  redenundant_chars: " -"
+  regex: "^988[0-9]{2}$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "988NN"
+    
+states:
+  : "Iles Loyaute"
+  : "Nord"
+  : "Sud"
+  

@@ -1,0 +1,64 @@
+info:
+  short: "South Africa"
+  long: "South Africa"
+  alpha2: ZA
+  alpha3: ZAF
+  iso: 710
+  ioc: "RSA"
+  capital: "Pretoria"
+  tld: "za"
+
+languages:
+  - afr
+  - eng
+  - nbl
+  - som
+  - tso
+  - ven
+  - xho
+  - zul
+
+currency:
+  code:
+    - "ZAR"
+  name:
+    - "South Africa Rand"
+  symbol:
+    - "&#82;"
+
+phone:
+  code:
+    - 27
+  length:
+    - 9
+  mobile_prefix:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  EC: "Eastern Cape"
+  FS: "Free State"
+  GT: "Gauteng"
+  LP: "Limpopo"
+  MP: "Mpumalanga"
+  NC: "Northern Cape"
+  NL: "KwaZulu-Natal"
+  NW: "North West"
+  WC: "Western Cape"
+  

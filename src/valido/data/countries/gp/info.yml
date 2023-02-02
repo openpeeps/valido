@@ -1,0 +1,42 @@
+info:
+  short: "Guadeloupe"
+  long: "Guadeloupe"
+  alpha2: GP
+  alpha3: GLP
+  iso: 312
+  ioc: ""
+  capital: "Basse-Terre"
+  tld: "gp"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 590
+  length:
+    - 9
+  mobile_prefix:
+    - 690
+
+postal:
+  description: "GP : 971NN"
+  redenundant_chars: " -"
+  regex: "^971[0-9]{2}$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "971NN"
+    
+states:
+  : "Guadeloupe"
+  

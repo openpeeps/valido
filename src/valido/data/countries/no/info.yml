@@ -1,0 +1,63 @@
+info:
+  short: "Norway"
+  long: "Norway"
+  alpha2: NO
+  alpha3: NOR
+  iso: 578
+  ioc: "NOR"
+  capital: "Oslo"
+  tld: "no"
+
+languages:
+  - nor
+
+currency:
+  code:
+    - "NOK"
+  name:
+    - "Norway Krone"
+  symbol:
+    - "&#107;&#114;"
+
+phone:
+  code:
+    - 47
+  length:
+    - 8
+  mobile_prefix:
+    - 4
+    - 9
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  01: "stfold"
+  02: "Akershus"
+  03: "Oslo"
+  04: "Hedmark"
+  05: "Oppland"
+  06: "Buskerud"
+  07: "Vestfold"
+  08: "Telemark"
+  09: "Aust-Agder"
+  10: "Vest-Agder"
+  11: "Rogaland"
+  12: "Hordaland"
+  14: "Sogn og Fjordane"
+  15: "Mre og Romsdal"
+  16: "Sr-Trndelag"
+  17: "Nord-Trndelag"
+  18: "Nordland"
+  19: "Troms"
+  20: "Finnmark"
+  21: "Svalbard"
+  22: "Jan Mayen"
+  

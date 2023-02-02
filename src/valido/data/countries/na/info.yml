@@ -1,0 +1,61 @@
+info:
+  short: "Namibia"
+  long: "Namibia"
+  alpha2: NA
+  alpha3: NAM
+  iso: 516
+  ioc: "NAM"
+  capital: "Windhoek"
+  tld: "na"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "NAD"
+    - "ZAR"
+  name:
+    - "Namibia Dollar"
+    - "South Africa Rand"
+  symbol:
+    - "&#36;"
+    - "&#82;"
+
+phone:
+  code:
+    - 264
+  length:
+    - 9
+  mobile_prefix:
+    - 60
+    - 81
+    - 82
+    - 85
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  CA: "Zambezi"
+  ER: "Erongo"
+  HA: "Hardap"
+  KA: "Karas"
+  KE: "Kavango East"
+  KH: "Khomas"
+  KU: "Kunene"
+  KW: "Kavango West"
+  OD: "Otjozondjupa"
+  OH: "Omaheke"
+  ON: "Oshana"
+  OS: "Omusati"
+  OT: "Oshikoto"
+  OW: "Ohangwena"
+  

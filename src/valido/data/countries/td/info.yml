@@ -1,0 +1,64 @@
+info:
+  short: "Chad"
+  long: "Chad"
+  alpha2: TD
+  alpha3: TCD
+  iso: 148
+  ioc: "CHA"
+  capital: "N'Djam"
+  tld: "td"
+
+languages:
+  - ara
+  - fra
+
+currency:
+  code:
+    - "XAF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 235
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+    - 7
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  BA: "Batha"
+  BG: "Bahr el Ghazal"
+  BO: "Borkou"
+  CB: "Chari-Baguirmi"
+  EE: "Ennedi-Est"
+  EO: "Ennedi-Ouest"
+  GR: "Gura"
+  HL: "Hadjer Lamis"
+  KA: "Kanem"
+  LC: "Lac"
+  LO: "Logone Occidental"
+  LR: "Logone Oriental"
+  MA: "Mondoul"
+  MC: "Moyen-Chari"
+  ME: "Mayo-Kbbi-Est"
+  ND: "Ville de Ndjamena"
+  OD: "Ouaddai"
+  SA: "Salamat"
+  SI: "Sila"
+  TA: "Tandjil"
+  TI: "Tibesti"
+  WF: "Wadi Fira"
+  

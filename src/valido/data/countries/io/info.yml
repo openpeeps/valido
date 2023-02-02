@@ -1,0 +1,39 @@
+info:
+  short: ""
+  long: "British Indian Ocean Territory"
+  alpha2: IO
+  alpha3: IOT
+  iso: 86
+  ioc: ""
+  capital: ""
+  tld: "io"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "IO : BBND 1ZZ"
+  redenundant_chars: " -"
+  regex: "^BBND1ZZ$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "BBND 1ZZ"
+    
+states:
+  IO: "British Indian Ocean Territory"
+  

@@ -1,0 +1,41 @@
+info:
+  short: "Martinique"
+  long: "Martinique"
+  alpha2: MQ
+  alpha3: MTQ
+  iso: 474
+  ioc: ""
+  capital: "Fort-de-France"
+  tld: "mq"
+
+languages: []
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 596
+  length:
+    - 9
+  mobile_prefix:
+    - 696
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  : "Martinique"
+  

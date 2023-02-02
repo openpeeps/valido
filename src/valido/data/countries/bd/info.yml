@@ -1,0 +1,48 @@
+info:
+  short: "Bangladesh"
+  long: "Bangladesh"
+  alpha2: BD
+  alpha3: BGD
+  iso: 50
+  ioc: "BAN"
+  capital: "Dhaka"
+  tld: "bd"
+
+languages:
+  - ben
+
+currency:
+  code:
+    - "BDT"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 880
+  length:
+    - 8
+    - 9
+    - 10
+  mobile_prefix:
+    - 1
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  A: "Barisal"
+  B: "Chittagong"
+  C: "Dhaka"
+  D: "Khulna"
+  E: "Rajshahi"
+  F: "Rangpur"
+  G: "Sylhet"
+  

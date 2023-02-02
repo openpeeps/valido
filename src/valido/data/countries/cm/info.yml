@@ -1,0 +1,50 @@
+info:
+  short: "Cameroon"
+  long: "Cameroon"
+  alpha2: CM
+  alpha3: CMR
+  iso: 120
+  ioc: "CMR"
+  capital: "Yaound"
+  tld: "cm"
+
+languages:
+  - eng
+  - fra
+
+currency:
+  code:
+    - "XAF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 237
+  length:
+    - 8
+  mobile_prefix:
+    - 7
+    - 9
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AD: "Adamaoua"
+  CE: "Centre"
+  EN: "Extrme-Nord"
+  ES: "Est"
+  LT: "Littoral"
+  NO: "Nord"
+  NW: "Nord-Ouest"
+  OU: "Ouest"
+  SU: "Sud"
+  SW: "Sud-Ouest"
+  

@@ -1,0 +1,53 @@
+info:
+  short: "Netherlands"
+  long: "Netherlands"
+  alpha2: NL
+  alpha3: NLD
+  iso: 528
+  ioc: "NED"
+  capital: "Amsterdam"
+  tld: "nl"
+
+languages:
+  - nld
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 31
+  length:
+    - 9
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "NL : NNNN LL"
+  redenundant_chars: " -"
+  regex: "^[1-9][0-9]{3}(?!SA|SD|SS)[A-Z]{2}$"
+  charset: number
+  length:
+    - "7"
+  formats:
+    - "NNNN LL"
+    
+states:
+  DR: "Drenthe"
+  FL: "Flevoland"
+  FR: "Friesland"
+  GE: "Gelderland"
+  GR: "Groningen"
+  LI: "Limburg"
+  NB: "Noord-Brabant"
+  NH: "Noord-Holland"
+  OV: "Overijssel"
+  UT: "Utrecht"
+  ZE: "Zeeland"
+  ZH: "Zuid-Holland"
+  

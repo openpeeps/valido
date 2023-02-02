@@ -1,0 +1,41 @@
+info:
+  short: "Sao Tome and Principe"
+  long: "Sao Tome and Principe"
+  alpha2: ST
+  alpha3: STP
+  iso: 678
+  ioc: "STP"
+  capital: "S"
+  tld: "st"
+
+languages:
+  - por
+
+currency:
+  code:
+    - "STD"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 239
+  length:
+    - 7
+  mobile_prefix:
+    - 98
+    - 99
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  P: "Principe"
+  S: "Sao Tome"
+  

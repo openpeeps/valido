@@ -1,0 +1,47 @@
+info:
+  short: "Brunei Darussalam"
+  long: "Brunei Darussalam"
+  alpha2: BN
+  alpha3: BRN
+  iso: 96
+  ioc: "BRU"
+  capital: "Bandar Seri Begawan"
+  tld: "bn"
+
+languages:
+  - eng
+  - msa
+
+currency:
+  code:
+    - "BND"
+  name:
+    - "Brunei Darussalam Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 673
+  length:
+    - 7
+  mobile_prefix:
+    - 7
+    - 8
+
+postal:
+  description: "BN : LLNNNN"
+  redenundant_chars: " -"
+  regex: "^[a-zA-Z]{2}[0-9]{4}$"
+  charset: varchar
+  length:
+    - "6"
+  formats:
+    - "LLNNNN"
+    
+states:
+  BE: "Belait"
+  BM: "Brunei Muara"
+  TE: "Temburong"
+  TU: "Tutong"
+  

@@ -1,0 +1,163 @@
+info:
+  short: "United Kingdom"
+  long: "United Kingdom"
+  alpha2: GB
+  alpha3: GBR
+  iso: 826
+  ioc: ""
+  capital: "London"
+  tld: "gb"
+
+languages:
+  - cor
+  - cym
+  - eng
+  - gla
+  - gle
+
+currency:
+  code:
+    - "GBP"
+  name:
+    - "United Kingdom Pound"
+  symbol:
+    - "&#163;"
+
+phone:
+  code:
+    - 44
+  length:
+    - 10
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "GB : NNNNN, NN NNN, NNNNNN, NNN NNN, NNNNNNN, NNNN NNN"
+  redenundant_chars: " -"
+  regex: "((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([AZa-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9]?[A-Za-z]))))[0-9][A-Za-z]{2})|GIR0AA"
+  charset: number
+  length:
+    - "5"
+    - "6"
+    - "6"
+    - "7"
+    - "7"
+    - "8"
+  formats:
+    - "NN NNN"
+    - "NNN NNN"
+    - "NNNN NNN"
+    - "NNNNN"
+    - "NNNNNN"
+    - "NNNNNNN"
+    
+states:
+  ABD: "Aberdeenshire"
+  AGB: "Argyll"
+  AN: "Aberdeen, City of"
+  ANS: "Angus (Forfarshire) "
+  ANT: "Antrim"
+  ARG: "Ayrshire"
+  ARM: "Armagh"
+  AVN: "Avon"
+  BAN: "Banffshire"
+  BDF: "Bedfordshire"
+  BEW: "Berwickshire"
+  BKM: "Buckinghamshire"
+  BLF: "Belfast, City of"
+  BRK: "Berkshire"
+  BUT: "Bute"
+  CAI: "Caithness"
+  CAM: "Cambridgeshire"
+  CHS: "Cheshire"
+  CLK: "Clackmannanshire"
+  CLV: "Cleveland"
+  CMA: "Cumbria"
+  COB: "Bristol, City of"
+  COC: "Cromartyshire"
+  CON: "Cornwall"
+  CWD: "Clwyd"
+  DBY: "Derbyshire"
+  DD: "Dundee, City of"
+  DEV: "Devon"
+  DFD: "Dyfed"
+  DFS: "Dumfriesshire"
+  DNB: "Dunbartonshire (Dumbarton) "
+  DOR: "Dorset"
+  DOW: "Down"
+  DRY: "Derry, City of"
+  DUR: "Durham"
+  EB: "Edinburgh, City of"
+  ELN: "East Lothian (Haddingtonshire) "
+  ESS: "Essex"
+  FER: "Fermanagh"
+  FIF: "Fife"
+  GLA: "Glasgow, City of"
+  GLS: "Gloucestershire"
+  GNT: "Gwent"
+  GTM: "Greater Manchester"
+  GWN: "Gwynedd"
+  HAM: "Hampshire (County of Southampton) "
+  HEF: "Herefordshire"
+  HRT: "Hertfordshire"
+  HWR: "Hereford and Worcester"
+  INV: "Inverness-shire"
+  IOW: "Isle of Wight"
+  KCD: "Kincardineshire"
+  KEN: "Kent"
+  KKD: "Kirkcudbrightshire"
+  KRS: "Kinross-shire"
+  LAN: "Lancashire"
+  LDN: "London"
+  LDY: "Londonderry"
+  LEI: "Leicestershire"
+  LIN: "Lincolnshire"
+  LKS: "Lanarkshire"
+  LND: "Greater London"
+  MDX: "Middlesex"
+  MGM: "Mid Glamorgan"
+  MLN: "Midlothian (County of Edinburgh) "
+  MOR: "Moray (Elginshire) "
+  MSY: "Merseyside"
+  NAI: "Nairnshire"
+  NBL: "Northumberland"
+  NFK: "Norfolk"
+  NHM: "North Humberside"
+  NTH: "Northamptonshire"
+  NTT: "Nottinghamshire"
+  NYK: "North Yorkshire"
+  OKI: "Orkney"
+  OXF: "Oxfordshire"
+  PEE: "Peeblesshire"
+  PER: "Perthshire"
+  POW: "Powys"
+  RFW: "Renfrewshire"
+  ROC: "Ross and Cromarty"
+  ROS: "Ross-shire"
+  ROX: "Roxburghshire"
+  RUT: "Rutland"
+  SAL: "Shropshire"
+  SEL: "Selkirkshire"
+  SFK: "Suffolk"
+  SGM: "South Glamorgan"
+  SHI: "Shetland (Zetland) "
+  SHM: "South Humberside"
+  SOM: "Somerset"
+  SRY: "Surrey"
+  STI: "Stirlingshire"
+  STS: "Staffordshire"
+  SUT: "Sutherland"
+  SXE: "East Sussex"
+  SXW: "West Sussex"
+  SYK: "South Yorkshire"
+  TWR: "Tyne and Wear"
+  TYR: "Tyrone"
+  WAR: "Warwickshire"
+  WGM: "West Glamorgan"
+  WIG: "Wigtownshire"
+  WIL: "Wiltshire"
+  WLN: "West Lothian (Linlithgowshire) "
+  WMD: "West Midlands"
+  WOR: "Worcestershire"
+  WYK: "West Yorkshire"
+  

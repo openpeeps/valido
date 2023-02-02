@@ -1,0 +1,45 @@
+info:
+  short: "United Arab Emirates"
+  long: "United Arab Emirates"
+  alpha2: AE
+  alpha3: ARE
+  iso: 784
+  ioc: "UAE"
+  capital: "Abu Dhabi"
+  tld: "ae"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "AED"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 971
+  length:
+    - 9
+  mobile_prefix:
+    - 5
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  AJ: "Ajman"
+  AZ: "Abu Dhabi"
+  DU: "Dubai"
+  FU: "Fujairah"
+  RK: "Ras al Khaimah"
+  SH: "Sharjah"
+  UQ: "Umm Al Quwain"
+  

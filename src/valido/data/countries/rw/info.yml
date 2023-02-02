@@ -1,0 +1,45 @@
+info:
+  short: "Rwanda"
+  long: "Rwanda"
+  alpha2: RW
+  alpha3: RWA
+  iso: 646
+  ioc: "RWA"
+  capital: "Kigali"
+  tld: "rw"
+
+languages:
+  - eng
+  - fra
+  - kin
+
+currency:
+  code:
+    - "RWF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 250
+  length:
+    - 9
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  01: "Kigali"
+  02: "Eastern"
+  03: "Northern"
+  04: "Western"
+  05: "Southern"
+  

@@ -1,0 +1,67 @@
+info:
+  short: "Argentina"
+  long: "Argentina"
+  alpha2: AR
+  alpha3: ARG
+  iso: 32
+  ioc: "ARG"
+  capital: "Buenos Aires"
+  tld: "ar"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "ARS"
+  name:
+    - "Argentina Peso"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 54
+  length:
+    - 6
+    - 7
+    - 8
+    - 9
+  mobile_prefix:
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  A: "Salta"
+  B: "Buenos Aires"
+  C: "Capital Federal"
+  D: "San Luis"
+  E: "Entre Ros"
+  F: "La Rioja"
+  G: "Santiago del Estero"
+  H: "Chaco"
+  J: "San Juan"
+  K: "Catamarca"
+  L: "La Pampa"
+  M: "Mendoza"
+  N: "Misiones"
+  P: "Formosa"
+  Q: "Neuqun"
+  R: "Ro Negro"
+  S: "Santa Fe"
+  T: "Tucumn"
+  U: "Chubut"
+  V: "Tierra del Fuego"
+  W: "Corrientes"
+  X: "Crdoba"
+  Y: "Jujuy"
+  Z: "Santa Cruz"
+  

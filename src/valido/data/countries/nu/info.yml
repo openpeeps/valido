@@ -1,0 +1,40 @@
+info:
+  short: "Niue"
+  long: "Niue"
+  alpha2: NU
+  alpha3: NIU
+  iso: 570
+  ioc: ""
+  capital: "Alofi"
+  tld: "nu"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "NZD"
+  name:
+    - "New Zealand Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 683
+  length:
+    - 4
+  mobile_prefix:
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  : "Niue"
+  

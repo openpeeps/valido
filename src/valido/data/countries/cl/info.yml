@@ -1,0 +1,58 @@
+info:
+  short: "Chile"
+  long: "Chile"
+  alpha2: CL
+  alpha3: CHL
+  iso: 152
+  ioc: "CHI"
+  capital: "Santiago de Chile"
+  tld: "cl"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "CLF"
+    - "CLP"
+  name:
+    - "Chile Peso"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 56
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "7-Digits - NNNNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{7}$"
+  charset: number
+  length:
+    - "7"
+  formats:
+    - "NNNNNNN"
+    
+states:
+  : "Marga-Marga"
+  AI: "Aisn del General Carlos Ibez del Campo"
+  AN: "Antofagasta"
+  AP: "Arica y Parinacota"
+  AR: "Araucana"
+  AT: "Atacama"
+  BI: "Bo-Bo"
+  CO: "Coquimbo"
+  LI: "Libertador General Bernardo O'Higgins"
+  LL: "Los Lagos"
+  LR: "Los Ros"
+  MA: "Magallanes y Antartica Chilena"
+  ML: "Maule"
+  RM: "Regin Metropolitana de Santiago"
+  TA: "Tarapac"
+  VS: "Valparaso"
+  

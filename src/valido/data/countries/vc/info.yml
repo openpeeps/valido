@@ -1,0 +1,47 @@
+info:
+  short: "Saint Vincent And The Grenedines"
+  long: "Saint Vincent and Grenadines"
+  alpha2: VC
+  alpha3: VCT
+  iso: 670
+  ioc: "VIN"
+  capital: "Kingstown"
+  tld: "vc"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "XCD"
+  name:
+    - "East Caribbean Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 784
+
+postal:
+  description: "VC : CCNNNNN"
+  redenundant_chars: " -"
+  regex: "^(VC)?[0-9]{4}$"
+  charset: varchar
+  length:
+    - "7"
+  formats:
+    - "CCNNNNN"
+    
+states:
+  01: "Charlotte"
+  02: "Saint Andrew"
+  03: "Saint David"
+  04: "Saint George"
+  05: "Saint Patrick"
+  06: "Grenadines"
+  

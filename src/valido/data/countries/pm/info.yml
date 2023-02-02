@@ -1,0 +1,43 @@
+info:
+  short: "Saint Pierre And Miquelon"
+  long: "Saint Pierre and Miquelon"
+  alpha2: PM
+  alpha3: SPM
+  iso: 666
+  ioc: ""
+  capital: "Saint-Pierre"
+  tld: "pm"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 508
+  length:
+    - 6
+  mobile_prefix:
+    - 55
+
+postal:
+  description: "PM : 97500"
+  redenundant_chars: " -"
+  regex: "^97500$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "97500"
+    
+states:
+  : "Miquelon"
+  : "Saint Pierre"
+  

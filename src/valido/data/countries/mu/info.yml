@@ -1,0 +1,58 @@
+info:
+  short: "Mauritius"
+  long: "Mauritius"
+  alpha2: MU
+  alpha3: MUS
+  iso: 480
+  ioc: "MRI"
+  capital: "Port-Louis"
+  tld: "mu"
+
+languages:
+  - eng
+  - fra
+
+currency:
+  code:
+    - "MUR"
+  name:
+    - "Mauritius Rupee"
+  symbol:
+    - "&#8360;"
+
+phone:
+  code:
+    - 230
+  length:
+    - 8
+  mobile_prefix:
+    - 
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AG: "Agalega Islands"
+  BL: "Black River"
+  BR: "Beau Bassin-Rose Hill"
+  CC: "Cargados Carajos Shoals"
+  CP: "Vacoas-Phoenix"
+  CU: "Curepipe"
+  FL: "Flacq"
+  GP: "Grand Port"
+  MO: "Moka"
+  PA: "Pamplemousses"
+  PL: "Port Louis"
+  PU: "Port Louis (City) "
+  PW: "Plaines Wilhems"
+  RO: "Rodrigues Island"
+  RR: "Riviere du Rempart"
+  SA: "Savanne"
+  

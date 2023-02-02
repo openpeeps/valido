@@ -1,0 +1,50 @@
+info:
+  short: "Faroe Islands"
+  long: "Faroe Islands"
+  alpha2: FO
+  alpha3: FRO
+  iso: 234
+  ioc: "FAI"
+  capital: "Trshavn"
+  tld: ""
+
+languages:
+  - dan
+  - fao
+
+currency:
+  code:
+    - "DKK"
+  name:
+    - "Denmark Krone"
+  symbol:
+    - "&#107;&#114;"
+
+phone:
+  code:
+    - 298
+  length:
+    - 6
+  mobile_prefix:
+
+postal:
+  description: "3-Digits - NNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{3}$"
+  charset: number
+  length:
+    - "3"
+  formats:
+    - "NNN"
+    
+states:
+  : "Bordoy"
+  : "Eysturoy"
+  : "Mykines"
+  : "Sandoy"
+  : "Skuvoy"
+  : "Streymoy"
+  : "Suduroy"
+  : "Tvoroyri"
+  : "Vagar"
+  

@@ -1,0 +1,36 @@
+info:
+  short: ""
+  long: "Diego Garcia"
+  alpha2: DG
+  alpha3: DGA
+  iso: 
+  ioc: ""
+  capital: "null"
+  tld: "null"
+
+languages: []
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "null"
+  redenundant_chars: " -"
+  regex: "[a-zA-Z0-9 -]"
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states: {}
+  

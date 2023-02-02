@@ -1,0 +1,72 @@
+info:
+  short: "Switzerland"
+  long: "Switzerland"
+  alpha2: CH
+  alpha3: CHE
+  iso: 756
+  ioc: "SUI"
+  capital: "Bern"
+  tld: "ch"
+
+languages:
+  - deu
+  - fra
+  - ita
+  - roh
+
+currency:
+  code:
+    - "CHE"
+    - "CHF"
+    - "CHW"
+  name:
+    - "Switzerland Franc"
+  symbol:
+    - "&#67;&#72;&#70;"
+
+phone:
+  code:
+    - 41
+  length:
+    - 9
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  AG: "Aargau"
+  AI: "Appenzell Innerhoden"
+  AR: "Appenzell Ausserrhoden"
+  BE: "Bern"
+  BL: "Basel-Landschaft"
+  BS: "Basel-Stadt"
+  FR: "Fribourg"
+  GE: "Genve"
+  GL: "Glarus"
+  GR: "Graubnden"
+  JU: "Jura"
+  LU: "Luzern"
+  NE: "Neuchtel"
+  NW: "Nidwalden"
+  OW: "Obwalden"
+  SG: "Sankt Gallen"
+  SH: "Schaffhausen"
+  SO: "Solothurn"
+  SZ: "Schwyz"
+  TG: "Thurgau"
+  TI: "Ticino"
+  UR: "Uri"
+  VD: "Waadt"
+  VS: "Valais"
+  ZG: "Zug"
+  ZH: "Zrich"
+  

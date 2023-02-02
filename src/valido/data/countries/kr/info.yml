@@ -1,0 +1,61 @@
+info:
+  short: "South Korea"
+  long: "Korea, Republic of"
+  alpha2: KR
+  alpha3: KOR
+  iso: 410
+  ioc: "KOR"
+  capital: "Seoul"
+  tld: "kr"
+
+languages:
+  - kor
+
+currency:
+  code:
+    - "KRW"
+  name:
+    - "Korea (South) Won"
+    - "Korea (South) Won"
+  symbol:
+    - "&#8361;"
+    - "&#8361;"
+
+phone:
+  code:
+    - 82
+  length:
+    - 9
+    - 10
+  mobile_prefix:
+    - 1
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  11: "Seoul-T'ukpyolshi"
+  26: "Pusan-Kwangyokshi"
+  27: "Taegu-Kwangyokshi"
+  28: "Kwangju-Kwangyokshi"
+  28: "Inch'on-Kwangyokhi"
+  30: "Taejon-Kwangyokshi"
+  31: "Ulsan-Kwangyokshi"
+  41: "Kyonggi-do"
+  42: "Kang-won-do"
+  43: "Ch'ungch'ongbuk-do"
+  44: "Ch'ungch'ongnam-do"
+  45: "Chollabuk-do"
+  46: "Chollanam-do"
+  47: "Kyongsangbuk-do"
+  48: "Kyongsangnam-do"
+  49: "Cheju-do"
+  50: "Sejong"
+  

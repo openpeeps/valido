@@ -1,0 +1,58 @@
+info:
+  short: "Palau"
+  long: "Palau"
+  alpha2: PW
+  alpha3: PLW
+  iso: 585
+  ioc: "PLW"
+  capital: "Koror"
+  tld: "pw"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 680
+  length:
+    - 7
+  mobile_prefix:
+
+postal:
+  description: "US : NNNNN[-NNNN]"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}([0-9]{4})?$"
+  charset: number
+  length:
+    - "5"
+    - "10"
+  formats:
+    - "NNNNN"
+    - "NNNNN[-NNNN]"
+    
+states:
+  002: "Aimeliik"
+  004: "Airai"
+  010: "Angaur"
+  050: "Hatobohei"
+  100: "Kayangel"
+  150: "Koror"
+  212: "Melekeok"
+  214: "Ngaraard"
+  218: "Ngarchelong"
+  222: "Ngardmau"
+  224: "Ngatpang"
+  226: "Ngchesar"
+  227: "Ngeremlengui"
+  228: "Ngiwal"
+  350: "Peleliu"
+  350: "Sonsoral"
+  

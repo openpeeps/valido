@@ -1,0 +1,118 @@
+info:
+  short: "Puerto Rico"
+  long: "Puerto Rico"
+  alpha2: PR
+  alpha3: PRI
+  iso: 630
+  ioc: "PUR"
+  capital: "San Juan"
+  tld: "pr"
+
+languages:
+  - eng
+  - spa
+
+currency:
+  code:
+    - "USD"
+  name:
+    - "United States Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 787
+    - 939
+
+postal:
+  description: "US : NNNNN[-NNNN]"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}([0-9]{4})?$"
+  charset: number
+  length:
+    - "5"
+    - "10"
+  formats:
+    - "NNNNN"
+    - "NNNNN[-NNNN]"
+    
+states:
+  : "Adjuntas"
+  : "Mayaguez"
+  : "Patillas"
+  : "Orocovis"
+  : "Naranjito"
+  : "Naguabo"
+  : "Morovis"
+  : "Moca"
+  : "Maunabo"
+  : "Ponce"
+  : "Maricao"
+  : "Manati"
+  : "Luquillo"
+  : "Las oiza"
+  : "Las Marias"
+  : "Lares"
+  : "Penuelas"
+  : "Quebradillas"
+  : "Juncos"
+  : "Toa Baja"
+  : "Yabucoa"
+  : "Villalba"
+  : "Vega ues"
+  : "Vega Alta"
+  : "Utuado"
+  : "Trujillo Alto"
+  : "Toa Alta"
+  : "Rincon"
+  : "Santa Isabel"
+  : "San Sebastian"
+  : "San Lorenzo"
+  : "San Juan"
+  : "San German"
+  : "Sabana linas"
+  : "Rio Grande"
+  : "Lajas"
+  : "Juana Diaz"
+  : "Aguada"
+  : "Barranquitas"
+  : "Carolina"
+  : "Canovanas"
+  : "Camuy"
+  : "Caguas"
+  : "Cabo Rojo"
+  : "Bayamon"
+  : "Barceloneta"
+  : "Ceiba"
+  : "Arroyo"
+  : "Arecibo"
+  : "Anasco"
+  : "Aibonito"
+  : "Aguas Buenas"
+  : "Aguadilla"
+  : "Cat"
+  : "Ciales"
+  : "Isabe"
+  : "Guayama"
+  : "Humacao"
+  : "Hormigueros"
+  : "Hatillo"
+  : "Gurabo"
+  : "Guaynabo"
+  : "Guayanilla"
+  : "Guanica"
+  : "Cidra"
+  : "Florida"
+  : "Fajardo"
+  : "Dorado"
+  : "Culebra"
+  : "Corozal"
+  : "Comerio"
+  : "Coamo"
+  : "Yauco"
+  

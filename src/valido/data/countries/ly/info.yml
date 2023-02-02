@@ -1,0 +1,61 @@
+info:
+  short: "Libyan Arab Jamahiriya"
+  long: "Libya"
+  alpha2: LY
+  alpha3: LBY
+  iso: 434
+  ioc: "LBA"
+  capital: "Tripoli"
+  tld: "ly"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "LYD"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 218
+  length:
+    - 9
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  BA: "Banghz"
+  BU: "Al Bunn"
+  DR: "Darnah"
+  FK: "Al Kufrah"
+  GH: "Ght"
+  JA: "Al Jabal al Akhar"
+  JA: "Al Jafrah"
+  JG: "Al Jabal al Gharb"
+  JU: "Al Jufrah"
+  MB: "Al Marquab"
+  MI: "Mirtah"
+  MJ: "Al Marj"
+  MQ: "Murzuq"
+  NL: "Nlt"
+  NQ: "An Nuqa al Khams"
+  SB: "Sabh"
+  SR: "Surt"
+  TB: "arbulus"
+  WA: "Al Wt"
+  WD: "Yafran"
+  WS: "Wd ash Shi"
+  ZA: "Az Zwiyah"
+  

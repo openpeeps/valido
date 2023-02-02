@@ -1,0 +1,65 @@
+info:
+  short: "Guatemala"
+  long: "Guatemala"
+  alpha2: GT
+  alpha3: GTM
+  iso: 320
+  ioc: "GUA"
+  capital: "Ciudad de Guatemala"
+  tld: "gt"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "GTQ"
+  name:
+    - "Guatemala Quetzal"
+  symbol:
+    - "&#81;"
+
+phone:
+  code:
+    - 502
+  length:
+    - 8
+  mobile_prefix:
+    - 3
+    - 4
+    - 5
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AV: "Alta Verapaz"
+  BV: "Baja Verapaz"
+  CM: "Chimaltenango"
+  CQ: "Chiquimula"
+  ES: "Escuintla"
+  GU: "Guatemala"
+  HU: "Huehuetenango"
+  IZ: "Izabal"
+  JA: "Jalapa"
+  JU: "Jutiapa"
+  PE: "Petn"
+  PR: "El Progreso"
+  QC: "Quich"
+  QZ: "Quetzaltenango"
+  Re: "Retalhuleu"
+  SA: "Sacatepquez"
+  SM: "San Marcos"
+  SO: "Solol"
+  SR: "Santa Rosa"
+  SU: "Suchitepquez"
+  TO: "Totonicapn"
+  ZA: "Zacapa"
+  

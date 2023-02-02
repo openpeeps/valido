@@ -1,0 +1,50 @@
+info:
+  short: "Qatar"
+  long: "Qatar"
+  alpha2: QA
+  alpha3: QAT
+  iso: 634
+  ioc: "QAT"
+  capital: "Doha"
+  tld: "qa"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "QAR"
+  name:
+    - "Qatar Riyal"
+  symbol:
+    - "&#65020;"
+
+phone:
+  code:
+    - 974
+  length:
+    - 8
+  mobile_prefix:
+    - 3
+    - 5
+    - 6
+    - 7
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  DA: "Ad Dawah"
+  KH: "Al Khawr wa adh Dhakhrah"
+  MS: "Ash Shaml"
+  RA: "Ar Rayyn"
+  US: "Umm all"
+  WA: "Al Wakrah"
+  ZA: "Az Za`yin"
+  

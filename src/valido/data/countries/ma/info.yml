@@ -1,0 +1,54 @@
+info:
+  short: "Morocco"
+  long: "Morocco"
+  alpha2: MA
+  alpha3: MAR
+  iso: 504
+  ioc: "MAR"
+  capital: "Rabat"
+  tld: "ma"
+
+languages:
+  - ara
+
+currency:
+  code:
+    - "MAD"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 212
+  length:
+    - 9
+  mobile_prefix:
+    - 6
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  01: "Tanger-Ttouan"
+  02: "Gharb-Chrarda-Beni Hssen"
+  03: "Taza-Al Hoceima-Taounate"
+  04: "Oriental"
+  05: "Fs-Boulemane"
+  06: "Mekns-Tafilalet"
+  08: "Grand Casablanca"
+  09: "Chaouia-Ouardigha"
+  10: "Doukhala-Abda"
+  11: "Marrakech-Tensift-Al Haouz"
+  12: "Tadla-Azilal"
+  13: "Souss-Massa-Dra"
+  14: "Guelmim-Es Semara"
+  15: "Layoune-Boujdour-Sakia el Hamra"
+  16: "Oued ed Dahab-Lagouira"
+  

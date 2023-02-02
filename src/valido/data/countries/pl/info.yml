@@ -1,0 +1,61 @@
+info:
+  short: "Poland"
+  long: "Poland"
+  alpha2: PL
+  alpha3: POL
+  iso: 616
+  ioc: "POL"
+  capital: "Warszawa"
+  tld: "pl"
+
+languages:
+  - pol
+
+currency:
+  code:
+    - "PLN"
+  name:
+    - "Poland Zloty"
+  symbol:
+    - "&#122;&#322;"
+
+phone:
+  code:
+    - 48
+  length:
+    - 9
+  mobile_prefix:
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+
+postal:
+  description: "PL : 99-999"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: varchar
+  length:
+    - "6"
+  formats:
+    - "99-999"
+    
+states:
+  DS: "Dolnolskie"
+  KP: "Kujawsko-pomorskie"
+  LB: "Lubuskie"
+  LD: "dzkie"
+  LU: "Lubelskie"
+  MA: "Malopolskie"
+  MZ: "Mazowieckie"
+  OP: "Opolskie"
+  PD: "Podlaskie"
+  PK: "Podkarpackie"
+  PM: "Pomorskie"
+  SK: "  witokrzyskie"
+  SL: "lskie"
+  WN: "Warmisko-mazurskie"
+  WP: "Wielkopolskie"
+  ZP: "Zachodniopomorskie"
+  

@@ -1,0 +1,51 @@
+info:
+  short: "San Marino"
+  long: "San Marino"
+  alpha2: SM
+  alpha3: SMR
+  iso: 674
+  ioc: "SMR"
+  capital: "San Marino"
+  tld: "sm"
+
+languages:
+  - ita
+
+currency:
+  code:
+    - "EUR"
+  name:
+    - "Euro Member Countries"
+  symbol:
+    - "&#8364;"
+
+phone:
+  code:
+    - 378
+  length:
+    - 10
+  mobile_prefix:
+    - 3
+    - 6
+
+postal:
+  description: "SM : 4789N"
+  redenundant_chars: " -"
+  regex: "^4789[0-9]{1}$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "4789N"
+    
+states:
+  01: "Acquaviva"
+  02: "Chiesanuova"
+  03: "Domagnano"
+  04: "Faetano"
+  05: "Fiorentino"
+  06: "Borgo Maggiore"
+  07: "San Marino"
+  08: "Montegiardino"
+  09: "Serravalle"
+  

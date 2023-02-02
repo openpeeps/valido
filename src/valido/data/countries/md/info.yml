@@ -1,0 +1,79 @@
+info:
+  short: "Moldova, Republic of"
+  long: "Moldova"
+  alpha2: MD
+  alpha3: MDA
+  iso: 498
+  ioc: "MDA"
+  capital: "Chisinau"
+  tld: "md"
+
+languages:
+  - ron
+
+currency:
+  code:
+    - "MDL"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 373
+  length:
+    - 8
+  mobile_prefix:
+    - 6
+    - 7
+
+postal:
+  description: "MD : CCNNNN, CC-NNNN"
+  redenundant_chars: " -"
+  regex: "^(MD)?[0-9]{4}$"
+  charset: varchar
+  length:
+    - "6"
+    - "7"
+  formats:
+    - "CC-NNNN"
+    - "CCNNNN"
+    
+states:
+  AN: "Aenii Noi"
+  BA: "Bli"
+  BD: "Bender"
+  BR: "Briceni"
+  BS: "Basarabeasca"
+  CA: "Cahul"
+  CL: "Clrai"
+  CM: "Cimilia"
+  CR: "Criuleni"
+  CS: "Cueni"
+  CT: "Cantemir"
+  CU: "Chiinu"
+  DO: "Dondueni"
+  DR: "Drochia"
+  DU: "Dubsari"
+  ED: " Edine"
+  FA: "Fleti"
+  FL: "Floreti"
+  GA: "Gguzia"
+  GL: "Glodeni"
+  HI: "Hnceti"
+  IA: "Ialoveni"
+  LE: "Leova"
+  NI: "Nisporeni"
+  OC: "Ocnia"
+  OR: "Orhei"
+  RE: "Rezina"
+  RI: "Rcani"
+  SD: "oldneti"
+  SI: "Sngerei"
+  SN: "Stnga Nistrului"
+  SO: "Soroca"
+  ST: "Streni"
+  SV: "tefan Vod"
+  TA: "Taraclia"
+  TE: "Teleneti"
+  UN: "Ungheni"
+  

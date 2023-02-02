@@ -1,0 +1,75 @@
+info:
+  short: "Afghanistan"
+  long: "Afghanistan"
+  alpha2: AF
+  alpha3: AFG
+  iso: 4
+  ioc: "AFG"
+  capital: "Kabul"
+  tld: "af"
+
+languages:
+  - pus
+
+currency:
+  code:
+    - "AFN"
+  name:
+    - "Afghanistan Afghani"
+  symbol:
+    - "&#1547;"
+
+phone:
+  code:
+    - 93
+  length:
+    - 9
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  BAL: "Balkh"
+  BAM: "Bamyan"
+  BDG: "Badghis"
+  BDS: "Badakhshan"
+  BGL: "Baghlan"
+  DAY: "Daykundi"
+  FRA: "Farah"
+  FYB: "Faryab"
+  GHA: "Ghazni"
+  GHO: "Ghor"
+  HEL: "Helmand"
+  HER: "Herat"
+  JOW: "Jowzjan"
+  KAB: "Kabul"
+  KAN: "Kandahar"
+  KAP: "Kapisa"
+  KDZ: "Kunduz"
+  KHO: "Khost"
+  KNR: "Kunar"
+  LAG: "Laghman"
+  LOW: "Logar"
+  NAN: "Nangarhar"
+  NIM: "Nimruz"
+  NUR: "Nuristan"
+  ORU: "Urozgan"
+  PAN: "Panjshir"
+  PAR: "Parwan"
+  PIA: "Paktia"
+  PKA: "Paktika"
+  SAM: "Samangan"
+  SAR: "Sar-e Pol"
+  TAK: "Takhar"
+  WAR: "Maidan Wardak"
+  ZAB: "Zabul"
+  

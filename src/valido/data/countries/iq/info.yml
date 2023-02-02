@@ -1,0 +1,58 @@
+info:
+  short: "Iraq"
+  long: "Iraq"
+  alpha2: IQ
+  alpha3: IRQ
+  iso: 368
+  ioc: "IRQ"
+  capital: "Baghdad"
+  tld: "iq"
+
+languages:
+  - ara
+  - kur
+
+currency:
+  code:
+    - "IQD"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 964
+  length:
+    - 10
+  mobile_prefix:
+    - 7
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AN: "Al Anbr"
+  AR: "Arbl"
+  BA: "Al Barah"
+  BB: "Bbil"
+  BG: "Baghdd"
+  DA: "Dohuk"
+  DI: "Diyl"
+  DQ: "Dh Qr"
+  KA: "Karbal'"
+  KI: "Kirkuk"
+  MA: "Maysn"
+  MU: "Al Muthann"
+  NA: "An Najaf"
+  NI: "Nnaw"
+  QA: "Al Qdisyah"
+  SD: "al ad Dn"
+  SU: "As Sulaymnyah"
+  WA: "Wsi"
+  

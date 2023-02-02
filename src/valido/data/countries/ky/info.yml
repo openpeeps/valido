@@ -1,0 +1,49 @@
+info:
+  short: "Cayman Islands"
+  long: "Cayman Islands"
+  alpha2: KY
+  alpha3: CYM
+  iso: 136
+  ioc: "CAY"
+  capital: "George Town"
+  tld: "ky"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "KYD"
+  name:
+    - "Cayman Islands Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 1
+  length:
+    - 10
+  mobile_prefix:
+    - 345
+
+postal:
+  description: "KY : CCN-NNNN"
+  redenundant_chars: " -"
+  regex: "^KY[0-9]{5}$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "CCN-NNNN"
+    
+states:
+  : "Creek"
+  : "Eastern"
+  : "Midland"
+  : "South Town"
+  : "Spot Bay"
+  : "Stake Bay"
+  : "West End"
+  : "Western"
+  

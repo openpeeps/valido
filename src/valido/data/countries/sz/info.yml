@@ -1,0 +1,41 @@
+info:
+  short: ""
+  long: "Swaziland"
+  alpha2: SZ
+  alpha3: SWZ
+  iso: 748
+  ioc: "SWZ"
+  capital: "Mbabane"
+  tld: "sz"
+
+languages:
+  - eng
+  - ssw
+
+currency:
+  code:
+    - "SZL"
+  name:
+  symbol:
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "SZ : ANNN"
+  redenundant_chars: " -"
+  regex: "^[a-zA-Z]{1}[0-9]{3}$"
+  charset: varchar
+  length:
+    - "4"
+  formats:
+    - "ANNN"
+    
+states:
+  HH: "Hhohho"
+  LU: "Lubombo"
+  MA: "Manzini"
+  SH: "Shiselweni"
+  

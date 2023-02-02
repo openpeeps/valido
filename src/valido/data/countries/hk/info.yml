@@ -1,0 +1,44 @@
+info:
+  short: "Hong Kong"
+  long: "Hong Kong, Special Administrative Region of China"
+  alpha2: HK
+  alpha3: HKG
+  iso: 344
+  ioc: "HKG"
+  capital: "Victoria"
+  tld: "hk"
+
+languages:
+  - eng
+  - zho
+
+currency:
+  code:
+    - "HKD"
+  name:
+    - "Hong Kong Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 852
+  length:
+    - 8
+  mobile_prefix:
+    - 5
+    - 6
+    - 9
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  : "Hong Kong"
+  

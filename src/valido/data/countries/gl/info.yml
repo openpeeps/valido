@@ -1,0 +1,47 @@
+info:
+  short: "Greenland"
+  long: "Greenland"
+  alpha2: GL
+  alpha3: GRL
+  iso: 304
+  ioc: ""
+  capital: "Nuuk"
+  tld: "gl"
+
+languages:
+  - kal
+
+currency:
+  code:
+    - "DKK"
+  name:
+    - "Denmark Krone"
+  symbol:
+    - "&#107;&#114;"
+
+phone:
+  code:
+    - 299
+  length:
+    - 6
+  mobile_prefix:
+    - 2
+    - 4
+    - 5
+
+postal:
+  description: "4-Digits - NNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{4}$"
+  charset: number
+  length:
+    - "4"
+  formats:
+    - "NNNN"
+    
+states:
+  KU: "Kommune Kujalleq"
+  QA: "Qaasuitsup Kommunia"
+  QE: "Qeqqata Kommunia"
+  SM: "Kommuneqarfik Sermersooq"
+  

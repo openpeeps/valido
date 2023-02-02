@@ -1,0 +1,39 @@
+info:
+  short: ""
+  long: "Pitcairn"
+  alpha2: PN
+  alpha3: PCN
+  iso: 612
+  ioc: ""
+  capital: "Adamstown"
+  tld: "pn"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "NZD"
+  name:
+    - "New Zealand Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code: []
+  length: []
+  mobile_prefix: []
+
+postal:
+  description: "PN : PCRN 1ZZ"
+  redenundant_chars: " -"
+  regex: "^PCRN1ZZ$"
+  charset: varchar
+  length:
+    - "8"
+  formats:
+    - "PCRN 1ZZ"
+    
+states:
+  : "Pitcairn Islands"
+  

@@ -1,0 +1,41 @@
+info:
+  short: "Wallis and Futuna"
+  long: "Wallis and Futuna Islands"
+  alpha2: WF
+  alpha3: WLF
+  iso: 876
+  ioc: ""
+  capital: "Mata-Utu"
+  tld: "wf"
+
+languages:
+  - fra
+
+currency:
+  code:
+    - "XPF"
+  name:
+  symbol:
+
+phone:
+  code:
+    - 681
+  length:
+    - 6
+  mobile_prefix:
+
+postal:
+  description: "WF : 986NN"
+  redenundant_chars: " -"
+  regex: "^986[0-9]{2}$"
+  charset: varchar
+  length:
+    - "5"
+  formats:
+    - "986NN"
+    
+states:
+  ALO: "Alo"
+  SIG: "Sigave"
+  WAL: "Wallis"
+  

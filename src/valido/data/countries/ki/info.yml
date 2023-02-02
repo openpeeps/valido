@@ -1,0 +1,68 @@
+info:
+  short: "Kiribati"
+  long: "Kiribati"
+  alpha2: KI
+  alpha3: KIR
+  iso: 296
+  ioc: "KIR"
+  capital: "Bairiki"
+  tld: "ki"
+
+languages:
+  - eng
+
+currency:
+  code:
+    - "AUD"
+  name:
+    - "Australia Dollar"
+  symbol:
+    - "&#36;"
+
+phone:
+  code:
+    - 686
+  length:
+    - 5
+  mobile_prefix:
+    - 9
+    - 30
+
+postal:
+  description: "null"
+  redenundant_chars: null
+  regex: null
+  charset: varchar
+  length:
+    - "7"
+  formats: []
+    
+states:
+  : "Abaiang"
+  : "Makin"
+  : "Tarawa"
+  : "Tamana"
+  : "Tabuaeran"
+  : "Tabiteuea"
+  : "Southern Gilberts"
+  : "Onotoa"
+  : "Northern Gilberts"
+  : "Nonouti"
+  : "Nikunau"
+  : "Marakei"
+  : "Maiana"
+  : "Abemama"
+  : "Kuria"
+  : "Kiritimati"
+  : "Kanton"
+  : "Central Gilberts"
+  : "Butaritari"
+  : "Beru"
+  : "Banaba"
+  : "Arorae"
+  : "Aranuka"
+  : "Teraina"
+  G: "Gilbert Islands"
+  L: "Line Islands"
+  P: "Phoenix Islands"
+  

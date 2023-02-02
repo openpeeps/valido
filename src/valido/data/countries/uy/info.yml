@@ -1,0 +1,61 @@
+info:
+  short: "Uruguay"
+  long: "Uruguay"
+  alpha2: UY
+  alpha3: URY
+  iso: 858
+  ioc: "URU"
+  capital: "Montevideo"
+  tld: "uy"
+
+languages:
+  - spa
+
+currency:
+  code:
+    - "UYI"
+    - "UYU"
+  name:
+    - "Uruguay Peso"
+  symbol:
+    - "&#36;&#85;"
+
+phone:
+  code:
+    - 598
+  length:
+    - 8
+  mobile_prefix:
+    - 9
+
+postal:
+  description: "5-Digits - NNNNN"
+  redenundant_chars: " -"
+  regex: "^[0-9]{5}$"
+  charset: number
+  length:
+    - "5"
+  formats:
+    - "NNNNN"
+    
+states:
+  AR: "Artigas"
+  CA: "Canelones"
+  CL: "Cerro Largo"
+  CO: "Colonia"
+  DU: "Durazno"
+  FD: "Florida"
+  FS: "Flores"
+  LA: "Lavalleja"
+  MA: "Maldonado"
+  MO: "Montevideo"
+  PA: "Paysand"
+  RN: "Ro Negro"
+  RO: "Rocha"
+  RV: "Rivera"
+  SA: "Salto"
+  SJ: "San Jos"
+  SO: "Soriano"
+  TA: "Tacuaremb"
+  TT: "Treinta y Tres"
+  
