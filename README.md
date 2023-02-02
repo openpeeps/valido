@@ -24,11 +24,21 @@
 - [x] is `URI`
 - [x] is `UUID`
 - [x] is `JSON`
+- [x] is `Lowercase`, `Uppercase`, `Alpha`, `Alphanumerical`, `Digits`
+- [x] is `Boolean`, `Int`, `Float`, `Hex`, `Regex`
 - [x] Open Source | `MIT` License
 - [x] Written in Nim language
 
 ## Examples
-...
+```nim
+import valido/[email, ip]
+
+assert isEmail("office@example.com") == true
+assert isIP4("127.0.0.1", allowLoopback = false) == false
+
+assert isStrongPassword("123adminAdmin") == false
+
+```
 
 ### ❤ Contributions & Support
 - 🐛 Found a bug? [Create a new Issue](https://github.com/openpeep/valido/issues)
