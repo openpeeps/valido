@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <code>nimble install valido</code>
+  <code>nimble install valido</code> *(not published, yet)
 </p>
 
 <p align="center">
