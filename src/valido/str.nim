@@ -110,6 +110,13 @@ proc isFloat*(input: string): bool =
     result = true
   except ValueError: discard
 
+proc isInt*(input: string): bool =
+  ## Determine if given input is an integer
+  try:
+    discard parseInt(input)
+    result = true
+  except ValueError: discard
+
 proc isHexStr*(input: string): bool =
   ## Determine if given input is a hex 
   try:
