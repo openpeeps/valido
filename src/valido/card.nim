@@ -34,18 +34,14 @@ proc isMasterCard*(input: string): bool =
   if isCard(cc):
     if parseInt(cc[0..1]) in {23..26, 51..55}:
       result = true
-    elif parseInt(cc[0..3]) in {2221..2229}:
+    elif parseInt(cc[0..3]) in 2221..2229:
       result = true
-    elif parseInt(cc[0..3]) == 2229:
-      result = true
-    elif parseInt(cc[0..2]) in {223..229}:
-      result = true
-    elif parseInt(cc[0..2]) in {270..271}:
+    elif parseInt(cc[0..2]) in 270..271:
       result = true
 
 proc isMaestro*(input: string): bool =
   var cc = input.multiReplace((" ", ""), ("-", ""))
-  if cc.len notin {12..19}: return
+  if cc.len notin 12..19: return
   if isCard(cc):
     let i = parseInt(cc[0..2])
     result = i in {500..509, 560..589, 600..699}
@@ -70,15 +66,11 @@ proc isDiscover*(input: string): bool =
       result = true
     elif parseInt(cc[0..3]) == 6011:
       result = true
-    elif parseInt(cc[0..3]) in {644..649}:
+    elif parseInt(cc[0..3]) in 644..649:
       result = true
-    elif parseInt() in {622126..622925}
+    elif parseInt(cc[0..5]) in 622126 .. 622925:
+      result = true
 
 proc isChinaUnionPay*(input: string): bool =
   var cc = input.multiReplace((" ", ""), ("-", ""))
   if cc.len notin {16..19}: return
-  # if isCard(cc):
-    # result = 
-
-
-
