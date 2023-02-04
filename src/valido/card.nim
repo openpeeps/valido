@@ -4,6 +4,8 @@
 #          Made by Humans from OpenPeep
 #          https://github.com/openpeep/valido
 
+from std/strutils import parseInt, multiReplace
+
 proc checkLuhn(cc: string): bool =
   # Luhn's algorithm. Originally from Rosetta Code
   # https://rosettacode.org/wiki/Luhn_test_of_credit_card_numbers
@@ -17,81 +19,66 @@ proc checkLuhn(cc: string): bool =
     odd = not odd
   result = t mod 10 == 0
 
-proc isCard*(input: string): bool =
-  checkLuhn(input)
+proc isCard*(input: string): bool = checkLuhn(input)
 
-when defined vCardExtras:
-  ## Optionally, you can pass `-d:vCardExtras` compile flag.
-  ## This will allow you to find bank information such as
-  ## bank name, url and phone number,
-  import ./country
+proc isVisa*(input: string): bool =
+  var cc = input.multiReplace((" ", ""), ("-", ""))
+  if cc.len notin [16, 19]: return
+  if isCard(cc):
+    result = cc[0] == '4'
 
-  type
-    CardType* = enum
-      UnknownCardType
-      DebitCard
-      CreditCard
+proc isMasterCard*(input: string): bool =
+  # https://www.mastercard.us/en-us/business/issuers/get-support/simplified-bin-account-range-table.html
+  var cc = input.multiReplace((" ", ""), ("-", ""))
+  if cc.len != 16: return
+  if isCard(cc):
+    if parseInt(cc[0..1]) in {23..26, 51..55}:
+      result = true
+    elif parseInt(cc[0..3]) in {2221..2229}:
+      result = true
+    elif parseInt(cc[0..3]) == 2229:
+      result = true
+    elif parseInt(cc[0..2]) in {223..229}:
+      result = true
+    elif parseInt(cc[0..2]) in {270..271}:
+      result = true
 
-    CardCategory* = enum
-      UnknownCardCategory
-      BusinessCard
-      StandardCard
+proc isMaestro*(input: string): bool =
+  var cc = input.multiReplace((" ", ""), ("-", ""))
+  if cc.len notin {12..19}: return
+  if isCard(cc):
+    let i = parseInt(cc[0..2])
+    result = i in {500..509, 560..589, 600..699}
 
-    BankDetails* = tuple[
-      bin: int,
-      name: string,
-      country: Country,
-      phone, url: string,
-      latitude, longitude: float
-    ]
+proc isAmericanExpress*(input: string): bool =
+  var cc = input.multiReplace((" ", ""), ("-", ""))
+  if cc.len != 15: return
+  if isCard(cc):
+    result = cc[0..1] in ["34", "37"]
 
-    CardBrand* = enum
-      UnknownCardBrand
-      AmericanExpress
-      ChinaUnionPay
-      Discover
-      DinnersClub
-      Enroute
-      JCB
-      MasterCard
-      Maestro
-      PrivateLabel
-      Visa
+proc isAMEX*(input: string): bool =
+  ## An alias of `isAmericanExpress`
+  result = isAmericanExpress(input)
 
-    Card* = ref object
-      brand: CardBrand
-      cardType: CardType
-      cardCategory: CardCategory
-      bank: BankDetails
+proc isDiscover*(input: string): bool =
+  # https://www.discoverglobalnetwork.com/resources/payments-providers/bin-ranges/
+  # https://www.discoverglobalnetwork.com/content/dam/discover/en_us/dgn/docs/IPP-VAR-Enabler-Compliance.pdf
+  var cc = input.multiReplace((" ", ""), ("-", ""))
+  if cc.len notin [16, 19]: return
+  if isCard(cc):
+    if parseInt(cc[0..1]) == 65:
+      result = true
+    elif parseInt(cc[0..3]) == 6011:
+      result = true
+    elif parseInt(cc[0..3]) in {644..649}:
+      result = true
+    elif parseInt() in {622126..622925}
 
-  proc isDebitCard*(input: string): bool =
-    ## Validates given input and determine if the card
-    ## type is Debit card
-
-  proc isValid*(input: string): bool =
-    ## Validates given input and determine if 
-    ## is a valid card number.
-
-  proc isVisa*(input: string): bool =
-    ## 499999
-    discard
-
-  proc isMasterCard*(input: string): bool =
-    # 510000 - 559999
-    discard
-
-  proc isMaestro*(input: string): bool =
-    ## 500000 - 509999
-    ## 560000 - 623999
-    ## 627000 - 628199
-
-
-  proc isAmericanExpress(input: string): bool =
-    discard
-
-  proc isChinaUnionPay*(input: string): bool =
-    ## 624000 - 626999
-    ## 628200 - 
+proc isChinaUnionPay*(input: string): bool =
+  var cc = input.multiReplace((" ", ""), ("-", ""))
+  if cc.len notin {16..19}: return
+  # if isCard(cc):
+    # result = 
 
 
 
