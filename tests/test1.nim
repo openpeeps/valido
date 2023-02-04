@@ -23,16 +23,11 @@ test "isDomain (valid)":
 test "isDomain (invalid)":
   check isDomain("sub.example.com") == false
 
-test "isStrongPassword (invalid)":
-  let output = isStrongPassword("x6y2C8Dt5Lgg")
+test "isStrongPassword (valid)":
+  check isStrongPassword("x6y2C8Dt5Lgg") == true
 
 test "isStrongPassword (invalid)":
-  let output = isStrongPassword("123admin@Admin321")
-
-# test "isCC (valid)":
-#   check isCC("4101891773067337") == true
-#   check isCC("4101891773067337") == true
-#   check isCC("3764285348263861") == true
+  check isStrongPassword("123admin@Admin321") == false
 
 test "isEAN8 (valid)":
   check isEAN8("40123455") == true
@@ -176,3 +171,35 @@ test "isDigits / isFloat / isBoolean / isRegex (invalid)":
 test "isMD5":
   check isMD5("900150983cd24fb0d6963f7d28e17f72") == true
   check isMD5("900150983cd24fb0d6963f7d28x07f72") == false
+
+test "isPastDate / isDate / isToday / isFutureDate (valid)":
+  check isPastDate("2022-01-03") == true
+  check isDate("2023-01-05") == true
+  check isFutureDate("2023-03-03") == true
+
+  check isPastDate("2022-01-03 14:00", "yyyy-MM-dd hh:mm") == true
+  check isDate("2023-01-05 2:30pm", "yyyy-MM-dd h:mtt") == true
+  check isFutureDate("2023-03-03 17:00", "yyyy-MM-dd hh:mm") == true
+
+  # check isToday("2023-02-02") == true
+
+test "isCard (valid)":
+  check isCard("4101891773067337") == true
+  check isCard("4101891773067337") == true
+  check isCard("3764285348263861") == true
+
+test "isMasterCard (valid)":
+  check isMasterCard("2222 4000 7000 0005") == true
+  check isMasterCard("5577 0000 5577 0004") == true
+  check isMasterCard("2222400050000009") == true
+
+test "isMaestro (valid)":
+  check isMaestro("6759649826438453") == true
+  check isMaestro("6799990100000000019") == true
+  check isMaestro("6771 7980 2100 0008") == true
+  check isMaestro("6331101999990073") == true
+  check isMaestro("6304939304310009610") == true
+
+test "isDiscover (valid)":
+  check isDiscover("6011111111111117") == true
+  check isDiscover("6011000990139424") == true
