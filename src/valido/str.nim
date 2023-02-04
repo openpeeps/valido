@@ -6,7 +6,7 @@
 
 import std/[macros, re]
 from std/strutils import Whitespace, Letters, Digits,
-                        parseFloat, parseInt, parseHexStr
+                        parseFloat, parseHexStr
 
 # from std/strutils import Whitespace, Letters, Digits,
 #                         LowercaseLetters, UppercaseLetters
@@ -112,10 +112,9 @@ proc isFloat*(input: string): bool =
 
 proc isInt*(input: string): bool =
   ## Determine if given input is an integer
-  try:
-    discard parseInt(input)
-    result = true
-  except ValueError: discard
+  for i in input:
+    if i notin {'0'..'9'}: return
+  result = true
 
 proc isHexStr*(input: string): bool =
   ## Determine if given input is a hex 
