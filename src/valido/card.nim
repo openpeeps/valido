@@ -74,3 +74,4 @@ proc isDiscover*(input: string): bool =
 proc isChinaUnionPay*(input: string): bool =
   var cc = input.multiReplace((" ", ""), ("-", ""))
   if cc.len notin {16..19}: return
+  # TODO
