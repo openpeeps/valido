@@ -5,7 +5,7 @@ author        = "George Lemon"
 description   = "A library of string validators and sanitizers."
 license       = "MIT"
 srcDir        = "src"
-
+skipDirs      = @["data"]
 
 # Dependencies
 
