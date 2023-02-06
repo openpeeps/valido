@@ -18,7 +18,7 @@
 - [x] is `Base32`, `Base58`, `Base64`
 - [x] is `Email`
 - [x] is `IP4`, `IP6`
-- [x] is `IBAN`
+- [ ] is `IBAN`
 - [x] is Strong `Password`
 - [x] is `Port`
 - [x] is `URI`
@@ -26,12 +26,13 @@
 - [x] is `JSON`
 - [x] is `Lowercase`, `Uppercase`, `Alpha`, `Alphanumerical`, `Digits`
 - [x] is `Boolean`, `Int`, `Float`, `Hex`, `Regex`
+- [ ] is Country
 - [x] Open Source | `MIT` License
 - [x] Written in Nim language
 
 ## Examples
 ```nim
-import valido/[email, ip]
+import valido/[email, ip, password]
 
 assert isEmail("office@example.com") == true
 assert isIP4("127.0.0.1", allowLoopback = false) == false
@@ -39,6 +40,13 @@ assert isIP4("127.0.0.1", allowLoopback = false) == false
 assert isStrongPassword("123adminAdmin") == false
 
 ```
+
+## Extra features
+`todo` Enable extra features by passing `-d:validoCountries`. This includes information
+about all `countries`, `currency`, `languages`, `phone` codes/prefixes/length, `postal` information and `states`.
+
+## IBAN with SWIFT information
+`todo` Enable IBAN validation by passing `-d:validoSwiftCodes`
 
 ### ❤ Contributions & Support
 - 🐛 Found a bug? [Create a new Issue](https://github.com/openpeep/valido/issues)
