@@ -19,6 +19,7 @@
 - [x] is `Email`
 - [x] is `IP4`, `IP6`
 - [ ] is `IBAN`
+- [x] is `CARD` (BIN/IIN support for `Visa`, `MasterCard`, `Maestro`, `Discovery`, etc.)
 - [x] is Strong `Password`
 - [x] is `Port`
 - [x] is `URI`
