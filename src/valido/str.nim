@@ -128,3 +128,18 @@ proc isRegex*(input: string): bool =
     discard re(input)
     result = true
   except RegexError: discard
+
+proc isNotEmpty*(input: string): bool =
+  result = input.len != 0
+
+proc isEmpty*(input: string): bool =
+  result = input.len == 0
+
+proc isMin*(input: string, min: int): bool =
+  result = input.len >= min
+
+proc isMax*(input: string, max: int): bool =
+  result = input.len <= max
+
+proc isBetween*(input: string, minMax: (int, int)): bool =
+  result = isMin(input, minMax[0]) and isMax(input, minMax[1])
