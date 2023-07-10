@@ -56,5 +56,5 @@ about all `countries`, `currency`, `languages`, `phone` codes/prefixes/length, `
 - 🥰 [Donate via PayPal address](https://www.paypal.com/donate/?hosted_button_id=RJK3ZTDWPL55C)
 
 ### 🎩 License
-Valido | MIT license. [Made by Humans from OpenPeeps](https://github.com/openpeep).<br>
-Copyright &copy; 2023 OpenPeep & Contributors &mdash; All rights reserved.
+Valido | MIT license. [Made by Humans from OpenPeeps](https://github.com/openpeeps).<br>
+Copyright &copy; 2023 OpenPeeps & Contributors &mdash; All rights reserved.
