@@ -4,7 +4,7 @@
 #          Made by Humans from OpenPeep
 #          https://github.com/openpeep/valido
 
-from std/strutils import split, count, isAlphaAscii, toLowerAscii, Digits
+import std/strutils
 
 type
   UUIDVersion* = enum
@@ -14,9 +14,14 @@ proc isUUID*(input: string, version: UUIDVersion = Any): bool =
   ## Validate given input string as UUID
   ## https://en.wikipedia.org/wiki/Universally_unique_identifier
   if input.count("-") != 4: return false
-
-  var timeLow, timeMid, timeHigh, clockSeq, node: string
-  (timeLow, timeMid, timeHigh, clockSeq, node) = input.toLowerAscii.split("-")
+  let v = input.toLowerAscii.split("-")
+  if v.len != 5: return
+  var
+    timeLow = v[0]
+    timeMid = v[1]
+    timeHigh = v[2]
+    clockSeq = v[3]
+    node = v[4]
 
   if timeLow.len != 8 or timeMid.len != 4 or timeHigh.len != 4 or
      clockSeq.len != 4 or node.len != 12: return false

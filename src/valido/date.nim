@@ -5,7 +5,7 @@ proc isDate*(input: string, format = "yyyy-MM-dd"): bool =
   try:
     discard parse(input, format)
     result = true
-  except TimeParseError, TimeFormatParseError, Defect:
+  except TimeParseError, TimeFormatParseError:
     discard
 
 proc isPastDate*(input: string, format = "yyyy-MM-dd"): bool =
@@ -14,7 +14,7 @@ proc isPastDate*(input: string, format = "yyyy-MM-dd"): bool =
     let d = parse(input, format, utc())
     if now() > d:
       result = true
-  except TimeParseError, TimeFormatParseError, Defect:
+  except TimeParseError, TimeFormatParseError:
     discard
 
 proc isFutureDate*(input: string, format = "yyyy-MM-dd"): bool =
@@ -23,7 +23,7 @@ proc isFutureDate*(input: string, format = "yyyy-MM-dd"): bool =
     let d = parse(input, format, utc())
     if d > now():
       result = true
-  except TimeParseError, TimeFormatParseError, Defect:
+  except TimeParseError, TimeFormatParseError:
     discard
 
 proc isToday*(input: string, format = "yyyy-MM-dd"): bool =
@@ -32,5 +32,5 @@ proc isToday*(input: string, format = "yyyy-MM-dd"): bool =
     let d = parse(input, format, utc())
     if d == now():
       result = true
-  except TimeParseError, TimeFormatParseError, Defect:
+  except TimeParseError, TimeFormatParseError:
     discard

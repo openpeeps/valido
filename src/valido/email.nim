@@ -24,8 +24,10 @@ proc isEmail*(input: string, allowSpecialChars = false): bool =
   if not input.contains("@"): return false
   if input.count("@") != 1: return false
 
-  var usernameInput, domainInput: string
-  (usernameInput, domainInput) = input.split("@")
+  var
+    v = input.split("@")
+    usernameInput = v[0]
+    domainInput = v[1]
   let
     userLen = usernameInput.len
     domainLen = domainInput.len

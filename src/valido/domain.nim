@@ -15,10 +15,9 @@ proc isDomain*(input: string): bool =
     return false
   var
     i = 0
-    domainName: string
-    tld: string
-
-  (domainName, tld) = input.split(".")
+    v = input.split(".")
+    domainName = v[0]
+    tld = v[1]
 
   let
     hyphenSep = {'-'}
@@ -28,7 +27,4 @@ proc isDomain*(input: string): bool =
   if input[0] in hyphenSep or input[^1] in hyphenSep: return false 
   # accept only valid Top Level Domains
   if toUpperAscii(tld) notin validTLDs: return false
-
-  # while i < domainLen:
-  #     inc i
   result = true

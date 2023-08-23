@@ -175,13 +175,11 @@ test "isMD5":
 test "isPastDate / isDate / isToday / isFutureDate (valid)":
   check isPastDate("2022-01-03") == true
   check isDate("2023-01-05") == true
-  check isFutureDate("2023-03-03") == true
+  check isFutureDate("2030-03-03") == true
 
   check isPastDate("2022-01-03 14:00", "yyyy-MM-dd hh:mm") == true
   check isDate("2023-01-05 2:30pm", "yyyy-MM-dd h:mtt") == true
-  check isFutureDate("2023-03-03 17:00", "yyyy-MM-dd hh:mm") == true
-
-  # check isToday("2023-02-02") == true
+  check isFutureDate("2030-03-03 17:00", "yyyy-MM-dd hh:mm") == true
 
 test "isCard (valid)":
   check isCard("4101891773067337") == true

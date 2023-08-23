@@ -44,7 +44,7 @@ proc isMaestro*(input: string): bool =
   if cc.len notin 12..19: return
   if isCard(cc):
     let i = parseInt(cc[0..2])
-    result = i in {500..509, 560..589, 600..699}
+    return i in 500..509 or i in 560..589 or i in 600..699 # seems like {500..509, 560..589, ...} does not work with nim 2.0
 
 proc isAmericanExpress*(input: string): bool =
   var cc = input.multiReplace((" ", ""), ("-", ""))
