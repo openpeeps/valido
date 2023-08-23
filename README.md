@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/openpeep/valido/blob/main/.github/logo.png" width="64px"><br>
+  <img src="https://github.com/openpeeps/valido/blob/main/.github/logo.png" width="64px"><br>
   A library of string validators and sanitizers.<br>👑 Written in Nim language
 </p>
 
@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://openpeep.github.io/valido/">API reference</a><br>
-  <img src="https://github.com/openpeep/valido/workflows/test/badge.svg" alt="Github Actions"> <img src="https://github.com/openpeep/valido/workflows/docs/badge.svg" alt="Github Actions">
+  <a href="https://openpeeps.github.io/valido/">API reference</a><br>
+  <img src="https://github.com/openpeeps/valido/workflows/test/badge.svg" alt="Github Actions"> <img src="https://github.com/openpeeps/valido/workflows/docs/badge.svg" alt="Github Actions">
 </p>
 
 ## 😍 Key Features
@@ -50,11 +50,11 @@ about all `countries`, `currency`, `languages`, `phone` codes/prefixes/length, `
 `todo` Enable IBAN validation by passing `-d:validoSwiftCodes`
 
 ### ❤ Contributions & Support
-- 🐛 Found a bug? [Create a new Issue](https://github.com/openpeep/valido/issues)
-- 👋 Wanna help? [Fork it!](https://github.com/openpeep/valido/fork)
+- 🐛 Found a bug? [Create a new Issue](https://github.com/openpeeps/valido/issues)
+- 👋 Wanna help? [Fork it!](https://github.com/openpeeps/valido/fork)
 - 😎 [Get €20 in cloud credits from Hetzner](https://hetzner.cloud/?ref=Hm0mYGM9NxZ4)
 - 🥰 [Donate via PayPal address](https://www.paypal.com/donate/?hosted_button_id=RJK3ZTDWPL55C)
 
 ### 🎩 License
-Valido | MIT license. [Made by Humans from OpenPeep](https://github.com/openpeep).<br>
-Copyright &copy; 2023 OpenPeep & Contributors &mdash; All rights reserved.
+Valido | MIT license. [Made by Humans from OpenPeeps](https://github.com/openpeeps).<br>
+Copyright &copy; 2023 OpenPeeps & Contributors &mdash; All rights reserved.
