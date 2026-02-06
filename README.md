@@ -53,8 +53,7 @@ about all `countries`, `currency`, `languages`, `phone` codes/prefixes/length, `
 - 🐛 Found a bug? [Create a new Issue](https://github.com/openpeeps/valido/issues)
 - 👋 Wanna help? [Fork it!](https://github.com/openpeeps/valido/fork)
 - 😎 [Get €20 in cloud credits from Hetzner](https://hetzner.cloud/?ref=Hm0mYGM9NxZ4)
-- 🥰 [Donate via PayPal address](https://www.paypal.com/donate/?hosted_button_id=RJK3ZTDWPL55C)
 
 ### 🎩 License
 Valido | MIT license. [Made by Humans from OpenPeeps](https://github.com/openpeeps).<br>
-Copyright &copy; 2023 OpenPeeps & Contributors &mdash; All rights reserved.
+Copyright &copy; OpenPeeps & Contributors &mdash; All rights reserved.
