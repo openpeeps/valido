@@ -11,7 +11,7 @@ skipDirs      = @["data"]
 
 requires "nim >= 1.6.10"
 requires "bigints"
-requires "zxcvbn"
+requires "blackpaper"
 
 task dev, "dev":
   echo "\n✨ Compiling..." & "\n"
