@@ -1,6 +1,6 @@
 import std/[unittest, strutils]
-import valido
-import valido/utils/tlds
+import ../src/valido
+import ../src/valido/utils/tlds
 
 test "isEmail (valid)":
   let emails = ["test@example.com", "test.ab@example.com",
