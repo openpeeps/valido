@@ -11,6 +11,7 @@ import pkg/openparser/regex
 from std/strutils import find
 
 proc isBase64*(i: string, urlSafe = false): bool =
+  ## Check if a string is base64 encoded using the regular expression
   if urlSafe:
     var exp = initRegexVM(compile(r"^[A-Z0-9_\-]*$"))
     return exp.match(i).matched

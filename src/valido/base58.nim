@@ -10,5 +10,6 @@
 import pkg/openparser/regex
 
 proc isBase58*(input: string): bool =
+  ## Check if a string is base58 encoded using the regular expression
   var exp = initRegexVM(compile(r"^[A-HJ-NP-Za-km-z1-9]*$"))
   exp.match(input).matched
