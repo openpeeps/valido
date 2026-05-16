@@ -4,7 +4,7 @@
 #          Made by Humans from OpenPeep
 #          https://github.com/openpeep/valido
 
-import std/[macros, re]
+import std/macros
 from std/strutils import Whitespace, Letters, Digits,
                         parseFloat, parseHexStr
 
@@ -123,11 +123,11 @@ proc isHexStr*(input: string): bool =
     result = true
   except ValueError: discard
 
-proc isRegex*(input: string): bool = 
-  try:
-    discard re(input)
-    result = true
-  except RegexError: discard
+# proc isRegex*(input: string): bool = 
+#   try:
+#     discard re(input)
+#     result = true
+#   except RegexError: discard
 
 proc isNotEmpty*(input: string): bool =
   result = input.len != 0

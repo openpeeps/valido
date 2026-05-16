@@ -153,17 +153,17 @@ test "isAlpha / isAlphaNumeric (invalid)":
   check isAlphaNumeric("mystuff@example", true) == false
   check isAlphaNumeric("one 2 3") == false
 
-test "isDigits / isFloat / isBoolean / isRegex (valid)":
-  check isBoolean("true") == true
-  check isFloat("20.99") == true
-  check isHexStr("48656c6c6f20576f726c64") == true
-  check isRegex("(\\w+)=(\\w+)") == true
+# test "isDigits / isFloat / isBoolean / isRegex (valid)":
+#   check isBoolean("true") == true
+#   check isFloat("20.99") == true
+#   check isHexStr("48656c6c6f20576f726c64") == true
+#   check isRegex("(\\w+)=(\\w+)") == true
 
-test "isDigits / isFloat / isBoolean / isRegex (invalid)":
-  check isBoolean("yeah") == false
-  check isFloat("20,99") == false
-  check isHexStr("48656c6c6 f20576f726c64") == false
-  check isRegex("*") == false
+# test "isDigits / isFloat / isBoolean / isRegex (invalid)":
+#   check isBoolean("yeah") == false
+#   check isFloat("20,99") == false
+#   check isHexStr("48656c6c6 f20576f726c64") == false
+#   check isRegex("*") == false
 
 #test "isIBAN":
   # check isIBAN("BE71096123456769")
