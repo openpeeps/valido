@@ -181,23 +181,94 @@ test "isPastDate / isDate / isToday / isFutureDate (valid)":
   check isDate("2023-01-05 2:30pm", "yyyy-MM-dd h:mtt") == true
   check isFutureDate("2030-03-03 17:00", "yyyy-MM-dd hh:mm") == true
 
-test "isCard (valid)":
-  check isCard("4101891773067337") == true
-  check isCard("4101891773067337") == true
-  check isCard("3764285348263861") == true
+suite "Credit cards":
 
-test "isMasterCard (valid)":
-  check isMasterCard("2222 4000 7000 0005") == true
-  check isMasterCard("5577 0000 5577 0004") == true
-  check isMasterCard("2222400050000009") == true
+  test "isCard / Luhn (valid)":
+    check isCard("4111111111111111") == true
+    check isCard("4101891773067337") == true
+    check isCard("3764285348263861") == true
 
-test "isMaestro (valid)":
-  check isMaestro("6759649826438453") == true
-  check isMaestro("6799990100000000019") == true
-  check isMaestro("6771 7980 2100 0008") == true
-  check isMaestro("6331101999990073") == true
-  check isMaestro("6304939304310009610") == true
+  test "isCard / Luhn (invalid)":
+    check isCard("4111111111111112") == false
+    check isCard("1234567890123456") == false
 
-test "isDiscover (valid)":
-  check isDiscover("6011111111111117") == true
-  check isDiscover("6011000990139424") == true
+  test "isVisa (valid)":
+    check isVisa("4111111111111111") == true
+    check isVisa("4012888888881881") == true
+    check isVisa("4101891773067337") == true
+
+  test "isVisa (invalid)":
+    check isVisa("5500005555555559") == false   # MasterCard
+    check isVisa("4111111111111112") == false   # bad Luhn
+
+  test "isMasterCard (valid)":
+    check isMasterCard("2222400050000009") == true
+    check isMasterCard("2222 4000 7000 0005") == true
+    check isMasterCard("5577 0000 5577 0004") == true
+    check isMasterCard("5500005555555559") == true
+
+  test "isMasterCard (invalid)":
+    check isMasterCard("4111111111111111") == false   # Visa
+    check isMasterCard("5500005555555558") == false   # bad Luhn
+    check isMasterCard("2221009999999999") == false   # out of range
+
+  test "isMaestro (valid)":
+    check isMaestro("6759649826438453") == true
+    check isMaestro("6304939304310009610") == true  # 19-digit
+    check isMaestro("5018000000000009") == true     # 5018 prefix
+
+  test "isMaestro (invalid)":
+    check isMaestro("4111111111111111") == false
+    check isMaestro("6759649826438452") == false    # bad Luhn
+
+  test "isAmericanExpress / isAMEX (valid)":
+    check isAmericanExpress("371449635398431") == true
+    check isAmericanExpress("378282246310005") == true
+    check isAMEX("340000000000009") == true   # valid 15-digit AMEX (34-prefix)
+
+  test "isAmericanExpress (invalid)":
+    check isAmericanExpress("4111111111111111") == false
+    check isAmericanExpress("371449635398430") == false  # bad Luhn
+    check isAmericanExpress("3764285348263861") == false # 16 digits — not AMEX
+
+  test "isDiscover (valid)":
+    check isDiscover("6011111111111117") == true
+    check isDiscover("6011000990139424") == true
+    check isDiscover("6500000000000002") == true
+
+  test "isDiscover (invalid)":
+    check isDiscover("4111111111111111") == false
+    check isDiscover("6011111111111118") == false  # bad Luhn
+
+  test "isJCB (valid)":
+    check isJCB("3530111333300000") == true
+    check isJCB("3566002020360505") == true
+
+  test "isJCB (invalid)":
+    check isJCB("4111111111111111") == false
+    check isJCB("3530111333300001") == false  # bad Luhn
+
+  test "isDinersClub (valid)":
+    check isDinersClub("30569309025904") == true   # Carte Blanche, 14-digit
+    check isDinersClub("38520000023237") == true   # International, 14-digit
+    check isDinersClub("5400000000000005") == true # North America, 16-digit
+
+  test "isDinersClub (invalid)":
+    check isDinersClub("4111111111111111") == false
+    check isDinersClub("30569309025903") == false  # bad Luhn
+
+  test "isMir (valid)":
+    check isMir("2200000000000004") == true
+    check isMir("2201382000000013") == true
+
+  test "isMir (invalid)":
+    check isMir("4111111111111111") == false
+    check isMir("2205000000000000") == false  # out of range
+
+  test "isChinaUnionPay (valid)":
+    check isChinaUnionPay("6221260000000000") == true
+    check isChinaUnionPay("6250941006528599") == true
+
+  test "isChinaUnionPay (invalid)":
+    check isChinaUnionPay("4111111111111111") == false
+    check isChinaUnionPay("6219000000000000") == false  # out of range
