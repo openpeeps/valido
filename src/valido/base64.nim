@@ -7,14 +7,13 @@
 #          Made by Humans from OpenPeep
 #          https://github.com/openpeep/valido
 
-import std/re
+import pkg/openparser/regex
 from std/strutils import find
-
-let urlSafeBase64 = re"/^[A-Z0-9_\-]*$/i"
 
 proc isBase64*(i: string, urlSafe = false): bool =
   if urlSafe:
-    return i.match(urlSafeBase64)
+    var exp = initRegexVM(compile(r"^[A-Z0-9_\-]*$"))
+    return exp.match(i).matched
   let ln = i.len
   if ln mod 4 == 0:
     let fpadchar = i.find('=', last = 1)

@@ -5,6 +5,8 @@
 #          https://github.com/openpeep/valido
 
 import std/macros
+import pkg/openparser/regex
+
 from std/strutils import Whitespace, Letters, Digits,
                         parseFloat, parseHexStr
 
@@ -125,9 +127,9 @@ proc isHexStr*(input: string): bool =
 
 # proc isRegex*(input: string): bool = 
 #   try:
-#     discard re(input)
+#     discard regex.compile(input)
 #     result = true
-#   except RegexError: discard
+#   except OpenParserRegexError: discard
 
 proc isNotEmpty*(input: string): bool =
   result = input.len != 0

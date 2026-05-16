@@ -7,9 +7,8 @@
 #          Made by Humans from OpenPeep
 #          https://github.com/openpeep/valido
 
-import std/re
-
-let exp = re"^[A-HJ-NP-Za-km-z1-9]*$"
+import pkg/openparser/regex
 
 proc isBase58*(input: string): bool =
-  input.match(exp)
+  var exp = initRegexVM(compile(r"^[A-HJ-NP-Za-km-z1-9]*$"))
+  exp.match(input).matched

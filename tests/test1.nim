@@ -24,7 +24,7 @@ test "isDomain (invalid)":
   check isDomain("sub.example.com") == false
 
 test "isStrongPassword (valid)":
-  check isStrongPassword("x6y2C8Dt5Lgg") == true
+  check isStrongPassword("x6y2C8D@#$(t5Lgg") == true
 
 test "isStrongPassword (invalid)":
   check isStrongPassword("123admin@Admin321") == false

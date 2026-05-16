@@ -7,9 +7,8 @@
 #          Made by Humans from OpenPeep
 #          https://github.com/openpeep/valido
 
-import std/re
-
-let exp = re"^[A-Z2-7]+=*$"
+import pkg/openparser/regex
 
 proc isBase32*(input: string): bool =
-  input.len mod 8 == 0 and input.match(exp)
+  var exp = initRegexVM(compile(r"^[A-Z2-7]+=*$"))
+  input.len mod 8 == 0 and exp.match(input).matched
