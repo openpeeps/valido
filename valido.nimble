@@ -9,10 +9,10 @@ skipDirs      = @["data"]
 
 # Dependencies
 
-requires "nim >= 1.6.10"
-requires "bigints"
-requires "blackpaper"
-requires "openparser"
+requires "nim >= 2.0.0"
+requires "bigints >= 0.1.0"
+requires "blackpaper >= 0.1.0"
+requires "openparser >= 0.1.2"
 
 task dev, "dev":
   echo "\n✨ Compiling..." & "\n"
