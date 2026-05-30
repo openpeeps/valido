@@ -1,0 +1,5 @@
+nimTitle	date	valido/date.html	module valido/date		0
+nim	isDate	valido/date.html#isDate,string,string	proc isDate(input: string; format = "yyyy-MM-dd"): bool		3
+nim	isPastDate	valido/date.html#isPastDate,string,string	proc isPastDate(input: string; format = "yyyy-MM-dd"): bool		11
+nim	isFutureDate	valido/date.html#isFutureDate,string,string	proc isFutureDate(input: string; format = "yyyy-MM-dd"): bool		20
+nim	isToday	valido/date.html#isToday,string,string	proc isToday(input: string; format = "yyyy-MM-dd"): bool		29

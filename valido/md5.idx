@@ -1,1 +1,2 @@
-isMD5	valido/md5.html#isMD5,string	md5: isMD5(input: string): bool	
+nimTitle	md5	valido/md5.html	module valido/md5		0
+nim	isMD5	valido/md5.html#isMD5,string	proc isMD5(input: string): bool		8

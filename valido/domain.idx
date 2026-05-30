@@ -1,1 +1,2 @@
-isDomain	valido/domain.html#isDomain,string	domain: isDomain(input: string): bool	
+nimTitle	domain	valido/domain.html	module valido/domain		0
+nim	isDomain	valido/domain.html#isDomain,string	proc isDomain(input: string): bool		12

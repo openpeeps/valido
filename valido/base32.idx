@@ -1,1 +1,2 @@
-isBase32	valido/base32.html#isBase32,string	base32: isBase32(input: string): bool	
+nimTitle	base32	valido/base32.html	module valido/base32		0
+nim	isBase32	valido/base32.html#isBase32,string	proc isBase32(input: string): bool		12

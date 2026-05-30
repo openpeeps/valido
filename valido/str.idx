@@ -1,13 +1,21 @@
-UppercaseLetters	valido/str.html#UppercaseLetters	str: UppercaseLetters	
-LowercaseLetters	valido/str.html#LowercaseLetters	str: LowercaseLetters	
-isLowercase	valido/str.html#isLowercase,string,bool	str: isLowercase(input: string; withWhitespaces: bool; withNumbers = false): bool	
-isLowercase	valido/str.html#isLowercase,string	str: isLowercase(input: string): bool	
-isUppercase	valido/str.html#isUppercase,string	str: isUppercase(input: string; withWhitespaces, withNumbers = false): bool	
-isDigits	valido/str.html#isDigits,string	str: isDigits(input: string): bool	
-isDigits	valido/str.html#isDigits,string,char	str: isDigits(input: string; sep: char): bool	
-isAlpha	valido/str.html#isAlpha,string	str: isAlpha(input: string; withWhitespaces = false; ws = Whitespace): bool	
-isAlphaNumeric	valido/str.html#isAlphaNumeric,string	str: isAlphaNumeric(input: string; withWhitespaces = false; ws = Whitespace): bool	
-isBoolean	valido/str.html#isBoolean,string	str: isBoolean(input: string): bool	
-isFloat	valido/str.html#isFloat,string	str: isFloat(input: string): bool	
-isHexStr	valido/str.html#isHexStr,string	str: isHexStr(input: string): bool	
-isRegex	valido/str.html#isRegex,string	str: isRegex(input: string): bool	
+nimTitle	str	valido/str.html	module valido/str		0
+nim	UppercaseLetters	valido/str.html#UppercaseLetters	const UppercaseLetters		16
+nim	LowercaseLetters	valido/str.html#LowercaseLetters	const LowercaseLetters		17
+nim	isLowercase	valido/str.html#isLowercase,string,bool	proc isLowercase(input: string; withWhitespaces: bool; withNumbers = false): bool		19
+nim	isLowercase	valido/str.html#isLowercase,string	proc isLowercase(input: string): bool		44
+nim	isUppercase	valido/str.html#isUppercase,string	proc isUppercase(input: string; withWhitespaces, withNumbers = false): bool		51
+nim	isDigits	valido/str.html#isDigits,string	proc isDigits(input: string): bool		74
+nim	isDigits	valido/str.html#isDigits,string,char	proc isDigits(input: string; sep: char): bool		79
+nim	isAlpha	valido/str.html#isAlpha,string	proc isAlpha(input: string; withWhitespaces = false; ws = Whitespace): bool		85
+nim	isAlphaNumeric	valido/str.html#isAlphaNumeric,string	proc isAlphaNumeric(input: string; withWhitespaces = false; ws = Whitespace): bool		95
+nim	isBoolean	valido/str.html#isBoolean,string	proc isBoolean(input: string): bool		104
+nim	isFloat	valido/str.html#isFloat,string	proc isFloat(input: string): bool		108
+nim	isInt	valido/str.html#isInt,string	proc isInt(input: string): bool		115
+nim	isHexStr	valido/str.html#isHexStr,string	proc isHexStr(input: string): bool		121
+nim	isNotEmpty	valido/str.html#isNotEmpty,string	proc isNotEmpty(input: string): bool		134
+nim	isEmpty	valido/str.html#isEmpty,string	proc isEmpty(input: string): bool		137
+nim	isMin	valido/str.html#isMin,string,int	proc isMin(input: string; min: int): bool		140
+nim	isMax	valido/str.html#isMax,string,int	proc isMax(input: string; max: int): bool		143
+nim	isBetween	valido/str.html#isBetween,string,	proc isBetween(input: string; minMax: (int, int)): bool		146
+nimgrp	isdigits	valido/str.html#isDigits-procs-all	proc		74
+nimgrp	islowercase	valido/str.html#isLowercase-procs-all	proc		19

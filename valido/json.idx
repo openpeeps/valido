@@ -1,1 +1,2 @@
-isJSON	valido/json.html#isJSON,string	json: isJSON(input: string): bool	
+nimTitle	json	valido/json.html	module valido/json		0
+nim	isJSON	valido/json.html#isJSON,string	proc isJSON(input: string): bool		9

@@ -1,7 +1,8 @@
-Any	valido/uuid.html#Any	UUIDVersion.Any	
-V1	valido/uuid.html#V1	UUIDVersion.V1	
-V3	valido/uuid.html#V3	UUIDVersion.V3	
-V4	valido/uuid.html#V4	UUIDVersion.V4	
-V5	valido/uuid.html#V5	UUIDVersion.V5	
-UUIDVersion	valido/uuid.html#UUIDVersion	uuid: UUIDVersion	
-isUUID	valido/uuid.html#isUUID,string,UUIDVersion	uuid: isUUID(input: string; version: UUIDVersion = Any): bool	
+nimTitle	uuid	valido/uuid.html	module valido/uuid		0
+nim	Any	valido/uuid.html#Any	UUIDVersion.Any		10
+nim	V1	valido/uuid.html#V1	UUIDVersion.V1		10
+nim	V3	valido/uuid.html#V3	UUIDVersion.V3		10
+nim	V4	valido/uuid.html#V4	UUIDVersion.V4		10
+nim	V5	valido/uuid.html#V5	UUIDVersion.V5		10
+nim	UUIDVersion	valido/uuid.html#UUIDVersion	enum UUIDVersion		10
+nim	isUUID	valido/uuid.html#isUUID,string,UUIDVersion	proc isUUID(input: string; version: UUIDVersion = Any): bool		13

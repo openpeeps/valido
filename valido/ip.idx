@@ -1,4 +1,5 @@
-isIP4	valido/ip.html#isIP4,string	ip: isIP4(input: string; allowLoopback = false): bool	
-isIP4Reachable	valido/ip.html#isIP4Reachable,string,Port,int	ip: isIP4Reachable(input: string; port: Port = Port(80); timeout = 5000): bool	
-isIP6	valido/ip.html#isIP6,string	ip: isIP6(input: string; allowLoopback = false): bool	
-isIP6Reachable	valido/ip.html#isIP6Reachable,string,Port,int	ip: isIP6Reachable(input: string; port: Port = Port(80); timeout = 5000): bool	
+nimTitle	ip	valido/ip.html	module valido/ip		0
+nim	isIP4	valido/ip.html#isIP4,string	proc isIP4(input: string; allowLoopback = false): bool		36
+nim	isIP4Reachable	valido/ip.html#isIP4Reachable,string,Port,int	proc isIP4Reachable(input: string; port: Port = Port(80); timeout = 5000): bool		44
+nim	isIP6	valido/ip.html#isIP6,string	proc isIP6(input: string; allowLoopback = false): bool		51
+nim	isIP6Reachable	valido/ip.html#isIP6Reachable,string,Port,int	proc isIP6Reachable(input: string; port: Port = Port(80); timeout = 5000): bool		56

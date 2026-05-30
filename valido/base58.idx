@@ -1,1 +1,2 @@
-isBase58	valido/base58.html#isBase58,string	base58: isBase58(input: string): bool	
+nimTitle	base58	valido/base58.html	module valido/base58		0
+nim	isBase58	valido/base58.html#isBase58,string	proc isBase58(input: string): bool		12

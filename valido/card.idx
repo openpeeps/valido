@@ -1,1 +1,12 @@
-isCard	valido/card.html#isCard,string	card: isCard(input: string): bool	
+nimTitle	card	valido/card.html	module valido/card		0
+nim	isCard	valido/card.html#isCard,string	proc isCard(input: string): bool		21
+nim	isVisa	valido/card.html#isVisa,string	proc isVisa(input: string): bool		23
+nim	isMasterCard	valido/card.html#isMasterCard,string	proc isMasterCard(input: string): bool		29
+nim	isMaestro	valido/card.html#isMaestro,string	proc isMaestro(input: string): bool		37
+nim	isAmericanExpress	valido/card.html#isAmericanExpress,string	proc isAmericanExpress(input: string): bool		45
+nim	isAMEX	valido/card.html#isAMEX,string	proc isAMEX(input: string): bool		51
+nim	isDiscover	valido/card.html#isDiscover,string	proc isDiscover(input: string): bool		55
+nim	isJCB	valido/card.html#isJCB,string	proc isJCB(input: string): bool		69
+nim	isDinersClub	valido/card.html#isDinersClub,string	proc isDinersClub(input: string): bool		76
+nim	isMir	valido/card.html#isMir,string	proc isMir(input: string): bool		87
+nim	isChinaUnionPay	valido/card.html#isChinaUnionPay,string	proc isChinaUnionPay(input: string): bool		94

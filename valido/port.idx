@@ -1,2 +1,4 @@
-isPort	valido/port.html#isPort,int	port: isPort(input: int; strict = false): bool	
-isPort	valido/port.html#isPort,string	port: isPort(input: string; strict = false): bool	
+nimTitle	port	valido/port.html	module valido/port		0
+nim	isPort	valido/port.html#isPort,int	proc isPort(input: int; strict = false): bool		8
+nim	isPort	valido/port.html#isPort,string	proc isPort(input: string; strict = false): bool		11
+nimgrp	isport	valido/port.html#isPort-procs-all	proc		8

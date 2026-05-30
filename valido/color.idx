@@ -1,0 +1,2 @@
+nimTitle	color	valido/color.html	module valido/color		0
+nim	isColor	valido/color.html#isColor,string	proc isColor(input: string): bool		3

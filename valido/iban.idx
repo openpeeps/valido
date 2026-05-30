@@ -1,1 +1,2 @@
-isIBAN	valido/iban.html#isIBAN,string	iban: isIBAN(iban: string): bool	
+nimTitle	iban	valido/iban.html	module valido/iban		0
+nim	isIBAN	valido/iban.html#isIBAN,string	proc isIBAN(iban: string): bool		27
