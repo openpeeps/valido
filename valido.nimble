@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.1.0"
+version       = "0.1.1"
 author        = "George Lemon"
 description   = "A library of string validators and sanitizers."
 license       = "MIT"
@@ -12,7 +12,7 @@ skipDirs      = @["data"]
 requires "nim >= 2.0.0"
 requires "bigints >= 0.1.0"
 requires "blackpaper >= 0.1.0"
-requires "openparser >= 0.1.2"
+requires "openparser >= 0.2.0"
 
 task dev, "dev":
   echo "\n✨ Compiling..." & "\n"
