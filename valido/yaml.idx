@@ -1,0 +1,3 @@
+nimTitle	yaml	valido/yaml.html	module valido/yaml		0
+nim	isYaml	valido/yaml.html#isYaml,string	proc isYaml(input: string): bool		10
+nim	isYamlStream	valido/yaml.html#isYamlStream,string	proc isYamlStream(input: string): bool		20

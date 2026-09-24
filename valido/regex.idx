@@ -1,0 +1,3 @@
+nimTitle	regex	valido/regex.html	module valido/regex		0
+nim	isRegex	valido/regex.html#isRegex,string	proc isRegex(pattern: string): bool		10
+nim	isRegexMatch	valido/regex.html#isRegexMatch,string,string	proc isRegexMatch(pattern, input: string): bool		19

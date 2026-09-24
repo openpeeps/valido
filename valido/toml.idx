@@ -1,0 +1,2 @@
+nimTitle	toml	valido/toml.html	module valido/toml		0
+nim	isToml	valido/toml.html#isToml,string	proc isToml(input: string): bool		10

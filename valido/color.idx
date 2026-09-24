@@ -1,2 +1,17 @@
 nimTitle	color	valido/color.html	module valido/color		0
-nim	isColor	valido/color.html#isColor,string	proc isColor(input: string): bool		3
+nim	isColor	valido/color.html#isColor,string	proc isColor(input: string): bool		25
+nim	isHexColor	valido/color.html#isHexColor,string	proc isHexColor(input: string): bool		30
+nim	isHex	valido/color.html#isHex,string	proc isHex(input: string): bool		40
+nim	isRgb	valido/color.html#isRgb,string	proc isRgb(input: string): bool		44
+nim	isRgba	valido/color.html#isRgba,string	proc isRgba(input: string): bool		52
+nim	isHsl	valido/color.html#isHsl,string	proc isHsl(input: string): bool		62
+nim	isHsla	valido/color.html#isHsla,string	proc isHsla(input: string): bool		70
+nim	isHsv	valido/color.html#isHsv,string	proc isHsv(input: string): bool		79
+nim	isHwb	valido/color.html#isHwb,string	proc isHwb(input: string): bool		84
+nim	isCmyk	valido/color.html#isCmyk,string	proc isCmyk(input: string): bool		88
+nim	isLab	valido/color.html#isLab,string	proc isLab(input: string): bool		92
+nim	isLch	valido/color.html#isLch,string	proc isLch(input: string): bool		96
+nim	isOklab	valido/color.html#isOklab,string	proc isOklab(input: string): bool		100
+nim	isOklch	valido/color.html#isOklch,string	proc isOklch(input: string): bool		104
+nim	isNamedColor	valido/color.html#isNamedColor,string	proc isNamedColor(input: string): bool		108
+nim	isTransparent	valido/color.html#isTransparent,string	proc isTransparent(input: string): bool		115

@@ -16,10 +16,10 @@
 <link rel="icon" type="image/png" sizes="32x32" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH4QQQEwksSS9ZWwAAAk1JREFUWMPtll2ITVEUx39nn/O7Y5qR8f05wtCUUr6ZIS++8pEnkZInPImneaCQ5METNdOkeFBKUhMPRIkHKfEuUZSUlGlKPN2TrgfncpvmnntnmlEyq1Z7t89/rf9a6+y99oZxGZf/XeIq61EdtgKXgdXA0xrYAvBjOIF1AI9zvjcC74BSpndrJPkBWDScTF8Aa4E3wDlgHbASaANmVqlcCnwHvgDvgVfAJ+AikAAvgfVZwLnSVZHZaOuKoQi3ZOMi4NkYkpe1p4J7A8BpYAD49hfIy/oqG0+hLomiKP2L5L+1ubn5115S+3OAn4EnwBlgMzCjyt6ZAnQCJ4A7wOs88iRJHvw50HoujuPBoCKwHWiosy8MdfZnAdcHk8dxXFJ3VQbQlCTJvRBCGdRbD4M6uc5glpY3eAihpN5S5w12diSEcCCEcKUO4ljdr15T76ur1FDDLIQQ3qv71EdDOe3Kxj3leRXyk+pxdWnFWod6Wt2bY3de3aSuUHcPBVimHs7mK9WrmeOF6lR1o9qnzskh2ar2qm1qizpfXaPeVGdlmGN5pb09qMxz1Xb1kLqgzn1RyH7JUXW52lr5e/Kqi9qpto7V1atuUzfnARrV7jEib1T76gG2qxdGmXyiekkt1GswPTtek0aBfJp6YySGBfWg2tPQ0FAYgf1stUfdmdcjarbYJEniKIq6gY/Aw+zWHAC+p2labGpqiorFYgGYCEzN7oQdQClN07O1/EfDyGgC0ALMBdYAi4FyK+4H3gLPsxfR1zRNi+NP7nH5J+QntnXe5B5mpfQAAAAASUVORK5CYII=">
 
 <!-- CSS -->
-<link rel="stylesheet" type="text/css" href="../nimdoc.out.css?v=2.2.10">
+<link rel="stylesheet" type="text/css" href="../nimdoc.out.css?v=2.2.12">
 
 <!-- JS -->
-<script type="text/javascript" src="../dochack.js?v=2.2.10"></script>
+<script type="text/javascript" src="../dochack.js?v=2.2.12"></script>
 </head>
 <body>
   <div class="document" id="documentId">
@@ -55,12 +55,19 @@
     </div>
     <ul class="simple simple-toc" id="toc-list">
   <li>
+  <a class="reference reference-toplevel" href="#6" id="56">Imports</a>
+</li>
+<li>
   <details open>
     <summary><a class="reference reference-toplevel" href="#7" id="57">Types</a></summary>
     <ul class="simple simple-toc-section">
       <li><a class="reference" href="#SchemeURI" title="SchemeURI = enum
-  Invalid, Android = &quot;android&quot;, ## Identifies an Android application
-                                 ## android://&lt;application-id&gt;
+  Invalid, Http = &quot;http&quot;,   ## Hypertext Transfer Protocol
+                             ## http://&lt;host&gt;[:&lt;port&gt;]/&lt;url-path&gt;
+  Https = &quot;https&quot;,          ## Hypertext Transfer Protocol over TLS
+                             ## https://&lt;host&gt;[:&lt;port&gt;]/&lt;url-path&gt;
+  Android = &quot;android&quot;,      ## Identifies an Android application
+                             ## android://&lt;application-id&gt;
   Bitcoin = &quot;bitcoin&quot;,      ## Send money to a Bitcoin address
                              ## bitcoin:&lt;address&gt;[?[amount=&lt;size&gt;][&amp;][label=&lt;label&gt;][&amp;][message=&lt;message&gt;]]
   BitcoinCash = &quot;bitcoincash&quot;, ## Send money to a Bitcoin Cash address
@@ -94,8 +101,10 @@
                              ## message://&lt;MESSAGE-ID&gt;
   Sftp = &quot;sftp&quot;, ## SFTP file transfers (not be to confused with FTPS (FTP/SSL))
                   ## sftp://[&lt;user&gt;[;fingerprint=&lt;host-key fingerprint&gt;]@]&lt;host&gt;[:&lt;port&gt;]/&lt;path&gt;/&lt;file&gt;
-  Ssh = &quot;ssh&quot;                ## SSH connections (like telnet:)
-                             ## ssh://[&lt;user&gt;[;fingerprint=&lt;host-key fingerprint&gt;]@]&lt;host&gt;[:&lt;port&gt;]">SchemeURI</a></li>
+  Ssh = &quot;ssh&quot;,              ## SSH connections (like telnet:)
+                             ## ssh://[&lt;user&gt;[;fingerprint=&lt;host-key fingerprint&gt;]@]&lt;host&gt;[:&lt;port&gt;]
+  Mailto = &quot;mailto&quot;          ## Electronic mail address
+                             ## mailto:&lt;address&gt;">SchemeURI</a></li>
 
     </ul>
   </details>
@@ -105,7 +114,112 @@
     <summary><a class="reference reference-toplevel" href="#12" id="62">Procs</a></summary>
     <ul class="simple simple-toc-section">
       <ul class="simple nested-toc-section">getScheme
-  <li><a class="reference" href="#getScheme%2Cstring" title="getScheme(input: string)">getScheme(input: string)</a></li>
+  <li><a class="reference" href="#getScheme%2Cstring" title="getScheme(input: string): SchemeURI">getScheme(input: string): SchemeURI</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isAndroidUri
+  <li><a class="reference" href="#isAndroidUri%2Cstring" title="isAndroidUri(input: string): bool">isAndroidUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isBitcoinCashUri
+  <li><a class="reference" href="#isBitcoinCashUri%2Cstring" title="isBitcoinCashUri(input: string): bool">isBitcoinCashUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isBitcoinUri
+  <li><a class="reference" href="#isBitcoinUri%2Cstring" title="isBitcoinUri(input: string): bool">isBitcoinUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isChromeExtensionUri
+  <li><a class="reference" href="#isChromeExtensionUri%2Cstring" title="isChromeExtensionUri(input: string): bool">isChromeExtensionUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isChromeUri
+  <li><a class="reference" href="#isChromeUri%2Cstring" title="isChromeUri(input: string): bool">isChromeUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isFaceTimeUri
+  <li><a class="reference" href="#isFaceTimeUri%2Cstring" title="isFaceTimeUri(input: string): bool">isFaceTimeUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isFeedUri
+  <li><a class="reference" href="#isFeedUri%2Cstring" title="isFeedUri(input: string): bool">isFeedUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isFileUri
+  <li><a class="reference" href="#isFileUri%2Cstring" title="isFileUri(input: string): bool">isFileUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isFtpUri
+  <li><a class="reference" href="#isFtpUri%2Cstring" title="isFtpUri(input: string): bool">isFtpUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isGitUri
+  <li><a class="reference" href="#isGitUri%2Cstring" title="isGitUri(input: string): bool">isGitUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isIrc6Uri
+  <li><a class="reference" href="#isIrc6Uri%2Cstring" title="isIrc6Uri(input: string): bool">isIrc6Uri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isIrcsUri
+  <li><a class="reference" href="#isIrcsUri%2Cstring" title="isIrcsUri(input: string): bool">isIrcsUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isIrcUri
+  <li><a class="reference" href="#isIrcUri%2Cstring" title="isIrcUri(input: string): bool">isIrcUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isLdapsUri
+  <li><a class="reference" href="#isLdapsUri%2Cstring" title="isLdapsUri(input: string): bool">isLdapsUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isMailto
+  <li><a class="reference" href="#isMailto%2Cstring" title="isMailto(input: string): bool">isMailto(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isMarketUri
+  <li><a class="reference" href="#isMarketUri%2Cstring" title="isMarketUri(input: string): bool">isMarketUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isMessageUri
+  <li><a class="reference" href="#isMessageUri%2Cstring" title="isMessageUri(input: string): bool">isMessageUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isMongoDbUri
+  <li><a class="reference" href="#isMongoDbUri%2Cstring" title="isMongoDbUri(input: string): bool">isMongoDbUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isSftpUri
+  <li><a class="reference" href="#isSftpUri%2Cstring" title="isSftpUri(input: string): bool">isSftpUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isSshUri
+  <li><a class="reference" href="#isSshUri%2Cstring" title="isSshUri(input: string): bool">isSshUri(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isUri
+  <li><a class="reference" href="#isUri%2Cstring" title="isUri(input: string): bool">isUri(input: string): bool</a></li>
+<li><a class="reference" href="#isUri%2Cstring%2CSchemeURI" title="isUri(input: string; scheme: SchemeURI): bool">isUri(input: string; scheme: SchemeURI): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isUrl
+  <li><a class="reference" href="#isUrl%2Cstring" title="isUrl(input: string): bool">isUrl(input: string): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isWebUrl
+  <li><a class="reference" href="#isWebUrl%2Cstring" title="isWebUrl(input: string): bool">isWebUrl(input: string): bool</a></li>
+
+</ul>
+
+    </ul>
+  </details>
+</li>
+<li>
+  <details open>
+    <summary><a class="reference reference-toplevel" href="#16" id="66">Converters</a></summary>
+    <ul class="simple simple-toc-section">
+      <ul class="simple nested-toc-section">toSchemeURI
+  <li><a class="reference" href="#toSchemeURI.c%2Cstring" title="toSchemeURI(i: string): SchemeURI">toSchemeURI(i: string): SchemeURI</a></li>
 
 </ul>
 
@@ -121,13 +235,23 @@
     <div id="tocRoot"></div>
     
     <p class="module-desc"></p>
-    <div class="section" id="7">
+    <div class="section" id="6">
+  <h1><a class="toc-backref" href="#6">Imports</a></h1>
+  <dl class="item">
+    <a class="reference external" href="domain.html">domain</a>, <a class="reference external" href="email.html">email</a>, <a class="reference external" href="ip.html">ip</a>, <a class="reference external" href="port.html">port</a>
+  </dl>
+</div>
+<div class="section" id="7">
   <h1><a class="toc-backref" href="#7">Types</a></h1>
   <dl class="item">
     <div id="SchemeURI">
   <dt><pre><a href="#SchemeURI"><span class="Identifier">SchemeURI</span></a> <span class="Other">=</span> <span class="Keyword">enum</span>
-  <span class="Identifier">Invalid</span><span class="Other">,</span> <span class="Identifier">Android</span> <span class="Other">=</span> <span class="StringLit">&quot;android&quot;</span><span class="Other">,</span> <span class="Comment">## Identifies an Android application</span>
-                                 <span class="Comment">## android://&lt;application-id&gt;</span>
+  <span class="Identifier">Invalid</span><span class="Other">,</span> <span class="Identifier">Http</span> <span class="Other">=</span> <span class="StringLit">&quot;http&quot;</span><span class="Other">,</span>   <span class="Comment">## Hypertext Transfer Protocol</span>
+                             <span class="Comment">## http://&lt;host&gt;[:&lt;port&gt;]/&lt;url-path&gt;</span>
+  <span class="Identifier">Https</span> <span class="Other">=</span> <span class="StringLit">&quot;https&quot;</span><span class="Other">,</span>          <span class="Comment">## Hypertext Transfer Protocol over TLS</span>
+                             <span class="Comment">## https://&lt;host&gt;[:&lt;port&gt;]/&lt;url-path&gt;</span>
+  <span class="Identifier">Android</span> <span class="Other">=</span> <span class="StringLit">&quot;android&quot;</span><span class="Other">,</span>      <span class="Comment">## Identifies an Android application</span>
+                             <span class="Comment">## android://&lt;application-id&gt;</span>
   <span class="Identifier">Bitcoin</span> <span class="Other">=</span> <span class="StringLit">&quot;bitcoin&quot;</span><span class="Other">,</span>      <span class="Comment">## Send money to a Bitcoin address</span>
                              <span class="Comment">## bitcoin:&lt;address&gt;[?[amount=&lt;size&gt;][&amp;][label=&lt;label&gt;][&amp;][message=&lt;message&gt;]]</span>
   <span class="Identifier">BitcoinCash</span> <span class="Other">=</span> <span class="StringLit">&quot;bitcoincash&quot;</span><span class="Other">,</span> <span class="Comment">## Send money to a Bitcoin Cash address</span>
@@ -161,8 +285,10 @@
                              <span class="Comment">## message://&lt;MESSAGE-ID&gt;</span>
   <span class="Identifier">Sftp</span> <span class="Other">=</span> <span class="StringLit">&quot;sftp&quot;</span><span class="Other">,</span> <span class="Comment">## SFTP file transfers (not be to confused with FTPS (FTP/SSL))</span>
                   <span class="Comment">## sftp://[&lt;user&gt;[;fingerprint=&lt;host-key fingerprint&gt;]@]&lt;host&gt;[:&lt;port&gt;]/&lt;path&gt;/&lt;file&gt;</span>
-  <span class="Identifier">Ssh</span> <span class="Other">=</span> <span class="StringLit">&quot;ssh&quot;</span>                <span class="Comment">## SSH connections (like telnet:)</span>
-                             <span class="Comment">## ssh://[&lt;user&gt;[;fingerprint=&lt;host-key fingerprint&gt;]@]&lt;host&gt;[:&lt;port&gt;] </span></pre></dt>
+  <span class="Identifier">Ssh</span> <span class="Other">=</span> <span class="StringLit">&quot;ssh&quot;</span><span class="Other">,</span>              <span class="Comment">## SSH connections (like telnet:)</span>
+                             <span class="Comment">## ssh://[&lt;user&gt;[;fingerprint=&lt;host-key fingerprint&gt;]@]&lt;host&gt;[:&lt;port&gt;]</span>
+  <span class="Identifier">Mailto</span> <span class="Other">=</span> <span class="StringLit">&quot;mailto&quot;</span>          <span class="Comment">## Electronic mail address</span>
+                             <span class="Comment">## mailto:&lt;address&gt;</span></pre></dt>
   <dd>
     
     IANA RFC-7595 Uniform Resource Identifiers <a class="reference external" href="https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml">https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml</a>
@@ -177,10 +303,290 @@
   <dl class="item">
     <div id="getScheme-procs-all">
   <div id="getScheme,string">
-  <dt><pre><span class="Keyword">proc</span> <a href="#getScheme%2Cstring"><span class="Identifier">getScheme</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dt><pre><span class="Keyword">proc</span> <a href="#getScheme%2Cstring"><span class="Identifier">getScheme</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <a href="#SchemeURI"><span class="Identifier">SchemeURI</span></a> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
   <dd>
     
     Determine URI scheme from given input based on SchemeURI enumeration.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isAndroidUri-procs-all">
+  <div id="isAndroidUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isAndroidUri%2Cstring"><span class="Identifier">isAndroidUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">android</span><span class="Punctuation">:</span><span class="Operator">//&lt;</span><span class="Identifier">application</span><span class="Operator">-</span><span class="Identifier">id</span><span class="Operator">&gt;</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isBitcoinCashUri-procs-all">
+  <div id="isBitcoinCashUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isBitcoinCashUri%2Cstring"><span class="Identifier">isBitcoinCashUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">bitcoincash</span><span class="Punctuation">:</span><span class="Operator">&lt;</span><span class="Identifier">address</span><span class="Operator">&gt;</span><span class="Punctuation">[</span><span class="Operator">?</span><span class="Identifier">amount</span><span class="Operator">=..&amp;</span><span class="Identifier">label</span><span class="Operator">=..&amp;</span><span class="Identifier">message</span><span class="Operator">=..</span><span class="Punctuation">]</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isBitcoinUri-procs-all">
+  <div id="isBitcoinUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isBitcoinUri%2Cstring"><span class="Identifier">isBitcoinUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">bitcoin</span><span class="Punctuation">:</span><span class="Operator">&lt;</span><span class="Identifier">address</span><span class="Operator">&gt;</span><span class="Punctuation">[</span><span class="Operator">?</span><span class="Identifier">amount</span><span class="Operator">=..&amp;</span><span class="Identifier">label</span><span class="Operator">=..&amp;</span><span class="Identifier">message</span><span class="Operator">=..</span><span class="Punctuation">]</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isChromeExtensionUri-procs-all">
+  <div id="isChromeExtensionUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isChromeExtensionUri%2Cstring"><span class="Identifier">isChromeExtensionUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span>
+    <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">chrome</span><span class="Operator">-</span><span class="Identifier">extension</span><span class="Punctuation">:</span><span class="Operator">//&lt;</span><span class="Identifier">extensionID</span><span class="Operator">&gt;/&lt;</span><span class="Identifier">page</span><span class="Operator">&gt;.</span><span class="Identifier">html</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isChromeUri-procs-all">
+  <div id="isChromeUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isChromeUri%2Cstring"><span class="Identifier">isChromeUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">chrome</span><span class="Punctuation">:</span><span class="Operator">//&lt;</span><span class="Identifier">package</span><span class="Operator">&gt;/&lt;</span><span class="Identifier">section</span><span class="Operator">&gt;/&lt;</span><span class="Identifier">path</span><span class="Operator">&gt;</span></span></tt> with section in content/skin/locale.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isFaceTimeUri-procs-all">
+  <div id="isFaceTimeUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isFaceTimeUri%2Cstring"><span class="Identifier">isFaceTimeUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">facetime</span><span class="Punctuation">:</span><span class="Operator">//&lt;</span><span class="Identifier">address</span><span class="Operator">|</span><span class="Identifier">MSISDN</span><span class="Operator">|</span><span class="Identifier">mobile</span><span class="Operator">&gt;</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isFeedUri-procs-all">
+  <div id="isFeedUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isFeedUri%2Cstring"><span class="Identifier">isFeedUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">feed</span><span class="Punctuation">:</span><span class="Operator">&lt;</span><span class="Identifier">absolute_uri</span><span class="Operator">&gt;</span></span></tt> or <tt class="docutils literal"><span class="pre"><span class="Identifier">feed</span><span class="Punctuation">:</span><span class="Operator">//&lt;</span><span class="Identifier">hierarchical</span> <span class="Identifier">part</span><span class="Operator">&gt;</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isFileUri-procs-all">
+  <div id="isFileUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isFileUri%2Cstring"><span class="Identifier">isFileUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">file</span><span class="Punctuation">:</span><span class="Operator">//&lt;</span><span class="Identifier">host</span><span class="Operator">&gt;/&lt;</span><span class="Identifier">path</span><span class="Operator">&gt;</span></span></tt> where the host is empty or <tt class="docutils literal"><span class="pre"><span class="Identifier">localhost</span></span></tt>. Windows drive paths are also accepted, e.g. <tt class="docutils literal"><span class="pre"><span class="Identifier">file</span><span class="Punctuation">:</span><span class="Operator">///</span><span class="Identifier">C</span><span class="Punctuation">:</span><span class="Operator">/</span><span class="Identifier">path</span><span class="Operator">/</span><span class="Identifier">file</span><span class="Operator">.</span><span class="Identifier">txt</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isFtpUri-procs-all">
+  <div id="isFtpUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isFtpUri%2Cstring"><span class="Identifier">isFtpUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">ftp</span><span class="Punctuation">:</span><span class="Operator">//</span><span class="Punctuation">[</span><span class="Identifier">user</span><span class="Punctuation">[</span><span class="Punctuation">:</span><span class="Identifier">password</span><span class="Punctuation">]</span><span class="Operator">@</span><span class="Punctuation">]</span><span class="Identifier">host</span><span class="Punctuation">[</span><span class="Punctuation">:</span><span class="Identifier">port</span><span class="Punctuation">]</span><span class="Operator">/</span><span class="Identifier">url</span><span class="Operator">-</span><span class="Identifier">path</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isGitUri-procs-all">
+  <div id="isGitUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isGitUri%2Cstring"><span class="Identifier">isGitUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">git</span><span class="Punctuation">:</span><span class="Operator">//</span><span class="Identifier">host</span><span class="Operator">/</span><span class="Identifier">user</span><span class="Operator">/</span><span class="Identifier">repo</span><span class="Operator">.</span><span class="Identifier">git</span></span></tt>, <tt class="docutils literal"><span class="pre"><span class="Identifier">git</span><span class="Operator">+</span><span class="Identifier">ssh</span><span class="Punctuation">:</span><span class="Operator">//</span></span></tt>, <tt class="docutils literal"><span class="pre"><span class="Identifier">git</span><span class="Operator">+</span><span class="Identifier">https</span><span class="Punctuation">:</span><span class="Operator">//</span></span></tt>, <tt class="docutils literal"><span class="pre"><span class="Identifier">git</span><span class="Operator">+</span><span class="Identifier">http</span><span class="Punctuation">:</span><span class="Operator">//</span></span></tt>, or a plain <tt class="docutils literal"><span class="pre"><span class="Identifier">http</span><span class="Punctuation">(</span><span class="Identifier">s</span><span class="Punctuation">)</span><span class="Punctuation">:</span><span class="Operator">//</span><span class="Identifier">host</span><span class="Operator">/</span><span class="Identifier">user</span><span class="Operator">/</span><span class="Identifier">repo</span><span class="Operator">.</span><span class="Identifier">git</span></span></tt> clone URL.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isIrc6Uri-procs-all">
+  <div id="isIrc6Uri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isIrc6Uri%2Cstring"><span class="Identifier">isIrc6Uri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    
+    
+  </dd>
+</div>
+
+</div>
+<div id="isIrcsUri-procs-all">
+  <div id="isIrcsUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isIrcsUri%2Cstring"><span class="Identifier">isIrcsUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    
+    
+  </dd>
+</div>
+
+</div>
+<div id="isIrcUri-procs-all">
+  <div id="isIrcUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isIrcUri%2Cstring"><span class="Identifier">isIrcUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">irc</span><span class="Punctuation">:</span><span class="Operator">//&lt;</span><span class="Identifier">host</span><span class="Operator">&gt;</span><span class="Punctuation">[</span><span class="Punctuation">:</span><span class="Operator">&lt;</span><span class="Identifier">port</span><span class="Operator">&gt;</span><span class="Punctuation">]</span><span class="Operator">/</span><span class="Punctuation">[</span><span class="Operator">&lt;</span><span class="Identifier">channel</span><span class="Operator">&gt;</span><span class="Punctuation">[</span><span class="Operator">?&lt;</span><span class="Identifier">password</span><span class="Operator">&gt;</span><span class="Punctuation">]</span><span class="Punctuation">]</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isLdapsUri-procs-all">
+  <div id="isLdapsUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isLdapsUri%2Cstring"><span class="Identifier">isLdapsUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">ldaps</span><span class="Punctuation">:</span><span class="Operator">//</span><span class="Punctuation">[</span><span class="Identifier">host</span><span class="Punctuation">[</span><span class="Punctuation">:</span><span class="Identifier">port</span><span class="Punctuation">]</span><span class="Punctuation">]</span><span class="Punctuation">[</span><span class="Operator">/</span><span class="Identifier">dn</span><span class="Punctuation">[</span><span class="Operator">?</span><span class="Identifier">attrs</span><span class="Punctuation">[</span><span class="Operator">?</span><span class="Identifier">scope</span><span class="Punctuation">[</span><span class="Operator">?</span><span class="Identifier">filter</span><span class="Punctuation">[</span><span class="Operator">?</span><span class="Identifier">ext</span><span class="Punctuation">]</span><span class="Punctuation">]</span><span class="Punctuation">]</span><span class="Punctuation">]</span><span class="Punctuation">]</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isMailto-procs-all">
+  <div id="isMailto,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isMailto%2Cstring"><span class="Identifier">isMailto</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">mailto</span><span class="Punctuation">:</span><span class="Keyword">addr</span><span class="Operator">@</span><span class="Identifier">host</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isMarketUri-procs-all">
+  <div id="isMarketUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isMarketUri%2Cstring"><span class="Identifier">isMarketUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">market</span><span class="Punctuation">:</span><span class="Operator">//</span><span class="Identifier">details</span><span class="Operator">?</span><span class="Identifier">id</span><span class="Operator">=..</span></span></tt> or <tt class="docutils literal"><span class="pre"><span class="Identifier">market</span><span class="Punctuation">:</span><span class="Operator">//</span><span class="Identifier">search</span><span class="Operator">?</span><span class="Identifier">q</span><span class="Operator">=..</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isMessageUri-procs-all">
+  <div id="isMessageUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isMessageUri%2Cstring"><span class="Identifier">isMessageUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">message</span><span class="Punctuation">:</span><span class="Operator">&lt;</span><span class="Identifier">MESSAGE</span><span class="Operator">-</span><span class="Identifier">ID</span><span class="Operator">&gt;</span></span></tt> or <tt class="docutils literal"><span class="pre"><span class="Identifier">message</span><span class="Punctuation">:</span><span class="Operator">//&lt;</span><span class="Identifier">MESSAGE</span><span class="Operator">-</span><span class="Identifier">ID</span><span class="Operator">&gt;</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isMongoDbUri-procs-all">
+  <div id="isMongoDbUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isMongoDbUri%2Cstring"><span class="Identifier">isMongoDbUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">mongodb</span><span class="Punctuation">:</span><span class="Operator">//</span><span class="Punctuation">[</span><span class="Identifier">user</span><span class="Punctuation">:</span><span class="Identifier">pass</span><span class="Operator">@</span><span class="Punctuation">]</span><span class="Identifier">host1</span><span class="Punctuation">[</span><span class="Punctuation">:</span><span class="Identifier">port1</span><span class="Punctuation">]</span><span class="Punctuation">[</span><span class="Punctuation">,</span><span class="Identifier">hostN</span><span class="Punctuation">[</span><span class="Punctuation">:</span><span class="Identifier">portN</span><span class="Punctuation">]</span><span class="Punctuation">]</span><span class="Punctuation">[</span><span class="Operator">/</span><span class="Identifier">db</span><span class="Punctuation">]</span><span class="Punctuation">[</span><span class="Operator">?</span><span class="Identifier">options</span><span class="Punctuation">]</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isSftpUri-procs-all">
+  <div id="isSftpUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isSftpUri%2Cstring"><span class="Identifier">isSftpUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">sftp</span><span class="Punctuation">:</span><span class="Operator">//</span><span class="Punctuation">[</span><span class="Identifier">user</span><span class="Punctuation">[</span><span class="Punctuation">;</span><span class="Identifier">fingerprint</span><span class="Operator">=..</span><span class="Punctuation">]</span><span class="Operator">@</span><span class="Punctuation">]</span><span class="Identifier">host</span><span class="Punctuation">[</span><span class="Punctuation">:</span><span class="Identifier">port</span><span class="Punctuation">]</span><span class="Operator">/</span><span class="Identifier">path</span><span class="Operator">/</span><span class="Identifier">file</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isSshUri-procs-all">
+  <div id="isSshUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isSshUri%2Cstring"><span class="Identifier">isSshUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">ssh</span><span class="Punctuation">:</span><span class="Operator">//</span><span class="Punctuation">[</span><span class="Identifier">user</span><span class="Punctuation">[</span><span class="Punctuation">;</span><span class="Identifier">fingerprint</span><span class="Operator">=..</span><span class="Punctuation">]</span><span class="Operator">@</span><span class="Punctuation">]</span><span class="Identifier">host</span><span class="Punctuation">[</span><span class="Punctuation">:</span><span class="Identifier">port</span><span class="Punctuation">]</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isUri-procs-all">
+  <div id="isUri,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isUri%2Cstring"><span class="Identifier">isUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    Determine if given input is a URI: valid <tt class="docutils literal"><span class="pre"><span class="Identifier">scheme</span><span class="Punctuation">:</span></span></tt> prefix plus per-scheme format validation (see <tt class="docutils literal"><span class="pre"><span class="Identifier">SchemeURI</span></span></tt> <tt class="docutils literal"><span class="pre"><span class="Comment">##</span></span></tt> docs). Unknown schemes return false.
+    
+  </dd>
+</div>
+<div id="isUri,string,SchemeURI">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isUri%2Cstring%2CSchemeURI"><span class="Identifier">isUri</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">;</span> <span class="Identifier">scheme</span><span class="Other">:</span> <a href="#SchemeURI"><span class="Identifier">SchemeURI</span></a><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span>
+    <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    Determine if given input is a URI of the expected scheme (format-validated).
+    
+  </dd>
+</div>
+
+</div>
+<div id="isUrl-procs-all">
+  <div id="isUrl,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isUrl%2Cstring"><span class="Identifier">isUrl</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    Alias of isWebUrl.
+    
+  </dd>
+</div>
+
+</div>
+<div id="isWebUrl-procs-all">
+  <div id="isWebUrl,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isWebUrl%2Cstring"><span class="Identifier">isWebUrl</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <tt class="docutils literal"><span class="pre"><span class="Identifier">http</span><span class="Punctuation">(</span><span class="Identifier">s</span><span class="Punctuation">)</span><span class="Punctuation">:</span><span class="Operator">//</span><span class="Punctuation">[</span><span class="Identifier">user</span><span class="Punctuation">[</span><span class="Punctuation">:</span><span class="Identifier">pass</span><span class="Punctuation">]</span><span class="Operator">@</span><span class="Punctuation">]</span><span class="Identifier">host</span><span class="Punctuation">[</span><span class="Punctuation">:</span><span class="Identifier">port</span><span class="Punctuation">]</span><span class="Punctuation">[</span><span class="Operator">/</span><span class="Identifier">path</span><span class="Punctuation">]</span><span class="Punctuation">[</span><span class="Operator">?</span><span class="Identifier">query</span><span class="Punctuation">]</span><span class="Punctuation">[</span><span class="Comment">#fragment]</span></span></tt>.
+    
+  </dd>
+</div>
+
+</div>
+
+  </dl>
+</div>
+<div class="section" id="16">
+  <h1><a class="toc-backref" href="#16">Converters</a></h1>
+  <dl class="item">
+    <div id="toSchemeURI-converters-all">
+  <div id="toSchemeURI.c,string">
+  <dt><pre><span class="Keyword">converter</span> <a href="#toSchemeURI.c%2Cstring"><span class="Identifier">toSchemeURI</span></a><span class="Other">(</span><span class="Identifier">i</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <a href="#SchemeURI"><span class="Identifier">SchemeURI</span></a> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    
     
   </dd>
 </div>
@@ -196,7 +602,7 @@
       <div class="twelve-columns footer">
         <span class="nim-sprite"></span>
         <br>
-        <small style="color: var(--hint);">Made with Nim. Generated: 2026-08-19 10:56:09 UTC</small>
+        <small style="color: var(--hint);">Made with Nim. Generated: 2026-09-24 20:35:33 UTC</small>
       </div>
     </div>
   </div>

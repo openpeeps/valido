@@ -1,8 +1,13 @@
 nimTitle	uuid	valido/uuid.html	module valido/uuid		0
-nim	Any	valido/uuid.html#Any	UUIDVersion.Any		10
-nim	V1	valido/uuid.html#V1	UUIDVersion.V1		10
-nim	V3	valido/uuid.html#V3	UUIDVersion.V3		10
-nim	V4	valido/uuid.html#V4	UUIDVersion.V4		10
-nim	V5	valido/uuid.html#V5	UUIDVersion.V5		10
-nim	UUIDVersion	valido/uuid.html#UUIDVersion	enum UUIDVersion		10
-nim	isUUID	valido/uuid.html#isUUID,string,UUIDVersion	proc isUUID(input: string; version: UUIDVersion = Any): bool		13
+nim	Any	valido/uuid.html#Any	UUIDVersion.Any		13
+nim	V1	valido/uuid.html#V1	UUIDVersion.V1		13
+nim	V2	valido/uuid.html#V2	UUIDVersion.V2		13
+nim	V3	valido/uuid.html#V3	UUIDVersion.V3		13
+nim	V4	valido/uuid.html#V4	UUIDVersion.V4		13
+nim	V5	valido/uuid.html#V5	UUIDVersion.V5		13
+nim	V6	valido/uuid.html#V6	UUIDVersion.V6		13
+nim	V7	valido/uuid.html#V7	UUIDVersion.V7		13
+nim	V8	valido/uuid.html#V8	UUIDVersion.V8		13
+nim	UUIDVersion	valido/uuid.html#UUIDVersion	enum UUIDVersion		13
+nim	isUUID	valido/uuid.html#isUUID,string,UUIDVersion	proc isUUID(input: string; version: UUIDVersion = Any; strictDashes = false): bool		19
+nim	isNilUUID	valido/uuid.html#isNilUUID,string	proc isNilUUID(input: string): bool		42
