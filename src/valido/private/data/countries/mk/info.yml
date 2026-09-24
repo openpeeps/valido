@@ -38,7 +38,6 @@ postal:
     - "NNNN"
     
 states:
-  : "Radovi"
   02: "Arainovo"
   03: "Berovo"
   04: "Bitola"
