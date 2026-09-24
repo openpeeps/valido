@@ -27,10 +27,11 @@ proc isFutureDate*(input: string, format = "yyyy-MM-dd"): bool =
     discard
 
 proc isToday*(input: string, format = "yyyy-MM-dd"): bool =
-  ## Checks if given input an be parsed as a date in present
+  ## Checks if given input can be parsed as today's date
   try:
     let d = parse(input, format, utc())
-    if d == now():
-      result = true
+    let n = now().utc()
+    result = d.year == n.year and d.month == n.month and
+             d.monthday == n.monthday
   except TimeParseError, TimeFormatParseError:
     discard

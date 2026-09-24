@@ -7,3 +7,4 @@ testresults/
 !/tests/*.nim
 !/tests/*.nims
 /bin
+clue.lock

@@ -7,14 +7,15 @@
 #          Made by Humans from OpenPeep
 #          https://github.com/openpeep/valido
 
-import pkg/openparser/regex
 from std/strutils import find
 
 proc isBase64*(i: string, urlSafe = false): bool =
-  ## Check if a string is base64 encoded using the regular expression
+  ## Check if a string is base64 encoded.
+  ## Set `urlSafe` to validate the URL-safe alphabet (`-` and `_`, no padding).
   if urlSafe:
-    var exp = initRegexVM(compile(r"^[A-Z0-9_\-]*$"))
-    return exp.match(i).matched
+    for c in i:
+      if c notin {'A'..'Z', 'a'..'z', '0'..'9', '-', '_'}: return false
+    return true
   let ln = i.len
   if ln mod 4 == 0:
     let fpadchar = i.find('=', last = 1)

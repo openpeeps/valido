@@ -1,4 +1,4 @@
-import std/[unittest, strutils]
+import std/[unittest, strutils, times]
 import ../src/valido
 import ../src/valido/utils/tlds
 
@@ -282,6 +282,13 @@ test "isYaml (invalid)":
   check isYaml("") == false
   check isYaml("key: : :") == false
 
+test "isYamlStream (valid/invalid)":
+  check isYamlStream("a: 1") == true
+  check isYamlStream("a: 1\n---\nb: 2") == true
+  check isYamlStream("---\na: 1\n---\nb: 2\n") == true
+  check isYamlStream("") == false
+  check isYamlStream("a: 1\n---\nkey: : :") == false
+
 test "isToml (valid)":
   check isToml("[server]\nhost = \"localhost\"\nport = 8080") == true
 
@@ -351,3 +358,37 @@ test "isUri family (invalid)":
   check isFaceTimeUri("facetime://") == false
   check isUri("notauri") == false
   check isUri("") == false
+
+test "isFileUri":
+  check isFileUri("file:///home/user/docs/file.txt") == true
+  check isFileUri("file://localhost/etc/hosts") == true
+  check isFileUri("file:///C:/path/file.txt") == true
+  check isFileUri("file://evil.com/etc/passwd") == false
+  check isFileUri("file://") == false
+  check isFileUri("/home/user/file.txt") == false
+
+test "isGitUri over http(s)":
+  check isGitUri("https://github.com/user/repo.git") == true
+  check isGitUri("http://gitlab.com/user/repo.git") == true
+  check isGitUri("https://github.com/user/repo") == false
+  check isGitUri("https://example.com/") == false
+
+test "getScheme":
+  check getScheme("https://example.com") == SchemeURI.Https
+  check getScheme("http://example.com") == SchemeURI.Http
+  check getScheme("mailto:someone@example.com") == SchemeURI.Mailto
+  check getScheme("bitcoin:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa") == SchemeURI.Bitcoin
+  check getScheme("example.com") == SchemeURI.Invalid
+  check getScheme("") == SchemeURI.Invalid
+
+test "isBase64 urlSafe":
+  check isBase64("a-b_c", urlSafe = true) == true
+  check isBase64("SGVsbG8_d29ybGQ", urlSafe = true) == true
+  check isBase64("a-b_c", urlSafe = false) == false
+  check isBase64("not base64!", urlSafe = true) == false
+  check isBase64("SGVsbG8gV29ybGQhIE5pbSBpcyBBd2Vzb21lIQ==") == true
+
+test "isToday":
+  check isToday(now().utc().format("yyyy-MM-dd")) == true
+  check isToday("2020-01-01") == false
+  check isToday("not a date") == false

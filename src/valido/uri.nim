@@ -17,6 +17,12 @@ type
     ## IANA RFC-7595 Uniform Resource Identifiers
     ## https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
     Invalid
+    Http = "http"
+      ## Hypertext Transfer Protocol
+      ## http://<host>[:<port>]/<url-path>
+    Https = "https"
+      ## Hypertext Transfer Protocol over TLS
+      ## https://<host>[:<port>]/<url-path>
     Android = "android"
       ## Identifies an Android application
       ## android://<application-id>
@@ -76,6 +82,9 @@ type
     Ssh = "ssh"
       ## SSH connections (like telnet:)
       ## ssh://[<user>[;fingerprint=<host-key fingerprint>]@]<host>[:<port>]
+    Mailto = "mailto"
+      ## Electronic mail address
+      ## mailto:<address>
 
 converter toSchemeURI*(i: string): SchemeURI =
   try:
@@ -210,10 +219,20 @@ proc isSshUri*(input: string): bool =
   result = pok
 
 proc isGitUri*(input: string): bool =
-  ## `git://host/user/repo.git` (also `git+ssh/http/https`).
+  ## `git://host/user/repo.git`, `git+ssh://`, `git+https://`, `git+http://`,
+  ## or a plain `http(s)://host/user/repo.git` clone URL.
   let s = input.strip()
   let (ok, scheme, _) = splitScheme(s)
-  if not ok or scheme notin ["git", "git+ssh", "git+https", "git+http"]: return false
+  if not ok: return false
+  if scheme in ["http", "https"]:
+    let (pok, _) = pathKindOk(s, pkWeb)
+    if not pok: return false
+    try:
+      let p = parsePath(s)
+      return p.pathSegments.len > 0 and p.path.endsWith(".git")
+    except: discard
+    return false
+  if scheme notin ["git", "git+ssh", "git+https", "git+http"]: return false
   let (pok, _) = pathKindOk(s, pkGit)
   if not pok: return false
   # common convention: path ends in .git (allow bare path too if non-empty)
@@ -230,14 +249,25 @@ proc isMailto*(input: string): bool =
   result = isEmail(rest.strip())
 
 proc isFileUri*(input: string): bool =
-  ## `file:///absolute/path`.
+  ## `file://<host>/<path>` where the host is empty or `localhost`.
+  ## Windows drive paths are also accepted, e.g. `file:///C:/path/file.txt`.
   let s = input.strip()
-  let (ok, scheme, _) = splitScheme(s)
+  let (ok, scheme, rest) = splitScheme(s)
   if not ok or scheme != "file": return false
-  try:
-    let p = parsePath(s)
-    result = p.isLocal
-  except: discard
+  if rest.len == 0: return false
+  if not rest.startsWith("//"): return false
+  var afterSlashes = rest[2 .. ^1]
+  if afterSlashes.len == 0: return false
+  let slash = afterSlashes.find('/')
+  if slash < 0:
+    # file://host with no path: only allowed for localhost
+    return afterSlashes.toLowerAscii() == "localhost"
+  let host = afterSlashes[0 ..< slash]
+  if host.len > 0 and host.toLowerAscii() != "localhost": return false
+  let pathPart = afterSlashes[slash .. ^1]
+  if pathPart.len <= 1: return false
+  if ' ' in pathPart or '\0' in pathPart: return false
+  result = true
 
 proc isAndroidUri*(input: string): bool =
   ## `android://<application-id>`.
