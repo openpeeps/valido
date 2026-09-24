@@ -272,3 +272,82 @@ suite "Credit cards":
   test "isChinaUnionPay (invalid)":
     check isChinaUnionPay("4111111111111111") == false
     check isChinaUnionPay("6219000000000000") == false  # out of range
+
+test "isYaml (valid)":
+  check isYaml("host: localhost\nport: 8080") == true
+  check isYaml("- a\n- b\n- c") == true
+  check isYaml("key: |\n  literal block\n") == true
+
+test "isYaml (invalid)":
+  check isYaml("") == false
+  check isYaml("key: : :") == false
+
+test "isToml (valid)":
+  check isToml("[server]\nhost = \"localhost\"\nport = 8080") == true
+
+test "isToml (invalid)":
+  check isToml("") == false
+  check isToml("[[[invalid") == false
+
+test "isRegex (valid/invalid)":
+  check isRegex("(\\w+)=(\\w+)") == true
+  check isRegex("") == false
+  check isRegex("*") == false
+  check isRegexMatch("(\\w+)=(\\w+)", "a=b") == true
+  check isRegexMatch("(\\w+)=(\\w+)", "!!!") == false
+
+test "isColor family (valid)":
+  check isColor("red") == true
+  check isColor("#ff0000") == true
+  check isColor("rgb(255, 0, 0)") == true
+  check isColor("oklch(0.7 0.15 180)") == true
+  check isColor("transparent") == true
+  check isHexColor("#ff0000") == true
+  check isHexColor("ff0000") == true
+  check isHexColor("#f00") == true
+  check isRgb("rgb(255, 0, 0)") == true
+  check isRgba("rgba(255, 0, 0, 0.5)") == true
+  check isHsl("hsl(0, 100%, 50%)") == true
+  check isHsla("hsla(0, 100%, 50%, 0.5)") == true
+  check isNamedColor("rebeccapurple") == true
+  check isTransparent("transparent") == true
+  check isOklch("oklch(0.7 0.15 180)") == true
+
+test "isColor family (invalid)":
+  check isColor("notacolor") == false
+  check isHexColor("#xyz") == false
+  check isRgb("rgba(255, 0, 0, 0.5)") == false
+  check isRgba("rgb(255, 0, 0)") == false
+  check isNamedColor("#ff0000") == false
+
+test "isUUID on openparser (valid/invalid)":
+  check isUUID("550e8400-e29b-41d4-a716-446655440000") == true
+  check isUUID("550e8400-e29b-41d4-a716-446655440000", V4) == true
+  check isUUID("550e8400e29b41d4a716446655440000") == true
+  check isUUID("550e8400-e29b-41d4-a716-446655440000", V1) == false
+  check isUUID("not-a-uuid") == false
+  check isUUID("550e8400-e29b-41d4-a716-446655440000", strictDashes = true) == true
+  check isUUID("550e8400e29b41d4a716446655440000", strictDashes = true) == false
+  check isNilUUID("00000000-0000-0000-0000-000000000000") == true
+  check isNilUUID("550e8400-e29b-41d4-a716-446655440000") == false
+
+test "isUri family (valid)":
+  check isWebUrl("https://user:pass@example.com:8080/path?q=1#frag") == true
+  check isGitUri("git://github.com/user/repo.git") == true
+  check isFtpUri("ftp://user:pass@example.com:21/files") == true
+  check isSshUri("ssh://deploy@192.168.1.1:22/var/www") == true
+  check isMailto("mailto:hello@example.com") == true
+  check isAndroidUri("android://com.example.app") == true
+  check isBitcoinUri("bitcoin:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa?amount=0.1&label=test") == true
+  check isChromeUri("chrome://browser/content/browser.xul") == true
+  check isFaceTimeUri("facetime://+19995551234") == true
+  check isMarketUri("market://details?id=com.example") == true
+  check isMessageUri("message:<1234@example.com>") == true
+  check isUri("https://example.com") == true
+
+test "isUri family (invalid)":
+  check isWebUrl("http://") == false
+  check isChromeUri("chrome://browser/wrong/x") == false
+  check isFaceTimeUri("facetime://") == false
+  check isUri("notauri") == false
+  check isUri("") == false
