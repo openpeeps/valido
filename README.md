@@ -33,7 +33,7 @@
 - [x] is `Lowercase`, `Uppercase`, `Alpha`, `Alphanumerical`, `Digits`, `Boolean`, `Int`, `Float`, `HexStr`
 - [x] is `Length`: `isEmpty`, `isNotEmpty`, `isMin`, `isMax`, `isBetween`
 - [x] is `Color`: `Hex`, `Rgb`, `Rgba`, `Hsl`, `Hsla`, `Hsv`, `Hwb`, `Cmyk`, `Lab`, `Lch`, `Oklab`, `Oklch`, `NamedColor`, `Transparent` (CSS Color 4)
-- [ ] is Country (countries, currency, languages, phone, postal data)
+- [x] is `Country` and `Swift` (needs `-d:validoExtras`)
 - [x] Open Source | `MIT` License
 - [x] Written in Nim language
 
@@ -265,11 +265,71 @@ assert isStrongPassword("correct-horse-Battery-9!", defaultEntropy = 4.0)
 ```
 
 ## Extra features
-`todo` Enable extra features by passing `-d:validoCountries`. This includes information
-about all `countries`, `currency`, `languages`, `phone` codes/prefixes/length, `postal` information and `states`.
 
-## IBAN with SWIFT information
-`todo` Enable IBAN validation by passing `-d:validoSwiftCodes`
+The country and SWIFT reference data is opt-in, because it embeds a few
+megabytes of data into your binary. Enable it at compile time:
+
+```sh
+nimble c -d:validoExtras
+```
+
+Without the flag none of the names below exist, so a default build stays
+small. With it enabled you get full country reference data (names, ISO and
+IOC codes, capitals, TLDs, languages, currencies, phone codes, mobile
+prefixes, postal formats and subdivisions) and validation for over 110,000
+SWIFT/BIC codes.
+
+The data is embedded at compile time, so nothing is read from disk at
+runtime. It is parsed on first use, not at program start, so a program that
+never calls these functions pays nothing. The first call takes roughly half
+a second in a release build and is noticeably slower in a debug build.
+
+A program that actually uses these validators grows by about 12MB, the size
+of the embedded data. A program that enables the flag but never calls into
+it is unaffected, because the data is dropped at link time.
+
+```nim
+import valido
+
+# Country codes: alpha-2, alpha-3, ISO numeric and IOC
+assert isCountry("US")
+assert isCountry("usa")
+assert isCountry("840")
+assert not isCountry("XX")
+
+# Names, capitals, TLDs, currencies and languages
+assert isCountryName("Canada")
+assert isCapital("Washington")
+assert isCountryTld(".us")
+assert isCurrencyCode("USD")
+assert isLanguageCode("eng")
+assert isPhoneCode("1")
+
+# Full record access
+let us = getCountry("US")
+assert us.info.alpha3 == "USA"
+assert us.info.capital == "Washington"
+assert "USD" in us.currency.code
+assert 10 in us.phone.length
+assert us.postal.regex == "^[0-9]{5}([0-9]{4})?$"
+assert us.states["NY"] == "New York"
+assert getCountries().len > 250
+
+# Country-aware formats
+assert isState("NY", "US")
+assert isPostalCode("10001", "US")
+assert isPostalCode("K1A 0B1", "CA")
+assert isMobile("+1 201 555 0123", "US")
+
+# SWIFT / BIC
+assert isSwift("BOFAUS3N")
+assert isSwift("bofa us3n")
+assert not isSwift("ZZZZZZZZ")
+
+let bank = getSwift("BOFAUS3N")
+assert bank.name == "BANK OF AMERICA, N.A."
+assert bank.city == "NEW YORK,NY"
+```
 
 ### ❤ Contributions & Support
 - 🐛 Found a bug? [Create a new Issue](https://github.com/openpeeps/valido/issues)

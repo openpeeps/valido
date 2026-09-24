@@ -2,6 +2,17 @@ import std/[unittest, strutils, times]
 import ../src/valido
 import ../src/valido/utils/tlds
 
+test "private modules stay private":
+  # `importFilters` walks src/valido but must not descend into private/.
+  when compiles(country_data):
+    check false
+  else:
+    check true
+  when compiles(initExtras):
+    check false
+  else:
+    check true
+
 test "isEmail (valid)":
   let emails = ["test@example.com", "test.ab@example.com",
                   "123@example.com", "123.123@example.com",

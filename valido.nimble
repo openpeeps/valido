@@ -5,7 +5,6 @@ author        = "George Lemon"
 description   = "A library of string validators and sanitizers."
 license       = "MIT"
 srcDir        = "src"
-skipDirs      = @["data"]
 
 # Dependencies
 
@@ -13,6 +12,12 @@ requires "nim >= 2.0.0"
 requires "bigints >= 0.1.0"
 requires "blackpaper >= 0.1.0"
 requires "openparser >= 0.2.0"
+
+# The extras API is gated on the `validoExtras` compiler define. This feature
+# exists so build tools that can only pass nimble features (clue, for example)
+# can still switch it on: `clue build --features:extras`.
+feature "extras":
+  switch("define", "validoExtras")
 
 task dev, "dev":
   echo "\n✨ Compiling..." & "\n"
