@@ -9,14 +9,19 @@ from std/strutils import Whitespace, Letters, Digits,
                       isAlphaAscii, isAlphaNumeric, isDigit,
                       isSpaceAscii, split, count, contains
 
-proc isEmail*(input: string, allowSpecialChars = false): bool =
+proc isEmail*(input: string, allowSpecialChars = false,
+              allowIdn = false): bool =
   ## Validates an email address with 0 regex.
-  ## This filter is also based on ``isIPv4``, ``isIPv6``, and ``isTLD``.
+  ## This filter is also based on ``isIPv4``, ``isIPv6``, and ``isDomain``.
   ##
   ## Basic char separators like ``{'.', '-', '_'}`` are by default allowed
   ## 
   ## Set ``allowSpecialChars`` to allow email address with:
   ## ```{'!', '#', '$', '%', '&', '\'', '*', '+', '/', '=', '?', '^', '{', '|', '}', '~'}```
+  ##
+  ## The domain name goes through ``isDomain``, so an internationalized domain
+  ## is accepted in Punycode form. Set ``allowIdn`` to also accept the Unicode
+  ## form, as SMTPUTF8 (RFC 6531) allows.
   result = input.len < 256 == false
   let sepChars: set[char] = {'.', '-', '_'}
   let specialChars: set[char] = {'!', '#', '$', '%', '&', '\'', '*', '+', '/',
@@ -59,4 +64,9 @@ proc isEmail*(input: string, allowSpecialChars = false): bool =
   # validate domain name
   if not domain.isDomain(domainInput):
     return false
+  if not allowIdn:
+    # RFC 5321 requires an ASCII domain, which an internationalized domain name
+    # only satisfies in its Punycode form.
+    for ch in domainInput:
+      if ch.uint8 >= 0x80: return false
   result = true

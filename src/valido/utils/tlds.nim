@@ -1,4 +1,5 @@
 ## TODO handle ccTLDs
+## Keep this list sorted, `isDomain` binary searches it.
 const GetTLDs* = [
     "AAA",
     "AARP",

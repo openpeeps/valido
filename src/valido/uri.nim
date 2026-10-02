@@ -9,6 +9,7 @@ import std/options
 import pkg/openparser/path
 import ./domain
 import ./email
+import ./idna
 import ./ip
 import ./port
 
@@ -119,13 +120,25 @@ proc isLocalHostname(h: string): bool =
     if c notin {'a'..'z', 'A'..'Z', '0'..'9', '-', '.', '_'}: return false
   true
 
+proc isAsciiHost(h: string): bool {.inline.} =
+  for c in h:
+    if c.uint8 >= 0x80: return false
+  true
+
 proc isValidHost(h: string): bool =
   if h.len == 0: return false
   if isIP4(h, allowLoopback = true): return true
   if isIP6(h, allowLoopback = true): return true
+  if isAsciiHost(h):
+    if '.' in h:
+      if isDomain(h): return true
+    return isLocalHostname(h)
+  # An internationalized host, in either Unicode or Punycode form. A host name
+  # with a dot has to carry a known Top-Level Domain, one without a dot only
+  # has to be a valid IDN label.
   if '.' in h:
-    if isDomain(h): return true
-  result = isLocalHostname(h)
+    return isDomain(h) or isSubDomain(h)
+  h.toAscii.len > 0
 
 proc validPortStr(p: string): bool =
   if p.len == 0: return false

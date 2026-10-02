@@ -18,7 +18,7 @@
 - [x] is `Base32`, `Base58`, `Base64` (standard and URL-safe)
 - [x] is `MD5`
 - [x] is `Email`
-- [x] is `Domain`
+- [x] is `Domain` and `SubDomain`, with full IDN support ([UTS #46](https://unicode.org/reports/tr46), Punycode, NFC)
 - [x] is `IP4`, `IP6` (plus reachability checks)
 - [x] is `IBAN`
 - [x] is `EAN8`, `EAN13` (with type detection via `isEAN`)
@@ -100,6 +100,8 @@ import valido
 assert isEmail("john-john@domain.dev")
 assert isEmail("hey+2@example.com")
 assert isEmail("x!y@example.com", allowSpecialChars = true)
+assert isEmail("test@xn--mnchen-3ya.de")             # Punycode is fine
+assert isEmail("test@münchen.de", allowIdn = true)   # SMTPUTF8
 assert isDomain("example.com")
 
 assert isIP4("8.8.8.8")
@@ -110,6 +112,70 @@ assert isPort(8080)
 assert isPort("3000")
 assert isPort(80, strict = false)      # 0..65535
 assert isPort(8443, strict = true)     # 1024..65535
+```
+
+### Domains and IDN
+
+`isDomain` validates a domain name with its Top-Level Domain, `isSubDomain` a
+name that has a parent domain. Both run the input through
+[UTS #46](https://unicode.org/reports/tr46) (Unicode IDNA Compatibility
+Processing) with the tables of the current Unicode release, so internationalized
+names are accepted in Unicode and in Punycode form, complete with NFC
+normalization, Punycode round trips, right-to-left rules and the contextual
+joiner rules.
+
+```nim
+import valido
+
+# two labels, a name and a known TLD
+assert isDomain("example.com")
+assert isDomain("münchen.de")
+assert isDomain("xn--mnchen-3ya.de")     # the same name in Punycode
+assert isDomain("XN--MNCHEN-3YA.DE")     # DNS is case insensitive
+assert isDomain("ｅｘａｍｐｌｅ.com")     # fullwidth forms are mapped
+assert isDomain("日本語.jp")
+
+assert not isDomain("sub.example.com")   # three labels, see isSubDomain
+assert not isDomain("exam ple.com")
+assert not isDomain("example.invalid")   # unknown TLD
+assert not isDomain("-example.com")
+assert not isDomain("xn--ls8h.com")      # an emoji label, IDNA2008 forbids it
+
+# three labels or more, with a parent domain
+assert isSubDomain("sub.example.com")
+assert isSubDomain("a.b.c.example.com")
+assert isSubDomain("www.münchen.de")
+assert isSubDomain("example.co.uk")      # country code suffixes
+assert not isSubDomain("example.com")
+
+# flags
+assert isDomain("example.invalid", checkTld = false)      # any TLD
+assert isDomain("example.com.", allowTrailingDot = true)   # fully qualified
+assert isDomain("*.example.com", allowWildcard = true)    # wildcard
+assert isSubDomain("_dmarc.example.com", allowUnderscore = true)
+assert isDomain("xn--ls8h.com", strict = false)  # plain UTS #46, emoji allowed
+assert toAscii("faß.de") == "xn--fa-hia.de"      # nontransitional
+assert toAscii("faß.de", transitional = true) == "fass.de"
+```
+
+The UTS #46 operations are available on their own:
+
+```nim
+import valido
+
+assert toAscii("münchen.de") == "xn--mnchen-3ya.de"
+assert toUnicode("xn--mnchen-3ya.de") == "münchen.de"
+assert toNfc("a\u0308") == "ä"
+assert punycodeEncode("münchen") == "xn--mnchen-3ya"
+assert punycodeDecode("xn--mnchen-3ya") == "münchen"
+assert isAce("xn--mnchen-3ya")
+assert isIdn("münchen.de")
+assert isNfc("ä")
+
+# `toAscii` returns "" when a name cannot be processed, `tryToAscii` says why
+let (ascii, ok) = tryToAscii("exam ple.de")
+assert not ok
+assert ascii == ""
 ```
 
 ### URIs and URLs

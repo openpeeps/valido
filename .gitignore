@@ -8,3 +8,7 @@ testresults/
 !/tests/*.nims
 /bin
 clue.lock
+
+# Unicode data files that `clue task genidna` downloads on demand. The
+# generated tables in src/valido/utils/idna_table.nim are committed instead.
+/src/valido/private/data/idna/

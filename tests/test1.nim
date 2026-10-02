@@ -23,7 +23,8 @@ test "isEmail (valid)":
 
 test "isEmail (invalid)":
   let emails = ["", "text.com", "test@example.xyzz", "1.hey@123.cox",
-                "^hey@example.com", "hey+@example.com", "x++@foo.co"]
+                "^hey@example.com", "hey+@example.com", "x++@foo.co",
+                "test@exam ple.com", "test@-example.com"]
   for e in emails:
     check isEmail(e) == false
 
@@ -32,7 +33,11 @@ test "isDomain (valid)":
     check isDomain("example." & tld.toLowerAscii) == true
 
 test "isDomain (invalid)":
-  check isDomain("sub.example.com") == false
+  check isDomain("sub.example.com") == false # see `isSubDomain`
+  check isDomain("exam ple.com") == false
+  check isDomain("example.invalid") == false
+  check isDomain("-example.com") == false
+  check isDomain("") == false
 
 test "isStrongPassword (valid)":
   check isStrongPassword("x6y2C8D@#$(t5Lgg") == true
