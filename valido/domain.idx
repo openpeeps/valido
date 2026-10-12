@@ -1,2 +1,3 @@
 nimTitle	domain	valido/domain.html	module valido/domain		0
-nim	isDomain	valido/domain.html#isDomain,string	proc isDomain(input: string): bool		12
+nim	isDomain	valido/domain.html#isDomain,string	proc isDomain(input: string; checkTld = true; transitional = false;\n         allowUnderscore = false; allowWildcard = false;\n         allowTrailingDot = false; strict = true): bool		99
+nim	isSubDomain	valido/domain.html#isSubDomain,string	proc isSubDomain(input: string; checkTld = true; transitional = false;\n            allowUnderscore = false; allowWildcard = false;\n            allowTrailingDot = false; strict = true): bool		155

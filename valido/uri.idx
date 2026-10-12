@@ -1,51 +1,51 @@
 nimTitle	uri	valido/uri.html	module valido/uri		0
-nim	Invalid	valido/uri.html#Invalid	SchemeURI.Invalid		16
-nim	Http	valido/uri.html#Http	SchemeURI.Http		16
-nim	Https	valido/uri.html#Https	SchemeURI.Https		16
-nim	Android	valido/uri.html#Android	SchemeURI.Android		16
-nim	Bitcoin	valido/uri.html#Bitcoin	SchemeURI.Bitcoin		16
-nim	BitcoinCash	valido/uri.html#BitcoinCash	SchemeURI.BitcoinCash		16
-nim	Chrome	valido/uri.html#Chrome	SchemeURI.Chrome		16
-nim	ChromeExtension	valido/uri.html#ChromeExtension	SchemeURI.ChromeExtension		16
-nim	FaceTime	valido/uri.html#FaceTime	SchemeURI.FaceTime		16
-nim	Feed	valido/uri.html#Feed	SchemeURI.Feed		16
-nim	Ftp	valido/uri.html#Ftp	SchemeURI.Ftp		16
-nim	Git	valido/uri.html#Git	SchemeURI.Git		16
-nim	Irc	valido/uri.html#Irc	SchemeURI.Irc		16
-nim	Irc6	valido/uri.html#Irc6	SchemeURI.Irc6		16
-nim	Ircs	valido/uri.html#Ircs	SchemeURI.Ircs		16
-nim	Ldaps	valido/uri.html#Ldaps	SchemeURI.Ldaps		16
-nim	MongoDB	valido/uri.html#MongoDB	SchemeURI.MongoDB		16
-nim	Market	valido/uri.html#Market	SchemeURI.Market		16
-nim	Message	valido/uri.html#Message	SchemeURI.Message		16
-nim	Sftp	valido/uri.html#Sftp	SchemeURI.Sftp		16
-nim	Ssh	valido/uri.html#Ssh	SchemeURI.Ssh		16
-nim	Mailto	valido/uri.html#Mailto	SchemeURI.Mailto		16
-nim	SchemeURI	valido/uri.html#SchemeURI	enum SchemeURI		16
-nim	toSchemeURI	valido/uri.html#toSchemeURI.c,string	converter toSchemeURI(i: string): SchemeURI		89
-nim	getScheme	valido/uri.html#getScheme,string	proc getScheme(input: string): SchemeURI		95
-nim	isWebUrl	valido/uri.html#isWebUrl,string	proc isWebUrl(input: string): bool		189
-nim	isFtpUri	valido/uri.html#isFtpUri,string	proc isFtpUri(input: string): bool		197
-nim	isSftpUri	valido/uri.html#isSftpUri,string	proc isSftpUri(input: string): bool		205
-nim	isSshUri	valido/uri.html#isSshUri,string	proc isSshUri(input: string): bool		213
-nim	isGitUri	valido/uri.html#isGitUri,string	proc isGitUri(input: string): bool		221
-nim	isMailto	valido/uri.html#isMailto,string	proc isMailto(input: string): bool		244
-nim	isFileUri	valido/uri.html#isFileUri,string	proc isFileUri(input: string): bool		251
-nim	isAndroidUri	valido/uri.html#isAndroidUri,string	proc isAndroidUri(input: string): bool		272
-nim	isBitcoinUri	valido/uri.html#isBitcoinUri,string	proc isBitcoinUri(input: string): bool		316
-nim	isBitcoinCashUri	valido/uri.html#isBitcoinCashUri,string	proc isBitcoinCashUri(input: string): bool		320
-nim	isChromeUri	valido/uri.html#isChromeUri,string	proc isChromeUri(input: string): bool		324
-nim	isChromeExtensionUri	valido/uri.html#isChromeExtensionUri,string	proc isChromeExtensionUri(input: string): bool		335
-nim	isFaceTimeUri	valido/uri.html#isFaceTimeUri,string	proc isFaceTimeUri(input: string): bool		349
-nim	isFeedUri	valido/uri.html#isFeedUri,string	proc isFeedUri(input: string): bool		363
-nim	isIrcUri	valido/uri.html#isIrcUri,string	proc isIrcUri(input: string): bool		388
-nim	isIrc6Uri	valido/uri.html#isIrc6Uri,string	proc isIrc6Uri(input: string): bool		392
-nim	isIrcsUri	valido/uri.html#isIrcsUri,string	proc isIrcsUri(input: string): bool		395
-nim	isLdapsUri	valido/uri.html#isLdapsUri,string	proc isLdapsUri(input: string): bool		398
-nim	isMongoDbUri	valido/uri.html#isMongoDbUri,string	proc isMongoDbUri(input: string): bool		408
-nim	isMarketUri	valido/uri.html#isMarketUri,string	proc isMarketUri(input: string): bool		432
-nim	isMessageUri	valido/uri.html#isMessageUri,string	proc isMessageUri(input: string): bool		452
-nim	isUri	valido/uri.html#isUri,string	proc isUri(input: string): bool		463
-nim	isUri	valido/uri.html#isUri,string,SchemeURI	proc isUri(input: string; scheme: SchemeURI): bool		495
-nim	isUrl	valido/uri.html#isUrl,string	proc isUrl(input: string): bool		503
-nimgrp	isuri	valido/uri.html#isUri-procs-all	proc		463
+nim	Invalid	valido/uri.html#Invalid	SchemeURI.Invalid		17
+nim	Http	valido/uri.html#Http	SchemeURI.Http		17
+nim	Https	valido/uri.html#Https	SchemeURI.Https		17
+nim	Android	valido/uri.html#Android	SchemeURI.Android		17
+nim	Bitcoin	valido/uri.html#Bitcoin	SchemeURI.Bitcoin		17
+nim	BitcoinCash	valido/uri.html#BitcoinCash	SchemeURI.BitcoinCash		17
+nim	Chrome	valido/uri.html#Chrome	SchemeURI.Chrome		17
+nim	ChromeExtension	valido/uri.html#ChromeExtension	SchemeURI.ChromeExtension		17
+nim	FaceTime	valido/uri.html#FaceTime	SchemeURI.FaceTime		17
+nim	Feed	valido/uri.html#Feed	SchemeURI.Feed		17
+nim	Ftp	valido/uri.html#Ftp	SchemeURI.Ftp		17
+nim	Git	valido/uri.html#Git	SchemeURI.Git		17
+nim	Irc	valido/uri.html#Irc	SchemeURI.Irc		17
+nim	Irc6	valido/uri.html#Irc6	SchemeURI.Irc6		17
+nim	Ircs	valido/uri.html#Ircs	SchemeURI.Ircs		17
+nim	Ldaps	valido/uri.html#Ldaps	SchemeURI.Ldaps		17
+nim	MongoDB	valido/uri.html#MongoDB	SchemeURI.MongoDB		17
+nim	Market	valido/uri.html#Market	SchemeURI.Market		17
+nim	Message	valido/uri.html#Message	SchemeURI.Message		17
+nim	Sftp	valido/uri.html#Sftp	SchemeURI.Sftp		17
+nim	Ssh	valido/uri.html#Ssh	SchemeURI.Ssh		17
+nim	Mailto	valido/uri.html#Mailto	SchemeURI.Mailto		17
+nim	SchemeURI	valido/uri.html#SchemeURI	enum SchemeURI		17
+nim	toSchemeURI	valido/uri.html#toSchemeURI.c,string	converter toSchemeURI(i: string): SchemeURI		90
+nim	getScheme	valido/uri.html#getScheme,string	proc getScheme(input: string): SchemeURI		96
+nim	isWebUrl	valido/uri.html#isWebUrl,string	proc isWebUrl(input: string): bool		202
+nim	isFtpUri	valido/uri.html#isFtpUri,string	proc isFtpUri(input: string): bool		210
+nim	isSftpUri	valido/uri.html#isSftpUri,string	proc isSftpUri(input: string): bool		218
+nim	isSshUri	valido/uri.html#isSshUri,string	proc isSshUri(input: string): bool		226
+nim	isGitUri	valido/uri.html#isGitUri,string	proc isGitUri(input: string): bool		234
+nim	isMailto	valido/uri.html#isMailto,string	proc isMailto(input: string): bool		257
+nim	isFileUri	valido/uri.html#isFileUri,string	proc isFileUri(input: string): bool		264
+nim	isAndroidUri	valido/uri.html#isAndroidUri,string	proc isAndroidUri(input: string): bool		285
+nim	isBitcoinUri	valido/uri.html#isBitcoinUri,string	proc isBitcoinUri(input: string): bool		329
+nim	isBitcoinCashUri	valido/uri.html#isBitcoinCashUri,string	proc isBitcoinCashUri(input: string): bool		333
+nim	isChromeUri	valido/uri.html#isChromeUri,string	proc isChromeUri(input: string): bool		337
+nim	isChromeExtensionUri	valido/uri.html#isChromeExtensionUri,string	proc isChromeExtensionUri(input: string): bool		348
+nim	isFaceTimeUri	valido/uri.html#isFaceTimeUri,string	proc isFaceTimeUri(input: string): bool		362
+nim	isFeedUri	valido/uri.html#isFeedUri,string	proc isFeedUri(input: string): bool		376
+nim	isIrcUri	valido/uri.html#isIrcUri,string	proc isIrcUri(input: string): bool		401
+nim	isIrc6Uri	valido/uri.html#isIrc6Uri,string	proc isIrc6Uri(input: string): bool		405
+nim	isIrcsUri	valido/uri.html#isIrcsUri,string	proc isIrcsUri(input: string): bool		408
+nim	isLdapsUri	valido/uri.html#isLdapsUri,string	proc isLdapsUri(input: string): bool		411
+nim	isMongoDbUri	valido/uri.html#isMongoDbUri,string	proc isMongoDbUri(input: string): bool		421
+nim	isMarketUri	valido/uri.html#isMarketUri,string	proc isMarketUri(input: string): bool		445
+nim	isMessageUri	valido/uri.html#isMessageUri,string	proc isMessageUri(input: string): bool		465
+nim	isUri	valido/uri.html#isUri,string	proc isUri(input: string): bool		476
+nim	isUri	valido/uri.html#isUri,string,SchemeURI	proc isUri(input: string; scheme: SchemeURI): bool		508
+nim	isUrl	valido/uri.html#isUrl,string	proc isUrl(input: string): bool		516
+nimgrp	isuri	valido/uri.html#isUri-procs-all	proc		476

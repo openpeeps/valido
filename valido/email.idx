@@ -1,2 +1,2 @@
 nimTitle	email	valido/email.html	module valido/email		0
-nim	isEmail	valido/email.html#isEmail,string	proc isEmail(input: string; allowSpecialChars = false): bool		12
+nim	isEmail	valido/email.html#isEmail,string	proc isEmail(input: string; allowSpecialChars = false; allowIdn = false): bool		12

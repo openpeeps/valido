@@ -62,7 +62,7 @@
     <summary><a class="reference reference-toplevel" href="#12" id="62">Procs</a></summary>
     <ul class="simple simple-toc-section">
       <ul class="simple nested-toc-section">isEmail
-  <li><a class="reference" href="#isEmail%2Cstring" title="isEmail(input: string; allowSpecialChars = false): bool">isEmail(input: string; allowSpecialChars = false): bool</a></li>
+  <li><a class="reference" href="#isEmail%2Cstring" title="isEmail(input: string; allowSpecialChars = false; allowIdn = false): bool">isEmail(input: string; allowSpecialChars = false; allowIdn = false): bool</a></li>
 
 </ul>
 
@@ -89,14 +89,15 @@
   <dl class="item">
     <div id="isEmail-procs-all">
   <div id="isEmail,string">
-  <dt><pre><span class="Keyword">proc</span> <a href="#isEmail%2Cstring"><span class="Identifier">isEmail</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">;</span> <span class="Identifier">allowSpecialChars</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span>
-    <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dt><pre><span class="Keyword">proc</span> <a href="#isEmail%2Cstring"><span class="Identifier">isEmail</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">;</span> <span class="Identifier">allowSpecialChars</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">;</span> <span class="Identifier">allowIdn</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.
+    <span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
   <dd>
     
-    <p>Validates an email address with 0 regex. This filter is also based on <tt class="docutils literal"><span class="pre">isIPv4</span></tt>, <tt class="docutils literal"><span class="pre">isIPv6</span></tt>, and <tt class="docutils literal"><span class="pre">isTLD</span></tt>.</p>
+    <p>Validates an email address with 0 regex. This filter is also based on <tt class="docutils literal"><span class="pre">isIPv4</span></tt>, <tt class="docutils literal"><span class="pre">isIPv6</span></tt>, and <tt class="docutils literal"><span class="pre">isDomain</span></tt>.</p>
 <p>Basic char separators like <tt class="docutils literal"><span class="pre">{'.', '-', '_'}</span></tt> are by default allowed</p>
 <p>Set <tt class="docutils literal"><span class="pre">allowSpecialChars</span></tt> to allow email address with:</p>
 <p><pre class="listing"><span class="Punctuation">{</span><span class="CharLit">'!'</span><span class="Punctuation">,</span> <span class="CharLit">'#'</span><span class="Punctuation">,</span> <span class="CharLit">'$'</span><span class="Punctuation">,</span> <span class="CharLit">'%'</span><span class="Punctuation">,</span> <span class="CharLit">'&amp;'</span><span class="Punctuation">,</span> <span class="CharLit">'\''</span><span class="Punctuation">,</span> <span class="CharLit">'*'</span><span class="Punctuation">,</span> <span class="CharLit">'+'</span><span class="Punctuation">,</span> <span class="CharLit">'/'</span><span class="Punctuation">,</span> <span class="CharLit">'='</span><span class="Punctuation">,</span> <span class="CharLit">'?'</span><span class="Punctuation">,</span> <span class="CharLit">'^'</span><span class="Punctuation">,</span> <span class="CharLit">'{'</span><span class="Punctuation">,</span> <span class="CharLit">'|'</span><span class="Punctuation">,</span> <span class="CharLit">'}'</span><span class="Punctuation">,</span> <span class="CharLit">'~'</span></pre></p>
+<p>The domain name goes through <tt class="docutils literal"><span class="pre">isDomain</span></tt>, so an internationalized domain is accepted in Punycode form. Set <tt class="docutils literal"><span class="pre">allowIdn</span></tt> to also accept the Unicode form, as SMTPUTF8 (RFC 6531) allows.</p>
 
     
   </dd>
@@ -113,7 +114,7 @@
       <div class="twelve-columns footer">
         <span class="nim-sprite"></span>
         <br>
-        <small style="color: var(--hint);">Made with Nim. Generated: 2026-09-24 20:35:33 UTC</small>
+        <small style="color: var(--hint);">Made with Nim. Generated: 2026-10-12 21:44:49 UTC</small>
       </div>
     </div>
   </div>

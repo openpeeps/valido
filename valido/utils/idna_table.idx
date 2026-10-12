@@ -1,0 +1,25 @@
+nimTitle	idna_table	valido/utils/idna_table.html	module valido/utils/idna_table		0
+nim	idnaValid	valido/utils/idna_table.html#idnaValid	IdnaStatus.idnaValid		13
+nim	idnaIgnored	valido/utils/idna_table.html#idnaIgnored	IdnaStatus.idnaIgnored		13
+nim	idnaMapped	valido/utils/idna_table.html#idnaMapped	IdnaStatus.idnaMapped		13
+nim	idnaDeviation	valido/utils/idna_table.html#idnaDeviation	IdnaStatus.idnaDeviation		13
+nim	idnaDisallowed	valido/utils/idna_table.html#idnaDisallowed	IdnaStatus.idnaDisallowed		13
+nim	idnaStd3Valid	valido/utils/idna_table.html#idnaStd3Valid	IdnaStatus.idnaStd3Valid		13
+nim	idnaStd3Mapped	valido/utils/idna_table.html#idnaStd3Mapped	IdnaStatus.idnaStd3Mapped		13
+nim	IdnaStatus	valido/utils/idna_table.html#IdnaStatus	enum IdnaStatus		13
+nim	jtNone	valido/utils/idna_table.html#jtNone	JoiningType.jtNone		18
+nim	jtRight	valido/utils/idna_table.html#jtRight	JoiningType.jtRight		18
+nim	jtLeft	valido/utils/idna_table.html#jtLeft	JoiningType.jtLeft		18
+nim	jtDual	valido/utils/idna_table.html#jtDual	JoiningType.jtDual		18
+nim	jtCausing	valido/utils/idna_table.html#jtCausing	JoiningType.jtCausing		18
+nim	jtTransparent	valido/utils/idna_table.html#jtTransparent	JoiningType.jtTransparent		18
+nim	JoiningType	valido/utils/idna_table.html#JoiningType	enum JoiningType		18
+nim	idnaUnicodeVersion	valido/utils/idna_table.html#idnaUnicodeVersion	const idnaUnicodeVersion		24
+nim	idnaStatusCount	valido/utils/idna_table.html#idnaStatusCount	const idnaStatusCount		26
+nim	idnaStatusRanges	valido/utils/idna_table.html#idnaStatusRanges	const idnaStatusRanges		31
+nim	idnaMapLengths	valido/utils/idna_table.html#idnaMapLengths	const idnaMapLengths		1112
+nim	idnaMapBlob	valido/utils/idna_table.html#idnaMapBlob	const idnaMapBlob		1547
+nim	idnaBidiBracketCount	valido/utils/idna_table.html#idnaBidiBracketCount	const idnaBidiBracketCount		1734
+nim	idnaBidiBrackets	valido/utils/idna_table.html#idnaBidiBrackets	const idnaBidiBrackets		1738
+nim	idnaJoiningTypeCount	valido/utils/idna_table.html#idnaJoiningTypeCount	const idnaJoiningTypeCount		1871
+nim	idnaJoiningTypes	valido/utils/idna_table.html#idnaJoiningTypes	const idnaJoiningTypes		1875

@@ -62,7 +62,19 @@
     <summary><a class="reference reference-toplevel" href="#12" id="62">Procs</a></summary>
     <ul class="simple simple-toc-section">
       <ul class="simple nested-toc-section">isDomain
-  <li><a class="reference" href="#isDomain%2Cstring" title="isDomain(input: string): bool">isDomain(input: string): bool</a></li>
+  <li><a class="reference" href="#isDomain%2Cstring" title="isDomain(input: string; checkTld = true; transitional = false;
+         allowUnderscore = false; allowWildcard = false;
+         allowTrailingDot = false; strict = true): bool">isDomain(input: string; checkTld = true; transitional = false;
+         allowUnderscore = false; allowWildcard = false;
+         allowTrailingDot = false; strict = true): bool</a></li>
+
+</ul>
+<ul class="simple nested-toc-section">isSubDomain
+  <li><a class="reference" href="#isSubDomain%2Cstring" title="isSubDomain(input: string; checkTld = true; transitional = false;
+            allowUnderscore = false; allowWildcard = false;
+            allowTrailingDot = false; strict = true): bool">isSubDomain(input: string; checkTld = true; transitional = false;
+            allowUnderscore = false; allowWildcard = false;
+            allowTrailingDot = false; strict = true): bool</a></li>
 
 </ul>
 
@@ -81,7 +93,7 @@
     <div class="section" id="6">
   <h1><a class="toc-backref" href="#6">Imports</a></h1>
   <dl class="item">
-    <a class="reference external" href="utils/tlds.html">utils/tlds</a>
+    <a class="reference external" href="utils/idna.html">utils/idna</a>, <a class="reference external" href="utils/suffixes.html">utils/suffixes</a>, <a class="reference external" href="utils/tlds.html">utils/tlds</a>
   </dl>
 </div>
 <div class="section" id="12">
@@ -89,10 +101,49 @@
   <dl class="item">
     <div id="isDomain-procs-all">
   <div id="isDomain,string">
-  <dt><pre><span class="Keyword">proc</span> <a href="#isDomain%2Cstring"><span class="Identifier">isDomain</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dt><pre><span class="Keyword">proc</span> <a href="#isDomain%2Cstring"><span class="Identifier">isDomain</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">;</span> <span class="Identifier">checkTld</span> <span class="Other">=</span> <span class="Identifier">true</span><span class="Other">;</span> <span class="Identifier">transitional</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">;</span>
+              <span class="Identifier">allowUnderscore</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">;</span> <span class="Identifier">allowWildcard</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">;</span>
+              <span class="Identifier">allowTrailingDot</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">;</span> <span class="Identifier">strict</span> <span class="Other">=</span> <span class="Identifier">true</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span>
+    <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
   <dd>
     
-    Validates a domain name including Top-Level-Domain.
+    <p>Validates a domain name with its Top-Level Domain, that is a name made of exactly two labels such as <tt class="docutils literal"><span class="pre">example.com</span></tt>.</p>
+<p>The name is processed with UTS #46 (see <tt class="docutils literal"><span class="pre"><span class="Identifier">toAscii</span></span></tt>), so internationalized names are accepted in both Unicode and Punycode form:</p>
+<p><pre class="listing"><span class="Identifier">isDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;example.com&quot;</span><span class="Punctuation">)</span>      <span class="Comment"># true</span>
+<span class="Identifier">isDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;münchen.de&quot;</span><span class="Punctuation">)</span>       <span class="Comment"># true</span>
+<span class="Identifier">isDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;xn--mnchen-3ya.de&quot;</span><span class="Punctuation">)</span> <span class="Comment"># true</span>
+<span class="Identifier">isDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;sub.example.com&quot;</span><span class="Punctuation">)</span>  <span class="Comment"># false, see `isSubDomain`</span>
+<span class="Identifier">isDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;exam ple.com&quot;</span><span class="Punctuation">)</span>     <span class="Comment"># false</span>
+<span class="Identifier">isDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;example.invalid&quot;</span><span class="Punctuation">)</span>  <span class="Comment"># false</span></pre></p>
+<p>Set <tt class="docutils literal"><span class="pre"><span class="Identifier">checkTld</span></span></tt> to <tt class="docutils literal"><span class="pre"><span class="Identifier">false</span></span></tt> to accept any syntactically valid suffix, which is what you want for an internal network or a TLD that <tt class="docutils literal"><span class="pre"><span class="Identifier">GetTLDs</span></span></tt> does not know about. Set <tt class="docutils literal"><span class="pre"><span class="Identifier">allowUnderscore</span></span></tt> for service labels such as <tt class="docutils literal"><span class="pre">_dmarc.example.com</span></tt>, <tt class="docutils literal"><span class="pre"><span class="Identifier">allowWildcard</span></span></tt> to accept a leading <tt class="docutils literal"><span class="pre">*.</span></tt>, and <tt class="docutils literal"><span class="pre"><span class="Identifier">allowTrailingDot</span></span></tt> to accept a fully qualified name ending with a root dot.</p>
+<p>Set <tt class="docutils literal"><span class="pre"><span class="Identifier">transitional</span></span></tt> to apply the deprecated UTS #46 transitional processing, where <tt class="docutils literal"><span class="pre">ß</span></tt> maps to <tt class="docutils literal"><span class="pre">ss</span></tt> instead of being kept.</p>
+<p><tt class="docutils literal"><span class="pre"><span class="Identifier">strict</span></span></tt> decides how close to IDNA2008 the name has to be. On top of the contextual right-to-left and joiner rules of UTS #46, a strict check also rejects the code points that IDNA2008 excludes even though UTS #46 allows them, such as symbols and emoji:</p>
+<p><pre class="listing"><span class="Identifier">isDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;example.com&quot;</span><span class="Punctuation">)</span>     <span class="Comment"># true</span>
+<span class="Identifier">isDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;xn--ls8h.com&quot;</span><span class="Punctuation">)</span>    <span class="Comment"># false, an emoji label</span>
+<span class="Identifier">isDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;xn--ls8h.com&quot;</span><span class="Punctuation">,</span> <span class="Identifier">strict</span> <span class="Operator">=</span> <span class="Identifier">false</span><span class="Punctuation">)</span> <span class="Comment"># true, plain UTS #46</span></pre> Turning <tt class="docutils literal"><span class="pre"><span class="Identifier">strict</span></span></tt> off is cheaper, but admits names a browser or a registry would reject.</p>
+
+    
+  </dd>
+</div>
+
+</div>
+<div id="isSubDomain-procs-all">
+  <div id="isSubDomain,string">
+  <dt><pre><span class="Keyword">proc</span> <a href="#isSubDomain%2Cstring"><span class="Identifier">isSubDomain</span></a><span class="Other">(</span><span class="Identifier">input</span><span class="Other">:</span> <span class="Identifier">string</span><span class="Other">;</span> <span class="Identifier">checkTld</span> <span class="Other">=</span> <span class="Identifier">true</span><span class="Other">;</span> <span class="Identifier">transitional</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">;</span>
+                 <span class="Identifier">allowUnderscore</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">;</span> <span class="Identifier">allowWildcard</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">;</span>
+                 <span class="Identifier">allowTrailingDot</span> <span class="Other">=</span> <span class="Identifier">false</span><span class="Other">;</span> <span class="Identifier">strict</span> <span class="Other">=</span> <span class="Identifier">true</span><span class="Other">)</span><span class="Other">:</span> <span class="Identifier">bool</span> {.<span><span class="Other pragmadots">...</span></span><span class="pragmawrap"><span class="Identifier">raises</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span>
+    <span class="Identifier">tags</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span><span class="Other">,</span> <span class="Identifier">forbids</span><span class="Other">:</span> <span class="Other">[</span><span class="Other">]</span></span>.}</pre></dt>
+  <dd>
+    
+    <p>Validates a domain name that has a parent domain, that is a name made of three labels or more such as <tt class="docutils literal"><span class="pre">sub.example.com</span></tt>.</p>
+<p>Unlike <tt class="docutils literal"><span class="pre"><span class="Identifier">isDomain</span></span></tt> this also accepts the multi-label public suffixes that country code TLDs delegate to:</p>
+<p><pre class="listing"><span class="Identifier">isSubDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;sub.example.com&quot;</span><span class="Punctuation">)</span>  <span class="Comment"># true</span>
+<span class="Identifier">isSubDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;a.b.example.com&quot;</span><span class="Punctuation">)</span>   <span class="Comment"># true</span>
+<span class="Identifier">isSubDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;example.com&quot;</span><span class="Punctuation">)</span>       <span class="Comment"># false, see `isDomain`</span>
+<span class="Identifier">isSubDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;example.co.uk&quot;</span><span class="Punctuation">)</span>     <span class="Comment"># true</span>
+<span class="Identifier">isSubDomain</span><span class="Punctuation">(</span><span class="StringLit">&quot;münchen.example&quot;</span><span class="Punctuation">)</span>   <span class="Comment"># true</span></pre></p>
+<p>The flags work the same way as in <tt class="docutils literal"><span class="pre"><span class="Identifier">isDomain</span></span></tt>, with <tt class="docutils literal"><span class="pre"><span class="Identifier">allowUnderscore</span></span></tt> covering the whole name.</p>
+
     
   </dd>
 </div>
@@ -108,7 +159,7 @@
       <div class="twelve-columns footer">
         <span class="nim-sprite"></span>
         <br>
-        <small style="color: var(--hint);">Made with Nim. Generated: 2026-09-24 20:35:33 UTC</small>
+        <small style="color: var(--hint);">Made with Nim. Generated: 2026-10-12 21:44:49 UTC</small>
       </div>
     </div>
   </div>

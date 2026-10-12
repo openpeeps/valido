@@ -1,0 +1,17 @@
+nimTitle	idna	valido/utils/idna.html	module valido/utils/idna		0
+nim	AcePrefix	valido/utils/idna.html#AcePrefix	const AcePrefix		34
+nim	MaxLabelLength	valido/utils/idna.html#MaxLabelLength	const MaxLabelLength		36
+nim	MaxDomainLength	valido/utils/idna.html#MaxDomainLength	const MaxDomainLength		38
+nim	toNfc	valido/utils/idna.html#toNfc,string	proc toNfc(input: string): string		208
+nim	isNfc	valido/utils/idna.html#isNfc,string	proc isNfc(input: string): bool		238
+nim	punycodeEncode	valido/utils/idna.html#punycodeEncode,string	proc punycodeEncode(label: string): string		244
+nim	punycodeDecode	valido/utils/idna.html#punycodeDecode,string	proc punycodeDecode(label: string): string		253
+nim	isAce	valido/utils/idna.html#isAce,string	proc isAce(label: string): bool		265
+nim	idnaStatus	valido/utils/idna.html#idnaStatus,Rune	proc idnaStatus(cp: Rune): IdnaStatus		288
+nim	isExcludedByIdna2008	valido/utils/idna.html#isExcludedByIdna2008,Rune	proc isExcludedByIdna2008(cp: Rune): bool		295
+nim	idnaMapping	valido/utils/idna.html#idnaMapping,Rune	proc idnaMapping(cp: Rune): string		305
+nim	toUnicode	valido/utils/idna.html#toUnicode,string	proc toUnicode(input: string; transitional = false; checkHyphens = true;\n          checkBidi = true; checkJoiners = true; useStd3 = true): string		604
+nim	tryToUnicode	valido/utils/idna.html#tryToUnicode,string	proc tryToUnicode(input: string; transitional = false; checkHyphens = true;\n             checkBidi = true; checkJoiners = true; useStd3 = true): (string,\n    bool)		631
+nim	toAscii	valido/utils/idna.html#toAscii,string	proc toAscii(input: string; transitional = false; verifyDnsLength = true;\n        checkHyphens = true; checkBidi = true; checkJoiners = true;\n        useStd3 = true): string		645
+nim	tryToAscii	valido/utils/idna.html#tryToAscii,string	proc tryToAscii(input: string; transitional = false; verifyDnsLength = true;\n           checkHyphens = true; checkBidi = true; checkJoiners = true;\n           useStd3 = true): (string, bool)		684
+nim	isIdn	valido/utils/idna.html#isIdn,string	proc isIdn(input: string; transitional = false; verifyDnsLength = true;\n      checkHyphens = true; checkBidi = true; checkJoiners = true; useStd3 = true): bool		692
