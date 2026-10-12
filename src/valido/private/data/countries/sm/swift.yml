@@ -25,7 +25,7 @@
     
 - name: "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A."
   city: "SAN MARINO"
-  branch: CITTA'
+  branch: "CITTA'"
   swift: BASMSMS1001
     
 - name: "BANCA CENTRALE DELLA REPUBBLICA DI SAN MARINO"
@@ -130,7 +130,7 @@
     
 - name: "BANCA DI SAN MARINO SPA"
   city: "SAN MARINO"
-  branch: SUCCURSALE CITTA'
+  branch: "SUCCURSALE CITTA'"
   swift: MAOISMSM001
     
 - name: "BANCA DI SAN MARINO SPA"

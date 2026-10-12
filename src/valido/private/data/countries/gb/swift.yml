@@ -38265,7 +38265,7 @@
     
 - name: "HALIFAX PLC"
   city: "MILTON KEYNES"
-  branch: MILTON KEYNES MID ' MER BVD
+  branch: "MILTON KEYNES MID ' MER BVD"
   swift: HLFXGB21P15
     
 - name: "HALIFAX PLC"
@@ -38515,7 +38515,7 @@
     
 - name: "HALIFAX PLC"
   city: "NEWPORT"
-  branch: NEWPORT 37 COMM'CIAL ST
+  branch: "NEWPORT 37 COMM'CIAL ST"
   swift: HLFXGB21P82
     
 - name: "HALIFAX PLC"
@@ -79535,7 +79535,7 @@
     
 - name: "NATIONAL WESTMINSTER BANK PLC"
   city: "NORTHAMPTON"
-  branch: NORTHAMPTON, ST JAMES'
+  branch: "NORTHAMPTON, ST JAMES'"
   swift: NWBKGB2116Y
     
 - name: "NATIONAL WESTMINSTER BANK PLC"
@@ -89950,7 +89950,7 @@
     
 - name: "ROYAL BANK OF SCOTLAND PLC"
   city: "NEWCASTLE-UNDER-LYME"
-  branch: CCMS 'A'
+  branch: "CCMS 'A'"
   swift: RBOSGB2110B
     
 - name: "ROYAL BANK OF SCOTLAND PLC"

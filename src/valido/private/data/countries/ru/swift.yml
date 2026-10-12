@@ -1400,7 +1400,7 @@
     
 - name: "BANK URAL FD"
   city: "PERM"
-  branch: BANK 'URAL FD'
+  branch: "BANK 'URAL FD'"
   swift: JSCORU4PPRM
     
 - name: "BANK URAL FD"
@@ -4030,7 +4030,7 @@
     
 - name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"
   city: "ORYOL"
-  branch: 'ORLOVSKOE REGIONAL DEPARTMENT' OFFICE
+  branch: "'ORLOVSKOE REGIONAL DEPARTMENT' OFFICE"
   swift: MINNRUM1040
     
 - name: "JSCB 'MOSCOW INDUSTRIAL BANK' PC"

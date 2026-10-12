@@ -86,6 +86,40 @@ when defined(validoExtras):
     countrySources* = collect("info.yml")
     swiftSources* = collect("swift.yml")
 
+  proc countEntries(content: string): int =
+    ## Counts the `- name:` records of a flat sequence document. Runs at
+    ## runtime, where scanning a few megabytes is cheap; doing it while
+    ## collecting the sources would blow the compile-time evaluation budget.
+    ## Overcounting is harmless (it only selects a slower but equally correct
+    ## parse path), undercounting is what must not happen.
+    var i = 0
+    while true:
+      let j = content.find("- name: ", i)
+      if j < 0: break
+      if j == 0 or content[j - 1] == '\n': inc result
+      i = j + 1
+
+  proc parseEntries(content: string): seq[SwiftRecord] =
+    ## Parses a flat `- name:` sequence record by record, skipping the ones
+    ## that fail. Every entry in the reference files starts with `- name:` at
+    ## column zero and no entry spans such a line, so the split is safe.
+    var current = ""
+    for line in content.splitLines():
+      if line.startsWith("- ") and current.len > 0:
+        try:
+          let banks = parseYAML(current, seq[SwiftRecord])
+          if banks.len == 1:
+            result.add(banks[0])
+        except CatchableError: discard
+        current = ""
+      current.add(line & "\n")
+    if current.strip.len > 0:
+      try:
+        let banks = parseYAML(current, seq[SwiftRecord])
+        if banks.len == 1:
+          result.add(banks[0])
+      except CatchableError: discard
+
   var
     extras: Extras
     extrasReady = false
@@ -111,13 +145,22 @@ when defined(validoExtras):
       codes = initHashSet[string]()
 
     for source in swiftSources:
+      # A sequence stops at the first record the parser cannot map, silently
+      # returning the prefix. When that happens the file is reparsed record
+      # by record, so a single malformed entry costs one entry instead of the
+      # tens of thousands after it.
+      var entries: seq[SwiftRecord]
       try:
-        for bank in parseYAML(source.content, seq[SwiftRecord]):
-          if bank.swift.len == 0: continue
-          codes.incl(bank.swift)
-          if not banks.hasKey(bank.swift):
-            banks[bank.swift] = bank
-      except CatchableError: discard
+        entries = parseYAML(source.content, seq[SwiftRecord])
+        if entries.len < countEntries(source.content):
+          entries = parseEntries(source.content)
+      except CatchableError:
+        entries = parseEntries(source.content)
+      for bank in entries:
+        if bank.swift.len == 0: continue
+        codes.incl(bank.swift)
+        if not banks.hasKey(bank.swift):
+          banks[bank.swift] = bank
 
     extras = Extras(countries: countries, swiftBanks: banks, swiftCodes: codes)
     extrasReady = true

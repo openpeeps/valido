@@ -165,7 +165,7 @@
     
 - name: "JSIC BANK IPAK YULI"
   city: "SAMARKAND"
-  branch: REGIONAL BRANCH 'UMAR'
+  branch: "REGIONAL BRANCH 'UMAR'"
   swift: INIPUZ21UMA
     
 - name: "JSIC BANK IPAK YULI"
@@ -215,7 +215,7 @@
     
 - name: "JSIC BANK IPAK YULI"
   city: "YANGIYUL"
-  branch: YANGIYUL'
+  branch: "YANGIYUL'"
   swift: INIPUZ21YNG
     
 - name: "KAPITALBANK, JSCB"

@@ -1615,7 +1615,7 @@
     
 - name: "BANCA AGRICOLA POPOLARE DI RAGUSA"
   city: "PATERNO'"
-  branch: AGENZIA DI PATERNO'
+  branch: "AGENZIA DI PATERNO'"
   swift: POPRIT31054
     
 - name: "BANCA AGRICOLA POPOLARE DI RAGUSA"
@@ -1935,7 +1935,7 @@
     
 - name: "BANCA ALPI MARITTIME CREDITO COOPERATIVO CARRU'-SOC.COOP."
   city: "SAN MICHELE MONDOVI'"
-  branch: FILIALE DI SAN MICHELE MONDOVI'
+  branch: "FILIALE DI SAN MICHELE MONDOVI'"
   swift: ICRAITR1CIE
     
 - name: "BANCA ALPI MARITTIME CREDITO COOPERATIVO CARRU'-SOC.COOP."
@@ -1950,7 +1950,7 @@
     
 - name: "BANCA ALPI MARITTIME CREDITO COOPERATIVO CARRU'-SOC.COOP."
   city: "VILLANOVA MONDOVI'"
-  branch: FILIALE DI VILLANOVA MONDOVI'
+  branch: "FILIALE DI VILLANOVA MONDOVI'"
   swift: ICRAITR1CIG
     
 - name: "BANCA ALTA TOSCANA CREDITO COOPERATIVO S.C."
@@ -5020,7 +5020,7 @@
     
 - name: "BANCA ANTONVENETA SPA"
   city: "PADOVA"
-  branch: AG. NO 334 AG MONTA'
+  branch: "AG. NO 334 AG MONTA'"
   swift: ANTBIT21334
     
 - name: "BANCA ANTONVENETA SPA"
@@ -5060,7 +5060,7 @@
     
 - name: "BANCA ANTONVENETA SPA"
   city: "PADOVA"
-  branch: AG. NO 82 AG SS TRINITA'
+  branch: "AG. NO 82 AG SS TRINITA'"
   swift: ANTBIT21082
     
 - name: "BANCA ANTONVENETA SPA"
@@ -7815,7 +7815,7 @@
     
 - name: "BANCA CARIGE S.P.A."
   city: "FORLI'"
-  branch: FILIALE DI FORLI'
+  branch: "FILIALE DI FORLI'"
   swift: CRGEITG1635
     
 - name: "BANCA CARIGE S.P.A."
@@ -7905,7 +7905,7 @@
     
 - name: "BANCA CARIGE S.P.A."
   city: "LEINI'"
-  branch: FILIALE DI LEINI'
+  branch: "FILIALE DI LEINI'"
   swift: CRGEITG1751
     
 - name: "BANCA CARIGE S.P.A."
@@ -10180,7 +10180,7 @@
     
 - name: "BANCA CASSA DI RISPARMIO DI SAVIGLIANO S.P.A."
   city: "MONDOVI'"
-  branch: MONDOVI'
+  branch: "MONDOVI'"
   swift: SARCIT21044
     
 - name: "BANCA CASSA DI RISPARMIO DI SAVIGLIANO S.P.A."
@@ -11940,7 +11940,7 @@
     
 - name: "BANCA DELLA MARCA CREDITO COOPERATIVO SOCIETA' COOPERATIVA"
   city: "CONEGLIANO"
-  branch: FILIALE DI PARE'
+  branch: "FILIALE DI PARE'"
   swift: ICRAITR1U4Q
     
 - name: "BANCA DELLA MARCA CREDITO COOPERATIVO SOCIETA' COOPERATIVA"
@@ -14080,7 +14080,7 @@
     
 - name: "BANCA DI CREDITO COOPERATIVO DI CARATE BRIANZA S.C.A.R.L."
   city: "MUGGIO'"
-  branch: MUGGIO'
+  branch: "MUGGIO'"
   swift: CRCBIT21022
     
 - name: "BANCA DI CREDITO COOPERATIVO DI CARATE BRIANZA S.C.A.R.L."
@@ -17225,7 +17225,7 @@
     
 - name: "BANCA DI MONASTIER E DEL SILE CREDITO COOPERATIVO SOC. COOP."
   city: "MUSSETTA (SAN DONA' DI PIAVE)"
-  branch: FILIALE DI MUSSETTA DI S. DONA'
+  branch: "FILIALE DI MUSSETTA DI S. DONA'"
   swift: ICRAITR1TU4
     
 - name: "BANCA DI MONASTIER E DEL SILE CREDITO COOPERATIVO SOC. COOP."
@@ -17240,7 +17240,7 @@
     
 - name: "BANCA DI MONASTIER E DEL SILE CREDITO COOPERATIVO SOC. COOP."
   city: "PASSARELLA (SAN DONA' DI PIAVE)"
-  branch: FILIALE DI PASSARELLA DI SAN DONA'
+  branch: "FILIALE DI PASSARELLA DI SAN DONA'"
   swift: ICRAITR1TU5
     
 - name: "BANCA DI MONASTIER E DEL SILE CREDITO COOPERATIVO SOC. COOP."
@@ -19955,7 +19955,7 @@
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
   city: "ARGENTA"
-  branch: SAN NICOLO'
+  branch: "SAN NICOLO'"
   swift: PASCITM1754
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
@@ -25055,7 +25055,7 @@
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
   city: "MASERA' DI PADOVA"
-  branch: MASERA'
+  branch: "MASERA'"
   swift: PASCITM109E
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
@@ -28000,7 +28000,7 @@
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
   city: "PONTE SAN NICOLO'"
-  branch: RONCAGLIA DI PONTE SAN NICOLO'
+  branch: "RONCAGLIA DI PONTE SAN NICOLO'"
   swift: PASCITM1H01
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
@@ -29685,7 +29685,7 @@
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
   city: "ROSA'"
-  branch: ROSA'
+  branch: "ROSA'"
   swift: PASCITM128V
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
@@ -30265,7 +30265,7 @@
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
   city: "SAN PIETRO IN GU'"
-  branch: SAN PIETRO IN GU'
+  branch: "SAN PIETRO IN GU'"
   swift: PASCITM114V
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
@@ -30480,7 +30480,7 @@
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
   city: "SANTHIA'"
-  branch: SANTHIA'
+  branch: "SANTHIA'"
   swift: PASCITM1704
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
@@ -31235,7 +31235,7 @@
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
   city: "STRA'"
-  branch: STRA'
+  branch: "STRA'"
   swift: PASCITM127B
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
@@ -32645,7 +32645,7 @@
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
   city: "ZANE'"
-  branch: ZANE'
+  branch: "ZANE'"
   swift: PASCITM1799
     
 - name: "BANCA MONTE DEI PASCHI DI SIENA S.P.A."
@@ -35190,7 +35190,7 @@
     
 - name: "BANCA NAZIONALE DEL LAVORO S.P.A."
   city: "ROMA"
-  branch: AGENZIA IST.SUP. DI SANITA'
+  branch: "AGENZIA IST.SUP. DI SANITA'"
   swift: BNLIITR1BYZ
     
 - name: "BANCA NAZIONALE DEL LAVORO S.P.A."
@@ -37655,7 +37655,7 @@
     
 - name: "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK"
   city: "ROSA'"
-  branch: ROSA'
+  branch: "ROSA'"
   swift: BPAAIT2B170
     
 - name: "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK"
@@ -37745,7 +37745,7 @@
     
 - name: "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK"
   city: "SCHIO"
-  branch: SCHIO SS. TRINITA'
+  branch: "SCHIO SS. TRINITA'"
   swift: BPAAIT2B186
     
 - name: "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK"
@@ -37935,7 +37935,7 @@
     
 - name: "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK"
   city: "ZANE'"
-  branch: ZANE'
+  branch: "ZANE'"
   swift: BPAAIT2B181
     
 - name: "BANCA POPOLARE DELLE PROVINCE MOLISANE - SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA PER AZIONI"
@@ -38585,7 +38585,7 @@
     
 - name: "BANCA POPOLARE DI BARI"
   city: "FORLI'"
-  branch: FILIALE DI FORLI'
+  branch: "FILIALE DI FORLI'"
   swift: BPBAIT21383
     
 - name: "BANCA POPOLARE DI BARI"
@@ -39965,7 +39965,7 @@
     
 - name: "BANCA POPOLARE DI MILANO S.P.A."
   city: "BARZANO'"
-  branch: BARZANO'
+  branch: "BARZANO'"
   swift: BPMIITM1524
     
 - name: "BANCA POPOLARE DI MILANO S.P.A."
@@ -40290,7 +40290,7 @@
     
 - name: "BANCA POPOLARE DI MILANO S.P.A."
   city: "CANTU'"
-  branch: CANTU'
+  branch: "CANTU'"
   swift: BPMIITM1417
     
 - name: "BANCA POPOLARE DI MILANO S.P.A."
@@ -41745,7 +41745,7 @@
     
 - name: "BANCA POPOLARE DI MILANO S.P.A."
   city: "MUGGIO'"
-  branch: MUGGIO'
+  branch: "MUGGIO'"
   swift: BPMIITM1126
     
 - name: "BANCA POPOLARE DI MILANO S.P.A."
@@ -44750,7 +44750,7 @@
     
 - name: "BANCA POPOLARE DI SONDRIO"
   city: "SALO'"
-  branch: SALO'
+  branch: "SALO'"
   swift: POSOIT2109S
     
 - name: "BANCA POPOLARE DI SONDRIO"
@@ -46045,7 +46045,7 @@
     
 - name: "BANCA POPOLARE PUGLIESE"
   city: "LECCE"
-  branch: LECCE - AGENZIA VIALE UNIVERSITA'
+  branch: "LECCE - AGENZIA VIALE UNIVERSITA'"
   swift: BPPUIT31082
     
 - name: "BANCA POPOLARE PUGLIESE"
@@ -46105,7 +46105,7 @@
     
 - name: "BANCA POPOLARE PUGLIESE"
   city: "MATINO"
-  branch: MATINO - FILIALE 'SEI'
+  branch: "MATINO - FILIALE 'SEI'"
   swift: BPPUIT31006
     
 - name: "BANCA POPOLARE PUGLIESE"
@@ -46150,7 +46150,7 @@
     
 - name: "BANCA POPOLARE PUGLIESE"
   city: "NARDO'"
-  branch: NARDO'
+  branch: "NARDO'"
   swift: BPPUIT31044
     
 - name: "BANCA POPOLARE PUGLIESE"
@@ -46920,7 +46920,7 @@
     
 - name: "BANCA PROSSIMA S.P.A."
   city: "FORLI'"
-  branch: DC OP BACK OFFICE FORLI'
+  branch: "DC OP BACK OFFICE FORLI'"
   swift: BCITITMXK83
     
 - name: "BANCA PROSSIMA S.P.A."
@@ -47050,7 +47050,7 @@
     
 - name: "BANCA REGIONALE DI SVILUPPO S.P.A."
   city: "NOLA"
-  branch: FILIALE NOLA CITTA'
+  branch: "FILIALE NOLA CITTA'"
   swift: BSVIIT21016
     
 - name: "BANCA ROMAGNA COOPERATIVA CREDITO COOPERATIVO SOC.COOP."
@@ -47775,7 +47775,7 @@
     
 - name: "BANCA VERSILIA LUNIGIANA E GARFAGNANA CREDITO     COOPERATIVO"
   city: "PIETRASANTA"
-  branch: AGENZIA PIETRASANTA CITTA'
+  branch: "AGENZIA PIETRASANTA CITTA'"
   swift: ICRAITR1K6C
     
 - name: "BANCA VERSILIA LUNIGIANA E GARFAGNANA CREDITO     COOPERATIVO"
@@ -48160,7 +48160,7 @@
     
 - name: "BANCAPULIA SPA"
   city: "NARDO'"
-  branch: FILIALE DI NARDO'
+  branch: "FILIALE DI NARDO'"
   swift: APULIT31030
     
 - name: "BANCAPULIA SPA"
@@ -48825,7 +48825,7 @@
     
 - name: "BANCO BPM SPA"
   city: "BASCAPE'"
-  branch: BASCAPE'
+  branch: "BASCAPE'"
   swift: BAPPIT21M27
     
 - name: "BANCO BPM SPA"
@@ -48980,7 +48980,7 @@
     
 - name: "BANCO BPM SPA"
   city: "BIANZE'"
-  branch: BIANZE'
+  branch: "BIANZE'"
   swift: BAPPIT21802
     
 - name: "BANCO BPM SPA"
@@ -49620,7 +49620,7 @@
     
 - name: "BANCO BPM SPA"
   city: "CANICATTI'"
-  branch: CANICATTI'
+  branch: "CANICATTI'"
   swift: BAPPIT21P15
     
 - name: "BANCO BPM SPA"
@@ -49640,7 +49640,7 @@
     
 - name: "BANCO BPM SPA"
   city: "CANTU'"
-  branch: CANTU'
+  branch: "CANTU'"
   swift: BAPPIT21AR0
     
 - name: "BANCO BPM SPA"
@@ -50230,7 +50230,7 @@
     
 - name: "BANCO BPM SPA"
   city: "CAVAGLIA'"
-  branch: CAVAGLIA'
+  branch: "CAVAGLIA'"
   swift: BAPPIT21819
     
 - name: "BANCO BPM SPA"
@@ -50485,7 +50485,7 @@
     
 - name: "BANCO BPM SPA"
   city: "CIRIE'"
-  branch: CIRIE'
+  branch: "CIRIE'"
   swift: BAPPIT21350
     
 - name: "BANCO BPM SPA"
@@ -50870,7 +50870,7 @@
     
 - name: "BANCO BPM SPA"
   city: "CUORGNE'"
-  branch: CUORGNE'
+  branch: "CUORGNE'"
   swift: BAPPIT21C68
     
 - name: "BANCO BPM SPA"
@@ -51220,7 +51220,7 @@
     
 - name: "BANCO BPM SPA"
   city: "FORLI'"
-  branch: FORLI'
+  branch: "FORLI'"
   swift: BAPPIT21Q50
     
 - name: "BANCO BPM SPA"
@@ -51340,7 +51340,7 @@
     
 - name: "BANCO BPM SPA"
   city: "GAMBOLO'"
-  branch: GAMBOLO'
+  branch: "GAMBOLO'"
   swift: BAPPIT21512
     
 - name: "BANCO BPM SPA"
@@ -52370,7 +52370,7 @@
     
 - name: "BANCO BPM SPA"
   city: "MALE'"
-  branch: MALE'
+  branch: "MALE'"
   swift: BAPPIT21867
     
 - name: "BANCO BPM SPA"
@@ -53035,7 +53035,7 @@
     
 - name: "BANCO BPM SPA"
   city: "MONDOVI'"
-  branch: MONDOVI'
+  branch: "MONDOVI'"
   swift: BAPPIT21F70
     
 - name: "BANCO BPM SPA"
@@ -53235,7 +53235,7 @@
     
 - name: "BANCO BPM SPA"
   city: "MUGGIO'"
-  branch: MUGGIO'
+  branch: "MUGGIO'"
   swift: BAPPIT21AI3
     
 - name: "BANCO BPM SPA"
@@ -54605,7 +54605,7 @@
     
 - name: "BANCO BPM SPA"
   city: "ROCCAFORTE MONDOVI'"
-  branch: ROCCAFORTE MONDOVI'
+  branch: "ROCCAFORTE MONDOVI'"
   swift: BAPPIT21F73
     
 - name: "BANCO BPM SPA"
@@ -54900,7 +54900,7 @@
     
 - name: "BANCO BPM SPA"
   city: "RONCA'"
-  branch: RONCA'
+  branch: "RONCA'"
   swift: BAPPIT21071
     
 - name: "BANCO BPM SPA"
@@ -55040,7 +55040,7 @@
     
 - name: "BANCO BPM SPA"
   city: "SALO'"
-  branch: SALO'
+  branch: "SALO'"
   swift: BAPPIT21AV3
     
 - name: "BANCO BPM SPA"
@@ -55475,7 +55475,7 @@
     
 - name: "BANCO BPM SPA"
   city: "SANTHIA'"
-  branch: SANTHIA'
+  branch: "SANTHIA'"
   swift: BAPPIT21800
     
 - name: "BANCO BPM SPA"
@@ -55700,7 +55700,7 @@
     
 - name: "BANCO BPM SPA"
   city: "SERRA RICCO'"
-  branch: SERRA RICCO'
+  branch: "SERRA RICCO'"
   swift: BAPPIT21Q69
     
 - name: "BANCO BPM SPA"
@@ -55920,7 +55920,7 @@
     
 - name: "BANCO BPM SPA"
   city: "SORGA'"
-  branch: BONFERRARO DI SORGA'
+  branch: "BONFERRARO DI SORGA'"
   swift: BAPPIT21025
     
 - name: "BANCO BPM SPA"
@@ -57080,7 +57080,7 @@
     
 - name: "BANCO BPM SPA"
   city: "VILLA D'ALME'"
-  branch: VILLA D'ALME'
+  branch: "VILLA D'ALME'"
   swift: BAPPIT21AD9
     
 - name: "BANCO BPM SPA"
@@ -64785,7 +64785,7 @@
     
 - name: "CASSA DI RISPARMIO DEL VENETO S.P.A."
   city: "VILLORBA"
-  branch: VILLORBA - CARITA'
+  branch: "VILLORBA - CARITA'"
   swift: IBSPIT2P441
     
 - name: "CASSA DI RISPARMIO DEL VENETO S.P.A."
@@ -65025,7 +65025,7 @@
     
 - name: "CASSA DI RISPARMIO DI ASTI S.P.A."
   city: "CIRIE'"
-  branch: CIRIE'
+  branch: "CIRIE'"
   swift: CASRITA1130
     
 - name: "CASSA DI RISPARMIO DI ASTI S.P.A."
@@ -65150,7 +65150,7 @@
     
 - name: "CASSA DI RISPARMIO DI ASTI S.P.A."
   city: "MONDOVI'"
-  branch: MONDOVI'
+  branch: "MONDOVI'"
   swift: CASRITA1140
     
 - name: "CASSA DI RISPARMIO DI ASTI S.P.A."
@@ -65185,7 +65185,7 @@
     
 - name: "CASSA DI RISPARMIO DI ASTI S.P.A."
   city: "MUGGIO'"
-  branch: MUGGIO'
+  branch: "MUGGIO'"
   swift: CASRITA1124
     
 - name: "CASSA DI RISPARMIO DI ASTI S.P.A."
@@ -68395,7 +68395,7 @@
     
 - name: "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA"
   city: "BOLOGNA"
-  branch: FILIALE IMPRESE BOLOGNA CITTA'
+  branch: "FILIALE IMPRESE BOLOGNA CITTA'"
   swift: IBSPIT2BBOL
     
 - name: "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA"
@@ -69640,7 +69640,7 @@
     
 - name: "CASSA RURALE DON LORENZO GUETTI DI QUADRA FIAVE' LOMASO"
   city: "FIAVE'"
-  branch: FIAVE'
+  branch: "FIAVE'"
   swift: CCRTIT2T22A
     
 - name: "CASSA RURALE ED ARTIGIANA DEL FRIULI VENEZIA GIULIA"
@@ -70170,7 +70170,7 @@
     
 - name: "CASSA RURALE NOVELLA E ALTA ANAUNIA BCC"
   city: "REVO'"
-  branch: REVO'
+  branch: "REVO'"
   swift: CCRTIT2T54A
     
 - name: "CASSA RURALE ROTALIANA E GIOVO"
@@ -75520,7 +75520,7 @@
     
 - name: "CREDIT AGRICOLE FRIULADRIA SPA"
   city: "PORDENONE"
-  branch: PORDENONE - CENTRO COMMERCIALE 'MEDUNA'
+  branch: "PORDENONE - CENTRO COMMERCIALE 'MEDUNA'"
   swift: BPPNIT2P114
     
 - name: "CREDIT AGRICOLE FRIULADRIA SPA"
@@ -77420,7 +77420,7 @@
     
 - name: "CREDITO EMILIANO S.P.A."
   city: "SALO'"
-  branch: SALO'
+  branch: "SALO'"
   swift: BACRIT21176
     
 - name: "CREDITO EMILIANO S.P.A."
@@ -86145,7 +86145,7 @@
     
 - name: "INTESA SANPAOLO SPA"
   city: "CANTU'"
-  branch: FILIALE IMPRESE CANTU'
+  branch: "FILIALE IMPRESE CANTU'"
   swift: BCITITMMJ26
     
 - name: "INTESA SANPAOLO SPA"
@@ -86255,7 +86255,7 @@
     
 - name: "INTESA SANPAOLO SPA"
   city: "CIRIE'"
-  branch: FILIALE IMPRESE CIRIE'
+  branch: "FILIALE IMPRESE CIRIE'"
   swift: BCITITMMF44
     
 - name: "INTESA SANPAOLO SPA"
@@ -86665,7 +86665,7 @@
     
 - name: "INTESA SANPAOLO SPA"
   city: "MANSUE'"
-  branch: FILIALE IMPRESE MANSUE'
+  branch: "FILIALE IMPRESE MANSUE'"
   swift: BCITITMMV49
     
 - name: "INTESA SANPAOLO SPA"
@@ -86725,7 +86725,7 @@
     
 - name: "INTESA SANPAOLO SPA"
   city: "MESSINA"
-  branch: BRANCH 4 - VIA G.LONGO 2 ANG VIA BORZI'
+  branch: "BRANCH 4 - VIA G.LONGO 2 ANG VIA BORZI'"
   swift: BCITITM1263
     
 - name: "INTESA SANPAOLO SPA"
@@ -87365,7 +87365,7 @@
     
 - name: "INTESA SANPAOLO SPA"
   city: "MODENA"
-  branch: FILIALE IMPRESE MODENA UNIVERSITA'
+  branch: "FILIALE IMPRESE MODENA UNIVERSITA'"
   swift: BCITITMMV43
     
 - name: "INTESA SANPAOLO SPA"
@@ -87385,7 +87385,7 @@
     
 - name: "INTESA SANPAOLO SPA"
   city: "MONCALIERI"
-  branch: FILIALE IMPRESE MONCALIERI VADO'
+  branch: "FILIALE IMPRESE MONCALIERI VADO'"
   swift: BCITITMMB39
     
 - name: "INTESA SANPAOLO SPA"
@@ -88235,7 +88235,7 @@
     
 - name: "INTESA SANPAOLO SPA"
   city: "TERAMO"
-  branch: FILIALE IMPRESE TERAMO SAN NICOLO'
+  branch: "FILIALE IMPRESE TERAMO SAN NICOLO'"
   swift: BCITITMM383
     
 - name: "INTESA SANPAOLO SPA"
@@ -89990,7 +89990,7 @@
     
 - name: "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)"
   city: "RONCAGLIA (PONTE SAN NICOLO')"
-  branch: RONCAGLIA - PONTE SAN NICOLO'
+  branch: "RONCAGLIA - PONTE SAN NICOLO'"
   swift: BPVIIT21147
     
 - name: "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)"
@@ -90750,7 +90750,7 @@
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
   city: "BARZANO'"
-  branch: FILIALE DI BARZANO'
+  branch: "FILIALE DI BARZANO'"
   swift: VEBHIT21355
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
@@ -90850,7 +90850,7 @@
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
   city: "CANDELU' (MASERADA SUL PIAVE)"
-  branch: FILIALE DI CANDELU'
+  branch: "FILIALE DI CANDELU'"
   swift: VEBHIT21069
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
@@ -90865,7 +90865,7 @@
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
   city: "CANTU'"
-  branch: FILIALE DI CANTU'
+  branch: "FILIALE DI CANTU'"
   swift: VEBHIT21340
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
@@ -91130,7 +91130,7 @@
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
   city: "FORLI'"
-  branch: FORLI'
+  branch: "FORLI'"
   swift: VEBHIT21480
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
@@ -91315,7 +91315,7 @@
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
   city: "MANSUE'"
-  branch: FILIALE DI MANSUE'
+  branch: "FILIALE DI MANSUE'"
   swift: VEBHIT21080
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
@@ -91755,7 +91755,7 @@
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
   city: "ROSA'"
-  branch: FILIALE DI ROSA'
+  branch: "FILIALE DI ROSA'"
   swift: VEBHIT21124
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
@@ -91860,7 +91860,7 @@
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
   city: "SCORZE'"
-  branch: FILIALE DI SCORZE'
+  branch: "FILIALE DI SCORZE'"
   swift: VEBHIT21182
     
 - name: "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)"
@@ -94675,7 +94675,7 @@
     
 - name: "POSTE ITALIANE SPA"
   city: "ROMA"
-  branch: PATRIMONIO BANCOPOSTA PROPRIETA'
+  branch: "PATRIMONIO BANCOPOSTA PROPRIETA'"
   swift: BPPIIT21BPP
     
 - name: "POSTE ITALIANE SPA"
@@ -98645,7 +98645,7 @@
     
 - name: "UBI BANCA S.P.A."
   city: "CANTU'"
-  branch: FILIALE DI CANTU'
+  branch: "FILIALE DI CANTU'"
   swift: BLOPIT22960
     
 - name: "UBI BANCA S.P.A."
@@ -101785,7 +101785,7 @@
     
 - name: "UBI BANCA SPA"
   city: "CARRU'"
-  branch: FILIALE DI CARRU'
+  branch: "FILIALE DI CARRU'"
   swift: BLOPIT22450
     
 - name: "UBI BANCA SPA"
@@ -102940,7 +102940,7 @@
     
 - name: "UBI BANCA SPA"
   city: "MILANO"
-  branch: FILIALE DI MILANO MONTE DI PIETA'
+  branch: "FILIALE DI MILANO MONTE DI PIETA'"
   swift: BLOPIT22567
     
 - name: "UBI BANCA SPA"
@@ -103155,7 +103155,7 @@
     
 - name: "UBI BANCA SPA"
   city: "MONDOVI'"
-  branch: SEDE DI MONDOVI'
+  branch: "SEDE DI MONDOVI'"
   swift: BLOPIT22773
     
 - name: "UBI BANCA SPA"
@@ -103190,7 +103190,7 @@
     
 - name: "UBI BANCA SPA"
   city: "MONTA'"
-  branch: FILIALE DI MONTA'
+  branch: "FILIALE DI MONTA'"
   swift: BLOPIT22608
     
 - name: "UBI BANCA SPA"
@@ -103490,7 +103490,7 @@
     
 - name: "UBI BANCA SPA"
   city: "NARDO'"
-  branch: FILIALE DI NARDO'
+  branch: "FILIALE DI NARDO'"
   swift: BLOPIT22809
     
 - name: "UBI BANCA SPA"
@@ -104200,7 +104200,7 @@
     
 - name: "UBI BANCA SPA"
   city: "PONTE SAN NICOLO'"
-  branch: FILIALE DI PONTE SAN NICOLO'
+  branch: "FILIALE DI PONTE SAN NICOLO'"
   swift: BLOPIT22332
     
 - name: "UBI BANCA SPA"
@@ -104850,7 +104850,7 @@
     
 - name: "UBI BANCA SPA"
   city: "RONCADELLE"
-  branch: FILIALE DI RONCADELLE VIA MARTIRI LIBERTA'
+  branch: "FILIALE DI RONCADELLE VIA MARTIRI LIBERTA'"
   swift: BLOPIT22309
     
 - name: "UBI BANCA SPA"
@@ -105040,7 +105040,7 @@
     
 - name: "UBI BANCA SPA"
   city: "SAN MICHELE MONDOVI'"
-  branch: FILIALE DI SAN MICHELE MONDOVI'
+  branch: "FILIALE DI SAN MICHELE MONDOVI'"
   swift: BLOPIT22699
     
 - name: "UBI BANCA SPA"
@@ -105315,7 +105315,7 @@
     
 - name: "UBI BANCA SPA"
   city: "SIENA"
-  branch: FILIALE DI SIENA VIA DI CITTA'
+  branch: "FILIALE DI SIENA VIA DI CITTA'"
   swift: BLOPIT22C19
     
 - name: "UBI BANCA SPA"
@@ -105950,7 +105950,7 @@
     
 - name: "UBI BANCA SPA"
   city: "VIGGIU'"
-  branch: FILIALE DI VIGGIU'
+  branch: "FILIALE DI VIGGIU'"
   swift: BLOPIT22910
     
 - name: "UBI BANCA SPA"
@@ -105970,7 +105970,7 @@
     
 - name: "UBI BANCA SPA"
   city: "VILLA D'ALME'"
-  branch: FILIALE DI VILLA D'ALME'
+  branch: "FILIALE DI VILLA D'ALME'"
   swift: BLOPIT22052
     
 - name: "UBI BANCA SPA"
@@ -105995,7 +105995,7 @@
     
 - name: "UBI BANCA SPA"
   city: "VILLANOVA MONDOVI'"
-  branch: FILIALE DI VILLANOVA MONDOVI'
+  branch: "FILIALE DI VILLANOVA MONDOVI'"
   swift: BLOPIT22756
     
 - name: "UBI BANCA SPA"
@@ -106720,7 +106720,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)"
   city: "NARDO'"
-  branch: NARDO'
+  branch: "NARDO'"
   swift: CARMIT31308
     
 - name: "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)"
@@ -107820,7 +107820,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)"
   city: "MILANO"
-  branch: FIL. MILANO - MONTE DI PIETA'
+  branch: "FIL. MILANO - MONTE DI PIETA'"
   swift: POCIITM1A73
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)"
@@ -108495,7 +108495,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)"
   city: "FORLI'"
-  branch: FORLI'
+  branch: "FORLI'"
   swift: BPAMIT31514
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)"
@@ -109010,7 +109010,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)"
   city: "ALME'"
-  branch: ALME'
+  branch: "ALME'"
   swift: BEPOIT21120
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)"
@@ -109270,7 +109270,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)"
   city: "CANTU'"
-  branch: CANTU'
+  branch: "CANTU'"
   swift: BEPOIT21725
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)"
@@ -109865,7 +109865,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)"
   city: "MUGGIO'"
-  branch: MUGGIO'
+  branch: "MUGGIO'"
   swift: BEPOIT21153
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)"
@@ -110360,7 +110360,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)"
   city: "VIGGIU'"
-  branch: VIGGIU'
+  branch: "VIGGIU'"
   swift: BEPOIT21556
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)"
@@ -110370,7 +110370,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)"
   city: "VILLA D'ALME'"
-  branch: VILLA D'ALME'
+  branch: "VILLA D'ALME'"
   swift: BEPOIT21121
     
 - name: "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)"
@@ -110565,7 +110565,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)"
   city: "CARRU'"
-  branch: FILIALE DI CARRU'
+  branch: "FILIALE DI CARRU'"
   swift: BREUITM1165
     
 - name: "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)"
@@ -111180,7 +111180,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)"
   city: "VILLANOVA MONDOVI'"
-  branch: FILIALE DI VILLANOVA MONDOVI'
+  branch: "FILIALE DI VILLANOVA MONDOVI'"
   swift: BREUITM1168
     
 - name: "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)"
@@ -112210,7 +112210,7 @@
     
 - name: "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)"
   city: "PONTE SAN NICOLO'"
-  branch: PONTE SAN NICOLO'
+  branch: "PONTE SAN NICOLO'"
   swift: BCABIT21435
     
 - name: "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)"
@@ -112925,7 +112925,7 @@
     
 - name: "UNICREDIT SPA"
   city: "AGLIE'"
-  branch: AGLIE'
+  branch: "AGLIE'"
   swift: UNCRITM1CB4
     
 - name: "UNICREDIT SPA"
@@ -113140,7 +113140,7 @@
     
 - name: "UNICREDIT SPA"
   city: "ALME'"
-  branch: ALME'
+  branch: "ALME'"
   swift: UNCRITM1CA8
     
 - name: "UNICREDIT SPA"
@@ -113245,7 +113245,7 @@
     
 - name: "UNICREDIT SPA"
   city: "ANCONA"
-  branch: ANCONA UNIVERSITA'
+  branch: "ANCONA UNIVERSITA'"
   swift: UNCRITM1Q85
     
 - name: "UNICREDIT SPA"
@@ -113590,7 +113590,7 @@
     
 - name: "UNICREDIT SPA"
   city: "AVELLINO"
-  branch: AVELLINO LIBERTA'
+  branch: "AVELLINO LIBERTA'"
   swift: UNCRITM1E80
     
 - name: "UNICREDIT SPA"
@@ -113605,7 +113605,7 @@
     
 - name: "UNICREDIT SPA"
   city: "AVERSA"
-  branch: AVERSA LIBERTA'
+  branch: "AVERSA LIBERTA'"
   swift: UNCRITM1E02
     
 - name: "UNICREDIT SPA"
@@ -113935,7 +113935,7 @@
     
 - name: "UNICREDIT SPA"
   city: "BASELGA DI PINE'"
-  branch: BASELGA DI PINE'
+  branch: "BASELGA DI PINE'"
   swift: UNCRITM10BM
     
 - name: "UNICREDIT SPA"
@@ -115225,7 +115225,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CAMPI BISENZIO"
-  branch: CAMPI BISENZIO - C. COMM. 'I GIGLI'
+  branch: "CAMPI BISENZIO - C. COMM. 'I GIGLI'"
   swift: UNCRITM1F11
     
 - name: "UNICREDIT SPA"
@@ -115615,7 +115615,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CARRU'"
-  branch: CARRU'
+  branch: "CARRU'"
   swift: UNCRITM1CF8
     
 - name: "UNICREDIT SPA"
@@ -115705,7 +115705,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CASALGRANDE"
-  branch: CASALGRANDE MARTIRI DELLA LIBERTA'
+  branch: "CASALGRANDE MARTIRI DELLA LIBERTA'"
   swift: UNCRITM1419
     
 - name: "UNICREDIT SPA"
@@ -116065,7 +116065,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CASTELNUOVO DEL GARDA"
-  branch: CASTELNUOVO DEL GARDA LIBERTA'
+  branch: "CASTELNUOVO DEL GARDA LIBERTA'"
   swift: UNCRITM1D24
     
 - name: "UNICREDIT SPA"
@@ -116280,7 +116280,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CATANIA"
-  branch: CATANIA UNIVERSITA'
+  branch: "CATANIA UNIVERSITA'"
   swift: UNCRITM1L92
     
 - name: "UNICREDIT SPA"
@@ -116550,7 +116550,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CESARO'"
-  branch: CESARO'
+  branch: "CESARO'"
   swift: UNCRITM1H87
     
 - name: "UNICREDIT SPA"
@@ -116640,7 +116640,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CHIERI"
-  branch: CHIERI PALAZZO DI CITTA'
+  branch: "CHIERI PALAZZO DI CITTA'"
   swift: UNCRITM1CI2
     
 - name: "UNICREDIT SPA"
@@ -116730,7 +116730,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CINISELLO BALSAMO"
-  branch: CINISELLO BALSAMO LIBERTA'
+  branch: "CINISELLO BALSAMO LIBERTA'"
   swift: UNCRITM1254
     
 - name: "UNICREDIT SPA"
@@ -116740,12 +116740,12 @@
     
 - name: "UNICREDIT SPA"
   city: "CIRIE'"
-  branch: CIRIE' MARTIRI DELLA LIBERTA'
+  branch: "CIRIE' MARTIRI DELLA LIBERTA'"
   swift: UNCRITM1CI8
     
 - name: "UNICREDIT SPA"
   city: "CIRIE'"
-  branch: CIRIE'
+  branch: "CIRIE'"
   swift: UNCRITM109Y
     
 - name: "UNICREDIT SPA"
@@ -116850,7 +116850,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CODOGNE'"
-  branch: CODOGNE'
+  branch: "CODOGNE'"
   swift: UNCRITM1A26
     
 - name: "UNICREDIT SPA"
@@ -117210,7 +117210,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CREMONA"
-  branch: CREMONA LIBERTA'
+  branch: "CREMONA LIBERTA'"
   swift: UNCRITM1OU8
     
 - name: "UNICREDIT SPA"
@@ -117270,7 +117270,7 @@
     
 - name: "UNICREDIT SPA"
   city: "CUORGNE'"
-  branch: CUORGNE'
+  branch: "CUORGNE'"
   swift: UNCRITM1DB0
     
 - name: "UNICREDIT SPA"
@@ -117440,7 +117440,7 @@
     
 - name: "UNICREDIT SPA"
   city: "ERBE'"
-  branch: ERBE'
+  branch: "ERBE'"
   swift: UNCRITM1M20
     
 - name: "UNICREDIT SPA"
@@ -117985,7 +117985,7 @@
     
 - name: "UNICREDIT SPA"
   city: "FORLI'"
-  branch: ESTERO MERCI FORLI'
+  branch: "ESTERO MERCI FORLI'"
   swift: UNCRITMMFOE
     
 - name: "UNICREDIT SPA"
@@ -119155,7 +119155,7 @@
     
 - name: "UNICREDIT SPA"
   city: "LEINI'"
-  branch: LEINI'
+  branch: "LEINI'"
   swift: UNCRITM1DD6
     
 - name: "UNICREDIT SPA"
@@ -119280,7 +119280,7 @@
     
 - name: "UNICREDIT SPA"
   city: "LISSONE"
-  branch: LISSONE LIBERTA'
+  branch: "LISSONE LIBERTA'"
   swift: UNCRITM1D13
     
 - name: "UNICREDIT SPA"
@@ -119540,7 +119540,7 @@
     
 - name: "UNICREDIT SPA"
   city: "MAGRE' (SCHIO)"
-  branch: SCHIO MAGRE'
+  branch: "SCHIO MAGRE'"
   swift: UNCRITM1P21
     
 - name: "UNICREDIT SPA"
@@ -119560,7 +119560,7 @@
     
 - name: "UNICREDIT SPA"
   city: "MALE'"
-  branch: MALE'
+  branch: "MALE'"
   swift: UNCRITM10EN
     
 - name: "UNICREDIT SPA"
@@ -119670,7 +119670,7 @@
     
 - name: "UNICREDIT SPA"
   city: "MARCIANISE"
-  branch: MARCIANISE IL TARI'
+  branch: "MARCIANISE IL TARI'"
   swift: UNCRITM1NF1
     
 - name: "UNICREDIT SPA"
@@ -119890,7 +119890,7 @@
     
 - name: "UNICREDIT SPA"
   city: "MAZZE'"
-  branch: MAZZE'
+  branch: "MAZZE'"
   swift: UNCRITM1DE7
     
 - name: "UNICREDIT SPA"
@@ -120040,7 +120040,7 @@
     
 - name: "UNICREDIT SPA"
   city: "MESSINA"
-  branch: MESSINA LIBERTA'
+  branch: "MESSINA LIBERTA'"
   swift: UNCRITM1I27
     
 - name: "UNICREDIT SPA"
@@ -120215,7 +120215,7 @@
     
 - name: "UNICREDIT SPA"
   city: "MILANO"
-  branch: MILANO CATERINA DA FORLI'
+  branch: "MILANO CATERINA DA FORLI'"
   swift: UNCRITM1OT5
     
 - name: "UNICREDIT SPA"
@@ -120385,7 +120385,7 @@
     
 - name: "UNICREDIT SPA"
   city: "MILANO"
-  branch: MILANO MELOZZO DA FORLI'
+  branch: "MILANO MELOZZO DA FORLI'"
   swift: UNCRITM1MH9
     
 - name: "UNICREDIT SPA"
@@ -121300,7 +121300,7 @@
     
 - name: "UNICREDIT SPA"
   city: "MUGGIO'"
-  branch: MUGGIO'
+  branch: "MUGGIO'"
   swift: UNCRITM1266
     
 - name: "UNICREDIT SPA"
@@ -121350,7 +121350,7 @@
     
 - name: "UNICREDIT SPA"
   city: "NAPOLI"
-  branch: NAPOLI CARITA'
+  branch: "NAPOLI CARITA'"
   swift: UNCRITM1609
     
 - name: "UNICREDIT SPA"
@@ -121400,7 +121400,7 @@
     
 - name: "UNICREDIT SPA"
   city: "NAPOLI"
-  branch: NAPOLI DALI'
+  branch: "NAPOLI DALI'"
   swift: UNCRITM1F39
     
 - name: "UNICREDIT SPA"
@@ -121915,7 +121915,7 @@
     
 - name: "UNICREDIT SPA"
   city: "ONE' (FONTE)"
-  branch: FONTE ONE'
+  branch: "FONTE ONE'"
   swift: UNCRITM1A56
     
 - name: "UNICREDIT SPA"
@@ -122410,7 +122410,7 @@
     
 - name: "UNICREDIT SPA"
   city: "PALERMO"
-  branch: PALERMO PRINCIPE DI PATERNO'
+  branch: "PALERMO PRINCIPE DI PATERNO'"
   swift: UNCRITM1842
     
 - name: "UNICREDIT SPA"
@@ -122800,7 +122800,7 @@
     
 - name: "UNICREDIT SPA"
   city: "PERUGIA"
-  branch: PERUGIA UNIVERSITA'
+  branch: "PERUGIA UNIVERSITA'"
   swift: UNCRITM1J11
     
 - name: "UNICREDIT SPA"
@@ -123345,7 +123345,7 @@
     
 - name: "UNICREDIT SPA"
   city: "PONTE SAN NICOLO'"
-  branch: PONTE S.NICOLO'
+  branch: "PONTE S.NICOLO'"
   swift: UNCRITM1R06
     
 - name: "UNICREDIT SPA"
@@ -123490,7 +123490,7 @@
     
 - name: "UNICREDIT SPA"
   city: "PORTOGRUARO"
-  branch: PORTOGRUARO MARTIRI LIBERTA'
+  branch: "PORTOGRUARO MARTIRI LIBERTA'"
   swift: UNCRITM1US7
     
 - name: "UNICREDIT SPA"
@@ -123740,7 +123740,7 @@
     
 - name: "UNICREDIT SPA"
   city: "RAGUSA"
-  branch: RAGUSA VANN'ANTO'
+  branch: "RAGUSA VANN'ANTO'"
   swift: UNCRITM1L87
     
 - name: "UNICREDIT SPA"
@@ -123900,7 +123900,7 @@
     
 - name: "UNICREDIT SPA"
   city: "REGGIO NELL'EMILIA"
-  branch: REGGIO EMILIA CADE'
+  branch: "REGGIO EMILIA CADE'"
   swift: UNCRITM1469
     
 - name: "UNICREDIT SPA"
@@ -124505,7 +124505,7 @@
     
 - name: "UNICREDIT SPA"
   city: "ROMA"
-  branch: ROMA CESARE CANTU'
+  branch: "ROMA CESARE CANTU'"
   swift: UNCRITM1A59
     
 - name: "UNICREDIT SPA"
@@ -124625,7 +124625,7 @@
     
 - name: "UNICREDIT SPA"
   city: "ROMA"
-  branch: ROMA DESSI'
+  branch: "ROMA DESSI'"
   swift: UNCRITM1P68
     
 - name: "UNICREDIT SPA"
@@ -124950,7 +124950,7 @@
     
 - name: "UNICREDIT SPA"
   city: "ROMA"
-  branch: ROMA OSPEDALE BAMBIN GESU'
+  branch: "ROMA OSPEDALE BAMBIN GESU'"
   swift: UNCRITM1061
     
 - name: "UNICREDIT SPA"
@@ -125555,7 +125555,7 @@
     
 - name: "UNICREDIT SPA"
   city: "ROSA'"
-  branch: ROSA'
+  branch: "ROSA'"
   swift: UNCRITM1N55
     
 - name: "UNICREDIT SPA"
@@ -126200,7 +126200,7 @@
     
 - name: "UNICREDIT SPA"
   city: "SANDRA' (CASTELNUOVO DEL GARDA)"
-  branch: CASTELNUOVO DEL GARDA SANDRA'
+  branch: "CASTELNUOVO DEL GARDA SANDRA'"
   swift: UNCRITM1P11
     
 - name: "UNICREDIT SPA"
@@ -126435,7 +126435,7 @@
     
 - name: "UNICREDIT SPA"
   city: "SANTHIA'"
-  branch: SANTHIA'
+  branch: "SANTHIA'"
   swift: UNCRITM1EA8
     
 - name: "UNICREDIT SPA"
@@ -126500,7 +126500,7 @@
     
 - name: "UNICREDIT SPA"
   city: "SARONNO"
-  branch: SARONNO LIBERTA'
+  branch: "SARONNO LIBERTA'"
   swift: UNCRITM1370
     
 - name: "UNICREDIT SPA"
@@ -126720,7 +126720,7 @@
     
 - name: "UNICREDIT SPA"
   city: "SENORBI"
-  branch: SENORBI'
+  branch: "SENORBI'"
   swift: UNCRITM146N
     
 - name: "UNICREDIT SPA"
@@ -127315,7 +127315,7 @@
     
 - name: "UNICREDIT SPA"
   city: "TERAMO"
-  branch: TERAMO MARTIRI DELLA LIBERTA'
+  branch: "TERAMO MARTIRI DELLA LIBERTA'"
   swift: UNCRITM1775
     
 - name: "UNICREDIT SPA"
@@ -127975,7 +127975,7 @@
     
 - name: "UNICREDIT SPA"
   city: "TORTOLI'"
-  branch: TORTOLI'
+  branch: "TORTOLI'"
   swift: UNCRITM1772
     
 - name: "UNICREDIT SPA"
@@ -128435,7 +128435,7 @@
     
 - name: "UNICREDIT SPA"
   city: "UDINE"
-  branch: UDINE VOLONTARI LIBERTA'
+  branch: "UDINE VOLONTARI LIBERTA'"
   swift: UNCRITM1UM1
     
 - name: "UNICREDIT SPA"
@@ -129375,7 +129375,7 @@
     
 - name: "UNICREDIT SPA"
   city: "ZANE'"
-  branch: ZANE'
+  branch: "ZANE'"
   swift: UNCRITM1N88
     
 - name: "UNICREDIT SPA"
