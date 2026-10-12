@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.1.3"
+version       = "0.1.4"
 author        = "George Lemon"
 description   = "A library of string validators and sanitizers."
 license       = "MIT"
