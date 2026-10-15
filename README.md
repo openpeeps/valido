@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://github.com/openpeeps/valido/blob/main/.github/logo.png" width="64px"><br>
-  A library of string validators and sanitizers.<br>👑 Written in Nim language
+  A library of string validators.<br>👑 Written in Nim language
 </p>
 
 <p align="center">
-  <code>nimble install valido</code>
+  <code>nimble install valido</code> / <code>clue install valido</code>
 </p>
 
 <p align="center">
