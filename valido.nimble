@@ -2,7 +2,7 @@
 
 version       = "0.1.4"
 author        = "George Lemon"
-description   = "A library of string validators and sanitizers."
+description   = "A library of string validators"
 license       = "MIT"
 srcDir        = "src"
 
